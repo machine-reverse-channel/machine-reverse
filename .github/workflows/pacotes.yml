@@ -1,0 +1,75 @@
+name: pacotes
+# One GitHub Release per video (full mp4 + Shorts + subtitles + copy-paste texts),
+# so the videos can be downloaded and scheduled in YouTube Studio.
+on:
+  push:
+    paths: [agendamento/pacotes.txt, .github/workflows/pacotes.yml]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  list:
+    runs-on: ubuntu-latest
+    outputs:
+      videos: ${{ steps.l.outputs.videos }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: l
+        run: echo "videos=$(python3 -c 'import json;print(json.dumps(open("agendamento/pacotes.txt").read().split()))')" >> $GITHUB_OUTPUT
+  pacote:
+    needs: list
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 6
+      matrix:
+        n: ${{ fromJson(needs.list.outputs.videos) }}
+    env:
+      N: ${{ matrix.n }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Skip if the release already exists
+        id: chk
+        run: gh release view video$N >/dev/null 2>&1 && echo skip=1 >> $GITHUB_OUTPUT || true
+      - name: Join the video parts
+        if: steps.chk.outputs.skip != '1'
+        run: |
+          git fetch -q --depth 1 origin deliveries-video$N
+          mkdir -p /tmp/p && git --work-tree=/tmp/p checkout FETCH_HEAD -- deliveries
+          D=/tmp/p/deliveries/video$N; mkdir -p /tmp/r
+          cat $D/parts/video$N.mp4.part* > /tmp/r/video$N.mp4
+          cp $D/captions.srt /tmp/r/captions.srt
+          cp $D/shorts/short*.mp4 /tmp/r/ 2>/dev/null || true
+          ls -la /tmp/r
+      - name: Copy-paste texts
+        env:
+          EBOOK_URL: ${{ vars.EBOOK_URL }}
+        run: |
+          mkdir -p /tmp/r
+          python3 - <<'PY'
+          import json, os
+          n = os.environ["N"]; m = json.load(open(f"agendamento/meta/video{n}.json"))
+          link = os.environ.get("EBOOK_URL") or "[LINK HERE]"
+          m["description"] = m["description"].replace("[LINK HERE]", link)
+          for x in m["shorts"]: x["description"] = x["description"].replace("[LINK HERE]", link)
+          t = [f"TITLE:\n{m['title']}\n", f"DESCRIPTION:\n{m['description']}\n", "TAGS:\n" + ", ".join(m["tags"]) + "\n"]
+          for s in m["shorts"]:
+              t.append(f"--- {s['file']} ---\nTITLE: {s['title']}\nDESCRIPTION: {s['description']}\n")
+          open("/tmp/r/textos.txt", "w").write("\n".join(t))
+          PY
+      - name: Refresh the texts on an existing release
+        if: steps.chk.outputs.skip == '1'
+        run: gh release upload video$N /tmp/r/textos.txt --clobber || { sleep 10; gh release upload video$N /tmp/r/textos.txt --clobber; }
+      - name: Create the release
+        if: steps.chk.outputs.skip != '1'
+        run: |
+          T=$(python3 -c "import json;print(json.load(open('agendamento/meta/video$N.json'))['title'])")
+          gh release create video$N /tmp/r/* --target "$GITHUB_SHA" --title "v$N: $T" --notes "Pacote para agendar no YouTube: video$N.mp4 (longo), short*.mp4, captions.srt e textos.txt (título, descrição e textos dos Shorts)."
+      - name: Attach the thumbnail
+        run: |
+          if [ -f agendamento/thumbs/video$N.jpg ]; then
+            cp agendamento/thumbs/video$N.jpg /tmp/thumbnail.jpg
+            gh release upload video$N /tmp/thumbnail.jpg --clobber || { sleep 10; gh release upload video$N /tmp/thumbnail.jpg --clobber; }
+          fi
+          gh release delete-asset video$N video$N.jpg -y || true

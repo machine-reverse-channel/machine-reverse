@@ -1,0 +1,51 @@
+name: render
+on:
+  workflow_dispatch:
+    inputs:
+      video:
+        description: "folder name under videos/"
+        required: true
+        default: test30
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install tools
+        run: |
+          sudo apt-get update -y && sudo apt-get install -y ffmpeg fonts-dejavu-core
+          pip install piper-tts requests pillow
+          mkdir -p voices && cd voices
+          B=https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/ryan/high
+          curl -sSLO $B/en_US-ryan-high.onnx && curl -sSLO $B/en_US-ryan-high.onnx.json
+      - name: Fetch real photos (Wikimedia Commons)
+        run: python pipeline/fetch_media.py "${{ inputs.video }}"
+      - name: Render
+        run: python pipeline/build.py "${{ inputs.video }}"
+      - name: Cut 5 vertical Shorts
+        run: python pipeline/shorts.py "${{ inputs.video }}"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ inputs.video }}
+          path: |
+            videos/${{ inputs.video }}/out/${{ inputs.video }}.mp4
+            videos/${{ inputs.video }}/out/preview.mp4
+            videos/${{ inputs.video }}/out/captions.srt
+            videos/${{ inputs.video }}/credits.json
+            videos/${{ inputs.video }}/out/chapters.txt
+            videos/${{ inputs.video }}/out/shorts/*.mp4
+            videos/${{ inputs.video }}/out/shorts/shorts.md
+      - name: Publish to the deliveries branch (video split in parts under 90 MB)
+        run: |
+          V="${{ inputs.video }}"
+          mkdir -p /tmp/out/media /tmp/out/parts
+          cp videos/$V/out/preview.mp4 videos/$V/out/captions.srt videos/$V/out/chapters.txt videos/$V/out/frame*.jpg videos/$V/credits.json /tmp/out/
+          cp videos/$V/media/*.jpg /tmp/out/media/
+          mkdir -p /tmp/out/shorts && cp videos/$V/out/shorts/*.mp4 videos/$V/out/shorts/shorts.md /tmp/out/shorts/
+          split -b 90M -d -a 2 videos/$V/out/$V.mp4 /tmp/out/parts/$V.mp4.part
+          git config user.name "render-bot" && git config user.email "render-bot@users.noreply.github.com"
+          git checkout --orphan deliveries-new && git rm -rf -q . && mkdir -p deliveries/$V && cp -r /tmp/out/* deliveries/$V/
+          git add -f deliveries && git commit -q -m "deliver $V" && git push -f origin deliveries-new:deliveries-$V

@@ -1,0 +1,36 @@
+name: youtube
+# Uploads the next videos of agendamento/calendar.json as private + scheduled (publishAt).
+# Runs daily after the YouTube quota resets (midnight Pacific, 07:00 UTC).
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "check (test the credentials), upload (calendar) or lote (long videos 01-10 only)"
+        required: true
+        default: check
+  schedule:
+    - cron: "15 9 * * *"
+permissions:
+  contents: write
+concurrency: youtube
+jobs:
+  youtube:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    env:
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      EBOOK_URL: ${{ vars.EBOOK_URL }}
+      YT_BUDGET: ${{ vars.YT_BUDGET }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q requests
+      - run: python pipeline/yt_upload.py ${{ inputs.mode || 'upload' }}
+      - name: Save what was uploaded
+        if: always()
+        run: |
+          git config user.name "upload-bot" && git config user.email "upload-bot@users.noreply.github.com"
+          git add agendamento/youtube-state.json 2>/dev/null || exit 0
+          git diff --cached --quiet || (git commit -qm "youtube: upload state" && git push)

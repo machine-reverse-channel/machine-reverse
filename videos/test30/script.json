@@ -1,0 +1,21 @@
+{
+ "id": "test30",
+ "title": "Machine Reverse test",
+ "length_scale": 1.5,
+ "scenes": [
+  {
+   "text": "Why is there a tiny hole in your airplane window? It looks like a mistake, but it is keeping the window working. An airplane window is not one pane. It is three. The inner one is just a scratch guard. The middle and outer panes are the real window. The tiny hole, called a breather hole or bleed hole, is in the middle pane. It lets the air pressure between the panes match the cabin, so during the flight, the cabin pressure pushes only on the outer pane. The middle pane carries almost nothing. It is a spare, waiting in case the outer one ever fails.",
+   "query": "airplane cabin window breather hole",
+   "caption": "WHY IS THERE A HOLE HERE?",
+   "arrow": true,
+   "chapter": "1. The hole in your window",
+   "short": "Why Is There a Hole in Airplane Windows?",
+   "cuts": 3
+  },
+  {
+   "text": "Think about what that means. At cruise, the air outside is thin and cold, and the cabin is pressurized so that you can breathe normally. That difference in pressure pushes outward on every window, every flight, thousands of times over the life of the airplane. By loading only one pane and keeping a second one in reserve, the designers built a backup that is always there and never tired. If the outer pane cracks, the middle pane takes over.",
+   "query": "aircraft cabin window",
+   "caption": "THE OUTER PANE DOES THE WORK"
+  }
+ ]
+}

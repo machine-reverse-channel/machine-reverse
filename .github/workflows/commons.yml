@@ -1,0 +1,24 @@
+name: commons
+# Coverage check: how many usable Wikimedia Commons photos each query finds, with previews.
+# Input: a text file in the repo with one query per line. Output: branch commons-<name>.
+on:
+  workflow_dispatch:
+    inputs:
+      list:
+        description: "path to the query list, e.g. pesquisa/coverage.txt"
+        required: true
+permissions:
+  contents: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q requests
+      - run: python pipeline/commons_check.py "${{ inputs.list }}" /tmp/rep
+      - name: Publish the report
+        run: |
+          N=$(basename "${{ inputs.list }}" .txt)
+          git config user.name "render-bot" && git config user.email "render-bot@users.noreply.github.com"
+          git checkout --orphan rep && git rm -rf -q . && mkdir -p commons/$N && cp -r /tmp/rep/* commons/$N/
+          git add -f commons && git commit -q -m "commons report $N" && git push -f origin rep:commons-$N

@@ -1,0 +1,34 @@
+name: media
+# Step 1 of a video: download its photos and publish small previews to branch media-videoNN,
+# so the arrow positions can be checked and fixed in script.json before the 55-minute render.
+on:
+  workflow_dispatch:
+    inputs:
+      video:
+        description: "folder name under videos/"
+        required: true
+permissions:
+  contents: write
+jobs:
+  media:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q requests pillow
+      - run: python pipeline/fetch_media.py "${{ inputs.video }}"
+      - name: Publish previews
+        run: |
+          V="${{ inputs.video }}"
+          mkdir -p /tmp/m
+          python3 - "$V" <<'PY'
+          import pathlib, sys
+          from PIL import Image, ImageOps
+          v = sys.argv[1]
+          for f in sorted(pathlib.Path(f"videos/{v}/media").glob("*.jpg")):
+              im = ImageOps.fit(Image.open(f).convert("RGB"), (960, 540))  # same 16:9 crop as the render
+              im.save(f"/tmp/m/{f.name}", quality=80)
+          PY
+          cp videos/$V/credits.json /tmp/m/
+          git config user.name "render-bot" && git config user.email "render-bot@users.noreply.github.com"
+          git checkout --orphan med && git rm -rf -q . && mkdir -p media/$V && cp -r /tmp/m/* media/$V/
+          git add -f media && git commit -q -m "media $V" && git push -f origin med:media-$V
