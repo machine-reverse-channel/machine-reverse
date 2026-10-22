@@ -1,5 +1,8 @@
 name: render
 on:
+  push:
+    branches: [machine-reverse]
+    paths: [jobs/render.txt]
   workflow_dispatch:
     inputs:
       video:
@@ -14,6 +17,8 @@ jobs:
     timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
+      - name: Which job
+        run: echo "JOB=${{ inputs.video || '' }}" >> $GITHUB_ENV && [ -n "${{ inputs.video }}" ] || echo "JOB=$(head -1 jobs/render.txt | tr -d '[:space:]')" >> $GITHUB_ENV
       - name: Install tools
         run: |
           sudo apt-get update -y && sudo apt-get install -y ffmpeg fonts-dejavu-core
@@ -22,25 +27,25 @@ jobs:
           B=https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/ryan/high
           curl -sSLO $B/en_US-ryan-high.onnx && curl -sSLO $B/en_US-ryan-high.onnx.json
       - name: Fetch real photos (Wikimedia Commons)
-        run: python pipeline/fetch_media.py "${{ inputs.video }}"
+        run: python pipeline/fetch_media.py "$JOB"
       - name: Render
-        run: python pipeline/build.py "${{ inputs.video }}"
+        run: python pipeline/build.py "$JOB"
       - name: Cut 5 vertical Shorts
-        run: python pipeline/shorts.py "${{ inputs.video }}"
+        run: python pipeline/shorts.py "$JOB"
       - uses: actions/upload-artifact@v4
         with:
-          name: ${{ inputs.video }}
+          name: ${{ env.JOB }}
           path: |
-            videos/${{ inputs.video }}/out/${{ inputs.video }}.mp4
-            videos/${{ inputs.video }}/out/preview.mp4
-            videos/${{ inputs.video }}/out/captions.srt
-            videos/${{ inputs.video }}/credits.json
-            videos/${{ inputs.video }}/out/chapters.txt
-            videos/${{ inputs.video }}/out/shorts/*.mp4
-            videos/${{ inputs.video }}/out/shorts/shorts.md
+            videos/${{ env.JOB }}/out/${{ env.JOB }}.mp4
+            videos/${{ env.JOB }}/out/preview.mp4
+            videos/${{ env.JOB }}/out/captions.srt
+            videos/${{ env.JOB }}/credits.json
+            videos/${{ env.JOB }}/out/chapters.txt
+            videos/${{ env.JOB }}/out/shorts/*.mp4
+            videos/${{ env.JOB }}/out/shorts/shorts.md
       - name: Publish to the deliveries branch (video split in parts under 90 MB)
         run: |
-          V="${{ inputs.video }}"
+          V="$JOB"
           mkdir -p /tmp/out/media /tmp/out/parts
           cp videos/$V/out/preview.mp4 videos/$V/out/captions.srt videos/$V/out/chapters.txt videos/$V/out/frame*.jpg videos/$V/credits.json /tmp/out/
           cp videos/$V/media/*.jpg /tmp/out/media/

@@ -2,6 +2,9 @@ name: commons
 # Coverage check: how many usable Wikimedia Commons photos each query finds, with previews.
 # Input: a text file in the repo with one query per line. Output: branch commons-<name>.
 on:
+  push:
+    branches: [machine-reverse]
+    paths: [jobs/commons.txt]
   workflow_dispatch:
     inputs:
       list:
@@ -14,11 +17,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Which job
+        run: echo "JOB=${{ inputs.list || '' }}" >> $GITHUB_ENV && [ -n "${{ inputs.list }}" ] || echo "JOB=$(head -1 jobs/commons.txt | tr -d '[:space:]')" >> $GITHUB_ENV
       - run: pip install -q requests
-      - run: python pipeline/commons_check.py "${{ inputs.list }}" /tmp/rep
+      - run: python pipeline/commons_check.py "$JOB" /tmp/rep
       - name: Publish the report
         run: |
-          N=$(basename "${{ inputs.list }}" .txt)
+          N=$(basename "$JOB" .txt)
           git config user.name "render-bot" && git config user.email "render-bot@users.noreply.github.com"
           git checkout --orphan rep && git rm -rf -q . && mkdir -p commons/$N && cp -r /tmp/rep/* commons/$N/
           git add -f commons && git commit -q -m "commons report $N" && git push -f origin rep:commons-$N

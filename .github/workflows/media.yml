@@ -2,6 +2,9 @@ name: media
 # Step 1 of a video: download its photos and publish small previews to branch media-videoNN,
 # so the arrow positions can be checked and fixed in script.json before the 55-minute render.
 on:
+  push:
+    branches: [machine-reverse]
+    paths: [jobs/media.txt]
   workflow_dispatch:
     inputs:
       video:
@@ -14,11 +17,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Which job
+        run: echo "JOB=${{ inputs.video || '' }}" >> $GITHUB_ENV && [ -n "${{ inputs.video }}" ] || echo "JOB=$(head -1 jobs/media.txt | tr -d '[:space:]')" >> $GITHUB_ENV
       - run: pip install -q requests pillow
-      - run: python pipeline/fetch_media.py "${{ inputs.video }}"
+      - run: python pipeline/fetch_media.py "$JOB"
       - name: Publish previews
         run: |
-          V="${{ inputs.video }}"
+          V="$JOB"
           mkdir -p /tmp/m
           python3 - "$V" <<'PY'
           import pathlib, sys
