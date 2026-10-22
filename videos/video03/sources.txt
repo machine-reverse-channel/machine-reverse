@@ -1,0 +1,10 @@
+- GE9X fan diameter, bypass ratio, thrust record, composite blades, CMC parts, fuel burn: GE Aerospace, "GE9X" https://www.geaerospace.com/commercial/engines/ge9x
+- Bypass air share of thrust: Flying Magazine, "How It Works: Turbofan Engine" https://www.flyingmag.com/how-it-works-turbofan-engine
+- Acoustic liners: Wikipedia, "Acoustic liner" https://en.wikipedia.org/wiki/Acoustic_liner
+- Blade-off containment (14 CFR 33.94, CS-E): Wikipedia, "Blade off testing" https://en.wikipedia.org/wiki/Blade_off_testing
+- Bird ingestion requirements: 14 CFR 33.76 (eCFR) https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-33/subpart-E/section-33.76 ; Airways Magazine, "Testing jet engines: bird strike" https://airwaysmag.com/new-post/testing-jet-engines-bird-strike
+- Turbine temperatures, film cooling, thermal barrier coatings: The Naked Scientists, "How do you stop a jet engine melting?" https://www.thenakedscientists.com/node/173794
+- Single crystal blades: Foundry Trade Journal, "Flying High: the sky's the limit for single crystal technology" https://www.foundrytradejournal.com/features/flying-high-the-skys-the-limit-for-single-crystal-technology
+- Thrust reversers and Lauda Air 004: Pilot Institute, "Thrust Reversal Explained" https://pilotinstitute.com/thrust-reversal/
+- Bleed air and 787 no-bleed architecture, generators: PlaneFYI, "No-Bleed Electrical Architecture" https://planefyi.com/systems/no-bleed-architecture/
+- El Al 1862 and fuse pins: Wikipedia, "El Al Flight 1862" (citing the Netherlands Aviation Safety Board) https://en.wikipedia.org/wiki/El_Al_Flight_1862
