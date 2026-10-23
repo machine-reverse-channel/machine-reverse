@@ -131,16 +131,16 @@ sc("""A maglev looks like science fiction, but every part of it solves a very re
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
     1: ("File:Transrapid 09.jpg", 0.45, 0.48),
-    2: ("File:Transrapid 07 in Lathen 2020.jpg", 0.55, 0.52),
+    2: ("File:Transrapid 07 in Lathen 2020.jpg", 0.55, 0.68),
     3: ("File:The Rail of Linimo.jpg", 0.6, 0.5),
     4: ("File:JR Maglev-Model-truck.JPG", 0.5, 0.5),
-    5: ("File:Series L0.JPG", 0.75, 0.85),
-    6: ("File:JR Maglev-Guide.png", 0.82, 0.45),
+    5: ("File:Series L0.JPG", 0.62, 0.75),
+    6: ("File:JR Maglev-Guide.png", 0.86, 0.68),
     7: ("File:Transrapid01wissel.jpg", 0.5, 0.3),
     8: ("File:1999 Transrapid Test Facility Emsland 03.jpg", 0.5, 0.4),
     9: ("File:Chuo Shinkansen construction at Shinagawa Station, August 2024.jpg", 0.5, 0.6),
     10: ("File:Transrapid 07 in Lathen (2023).jpg", 0.5, 0.5),
-    11: ("File:SC Maglev Test Ride (18278623709).jpg", 0.4, 0.6),
+    11: ("File:SC Maglev Test Ride (18278623709).jpg", 0.2, 0.4),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None

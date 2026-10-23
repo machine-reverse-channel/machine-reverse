@@ -49,7 +49,7 @@
    "caption": "WHY IS THIS GAP ONLY 10 MILLIMETERS?",
    "arrow": {
     "x": 0.55,
-    "y": 0.52
+    "y": 0.68
    },
    "chapter": "2. The 10 millimeter gap",
    "short": "Why Does This Train Float Only 1 Centimeter Up?",
@@ -117,8 +117,8 @@
    "query": "L0 series maglev",
    "caption": "WHY DOES A FLOATING TRAIN HAVE WHEELS?",
    "arrow": {
-    "x": 0.75,
-    "y": 0.85
+    "x": 0.62,
+    "y": 0.75
    },
    "chapter": "5. The wheels it still needs",
    "short": "Why Does a Floating Train Still Have Wheels?",
@@ -140,8 +140,8 @@
    "query": "JR Maglev-Guide",
    "caption": "WHY ARE THESE COILS SHAPED LIKE AN 8?",
    "arrow": {
-    "x": 0.82,
-    "y": 0.45
+    "x": 0.86,
+    "y": 0.68
    },
    "chapter": "6. The figure 8 coils",
    "short": "Why Do Maglev Tracks Have Figure 8 Coils?",
@@ -255,8 +255,8 @@
    "query": "SC Maglev Test Ride",
    "caption": "WHY IS THIS CABIN SHIELDED FROM MAGNETS?",
    "arrow": {
-    "x": 0.4,
-    "y": 0.6
+    "x": 0.2,
+    "y": 0.4
    },
    "chapter": "11. The shielded cabin",
    "short": "Why Are Maglev Passengers Shielded From the Magnets?",
