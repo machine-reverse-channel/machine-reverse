@@ -82,7 +82,7 @@ sc("""Carbon brakes have a strange habit. They wear more from the number of time
    "carbon brake disc aircraft", "FEWER, FIRMER STOPS")
 
 # ---------- 7. ANTI-SKID ----------
-part(7, "The anti-skid", "WHY DON'T THESE WHEELS LOCK UP?", "Your Car's ABS Came From Airplanes. Why?",
+part(7, "The anti-skid", "WHY DON'T THESE WHEELS LOCK UP?", "Why Don't Airplane Wheels Lock Up When Braking?",
      """Why don't airplane wheels lock up and skid when the pilots brake hard? Because airplanes had anti-lock brakes long before cars. In the early nineteen fifties, Dunlop in Britain introduced a system called Maxaret. It sensed when a wheel was starting to slow down too fast, which means it was about to lock, and released the brake for a moment. In tests, it cut stopping distances by about thirty percent, and it let jets land safely on icy runways.""",
      "Dunlop Maxaret anti-skid")
 sc("""A locked wheel is a disaster on an airplane. The tire scrubs against the runway at high speed, wears through in seconds, and bursts. Maxaret also eliminated tire bursts from skids. Every airliner today has an anti-skid system, monitoring each wheel separately. And the technology went on to cars. One of the first cars with anti-lock brakes, the Jensen F F, used the Maxaret system from airplanes.""",
@@ -112,7 +112,7 @@ sc("""Gear pins are part of a bigger culture. Before every flight, a pilot or me
    "pilot walk around inspection airliner", "THE WALK AROUND")
 
 # ---------- 10. GRAVITY ----------
-part(10, "The backup that uses gravity", "WHAT IF THE GEAR WON'T COME DOWN?", "What Happens If Landing Gear Won't Come Down?",
+part(10, "The backup that uses gravity", "WHAT IF THE GEAR WON'T COME DOWN?", "Why Can Pilots Drop the Landing Gear Without Power?",
      """What happens if the hydraulic system fails and the landing gear will not come down? Pilots have a backup that needs almost no power, gravity. On most airliners, a handle or switch in the cockpit releases the locks that hold the gear up. The heavy gear simply falls out of the wheel wells, pushed by its own weight and by the air rushing past, until it locks in the down position. It is called a gravity extension, or free fall.""",
      "landing gear extension airliner")
 sc("""It is tested on certification flights, and pilots practice it in the simulator. It works so well that true belly landings of airliners are very rare. When the gear really will not come down, it is usually because something has jammed, not because of a power failure. Simple physics, gravity and airflow, is the last line of defense, because it is the one thing that never runs out on an airplane in flight.""",

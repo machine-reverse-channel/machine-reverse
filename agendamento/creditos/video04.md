@@ -1,0 +1,94 @@
+# Photo credits: Why Don't Airplane Tires Explode on Landing?
+
+All photos from Wikimedia Commons.
+
+- Sumburgh 15 Landing IMG 8629 (26082142132).jpg by Ronnie Robertson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Sumburgh_15_Landing_IMG_8629_(26082142132).jpg
+- Nose landing gear of a Sukhoi Superjet 100.jpg by Olivier Cleynen, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Nose_landing_gear_of_a_Sukhoi_Superjet_100.jpg
+- Eurofighter Typhoon Gear-Up.jpg by Falcon® Photography, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Eurofighter_Typhoon_Gear-Up.jpg
+- Saab 340 - 33 Landing - 090715 (1).jpg by Ronnie Robertson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Saab_340_-_33_Landing_-_090715_(1).jpg
+- Night Landing IMG 5007 (12120474483).jpg by Ronnie Robertson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Night_Landing_IMG_5007_(12120474483).jpg
+- Sumburgh 15 Landing IMG 8628 (25571963603).jpg by Ronnie Robertson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Sumburgh_15_Landing_IMG_8628_(25571963603).jpg
+- The Landing IMG 7355 (16601602890).jpg by Ronnie Robertson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:The_Landing_IMG_7355_(16601602890).jpg
+- Biman Bangladesh Airlines Boeing 787 Dreamliner 2.jpg by Jubair Bin Iqbal, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Biman_Bangladesh_Airlines_Boeing_787_Dreamliner_2.jpg
+- American Airlines Boeing 777-200ER N788AN landing gear and flaps.jpg by Adrian Pingstone (Arpingstone), Public domain, https://commons.wikimedia.org/wiki/File:American_Airlines_Boeing_777-200ER_N788AN_landing_gear_and_flaps.jpg
+- Boeing 777-300 Singapore Airlines 9V-SWR on the main gear. Note tire smoke to right... (7295640682).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Boeing_777-300_Singapore_Airlines_9V-SWR_on_the_main_gear._Note_tire_smoke_to_right..._(7295640682).jpg
+- Cierva C.8W (C.8L Mk. IV) - DPLA - ad37411c05c1b7c5c9b1c56affce9649 (page 1).jpg by Cierva Autogiro Company, CC0, https://commons.wikimedia.org/wiki/File:Cierva_C.8W_(C.8L_Mk._IV)_-_DPLA_-_ad37411c05c1b7c5c9b1c56affce9649_(page_1).jpg
+- Cierva C.8W (C.8L Mk. IV) - DPLA - ad37411c05c1b7c5c9b1c56affce9649 (page 7).jpg by Cierva Autogiro Company, CC0, https://commons.wikimedia.org/wiki/File:Cierva_C.8W_(C.8L_Mk._IV)_-_DPLA_-_ad37411c05c1b7c5c9b1c56affce9649_(page_7).jpg
+- Two man replace a main landing gear tire of a plane.jpg by Susan Cornell, Public domain, https://commons.wikimedia.org/wiki/File:Two_man_replace_a_main_landing_gear_tire_of_a_plane.jpg
+- US Navy 050906-N-0413R-104 Aviation Structural Mechanic Airman Justin Tillman pressurizes a nitrogen line to service aircraft tires.jpg by U.S. Navy photo by Photographer's Mate 3rd Class Shannon E. Renfroe, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_050906-N-0413R-104_Aviation_Structural_Mechanic_Airman_Justin_Tillman_pressurizes_a_nitrogen_line_to_service_aircraft_tires.jpg
+- US Navy 070430-N-4420S-029 Aviation Structural Mechanic 3rd Class Fabricio Leite, assigned to the Sunliners of Strike Fighter Squadron (VFA) 81, operates a nitrogen cart to fill the tires of an F-A-18C Hornet as part of a daily.jpg by U.S. Navy photo by Mass Communication Specialist Seaman Apprentice John Scorza, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_070430-N-4420S-029_Aviation_Structural_Mechanic_3rd_Class_Fabricio_Leite,_assigned_to_the_Sunliners_of_Strike_Fighter_Squadron_(VFA)_81,_operates_a_nitrogen_cart_to_fill_the_tires_of_an_F-A-18C_Hornet_as_part_of_a_daily.jpg
+- 3506 Boeing 727 Fuerza Aerea Mexicana (7630480252).jpg by Aeroprints.com, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:3506_Boeing_727_Fuerza_Aerea_Mexicana_(7630480252).jpg
+- 3505 Boeing 727 Fuerza Aerea Mexicana (7630478338).jpg by Aeroprints.com, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:3505_Boeing_727_Fuerza_Aerea_Mexicana_(7630478338).jpg
+- 379th Expeditionary Maintenance Squadron maintainers inspect and repair KC-135 Stratotanker aircraft wheel and tire (9444997).jpg by U.S. Air Force photo by Tech. Sgt. Justin Norton, Public domain, https://commons.wikimedia.org/wiki/File:379th_Expeditionary_Maintenance_Squadron_maintainers_inspect_and_repair_KC-135_Stratotanker_aircraft_wheel_and_tire_(9444997).jpg
+- 379th Expeditionary Maintenance Squadron maintainers inspect and repair KC-135 Stratotanker aircraft wheel and tire (9444996).jpg by U.S. Air Force photo by Tech. Sgt. Justin Norton, Public domain, https://commons.wikimedia.org/wiki/File:379th_Expeditionary_Maintenance_Squadron_maintainers_inspect_and_repair_KC-135_Stratotanker_aircraft_wheel_and_tire_(9444996).jpg
+- Concorde - Undercarriage and cooling fans embedded in the wheel rims (7181588076).jpg by Jorge Láscar from Australia, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Concorde_-_Undercarriage_and_cooling_fans_embedded_in_the_wheel_rims_(7181588076).jpg
+- Palawan, Aircraft wheel in flight, Philippines.jpg by Vyacheslav Argenberg, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Palawan,_Aircraft_wheel_in_flight,_Philippines.jpg
+- 379th Expeditionary Maintenance Squadron maintainers inspect and repair KC-135 Stratotanker aircraft wheel and tire (9444998).jpg by U.S. Air Force photo by Tech. Sgt. Justin Norton, Public domain, https://commons.wikimedia.org/wiki/File:379th_Expeditionary_Maintenance_Squadron_maintainers_inspect_and_repair_KC-135_Stratotanker_aircraft_wheel_and_tire_(9444998).jpg
+- Walter 1978 Aircraft rescue and firefighting truck 1.jpg by McKaby, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Walter_1978_Aircraft_rescue_and_firefighting_truck_1.jpg
+- Walter 1978 Aircraft rescue and firefighting truck 3.jpg by McKaby, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Walter_1978_Aircraft_rescue_and_firefighting_truck_3.jpg
+- Touchdown! FedEx MD-11 main gear making contact.jpg by Frank K., CC BY 2.0, https://commons.wikimedia.org/wiki/File:Touchdown!_FedEx_MD-11_main_gear_making_contact.jpg
+- FW-190D "Dora" tire.jpg by Pooklord, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:FW-190D_%22Dora%22_tire.jpg
+- Aerodrome Crash Truck (51068586551).jpg by Eric Friedebach, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Aerodrome_Crash_Truck_(51068586551).jpg
+- Aerodrome Crash Truck (51068675787).jpg by Eric Friedebach, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Aerodrome_Crash_Truck_(51068675787).jpg
+- Aircraft tires at Osmani International Airport.jpg by Dewan.minhaz, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Aircraft_tires_at_Osmani_International_Airport.jpg
+- US Navy 100128-N-3327M-254 Sailors change tires on an aircraft aboard USS Nimitz.jpg by U.S. Navy photo by Mass Communication Specialist 3rd Class James Mitchell, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_100128-N-3327M-254_Sailors_change_tires_on_an_aircraft_aboard_USS_Nimitz.jpg
+- Grooves in runway, DFW (4898074198).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Grooves_in_runway,_DFW_(4898074198).jpg
+- Pista Congonhas03.jpg by Valter Campanato/ABr, CC BY 3.0 br, https://commons.wikimedia.org/wiki/File:Pista_Congonhas03.jpg
+- Oleo trailing link main landing gear.JPG by YSSYguy at English Wikipedia, CC0, https://commons.wikimedia.org/wiki/File:Oleo_trailing_link_main_landing_gear.JPG
+- Oleo Strut by Alan Pogue 1971.jpg by Alan Pogue, Public domain, https://commons.wikimedia.org/wiki/File:Oleo_Strut_by_Alan_Pogue_1971.jpg
+- 1928 Curtiss Robin (Iowa Aviation Museum).jpg by Eric Friedebach, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1928_Curtiss_Robin_(Iowa_Aviation_Museum).jpg
+- Right Landing Gear of ROCAF E-2T 2501 Close up 2013-06-01.jpg by 玄史生, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Right_Landing_Gear_of_ROCAF_E-2T_2501_Close_up_2013-06-01.jpg
+- FW-190D "Dora" Landing strut.jpg by Pooklord, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:FW-190D_%22Dora%22_Landing_strut.jpg
+- Etihad Airways A6-ETJ Boeing 777-3FX(ER) Melbourne International Airport (MEL YMML) (48879905492).jpg by Mitchul Hope, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Etihad_Airways_A6-ETJ_Boeing_777-3FX(ER)_Melbourne_International_Airport_(MEL_YMML)_(48879905492).jpg
+- Etihad Airways A6-ETP Boeing 777-3FX(ER) Melbourne International Airport (MEL YMML) (52253744134).jpg by Mitchul Hope, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Etihad_Airways_A6-ETP_Boeing_777-3FX(ER)_Melbourne_International_Airport_(MEL_YMML)_(52253744134).jpg
+- Oleo torque link main landing gear.JPG by YSSYguy at English Wikipedia, CC0, https://commons.wikimedia.org/wiki/File:Oleo_torque_link_main_landing_gear.JPG
+- SOMECA 511 am Landungsstrand Omaha Beach in der Normandie.jpg by Rolf Kranz, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:SOMECA_511_am_Landungsstrand_Omaha_Beach_in_der_Normandie.jpg
+- Sikorsky R-5D 3962 (2076012183).jpg by James Emery from Douglasville, United States, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Sikorsky_R-5D_3962_(2076012183).jpg
+- What it means to be..tower pusher @ Brussels Airport (7975517128).jpg by Brussels  Airport from Belgium, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:What_it_means_to_be..tower_pusher_@_Brussels_Airport_(7975517128).jpg
+- DC-6B nose landing gear.JPG by Dtom, CC BY 3.0, https://commons.wikimedia.org/wiki/File:DC-6B_nose_landing_gear.JPG
+- ROCAF S-2A 2103 Head Close up 20130928.jpg by 玄史生, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:ROCAF_S-2A_2103_Head_Close_up_20130928.jpg
+- Pioneer RQ-2A UAV - DPLA - 39ae1debb9104de2cf6865743a07d180 (page 2).jpg by Pioneer UAV, Inc, CC0, https://commons.wikimedia.org/wiki/File:Pioneer_RQ-2A_UAV_-_DPLA_-_39ae1debb9104de2cf6865743a07d180_(page_2).jpg
+- Boeing 737 Next-Generation Carbon Brake PAS 2013.jpg by Julian Herzog (Website), CC BY 4.0, https://commons.wikimedia.org/wiki/File:Boeing_737_Next-Generation_Carbon_Brake_PAS_2013.jpg
+- RTO Maďarsko, 60. léta.jpg by Josef Kubík, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:RTO_Ma%C4%8Farsko,_60._l%C3%A9ta.jpg
+- Autobus Škoda 706 RTO 4.jpg by VitVit, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Autobus_%C5%A0koda_706_RTO_4.jpg
+- G-TUID 1 B787-8K5 Thomson Aws(Boeing) PAE 29JUL13 (9395749751).jpg by Ken Fielding, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:G-TUID_1_B787-8K5_Thomson_Aws(Boeing)_PAE_29JUL13_(9395749751).jpg
+- Thai Airways International Boeing 747-4D7 HS-TGP MUC 2015 03.jpg by Julian Herzog (Website), CC BY 4.0, https://commons.wikimedia.org/wiki/File:Thai_Airways_International_Boeing_747-4D7_HS-TGP_MUC_2015_03.jpg
+- Concorde brake discs.jpg by Kurkoe, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Concorde_brake_discs.jpg
+- Wheel, tire and red brake shoe- Red means Carbon disc I believe... (6289321316).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Wheel,_tire_and_red_brake_shoe-_Red_means_Carbon_disc_I_believe..._(6289321316).jpg
+- Jensen FF Mark II.jpg by Brian Snelson, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Jensen_FF_Mark_II.jpg
+- Jensen FF 1968 - front.jpg by DeFacto, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Jensen_FF_1968_-_front.jpg
+- View of a Jensen FF in the Classic Car Boot Sale - geograph.org.uk - 4174650.jpg by Robert Lamb, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:View_of_a_Jensen_FF_in_the_Classic_Car_Boot_Sale_-_geograph.org.uk_-_4174650.jpg
+- The Concord, the supersonic airliner landing in Ben Gurion Airport (FL63499250).jpg by IPPA photographer, CC BY 4.0, https://commons.wikimedia.org/wiki/File:The_Concord,_the_supersonic_airliner_landing_in_Ben_Gurion_Airport_(FL63499250).jpg
+- The Concord, the supersonic airliner landing in Ben Gurion Airport (FL63499538).jpg by IPPA photographer, CC BY 4.0, https://commons.wikimedia.org/wiki/File:The_Concord,_the_supersonic_airliner_landing_in_Ben_Gurion_Airport_(FL63499538).jpg
+- Paris Air Show 2019, Le Bourget (SIAE0862).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Paris_Air_Show_2019,_Le_Bourget_(SIAE0862).jpg
+- Tegel International Airport, Berlin (IMG 8916).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tegel_International_Airport,_Berlin_(IMG_8916).jpg
+- Toolcat utility work machine, Bagram Airfield, Afghanistan.jpg by US Air Force from USA
+
+Tech. Sgt. Nicholas Rau, Public domain, https://commons.wikimedia.org/wiki/File:Toolcat_utility_work_machine,_Bagram_Airfield,_Afghanistan.jpg
+- 435 CTS facilitates runway rubber, paint removal, re-striping (7513044).jpg by U.S. Air Force 86AW by Airman 1st Class Alexcia Givens, Public domain, https://commons.wikimedia.org/wiki/File:435_CTS_facilitates_runway_rubber,_paint_removal,_re-striping_(7513044).jpg
+- Messerschmitt Me 163B-1a.jpg by George Neat, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Messerschmitt_Me_163B-1a.jpg
+- 033 Saddle-billed stork landing in the Serengeti National Park Photo by Giles Laurent.jpg by Giles Laurent, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:033_Saddle-billed_stork_landing_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg
+- 'Remove before flight' tag on Concorde F-BVFA.jpg by Kurt Raschke KurtRaschke, CC BY 2.0, https://commons.wikimedia.org/wiki/File:%27Remove_before_flight%27_tag_on_Concorde_F-BVFA.jpg
+- Fulton Airphibian FA-3-101 - DPLA - 035aa7efc1b581d93dd5da30050f0415 (page 17).jpg by Continental, Inc, Robert E. Fulton, Jr, CC0, https://commons.wikimedia.org/wiki/File:Fulton_Airphibian_FA-3-101_-_DPLA_-_035aa7efc1b581d93dd5da30050f0415_(page_17).jpg
+- Fulton Airphibian FA-3-101 - DPLA - 035aa7efc1b581d93dd5da30050f0415 (page 18).jpg by Continental, Inc, Robert E. Fulton, Jr, CC0, https://commons.wikimedia.org/wiki/File:Fulton_Airphibian_FA-3-101_-_DPLA_-_035aa7efc1b581d93dd5da30050f0415_(page_18).jpg
+- Remove before flight - panoramio.jpg by Robert Dimov, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Remove_before_flight_-_panoramio.jpg
+- US Air Force 060122-F-4081S-061 Flight preparation.jpg by U.S. Air Force photo by Master Sgt. Larry Show, Public domain, https://commons.wikimedia.org/wiki/File:US_Air_Force_060122-F-4081S-061_Flight_preparation.jpg
+- Lt Jensen, AT3 Mckenzie Perform Pre-flight Walk Around Inspection (6147926).jpg by U.S. Navy PS4 by Petty Officer 2nd Class Juan Sua, Public domain, https://commons.wikimedia.org/wiki/File:Lt_Jensen,_AT3_Mckenzie_Perform_Pre-flight_Walk_Around_Inspection_(6147926).jpg
+- Walk around checks (3058132).jpg by U.S. Air Force photo by Tech. Sgt. Joshua Garcia, Public domain, https://commons.wikimedia.org/wiki/File:Walk_around_checks_(3058132).jpg
+- 44 Hercules main landing gear manual emergency extension - IMG 6279 RIAT 2025 - Friday 18 July.jpg by Jodiepedia, CC0, https://commons.wikimedia.org/wiki/File:44_Hercules_main_landing_gear_manual_emergency_extension_-_IMG_6279_RIAT_2025_-_Friday_18_July.jpg
+- Fokker 50 PH-KXX IMG 7084 (13276772244).jpg by Ronnie Robertson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Fokker_50_PH-KXX_IMG_7084_(13276772244).jpg
+- 379th EMXS repairs KC-135 landing gear (9507641).jpg by U.S. Air Force photo by Tech. Sgt. Kristen Pittman, Public domain, https://commons.wikimedia.org/wiki/File:379th_EMXS_repairs_KC-135_landing_gear_(9507641).jpg
+- Saab 340 - 33 Approach - 040216.jpg by Ronnie Robertson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Saab_340_-_33_Approach_-_040216.jpg
+- 33 Approach IMG 7476 (24854673065).jpg by Ronnie Robertson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:33_Approach_IMG_7476_(24854673065).jpg
+- Boeing B-29 Superfortress P2B-1S Cockpit.jpg by Eric Friedebach, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Boeing_B-29_Superfortress_P2B-1S_Cockpit.jpg
+- Plasticart tupolev tu-116.jpg by Steve Knight, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Plasticart_tupolev_tu-116.jpg
+- Saab 2000 G-LGNO Sumburgh runway 33 landing (13434018513).jpg by Ronnie Robertson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Saab_2000_G-LGNO_Sumburgh_runway_33_landing_(13434018513).jpg
+- G-ECOA Flybe De Havilland Canada DHC-8-402Q Dash 8, landing on Schiphol (EHAM-AMS) runway 18R pic3.JPG by Alf van Beem, Public domain, https://commons.wikimedia.org/wiki/File:G-ECOA_Flybe_De_Havilland_Canada_DHC-8-402Q_Dash_8,_landing_on_Schiphol_(EHAM-AMS)_runway_18R_pic3.JPG
+- G-ECOA Flybe De Havilland Canada DHC-8-402Q Dash 8, landing on Schiphol (EHAM-AMS) runway 18R pic4.JPG by Alf van Beem, Public domain, https://commons.wikimedia.org/wiki/File:G-ECOA_Flybe_De_Havilland_Canada_DHC-8-402Q_Dash_8,_landing_on_Schiphol_(EHAM-AMS)_runway_18R_pic4.JPG
+- G-ECOA Flybe De Havilland Canada DHC-8-402Q Dash 8, landing on Schiphol (EHAM-AMS) runway 18R pic2.JPG by Alf van Beem, Public domain, https://commons.wikimedia.org/wiki/File:G-ECOA_Flybe_De_Havilland_Canada_DHC-8-402Q_Dash_8,_landing_on_Schiphol_(EHAM-AMS)_runway_18R_pic2.JPG
+- G-ECOA Flybe De Havilland Canada DHC-8-402Q Dash 8, landing on Schiphol (EHAM-AMS) runway 18R pic1.JPG by Alf van Beem, Public domain, https://commons.wikimedia.org/wiki/File:G-ECOA_Flybe_De_Havilland_Canada_DHC-8-402Q_Dash_8,_landing_on_Schiphol_(EHAM-AMS)_runway_18R_pic1.JPG
+- Saab 340 - 33 Landing - 090715.jpg by Ronnie Robertson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Saab_340_-_33_Landing_-_090715.jpg
+- The Lisbon Mosque, the sunset and the airplane landing (6524957483).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0, https://commons.wikimedia.org/wiki/File:The_Lisbon_Mosque,_the_sunset_and_the_airplane_landing_(6524957483).jpg
+- B-2487@PEK (20190630192003).jpg by N509FZ, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:B-2487@PEK_(20190630192003).jpg
+- B-2487@PEK (20190630192002).jpg by N509FZ, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:B-2487@PEK_(20190630192002).jpg
+- B-2487@PEK (20190630191956).jpg by N509FZ, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:B-2487@PEK_(20190630191956).jpg
