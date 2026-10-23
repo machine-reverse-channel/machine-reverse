@@ -1,0 +1,110 @@
+# Photo credits: Why Is There a Hole in Airplane Windows?
+
+All photos from Wikimedia Commons.
+
+- CFM56 below the wing of a Lufthansa A320.jpg by Olivier Cleynen, CC BY 4.0, https://commons.wikimedia.org/wiki/File:CFM56_below_the_wing_of_a_Lufthansa_A320.jpg
+- IAE V2500 on a Lufthansa A320 (1).jpg by Olivier Cleynen, CC BY 4.0, https://commons.wikimedia.org/wiki/File:IAE_V2500_on_a_Lufthansa_A320_(1).jpg
+- Beechcraft AT-11 (52464954565).jpg by Eric Friedebach, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Beechcraft_AT-11_(52464954565).jpg
+- Beechcraft AT-11 (52464780544).jpg by Eric Friedebach, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Beechcraft_AT-11_(52464780544).jpg
+- Beechcraft AT-11 (52464772049).jpg by Eric Friedebach, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Beechcraft_AT-11_(52464772049).jpg
+- Beechcraft AT-11 (52464963255).jpg by Eric Friedebach, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Beechcraft_AT-11_(52464963255).jpg
+- Beechcraft AT-11 (52465038948).jpg by Eric Friedebach, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Beechcraft_AT-11_(52465038948).jpg
+- Beechcraft AT-11 (52463996322).jpg by Eric Friedebach, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Beechcraft_AT-11_(52463996322).jpg
+- Boeing 757 climbing after the sunset. Beautiful sky. Stars! (7256174454).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Boeing_757_climbing_after_the_sunset._Beautiful_sky._Stars!_(7256174454).jpg
+- Southwest Boeing 737-700 N947WN BWI MD1.jpg by Acroterion, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Southwest_Boeing_737-700_N947WN_BWI_MD1.jpg
+- BOEING 737 NG - MSN 30693 - SP-ESK Enter Air at LFBT airport.jpg by Shougissime, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:BOEING_737_NG_-_MSN_30693_-_SP-ESK_Enter_Air_at_LFBT_airport.jpg
+- Boeing 737 MAX grounded aircraft near Boeing Field, April 2019.jpg by SounderBruce, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Boeing_737_MAX_grounded_aircraft_near_Boeing_Field,_April_2019.jpg
+- Flying through the sunrise - Flickr - Lenny K Photography.jpg by Lenny K Photography from Sydney, Australia, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Flying_through_the_sunrise_-_Flickr_-_Lenny_K_Photography.jpg
+- The Rocky Mountains or something close to them. From my window seat on the airplane. DSC 0206 (7984777564).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:The_Rocky_Mountains_or_something_close_to_them._From_my_window_seat_on_the_airplane._DSC_0206_(7984777564).jpg
+- Airplane Window (Unsplash).jpg by Bambi Corro bambicorro, CC0, https://commons.wikimedia.org/wiki/File:Airplane_Window_(Unsplash).jpg
+- Clouds from airplane.JPG by Bizelburp123, Public domain, https://commons.wikimedia.org/wiki/File:Clouds_from_airplane.JPG
+- Clouds over Japan from an airplane cabin window 500px photo (188687355).jpg by Chi King, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Clouds_over_Japan_from_an_airplane_cabin_window_500px_photo_(188687355).jpg
+- Wings of the airplane from cabin window - panoramio.jpg by MC 26, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Wings_of_the_airplane_from_cabin_window_-_panoramio.jpg
+- Silver Airways Saab 340 Aircraft Cabin Window View at Sunset.jpg by EgorovaSvetlana, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Silver_Airways_Saab_340_Aircraft_Cabin_Window_View_at_Sunset.jpg
+- Cabin window view of clouds & aircraft wing over Queensland.jpg by Kgbo, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cabin_window_view_of_clouds_%26_aircraft_wing_over_Queensland.jpg
+- Airplane wing sky and clouds.jpg by Tobias1984, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Airplane_wing_sky_and_clouds.jpg
+- A wing tip of an airplane (40118125441).jpg by U.S. Department of Agriculture, Public domain, https://commons.wikimedia.org/wiki/File:A_wing_tip_of_an_airplane_(40118125441).jpg
+- DeHavilland Comet 4C (6661432457) (4).jpg by Clemens Vasters from Viersen, Germany, CC BY 2.0, https://commons.wikimedia.org/wiki/File:DeHavilland_Comet_4C_(6661432457)_(4).jpg
+- Airliners Duxford 2006 (01).jpg by Bahnfrend, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Airliners_Duxford_2006_(01).jpg
+- De Havilland Comet RAF Museum Cosford (1).jpg by Tony Hisgett from Birmingham, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:De_Havilland_Comet_RAF_Museum_Cosford_(1).jpg
+- Result of metal fatigue on a de Havilland Comet (50813201846).jpg by Mike McBey, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Result_of_metal_fatigue_on_a_de_Havilland_Comet_(50813201846).jpg
+- DH.106 Comet, De Havilland Aircraft Museum.jpg by www.mgaylard.co.uk and thanks for looking, CC BY 4.0, https://commons.wikimedia.org/wiki/File:DH.106_Comet,_De_Havilland_Aircraft_Museum.jpg
+- DFC 5893 A vintage airliner on display at Khao Chi Chan its blue-and-white tail and rear engine framed by a visitor stairway under a clear sky.jpg by PattayaPatrol, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:DFC_5893_A_vintage_airliner_on_display_at_Khao_Chi_Chan_its_blue-and-white_tail_and_rear_engine_framed_by_a_visitor_stairway_under_a_clear_sky.jpg
+- Concorde G-BBDG Windows.JPG by William M, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Concorde_G-BBDG_Windows.JPG
+- Airforce Museum Berlin-Gatow 514.JPG by Wegen, Public domain, https://commons.wikimedia.org/wiki/File:Airforce_Museum_Berlin-Gatow_514.JPG
+- 787 wing bend (6333385705).jpg by BriYYZ from Toronto, Canada, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:787_wing_bend_(6333385705).jpg
+- Boeing 767-323ER spoilers on descent to POS, AAL 1167, 11-29-12.jpg by Ilikerio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Boeing_767-323ER_spoilers_on_descent_to_POS,_AAL_1167,_11-29-12.jpg
+- UAV, AERO 2018, Friedrichshafen (1X7A4196).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:UAV,_AERO_2018,_Friedrichshafen_(1X7A4196).jpg
+- "a plane, Ze plane! Ze plane Unmanned aerial vehicles Remote Control Airplane, Quito, pic. a1a.jpg by David Adam Kess, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%22a_plane,_Ze_plane!_Ze_plane_Unmanned_aerial_vehicles_Remote_Control_Airplane,_Quito,_pic._a1a.jpg
+- Wing of a Shuttle Training Aircraft as it performs touch-and-go landings during training for STS-133.jpg by NASA/Jack Pfaller, Public domain, https://commons.wikimedia.org/wiki/File:Wing_of_a_Shuttle_Training_Aircraft_as_it_performs_touch-and-go_landings_during_training_for_STS-133.jpg
+- EBACE 2019, Le Grand-Saconnex (EB190206).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:EBACE_2019,_Le_Grand-Saconnex_(EB190206).jpg
+- Easyjet a319-100 g-ezbv winglet arp.jpg by Adrian Pingstone (Arpingstone), Public domain, https://commons.wikimedia.org/wiki/File:Easyjet_a319-100_g-ezbv_winglet_arp.jpg
+- USMC-02725.jpg by unknown, Public domain, https://commons.wikimedia.org/wiki/File:USMC-02725.jpg
+- USMC-02426.jpg by unknown, Public domain, https://commons.wikimedia.org/wiki/File:USMC-02426.jpg
+- Royal Air Force (RAF) Typhoon FGR4 ZJ936 'QO-C' of No. 3 Squadron RAF, with a commemorative 100th anniversary custom paint scheme on its tail fin, on static display at RAF Waddington during the 2012 Waddington Int. Airshow (8581632937).jpg by Aeroprints.com, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Royal_Air_Force_(RAF)_Typhoon_FGR4_ZJ936_%27QO-C%27_of_No._3_Squadron_RAF,_with_a_commemorative_100th_anniversary_custom_paint_scheme_on_its_tail_fin,_on_static_display_at_RAF_Waddington_during_the_2012_Waddington_Int._Airshow_(8581632937).jpg
+- B787 prototype tail and static probe (5998088979).jpg by H. Michael Miley from Schaumburg, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:B787_prototype_tail_and_static_probe_(5998088979).jpg
+- Model of an airliner wing used for wind tunnel testing.jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Model_of_an_airliner_wing_used_for_wind_tunnel_testing.jpg
+- The Soviet Airliner Yakovlev Yak-40. Советский авиалайнер Як-40.jpg by Andrey Korchagin, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:The_Soviet_Airliner_Yakovlev_Yak-40._%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D0%B8%D0%B0%D0%BB%D0%B0%D0%B9%D0%BD%D0%B5%D1%80_%D0%AF%D0%BA-40.jpg
+- Slats and winglet, Épiais-lès-Louvres (SIAE2200) (cropped).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Slats_and_winglet,_%C3%89piais-l%C3%A8s-Louvres_(SIAE2200)_(cropped).jpg
+- Boeing 737 blended winglet 0007.JPG by Premkudva, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Boeing_737_blended_winglet_0007.JPG
+- Boeing 737 and 757 scimitar winglets comparison.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Boeing_737_and_757_scimitar_winglets_comparison.jpg
+- This photograph shows a modified General Dynamics TACT-F-111A Aardvaark with supercritical wings installed (ECN-3931).jpg by NASA Armstrong Flight Research Center / NASA, Public domain, https://commons.wikimedia.org/wiki/File:This_photograph_shows_a_modified_General_Dynamics_TACT-F-111A_Aardvaark_with_supercritical_wings_installed_(ECN-3931).jpg
+- 19th ESC Deputy Commander Honors Legacy of Late Brig Gen Whitcomb (9803092).jpg by U.S. Army photo by Kailil Kendrick, Public domain, https://commons.wikimedia.org/wiki/File:19th_ESC_Deputy_Commander_Honors_Legacy_of_Late_Brig_Gen_Whitcomb_(9803092).jpg
+- Boeing 737-700, Southwest Airlines, canyon blue w winglets (6302738804).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Boeing_737-700,_Southwest_Airlines,_canyon_blue_w_winglets_(6302738804).jpg
+- Southwest Airlines Boeing 737 -8H4 -800 N-8501V take off latest colors half-X winglets (30440110080).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Southwest_Airlines_Boeing_737_-8H4_-800_N-8501V_take_off_latest_colors_half-X_winglets_(30440110080).jpg
+- Antishock body on B787 wing (2).jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Antishock_body_on_B787_wing_(2).jpg
+- Antishock body on left wing of 747-100.jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Antishock_body_on_left_wing_of_747-100.jpg
+- Antishock body on B787 wing (1).jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Antishock_body_on_B787_wing_(1).jpg
+- NASA Completes First Flight of Laminar Flow Scaled Wing Design (nasa-completes-first-flight-of-laminar-flow-scaled-wing-design - 71).jpg by NASA/Carla Thomas, Public domain, https://commons.wikimedia.org/wiki/File:NASA_Completes_First_Flight_of_Laminar_Flow_Scaled_Wing_Design_(nasa-completes-first-flight-of-laminar-flow-scaled-wing-design_-_71).jpg
+- NASA Completes First Flight of Laminar Flow Scaled Wing Design (nasa-completes-first-flight-of-laminar-flow-scaled-wing-design - 51).jpg by NASA/Carla Thomas, Public domain, https://commons.wikimedia.org/wiki/File:NASA_Completes_First_Flight_of_Laminar_Flow_Scaled_Wing_Design_(nasa-completes-first-flight-of-laminar-flow-scaled-wing-design_-_51).jpg
+- Handley Page Victor Bomber at RAF Marham - geograph.org.uk - 4890305.jpg by Adrian S Pye, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Handley_Page_Victor_Bomber_at_RAF_Marham_-_geograph.org.uk_-_4890305.jpg
+- Handley Page Victor Bomber (4867423197).jpg by Chad Kainz from Monterey, CA, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Handley_Page_Victor_Bomber_(4867423197).jpg
+- General Electric GEnx-1B (14233497776) (cropped).jpg by John Crowley from Seattle, WA, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:General_Electric_GEnx-1B_(14233497776)_(cropped).jpg
+- Air India Boeing 787 Dreamliner N1008S PAS 2013 07 GEnx-1B.jpg by Julian Herzog (Website), CC BY 4.0, https://commons.wikimedia.org/wiki/File:Air_India_Boeing_787_Dreamliner_N1008S_PAS_2013_07_GEnx-1B.jpg
+- GEnx-1B on Air India B787 (2).jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:GEnx-1B_on_Air_India_B787_(2).jpg
+- Korean Air Boeing 787-9 Dreamliner HL7208 on takeoff roll at JFK Airport.jpg by Adam Moreira (AEMoreira042281), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Korean_Air_Boeing_787-9_Dreamliner_HL7208_on_takeoff_roll_at_JFK_Airport.jpg
+- PH-BHG KLM Royal Dutch Airlines Boeing 787-9 Dreamliner takeoff from Schiphol (AMS - EHAM), The Netherlands.JPG by Alf van Beem, Public domain, https://commons.wikimedia.org/wiki/File:PH-BHG_KLM_Royal_Dutch_Airlines_Boeing_787-9_Dreamliner_takeoff_from_Schiphol_(AMS_-_EHAM),_The_Netherlands.JPG
+- Nippon Cargo Airlines, Boeing 747-8F JA13KZ NRT (23116740523).jpg by Masakatsu Ukon, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Nippon_Cargo_Airlines,_Boeing_747-8F_JA13KZ_NRT_(23116740523).jpg
+- General Electric GEnx on 747-8I prototype.jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:General_Electric_GEnx_on_747-8I_prototype.jpg
+- Jet engine Spiral spinners.png by Gese151, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Jet_engine_Spiral_spinners.png
+- JT9D engine on Boeing 747-100 prototype N7470 "City of Everett" September 2011 04.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:JT9D_engine_on_Boeing_747-100_prototype_N7470_%22City_of_Everett%22_September_2011_04.jpg
+- 192d Fighter-Bomber Squadron, North American F-51D-25-NA Mustang, sn. 44-72197, 44-74317, 44-84857.jpg by United States Air Force, Public domain, https://commons.wikimedia.org/wiki/File:192d_Fighter-Bomber_Squadron,_North_American_F-51D-25-NA_Mustang,_sn._44-72197,_44-74317,_44-84857.jpg
+- ASC Leiden - W.E.A. van Beek Collection - Thuis in Afrika - 02.1 - Baggage handling at the airport during a ground crew strike - Garoua, Cameroon - 1999.jpg by Wouter van Beek, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_W.E.A._van_Beek_Collection_-_Thuis_in_Afrika_-_02.1_-_Baggage_handling_at_the_airport_during_a_ground_crew_strike_-_Garoua,_Cameroon_-_1999.jpg
+- 9A-CQE Croatia Airlines Bombardier Dash 8 Q400 on the apron at Zagreb Airport - propeller.jpg by 07, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:9A-CQE_Croatia_Airlines_Bombardier_Dash_8_Q400_on_the_apron_at_Zagreb_Airport_-_propeller.jpg
+- JA823A 787 ANA Trent 1000 ARN 01.jpg by Bene Riobó, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:JA823A_787_ANA_Trent_1000_ARN_01.jpg
+- ANA Maintainance Facilities at Haneda Airport 07.JPG by Banku, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:ANA_Maintainance_Facilities_at_Haneda_Airport_07.JPG
+- ILA-Pitotrohr.jpg by User:Kolossos, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:ILA-Pitotrohr.jpg
+- Pitot tube (Kollsman AN5816-2).jpg by Votpuske, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Pitot_tube_(Kollsman_AN5816-2).jpg
+- Pitot Tube of F-104J.JPG by たーなー, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Pitot_Tube_of_F-104J.JPG
+- Airbus A330-200 - F-RARF from French Air Force on taxiway at LFBT airport.jpg by Hugo LUC, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Airbus_A330-200_-_F-RARF_from_French_Air_Force_on_taxiway_at_LFBT_airport.jpg
+- Airbus A330-200 - F-RARF from French Air Force during take off at LFBT airport.jpg by Hugo LUC, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Airbus_A330-200_-_F-RARF_from_French_Air_Force_during_take_off_at_LFBT_airport.jpg
+- 13-08-06-Cockpit-d-alpa-a330-200.jpg by Ralf Roletschek, CC BY 3.0, https://commons.wikimedia.org/wiki/File:13-08-06-Cockpit-d-alpa-a330-200.jpg
+- Airbus A330-MRTT construction-3.jpg by Defensie, CC0, https://commons.wikimedia.org/wiki/File:Airbus_A330-MRTT_construction-3.jpg
+- Ram Air Turbine on F-104S Starfighter (14199964717).jpg by Alan Wilson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Ram_Air_Turbine_on_F-104S_Starfighter_(14199964717).jpg
+- Airbus A350-900 XWB Airbus Industries (AIB) MSN 001 - F-WXWB (10223079236).jpg by Laurent ERRERA from L'Union, France, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Airbus_A350-900_XWB_Airbus_Industries_(AIB)_MSN_001_-_F-WXWB_(10223079236).jpg
+- CONVAIR F-102A DELTA DAGGER Ram Air Turbine.jpg by Thornfield Hall, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:CONVAIR_F-102A_DELTA_DAGGER_Ram_Air_Turbine.jpg
+- 129. Airbus A330 Air Transat.jpg by Two Penny Theatre, CC BY 2.0, https://commons.wikimedia.org/wiki/File:129._Airbus_A330_Air_Transat.jpg
+- Air Transat Airbus A330 (4220660890) (2).jpg by abdallahh from Montréal, Canada, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Air_Transat_Airbus_A330_(4220660890)_(2).jpg
+- US Airways Flight 1549 in Hudson.JPG by Izno, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:US_Airways_Flight_1549_in_Hudson.JPG
+- US Airways Flight 1549 in Hudson circled.jpg by derivative work: Deathgleaner (talk)
+US_Airways_Flight_1549_in_Hudson.JPG: Izno, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:US_Airways_Flight_1549_in_Hudson_circled.jpg
+- EasyJet, Airbus A320neo, G-UZHP, Wing View.jpg by Aviation404, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:EasyJet,_Airbus_A320neo,_G-UZHP,_Wing_View.jpg
+- Cabin window view of aircraft wing 1 2017-06-18.jpg by FASTILY, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cabin_window_view_of_aircraft_wing_1_2017-06-18.jpg
+- Douglas DC-3 aircraft wing viewed from cabin 01.jpg by Panamitsu, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Douglas_DC-3_aircraft_wing_viewed_from_cabin_01.jpg
+- CumulonimbusMexicoP1.jpg by Carlos Valenzuela, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:CumulonimbusMexicoP1.jpg
+- CumulonimbusMexicoP1v2.jpg by Carlos Valenzuela, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:CumulonimbusMexicoP1v2.jpg
+- Diehl Sylvia, PEW 2018, Hamburg (1X7A3759).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Diehl_Sylvia,_PEW_2018,_Hamburg_(1X7A3759).jpg
+- Aircraft Lavatory.JPG by David, Public domain, https://commons.wikimedia.org/wiki/File:Aircraft_Lavatory.JPG
+- First class Lavatory with Window.jpg by Kristoferb, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:First_class_Lavatory_with_Window.jpg
+- C-17, ILA 2018, Schönefeld (1X7A5407).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:C-17,_ILA_2018,_Sch%C3%B6nefeld_(1X7A5407).jpg
+- Fleet service 130311-F-VV898-019.jpg by Greg L. Davis (U.S. Air Force being on duty), Public domain, https://commons.wikimedia.org/wiki/File:Fleet_service_130311-F-VV898-019.jpg
+- Boeing 757 takeoff after dusk (7256191504).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Boeing_757_takeoff_after_dusk_(7256191504).jpg
+- Pre-fight, Oil for the engine of an airliner preparatory to takeoff. Municipal airport, Washington, D.C. July 1941. - Flickr - polkbritton.jpg by Jack Delano, Public domain, https://commons.wikimedia.org/wiki/File:Pre-fight,_Oil_for_the_engine_of_an_airliner_preparatory_to_takeoff._Municipal_airport,_Washington,_D.C._July_1941._-_Flickr_-_polkbritton.jpg
+- A350 First Flight - Takeoff 06.jpg by Don-vip, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:A350_First_Flight_-_Takeoff_06.jpg
+- A350 First Flight - Takeoff 02.JPG by Don-vip, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:A350_First_Flight_-_Takeoff_02.JPG
+- Delta Airlines Airbus A-220 -100 N145DQ aka "C" takeoff roll DSC 0515.jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Delta_Airlines_Airbus_A-220_-100_N145DQ_aka_%22C%22_takeoff_roll_DSC_0515.jpg
+- USCGC White Heath recovering a crashed airliner from Boston Harbor.jpg by unknown, Public domain, https://commons.wikimedia.org/wiki/File:USCGC_White_Heath_recovering_a_crashed_airliner_from_Boston_Harbor.jpg
+- Saab 2000 G-LGNO Sumburgh runway 33 landing (13434018513).jpg by Ronnie Robertson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Saab_2000_G-LGNO_Sumburgh_runway_33_landing_(13434018513).jpg
+- Night Landing IMG 5007 (12120474483).jpg by Ronnie Robertson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Night_Landing_IMG_5007_(12120474483).jpg
+- Sumburgh 15 Landing IMG 8628 (25571963603).jpg by Ronnie Robertson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Sumburgh_15_Landing_IMG_8628_(25571963603).jpg
+- Sumburgh 15 Landing IMG 8629 (26082142132).jpg by Ronnie Robertson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Sumburgh_15_Landing_IMG_8629_(26082142132).jpg

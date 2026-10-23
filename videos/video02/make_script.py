@@ -35,7 +35,7 @@ sc("""This is also why the crew dims the cabin lights for takeoff and landing at
    "airplane cabin night dim lights", "WHY THE LIGHTS GO DOWN")
 
 # ---------- 2. SMOKE DETECTOR ----------
-part(2, "The smoke detector in the lavatory", "WHY IS THIS DETECTOR HERE?", "Why Every Airplane Bathroom Has This",
+part(2, "The smoke detector in the lavatory", "WHY IS THIS DETECTOR HERE?", "Why Does Every Airplane Bathroom Have This?",
      """Why is there a smoke detector on the ceiling of every airplane bathroom? Because a lavatory is a small closed room where nobody is watching. On Air Canada flight seven ninety-seven, the fire started in or around the rear lavatory, and it was spreading behind the panels before anyone understood how bad it was. Minutes matter in a fire at thirty thousand feet, because there is nowhere to go. After that flight, lavatory smoke detectors became mandatory. The FAA required them in nineteen eighty-six, and gave airlines eighteen months to install them.""",
      "aircraft lavatory smoke detector")
 sc("""The detector does two jobs. It warns the crew early, while the fire is still small enough to fight with a handheld extinguisher. And it stops a lot of fires before they start, because it catches people who try to smoke in secret. Tampering with it is a serious federal offense in the United States, and the warning sign on the door tells you so. That little dome is watching on behalf of everyone on board.""",
@@ -44,7 +44,7 @@ sc("""In the same period, the FAA also added Halon fire extinguishers to every c
    "Halon fire extinguisher aircraft", "THEN: HALON")
 
 # ---------- 3. TRASH BIN EXTINGUISHER ----------
-part(3, "The extinguisher in the trash bin", "WHY IS THIS TRASH BIN SPECIAL?", "The Secret Inside Airplane Trash Bins",
+part(3, "The extinguisher in the trash bin", "WHY IS THIS TRASH BIN SPECIAL?", "Why Are Airplane Trash Bins Special?",
      """Why does the trash bin in an airplane bathroom have its own fire extinguisher? Because it is the most likely place for a fire to start. It is full of paper towels, and it is exactly where someone might throw a cigarette they were not supposed to light. So hidden above the bin is a small automatic extinguisher. When the heat rises, it fires by itself, and floods the bin. No crew member has to notice. The FAA made these automatic bin extinguishers mandatory in nineteen eighty-seven, with a two-year deadline.""",
      "aircraft lavatory waste bin")
 sc("""The flap on top of the bin is part of the same idea. It springs closed after you push something through, so a fire inside starves of air and stays contained. And this is the same reason the bathroom still has an ashtray, even though smoking is banned. The rules assume that someone, someday, will break the rules, and they give that person a safe place to put out the cigarette, instead of the trash.""",
@@ -54,7 +54,7 @@ sc("""Think about why automatic matters here. A lavatory fire often starts when 
    "aircraft galley lavatory", "NO HUMAN NEEDED")
 
 # ---------- 4. SEAT CUSHIONS ----------
-part(4, "The seat cushions", "WHY IS THIS SEAT SO SPECIAL?", "Your Airplane Seat Is Fireproof. Here's Why.",
+part(4, "The seat cushions", "WHY IS THIS SEAT SO SPECIAL?", "Why Is Your Airplane Seat Fireproof?",
      """Why is the cushion of your airplane seat so special? Because it is fire blocked. Ordinary foam burns fast and releases thick toxic smoke, and in a cabin fire, the seats are the biggest fuel load in the room. In October nineteen eighty-four, the FAA set a tough new test for seat cushions, using a kerosene burner. The airlines replaced six hundred fifty thousand cushions across the US fleet. In tests, the new cushions gave passengers forty to sixty seconds of extra time to escape. In a fire, forty seconds can be the whole difference.""",
      "airplane seats cabin economy")
 sc("""The walls and ceiling got the same treatment. A nineteen eighty-five standard targeted the big panels, the ceilings, the walls, the galleys and the overhead bins, to delay what firefighters call flashover, the moment when a whole room ignites at once. Airplanes built after August nineteen ninety had to meet the final, lower heat release level. That is the exact thing that killed so many people in Cincinnati.""",
@@ -63,7 +63,7 @@ sc("""Notice the pattern. Nobody could promise that a fire would never happen. S
    "aircraft cabin evacuation drill", "THE WAR AGAINST TIME")
 
 # ---------- 5. OXYGEN MASK ----------
-part(5, "The oxygen mask", "WHERE DOES THIS OXYGEN COME FROM?", "Where Does Airplane Mask Oxygen Come From?",
+part(5, "The oxygen mask", "WHERE DOES THIS OXYGEN COME FROM?", "Why Do Oxygen Masks Work Without a Tank?",
      """Where does the oxygen in the drop down mask actually come from? There is no oxygen tank above your seat. There is a chemical generator. When you pull the mask, a spring fires a small cap that ignites a core of sodium chlorate mixed with iron, and as it burns, it releases almost pure oxygen. Once it starts, it cannot be stopped. It runs for about twelve to twenty minutes, enough for the pilots to dive down to around ten thousand feet, where you can breathe on your own. And the bag may not inflate even when the oxygen is flowing.""",
      "aircraft oxygen masks deployed cabin")
 sc("""Why the hurry? Because at forty thousand feet, the FAA estimates the time of useful consciousness at less than ten seconds. That is why the briefing tells you to put your own mask on first. And the generator gets hot. Its case typically reaches four hundred fifty to five hundred degrees Fahrenheit, and passengers often notice a burning smell. That smell is normal. It is the chemistry doing its job.""",
@@ -72,7 +72,7 @@ sc("""That heat has a dark side. On the eleventh of May, nineteen ninety-six, Va
    "Florida Everglades aerial", "VALUJET 592: THE OTHER SIDE")
 
 # ---------- 6. 16G SEATS ----------
-part(6, "The seat frame", "WHY IS THIS SEAT BUILT LIKE A TANK?", "Airplane Seats Are Crash Tested Like Cars",
+part(6, "The seat frame", "WHY IS THIS SEAT BUILT LIKE A TANK?", "Why Are Airplane Seats Built Like Tanks?",
      """Why is a thin airplane seat built to survive sixteen times the force of gravity? Because most airplane accidents are survivable, if your seat stays attached to the floor. For decades, seats were only approved to a static standard of nine G, with no test of what happened to the person sitting in them. In nineteen eighty-eight, the FAA required newly designed airliners to use sixteen G seats, tested dynamically with a crash test dummy, like a car. And airplanes built after October twenty-seventh, two thousand nine, had to meet the sixteen G standard too.""",
      "aircraft seats crash test")
 sc("""The difference is huge. A static test just pulls on a seat slowly. A dynamic test fires it down a sled at high speed and stops it violently, and measures what the dummy's head, spine and legs experience. A seat that tears loose turns into a projectile, and it also blocks the aisle that everyone else needs to escape. A seat that holds keeps you in place, and keeps the path open.""",
@@ -82,7 +82,7 @@ sc("""And it is not only the seat. The same logic reaches the flight attendants'
    "airplane cabin seats overhead bins", "KEEP THE CABIN INTACT")
 
 # ---------- 7. ESCAPE SLIDE ----------
-part(7, "The escape slide", "WHY IS THIS DOOR SO HEAVY?", "The Hidden Slide in Every Airplane Door",
+part(7, "The escape slide", "WHY IS THIS DOOR SO HEAVY?", "Why Are Airplane Doors So Heavy?",
      """Why is the bottom of every airplane door so thick and heavy? Because there is an inflatable slide packed inside it. Open the door in an emergency, and the slide inflates in about six seconds, using stored gas. It has to, because of one of the toughest rules in aviation. To be certified, an airliner must prove that everyone on board can be evacuated in ninety seconds, using only half the exits, with a realistic mix of passengers. Ninety seconds is roughly how long the cabin of Air Canada seven ninety-seven had after the doors opened.""",
      "airplane evacuation slide inflated")
 sc("""On airplanes that fly over water, many of those slides are slide rafts. After everyone is out, the crew can detach them, and they float as life rafts holding thirty to seventy people. So the same object that gets you down to the runway in a few seconds can also keep you alive in the ocean. It is one of the most cleverly packed pieces of equipment in aviation.""",
@@ -92,14 +92,14 @@ sc("""The ninety second test is brutal. Manufacturers fill a cabin with voluntee
    "aircraft evacuation test", "THE 90 SECOND TEST")
 
 # ---------- 8. ARMED DOORS ----------
-part(8, "Arm the doors and cross check", "WHAT DOES ARM THE DOORS MEAN?", "What 'Arm the Doors and Cross Check' Really Means",
+part(8, "Arm the doors and cross check", "WHAT DOES ARM THE DOORS MEAN?", "Why Do Crews Say 'Arm the Doors'?",
      """What does it mean when the crew says arm the doors and cross check? Arming a door connects the packed slide to the floor of the airplane. If an armed door is opened, the slide blasts out and inflates automatically, with no extra steps, because in an emergency, there is no time for extra steps. Cross check means a second flight attendant confirms it was done. Before the jet bridge comes back at the gate, the doors are disarmed, so the slide does not explode onto the ground crew. It is a tiny ritual hiding a powerful machine.""",
      "airplane door slide armed lever")
 sc("""That is also why the crew watches that door so carefully. A slide deployed by accident at the gate is not just embarrassing. It can injure someone, it takes the airplane out of service until the slide is repacked or replaced, and it costs the airline real money. So the arming lever is designed to be deliberate, colored, and checked twice. The cross check exists because one person can make a mistake, and two rarely make the same one.""",
    "flight attendant aircraft door", "TWO PEOPLE. ONE DOOR.")
 
 # ---------- 9. LIFE VEST ----------
-part(9, "The life vest", "WHY NOT INFLATE IT INSIDE?", "Why You Never Inflate a Life Vest Inside the Plane",
+part(9, "The life vest", "WHY NOT INFLATE IT INSIDE?", "Why Never Inflate a Life Vest Inside the Plane?",
      """Why does the safety briefing tell you not to inflate your life vest until you are outside the airplane? Because it can trap you. On the twenty-third of November, nineteen ninety-six, a hijacked Ethiopian Airlines Boeing seven sixty-seven ran out of fuel and ditched in the ocean near the Comoros Islands. Some passengers survived the impact, but had already inflated their vests inside the cabin. As water rushed in, the vests lifted them toward the ceiling, and they could not swim down to the exits. They drowned inside the airplane. The instruction exists because of them.""",
      "aircraft life vest under seat")
 sc("""Of the one hundred seventy-five people on board that flight, one hundred twenty-five died, including the three hijackers, and fifty survived. The pilots managed to put the airplane down in shallow water off a beach, which is part of why anyone lived at all. So when you hear that line in the briefing, do not inflate the vest inside the aircraft, remember that it is not a formality. It is a lesson.""",
@@ -108,7 +108,7 @@ sc("""The vest has other small details with big reasons. A light that switches o
    "life jacket whistle light aviation", "THE LIGHT AND THE WHISTLE")
 
 # ---------- 10. COCKPIT DOOR ----------
-part(10, "The cockpit door", "WHY IS THIS DOOR BULLETPROOF?", "Why the Cockpit Door Is Bulletproof",
+part(10, "The cockpit door", "WHY IS THIS DOOR BULLETPROOF?", "Why Is the Cockpit Door Bulletproof?",
      """Why is the cockpit door on a passenger jet bulletproof? Before two thousand one, cockpit doors were light and easy to open. After the September eleventh attacks, airlines first reinforced their doors with metal bars, and then, by April two thousand three, every large commercial airplane in the United States had a bulletproof cockpit door. It stays locked during flight. The pilots control who comes in. It is the one door on the airplane designed to keep people out, not to let them escape.""",
      "aircraft cockpit door")
 sc("""But a locked door creates new problems, and engineers and crews have had to manage them. Pilots still need to leave for the restroom or swap crews on long flights. As one pilot put it in two thousand three, it's a barrier when it's closed, it's an entry when it's open. That is why you will often see a cart or a flight attendant blocking the aisle while the door is open. Every safety device has a weak moment, and the procedures exist to cover it.""",

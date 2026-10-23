@@ -55,7 +55,7 @@ sc("""Why go to all this trouble? Because the fan is the loudest part of a moder
    "airliner landing approach city", "THE FAN IS THE NOISE")
 
 # ---------- 4. BLADE-OFF TEST ----------
-part(4, "The containment case", "WHY IS THIS RING SO STRONG?", "Engineers Blow Up Jet Engines on Purpose",
+part(4, "The containment case", "WHY IS THIS RING SO STRONG?", "Why Do Engineers Blow Up Jet Engines?",
      """Why is the ring around the fan built so incredibly strong? Because of one terrifying test. To certify an engine, regulators require that if a blade breaks off, the engine must contain it. So engineers prepare a blade with a small explosive charge inside, run the engine up, and fire the charge. The blade flies off at full speed and hits the case. No fragment is allowed to punch through the outer casing. The engine can be destroyed. It just cannot throw pieces into the wing, the fuel, or the cabin.""",
      "jet engine fan case")
 sc("""The rule is in the US regulations, part thirty-three, section ninety-four, and Europe has the same requirement. There are two ways to stop a flying blade. A hard wall, a heavy metal ring that deflects the debris, or a soft wall, a thick wrap of strong fiber like aramid, which catches the pieces like a net. Composite and hollow blades help here too, because a lighter blade is easier to stop.""",
@@ -64,7 +64,7 @@ sc("""This matters because a blade that escapes can be catastrophic. Engine frag
    "airliner engine failure damaged", "A BANG, NOT A DISASTER")
 
 # ---------- 5. BIRD STRIKE ----------
-part(5, "The bird test", "WHY FIRE BIRDS AT THIS ENGINE?", "Why Engineers Fire Birds Into Jet Engines",
+part(5, "The bird test", "WHY FIRE BIRDS AT THIS ENGINE?", "Why Do Engineers Fire Birds Into Jet Engines?",
      """Why do engineers fire birds into brand new jet engines with a cannon? Because real birds will hit them. The US rules spell it out. A large engine must survive a single bird of about eight pounds hitting its fan at two hundred knots, and shut down safely without catching fire or breaking loose. Then there is the flock test. Several medium birds are fired in, and the engine must keep running for about twenty minutes afterward, at changing power settings, like it would on a real flight returning to the airport.""",
      "bird strike jet engine test")
 sc("""The requirement depends on how big the engine's intake is. The bigger the opening, the bigger and more numerous the birds. For the largest engines, the large single bird test uses a bird of eight point zero three pounds. During the flock test, the engine cannot lose more than twenty-five percent of its thrust and cannot shut down. Engine makers use a compressed air launcher, often called a bird cannon, to fire them at the exact spot on the blades that would do the most damage.""",
@@ -73,7 +73,7 @@ sc("""Why so strict? Because sometimes the worst happens. In two thousand nine, 
    "US Airways Flight 1549 Hudson", "NATURE DOESN'T READ THE RULES")
 
 # ---------- 6. COOLING HOLES ----------
-part(6, "The holes in the turbine blades", "WHY ARE THESE BLADES FULL OF HOLES?", "This Metal Works Above Its Melting Point",
+part(6, "The holes in the turbine blades", "WHY ARE THESE BLADES FULL OF HOLES?", "Why Don't Turbine Blades Melt?",
      """Why are the turbine blades deep inside a jet engine covered in tiny holes? Because the gas hitting them is hotter than the melting point of the blades. The gas entering the turbine can reach about sixteen hundred degrees Celsius. The nickel alloy of the blades melts at roughly twelve hundred to fourteen hundred. So the blades are hollow. Cooler air from the compressor flows through channels inside them and comes out of those tiny holes, wrapping the blade in a thin protective film of air. The metal survives because it never actually touches the full heat.""",
      "turbine blade cooling holes")
 sc("""This trick is called film cooling. The cooling air itself is around seven hundred to eight hundred degrees Celsius, which sounds hot, but compared with the gas outside the blade, it is cold. The internal channels are formed during casting, using ceramic cores inside the mold, and the holes are drilled afterward with incredible precision. Each blade is a tiny piece of plumbing, built to survive in a place where its own material should be liquid.""",
@@ -83,21 +83,21 @@ sc("""Some of the most advanced turbine blades take this even further. They are 
    "single crystal turbine blade", "ONE CRYSTAL. ONE BLADE.")
 
 # ---------- 7. CERAMICS ----------
-part(7, "The ceramic armor", "WHY IS THIS METAL COATED IN CERAMIC?", "Jet Engines Use Ceramic Armor. Here's Why.",
+part(7, "The ceramic armor", "WHY IS THIS METAL COATED IN CERAMIC?", "Why Do Jet Engines Wear Ceramic Armor?",
      """Why are the hottest parts of a jet engine coated in ceramic? Because ceramic is a terrible conductor of heat, and that is exactly what you want. A thermal barrier coating about a quarter of a millimeter thick is sprayed onto the turbine blades. That thin layer keeps the metal underneath roughly a hundred degrees cooler than its surface. A hundred degrees may not sound like much, but at these temperatures, it can be the difference between a blade that lasts for years and one that fails.""",
      "thermal barrier coating turbine blade")
 sc("""The newest engines go further. According to GE Aerospace, the GE nine X has more than one hundred parts made from ceramic matrix composites, materials that can handle more heat than metal while weighing much less. Hotter running engines are more efficient, so every material that tolerates more heat lets engineers squeeze more power from less fuel. The history of the jet engine is, in large part, a history of fighting heat.""",
    "GE9X engine core", "100+ CERAMIC PARTS")
 
 # ---------- 8. THRUST REVERSERS ----------
-part(8, "The thrust reversers", "WHY DOES THE ENGINE OPEN UP ON LANDING?", "Why Jet Engines Open Up When They Land",
+part(8, "The thrust reversers", "WHY DOES THE ENGINE OPEN UP ON LANDING?", "Why Do Jet Engines Open Up When They Land?",
      """Why does the back of a jet engine slide open right after landing? That is the thrust reverser. On most modern engines, a sleeve slides back, blocker doors close the normal exit, and the fan air is forced out through angled vanes called cascades, pointing forward. The engine is still blowing backward through its core, but most of its push now goes the other way, helping to slow the airplane. According to Pilot Institute, reverse thrust can shorten the landing distance by up to twenty percent. And it saves the brakes.""",
      "thrust reverser deployed landing")
 sc("""But many landing distance calculations do not count on reversers at all, because an engine might be out, so the brakes alone must be enough. And reversers have to stay locked in flight. In nineteen ninety-one, on Lauda Air flight zero zero four, a Boeing seven sixty-seven's left thrust reverser deployed in flight while the engine was at high power during the climb from Bangkok. The airplane went out of control, and everyone on board died. Boeing then added a mechanical lock to the system.""",
    "Boeing 767 engine", "LAUDA AIR 004, 1991")
 
 # ---------- 9. BLEED AIR ----------
-part(9, "The air you breathe", "WHERE DOES THE CABIN AIR COME FROM?", "The Air You Breathe on a Plane Comes From Here",
+part(9, "The air you breathe", "WHERE DOES THE CABIN AIR COME FROM?", "Why Does Cabin Air Come From the Engines?",
      """Where does the air you breathe on most airliners come from? From the engines. Since the nineteen fifties, jets have taken compressed air from the compressor stages of their engines, called bleed air. It is already squeezed and hot, so after cooling in the air conditioning packs, it pressurizes the cabin. The same hot air also heats the wings to stop ice and powers other systems. It is clean air from outside. It is pulled in at the front, before any fuel is burned.""",
      "airliner engine pylon wing")
 sc("""But bleed air is not free. Every bit of air taken out of the compressor is air that is not making thrust. So the Boeing seven eighty-seven took a different path. It uses electric compressors to pressurize the cabin, and electric heating mats to de-ice its wings. Boeing claimed about a three percent improvement in fuel burn from this no bleed design. To make that possible, each engine drives two big generators.""",
@@ -107,7 +107,7 @@ sc("""There is a quiet engineering trade-off hidden here. The engine's compresso
    "Boeing 787 engine nacelle", "THE MORE ELECTRIC AIRCRAFT")
 
 # ---------- 10. FUSE PINS ----------
-part(10, "The pins that are meant to break", "WHY IS THIS ENGINE DESIGNED TO FALL OFF?", "Why Jet Engines Are Designed to Fall Off",
+part(10, "The pins that are meant to break", "WHY IS THIS ENGINE DESIGNED TO FALL OFF?", "Why Are Jet Engines Designed to Fall Off?",
      """Why is a jet engine attached to the wing with pins that are designed to break? They are called fuse pins, and like an electrical fuse, they fail on purpose. If an engine suffers a huge overload, for example in a crash landing or a violent seizure, the pins snap, and the engine breaks away cleanly. The idea is to protect the wing, and especially the fuel tank inside it, from being torn open. Losing an engine is bad. Losing the wing and its fuel is much worse.""",
      "engine pylon airliner wing")
 sc("""But a fuse must break only when it should. On the fourth of October, nineteen ninety-two, an El Al Boeing seven forty-seven freighter took off from Amsterdam. Fuse pins on the number three engine had developed fatigue cracks. The engine broke off, struck the outer engine, and tore it away too. The airplane crashed into apartment buildings in the Bijlmermeer district. Four people on board and at least forty-three on the ground died.""",
@@ -116,7 +116,7 @@ sc("""The Dutch investigation found that the pylon's design and certification we
    "Boeing 747 engines wing", "BREAK ONLY WHEN IT SHOULD")
 
 # ---------- 11. GENERATORS ----------
-part(11, "The generators", "WHY DOES A JET ENGINE MAKE ELECTRICITY?", "Jet Engines Are Also Power Plants",
+part(11, "The generators", "WHY DOES A JET ENGINE MAKE ELECTRICITY?", "Why Does a Jet Engine Make Electricity?",
      """Why does a jet engine also make electricity? Because the airplane needs a power plant in the sky. Underneath the engine is a gearbox, driven by the engine's shaft, that spins pumps and generators. They power the lights, the screens, the galleys, the flight computers, and on modern jets, much more. On the Boeing seven eighty-seven, each engine drives two generators of two hundred fifty kilovolt amperes each. That is one thousand kilovolt amperes from the two engines, far more than older jets needed.""",
      "jet engine accessory gearbox generator")
 sc("""On the ground, before the engines start, the auxiliary power unit in the tail takes over that job, with its own generators. In the air, if every engine stops, the ram air turbine we saw in our last airplane video drops out to keep the essentials alive. Electricity on an airliner has several layers of backup, because almost everything on a modern jet, from the flight controls to the fuel pumps, depends on it.""",

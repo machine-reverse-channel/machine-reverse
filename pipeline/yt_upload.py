@@ -2,11 +2,14 @@
 usage: yt_upload.py check | upload
 Secrets: YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN. Optional: EBOOK_URL, YT_BUDGET (quota units per run)."""
 import datetime as dt, json, os, subprocess, sys, pathlib, requests
+from zoneinfo import ZoneInfo
 
 STATE = pathlib.Path("agendamento/youtube-state.json")
 COST_UPLOAD, COST_THUMB = 1600, 50
-# Brasília times (UTC-3): long 13:00, Shorts 17:00 and 21:00
-SLOTS_UTC = [(16, 0), (20, 0), (24, 0)]
+# New York times (the audience's clock, daylight saving handled by zoneinfo): long 6 pm, Shorts 3 pm and 9 pm.
+# A calendar day can override them with "times": ["18:00", "19:00", "21:00"] (long, short 1, short 2).
+NY = ZoneInfo("America/New_York")
+SLOTS_NY = ["18:00", "15:00", "21:00"]
 
 
 def token():
@@ -22,12 +25,15 @@ def queue():
     """Every upload in calendar order: (key, video, file, publishAt, title, description, is_long)."""
     cal = json.load(open("agendamento/calendar.json")); ebook = os.environ.get("EBOOK_URL") or "[LINK HERE]"
     for day in cal:
-        d = dt.datetime.fromisoformat(day["date"]).replace(tzinfo=dt.timezone.utc)
-        items = [("long", day["long"], None)] + [("short", v, s) for v, s in day["shorts"]]
+        items = [("long", day.get("long"), None)] + [("short", v, s) for v, s in day.get("shorts", [])]
+        times = day.get("times") or SLOTS_NY
         for slot, (kind, v, s) in enumerate(items):
             if not v: continue
-            m = json.load(open(f"agendamento/meta/video{v:02d}.json"))
-            at = d + dt.timedelta(hours=SLOTS_UTC[slot][0], minutes=SLOTS_UTC[slot][1])
+            mf = pathlib.Path(f"agendamento/meta/video{v:02d}.json")
+            if not mf.exists(): print("not ready yet:", mf); continue
+            m = json.loads(mf.read_text())
+            hh, mm = map(int, times[min(slot, len(times) - 1)].split(":"))
+            at = dt.datetime.fromisoformat(day["date"]).replace(hour=hh, minute=mm, tzinfo=NY).astimezone(dt.timezone.utc)
             if kind == "long":
                 yield f"v{v:02d}", v, f"video{v:02d}.mp4", at, m["title"], m["description"].replace("[LINK HERE]", ebook), True
             else:
@@ -83,7 +89,7 @@ def main(mode):
     for key, v, fname, at, title, desc, is_long in (queue_lote() if lote else queue()):
         if key in state: continue
         if not is_long and os.environ.get("YT_SHORTS") != "1": continue  # Shorts are scheduled by hand
-        if at < now + dt.timedelta(hours=2):
+        if at < now + dt.timedelta(minutes=45):
             print("skip (slot already passed):", key, at); state[key] = {"skipped": "slot passed"}; continue
         if budget < COST_UPLOAD + (COST_THUMB if is_long else 0): break
         f = dl / f"{v:02d}-{fname}"

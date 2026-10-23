@@ -53,7 +53,7 @@ sc("""On airliners, you often find them right in front of the flaps, or near the
    "vortex generators aircraft", "CHEAP. SMALL. CRUCIAL.")
 
 # ---------- 4. STATIC WICKS ----------
-part(4, "The sticks on the wingtips", "WHY ARE THESE STICKS HERE?", "What Are These Sticks on Airplane Wings?",
+part(4, "The sticks on the wingtips", "WHY ARE THESE STICKS HERE?", "Why Do Airplane Wings Have Little Sticks?",
      """Why are there little sticks hanging off the back of every airliner's wings and tail? They are not antennas, and they are not decoration. They are static wicks, also called static dischargers. When a jet flies through rain, snow, ice crystals or dust, friction charges the whole airplane with static electricity. More than five hundred thousand volts have been measured on small airplanes in flight. If that charge leaks off in uncontrolled sparks, it creates a roar of radio noise. The wicks bleed it off quietly, through sharp points, so the pilots can still hear the radio.""",
      "static discharger aircraft wing", file="File:Easyjet a319-100 g-ezbv winglet arp.jpg", arrow={"x": 0.355, "y": 0.49})
 sc("""Pilots call this problem precipitation static. Without dischargers, the charge escapes from the wing tips and tail edges in a crackling corona discharge. In the headset, it sounds like a loud hiss. It can drown out voice radio, confuse navigation receivers, and even make some instruments behave erratically. In the middle of a storm, that is exactly when you need the radio most.""",
@@ -71,7 +71,7 @@ sc("""Then the numbers became enormous. According to NASA, a typical Southwest A
    "Southwest Airlines Boeing 737 winglets", "2 BILLION GALLONS SAVED")
 
 # ---------- 6. FLAP TRACK FAIRINGS ----------
-part(6, "The canoes under the wing", "WHY ARE THESE CANOES HERE?", "What Are the Canoes Under Airplane Wings?",
+part(6, "The canoes under the wing", "WHY ARE THESE CANOES HERE?", "Why Are There Canoes Under Airplane Wings?",
      """Why are there long pods, shaped like canoes, hanging under the wing? They are called flap track fairings, and they have two jobs. The first is obvious once you know it. Inside each canoe is the heavy mechanism that slides the flaps backward and down for takeoff and landing. The second job is hidden. Their long shape sticks out past the back of the wing on purpose, and it actually reduces drag at cruise speed. They are not just covers. They are shaped to make the whole airplane slip through the air more easily.""",
      "flap track fairing Airbus A320 wing", file="File:Antishock body on B787 wing (2).jpg", arrow={"x": 0.46, "y": 0.63})
 sc("""That shape comes from a famous rule in aerodynamics, the area rule, developed by NASA's Richard Whitcomb in the nineteen fifties. Near the speed of sound, drag rises sharply. But if the cross section of the airplane changes smoothly from nose to tail, without sudden jumps, that drag is reduced. Airliners cruise at around eighty to eighty-five percent of the speed of sound, which is right in the zone where this matters.""",
@@ -98,7 +98,7 @@ sc("""And the bird theory? It is not completely crazy. In nineteen eighty-six, t
    "All Nippon Airways engine", "THE BIRD MYTH")
 
 # ---------- 9. PITOT TUBE ----------
-part(9, "The little tube on the nose", "WHY IS THIS TUBE SO IMPORTANT?", "This Tiny Tube Can Bring Down a Plane",
+part(9, "The little tube on the nose", "WHY IS THIS TUBE SO IMPORTANT?", "Why Can This Tiny Tube Bring Down a Plane?",
      """Why is this small tube on the nose of an airliner so important? It is a pitot tube, and it measures how fast the airplane is moving through the air. Air rams into the opening, and the pressure tells the computers the airspeed. Without it, the pilots are flying blind on one of the most important numbers in aviation. That is why the tubes are heated, and why there are always several of them. On the ground, you will often see them covered with red tags that say remove before flight, because even an insect nest inside one can be deadly.""",
      "pitot tube airliner nose", file="File:ILA-Pitotrohr.jpg", arrow={"x": 0.42, "y": 0.77})
 sc("""The most famous pitot tube story is Air France flight four forty-seven. On the first of June, two thousand nine, an Airbus A three thirty flying from Rio de Janeiro to Paris was cruising at about thirty-five thousand feet over the Atlantic. Ice crystals blocked the pitot tubes, and the airspeed readings became inconsistent. The autopilot disconnected, and the crew had to fly by hand.""",
@@ -116,14 +116,14 @@ sc("""And in two thousand nine, when US Airways flight fifteen forty-nine lost b
    "US Airways Flight 1549 Hudson", "THE HUDSON, 2009")
 
 # ---------- 11. TRIANGLE STICKER ----------
-part(11, "The triangle above your seat", "WHY THIS WINDOW?", "What Does the Triangle Above Your Seat Mean?",
+part(11, "The triangle above your seat", "WHY THIS WINDOW?", "Why Is There a Triangle Above Your Seat?",
      """Why is there a small triangle sticker above some airplane windows? It marks the window with the best view of the wing. If the crew needs to check the flaps, the slats, the engine, or ice on the wing, they know exactly which window to walk to, without searching row by row. There is usually at least one on each side of the cabin. You are not expected to do anything if you sit there. But if you want the best photo of the wing, or to watch the deicing, that is your seat.""",
      "aircraft cabin window wing view", file="File:EasyJet, Airbus A320neo, G-UZHP, Wing View.jpg", arrow={"x": 0.6, "y": 0.55})
 sc("""A former airline pilot, Daniel Bubb, told Reader's Digest that the main purpose is to help the crew locate problems quickly in an emergency or a malfunction of the wing flaps, slats, engine and other parts. The triangles are more common on larger Airbus and Boeing jets, and some airlines skip them entirely. Fans have even nicknamed it the William Shatner seat, after a famous Twilight Zone episode with a monster on the wing.""",
    "airplane cabin interior windows", "THE CREW'S WINDOW")
 
 # ---------- 12. ASHTRAY ----------
-part(12, "The ashtray in the bathroom", "WHY IS THERE AN ASHTRAY HERE?", "Smoking Is Banned. So Why the Ashtray?",
+part(12, "The ashtray in the bathroom", "WHY IS THERE AN ASHTRAY HERE?", "Why Do Airplane Bathrooms Have Ashtrays?",
      """Why is there an ashtray in an airplane bathroom, when smoking has been banned on flights for decades? Because the law requires it. US federal regulations say that lavatories must have self-contained, removable ashtrays, even though smoking is prohibited. The logic is simple. Some people break the rules. If someone lights a cigarette anyway, the worst thing they can do is throw it in the trash bin full of paper towels. The ashtray gives them a safe place to put it out. It is a part designed for people who are breaking the rules.""",
      "aircraft lavatory ashtray", file="File:Diehl Sylvia, PEW 2018, Hamburg (1X7A3759).jpg", arrow={"x": 0.21, "y": 0.2})
 sc("""The rule is written in Title fourteen of the Code of Federal Regulations, part twenty-five, section eight fifty-three. Smoking was banned on all US domestic flights in February nineteen ninety, except a few flights over six hours, and since two thousand, it has been banned on all flights to and from the United States. Yet the ashtrays remain, and if more than half of an airplane's lavatory ashtrays are broken, they must be repaired within seventy-two hours.""",

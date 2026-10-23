@@ -23,6 +23,7 @@ jobs:
       YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
       EBOOK_URL: ${{ vars.EBOOK_URL }}
       YT_BUDGET: ${{ vars.YT_BUDGET }}
+      YT_SHORTS: "1"
       GH_TOKEN: ${{ github.token }}
     steps:
       - uses: actions/checkout@v4
