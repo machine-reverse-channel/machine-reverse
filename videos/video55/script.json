@@ -117,8 +117,8 @@
    "query": "bridge deck drain",
    "caption": "WHY ARE THERE HOLES IN THIS BRIDGE?",
    "arrow": {
-    "x": 0.72,
-    "y": 0.5
+    "x": 0.83,
+    "y": 0.83
    },
    "chapter": "5. The holes in the deck",
    "short": "Why Do Bridges Have Holes in the Deck?",
@@ -209,8 +209,8 @@
    "query": "Tacoma Narrows Bridge 1940",
    "caption": "WHY IS THIS BRIDGE DECK SHAPED LIKE A WING?",
    "arrow": {
-    "x": 0.3,
-    "y": 0.75
+    "x": 0.45,
+    "y": 0.72
    },
    "chapter": "9. The shape of the deck",
    "short": "Why Are Bridge Decks Shaped Like Wings?",

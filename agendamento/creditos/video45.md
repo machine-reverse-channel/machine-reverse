@@ -1,0 +1,95 @@
+# Photo credits: Why Do Bullet Trains Have Such Long Noses?
+
+All photos from Wikimedia Commons.
+
+- Series-E5-U15 Yamabiko-50.jpg by MaedaAkihiko, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Series-E5-U15_Yamabiko-50.jpg
+- E5 series U34 train set at Shin-Hakodate-Hokuto 20260120.jpg by 掬茶, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:E5_series_U34_train_set_at_Shin-Hakodate-Hokuto_20260120.jpg
+- E5 series U9 train set at Shin-Hakodate-Hokuto 20260120.jpg by 掬茶, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:E5_series_U9_train_set_at_Shin-Hakodate-Hokuto_20260120.jpg
+- Shinkansen Series E5.jpg by Lodaï, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shinkansen_Series_E5.jpg
+- E5 Series Shinkansen EMU.jpg by Samson Ng . D201@EAL, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:E5_Series_Shinkansen_EMU.jpg
+- JRE Series-E5-E523-1 Outside-Door.jpg by MaedaAkihiko, CC0, https://commons.wikimedia.org/wiki/File:JRE_Series-E5-E523-1_Outside-Door.jpg
+- Shinkansen E5.jpg by Gzzz, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shinkansen_E5.jpg
+- Shinkansen E5 at Tokyo Station 2025-03-13.jpg by ERIC SALARD, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Shinkansen_E5_at_Tokyo_Station_2025-03-13.jpg
+- 0 Series Shinkansen NRM.jpg by FairlieGood, CC BY 4.0, https://commons.wikimedia.org/wiki/File:0_Series_Shinkansen_NRM.jpg
+- 0 Series Shinkansen SCMaglev and Railway Park001.jpg by Daylight9899, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:0_Series_Shinkansen_SCMaglev_and_Railway_Park001.jpg
+- Opened nose of N700 at Discover Shinkansen Day 2011.jpg by nubobo, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Opened_nose_of_N700_at_Discover_Shinkansen_Day_2011.jpg
+- Mockup of the nose of Shinkansen N700 on display at Discover Shinkansen Day 2011.jpg by nubobo, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Mockup_of_the_nose_of_Shinkansen_N700_on_display_at_Discover_Shinkansen_Day_2011.jpg
+- Class E956 ALFA-X Shinkansen EMU.jpg by Samson Ng . D201@EAL, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Class_E956_ALFA-X_Shinkansen_EMU.jpg
+- E5 Serise Shinkansen , E5系 新幹線 - panoramio (8).jpg by z tanuki, CC BY 3.0, https://commons.wikimedia.org/wiki/File:E5_Serise_Shinkansen_,_E5%E7%B3%BB_%E6%96%B0%E5%B9%B9%E7%B7%9A_-_panoramio_(8).jpg
+- E5 Series Shinkansen.JPG by 銚電神, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:E5_Series_Shinkansen.JPG
+- JRE Series E956-1 S13.jpg by MaedaAkihiko, CC0, https://commons.wikimedia.org/wiki/File:JRE_Series_E956-1_S13.jpg
+- E956-1Sendai.jpg by N100teda, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:E956-1Sendai.jpg
+- Common kingfisher on a branch opening its wings.jpg by Alexis LOURS, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Common_kingfisher_on_a_branch_opening_its_wings.jpg
+- Giant Kingfisher-002.jpg by Rute Martins of Leoa's Photography (www.leoa.co.za), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Giant_Kingfisher-002.jpg
+- Nakayama tunnel north entrance of the Joetsu Shinkansen A.jpg by さかおり, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Nakayama_tunnel_north_entrance_of_the_Joetsu_Shinkansen_A.jpg
+- Hardanger bridge tunnel portal to Vallaviktunnel.jpg by Wolfgang Hägele, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hardanger_bridge_tunnel_portal_to_Vallaviktunnel.jpg
+- Baikal Railway, Tunnel 27 portal, Russia.jpg by Vyacheslav Argenberg, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Baikal_Railway,_Tunnel_27_portal,_Russia.jpg
+- Nakayama tunnel north entrance of the Joetsu Shinkansen C.jpg by さかおり, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Nakayama_tunnel_north_entrance_of_the_Joetsu_Shinkansen_C.jpg
+- Nakayama tunnel north entrance of the Joetsu Shinkansen B.jpg by さかおり, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Nakayama_tunnel_north_entrance_of_the_Joetsu_Shinkansen_B.jpg
+- Northern side of Nakayama tunnel Nagurumi construction area of Joetsu Shinkansen A.jpg by さかおり, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Northern_side_of_Nakayama_tunnel_Nagurumi_construction_area_of_Joetsu_Shinkansen_A.jpg
+- Northern side of Nakayama tunnel Nagurumi construction area of Joetsu Shinkansen B.jpg by さかおり, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Northern_side_of_Nakayama_tunnel_Nagurumi_construction_area_of_Joetsu_Shinkansen_B.jpg
+- JRW Shinkansen Series 500 V3 Pantograph.jpg by Sfm at Japanese Wikipedia, CC BY 3.0, https://commons.wikimedia.org/wiki/File:JRW_Shinkansen_Series_500_V3_Pantograph.jpg
+- Shinkansen 500 series W2 formation.jpg by JobanLineE531 at Japanese Wikipedia, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Shinkansen_500_series_W2_formation.jpg
+- Shinkansen 500 Hello Kitty at Hakata Station 2025-03-27.jpg 1.jpg by ERIC  SALARD, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Shinkansen_500_Hello_Kitty_at_Hakata_Station_2025-03-27.jpg_1.jpg
+- Owl feather.JPG by Owl-exterminator97, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Owl_feather.JPG
+- Feather of a snowy owl (43917139011).jpg by USFWSAlaska, Public domain, https://commons.wikimedia.org/wiki/File:Feather_of_a_snowy_owl_(43917139011).jpg
+- JRW Shinkansen Series 100 K58 Pantograph.jpg by Sfm at Japanese Wikipedia, CC BY 3.0, https://commons.wikimedia.org/wiki/File:JRW_Shinkansen_Series_100_K58_Pantograph.jpg
+- Shinkansen Series E6 Pantograph.jpg by 掬茶, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shinkansen_Series_E6_Pantograph.jpg
+- Kyushu Shinkansen N700-8000 series interior 20110315.jpg by R34SkylineGT-R V-SpecⅡNür, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Kyushu_Shinkansen_N700-8000_series_interior_20110315.jpg
+- The Shinkansen interior (54054249928).jpg by mrpbps, CC BY 2.0, https://commons.wikimedia.org/wiki/File:The_Shinkansen_interior_(54054249928).jpg
+- Interior of a Shinkansen train 02.jpg by Tamaki Sono, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Interior_of_a_Shinkansen_train_02.jpg
+- Explanatory sign of 0 series shinkansen at the Transportation Museum.jpg by Shellparakeet, CC0, https://commons.wikimedia.org/wiki/File:Explanatory_sign_of_0_series_shinkansen_at_the_Transportation_Museum.jpg
+- 0 Series Shinkansen at the National Railway Museum - 54311394335.jpg by www.mgaylard.co.uk and thanks for looking, CC BY 2.0, https://commons.wikimedia.org/wiki/File:0_Series_Shinkansen_at_the_National_Railway_Museum_-_54311394335.jpg
+- Shinkansen passing in front of Mount Fuji.jpg by Manish Prabhune, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shinkansen_passing_in_front_of_Mount_Fuji.jpg
+- Tokaido-Shinkansen N700S Kikugawa.jpg by MaedaAkihiko, CC0, https://commons.wikimedia.org/wiki/File:Tokaido-Shinkansen_N700S_Kikugawa.jpg
+- JRCentralSeriesN700Nose.JPG by L,t,d,express at Japanese Wikipedia / Later version(s) were uploaded by Chatama at Japanese Wikipedia., CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:JRCentralSeriesN700Nose.JPG
+- N700 Series Shinkansen on Tokaido Line Tokyo March 2015.jpg by David Kernan, CC BY 4.0, https://commons.wikimedia.org/wiki/File:N700_Series_Shinkansen_on_Tokaido_Line_Tokyo_March_2015.jpg
+- Shinkansen N700.jpg by Artem.G, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Shinkansen_N700.jpg
+- JRW 500 series shinkansen set W1.jpg by Kubotake, CC BY 2.0, https://commons.wikimedia.org/wiki/File:JRW_500_series_shinkansen_set_W1.jpg
+- Shinkansen 500series (4404231800).jpg by Takeshi Kuboki from Amagasaki, Japan, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Shinkansen_500series_(4404231800).jpg
+- Series-N700a-Mt.Fuji.jpg by MaedaAkihiko, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Series-N700a-Mt.Fuji.jpg
+- Mount-Fuji from Tokaido Shinkansen window view.jpg by Indiana jo, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mount-Fuji_from_Tokaido_Shinkansen_window_view.jpg
+- Shinkansen snow melting sprinkler water pipe ２.jpg by Dr.yellow, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shinkansen_snow_melting_sprinkler_water_pipe_%EF%BC%92.jpg
+- Shinkansen snow melting sprinkler Onomachi pump house.jpg by Dr.yellow, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shinkansen_snow_melting_sprinkler_Onomachi_pump_house.jpg
+- Shinkansen snow melting sprinkler Toriimoto pump house.jpg by Dr.yellow, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shinkansen_snow_melting_sprinkler_Toriimoto_pump_house.jpg
+- Tokaido Shinkansen Snow melting Jūrokuchō pump house.jpg by Dr.yellow, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tokaido_Shinkansen_Snow_melting_J%C5%ABrokuch%C5%8D_pump_house.jpg
+- Tokaido Shinkansen Snow melting Miyashiro pump house.jpg by Dr.yellow, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tokaido_Shinkansen_Snow_melting_Miyashiro_pump_house.jpg
+- Mount Fuji and Bullet Train view location.jpg by Manishprabhunejapan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mount_Fuji_and_Bullet_Train_view_location.jpg
+- Tokaido Shinkansen Tokyo station Slab tracks 01.jpg by Dr.yellow, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tokaido_Shinkansen_Tokyo_station_Slab_tracks_01.jpg
+- Tokaido Shinkansen Tokyo station Slab tracks 02.jpg by Dr.yellow, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tokaido_Shinkansen_Tokyo_station_Slab_tracks_02.jpg
+- Bauende eines neuen Streckenabschnittes mit Betonschwellen.jpg by August Geyler, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bauende_eines_neuen_Streckenabschnittes_mit_Betonschwellen.jpg
+- Workers manually levelling gravel (Ballast) in the railway track, Tamil Nadu 04.jpg by PJeganathan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Workers_manually_levelling_gravel_(Ballast)_in_the_railway_track,_Tamil_Nadu_04.jpg
+- Views of Tokaido Shinkansen Maibara track maintenance yard from Tōkaidō Shinkansen 02.jpg by 電車(新幹線)でゴー！, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Views_of_Tokaido_Shinkansen_Maibara_track_maintenance_yard_from_T%C5%8Dkaid%C5%8D_Shinkansen_02.jpg
+- Tokaido Shinkansen Maibara track maintenance yard.jpg by 電車(新幹線)でゴー！, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tokaido_Shinkansen_Maibara_track_maintenance_yard.jpg
+- Ocean Bottom Seismometer made by ERI, U-Tokyo.jpg by Theodore Xu, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ocean_Bottom_Seismometer_made_by_ERI,_U-Tokyo.jpg
+- "Сейсмограф" Seismometer in Moscow Institute of Physics and Technology 20260330 133932.jpg by Lesless, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%22%D0%A1%D0%B5%D0%B9%D1%81%D0%BC%D0%BE%D0%B3%D1%80%D0%B0%D1%84%22_Seismometer_in_Moscow_Institute_of_Physics_and_Technology_20260330_133932.jpg
+- Historischer Seismograph.jpg by Ilyacadiz, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Historischer_Seismograph.jpg
+- Joetsu Shinkansen derailed by the 2004 Chuetsu Earthquake 01.jpg by Naoki Sato, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Joetsu_Shinkansen_derailed_by_the_2004_Chuetsu_Earthquake_01.jpg
+- Shinkansen tunnel in Yuzawa.jpg by Syced, CC0, https://commons.wikimedia.org/wiki/File:Shinkansen_tunnel_in_Yuzawa.jpg
+- Shinkansen, the Hayabusa and the Super-Komachi super express.jpg by Nanashinodensyaku, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shinkansen,_the_Hayabusa_and_the_Super-Komachi_super_express.jpg
+- Reinforcement work of Tohoku Shinkansen for earthquake damage.jpg by Indiana jo, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Reinforcement_work_of_Tohoku_Shinkansen_for_earthquake_damage.jpg
+- Doctor Yellow inspection running on Tokaido Shinkansen.jpg by Dr.yellow, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Doctor_Yellow_inspection_running_on_Tokaido_Shinkansen.jpg
+- Type923-T4.jpg by MaedaAkihiko, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Type923-T4.jpg
+- Doctor Yellow from Mount Ibuki.jpg by Alpsdake, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Doctor_Yellow_from_Mount_Ibuki.jpg
+- Doctor Yellow type Loadtrain 4.jpg by Dr.yellow, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Doctor_Yellow_type_Loadtrain_4.jpg
+- Doctor Yellow is stopping at Odawara station 2015 (16793390321).jpg by T.Kiya
+
+ This photo was taken with Panasonic Lumix DMC-LX7, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Doctor_Yellow_is_stopping_at_Odawara_station_2015_(16793390321).jpg
+- Shinkansen Maintenance Tokai staff 02.jpg by 電車(新幹線)でゴー！, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shinkansen_Maintenance_Tokai_staff_02.jpg
+- Shinkansen Maintenance Tokai staff 03.jpg by 電車(新幹線)でゴー！, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shinkansen_Maintenance_Tokai_staff_03.jpg
+- Umrisswagen, Schmalspurmuseum Radebeul.jpg by R.D. - Rolf-Dresden, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Umrisswagen,_Schmalspurmuseum_Radebeul.jpg
+- Tunnelmesswagen anagoria.JPG by Anagoria, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Tunnelmesswagen_anagoria.JPG
+- Tokaido Shinkansen viaduct Hachijo Bℓ.jpg by 電車(新幹線)でゴー！, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tokaido_Shinkansen_viaduct_Hachijo_B%E2%84%93.jpg
+- Tokaido Shinkansen viaduct Karahashi Bℓ.jpg by 電車(新幹線)でゴー！, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tokaido_Shinkansen_viaduct_Karahashi_B%E2%84%93.jpg
+- Eye of Shinkansen E6.jpg by 掬茶, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Eye_of_Shinkansen_E6.jpg
+- Shinkansen E6 Z5 Kakunodate 190201.jpg by Kitayama, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shinkansen_E6_Z5_Kakunodate_190201.jpg
+- Shinkansen N700 z15.jpg by TC411-507 at Japanese Wikipedia, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Shinkansen_N700_z15.jpg
+- Shinkansen N700 at HIroshima Station 2 2025-03-27.jpg by Eric Salard, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_HIroshima_Station_2_2025-03-27.jpg
+- 020 N700 Series Shinkansen 新幹線 arriving at Kyoto Station, Japan.jpg by Marek Ślusarczyk (Tupungato) Photo gallery, CC BY 3.0, https://commons.wikimedia.org/wiki/File:020_N700_Series_Shinkansen_%E6%96%B0%E5%B9%B9%E7%B7%9A_arriving_at_Kyoto_Station,_Japan.jpg
+- Shinkansen N700 at HIroshima Station 1 2025-03-27.jpg by Eric Salard, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_HIroshima_Station_1_2025-03-27.jpg
+- Shinkansen N700 set X52 at Hiroshima Station 2025-03-27.jpg by Eric Salard, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Shinkansen_N700_set_X52_at_Hiroshima_Station_2025-03-27.jpg
+- Shinkansen N700 set G41 at Hiroshima Station 2025-03-27.jpg by airlines470, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Shinkansen_N700_set_G41_at_Hiroshima_Station_2025-03-27.jpg
+- Shinkansen N700S series photographed at Higashi-Tagonoura with Mount Fuji in the background, 10 April 2023.jpg by Takeshi Aida, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Shinkansen_N700S_series_photographed_at_Higashi-Tagonoura_with_Mount_Fuji_in_the_background,_10_April_2023.jpg
+- Mount Fuji and Shinkansen N700.jpg by Alpsdake, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mount_Fuji_and_Shinkansen_N700.jpg
+- View of Mt Fuji from Shinkansen - March 2025.jpg by Kuroshiononeko, CC0, https://commons.wikimedia.org/wiki/File:View_of_Mt_Fuji_from_Shinkansen_-_March_2025.jpg
+- Shinkansen N700 with Mount Fuji.jpg by tansaisuketti, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Shinkansen_N700_with_Mount_Fuji.jpg
