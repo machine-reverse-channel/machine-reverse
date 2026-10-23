@@ -124,7 +124,7 @@ PICKS = {
     1: ('File:Toyota Sprinter Trueno AE86 2 door.jpg', 0.52, 0.6),
     2: ('File:Chevrolet Corvette C5 Haynes.jpg', 0.75, 0.48),
     3: ('File:Headlight lens optics.jpg', 0.4, 0.45),
-    4: ('File:H4 halogen car lamp.jpg', 0.35, 0.55),
+    4: ('File:Halogen light bulb.JPG', 0.3, 0.4),
     5: ('File:2014 Proton Suprima S Premium - Headlights.jpg', 0.55, 0.45),
     6: ('File:1957 Panhard Dyna Z (France Domestic) (8391189016).jpg', 0.3, 0.45),
     7: ('File:BMW M4 (G83) 1X7A7098.jpg', 0.4, 0.53),

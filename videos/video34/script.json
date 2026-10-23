@@ -94,13 +94,13 @@
    "query": "halogen bulb",
    "caption": "WHY IS THERE GAS INSIDE THIS BULB?",
    "arrow": {
-    "x": 0.35,
-    "y": 0.55
+    "x": 0.3,
+    "y": 0.4
    },
    "chapter": "4. The halogen bulb",
    "short": "Why Do Halogen Headlight Bulbs Have Gas Inside?",
    "cuts": 3,
-   "file": "File:H4 halogen car lamp.jpg"
+   "file": "File:Halogen light bulb.JPG"
   },
   {
    "text": "That gas creates a chemical cycle. The evaporated metal combines with the gas, and later lands back on the hot filament. The glass stays clear, and the filament can run hotter, which makes the light brighter and whiter. That is why halogen bulbs are made of quartz glass, which can handle the heat.",
