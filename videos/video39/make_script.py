@@ -121,6 +121,16 @@ sc("""A cruise ship looks top heavy, but it is really a carefully weighted keel 
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ('File:Vasco da Gama (ship, 1993) at Liverpool Cruise Terminal 1.jpg', 0.5, 0.72),
+    2: ('File:Viking Sky (ship, 2017) - Sète - December 2018 - 02.jpg', 0.6, 0.5),
+    3: ('File:Polarstern stabilizer hg.jpg', 0.45, 0.45),
+    4: ('File:Inside SS Rotterdam, foto Smiths Stabiliser fin angle indicator.JPG', 0.5, 0.4),
+    5: ('File:USS Pampanito watertight door.JPG', 0.5, 0.55),
+    6: ('File:Mackinaw WLBB-30 Azipod thruster.jpg', 0.6, 0.5),
+    7: ('File:Engine control room, Explorer of the Seas 03.jpg', 0.5, 0.45),
+    8: ('File:A lifeboat on the cruise ship Scarlet Lady.jpg', 0.4, 0.5),
+    9: ('File:USS Tennessee (ACR-10)- Inclining Experiment - Ship at Time of Inclining Experiment., Sheet 1 - NARA - 122414678.jpg', 0.4, 0.4),
+    10: ('File:Oasis of the Seas.jpg', 0.4, 0.45),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
