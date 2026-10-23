@@ -123,10 +123,10 @@ sc("""Next time you see a cargo plane, look at the doors. They tell you exactly 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
     1: ("File:Big mouth (50162261181).jpg", 0.3, 0.45),
-    2: ("File:B-16462 B747-45E (SCD) Eva Air BKK 31MAR06 (6539733803).jpg", 0.62, 0.55),
+    2: ("File:PH-BUN Boeing 747-206B(M)(SUD) KLM AMS 2.90 (53197710565).jpg", 0.81, 0.55),
     3: ("File:USCG Lockheed HC-130H 1704 cargo bay pallet rollers.JPG", 0.5, 0.5),
     4: ("File:N414FE cargo hold.jpg", 0.5, 0.4),
-    5: ("File:Antonov An-124 (445770991).jpg", 0.6, 0.6),
+    5: ("File:Antonov An-124 (Antonov Airlines) (6098824435).jpg", 0.27, 0.88),
     6: ("File:C-130 Air Drop 110411-F-RH591-224.jpg", 0.5, 0.55),
     7: ("File:Boeing 747-400LCF Dreamlifter.jpg", 0.75, 0.45),
     8: ("File:Airbus Beluga, ILA 2024, Schoenefeld (ILA43968).jpg", 0.6, 0.3),

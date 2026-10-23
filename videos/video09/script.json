@@ -48,13 +48,13 @@
    "query": "main deck side cargo door",
    "caption": "WHY IS THIS DOOR SO BIG?",
    "arrow": {
-    "x": 0.62,
+    "x": 0.81,
     "y": 0.55
    },
    "chapter": "2. The giant side door",
    "short": "Why Do Cargo Planes Have a Giant Side Door?",
    "cuts": 3,
-   "file": "File:B-16462 B747-45E (SCD) Eva Air BKK 31MAR06 (6539733803).jpg"
+   "file": "File:PH-BUN Boeing 747-206B(M)(SUD) KLM AMS 2.90 (53197710565).jpg"
   },
   {
    "text": "Cutting a giant hole in the side of a pressurized fuselage is a serious job. The edges of the hole must be reinforced with new frames and beams, because the fuselage is basically a pressure vessel, and the forces that the old skin carried must now go around the door. The door itself has heavy latches, and the crew gets warnings if it is not fully locked.",
@@ -117,13 +117,13 @@
    "query": "Antonov An-124 nose open",
    "caption": "WHY DOES THIS PLANE KNEEL DOWN?",
    "arrow": {
-    "x": 0.6,
-    "y": 0.6
+    "x": 0.27,
+    "y": 0.88
    },
    "chapter": "5. The legs that kneel",
    "short": "Why Does This Giant Plane Kneel Down?",
    "cuts": 3,
-   "file": "File:Antonov An-124 (445770991).jpg"
+   "file": "File:Antonov An-124 (Antonov Airlines) (6098824435).jpg"
   },
   {
    "text": "The An-124 has doors at both ends, so vehicles can drive in one side and out the other. It can carry about one hundred twenty tonnes in its standard version, and up to one hundred fifty in a special version. Inside the cabin, there is an overhead crane that can lift thirty tonnes, plus a winch that can pull loads of up to one hundred twenty tonnes. It does not need much help from the airport.",
