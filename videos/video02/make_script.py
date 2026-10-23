@@ -141,7 +141,7 @@ for s in S:
     if n in PICKS:
         s["file"], s["arrow"] = PICKS[n][0], {"x": PICKS[n][1], "y": PICKS[n][2]}
 
-json.dump({"id": "video02", "title": "10 Tiny Things on Every Airliner That Keep You Alive",
+json.dump({"id": "video02", "title": "Why Are There Lights on the Floor of Every Airplane?",
            "length_scale": 1.6, "scenes": S}, open("videos/video02/script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)
 print(len(S), "scenes,", words, "words, about", round(words / (219 / 1.6)), "min")

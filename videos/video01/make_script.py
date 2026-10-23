@@ -135,7 +135,7 @@ sc("""So here are the twelve. A hole that keeps a spare window ready. Rounded co
 sc("""The pattern is always the same. Every strange part on an airplane is the answer to a question somebody had to ask, often the hard way. If you want more machines explained part by part, rockets, Formula One cars, ships and giant trains, subscribe to Machine Reverse. And tell us in the comments which part on an airplane you have always wondered about. We might explain it next.""",
    "airliner landing runway", "SUBSCRIBE: MACHINE REVERSE", cuts=4)
 
-json.dump({"id": "video01", "title": "12 Airplane Parts You've Seen But Can't Explain (Why They Exist)",
+json.dump({"id": "video01", "title": "Why Is There a Hole in Airplane Windows?",
            "length_scale": 1.5, "scenes": S}, open("videos/video01/script.json", "w"), indent=1)
 words = sum(len(s["text"].split()) for s in S)
 print(len(S), "scenes,", words, "words, about", round(words / (219 / 1.5)), "min")
