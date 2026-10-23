@@ -127,10 +127,10 @@ PICKS = {
     4: ("File:Tyre warmer 2005 United States GP (19890682).jpg", 0.45, 0.6),
     5: ("File:Pirelli P Zero Formula 1 Medium Slick Tyre 2026.jpg", 0.85, 0.5),
     6: ("File:Toyota steering wheel 1.jpg", 0.29, 0.33),
-    7: ("File:Kimi Raikkonen 2017 United States GP (37946719176).jpg", 0.72, 0.22),
+    7: ("File:Kimi Raikkonen 2017 United States GP (37946719176).jpg", 0.66, 0.35),
     8: ("File:Fale F1 Monza 2004 77.jpg", 0.37, 0.65),
     9: ("File:Massa Ferrari Pitstop Chinese GP 2008.jpg", 0.5, 0.45),
-    10: ("File:Istanbul park kubica pit wall.JPG", 0.78, 0.55),
+    10: ("File:Istanbul park kubica pit wall.JPG", 0.52, 0.5),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None

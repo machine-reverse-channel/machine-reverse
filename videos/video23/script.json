@@ -163,8 +163,8 @@
    "query": "Formula One pit stop lights",
    "caption": "WHY IS THERE A TRAFFIC LIGHT IN THE PIT BOX?",
    "arrow": {
-    "x": 0.72,
-    "y": 0.22
+    "x": 0.66,
+    "y": 0.35
    },
    "chapter": "7. The release lights",
    "short": "Why Do F1 Teams Use a Traffic Light in the Pits?",
@@ -232,8 +232,8 @@
    "query": "Formula One pit board",
    "caption": "WHY DO TEAMS STILL USE THIS BOARD?",
    "arrow": {
-    "x": 0.78,
-    "y": 0.55
+    "x": 0.52,
+    "y": 0.5
    },
    "chapter": "10. The pit board",
    "short": "Why Do F1 Teams Still Hold Up a Pit Board?",
