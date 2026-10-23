@@ -1,0 +1,10 @@
+- Tail rotor, about 10% of engine power, Sikorsky layout, stripes for ground crew visibility: Wikipedia, "Tail rotor" https://en.wikipedia.org/wiki/Tail_rotor
+- Fenestron first flight 12 April 1968 (Gazelle prototype), uneven blade spacing on H135, H160 canted 12 degrees: Airbus, "50th anniversary of the trademark Fenestron" https://www.airbus.com/en/newsroom/press-releases/2018-04-50th-anniversary-of-the-trademark-fenestron
+- NOTAR (Coanda slots, direct jet thruster, OH-6A first flight 17 Dec 1981, 520N 1990, among the quietest FAA-certified): Wikipedia, "NOTAR" https://en.wikipedia.org/wiki/NOTAR
+- Coaxial rotors (Kamov, torque cancellation): Wikipedia, "Coaxial-rotor aircraft" https://en.wikipedia.org/wiki/Coaxial-rotor_aircraft
+- CH-47 Chinook tandem rotors, first flight September 1961: Wikipedia, "Boeing CH-47 Chinook" https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook
+- Swashplate, collective and cyclic: FAA Helicopter Flying Handbook https://www.faa.gov/sites/faa.gov/files/helicopter_flying_handbook.pdf
+- Jesus nut (1967 print, Bell 206B crash in 2000): Wikipedia, "Jesus nut" https://en.wikipedia.org/wiki/Jesus_nut
+- Ground resonance, lag dampers, tests, lift-off escape: SlashGear https://www.slashgear.com/1891320/ground-resonance-dangerous-to-helicopters
+- Wire strike protection system (Bristol Aerospace, May 1979 Kiowa, 3/8 in cable, 16% of US Army fatalities 1974-79): Wikipedia, "Wire strike protection system" https://en.wikipedia.org/wiki/Wire_strike_protection_system
+- Autorotation, freewheeling unit, flare at 50-100 ft, Jean Boulet Lama record 21 June 1972: Wikipedia, "Autorotation" https://en.wikipedia.org/wiki/Autorotation
