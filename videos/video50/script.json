@@ -1,0 +1,290 @@
+{
+ "id": "video50",
+ "title": "Why Are Mining Truck Tires Taller Than a Person?",
+ "length_scale": 1.6,
+ "scenes": [
+  {
+   "text": "Stand next to the wheel of a Caterpillar seven nine seven and you will not reach the top of the tire. You will not even reach the middle. Each tire is about four meters tall and weighs around five tonnes, as much as two family cars. The truck carries more than three hundred and sixty tonnes of rock in one trip. Today, eleven parts of a giant mining truck, and why each one exists.",
+   "query": "Caterpillar 797",
+   "caption": "TALLER THAN A PERSON",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "These trucks never drive on public roads. They live inside open pit mines, climbing out of holes hundreds of meters deep, all day and all night, loaded to the limit. A mine can run a fleet of dozens of them, and every minute one stands still costs money. So every part on them exists for a reason.",
+   "query": "open pit mine haul truck",
+   "caption": "THEY NEVER STOP"
+  },
+  {
+   "text": "As always, every fact comes from a named source, manufacturers, mining safety agencies, and engineering references, all listed in the description. Let's start with the part that gives this video its name, the tire.",
+   "query": "mining truck tire",
+   "caption": "WHY DOES THIS EXIST?"
+  },
+  {
+   "text": "Why is this tire taller than the man standing next to the truck? Because the tire is what carries the load to the ground, and the ground in a mine is soft, broken rock. A Caterpillar seven nine seven, loaded, weighs more than six hundred tonnes. Spread that over six tires, and each one carries around a hundred tonnes. A small tire would sink into the haul road, cut itself on rock, and overheat. A big tire spreads the weight over a bigger patch of ground.",
+   "query": "Caterpillar 797",
+   "caption": "WHY IS THIS TIRE TALLER THAN A PERSON?",
+   "arrow": {
+    "x": 0.18,
+    "y": 0.5
+   },
+   "chapter": "1. The tire taller than a person",
+   "short": "Why Are Mining Truck Tires Taller Than a Person?",
+   "cuts": 3,
+   "file": "File:CAT 797 SDB BHPBilliton Escondida Chile 2 HR.jpg"
+  },
+  {
+   "text": "The tire size used on the biggest trucks is called fifty nine eighty R sixty three. The last number means the rim is sixty three inches across, about one point six meters. Just the rim is taller than many people. Around it sits a rubber casing with steel cords inside, built in layers, so it can bend over rocks thousands of times a day without tearing apart.",
+   "query": "haul truck tire",
+   "caption": "THE RIM ALONE: 1.6 M"
+  },
+  {
+   "text": "Only a few companies in the world can make these tires, among them Michelin, Bridgestone and Goodyear. Each one takes days to build and cure, and costs tens of thousands of dollars. In the mid two thousands, when mining boomed, the world ran short of giant tires, and some mines had to park trucks because they had nothing to put under them.",
+   "query": "mining truck tire",
+   "caption": "THE GREAT TIRE SHORTAGE"
+  },
+  {
+   "text": "Why do many mines fill these tires with nitrogen instead of air? Because a giant tire can explode. If the tire gets very hot, from a brake fire, a lightning strike, or someone welding on the rim, the rubber inside can start to break down into flammable gases. Mixed with the oxygen in normal air, those gases can ignite inside the tire. Nitrogen has no oxygen to feed that reaction.",
+   "query": "haul truck tire",
+   "caption": "WHY ARE THESE TIRES FILLED WITH NITROGEN?",
+   "arrow": {
+    "x": 0.66,
+    "y": 0.62
+   },
+   "chapter": "2. The tire filled with nitrogen",
+   "short": "Why Are Mining Truck Tires Filled With Nitrogen?",
+   "cuts": 3,
+   "file": "File:Mont Wright Mine haul truck in for maintenance - see the maintenance crew?.jpg"
+  },
+  {
+   "text": "These explosions are not small. Mining safety agencies in the United States and Australia have warned that an overheated giant tire can burst with enough force to throw the rim and pieces of the truck dozens of meters, and to kill people nearby. That is why, when a tire is overheated, the rule is to clear the area and keep people far away for many hours, sometimes a full day.",
+   "query": "Mont Wright Mine haul truck",
+   "caption": "KEEP AWAY FOR 24 HOURS"
+  },
+  {
+   "text": "Nitrogen also helps the tire itself. With less oxygen inside, the rubber and steel cords age more slowly, and the pressure stays more stable as the tire heats up and cools down. For a tire that costs as much as a car, every extra hour of life matters. It is a simple gas doing a very serious job.",
+   "query": "mining truck tire",
+   "caption": "NO OXYGEN, NO FIRE"
+  },
+  {
+   "text": "Why can't a mining truck simply drive faster to move more rock? Because the tire would cook itself. Every time a loaded tire rolls, the rubber squeezes and relaxes, and that bending turns into heat. Rubber is a poor conductor, so the heat stays inside. Drive too fast, or too far without a break, and the inside of the tire gets hot enough to separate the layers and destroy it.",
+   "query": "Tire Transport Truck",
+   "caption": "WHY DO THESE TIRES HAVE A SPEED LIMIT?",
+   "arrow": {
+    "x": 0.5,
+    "y": 0.3
+   },
+   "chapter": "3. The tire's speed limit",
+   "short": "Why Can't Mining Trucks Drive Faster?",
+   "cuts": 3,
+   "file": "File:Big, big tires (8093997590).jpg"
+  },
+  {
+   "text": "Tire makers give every tire a heat rating, measured in tonne kilometers per hour. Mines calculate it for each road. How heavy is the load, how far is the trip, how fast does the truck go, and how hot is the weather. If the number is too high, the mine slows the trucks down, shortens the route, or buys tougher rubber.",
+   "query": "haul truck tire",
+   "caption": "TONNE-KILOMETERS PER HOUR"
+  },
+  {
+   "text": "That is why a truck with a four thousand horsepower engine usually tops out at around sixty kilometers an hour. The limit is not the engine. It is the rubber. And moving a single new tire to the mine is a job of its own, often on a special trailer as an oversize load.",
+   "query": "Big, big tires",
+   "caption": "THE LIMIT IS THE RUBBER"
+  },
+  {
+   "text": "Why does this truck have a staircase built across its front? Because the driver sits about as high as the second floor of a house. A normal ladder would be steep and dangerous, especially at night, in rain or snow, in heavy boots. So the big trucks have a diagonal stairway with handrails, climbing across the front of the radiator to a walkway that leads to the cab.",
+   "query": "Caterpillar 797",
+   "caption": "WHY DOES THIS TRUCK HAVE A STAIRCASE?",
+   "arrow": {
+    "x": 0.45,
+    "y": 0.6
+   },
+   "chapter": "4. The staircase on the front",
+   "short": "Why Do Mining Trucks Have a Staircase on the Front?",
+   "cuts": 3,
+   "file": "File:Caterpillar 797 Truck2.jpg"
+  },
+  {
+   "text": "Falls are one of the most common injuries around heavy equipment. A person climbing down backward, missing a step, can fall several meters onto rock. Stairs let people face forward, with three points of contact, and some trucks even have a powered ladder that lowers itself to the ground and lifts up when the truck moves.",
+   "query": "Giant Mining Truck",
+   "caption": "FACE FORWARD, HOLD ON"
+  },
+  {
+   "text": "Most trucks also have a rule. The driver must not move the truck until the stairs or ladder are up, and lights or alarms in the cab warn if they are not. On a machine this size, even getting in and out is engineered.",
+   "query": "mining truck cab",
+   "caption": "EVEN GETTING IN IS ENGINEERED"
+  },
+  {
+   "text": "Why does the dump body stretch forward over the driver's cab like a roof? Because the truck is loaded by a shovel that drops dozens of tonnes of rock from above, a few bucketfuls at a time. The operator aims for the middle of the body, but rocks bounce and spill. A rock the size of a fridge falling onto an unprotected cab could crush it. The canopy takes the hit instead.",
+   "query": "Komatsu 930E",
+   "caption": "WHY DOES THE DUMP BODY COVER THE CAB?",
+   "arrow": {
+    "x": 0.3,
+    "y": 0.15
+   },
+   "chapter": "5. The roof over the cab",
+   "short": "Why Does a Mining Truck's Body Cover the Driver?",
+   "cuts": 3,
+   "file": "File:KOMATSU 930E-2.JPG"
+  },
+  {
+   "text": "This extension is called the canopy, and it is part of the steel dump body. It also protects the engine, the radiator and the cooling fans at the front. On many trucks, the cab itself has a rollover protective structure, a steel cage tested to survive if the truck tips over.",
+   "query": "mining dump truck body",
+   "caption": "A STEEL ROOF"
+  },
+  {
+   "text": "The dump body is a wear part too. Rock sliding out of it scrapes the steel like sandpaper, so the floor is made of hard, wear resistant plate, and some mines add liners of rubber or steel that can be replaced. A body can weigh more than thirty tonnes empty, and it still needs repairs.",
+   "query": "haul truck dump body",
+   "caption": "STEEL LIKE SANDPAPER"
+  },
+  {
+   "text": "Why does this diesel truck have electric motors inside its rear wheels? Because a normal gearbox has a hard time handling this much power and weight. On a diesel electric truck like the Komatsu nine thirty E, the diesel engine does not turn the wheels. It turns a generator. The electricity goes through cables to motors inside the rear wheel hubs, with gears that multiply the force.",
+   "query": "Komatsu 930E",
+   "caption": "WHY ARE THERE ELECTRIC MOTORS IN THESE WHEELS?",
+   "arrow": {
+    "x": 0.68,
+    "y": 0.62
+   },
+   "chapter": "6. The electric motors in the wheels",
+   "short": "Why Do Some Mining Trucks Have Electric Wheels?",
+   "cuts": 3,
+   "file": "File:Komatsu 930E Monster truck.jpg"
+  },
+  {
+   "text": "There is no clutch and no gear shift. The motors give strong, smooth force even at a crawl, which is exactly what a loaded truck needs when it climbs a steep ramp out of a pit. The idea is old. In the nineteen sixties, a company called Unit Rig built the Lectra Haul, one of the first big diesel electric mining trucks.",
+   "query": "Lectra Haul",
+   "caption": "NO GEARBOX"
+  },
+  {
+   "text": "Electric drive also helps the brakes. Going downhill, the motors work in reverse, as generators. They slow the truck and turn its energy into heat in big resistor grids, so the normal brakes stay cool. And some mines now go further. They put overhead power lines on the uphill ramps, and the trucks raise a pantograph like a tram, to climb on electricity from the grid.",
+   "query": "Komatsu 930E",
+   "caption": "MOTORS THAT BRAKE"
+  },
+  {
+   "text": "Why does the front of a mining truck look like a giant wall of grille? Because behind it is a radiator the size of a garage door. The engine in a Caterpillar seven nine seven F has twenty cylinders and a displacement of about one hundred and six liters, roughly fifty times a family car's. It makes around four thousand horsepower, and a lot of that energy comes out as heat, not motion.",
+   "query": "Komatsu HD605",
+   "caption": "WHY IS THIS RADIATOR SO BIG?",
+   "arrow": {
+    "x": 0.55,
+    "y": 0.62
+   },
+   "chapter": "7. The giant radiator",
+   "short": "Why Do Mining Trucks Have Such Huge Grilles?",
+   "cuts": 3,
+   "file": "File:Komatsu HD605 Dump Truck (12716020333).jpg"
+  },
+  {
+   "text": "In a mine, that heat has nowhere easy to go. Trucks work in deserts at more than forty degrees, climb ramps fully loaded at low speed, and run around the clock. A huge fan pulls air through the radiator, and the whole front of the truck is shaped around feeding that fan with cool air.",
+   "query": "haul truck engine",
+   "caption": "40 DEGREES, 24 HOURS"
+  },
+  {
+   "text": "Dust is the other enemy. The air is full of fine rock powder that clogs radiators and wears engines from the inside. So the trucks use large air filters, sometimes with pre-cleaners that spin the dust out before the air reaches the filter. Breathing is hard work for a machine this size.",
+   "query": "mining truck",
+   "caption": "DUST IS THE ENEMY"
+  },
+  {
+   "text": "Why does this truck have sensors and antennas on a mast above the cab? Because some mining trucks drive themselves. The mast carries GPS antennas, radios and obstacle sensors. A control room tells each truck where to go, the truck follows a precise path on the haul road, and it stops if something gets in its way.",
+   "query": "autonomous haul truck",
+   "caption": "WHY DOES THIS TRUCK HAVE NO DRIVER?",
+   "arrow": {
+    "x": 0.27,
+    "y": 0.3
+   },
+   "chapter": "8. The sensors on the mast",
+   "short": "Why Do Some Mining Trucks Drive Themselves?",
+   "cuts": 3,
+   "file": "File:Ferrexpo autonomous truck.jpg"
+  },
+  {
+   "text": "Autonomous haulage started in real mines around two thousand eight, in Chile and in the iron ore mines of Western Australia. Today, systems from Komatsu, Caterpillar and others run hundreds of driverless trucks. They can work every hour of the day, without breaks or shift changes, and the mines report fewer accidents and lower costs.",
+   "query": "Pilbara iron ore mine",
+   "caption": "NO BREAKS, NO SHIFTS"
+  },
+  {
+   "text": "Driverless does not mean nobody is in charge. People in the control room plan routes and watch every truck. And the trucks are fenced off from people. Anyone who enters the autonomous zone has to be tracked by the system, so the trucks know where they are. The robot still needs humans. They just sit somewhere else.",
+   "query": "open pit mine",
+   "caption": "THE HUMANS SIT ELSEWHERE"
+  },
+  {
+   "text": "Why does the BelAZ seven five seven ten have eight tires instead of six? Because it is the largest dump truck ever built, and no tire in the world is big enough to carry its load with just six. Built in Belarus and launched in two thousand thirteen, it is rated for four hundred and fifty tonnes. In a test, it carried more than five hundred tonnes in one load.",
+   "query": "BelAZ 75710",
+   "caption": "WHY DOES THIS TRUCK HAVE 8 TIRES?",
+   "arrow": {
+    "x": 0.42,
+    "y": 0.72
+   },
+   "chapter": "9. The eight tires of the BelAZ",
+   "short": "Why Does the World's Biggest Truck Have 8 Tires?",
+   "cuts": 3,
+   "file": "File:BelAZ 75710 1.png"
+  },
+  {
+   "text": "Instead of inventing a bigger tire, the engineers used more of the existing giant ones, two axles with four tires each. Two diesel engines, together making more than four thousand five hundred horsepower, feed an electric drive. And unlike most trucks, both axles steer, so this giant can turn in a smaller circle.",
+   "query": "BelAZ",
+   "caption": "TWO ENGINES, BOTH AXLES STEER"
+  },
+  {
+   "text": "It shows a strange truth about mining trucks. Their size is not limited by engines or steel. It is limited by tires, by roads, and by the size of the shovels that load them. A truck that is too big for the shovel waits longer to fill, and that waiting costs more than the extra rock is worth.",
+   "query": "BelAZ 75710",
+   "caption": "LIMITED BY TIRES"
+  },
+  {
+   "text": "Why can a mining truck driver not see a car parked right in front of them? Because from a cab this high, the ground near the truck is hidden by the truck itself. The blind area in front and on the right side can be big enough to hide a pickup truck completely. Mining safety agencies have recorded many cases of haul trucks driving over smaller vehicles, often killing the people inside.",
+   "query": "Logan Lake mining truck",
+   "caption": "WHY CAN'T THE DRIVER SEE THIS CAR?",
+   "arrow": {
+    "x": 0.75,
+    "y": 0.78
+   },
+   "chapter": "10. The car that disappears",
+   "short": "Why Can't a Mining Truck Driver See a Car?",
+   "cuts": 3,
+   "file": "File:Logan Lake Mining Dump Truck 1.jpg"
+  },
+  {
+   "text": "So the mines fight blindness with rules and gadgets. Light vehicles carry tall flags on a pole, sometimes called buggy whips, with a light on top, so the driver can see them over the truck's nose. Trucks have cameras, mirrors and radar that beep when something is close. And small vehicles must ask by radio before they come near a haul truck.",
+   "query": "haul truck",
+   "caption": "FLAGS ON A POLE"
+  },
+  {
+   "text": "Another rule is called the berm. Haul roads have walls of rock along the edges, at least as tall as half a truck tire, so a truck that drifts off the road hits the berm instead of going over the edge. On a machine this size, safety is not a feature you add. It is designed into the road too.",
+   "query": "open pit mine haul road",
+   "caption": "THE ROAD IS PART OF IT"
+  },
+  {
+   "text": "Why do some mining trucks send their hot exhaust through the dump body? Because in cold climates, wet rock freezes to the steel. When the truck tips its body, part of the load stays stuck inside, frozen to the floor. That is called carryback. The truck drives back to the shovel still carrying tonnes of rock it was supposed to dump.",
+   "query": "Lectra Haul",
+   "caption": "WHY DO SOME DUMP BODIES GET HEATED?",
+   "arrow": {
+    "x": 0.55,
+    "y": 0.3
+   },
+   "chapter": "11. The heated dump body",
+   "short": "Why Do Some Mining Trucks Heat Their Dump Body?",
+   "cuts": 3,
+   "file": "File:Lectra Haul giant mining truck in Asbestos, Quebec.jpg"
+  },
+  {
+   "text": "Carryback is pure waste. The truck burns fuel to haul the same rock twice, and it has less room for the next load. So trucks working in places like Canada, Russia and Scandinavia can be fitted with body heating. Exhaust gas is routed through channels under the floor of the body, warming the steel so the rock slides out.",
+   "query": "mining dump truck",
+   "caption": "HAULING ROCK TWICE"
+  },
+  {
+   "text": "It is a clever reuse of heat the engine would throw away anyway. And it shows the whole philosophy of these machines. When a truck moves hundreds of tonnes every few minutes, small losses add up to millions of dollars a year. Every part is there to remove one.",
+   "query": "Komatsu 930E",
+   "caption": "SMALL LOSSES, MILLIONS"
+  },
+  {
+   "text": "So here are the eleven. A tire taller than a person, filled with nitrogen so it cannot explode, with a speed limit set by heat. A staircase instead of a ladder, a roof over the driver, and electric motors in the wheels. A radiator the size of a garage door, a mast that lets the truck drive itself, eight tires on the biggest truck ever built, a blind spot that can hide a car, and a dump body heated by its own exhaust.",
+   "query": "Caterpillar 797",
+   "caption": "11 PARTS. 360 TONNES PER TRIP.",
+   "chapter": "The verdict",
+   "cuts": 6
+  },
+  {
+   "text": "A mining truck looks like a toy blown up to giant size, but at this scale, nothing works the way it does on a normal truck. If you want more machines explained part by part, subscribe to Machine Reverse. And tell us in the comments which machine you want us to take apart next.",
+   "query": "mining truck",
+   "caption": "SUBSCRIBE: MACHINE REVERSE",
+   "cuts": 4
+  }
+ ]
+}

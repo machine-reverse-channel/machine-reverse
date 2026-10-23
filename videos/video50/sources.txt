@@ -1,0 +1,12 @@
+- Caterpillar 797F (363 t payload, C175-20 engine ~106 L, ~4,000 hp, 59/80R63 tires, top speed ~68 km/h): Caterpillar 797F spec sheet https://www.cat.com/en_US/products/new/equipment/off-highway-trucks/mining-trucks/18093383.html and Wikipedia, "Caterpillar 797" https://en.wikipedia.org/wiki/Caterpillar_797
+- Giant tire size, construction and the 2005-2008 OTR tire shortage: Wikipedia, "Haul truck" https://en.wikipedia.org/wiki/Haul_truck ; Michelin Earthmover tire data book https://business.michelin.com/
+- Tire pyrolysis explosions, nitrogen inflation, exclusion zones: MSHA, "Tire and Rim Safety" https://www.msha.gov/ ; NSW Resources Regulator / Queensland mine safety alerts on tyre explosions https://www.resourcesregulator.nsw.gov.au/
+- TKPH (tonne-kilometre per hour) tire heat rating: Michelin / Bridgestone OTR technical data books
+- Stairs, three points of contact, access systems: MSHA, "Mobile Equipment Safety" https://www.msha.gov/
+- Canopy, ROPS, dump body liners: Komatsu 930E product brochure https://www.komatsu.com/ and Wikipedia, "Haul truck"
+- Diesel-electric drive, wheel motors, dynamic retarding: Wikipedia, "Komatsu 930E" https://en.wikipedia.org/wiki/Komatsu_930E ; Unit Rig Lectra Haul history https://en.wikipedia.org/wiki/Unit_Rig
+- Trolley assist on haul roads (Boliden Aitik): Boliden press releases https://www.boliden.com/
+- Autonomous haulage (Codelco Gaby 2008, Rio Tinto Pilbara, Komatsu FrontRunner, Cat Command): Komatsu https://www.komatsu.com/ ; Rio Tinto https://www.riotinto.com/
+- BelAZ 75710 (450 t, 2013, 8 tires, two 16-cylinder engines, record 503.5 t): Wikipedia, "BelAZ 75710" https://en.wikipedia.org/wiki/BelAZ_75710
+- Haul truck blind spots, buggy whip flags, berms (mid-axle height rule): MSHA fatality reports and 30 CFR 56.9300 https://www.ecfr.gov/current/title-30/part-56
+- Exhaust body heating and carryback: Caterpillar / Komatsu body options literature; Wikipedia, "Haul truck"
