@@ -6,11 +6,14 @@ def sc(text, query, caption, **kw):
     S.append({"text": " ".join(text.split()), "query": query, "caption": caption, **kw})
 
 
-def part(n, name, question, short, text, query, file=None, arrow=True):
-    """The "Why does this exist?" scene. It must work alone as a Short: question, answer, punchline."""
+def part(n, name, question, short, text, query, file=None, arrow=True, local=None):
+    """The "Why does this exist?" scene. It must work alone as a Short: question, answer, punchline.
+    file = exact Commons photo of the part, arrow = {"x", "y"} position of the part in the 16:9 frame."""
     extra = {"arrow": arrow, "chapter": f"{n}. {name}", "short": short, "cuts": 3}
     if file:
         extra["file"] = file
+    if local:
+        extra["local"] = local
     sc(text, query, question, **extra)
 
 
@@ -124,6 +127,25 @@ sc("""So here are the eleven. A fan that makes most of the thrust, with curved c
    "jet engine test run", "11 PARTS. 11 REASONS.", chapter="The verdict", cuts=6)
 sc("""A jet engine looks like a simple tube with a fan. It is really dozens of solutions to dozens of problems, stacked inside each other. If you want more machines explained part by part, subscribe to Machine Reverse. And tell us in the comments which machine you want us to take apart next. Rockets are coming soon.""",
    "airliner takeoff engines", "SUBSCRIBE: MACHINE REVERSE", cuts=4)
+
+# Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
+PICKS = {
+    1: ('File:Engine of Jet Airways Boeing 777-300ER.jpg', 0.38, 0.3),
+    2: ('File:GE90 dsc04644.jpg', 0.72, 0.25),
+    3: ("File:Fan & nacelle Airbus A300's CF-6.JPG", 0.7, 0.75),
+    4: ('File:PW4077 Fan.jpg', 0.84, 0.5),
+    5: ('File:JT8D Engine after Bird Strike.jpg', 0.3, 0.6),
+    6: ('File:Repair process for a V2500 high-pressure turbine guide vane (9).jpg', 0.55, 0.45),
+    7: ('File:Stator Blade with Thermal Barrier Testing on Hot Gas Rig (GRC-1975-C-01372).jpg', 0.2, 0.5),
+    8: ('File:Thrust reversers arp, G-EZIO, Airbus A319 of EasyJet at Bristol International Airport, 2006.jpg', 0.46, 0.56),
+    9: ('File:Detail of GEnx turbofan engine core.jpg', 0.3, 0.3),
+    10: ('File:JASDF C-2(78-1205) engine pylon left side view at Komaki Air Base March 3, 2018.jpg', 0.55, 0.4),
+    11: ('File:Pratt & Whitney Canada JT15D-5F turbofan engine accessory gearbox left front view at JASDF Hamamatsu Air Base October 23, 2022.jpg', 0.45, 0.6),
+}
+for s in S:
+    n = int(s["chapter"].split(".")[0]) if s.get("short") else None
+    if n in PICKS:
+        s["file"], s["arrow"] = PICKS[n][0], {"x": PICKS[n][1], "y": PICKS[n][2]}
 
 json.dump({"id": "video03", "title": "11 Jet Engine Parts Nobody Understands (Until Now)",
            "length_scale": 1.6, "scenes": S}, open("videos/video03/script.json", "w"), indent=1)

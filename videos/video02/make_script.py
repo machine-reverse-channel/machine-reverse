@@ -6,11 +6,14 @@ def sc(text, query, caption, **kw):
     S.append({"text": " ".join(text.split()), "query": query, "caption": caption, **kw})
 
 
-def part(n, name, question, short, text, query, file=None, arrow=True):
-    """The "Why does this exist?" scene. It must work alone as a Short: question, answer, punchline."""
+def part(n, name, question, short, text, query, file=None, arrow=True, local=None):
+    """The "Why does this exist?" scene. It must work alone as a Short: question, answer, punchline.
+    file = exact Commons photo of the part, arrow = {"x", "y"} position of the part in the 16:9 frame."""
     extra = {"arrow": arrow, "chapter": f"{n}. {name}", "short": short, "cuts": 3}
     if file:
         extra["file"] = file
+    if local:
+        extra["local"] = local
     sc(text, query, question, **extra)
 
 
@@ -119,6 +122,24 @@ sc("""So here are the ten. Lights on the floor that glow without power. A detect
    "airliner cabin evacuation", "10 THINGS. 10 LESSONS.", chapter="The verdict", cuts=6)
 sc("""The next time you board, look for them. Count the floor lights, find the thick bulge at the bottom of the door where the slide is packed, and read the sign on the bathroom detector. Then remember that flying is as safe as it is because people refused to accept the same accident twice. Subscribe to Machine Reverse for more machines explained part by part, and tell us which safety feature you want explained next.""",
    "airliner boarding passengers", "SUBSCRIBE: MACHINE REVERSE", cuts=4)
+
+# Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
+PICKS = {
+    1: ('File:Economy Plus seat on a 737 Max.jpg', 0.5, 0.88),
+    2: ('File:Econamy class lavatory.jpg', 0.6, 0.08),
+    3: ('File:Trash bin signage in aircraft.jpg', 0.27, 0.35),
+    4: ('File:JP 沖繩 Okinawa 亞洲航空 AirAsia flying to HKG flight aircraft economy class interior seats February 2026 N13P 01.jpg', 0.3, 0.52),
+    5: ('File:PECO Passenger Service Unit.jpg', 0.3, 0.72),
+    6: ('File:Controlled impact demonstration dummies.jpg', 0.42, 0.85),
+    7: ('File:SP-LPC LO16 Flight escape slide.png', 0.38, 0.3),
+    8: ('File:Deflated evacuation slide on an Airbus A320.jpg', 0.45, 0.4),
+    9: ('File:Infant Life Vest 婴儿救生衣.jpg', 0.5, 0.5),
+    10: ('File:Cockpit door Airbus A319-100 D-AKNM Germanwings.jpg', 0.25, 0.5),
+}
+for s in S:
+    n = int(s["chapter"].split(".")[0]) if s.get("short") else None
+    if n in PICKS:
+        s["file"], s["arrow"] = PICKS[n][0], {"x": PICKS[n][1], "y": PICKS[n][2]}
 
 json.dump({"id": "video02", "title": "10 Tiny Things on Every Airliner That Keep You Alive",
            "length_scale": 1.6, "scenes": S}, open("videos/video02/script.json", "w"), indent=1)
