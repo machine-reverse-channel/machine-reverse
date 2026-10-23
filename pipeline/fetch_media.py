@@ -25,13 +25,17 @@ def api_pages(params):
     raise SystemExit(f"Commons API kept failing for {params['gsrsearch']}")
 
 
-def download(url):
+def download(url, fatal=True):
+    url = url.split("?")[0]  # Commons appends tracking params to unscaled originals; the bare URL is the file
     for attempt in range(8):
         r = requests.get(url, headers=HEADERS, timeout=120)
         if r.status_code == 200:
             return r.content
+        print("download", r.status_code, url)
         time.sleep(5 * (attempt + 1))
-    raise SystemExit(f"download failed: {url}")
+    if fatal:
+        raise SystemExit(f"download failed: {url}")
+    return None
 
 
 def pick(query, used):
@@ -85,6 +89,9 @@ def main(video):
             if k == 0 and s.get("local"):  # our own diagram from assets/, no credit needed
                 f.write_bytes(pathlib.Path(s["local"]).read_bytes()); last = f; print(i, k, s["local"]); continue
             m = exact(s["file"]) if k == 0 and s.get("file") else None
+            data = download(m["url"], fatal=False) if m else None
+            if m and data is None:  # the chosen photo would not download: fall back to a search rather than fail
+                print(i, k, "exact photo failed, searching instead"); m = None
             if m is None:
                 m = pick(q, used)
             while m is None and len(q.split()) > 2:  # query too narrow: drop the last word and retry
@@ -93,7 +100,7 @@ def main(video):
                 if last is None: raise SystemExit("no photo found for scene %d: %s" % (i, s["query"]))
                 f.write_bytes(last.read_bytes()); print(i, k, "reuse"); continue
             used.add(m["title"])
-            f.write_bytes(download(m["url"])); last = f
+            f.write_bytes(data if data is not None else download(m["url"])); data = None; last = f
             credits.append({**m, "scene": i, "cut": k})
             print(i, k, m["title"], m["license"])
     (d / "credits.json").write_text(json.dumps(credits, indent=2))
