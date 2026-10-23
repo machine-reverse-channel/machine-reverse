@@ -1,0 +1,1375 @@
+1
+00:00:00,000 --> 00:00:02,641
+Behind the wheels of many supercars,
+
+2
+00:00:02,641 --> 00:00:05,282
+the brake discs are not shiny steel.
+
+3
+00:00:05,462 --> 00:00:06,819
+They are dark grey,
+
+4
+00:00:06,819 --> 00:00:09,105
+with a strange speckled surface,
+
+5
+00:00:09,105 --> 00:00:11,248
+and they cost more than a used
+
+6
+00:00:11,248 --> 00:00:11,534
+car.
+
+7
+00:00:11,714 --> 00:00:13,733
+They are made of ceramic,
+
+8
+00:00:13,733 --> 00:00:16,398
+the same family of materials as a
+
+9
+00:00:16,398 --> 00:00:17,287
+coffee cup.
+
+10
+00:00:17,467 --> 00:00:20,883
+Today, ten parts of a car's brakes,
+
+11
+00:00:20,883 --> 00:00:23,225
+and why each one exists.
+
+12
+00:00:23,576 --> 00:00:26,048
+Brakes have one job that sounds simple.
+
+13
+00:00:26,228 --> 00:00:28,564
+Turn the speed of the car into
+
+14
+00:00:28,564 --> 00:00:30,977
+heat, and get rid of that heat.
+
+15
+00:00:31,157 --> 00:00:33,712
+A heavy car stopping from high speed
+
+16
+00:00:33,712 --> 00:00:36,410
+produces enough heat to make the discs
+
+17
+00:00:36,410 --> 00:00:36,765
+glow.
+
+18
+00:00:36,945 --> 00:00:39,749
+Every clever part of a modern brake
+
+19
+00:00:39,749 --> 00:00:41,992
+is about handling that heat,
+
+20
+00:00:41,992 --> 00:00:43,595
+without losing grip,
+
+21
+00:00:43,595 --> 00:00:45,037
+weight or control.
+
+22
+00:00:45,387 --> 00:00:48,422
+As always, every fact here comes from
+
+23
+00:00:48,422 --> 00:00:49,653
+a named source,
+
+24
+00:00:49,653 --> 00:00:50,883
+the car makers,
+
+25
+00:00:50,883 --> 00:00:54,083
+brake makers and automotive references,
+
+26
+00:00:54,083 --> 00:00:56,544
+all listed in the description.
+
+27
+00:00:56,724 --> 00:00:58,953
+Let's start with the ceramic disc.
+
+28
+00:00:59,303 --> 00:01:02,390
+Why are supercar brake discs made of
+
+29
+00:01:02,390 --> 00:01:03,076
+ceramic?
+
+30
+00:01:03,256 --> 00:01:06,196
+Because they handle heat better and weigh
+
+31
+00:01:06,196 --> 00:01:06,913
+much less.
+
+32
+00:01:07,093 --> 00:01:09,951
+A carbon ceramic disc is made of
+
+33
+00:01:09,951 --> 00:01:13,792
+carbon fibres mixed into a ceramic material
+
+34
+00:01:13,792 --> 00:01:15,847
+called silicon carbide.
+
+35
+00:01:16,027 --> 00:01:19,129
+It stays strong at temperatures that would
+
+36
+00:01:19,129 --> 00:01:21,493
+make an iron disc lose its grip,
+
+37
+00:01:21,493 --> 00:01:23,857
+and it weighs about half as much
+
+38
+00:01:23,857 --> 00:01:25,851
+as an iron disc of the same
+
+39
+00:01:25,851 --> 00:01:26,220
+size.
+
+40
+00:01:26,571 --> 00:01:28,950
+When iron brakes get too hot after
+
+41
+00:01:28,950 --> 00:01:30,349
+repeated hard stops,
+
+42
+00:01:30,349 --> 00:01:31,679
+they start to fade.
+
+43
+00:01:31,859 --> 00:01:34,101
+The pedal goes soft and the car
+
+44
+00:01:34,101 --> 00:01:35,621
+takes longer to stop.
+
+45
+00:01:35,801 --> 00:01:39,301
+Carbon ceramic discs resist fade much better,
+
+46
+00:01:39,301 --> 00:01:41,635
+so the brakes feel the same on
+
+47
+00:01:41,635 --> 00:01:43,890
+the tenth hard stop as on the
+
+48
+00:01:43,890 --> 00:01:44,357
+first.
+
+49
+00:01:44,537 --> 00:01:45,646
+On a race track,
+
+50
+00:01:45,646 --> 00:01:48,765
+that is the difference between confidence and
+
+51
+00:01:48,765 --> 00:01:49,111
+fear.
+
+52
+00:01:49,462 --> 00:01:51,528
+The lower weight matters too.
+
+53
+00:01:51,708 --> 00:01:53,992
+The discs are part of the unsprung
+
+54
+00:01:53,992 --> 00:01:56,814
+weight, the weight that the suspension has
+
+55
+00:01:56,814 --> 00:01:58,963
+to control as the wheel moves up
+
+56
+00:01:58,963 --> 00:01:59,568
+and down.
+
+57
+00:01:59,748 --> 00:02:02,524
+Lighter discs help the wheels follow the
+
+58
+00:02:02,524 --> 00:02:02,871
+road.
+
+59
+00:02:03,051 --> 00:02:06,241
+Porsche marks its ceramic brakes with yellow
+
+60
+00:02:06,241 --> 00:02:08,778
+calipers, so you can spot them from
+
+61
+00:02:08,778 --> 00:02:09,576
+the street.
+
+62
+00:02:09,926 --> 00:02:12,397
+Why do some brake discs have holes
+
+63
+00:02:12,397 --> 00:02:13,559
+drilled in them?
+
+64
+00:02:13,739 --> 00:02:14,706
+In the past,
+
+65
+00:02:14,706 --> 00:02:17,766
+brake pads could release gas when they
+
+66
+00:02:17,766 --> 00:02:18,813
+got very hot.
+
+67
+00:02:18,993 --> 00:02:21,672
+That gas formed a thin layer between
+
+68
+00:02:21,672 --> 00:02:23,234
+the pad and the disc,
+
+69
+00:02:23,234 --> 00:02:24,350
+like a cushion,
+
+70
+00:02:24,350 --> 00:02:25,913
+and reduced the grip.
+
+71
+00:02:26,093 --> 00:02:28,114
+The holes gave the gas,
+
+72
+00:02:28,114 --> 00:02:29,433
+and also water,
+
+73
+00:02:29,433 --> 00:02:31,015
+a place to escape.
+
+74
+00:02:31,366 --> 00:02:34,008
+Modern pads release much less gas,
+
+75
+00:02:34,008 --> 00:02:35,951
+but the holes still help.
+
+76
+00:02:36,131 --> 00:02:38,452
+They let water escape in the rain,
+
+77
+00:02:38,452 --> 00:02:40,772
+they clean the surface of the pad,
+
+78
+00:02:40,772 --> 00:02:42,819
+and they save a little weight.
+
+79
+00:02:42,999 --> 00:02:45,940
+Some discs use slots instead of holes,
+
+80
+00:02:45,940 --> 00:02:48,959
+curved grooves that sweep the pad clean
+
+81
+00:02:48,959 --> 00:02:50,197
+with every turn.
+
+82
+00:02:50,547 --> 00:02:53,182
+Holes also have a downside.
+
+83
+00:02:53,362 --> 00:02:55,461
+Each hole is a weak point,
+
+84
+00:02:55,461 --> 00:02:57,317
+and under extreme heat,
+
+85
+00:02:57,317 --> 00:03:00,142
+small cracks can start around them.
+
+86
+00:03:00,322 --> 00:03:02,760
+That is why many race cars use
+
+87
+00:03:02,760 --> 00:03:05,930
+slotted discs rather than drilled ones.
+
+88
+00:03:06,110 --> 00:03:07,234
+On a road car,
+
+89
+00:03:07,234 --> 00:03:10,285
+the holes are often there because they
+
+90
+00:03:10,285 --> 00:03:12,774
+work well enough and look fast.
+
+91
+00:03:13,124 --> 00:03:16,288
+Why does a supercar brake caliper have
+
+92
+00:03:16,288 --> 00:03:17,953
+six or more pistons?
+
+93
+00:03:18,133 --> 00:03:20,827
+The caliper is the part that squeezes
+
+94
+00:03:20,827 --> 00:03:22,719
+the pads against the disc.
+
+95
+00:03:22,899 --> 00:03:26,169
+A basic car has one piston pushing
+
+96
+00:03:26,169 --> 00:03:27,323
+on one side.
+
+97
+00:03:27,503 --> 00:03:29,824
+A big supercar pad is long,
+
+98
+00:03:29,824 --> 00:03:32,660
+and one piston would push hard in
+
+99
+00:03:32,660 --> 00:03:35,583
+the middle and weakly at the ends.
+
+100
+00:03:35,934 --> 00:03:39,721
+Several smaller pistons spread the force evenly
+
+101
+00:03:39,721 --> 00:03:41,332
+along the whole pad.
+
+102
+00:03:41,512 --> 00:03:44,064
+The pad wears more evenly and grips
+
+103
+00:03:44,064 --> 00:03:45,669
+with its full surface.
+
+104
+00:03:45,849 --> 00:03:48,699
+The pistons can even be different sizes,
+
+105
+00:03:48,699 --> 00:03:50,907
+smaller at the front of the pad
+
+106
+00:03:50,907 --> 00:03:52,546
+and larger at the back,
+
+107
+00:03:52,546 --> 00:03:54,755
+because the front edge of a pad
+
+108
+00:03:54,755 --> 00:03:56,251
+tends to wear faster.
+
+109
+00:03:56,601 --> 00:04:00,623
+High performance calipers are often made from
+
+110
+00:04:00,623 --> 00:04:03,215
+one solid block of aluminium,
+
+111
+00:04:03,215 --> 00:04:04,913
+called a monoblock.
+
+112
+00:04:05,093 --> 00:04:07,375
+Without a joint in the middle,
+
+113
+00:04:07,375 --> 00:04:10,494
+the caliper bends less under huge forces,
+
+114
+00:04:10,494 --> 00:04:13,232
+so the pedal feels firm and precise.
+
+115
+00:04:13,412 --> 00:04:16,963
+Less flex means the driver feels exactly
+
+116
+00:04:16,963 --> 00:04:19,449
+how hard the car is braking.
+
+117
+00:04:19,799 --> 00:04:22,550
+Why is a brake disc hollow inside?
+
+118
+00:04:22,730 --> 00:04:24,952
+Look at the edge of most front
+
+119
+00:04:24,952 --> 00:04:27,470
+discs, and you will see two plates
+
+120
+00:04:27,470 --> 00:04:29,174
+with gaps between them.
+
+121
+00:04:29,354 --> 00:04:32,535
+Inside are curved walls called vanes.
+
+122
+00:04:32,715 --> 00:04:34,032
+As the disc spins,
+
+123
+00:04:34,032 --> 00:04:35,862
+the vanes act like a fan,
+
+124
+00:04:35,862 --> 00:04:38,789
+pulling air from the centre and throwing
+
+125
+00:04:38,789 --> 00:04:40,180
+it out of the edge.
+
+126
+00:04:40,530 --> 00:04:43,497
+That moving air carries heat away from
+
+127
+00:04:43,497 --> 00:04:45,293
+the inside of the disc,
+
+128
+00:04:45,293 --> 00:04:47,635
+so it cools much faster than a
+
+129
+00:04:47,635 --> 00:04:48,494
+solid disc.
+
+130
+00:04:48,674 --> 00:04:51,164
+Front brakes do most of the stopping
+
+131
+00:04:51,164 --> 00:04:54,208
+work, because the car's weight moves forward
+
+132
+00:04:54,208 --> 00:04:55,245
+when it brakes.
+
+133
+00:04:55,425 --> 00:04:57,676
+That is why many cars have vented
+
+134
+00:04:57,676 --> 00:05:00,131
+discs at the front and simpler solid
+
+135
+00:05:00,131 --> 00:05:01,358
+discs at the back.
+
+136
+00:05:01,708 --> 00:05:03,541
+On high performance discs,
+
+137
+00:05:03,541 --> 00:05:05,656
+the vanes can be curved in one
+
+138
+00:05:05,656 --> 00:05:08,547
+direction, which means the left and right
+
+139
+00:05:08,547 --> 00:05:10,380
+discs are different parts.
+
+140
+00:05:10,560 --> 00:05:12,383
+Fit them on the wrong side,
+
+141
+00:05:12,383 --> 00:05:14,542
+and the fan blows the wrong way.
+
+142
+00:05:14,722 --> 00:05:17,077
+It is a small reminder that even
+
+143
+00:05:17,077 --> 00:05:19,505
+the inside of a disc is carefully
+
+144
+00:05:19,505 --> 00:05:20,168
+designed.
+
+145
+00:05:20,518 --> 00:05:22,851
+Why do many fast cars have openings
+
+146
+00:05:22,851 --> 00:05:24,985
+in the front bumper that lead to
+
+147
+00:05:24,985 --> 00:05:25,719
+the wheels?
+
+148
+00:05:25,899 --> 00:05:27,501
+They are brake ducts.
+
+149
+00:05:27,681 --> 00:05:29,818
+They catch cool air at the front
+
+150
+00:05:29,818 --> 00:05:31,889
+of the car and blow it straight
+
+151
+00:05:31,889 --> 00:05:32,824
+at the brakes.
+
+152
+00:05:33,004 --> 00:05:34,114
+On a race track,
+
+153
+00:05:34,114 --> 00:05:36,196
+the brakes can get so hot that
+
+154
+00:05:36,196 --> 00:05:38,832
+the extra air makes a real difference.
+
+155
+00:05:39,183 --> 00:05:41,662
+The duct sends air into the centre
+
+156
+00:05:41,662 --> 00:05:43,048
+of the vented disc,
+
+157
+00:05:43,048 --> 00:05:45,382
+where the vanes pull it through.
+
+158
+00:05:45,562 --> 00:05:48,395
+Too little air and the brakes overheat.
+
+159
+00:05:48,575 --> 00:05:51,017
+Too much air and the brakes may
+
+160
+00:05:51,017 --> 00:05:53,381
+run too cold to grip properly,
+
+161
+00:05:53,381 --> 00:05:55,193
+and the duct adds drag.
+
+162
+00:05:55,373 --> 00:05:57,785
+Race teams change the size of the
+
+163
+00:05:57,785 --> 00:05:59,320
+ducts for each track.
+
+164
+00:05:59,671 --> 00:06:00,823
+On road cars,
+
+165
+00:06:00,823 --> 00:06:03,481
+the ducts are usually smaller,
+
+166
+00:06:03,481 --> 00:06:05,696
+but the idea is the same.
+
+167
+00:06:05,876 --> 00:06:08,649
+Some cars even open and close flaps
+
+168
+00:06:08,649 --> 00:06:10,392
+to change the cooling.
+
+169
+00:06:10,572 --> 00:06:12,413
+The brakes are one of the most
+
+170
+00:06:12,413 --> 00:06:14,683
+important things the front of the car
+
+171
+00:06:14,683 --> 00:06:15,971
+has to feed with air.
+
+172
+00:06:16,321 --> 00:06:18,597
+Why do brakes squeal when the pads
+
+173
+00:06:18,597 --> 00:06:19,467
+are worn out?
+
+174
+00:06:19,647 --> 00:06:21,888
+Often, it is on purpose.
+
+175
+00:06:22,068 --> 00:06:24,669
+Many brake pads have a small metal
+
+176
+00:06:24,669 --> 00:06:26,352
+tab on the back plate.
+
+177
+00:06:26,532 --> 00:06:29,008
+When the pad wears down close to
+
+178
+00:06:29,008 --> 00:06:31,717
+its limit, the tab touches the disc
+
+179
+00:06:31,717 --> 00:06:34,194
+and makes a high pitched squeal.
+
+180
+00:06:34,374 --> 00:06:36,623
+It is an alarm that does not
+
+181
+00:06:36,623 --> 00:06:38,310
+need any electronics.
+
+182
+00:06:38,660 --> 00:06:41,067
+If the driver ignored it and kept
+
+183
+00:06:41,067 --> 00:06:43,619
+driving, the pad would wear down to
+
+184
+00:06:43,619 --> 00:06:44,932
+its metal backing,
+
+185
+00:06:44,932 --> 00:06:47,485
+which would grind into the disc and
+
+186
+00:06:47,485 --> 00:06:48,215
+damage it.
+
+187
+00:06:48,395 --> 00:06:50,883
+The squeal gives the driver time to
+
+188
+00:06:50,883 --> 00:06:53,515
+replace the pads before that happens.
+
+189
+00:06:53,695 --> 00:06:57,042
+Many modern cars also use an electrical
+
+190
+00:06:57,042 --> 00:07:00,046
+sensor that lights a warning on the
+
+191
+00:07:00,046 --> 00:07:00,904
+dashboard.
+
+192
+00:07:01,255 --> 00:07:03,983
+Not every squeal means worn pads.
+
+193
+00:07:04,163 --> 00:07:07,608
+Brakes can also squeal from vibration,
+
+194
+00:07:07,608 --> 00:07:09,150
+dust or moisture,
+
+195
+00:07:09,150 --> 00:07:11,779
+especially on a cold morning.
+
+196
+00:07:11,959 --> 00:07:14,705
+But if a high pitched sound appears
+
+197
+00:07:14,705 --> 00:07:16,353
+and does not go away,
+
+198
+00:07:16,353 --> 00:07:18,785
+the little tab may be doing its
+
+199
+00:07:18,785 --> 00:07:19,099
+job.
+
+200
+00:07:19,279 --> 00:07:21,759
+It is a very cheap part that
+
+201
+00:07:21,759 --> 00:07:24,063
+saves very expensive ones.
+
+202
+00:07:24,413 --> 00:07:26,244
+Why is there a ring with teeth
+
+203
+00:07:26,244 --> 00:07:27,954
+near each wheel of your car?
+
+204
+00:07:28,134 --> 00:07:30,141
+It is part of the anti lock
+
+205
+00:07:30,141 --> 00:07:31,257
+braking system.
+
+206
+00:07:31,437 --> 00:07:34,123
+A sensor counts the teeth as they
+
+207
+00:07:34,123 --> 00:07:36,727
+pass, and that tells the car how
+
+208
+00:07:36,727 --> 00:07:38,925
+fast each wheel is turning.
+
+209
+00:07:39,105 --> 00:07:42,106
+If one wheel suddenly slows much faster
+
+210
+00:07:42,106 --> 00:07:43,337
+than the others,
+
+211
+00:07:43,337 --> 00:07:44,875
+it is about to lock.
+
+212
+00:07:45,226 --> 00:07:48,610
+A locked wheel slides instead of rolling,
+
+213
+00:07:48,610 --> 00:07:51,251
+and a sliding tyre cannot steer.
+
+214
+00:07:51,431 --> 00:07:52,855
+In an emergency stop,
+
+215
+00:07:52,855 --> 00:07:55,093
+the car would go straight even if
+
+216
+00:07:55,093 --> 00:07:56,516
+you turned the wheel.
+
+217
+00:07:56,696 --> 00:08:00,105
+The anti lock system releases and reapplies
+
+218
+00:08:00,105 --> 00:08:03,038
+the pressure on that wheel many times
+
+219
+00:08:03,038 --> 00:08:05,733
+per second, keeping it at the edge
+
+220
+00:08:05,733 --> 00:08:06,367
+of grip.
+
+221
+00:08:06,547 --> 00:08:08,259
+That is the buzzing you feel in
+
+222
+00:08:08,259 --> 00:08:08,811
+the pedal.
+
+223
+00:08:09,162 --> 00:08:12,519
+Electronic anti lock brakes arrived on a
+
+224
+00:08:12,519 --> 00:08:15,961
+production car in nineteen seventy-eight,
+
+225
+00:08:15,961 --> 00:08:17,976
+on the Mercedes S Class,
+
+226
+00:08:17,976 --> 00:08:19,738
+developed with Bosch.
+
+227
+00:08:19,918 --> 00:08:21,764
+Today they are standard,
+
+228
+00:08:21,764 --> 00:08:24,917
+and the same wheel sensors feed stability
+
+229
+00:08:24,917 --> 00:08:28,070
+control, which can brake single wheels to
+
+230
+00:08:28,070 --> 00:08:30,147
+keep the car from spinning.
+
+231
+00:08:30,327 --> 00:08:32,770
+A ring of teeth became the base
+
+232
+00:08:32,770 --> 00:08:34,425
+of modern car safety.
+
+233
+00:08:34,775 --> 00:08:36,960
+Why does brake fluid need to be
+
+234
+00:08:36,960 --> 00:08:38,652
+changed every few years?
+
+235
+00:08:38,832 --> 00:08:41,052
+The fluid carries the force of your
+
+236
+00:08:41,052 --> 00:08:42,257
+foot to the brakes.
+
+237
+00:08:42,437 --> 00:08:45,011
+It can do that because liquids do
+
+238
+00:08:45,011 --> 00:08:46,025
+not compress.
+
+239
+00:08:46,205 --> 00:08:49,270
+But brake fluid slowly absorbs water from
+
+240
+00:08:49,270 --> 00:08:52,037
+the air, through the hoses and seals,
+
+241
+00:08:52,037 --> 00:08:54,355
+even when the system is closed.
+
+242
+00:08:54,705 --> 00:08:57,622
+Water lowers the boiling point of the
+
+243
+00:08:57,622 --> 00:08:58,095
+fluid.
+
+244
+00:08:58,275 --> 00:09:00,904
+Fresh fluid boils at well over two
+
+245
+00:09:00,904 --> 00:09:03,920
+hundred degrees, but with some water in
+
+246
+00:09:03,920 --> 00:09:06,394
+it, the boiling point can drop a
+
+247
+00:09:06,394 --> 00:09:06,704
+lot.
+
+248
+00:09:06,884 --> 00:09:08,325
+During hard braking,
+
+249
+00:09:08,325 --> 00:09:10,993
+the heat from the brakes travels into
+
+250
+00:09:10,993 --> 00:09:11,713
+the fluid.
+
+251
+00:09:11,893 --> 00:09:12,962
+If it boils,
+
+252
+00:09:12,962 --> 00:09:14,833
+it forms gas bubbles,
+
+253
+00:09:14,833 --> 00:09:16,793
+and gas does compress.
+
+254
+00:09:17,143 --> 00:09:19,863
+The result is a pedal that suddenly
+
+255
+00:09:19,863 --> 00:09:22,816
+goes soft and sinks towards the floor,
+
+256
+00:09:22,816 --> 00:09:25,769
+exactly when you need the brakes most.
+
+257
+00:09:25,949 --> 00:09:28,991
+That is why car makers recommend changing
+
+258
+00:09:28,991 --> 00:09:30,772
+the fluid on a schedule,
+
+259
+00:09:30,772 --> 00:09:32,404
+often every two years.
+
+260
+00:09:32,584 --> 00:09:33,714
+A cheap liquid,
+
+261
+00:09:33,714 --> 00:09:37,253
+quietly protecting the most important system in
+
+262
+00:09:37,253 --> 00:09:37,855
+the car.
+
+263
+00:09:38,205 --> 00:09:40,907
+Why do Formula One brakes glow red
+
+264
+00:09:40,907 --> 00:09:42,814
+when the car slows down?
+
+265
+00:09:42,994 --> 00:09:46,073
+Because they are made of carbon carbon,
+
+266
+00:09:46,073 --> 00:09:48,757
+a material that works best when it
+
+267
+00:09:48,757 --> 00:09:50,099
+is extremely hot.
+
+268
+00:09:50,279 --> 00:09:52,901
+The discs can reach around one thousand
+
+269
+00:09:52,901 --> 00:09:54,784
+degrees during hard braking.
+
+270
+00:09:54,964 --> 00:09:56,365
+At that temperature,
+
+271
+00:09:56,365 --> 00:09:58,467
+they shine like the coils in a
+
+272
+00:09:58,467 --> 00:09:59,027
+toaster.
+
+273
+00:09:59,378 --> 00:10:02,176
+Carbon carbon brakes have a strange problem.
+
+274
+00:10:02,356 --> 00:10:03,808
+When they are cold,
+
+275
+00:10:03,808 --> 00:10:05,107
+they barely grip.
+
+276
+00:10:05,287 --> 00:10:07,346
+Drivers have to warm them up,
+
+277
+00:10:07,346 --> 00:10:09,688
+and the cars use ducts and covers
+
+278
+00:10:09,688 --> 00:10:12,314
+to keep them in the right temperature
+
+279
+00:10:12,314 --> 00:10:12,811
+window.
+
+280
+00:10:12,991 --> 00:10:15,841
+Each disc is drilled with hundreds of
+
+281
+00:10:15,841 --> 00:10:18,152
+tiny holes to cool it from the
+
+282
+00:10:18,152 --> 00:10:18,691
+inside.
+
+283
+00:10:19,041 --> 00:10:20,290
+When they are hot,
+
+284
+00:10:20,290 --> 00:10:22,164
+the deceleration is brutal.
+
+285
+00:10:22,344 --> 00:10:24,825
+A Formula One car can slow down
+
+286
+00:10:24,825 --> 00:10:27,466
+with a force of around five times
+
+287
+00:10:27,466 --> 00:10:28,667
+its own weight,
+
+288
+00:10:28,667 --> 00:10:31,388
+pushing the driver into the belts.
+
+289
+00:10:31,568 --> 00:10:34,590
+It is why carbon ceramic road brakes
+
+290
+00:10:34,590 --> 00:10:37,361
+exist, a version of the same idea
+
+291
+00:10:37,361 --> 00:10:39,544
+that also works when cold.
+
+292
+00:10:39,894 --> 00:10:43,023
+Why do electric cars barely use their
+
+293
+00:10:43,023 --> 00:10:44,038
+brake discs?
+
+294
+00:10:44,218 --> 00:10:46,990
+Because the electric motor can work in
+
+295
+00:10:46,990 --> 00:10:47,574
+reverse.
+
+296
+00:10:47,754 --> 00:10:49,281
+When you lift your foot,
+
+297
+00:10:49,281 --> 00:10:51,190
+the motor becomes a generator.
+
+298
+00:10:51,370 --> 00:10:52,591
+The wheels turn it,
+
+299
+00:10:52,591 --> 00:10:55,096
+and it makes electricity that goes back
+
+300
+00:10:55,096 --> 00:10:56,188
+into the battery.
+
+301
+00:10:56,368 --> 00:10:59,101
+That resistance slows the car down,
+
+302
+00:10:59,101 --> 00:11:01,210
+without touching the discs.
+
+303
+00:11:01,560 --> 00:11:04,776
+Instead of turning the car's speed into
+
+304
+00:11:04,776 --> 00:11:08,653
+wasted heat, regenerative braking turns part of
+
+305
+00:11:08,653 --> 00:11:10,302
+it back into energy.
+
+306
+00:11:10,482 --> 00:11:11,829
+In city traffic,
+
+307
+00:11:11,829 --> 00:11:13,176
+with many stops,
+
+308
+00:11:13,176 --> 00:11:15,532
+this can add a lot of range.
+
+309
+00:11:15,712 --> 00:11:18,730
+Many drivers learn to drive with one
+
+310
+00:11:18,730 --> 00:11:21,999
+pedal, slowing down just by lifting off
+
+311
+00:11:21,999 --> 00:11:23,340
+the accelerator.
+
+312
+00:11:23,690 --> 00:11:25,436
+The irony is that the brakes can
+
+313
+00:11:25,436 --> 00:11:27,509
+now suffer from being used too little.
+
+314
+00:11:27,689 --> 00:11:30,081
+Iron discs that rarely get hot can
+
+315
+00:11:30,081 --> 00:11:32,542
+rust and lose their smooth surface.
+
+316
+00:11:32,722 --> 00:11:35,415
+Some electric cars use the brakes on
+
+317
+00:11:35,415 --> 00:11:37,359
+purpose from time to time,
+
+318
+00:11:37,359 --> 00:11:39,154
+just to keep them clean.
+
+319
+00:11:39,334 --> 00:11:41,736
+After a century of fighting heat,
+
+320
+00:11:41,736 --> 00:11:44,575
+brakes now sometimes need a little more
+
+321
+00:11:44,575 --> 00:11:45,012
+of it.
+
+322
+00:11:45,362 --> 00:11:46,674
+So here are the ten.
+
+323
+00:11:46,854 --> 00:11:49,903
+Ceramic discs that resist heat and weigh
+
+324
+00:11:49,903 --> 00:11:50,894
+half as much.
+
+325
+00:11:51,074 --> 00:11:53,947
+Holes and slots that let gas and
+
+326
+00:11:53,947 --> 00:11:55,114
+water escape.
+
+327
+00:11:55,294 --> 00:11:57,547
+Many pistons for even pressure.
+
+328
+00:11:57,727 --> 00:12:00,258
+Hollow discs with fans inside.
+
+329
+00:12:00,438 --> 00:12:02,295
+Ducts that feed them air.
+
+330
+00:12:02,475 --> 00:12:05,373
+A tab that squeals when the pad
+
+331
+00:12:05,373 --> 00:12:06,121
+is worn.
+
+332
+00:12:06,301 --> 00:12:09,031
+A toothed ring that stops wheels from
+
+333
+00:12:09,031 --> 00:12:09,621
+locking.
+
+334
+00:12:09,801 --> 00:12:11,833
+Fluid that must stay dry.
+
+335
+00:12:12,013 --> 00:12:13,592
+Carbon brakes that glow.
+
+336
+00:12:13,772 --> 00:12:16,244
+And motors that brake by charging the
+
+337
+00:12:16,244 --> 00:12:16,779
+battery.
+
+338
+00:12:17,129 --> 00:12:18,975
+Speed is easy.
+
+339
+00:12:19,155 --> 00:12:21,651
+Stopping is the real engineering.
+
+340
+00:12:21,831 --> 00:12:24,784
+If you want more machines explained part
+
+341
+00:12:24,784 --> 00:12:27,589
+by part, subscribe to Machine Reverse.
+
+342
+00:12:27,769 --> 00:12:29,956
+And tell us in the comments which
+
+343
+00:12:29,956 --> 00:12:32,076
+car has the best brakes you have
+
+344
+00:12:32,076 --> 00:12:32,738
+ever felt.
