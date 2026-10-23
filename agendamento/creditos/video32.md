@@ -1,0 +1,93 @@
+# Photo credits: Why Are Supercar Brakes Made of Ceramic?
+
+All photos from Wikimedia Commons.
+
+- Carbon ceramic brake surface detail 2014 01.jpg by Julian Herzog (Website), CC BY 4.0, https://commons.wikimedia.org/wiki/File:Carbon_ceramic_brake_surface_detail_2014_01.jpg
+- Wheel, tire and red brake shoe- Red means Carbon disc I believe... (6289321316).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Wheel,_tire_and_red_brake_shoe-_Red_means_Carbon_disc_I_believe..._(6289321316).jpg
+- Ferrari F430 Challenge Brake.JPG by The359, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Ferrari_F430_Challenge_Brake.JPG
+- Ferrari FXX EVO (15626607961).jpg by Marty B from United States of America, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Ferrari_FXX_EVO_(15626607961).jpg
+- 2013 Audi R8 Quattro V10 (16329840368).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0, https://commons.wikimedia.org/wiki/File:2013_Audi_R8_Quattro_V10_(16329840368).jpg
+- AMG Carbon Ceramic brake..JPG by Dana60Cummins, Public domain, https://commons.wikimedia.org/wiki/File:AMG_Carbon_Ceramic_brake..JPG
+- Amg carbon ceramic brake geneva auto show 2011.JPG by Cheeni, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Amg_carbon_ceramic_brake_geneva_auto_show_2011.JPG
+- Mercedes SLS-AMG Carbon Ceramic Brakes (4488319531).jpg by Razvan Orendovici from United States, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Mercedes_SLS-AMG_Carbon_Ceramic_Brakes_(4488319531).jpg
+- Butch Leitzinger 52 PC Sebring.JPG by Nave.notnilc, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Butch_Leitzinger_52_PC_Sebring.JPG
+- Butch Leitzinger 52 PC Sebring-2.JPG by Butch_Leitzinger_52_PC_Sebring.JPG: Nave.notnilc
+derivative work: Tomer T, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Butch_Leitzinger_52_PC_Sebring-2.JPG
+- Audi Shooting Brake.jpg by machu, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Audi_Shooting_Brake.jpg
+- 2018 Aston Martin Vanquish Zagato SB SCD 24.jpg by MrWalkr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2018_Aston_Martin_Vanquish_Zagato_SB_SCD_24.jpg
+- Boeing 737 Next-Generation Carbon Brake PAS 2013.jpg by Julian Herzog (Website), CC BY 4.0, https://commons.wikimedia.org/wiki/File:Boeing_737_Next-Generation_Carbon_Brake_PAS_2013.jpg
+- 2024 BMW M5 Carbon Ceramic Brake.jpg by Chanokchon, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2024_BMW_M5_Carbon_Ceramic_Brake.jpg
+- Porsche Ceramic Composite Brake with silicon carbide - Museum fur Naturkunde, Berlin - DSC09917.JPG by Daderot, CC0, https://commons.wikimedia.org/wiki/File:Porsche_Ceramic_Composite_Brake_with_silicon_carbide_-_Museum_fur_Naturkunde,_Berlin_-_DSC09917.JPG
+- Porsche Carrera GT front, left, tire, wheel, brake (7482922558).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Porsche_Carrera_GT_front,_left,_tire,_wheel,_brake_(7482922558).jpg
+- Yellow 1975-76 Porsche 914.jpg by Noah Wulf, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Yellow_1975-76_Porsche_914.jpg
+- Ruf CTR (2017) Motorworld Munich 1X7A0054.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ruf_CTR_(2017)_Motorworld_Munich_1X7A0054.jpg
+- BMW S1000R front Brembo monobloc.jpg by MAbbey, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:BMW_S1000R_front_Brembo_monobloc.jpg
+- LotusEliseSeries1 111S.jpg by Skaffen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:LotusEliseSeries1_111S.jpg
+- 1998 Lamborghini Diablo SV Monterey Edition no.5, front left.jpg by Mr.choppers, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:1998_Lamborghini_Diablo_SV_Monterey_Edition_no.5,_front_left.jpg
+- 1974 Ford XB Falcon 500 GS Hardtop (9928946156).jpg by Sicnag, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1974_Ford_XB_Falcon_500_GS_Hardtop_(9928946156).jpg
+- 1974 Ford XB Fairmont Sedan (23521305775).jpg by Sicnag, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1974_Ford_XB_Fairmont_Sedan_(23521305775).jpg
+- Disc brake of motorbike Honda CBR 1000 (2023).jpg by Pittigrilli, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Disc_brake_of_motorbike_Honda_CBR_1000_(2023).jpg
+- 2020 Chevrolet Bolt EV front disc brake 1.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:2020_Chevrolet_Bolt_EV_front_disc_brake_1.jpg
+- Ferrari 458 Italia Brembo Ceramic Brake Caliper (14937767662).jpg by Nan Palmero from San Antonio, TX, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Ferrari_458_Italia_Brembo_Ceramic_Brake_Caliper_(14937767662).jpg
+- 2020 Chevrolet Bolt EV front disc brake 2.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:2020_Chevrolet_Bolt_EV_front_disc_brake_2.jpg
+- Disc brake car.jpg by Irvin calicut at Malayalam Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Disc_brake_car.jpg
+- Brembo Caliper.jpg by https://www.flickr.com/people/poppingseed/, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Brembo_Caliper.jpg
+- Brembo Disc brake.jpg by Malsa, CC BY-SA 1.0, https://commons.wikimedia.org/wiki/File:Brembo_Disc_brake.jpg
+- Ventilated Plain (Smooth) Brake Rotor Parts.jpg by Atharv Chandel, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Ventilated_Plain_(Smooth)_Brake_Rotor_Parts.jpg
+- 2010 Chevrolet Camaro RS Coupe (31091138626).jpg by Sicnag, CC BY 2.0, https://commons.wikimedia.org/wiki/File:2010_Chevrolet_Camaro_RS_Coupe_(31091138626).jpg
+- 1991 Aston Martin Virage (15918987610).jpg by Sicnag, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1991_Aston_Martin_Virage_(15918987610).jpg
+- Flickr - wbaiv - 935 Baby rear wheel, fender, exhaust. Port (left) side..jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Flickr_-_wbaiv_-_935_Baby_rear_wheel,_fender,_exhaust._Port_(left)_side..jpg
+- 2020 Chevrolet Bolt EV rear disc brake.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:2020_Chevrolet_Bolt_EV_rear_disc_brake.jpg
+- 1948 Tucker 48 Sedan (39881550823).jpg by Sicnag, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1948_Tucker_48_Sedan_(39881550823).jpg
+- EB FL 26; Keystone Heights Directional Sign.jpg by DanTD, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:EB_FL_26;_Keystone_Heights_Directional_Sign.jpg
+- Porsche 956 962 radiator exhausts, rear brake cooling duct intakes (6268812568).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Porsche_956_962_radiator_exhausts,_rear_brake_cooling_duct_intakes_(6268812568).jpg
+- McLaren MP4 2b right front suspension, brake duct, airflow guide (6859213990).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:McLaren_MP4_2b_right_front_suspension,_brake_duct,_airflow_guide_(6859213990).jpg
+- LMP Front Right Assembly.JPG by Nave.notnilc, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:LMP_Front_Right_Assembly.JPG
+- 1990 Nissan Skyline R32 GTR Nismo (23711740576).jpg by Sicnag, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1990_Nissan_Skyline_R32_GTR_Nismo_(23711740576).jpg
+- Ferari F40 "GT" - Road registered.jpg by Gordon Calder - 7 Million Views - Thanks!, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Ferari_F40_%22GT%22_-_Road_registered.jpg
+- 1988 Dodge Shelby Dakota Prototype, front right.jpg by Mr.choppers, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:1988_Dodge_Shelby_Dakota_Prototype,_front_right.jpg
+- 1988 Lotus Esprit Turbo, front left (25952480016).jpg by Sicnag, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1988_Lotus_Esprit_Turbo,_front_left_(25952480016).jpg
+- Wornout brake pad.jpg by Sarang, Public domain, https://commons.wikimedia.org/wiki/File:Wornout_brake_pad.jpg
+- Alarm bells! (25681917701).jpg by Riley from Christchurch, New Zealand, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Alarm_bells!_(25681917701).jpg
+- Pack Gong (3144438149).jpg by Jason Hollinger, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Pack_Gong_(3144438149).jpg
+- Worn metallic disc brake pads.jpg by Troy Sankey, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Worn_metallic_disc_brake_pads.jpg
+- Used bicycle brake units.JPG by Der Messer, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Used_bicycle_brake_units.JPG
+- Yauza 209-1 (disassembly) - brake pads - supply spool 1.jpg by Retired electrician, CC0, https://commons.wikimedia.org/wiki/File:Yauza_209-1_(disassembly)_-_brake_pads_-_supply_spool_1.jpg
+- Yauza 209-1 (disassembly) - brake pads - takeup spool 1.jpg by Retired electrician, CC0, https://commons.wikimedia.org/wiki/File:Yauza_209-1_(disassembly)_-_brake_pads_-_takeup_spool_1.jpg
+- ABS-Sensor.jpg by User:NSX-Racer, CC BY-SA 2.5, https://commons.wikimedia.org/wiki/File:ABS-Sensor.jpg
+- 1990 Chevrolet Corvette ZR1.jpg by Eric Friedebach, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1990_Chevrolet_Corvette_ZR1.jpg
+- 1990 Chevrolet Corvette ZR1 - 51334770643.jpg by Eric Friedebach, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1990_Chevrolet_Corvette_ZR1_-_51334770643.jpg
+- Bus with electronic controlled suspension, advanced emergency braking system (AEBS).jpg by Syced, CC0, https://commons.wikimedia.org/wiki/File:Bus_with_electronic_controlled_suspension,_advanced_emergency_braking_system_(AEBS).jpg
+- BMW R1150GS front discs.jpg by Dimitri, CC BY 2.0, https://commons.wikimedia.org/wiki/File:BMW_R1150GS_front_discs.jpg
+- Mercedes-Benz W116 Sachs Franken Classic 2018 P5201299.jpg by Ermell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W116_Sachs_Franken_Classic_2018_P5201299.jpg
+- Mercedes Benz W116 (ami version).jpg by Wladyslaw, CC BY-SA 2.0 de, https://commons.wikimedia.org/wiki/File:Mercedes_Benz_W116_(ami_version).jpg
+- Brake fluid reservoir in Škoda Fabia I.jpg by Frettie, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Brake_fluid_reservoir_in_%C5%A0koda_Fabia_I.jpg
+- KTM Super Duke R (4).jpg by Cjp24, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:KTM_Super_Duke_R_(4).jpg
+- Wolseley 1500 - 1959 - under-bonnet.jpg by DeFacto, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wolseley_1500_-_1959_-_under-bonnet.jpg
+- Delco hydrolic brake fluid, Super 11.JPG by Alf van Beem, CC0, https://commons.wikimedia.org/wiki/File:Delco_hydrolic_brake_fluid,_Super_11.JPG
+- Ford Hydraulic Brake Fluid M 3833 for all wather pic1.JPG by Alf van Beem, CC0, https://commons.wikimedia.org/wiki/File:Ford_Hydraulic_Brake_Fluid_M_3833_for_all_wather_pic1.JPG
+- WP Holden Captiva 2013 (8739928647).jpg by Tom Reynolds from Melbourne, Australia, CC BY 2.0, https://commons.wikimedia.org/wiki/File:WP_Holden_Captiva_2013_(8739928647).jpg
+- Heinkel Kabine, Bj. 1957, innen (Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de, https://commons.wikimedia.org/wiki/File:Heinkel_Kabine,_Bj._1957,_innen_(Sp).JPG
+- Toyota TF103 Front Brake Disc 01.JPG by Hatsukari715, Public domain, https://commons.wikimedia.org/wiki/File:Toyota_TF103_Front_Brake_Disc_01.JPG
+- Hockenheim 2014 - Hamilton qualifying crash.JPG by Tommi Nummelin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hockenheim_2014_-_Hamilton_qualifying_crash.JPG
+- Lotus Elan (29196005283).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Lotus_Elan_(29196005283).jpg
+- 2011 Canadian GP Sauber brakes.jpg by Mark McArdle from Canada, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:2011_Canadian_GP_Sauber_brakes.jpg
+- 2011 Canadian GP Williams brakes.jpg by Mark McArdle from Canada, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:2011_Canadian_GP_Williams_brakes.jpg
+- Jean Alesi - Ferrari 412T2 braking for Copse at the 1995 British Grand Prix, Silverstone (49728003431).jpg by Martin Lee from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Jean_Alesi_-_Ferrari_412T2_braking_for_Copse_at_the_1995_British_Grand_Prix,_Silverstone_(49728003431).jpg
+- Oscar Pastry Mclaren F1 Car Brake Smoking (55383878388).jpg by Jason Puddephatt, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Oscar_Pastry_Mclaren_F1_Car_Brake_Smoking_(55383878388).jpg
+- LRT-1 Mitsubishi-CAF 4th Gen resistor 2024-05-31.jpg by LMP 2001, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:LRT-1_Mitsubishi-CAF_4th_Gen_resistor_2024-05-31.jpg
+- 1kcbz tsi.jpg by リニモ１号, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1kcbz_tsi.jpg
+- Electric charging of Tokyo Gas car 3.jpg by Syced, CC0, https://commons.wikimedia.org/wiki/File:Electric_charging_of_Tokyo_Gas_car_3.jpg
+- Electric charging of Tokyo Gas car 2.jpg by Syced, CC0, https://commons.wikimedia.org/wiki/File:Electric_charging_of_Tokyo_Gas_car_2.jpg
+- Rusty brake disc seen on a car located in a garage during the afternoon hours on a well-worn gravel surface.jpg by Shixart1985, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rusty_brake_disc_seen_on_a_car_located_in_a_garage_during_the_afternoon_hours_on_a_well-worn_gravel_surface.jpg
+- Rusty brake disc and caliper shown on a vehicle parked on gravel near a road.jpg by Shixart1985, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rusty_brake_disc_and_caliper_shown_on_a_vehicle_parked_on_gravel_near_a_road.jpg
+- Disc brake pads.JPG by PetarM, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Disc_brake_pads.JPG
+- Bicycle disc brake rotor with Torx screwdriver set.jpg by JaredMcKenzie, CC0, https://commons.wikimedia.org/wiki/File:Bicycle_disc_brake_rotor_with_Torx_screwdriver_set.jpg
+- Brake disc of Puzhen 209HS bogie on SY 997192 (20260813145102).jpg by N509FZ, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Brake_disc_of_Puzhen_209HS_bogie_on_SY_997192_(20260813145102).jpg
+- Bike disc brake rotor.jpg by Hustvedt, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Bike_disc_brake_rotor.jpg
+- Disc Brake.jpg by unknown, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Disc_Brake.jpg
+- Rear disc brake unit.JPG by User Ballista on en.wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Rear_disc_brake_unit.JPG
+- Brown 2024 Sydney SuperNight.jpg by Hiflex480, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Brown_2024_Sydney_SuperNight.jpg
+- Van Gisbergen 2018 Sydney SuperNight 300.jpg by Kytabu, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Van_Gisbergen_2018_Sydney_SuperNight_300.jpg
+- McLaughlin Heimgartner 2018 Sydney SuperNight 300.jpg by Kytabu, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:McLaughlin_Heimgartner_2018_Sydney_SuperNight_300.jpg
+- Brodie Kostecki celebrating after winning Race 18 at the 2023 Beaurepaires Sydney SuperNight.jpg by Hiflex480, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Brodie_Kostecki_celebrating_after_winning_Race_18_at_the_2023_Beaurepaires_Sydney_SuperNight.jpg
