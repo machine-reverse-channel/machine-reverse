@@ -1,0 +1,96 @@
+# Photo credits: Why Do Le Mans Cars Have a Fin on Their Back?
+
+All photos from Wikimedia Commons.
+
+- Audi R8 LMP, Le Mans 2000, Front (museum mobile 2013-09-03).JPG by Lothar Spurzem, CC BY-SA 2.0 de, https://commons.wikimedia.org/wiki/File:Audi_R8_LMP,_Le_Mans_2000,_Front_(museum_mobile_2013-09-03).JPG
+- Panoz LMP-1 Roadster S Winner 1999 Grand Prix of Mosport.jpg by TorontoGuy79, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Panoz_LMP-1_Roadster_S_Winner_1999_Grand_Prix_of_Mosport.jpg
+- LOLA B98 10 RETROMOBILE 2023 (52677751817).jpg by ERIC  SALARD from Paris, FRANCE, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:LOLA_B98_10_RETROMOBILE_2023_(52677751817).jpg
+- Lola B98-10 - Peter Kox, Jan Lammers & Tom Coronel exits Dunlop Chicane at the 1999 Le Mans (51913444851).jpg by Martin Lee from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Lola_B98-10_-_Peter_Kox,_Jan_Lammers_%26_Tom_Coronel_exits_Dunlop_Chicane_at_the_1999_Le_Mans_(51913444851).jpg
+- Team Velox Audi R8 LMP1 (Le Mans Prototype) at Chelsea Auto Legends 2012 (Ank Kumar).jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Team_Velox_Audi_R8_LMP1_(Le_Mans_Prototype)_at_Chelsea_Auto_Legends_2012_(Ank_Kumar).jpg
+- Formula Le Mans at Nuerburgring.jpg by Herranderssvensson, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Formula_Le_Mans_at_Nuerburgring.jpg
+- Pink LMP2 Honda Racing 307.jpg by Gillfoto, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Pink_LMP2_Honda_Racing_307.jpg
+- SpeedSource - Petit Le Mans 2015.jpg by Mark Seymour, CC BY 2.0, https://commons.wikimedia.org/wiki/File:SpeedSource_-_Petit_Le_Mans_2015.jpg
+- Night at 24 Hours of Le Mans.jpg by Mike Roberts from London, United Kingdom, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Night_at_24_Hours_of_Le_Mans.jpg
+- Le Mans 2007 - Night.jpg by Mike Roberts from London, United Kingdom, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Le_Mans_2007_-_Night.jpg
+- Le Mans pit lane at night.jpg by Nic Redhead, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Le_Mans_pit_lane_at_night.jpg
+- Queue in the pit lane at the 2000 Le Mans (52507789927).jpg by Martin Lee from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Queue_in_the_pit_lane_at_the_2000_Le_Mans_(52507789927).jpg
+- 2011 Peugeot 908 Donington Park 2023 01.jpg by Julian Herzog (Website), CC BY 4.0, https://commons.wikimedia.org/wiki/File:2011_Peugeot_908_Donington_Park_2023_01.jpg
+- LMP Front Right Assembly.JPG by Nave.notnilc, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:LMP_Front_Right_Assembly.JPG
+- 1999 Grand Prix of Mosport - Panoz Roadster Pits.jpg by TorontoGuy79, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1999_Grand_Prix_of_Mosport_-_Panoz_Roadster_Pits.jpg
+- Mercedes-Benz CLR 2009 Nurburgring.jpg by Marc Oliver John from Wachtberg, Deutschland, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Mercedes-Benz_CLR_2009_Nurburgring.jpg
+- Mercede-Benz CLR heads under Dunlop Bridge at the1999 Le Mans (51911409198).jpg by Martin Lee from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Mercede-Benz_CLR_heads_under_Dunlop_Bridge_at_the1999_Le_Mans_(51911409198).jpg
+- 2011 Audi R18 TDi Le Mans Car Racing Goodwood Festival (6005908382).jpg by Louis Rix from UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:2011_Audi_R18_TDi_Le_Mans_Car_Racing_Goodwood_Festival_(6005908382).jpg
+- Audi R18 TDI - Winning Car - Le Mans 24 Hours 2011 (6192211130).jpg by David Merrett from Daventry, England, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Audi_R18_TDI_-_Winning_Car_-_Le_Mans_24_Hours_2011_(6192211130).jpg
+- Ferrari 499P - Hybrid, 2023.jpg by Wolkenjaeger, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ferrari_499P_-_Hybrid,_2023.jpg
+- Moto Guzzi 850 Le Mans.jpg by 70_musclecar_RT+6, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Moto_Guzzi_850_Le_Mans.jpg
+- DB Panhard HBR 4.jpg by David Merrett from Daventry, Englandcropped by uploader Mr.choppers, CC BY 2.0, https://commons.wikimedia.org/wiki/File:DB_Panhard_HBR_4.jpg
+- Lotus Europa (29970237816).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Lotus_Europa_(29970237816).jpg
+- Rohr Porsche 1996 993 911 GT1 customer car. (6306394736).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Rohr_Porsche_1996_993_911_GT1_customer_car._(6306394736).jpg
+- Toyota GR010 Hybrid 2023 Le Mans hypercar (53048168926).jpg by Andrew Basterfield, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Toyota_GR010_Hybrid_2023_Le_Mans_hypercar_(53048168926).jpg
+- 24H Le Mans 2025 Hypercar whole podium (1).jpg by Lukas Raich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:24H_Le_Mans_2025_Hypercar_whole_podium_(1).jpg
+- Porsche 917 LH (1971).jpg by Y.Leclercq©, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Porsche_917_LH_(1971).jpg
+- Porsche 917 LH (39949149454).jpg by Guillaume Vachey from Chalon sur Saone, France, CC0, https://commons.wikimedia.org/wiki/File:Porsche_917_LH_(39949149454).jpg
+- 1979 Porsche 917 LH Coupe Bild 1.jpg by Alf van Beem, Public domain, https://commons.wikimedia.org/wiki/File:1979_Porsche_917_LH_Coupe_Bild_1.jpg
+- 1970 Porsche 917 KH (short-tail) number 23 (Ank Kumar, Infosys Limited) 04.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1970_Porsche_917_KH_(short-tail)_number_23_(Ank_Kumar,_Infosys_Limited)_04.jpg
+- 1970 Porsche 917 KH (short-tail) number 23 (Ank Kumar, Infosys Limited) 03.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1970_Porsche_917_KH_(short-tail)_number_23_(Ank_Kumar,_Infosys_Limited)_03.jpg
+- Toyota 94C-V rear-right 2017 24h Le Mans Museum.jpg by Morio, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Toyota_94C-V_rear-right_2017_24h_Le_Mans_Museum.jpg
+- Toyota TS030 Hybrid rear 2012 WEC Fuji.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Toyota_TS030_Hybrid_rear_2012_WEC_Fuji.jpg
+- The Mulsanne Straight (5847759679).jpg by David Merrett from Daventry, England, CC BY 2.0, https://commons.wikimedia.org/wiki/File:The_Mulsanne_Straight_(5847759679).jpg
+- Les vainqueurs dans la ligne droite des Hunaudières. (18641735290).jpg by Jean-Jacques Abalain from Melgven (près de Concarneau), CC BY 2.0, https://commons.wikimedia.org/wiki/File:Les_vainqueurs_dans_la_ligne_droite_des_Hunaudi%C3%A8res._(18641735290).jpg
+- United-autosports-le-mans-test-087.jpg by United Autosports, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:United-autosports-le-mans-test-087.jpg
+- Virages du raccordement-circuit des 24 heures du Mans.jpg by OldLion, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Virages_du_raccordement-circuit_des_24_heures_du_Mans.jpg
+- Circuit de la Sarthe Ford Chicanes.jpg by Mike Roberts from London, United Kingdom, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Circuit_de_la_Sarthe_Ford_Chicanes.jpg
+- View of a Bentley Mulsanne from the Classic Car Boot Sale - geograph.org.uk - 4385327.jpg by Robert Lamb, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:View_of_a_Bentley_Mulsanne_from_the_Classic_Car_Boot_Sale_-_geograph.org.uk_-_4385327.jpg
+- Night falls on the Audi R8 - Flickr - Mulsanne.jpg by Jeffrey Keeton from North Andover, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Night_falls_on_the_Audi_R8_-_Flickr_-_Mulsanne.jpg
+- United-autosports-le-mans-race-053.jpg by United Autosports, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:United-autosports-le-mans-race-053.jpg
+- Airmen and Soldiers tour Richard Childress Racing facility 140811-F-CN694-199.jpg by Master Sgt. Kevin Brody, Public domain, https://commons.wikimedia.org/wiki/File:Airmen_and_Soldiers_tour_Richard_Childress_Racing_facility_140811-F-CN694-199.jpg
+- Barksdale Airmen hit the pits 131228-F-HD174-034.jpg by Senior Airman Joseph A. Pagán Jr., Public domain, https://commons.wikimedia.org/wiki/File:Barksdale_Airmen_hit_the_pits_131228-F-HD174-034.jpg
+- The Pit Stop Challenge for the Aston Martin Vantage AMR - Satoshi Hoshino, Tomonobu Fujii & Charles Fagg at the 2022 Le Mans (54279654789).jpg by Martin Lee from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:The_Pit_Stop_Challenge_for_the_Aston_Martin_Vantage_AMR_-_Satoshi_Hoshino,_Tomonobu_Fujii_%26_Charles_Fagg_at_the_2022_Le_Mans_(54279654789).jpg
+- Waiting for the Pit Stop Challenge at the 2022 Le Mans (54279408486).jpg by Martin Lee from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Waiting_for_the_Pit_Stop_Challenge_at_the_2022_Le_Mans_(54279408486).jpg
+- 24H Le Mans 2025 Car 83 crossing the finish line (1).jpg by Lukas Raich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:24H_Le_Mans_2025_Car_83_crossing_the_finish_line_(1).jpg
+- The finish of the 1994 Le Mans (31596576430).jpg by Martin Lee from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:The_finish_of_the_1994_Le_Mans_(31596576430).jpg
+- 2011 Le Mans 24 Qualifying 03.jpg by Alessandro Prada from LE MANS, FR, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:2011_Le_Mans_24_Qualifying_03.jpg
+- Air Mens Memorial St Edward's Leek.jpg by Memorialman, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Air_Mens_Memorial_St_Edward%27s_Leek.jpg
+- Porsche VW ( Porsche Spyder) - Replica? (11710528235).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Porsche_VW_(_Porsche_Spyder)_-_Replica%3F_(11710528235).jpg
+- 24 Heures du Mans 2026 Hypercar No. 12 Cadillac V-Series.R (night).jpg by T GOUREAU, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:24_Heures_du_Mans_2026_Hypercar_No._12_Cadillac_V-Series.R_(night).jpg
+- 24 Heures du Mans 2026 Hypercar No. 38 Cadillac V-Series.R (night).jpg by T GOUREAU, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:24_Heures_du_Mans_2026_Hypercar_No._38_Cadillac_V-Series.R_(night).jpg
+- Night view of the race control at the 2023 Le Mans (53469109792).jpg by Martin Lee from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Night_view_of_the_race_control_at_the_2023_Le_Mans_(53469109792).jpg
+- Night Before the Race (11456427165).jpg by Falcon® Photography from France, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Night_Before_the_Race_(11456427165).jpg
+- Le Mans 1992 Olindo driver change.jpg by RandolphGuffey, CC0, https://commons.wikimedia.org/wiki/File:Le_Mans_1992_Olindo_driver_change.jpg
+- Guillaume Moreau Le Mans drivers parade 2011.jpg by David Merrett from Daventry, England, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Guillaume_Moreau_Le_Mans_drivers_parade_2011.jpg
+- Frédéric Makowiecki Le Mans drivers parade 2011.jpg by David Merrett from Daventry, England, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Fr%C3%A9d%C3%A9ric_Makowiecki_Le_Mans_drivers_parade_2011.jpg
+- 1969 Chevrolet Camaro SS Convertible (38474657122).jpg by Sicnag, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1969_Chevrolet_Camaro_SS_Convertible_(38474657122).jpg
+- 1968 Chevrolet Camaro Z28 (24944092601).jpg by Sicnag, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1968_Chevrolet_Camaro_Z28_(24944092601).jpg
+- 1950 Cadillac Series 61, Le Mans (48853942102).jpg by Alan Raine from Cheshire, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1950_Cadillac_Series_61,_Le_Mans_(48853942102).jpg
+- 1955 Triumph TR2 Le Mans racer 2.0.jpg by Vauxford, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1955_Triumph_TR2_Le_Mans_racer_2.0.jpg
+- 2023 6 Hours of Spa-Francorchamps Toyota Gazoo Racing Toyota GR010 Hybrid No.8 (DSC08663).jpg by MarcelX42, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2023_6_Hours_of_Spa-Francorchamps_Toyota_Gazoo_Racing_Toyota_GR010_Hybrid_No.8_(DSC08663).jpg
+- Osaka Auto Messe 2022 (125) - No.7 TOYOTA GR010 HYBRID ver 2021 FIA World Endurance Championship.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Osaka_Auto_Messe_2022_(125)_-_No.7_TOYOTA_GR010_HYBRID_ver_2021_FIA_World_Endurance_Championship.jpg
+- 2024 6 Hours of Spa-Francorchamps Toyota Gazoo Racing Toyota GR010 Hybrid No.8 (DSC04184).jpg by MarcelX42, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2024_6_Hours_of_Spa-Francorchamps_Toyota_Gazoo_Racing_Toyota_GR010_Hybrid_No.8_(DSC04184).jpg
+- 24H Le Mans 2025 Hypercar whole podium (2).jpg by Lukas Raich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:24H_Le_Mans_2025_Hypercar_whole_podium_(2).jpg
+- 24 Heures du Mans 2026 Hypercar No. 7 Toyota TR010 Hybrid.jpg by T GOUREAU, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:24_Heures_du_Mans_2026_Hypercar_No._7_Toyota_TR010_Hybrid.jpg
+- 2024 24 Hours of Le Mans (54093434907).jpg by Mickael Le rouzic, CC BY 2.0, https://commons.wikimedia.org/wiki/File:2024_24_Hours_of_Le_Mans_(54093434907).jpg
+- 12 Jota Lone Star Le Mans WEC.jpg by Dylantk0ch, CC BY 4.0, https://commons.wikimedia.org/wiki/File:12_Jota_Lone_Star_Le_Mans_WEC.jpg
+- 51 Ferrari AF Corse Ferrari 499P Lone Star Le Mans.jpg by Dylantk0ch, CC BY 4.0, https://commons.wikimedia.org/wiki/File:51_Ferrari_AF_Corse_Ferrari_499P_Lone_Star_Le_Mans.jpg
+- 24 Heures du Mans 2026 Hypercar No. 19 Genesis GMR-001-Hypercar (cropped).jpg by T GOUREAU, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:24_Heures_du_Mans_2026_Hypercar_No._19_Genesis_GMR-001-Hypercar_(cropped).jpg
+- 24 Heures du Mans 2026 Hypercar No. 17 Genesis GMR-001-Hypercar.jpg by T GOUREAU, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:24_Heures_du_Mans_2026_Hypercar_No._17_Genesis_GMR-001-Hypercar.jpg
+- Porsche race car Verschuur amk.jpg by user:AngMoKio, CC BY-SA 2.5, https://commons.wikimedia.org/wiki/File:Porsche_race_car_Verschuur_amk.jpg
+- MG PA 6 Race, 1300 cm³, Bj. 1936 (2008-06-28 Sp).jpg by Spurzem – Lothar Spurzem (edited by Alchemist-hp), CC BY-SA 2.0 de, https://commons.wikimedia.org/wiki/File:MG_PA_6_Race,_1300_cm%C2%B3,_Bj._1936_(2008-06-28_Sp).jpg
+- Alpine Alpenglow (53077056777).jpg by Kevin Decherf from France, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Alpine_Alpenglow_(53077056777).jpg
+- Alpine Alpenglow (53078127503).jpg by Kevin Decherf from France, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Alpine_Alpenglow_(53078127503).jpg
+- Sportwagenraces Zandvoort Le Mans start, Bestanddeelnr 910-4937.jpg by Harry Pot / Anefo, CC0, https://commons.wikimedia.org/wiki/File:Sportwagenraces_Zandvoort_Le_Mans_start,_Bestanddeelnr_910-4937.jpg
+- Fat Man’s Misery, Mammoth Cave, Mammoth Cave National Park, Mammoth Cave, KY.jpg by w_lemay, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Fat_Man%E2%80%99s_Misery,_Mammoth_Cave,_Mammoth_Cave_National_Park,_Mammoth_Cave,_KY.jpg
+- Dülmen, Merfeld, Volvo PV 544 B18 -- 2021 -- 9946.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Merfeld,_Volvo_PV_544_B18_--_2021_--_9946.jpg
+- Jacky Ickx in Brabham-Ford (12), Bestanddeelnr 922-5458.jpg by Anefo, CC0, https://commons.wikimedia.org/wiki/File:Jacky_Ickx_in_Brabham-Ford_(12),_Bestanddeelnr_922-5458.jpg
+- Ickx at 1969 Dutch Grand Prix.jpg by Evers, Joost / Anefo / neg. stroken, 1945-1989, 2.24.01.05, item number 922-5452, CC BY-SA 3.0 nl, https://commons.wikimedia.org/wiki/File:Ickx_at_1969_Dutch_Grand_Prix.jpg
+- Rolling Start (10503073033).jpg by Falcon® Photography from France, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Rolling_Start_(10503073033).jpg
+- AC Cobra (4451986754).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0, https://commons.wikimedia.org/wiki/File:AC_Cobra_(4451986754).jpg
+- Porsche 936 (1977 24 Hours of Le Mans, No.4) in the Porsche-Museum (2009) 1X7A0361.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Porsche_936_(1977_24_Hours_of_Le_Mans,_No.4)_in_the_Porsche-Museum_(2009)_1X7A0361.jpg
+- Lagonda Le Mans Rapide, 4500 ccm, Bj. 1935 (17.06.2007).jpg by Lothar Spurzem, CC BY-SA 2.0 de, https://commons.wikimedia.org/wiki/File:Lagonda_Le_Mans_Rapide,_4500_ccm,_Bj._1935_(17.06.2007).jpg
+- Porsche 936 (1977 24 Hours of Le Mans, No.4) in the Porsche-Museum (2009) 1X7A0352.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Porsche_936_(1977_24_Hours_of_Le_Mans,_No.4)_in_the_Porsche-Museum_(2009)_1X7A0352.jpg
+- Porsche 936 (1977 24 Hours of Le Mans, No.4) in the Porsche-Museum (2009) 1X7A0353.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Porsche_936_(1977_24_Hours_of_Le_Mans,_No.4)_in_the_Porsche-Museum_(2009)_1X7A0353.jpg
+- 24 Hours of Le Mans race cars Solitude Revival 2022 1X7A0114.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:24_Hours_of_Le_Mans_race_cars_Solitude_Revival_2022_1X7A0114.jpg
+- Lagonda V12 Le Mans, 4480 cm³, Bj. 1938 (17.06.2007).jpg by unknown, CC BY-SA 2.0 de, https://commons.wikimedia.org/wiki/File:Lagonda_V12_Le_Mans,_4480_cm%C2%B3,_Bj._1938_(17.06.2007).jpg
+- Rousseau - Forêt vierge au soleil couchant, um 1910, 2225.jpg by Henri Rousseau, Public domain, https://commons.wikimedia.org/wiki/File:Rousseau_-_For%C3%AAt_vierge_au_soleil_couchant,_um_1910,_2225.jpg
+- Don Puay river bank landscape at sunset.jpg by Basile Morin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Don_Puay_river_bank_landscape_at_sunset.jpg
+- Oregon ANG pilot preparing F-15 flight at Nellis - Weapons Instructor Course.jpg by John Hughel, Public domain, https://commons.wikimedia.org/wiki/File:Oregon_ANG_pilot_preparing_F-15_flight_at_Nellis_-_Weapons_Instructor_Course.jpg
+- Sweet Bread Mountain.jpg by Donatas Dabravolskas, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sweet_Bread_Mountain.jpg
