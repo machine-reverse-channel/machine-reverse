@@ -130,7 +130,7 @@ PICKS = {
     7: ('File:Resolution class submarine propeller IMG 9657.jpg', 0.35, 0.45),
     8: ('File:USN Cmdr. Mike Stevens, CO of USS New Hampshire demonstrates the photonics mast for members of the media.jpg', 0.8, 0.45),
     9: ('File:B-39 emergency escape hatch 1.JPG', 0.5, 0.5),
-    10: ('File:Bathyscaphe Trieste.jpg', 0.39, 0.62),
+    10: ('File:Bathyscaphe Trieste.jpg', 0.42, 0.78),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
