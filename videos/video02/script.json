@@ -26,7 +26,7 @@
    "caption": "WHY ARE THESE LIGHTS ON THE FLOOR?",
    "arrow": {
     "x": 0.5,
-    "y": 0.88
+    "y": 0.72
    },
    "chapter": "1. The lights on the floor",
    "short": "Why Do Airplanes Have Lights on the Floor?",
@@ -48,8 +48,8 @@
    "query": "aircraft lavatory smoke detector",
    "caption": "WHY IS THIS DETECTOR HERE?",
    "arrow": {
-    "x": 0.6,
-    "y": 0.08
+    "x": 0.75,
+    "y": 0.24
    },
    "chapter": "2. The smoke detector in the lavatory",
    "short": "Why Every Airplane Bathroom Has This",
@@ -141,7 +141,7 @@
    "caption": "WHY IS THIS SEAT BUILT LIKE A TANK?",
    "arrow": {
     "x": 0.42,
-    "y": 0.85
+    "y": 0.7
    },
    "chapter": "6. The seat frame",
    "short": "Airplane Seats Are Crash Tested Like Cars",
