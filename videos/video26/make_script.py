@@ -128,8 +128,8 @@ PICKS = {
     5: ("File:VW DSG transmission DTMB.jpg", 0.45, 0.45),
     6: ("File:Ferrari 640 front-left Museo Ferrari.jpg", 0.62, 0.3),
     7: ("File:McLaren MP4-1 Carbon Fibre-Kevlar Monocoque Chassis at Formula 1 Exhibition, London.jpg", 0.4, 0.6),
-    8: ("File:1973 Porsche 911 Carrera RS 2.7 CHP.jpg", 0.1, 0.45),
-    9: ("File:1992 Williams FW14B (49379465223).jpg", 0.33, 0.68),
+    8: ("File:1973 Porsche 911 Carrera RS 2.7 CHP.jpg", 0.11, 0.33),
+    9: ("File:1992 Williams FW14B (49379465223).jpg", 0.36, 0.42),
     10: ("File:FIA WEC Porsche 919 hybrid and 911 RSR , GIMS 2014 (Ank Kumar) 02.jpg", 0.5, 0.6),
 }
 for s in S:
