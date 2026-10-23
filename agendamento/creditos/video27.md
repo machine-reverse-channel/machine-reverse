@@ -1,0 +1,90 @@
+# Photo credits: Why Do Supercar Parts Cost More Than Your Car?
+
+All photos from Wikimedia Commons.
+
+- Bugatti Veyron 16.4 – Heckansicht (4), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Heckansicht_(4),_5._April_2012,_D%C3%BCsseldorf.jpg
+- Bugatti Veyron 16.4 – Frontansicht (2), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_(2),_5._April_2012,_D%C3%BCsseldorf.jpg
+- Bugatti Veyron 16.4 – Frontansicht (3), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_(3),_5._April_2012,_D%C3%BCsseldorf.jpg
+- Bugatti Veyron 16.4 – Frontansicht (1), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_(1),_5._April_2012,_D%C3%BCsseldorf.jpg
+- 2009 Bugatti Veyron 16.4.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2009_Bugatti_Veyron_16.4.jpg
+- Bugatti Veyron 13.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_13.jpg
+- Bugatti Veyron 12.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_12.jpg
+- Bugatti Veyron 7.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_7.jpg
+- 1990 Lotus Esprit X180R "Eleanor", rear right (Greenwich).jpg by Mr.choppers, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:1990_Lotus_Esprit_X180R_%22Eleanor%22,_rear_right_(Greenwich).jpg
+- 1990 Lotus Esprit X180R "Eleanor", front right (Greenwich).jpg by Mr.choppers, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:1990_Lotus_Esprit_X180R_%22Eleanor%22,_front_right_(Greenwich).jpg
+- 1964 Aston Martin DB5 (40 HYF).jpg by Carfanatic2019, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1964_Aston_Martin_DB5_(40_HYF).jpg
+- Brabus G800 (51893654357).jpg by Alexandre Prevot, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Brabus_G800_(51893654357).jpg
+- Bugatti Veyron EB 16.4 Grand Sport (wheel).JPG by Gons, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_EB_16.4_Grand_Sport_(wheel).JPG
+- Bugatti Veyron Wheel (4664245920).jpg by THOR, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Wheel_(4664245920).jpg
+- Bugatti Veyron EB 16.4 (2008) (52570116555).jpg by Charles from Port Chester, New York, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_EB_16.4_(2008)_(52570116555).jpg
+- Bugatti Chiron, GIMS 2018, Le Grand-Saconnex (1X7A1765).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron,_GIMS_2018,_Le_Grand-Saconnex_(1X7A1765).jpg
+- Bugatti Chiron 110 Ans, GIMS 2019, Le Grand-Saconnex (GIMS9979).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_110_Ans,_GIMS_2019,_Le_Grand-Saconnex_(GIMS9979).jpg
+- Sign for Michelin tyres.jpg by Stephencdickson, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sign_for_Michelin_tyres.jpg
+- Michelin studded tyre protectors 5209.JPG by Clem Rutter, Rochester, Kent., CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Michelin_studded_tyre_protectors_5209.JPG
+- Bugatti Veyron 8.0-litre W16-cylinder engine - Flickr - exfordy.jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_8.0-litre_W16-cylinder_engine_-_Flickr_-_exfordy.jpg
+- Bugatti Veyron Engine 1X7A7930.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Engine_1X7A7930.jpg
+- Bugatti Veyron 2008 - 005.JPG by Ammar shaker, Public domain, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_2008_-_005.JPG
+- Kalagi dry sump.jpg by Ikiwaner, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Kalagi_dry_sump.jpg
+- Caterham 7 CSR (engine).jpg by Strongriley;, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Caterham_7_CSR_(engine).jpg
+- Supercar - Roma Auto Show 09.JPG by Nicholas Gemini, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Supercar_-_Roma_Auto_Show_09.JPG
+- NSW Police Force FPR Falcon V8 Supercar - Flickr - Highway Patrol Images.jpg by Highway Patrol Images, CC BY 2.0, https://commons.wikimedia.org/wiki/File:NSW_Police_Force_FPR_Falcon_V8_Supercar_-_Flickr_-_Highway_Patrol_Images.jpg
+- 1996 McLaren F1 engine.jpg by No machine-readable author provided. Sfoskett~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:1996_McLaren_F1_engine.jpg
+- 1995 McLaren F1 LM 6.1 Engine.jpg by Chelsea Jay, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1995_McLaren_F1_LM_6.1_Engine.jpg
+- McLaren MP4-29H engine cover 2015 Honda F1 Exposition.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:McLaren_MP4-29H_engine_cover_2015_Honda_F1_Exposition.jpg
+- BMW 850 V12.JPG by Beemwej, CC BY 3.0, https://commons.wikimedia.org/wiki/File:BMW_850_V12.JPG
+- BMW M70 engine (E31) IMG 5560.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:BMW_M70_engine_(E31)_IMG_5560.jpg
+- 1996 McLaren F1 Chassis No 63 6.1 Front.jpg by Chelsea Jay, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1996_McLaren_F1_Chassis_No_63_6.1_Front.jpg
+- A Silver McLaren F1.jpg by MrWalkr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:A_Silver_McLaren_F1.jpg
+- Koenigsegg wheel, GIMS 2019, Le Grand-Saconnex (GIMS1052).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Koenigsegg_wheel,_GIMS_2019,_Le_Grand-Saconnex_(GIMS1052).jpg
+- 2015 Koenigsegg Agera One1 Carbon blue.jpg by MrWalkr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2015_Koenigsegg_Agera_One1_Carbon_blue.jpg
+- Bare Carbon Koenigsegg Agera R (20073767613).jpg by Axion23, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bare_Carbon_Koenigsegg_Agera_R_(20073767613).jpg
+- Blue Porsche 991 Carrera 4 GTS MkII in Nancy, France (50516267218).jpg by Alexandre Prevot from Nancy, France, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Blue_Porsche_991_Carrera_4_GTS_MkII_in_Nancy,_France_(50516267218).jpg
+- Porsche 991 Carrera (23639690822).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Porsche_991_Carrera_(23639690822).jpg
+- Koenigsegg Agera, GIMS 2018 07.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Koenigsegg_Agera,_GIMS_2018_07.jpg
+- Koenigsegg Agera, GIMS 2018 10.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Koenigsegg_Agera,_GIMS_2018_10.jpg
+- Pagani Zonda F engine (AMG V12 7.3l).jpg by LSDSL, CC BY-SA 2.0 de, https://commons.wikimedia.org/wiki/File:Pagani_Zonda_F_engine_(AMG_V12_7.3l).jpg
+- Pagani Huayra BC Roadster, BAS 24, Brussels (P1170491-RR).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Pagani_Huayra_BC_Roadster,_BAS_24,_Brussels_(P1170491-RR).jpg
+- Geneva MotorShow 2013 - Pagani Huayra blue front lights.jpg by Clément Bucco-Lechat, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Geneva_MotorShow_2013_-_Pagani_Huayra_blue_front_lights.jpg
+- Titan-crystal bar.JPG by Alchemist-hp (pse-mendelejew.de), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Titan-crystal_bar.JPG
+- Titanium products.jpg by Mark Fergus, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Titanium_products.jpg
+- Pagani Zonda, GIMS 2019, Le Grand-Saconnex (GIMS0014).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Pagani_Zonda,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0014).jpg
+- Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1463).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Geneva_International_Motor_Show_2018,_Le_Grand-Saconnex_(1X7A1463).jpg
+- Mercedes-Benz A45 AMG 4MATIC engine room.jpg by TTTNIS, CC0, https://commons.wikimedia.org/wiki/File:Mercedes-Benz_A45_AMG_4MATIC_engine_room.jpg
+- The engine room of Mercedes-AMG C63 S (W205).JPG by Tokumeigakarinoaoshima, CC0, https://commons.wikimedia.org/wiki/File:The_engine_room_of_Mercedes-AMG_C63_S_(W205).JPG
+- The engine room of Mercedes-AMG W205 C63 S.JPG by Tokumeigakarinoaoshima, CC0, https://commons.wikimedia.org/wiki/File:The_engine_room_of_Mercedes-AMG_W205_C63_S.JPG
+- Mercedes AMG GT S V8 engine (16133624960).jpg by Yahya S. from Livonia, United States, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Mercedes_AMG_GT_S_V8_engine_(16133624960).jpg
+- Mercedes-Benz G63 AMG V8 BITURBO SUV (50703492437).jpg by silver-novice ~ ne res adversae impediant from Birkenhead, ENGLAND, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Mercedes-Benz_G63_AMG_V8_BITURBO_SUV_(50703492437).jpg
+- Pratt & Whitney R-1830 engines for Beaufort bombers in Australia c1943.jpg by United States. Office of War Information. Overseas Picture Division. Washington Division., Public domain, https://commons.wikimedia.org/wiki/File:Pratt_%26_Whitney_R-1830_engines_for_Beaufort_bombers_in_Australia_c1943.jpg
+- Panavia Tornado GR.4 intake detail (23794698270).jpg by Alan Wilson from Stilton, Peterborough, Cambs, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Panavia_Tornado_GR.4_intake_detail_(23794698270).jpg
+- Mercedes-AMG One IAA 2023 1X7A0454.jpg by Alexander-93, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mercedes-AMG_One_IAA_2023_1X7A0454.jpg
+- Mercedes-AMG Project One, Frankfurt (1Y7A3473).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mercedes-AMG_Project_One,_Frankfurt_(1Y7A3473).jpg
+- AMG Mercedes-Benz C204 (DTM).jpg by Stefan Krause, Germany, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:AMG_Mercedes-Benz_C204_(DTM).jpg
+- Lewis Hamilton engine failure 2016 Malaysian GP 1.jpg by Morio, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lewis_Hamilton_engine_failure_2016_Malaysian_GP_1.jpg
+- Lewis Hamilton engine failure 2016 Malaysian GP 3.jpg by Morio, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lewis_Hamilton_engine_failure_2016_Malaysian_GP_3.jpg
+- Mercedes-Benz SLS AMG Roadster, IAA 2011, Frankfurt am Main (DSC03249).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mercedes-Benz_SLS_AMG_Roadster,_IAA_2011,_Frankfurt_am_Main_(DSC03249).jpg
+- Mercedes AMG F1 W09 EQ Power+ DRS Rear Wing at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mercedes_AMG_F1_W09_EQ_Power%2B_DRS_Rear_Wing_at_Formula_1_Exhibition,_London.jpg
+- 2018 Bugatti Chiron in Exposed Blue Carbon, front right.jpg by Mr.choppers, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2018_Bugatti_Chiron_in_Exposed_Blue_Carbon,_front_right.jpg
+- 2020 Bugatti Chiron Sport in Nocturne and Atlantic Blue, front left.jpg by Mr.choppers, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2020_Bugatti_Chiron_Sport_in_Nocturne_and_Atlantic_Blue,_front_left.jpg
+- 2021 Bugatti Chiron Pur Sport in Atlantic Blue, front left.jpg by Mr.choppers, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2021_Bugatti_Chiron_Pur_Sport_in_Atlantic_Blue,_front_left.jpg
+- Bugatti Veyron Rear.jpg by MrWalkr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Rear.jpg
+- 2007 Bugatti Veyron SP24 Rear.jpg by MrWalkr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2007_Bugatti_Veyron_SP24_Rear.jpg
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2855).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron,_IAA_2017,_Frankfurt_(1Y7A2855).jpg
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2857).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron,_IAA_2017,_Frankfurt_(1Y7A2857).jpg
+- IPE wiki 991GT3 fullsystem.jpg by Ian.ou.ipe, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:IPE_wiki_991GT3_fullsystem.jpg
+- 2002 Acura 1.7 EL Premium in Titanium Metallic, rear left, 2021-04-13.jpg by Elise240SX, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2002_Acura_1.7_EL_Premium_in_Titanium_Metallic,_rear_left,_2021-04-13.jpg
+- Nissan GT-R Track Pack (8711680062).jpg by David Villarreal Fernández, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Nissan_GT-R_Track_Pack_(8711680062).jpg
+- X-ray test of friction-stir welded tank ESA373005.jpg by European Space Agency, CC BY-SA 3.0 igo, https://commons.wikimedia.org/wiki/File:X-ray_test_of_friction-stir_welded_tank_ESA373005.jpg
+- Liberty Wing fabrication flight showcases capabilities (6724467).jpg by U.S. Air Force photo by Senior Airman Madeline Herzog, Public domain, https://commons.wikimedia.org/wiki/File:Liberty_Wing_fabrication_flight_showcases_capabilities_(6724467).jpg
+- 2024 Aston Martin Valour in Exposed Carbon Fiber, front left (Miller).jpg by Mr.choppers, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2024_Aston_Martin_Valour_in_Exposed_Carbon_Fiber,_front_left_(Miller).jpg
+- 2024 Aston Martin Valour in Exposed Carbon Fiber, rear left (Miller).jpg by Mr.choppers, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2024_Aston_Martin_Valour_in_Exposed_Carbon_Fiber,_rear_left_(Miller).jpg
+- BMW i8 Front (left) New.jpg by 根川孝太郎, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:BMW_i8_Front_(left)_New.jpg
+- BMW i8-concept Detail Ruecklicht.jpg by Marco Almbauer, Public domain, https://commons.wikimedia.org/wiki/File:BMW_i8-concept_Detail_Ruecklicht.jpg
+- BMW i8-concept Ruecklicht.jpg by Marco Almbauer, Public domain, https://commons.wikimedia.org/wiki/File:BMW_i8-concept_Ruecklicht.jpg
+- BMW i8 Memphis Style, IAA 2017, Frankfurt (1Y7A3298).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:BMW_i8_Memphis_Style,_IAA_2017,_Frankfurt_(1Y7A3298).jpg
+- Berlin, Flughafen Tempelhof, BMW i8 -- 2019 -- 4349.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Berlin,_Flughafen_Tempelhof,_BMW_i8_--_2019_--_4349.jpg
+- Dülmen, Automeile auf dem Kartoffelmarkt, BMW Mini -- 2019 -- 9877.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Automeile_auf_dem_Kartoffelmarkt,_BMW_Mini_--_2019_--_9877.jpg
+- Dülmen, Parkplatz, BMW Mini -- 2018 -- 1593-9.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Parkplatz,_BMW_Mini_--_2018_--_1593-9.jpg
+- Brown 2024 Sydney SuperNight.jpg by Hiflex480, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Brown_2024_Sydney_SuperNight.jpg
+- Van Gisbergen 2018 Sydney SuperNight 300.jpg by Kytabu, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Van_Gisbergen_2018_Sydney_SuperNight_300.jpg
+- McLaughlin Heimgartner 2018 Sydney SuperNight 300.jpg by Kytabu, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:McLaughlin_Heimgartner_2018_Sydney_SuperNight_300.jpg
+- Chaz Mostert at the 2018 Red Rooster Sydney SuperNight 300.jpg by Hiflex480, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Chaz_Mostert_at_the_2018_Red_Rooster_Sydney_SuperNight_300.jpg
