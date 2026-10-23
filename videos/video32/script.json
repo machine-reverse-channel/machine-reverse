@@ -117,8 +117,8 @@
    "query": "brake cooling duct",
    "caption": "WHY DOES THIS BUMPER HAVE A HOLE?",
    "arrow": {
-    "x": 0.6,
-    "y": 0.42
+    "x": 0.62,
+    "y": 0.65
    },
    "chapter": "5. The brake ducts",
    "short": "Why Do Fast Cars Have Holes for the Brakes?",
@@ -209,8 +209,8 @@
    "query": "F1 brake disc glowing",
    "caption": "WHY DO THESE BRAKES GLOW RED?",
    "arrow": {
-    "x": 0.25,
-    "y": 0.5
+    "x": 0.12,
+    "y": 0.55
    },
    "chapter": "9. The glowing F1 brakes",
    "short": "Why Do Formula 1 Brakes Glow Red?",
