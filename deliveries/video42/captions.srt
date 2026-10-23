@@ -1,0 +1,1679 @@
+1
+00:00:00,000 --> 00:00:03,279
+Almost everything you own crossed an ocean
+
+2
+00:00:03,279 --> 00:00:04,451
+in a steel box,
+
+3
+00:00:04,451 --> 00:00:06,950
+and every one of those boxes was
+
+4
+00:00:06,950 --> 00:00:09,137
+lifted by a crane like this.
+
+5
+00:00:09,317 --> 00:00:12,714
+A big ship-to-shore crane can weigh around
+
+6
+00:00:12,714 --> 00:00:14,170
+two thousand tons,
+
+7
+00:00:14,170 --> 00:00:17,891
+stand taller than a thirty-story building with
+
+8
+00:00:17,891 --> 00:00:19,104
+its arm raised,
+
+9
+00:00:19,104 --> 00:00:21,531
+and lift a box every couple of
+
+10
+00:00:21,531 --> 00:00:24,038
+minutes, all day and all night.
+
+11
+00:00:24,218 --> 00:00:27,181
+Today, ten parts of a port and
+
+12
+00:00:27,181 --> 00:00:28,860
+its giant cranes,
+
+13
+00:00:28,860 --> 00:00:31,230
+and why each one exists.
+
+14
+00:00:31,580 --> 00:00:33,259
+Before the container,
+
+15
+00:00:33,259 --> 00:00:35,976
+loading a ship was slow and brutal
+
+16
+00:00:35,976 --> 00:00:36,375
+work.
+
+17
+00:00:36,555 --> 00:00:38,763
+Dock workers carried sacks,
+
+18
+00:00:38,763 --> 00:00:41,216
+barrels and crates one by one,
+
+19
+00:00:41,216 --> 00:00:43,587
+and a ship could spend a week
+
+20
+00:00:43,587 --> 00:00:44,241
+in port.
+
+21
+00:00:44,421 --> 00:00:46,812
+Then, in nineteen fifty-six,
+
+22
+00:00:46,812 --> 00:00:51,251
+an American trucking businessman named Malcom McLean
+
+23
+00:00:51,251 --> 00:00:55,007
+sent fifty-eight metal boxes from New Jersey
+
+24
+00:00:55,007 --> 00:00:57,909
+to Houston on an old tanker called
+
+25
+00:00:57,909 --> 00:00:58,934
+the Ideal X.
+
+26
+00:00:59,114 --> 00:01:01,206
+The world of shipping was never the
+
+27
+00:01:01,206 --> 00:01:01,505
+same.
+
+28
+00:01:01,856 --> 00:01:04,771
+As always, every fact comes from a
+
+29
+00:01:04,771 --> 00:01:07,428
+named source, port authorities,
+
+30
+00:01:07,428 --> 00:01:11,544
+standards organizations, and maritime histories,
+
+31
+00:01:11,544 --> 00:01:14,116
+all listed in the description.
+
+32
+00:01:14,296 --> 00:01:16,763
+Let's start with the strangest thing a
+
+33
+00:01:16,763 --> 00:01:17,802
+port crane does.
+
+34
+00:01:17,982 --> 00:01:20,175
+It lifts its own arm into the
+
+35
+00:01:20,175 --> 00:01:20,478
+sky.
+
+36
+00:01:20,828 --> 00:01:23,245
+Why do port cranes lift their long
+
+37
+00:01:23,245 --> 00:01:25,379
+arms straight up into the sky?
+
+38
+00:01:25,559 --> 00:01:28,176
+Because when a ship arrives or leaves,
+
+39
+00:01:28,176 --> 00:01:29,898
+the arm, called the boom,
+
+40
+00:01:29,898 --> 00:01:31,689
+would be right in the way.
+
+41
+00:01:31,869 --> 00:01:34,062
+The boom sticks out far over the
+
+42
+00:01:34,062 --> 00:01:36,188
+water to reach across the ship.
+
+43
+00:01:36,368 --> 00:01:37,851
+A ship's bridge,
+
+44
+00:01:37,851 --> 00:01:41,467
+its masts and antennas can stand dozens
+
+45
+00:01:41,467 --> 00:01:42,858
+of meters tall.
+
+46
+00:01:43,038 --> 00:01:45,348
+So the boom is hinged near the
+
+47
+00:01:45,348 --> 00:01:47,812
+crane, and big cables pull it up
+
+48
+00:01:47,812 --> 00:01:49,891
+until it points at the sky,
+
+49
+00:01:49,891 --> 00:01:52,586
+leaving the berth free for the ship
+
+50
+00:01:52,586 --> 00:01:53,510
+to slide in.
+
+51
+00:01:53,860 --> 00:01:55,753
+Once the ship is tied up,
+
+52
+00:01:55,753 --> 00:01:58,480
+the boom comes back down and becomes
+
+53
+00:01:58,480 --> 00:02:00,222
+a bridge over the deck.
+
+54
+00:02:00,402 --> 00:02:02,901
+A small cart called the trolley runs
+
+55
+00:02:02,901 --> 00:02:05,747
+along it, carrying the container from the
+
+56
+00:02:05,747 --> 00:02:06,996
+ship to the shore.
+
+57
+00:02:07,176 --> 00:02:08,663
+On the biggest cranes,
+
+58
+00:02:08,663 --> 00:02:11,432
+the boom reaches about seventy meters out
+
+59
+00:02:11,432 --> 00:02:12,446
+over the water,
+
+60
+00:02:12,446 --> 00:02:14,270
+more than two hundred feet.
+
+61
+00:02:14,450 --> 00:02:16,940
+That is the length needed to grab
+
+62
+00:02:16,940 --> 00:02:19,733
+the farthest box on the farthest side
+
+63
+00:02:19,733 --> 00:02:21,242
+of the widest ships.
+
+64
+00:02:21,592 --> 00:02:24,345
+When several cranes stand at a quiet
+
+65
+00:02:24,345 --> 00:02:26,563
+berth with their arms raised,
+
+66
+00:02:26,563 --> 00:02:28,782
+they look like a row of giant
+
+67
+00:02:28,782 --> 00:02:29,393
+animals.
+
+68
+00:02:29,573 --> 00:02:32,362
+In fact, the legend says that the
+
+69
+00:02:32,362 --> 00:02:35,489
+walkers of Star Wars were inspired by
+
+70
+00:02:35,489 --> 00:02:37,433
+port cranes in Oakland,
+
+71
+00:02:37,433 --> 00:02:38,362
+California.
+
+72
+00:02:38,542 --> 00:02:41,447
+Whether that story is true or not,
+
+73
+00:02:41,447 --> 00:02:44,011
+the shape has a simple reason.
+
+74
+00:02:44,191 --> 00:02:46,061
+A crane with its arm up is
+
+75
+00:02:46,061 --> 00:02:47,931
+a crane that is out of the
+
+76
+00:02:47,931 --> 00:02:48,219
+way.
+
+77
+00:02:48,570 --> 00:02:51,251
+Why are container cranes so tall?
+
+78
+00:02:51,431 --> 00:02:53,730
+Because the ships keep growing.
+
+79
+00:02:53,910 --> 00:02:56,845
+The biggest container ships today are about
+
+80
+00:02:56,845 --> 00:02:59,439
+four hundred meters long and more than
+
+81
+00:02:59,439 --> 00:03:00,667
+sixty meters wide.
+
+82
+00:03:00,847 --> 00:03:03,839
+They carry boxes stacked up to around
+
+83
+00:03:03,839 --> 00:03:06,508
+ten high below deck and about ten
+
+84
+00:03:06,508 --> 00:03:07,801
+high above deck,
+
+85
+00:03:07,801 --> 00:03:10,066
+and twenty-four rows across.
+
+86
+00:03:10,246 --> 00:03:12,354
+To lift the top box over the
+
+87
+00:03:12,354 --> 00:03:13,635
+top of the stack,
+
+88
+00:03:13,635 --> 00:03:16,271
+the crane needs a lifting height of
+
+89
+00:03:16,271 --> 00:03:18,982
+around fifty meters above the rails,
+
+90
+00:03:18,982 --> 00:03:21,693
+as tall as a fifteen-story building.
+
+91
+00:03:22,043 --> 00:03:24,019
+In the nineteen eighties,
+
+92
+00:03:24,019 --> 00:03:27,260
+many cranes were built for Panamax ships,
+
+93
+00:03:27,260 --> 00:03:30,263
+the biggest that could fit through the
+
+94
+00:03:30,263 --> 00:03:32,635
+old locks of the Panama Canal,
+
+95
+00:03:32,635 --> 00:03:35,243
+about thirteen containers across.
+
+96
+00:03:35,423 --> 00:03:38,140
+Then came post-Panamax ships,
+
+97
+00:03:38,140 --> 00:03:40,764
+and then super post-Panamax.
+
+98
+00:03:40,944 --> 00:03:43,420
+Many ports had to buy new cranes,
+
+99
+00:03:43,420 --> 00:03:46,122
+or literally raise their old cranes,
+
+100
+00:03:46,122 --> 00:03:49,124
+cutting the legs and inserting new steel
+
+101
+00:03:49,124 --> 00:03:51,300
+sections to make them taller.
+
+102
+00:03:51,650 --> 00:03:54,947
+The reason ships grow is simple economics.
+
+103
+00:03:55,127 --> 00:03:57,916
+One huge ship with one crew and
+
+104
+00:03:57,916 --> 00:04:01,515
+one engine moves boxes more cheaply than
+
+105
+00:04:01,515 --> 00:04:03,045
+two smaller ones.
+
+106
+00:04:03,225 --> 00:04:06,130
+So shipping lines order bigger ships,
+
+107
+00:04:06,130 --> 00:04:08,957
+and every port that wants to receive
+
+108
+00:04:08,957 --> 00:04:10,920
+them needs bigger cranes,
+
+109
+00:04:10,920 --> 00:04:13,511
+deeper water, and stronger docks.
+
+110
+00:04:13,691 --> 00:04:16,424
+The crane is tall because the ship
+
+111
+00:04:16,424 --> 00:04:18,594
+is big, and the ship is big
+
+112
+00:04:18,594 --> 00:04:21,006
+because the cheapest box wins.
+
+113
+00:04:21,356 --> 00:04:23,895
+Why does the crane hold a container
+
+114
+00:04:23,895 --> 00:04:26,362
+with a flat steel frame instead of
+
+115
+00:04:26,362 --> 00:04:26,870
+a hook?
+
+116
+00:04:27,050 --> 00:04:29,500
+That frame is called a spreader.
+
+117
+00:04:29,680 --> 00:04:31,929
+At each corner it has a pin
+
+118
+00:04:31,929 --> 00:04:33,511
+called a twistlock.
+
+119
+00:04:33,691 --> 00:04:36,269
+The spreader lands on top of the
+
+120
+00:04:36,269 --> 00:04:38,927
+box, the four pins drop into four
+
+121
+00:04:38,927 --> 00:04:42,068
+holes, and then each pin rotates ninety
+
+122
+00:04:42,068 --> 00:04:42,712
+degrees.
+
+123
+00:04:42,892 --> 00:04:45,657
+Its head is now crossways inside the
+
+124
+00:04:45,657 --> 00:04:47,885
+hole, and it cannot come out.
+
+125
+00:04:48,065 --> 00:04:49,992
+The box is locked.
+
+126
+00:04:50,172 --> 00:04:52,175
+No ropes, no hooks,
+
+127
+00:04:52,175 --> 00:04:54,073
+no workers on top.
+
+128
+00:04:54,253 --> 00:04:55,507
+It takes seconds.
+
+129
+00:04:55,857 --> 00:04:58,643
+The spreader is also telescopic.
+
+130
+00:04:58,823 --> 00:05:00,118
+In a few seconds,
+
+131
+00:05:00,118 --> 00:05:02,481
+it can stretch from the size of
+
+132
+00:05:02,481 --> 00:05:05,681
+a twenty-foot container to a forty-foot or
+
+133
+00:05:05,681 --> 00:05:07,205
+forty-five-foot one.
+
+134
+00:05:07,385 --> 00:05:10,949
+Many can even lift two twenty-foot boxes
+
+135
+00:05:10,949 --> 00:05:13,978
+at once, and some cranes carry two
+
+136
+00:05:13,978 --> 00:05:16,650
+forty-foot boxes side by side.
+
+137
+00:05:16,830 --> 00:05:19,948
+Sensors tell the operator when all four
+
+138
+00:05:19,948 --> 00:05:21,707
+twistlocks are seated,
+
+139
+00:05:21,707 --> 00:05:24,266
+and a lift is blocked until they
+
+140
+00:05:24,266 --> 00:05:24,586
+are.
+
+141
+00:05:24,936 --> 00:05:27,118
+That speed is the whole point.
+
+142
+00:05:27,298 --> 00:05:29,893
+A good crane team can move around
+
+143
+00:05:29,893 --> 00:05:32,801
+thirty boxes an hour with each crane.
+
+144
+00:05:32,981 --> 00:05:36,080
+With several cranes working one ship,
+
+145
+00:05:36,080 --> 00:05:38,928
+thousands of boxes can be moved in
+
+146
+00:05:38,928 --> 00:05:40,017
+a day or two.
+
+147
+00:05:40,197 --> 00:05:42,800
+A ship that once stayed a week
+
+148
+00:05:42,800 --> 00:05:44,796
+in port can now arrive,
+
+149
+00:05:44,796 --> 00:05:47,834
+unload, reload and leave in a short
+
+150
+00:05:47,834 --> 00:05:50,958
+stay, because of four pins that turn
+
+151
+00:05:50,958 --> 00:05:52,260
+ninety degrees.
+
+152
+00:05:52,610 --> 00:05:55,547
+Why does every shipping container in the
+
+153
+00:05:55,547 --> 00:05:57,897
+world have the same holes at its
+
+154
+00:05:57,897 --> 00:05:58,484
+corners?
+
+155
+00:05:58,664 --> 00:06:01,217
+They are called corner castings,
+
+156
+00:06:01,217 --> 00:06:04,249
+solid steel blocks with oval openings.
+
+157
+00:06:04,429 --> 00:06:07,352
+They are where the twistlocks grab the
+
+158
+00:06:07,352 --> 00:06:10,045
+box, where boxes lock to each other
+
+159
+00:06:10,045 --> 00:06:10,892
+in a stack,
+
+160
+00:06:10,892 --> 00:06:13,584
+and where they lock onto trucks and
+
+161
+00:06:13,584 --> 00:06:14,123
+trains.
+
+162
+00:06:14,303 --> 00:06:17,070
+And their size and position are set
+
+163
+00:06:17,070 --> 00:06:19,205
+by international standards,
+
+164
+00:06:19,205 --> 00:06:21,260
+so a box from China fits a
+
+165
+00:06:21,260 --> 00:06:23,711
+crane in Germany and a truck in
+
+166
+00:06:23,711 --> 00:06:24,264
+Brazil.
+
+167
+00:06:24,615 --> 00:06:26,879
+This standard is the real invention.
+
+168
+00:06:27,059 --> 00:06:31,169
+Malcom McLean's containers worked because they were
+
+169
+00:06:31,169 --> 00:06:32,217
+all the same,
+
+170
+00:06:32,217 --> 00:06:35,441
+and in the nineteen sixties the industry
+
+171
+00:06:35,441 --> 00:06:37,456
+agreed on standard sizes,
+
+172
+00:06:37,456 --> 00:06:41,082
+now set by the International Organization for
+
+173
+00:06:41,082 --> 00:06:42,372
+Standardization.
+
+174
+00:06:42,552 --> 00:06:45,257
+The most common box is twenty or
+
+175
+00:06:45,257 --> 00:06:48,299
+forty feet long and eight feet wide.
+
+176
+00:06:48,479 --> 00:06:51,515
+That is why port capacity is measured
+
+177
+00:06:51,515 --> 00:06:54,551
+in TEU, twenty-foot equivalent units.
+
+178
+00:06:54,901 --> 00:06:58,093
+Those little corners carry enormous loads.
+
+179
+00:06:58,273 --> 00:07:01,292
+A loaded container can be stacked under
+
+180
+00:07:01,292 --> 00:07:04,001
+eight or nine other loaded boxes on
+
+181
+00:07:04,001 --> 00:07:06,478
+a ship, and all that weight goes
+
+182
+00:07:06,478 --> 00:07:08,800
+down through the corner posts,
+
+183
+00:07:08,800 --> 00:07:09,883
+not the walls.
+
+184
+00:07:10,063 --> 00:07:12,722
+The walls are thin corrugated steel.
+
+185
+00:07:12,902 --> 00:07:14,794
+The corners are the skeleton.
+
+186
+00:07:14,974 --> 00:07:17,688
+An empty container weighs only a few
+
+187
+00:07:17,688 --> 00:07:20,327
+tons, but its four corners can hold
+
+188
+00:07:20,327 --> 00:07:20,930
+a tower.
+
+189
+00:07:21,281 --> 00:07:23,778
+Why does the crane operator sit in
+
+190
+00:07:23,778 --> 00:07:25,762
+a cabin with a glass floor?
+
+191
+00:07:25,942 --> 00:07:28,637
+Because the operator's job is to look
+
+192
+00:07:28,637 --> 00:07:29,657
+straight down.
+
+193
+00:07:29,837 --> 00:07:32,332
+The cabin hangs under the trolley and
+
+194
+00:07:32,332 --> 00:07:33,411
+travels with it,
+
+195
+00:07:33,411 --> 00:07:34,760
+high above the ship.
+
+196
+00:07:34,940 --> 00:07:37,757
+The operator sits leaning forward,
+
+197
+00:07:37,757 --> 00:07:41,071
+watching the spreader drop into a narrow
+
+198
+00:07:41,071 --> 00:07:43,391
+slot dozens of meters below,
+
+199
+00:07:43,391 --> 00:07:46,457
+with only a few centimeters to spare.
+
+200
+00:07:46,637 --> 00:07:48,320
+Doing that for hours,
+
+201
+00:07:48,320 --> 00:07:50,002
+in wind and at night,
+
+202
+00:07:50,002 --> 00:07:53,127
+takes enormous skill and concentration.
+
+203
+00:07:53,477 --> 00:07:56,287
+The spreader swings like a pendulum when
+
+204
+00:07:56,287 --> 00:07:57,552
+the trolley stops.
+
+205
+00:07:57,732 --> 00:08:01,144
+Modern cranes have anti-sway systems that move
+
+206
+00:08:01,144 --> 00:08:03,296
+the trolley in a smart way to
+
+207
+00:08:03,296 --> 00:08:04,557
+cancel the swing,
+
+208
+00:08:04,557 --> 00:08:07,005
+the same idea as moving your hand
+
+209
+00:08:07,005 --> 00:08:09,454
+under a hanging object to keep it
+
+210
+00:08:09,454 --> 00:08:09,899
+still.
+
+211
+00:08:10,079 --> 00:08:12,993
+Still, wind, rain and a moving ship
+
+212
+00:08:12,993 --> 00:08:15,907
+make every lift a little different.
+
+213
+00:08:16,087 --> 00:08:19,242
+Crane operators are among the best paid
+
+214
+00:08:19,242 --> 00:08:21,021
+workers in many ports.
+
+215
+00:08:21,372 --> 00:08:22,801
+More and more,
+
+216
+00:08:22,801 --> 00:08:24,843
+that cabin is empty.
+
+217
+00:08:25,023 --> 00:08:26,815
+In automated terminals,
+
+218
+00:08:26,815 --> 00:08:29,776
+such as those in Rotterdam and several
+
+219
+00:08:29,776 --> 00:08:32,815
+Asian ports, the operator works from an
+
+220
+00:08:32,815 --> 00:08:33,984
+office on land,
+
+221
+00:08:33,984 --> 00:08:37,490
+watching cameras and helping the machine only
+
+222
+00:08:37,490 --> 00:08:40,139
+for the hardest parts of the lift.
+
+223
+00:08:40,319 --> 00:08:42,740
+The view changed from a glass floor
+
+224
+00:08:42,740 --> 00:08:43,570
+to a screen.
+
+225
+00:08:43,750 --> 00:08:45,248
+The precision did not.
+
+226
+00:08:45,598 --> 00:08:48,175
+Why does a port crane stand on
+
+227
+00:08:48,175 --> 00:08:49,464
+so many wheels?
+
+228
+00:08:49,644 --> 00:08:51,619
+Because it weighs as much as a
+
+229
+00:08:51,619 --> 00:08:53,661
+small ship, and it has to move.
+
+230
+00:08:53,841 --> 00:08:56,433
+The crane rolls along two rails that
+
+231
+00:08:56,433 --> 00:08:58,377
+run the length of the dock,
+
+232
+00:08:58,377 --> 00:09:00,249
+so it can line up with any
+
+233
+00:09:00,249 --> 00:09:02,049
+row of boxes on the ship.
+
+234
+00:09:02,229 --> 00:09:04,781
+Its weight, plus the load and the
+
+235
+00:09:04,781 --> 00:09:06,172
+force of the wind,
+
+236
+00:09:06,172 --> 00:09:09,265
+is spread over many small wheels grouped
+
+237
+00:09:09,265 --> 00:09:10,193
+at each leg,
+
+238
+00:09:10,193 --> 00:09:13,131
+because a few large wheels would crush
+
+239
+00:09:13,131 --> 00:09:13,827
+the dock.
+
+240
+00:09:14,178 --> 00:09:15,860
+The legs are far apart,
+
+241
+00:09:15,860 --> 00:09:17,836
+often around thirty meters,
+
+242
+00:09:17,836 --> 00:09:20,762
+so trucks and vehicles can drive between
+
+243
+00:09:20,762 --> 00:09:23,396
+them and park right under the crane.
+
+244
+00:09:23,576 --> 00:09:26,230
+The dock itself is a serious piece
+
+245
+00:09:26,230 --> 00:09:29,509
+of engineering, often built on deep piles,
+
+246
+00:09:29,509 --> 00:09:32,709
+because it must carry these moving giants
+
+247
+00:09:32,709 --> 00:09:35,910
+plus stacks of loaded containers right at
+
+248
+00:09:35,910 --> 00:09:37,705
+the edge of deep water.
+
+249
+00:09:38,056 --> 00:09:41,075
+Power usually comes through a thick cable
+
+250
+00:09:41,075 --> 00:09:43,505
+that unrolls from a giant reel as
+
+251
+00:09:43,505 --> 00:09:45,788
+the crane moves along the dock.
+
+252
+00:09:45,968 --> 00:09:48,754
+Many cranes even recover energy.
+
+253
+00:09:48,934 --> 00:09:51,036
+When a container is lowered,
+
+254
+00:09:51,036 --> 00:09:53,287
+the motors work as generators,
+
+255
+00:09:53,287 --> 00:09:55,764
+the same trick as an electric car
+
+256
+00:09:55,764 --> 00:09:56,365
+braking.
+
+257
+00:09:56,545 --> 00:09:59,783
+A crane lowering thousands of boxes a
+
+258
+00:09:59,783 --> 00:10:02,584
+day can feed power back into the
+
+259
+00:10:02,584 --> 00:10:03,197
+system.
+
+260
+00:10:03,547 --> 00:10:06,149
+Why do new port cranes often cross
+
+261
+00:10:06,149 --> 00:10:08,446
+the ocean already standing up?
+
+262
+00:10:08,626 --> 00:10:11,501
+Because building them in one factory and
+
+263
+00:10:11,501 --> 00:10:14,664
+shipping them complete is faster and cheaper
+
+264
+00:10:14,664 --> 00:10:17,395
+than assembling them piece by piece at
+
+265
+00:10:17,395 --> 00:10:18,042
+the port.
+
+266
+00:10:18,222 --> 00:10:21,515
+Special heavy-lift ships carry two,
+
+267
+00:10:21,515 --> 00:10:25,091
+three or more giant cranes standing on
+
+268
+00:10:25,091 --> 00:10:27,161
+deck, fully assembled.
+
+269
+00:10:27,341 --> 00:10:31,304
+Most of the world's large ship-to-shore cranes
+
+270
+00:10:31,304 --> 00:10:33,888
+come from one Chinese company,
+
+271
+00:10:33,888 --> 00:10:34,319
+ZPMC.
+
+272
+00:10:34,669 --> 00:10:36,224
+The trip can be tricky.
+
+273
+00:10:36,404 --> 00:10:39,276
+Cranes arriving in San Francisco Bay have
+
+274
+00:10:39,276 --> 00:10:41,378
+had to wait for the right tide
+
+275
+00:10:41,378 --> 00:10:44,110
+and conditions to pass under the Golden
+
+276
+00:10:44,110 --> 00:10:46,842
+Gate Bridge with very little clearance.
+
+277
+00:10:47,022 --> 00:10:48,307
+At the destination,
+
+278
+00:10:48,307 --> 00:10:50,607
+the cranes are rolled off the ship
+
+279
+00:10:50,607 --> 00:10:52,095
+onto the dock's rails.
+
+280
+00:10:52,275 --> 00:10:54,562
+A port can go from an empty
+
+281
+00:10:54,562 --> 00:10:57,527
+berth to working cranes in a matter
+
+282
+00:10:57,527 --> 00:10:58,289
+of weeks.
+
+283
+00:10:58,640 --> 00:11:02,203
+That concentration has also become a political
+
+284
+00:11:02,203 --> 00:11:02,668
+issue.
+
+285
+00:11:02,848 --> 00:11:04,971
+In two thousand twenty-four,
+
+286
+00:11:04,971 --> 00:11:08,306
+the United States announced plans to support
+
+287
+00:11:08,306 --> 00:11:10,429
+crane manufacturing at home,
+
+288
+00:11:10,429 --> 00:11:13,689
+partly because of concerns about relying on
+
+289
+00:11:13,689 --> 00:11:17,024
+foreign-made cranes with connected software.
+
+290
+00:11:17,204 --> 00:11:20,556
+A piece of steel that looks simple
+
+291
+00:11:20,556 --> 00:11:23,218
+is also a computer on legs.
+
+292
+00:11:23,568 --> 00:11:25,809
+Why are port cranes chained to the
+
+293
+00:11:25,809 --> 00:11:27,260
+ground before a storm?
+
+294
+00:11:27,440 --> 00:11:30,254
+Because a crane on rails is a
+
+295
+00:11:30,254 --> 00:11:32,293
+giant sail on wheels.
+
+296
+00:11:32,473 --> 00:11:34,922
+A strong wind can push it along
+
+297
+00:11:34,922 --> 00:11:37,372
+its rails, or even tip it over.
+
+298
+00:11:37,552 --> 00:11:40,640
+So every crane has storm anchors.
+
+299
+00:11:40,820 --> 00:11:43,626
+Heavy pins drop into holes in the
+
+300
+00:11:43,626 --> 00:11:46,942
+dock, and tie-downs connect the legs to
+
+301
+00:11:46,942 --> 00:11:48,982
+anchors in the concrete.
+
+302
+00:11:49,162 --> 00:11:52,225
+An anemometer at the top measures the
+
+303
+00:11:52,225 --> 00:11:54,875
+wind, and above a certain speed,
+
+304
+00:11:54,875 --> 00:11:56,116
+work must stop.
+
+305
+00:11:56,467 --> 00:11:57,790
+This is not theory.
+
+306
+00:11:57,970 --> 00:11:59,714
+In two thousand three,
+
+307
+00:11:59,714 --> 00:12:02,489
+Typhoon Maemi hit the port of Busan
+
+308
+00:12:02,489 --> 00:12:03,678
+in South Korea,
+
+309
+00:12:03,678 --> 00:12:06,770
+and the wind knocked over several giant
+
+310
+00:12:06,770 --> 00:12:08,117
+container cranes.
+
+311
+00:12:08,297 --> 00:12:10,085
+Some fell onto each other.
+
+312
+00:12:10,265 --> 00:12:13,312
+Cranes have also collapsed in other storms
+
+313
+00:12:13,312 --> 00:12:15,633
+and in accidents when a ship hit
+
+314
+00:12:15,633 --> 00:12:17,301
+a crane while berthing.
+
+315
+00:12:17,481 --> 00:12:18,828
+When a crane falls,
+
+316
+00:12:18,828 --> 00:12:20,673
+it can take a berth out of
+
+317
+00:12:20,673 --> 00:12:22,020
+service for months.
+
+318
+00:12:22,371 --> 00:12:24,799
+That is why the boom position matters
+
+319
+00:12:24,799 --> 00:12:25,784
+in a storm too.
+
+320
+00:12:25,964 --> 00:12:29,037
+A raised boom catches the wind differently
+
+321
+00:12:29,037 --> 00:12:30,428
+than a lowered one,
+
+322
+00:12:30,428 --> 00:12:32,842
+and port rules say how each crane
+
+323
+00:12:32,842 --> 00:12:33,940
+must be parked.
+
+324
+00:12:34,120 --> 00:12:35,798
+Before a hurricane,
+
+325
+00:12:35,798 --> 00:12:37,741
+crews park the cranes,
+
+326
+00:12:37,741 --> 00:12:39,065
+lock them down,
+
+327
+00:12:39,065 --> 00:12:39,948
+and leave.
+
+328
+00:12:40,128 --> 00:12:42,470
+The safest crane in a storm is
+
+329
+00:12:42,470 --> 00:12:44,656
+one that cannot move at all.
+
+330
+00:12:45,006 --> 00:12:48,001
+Why are there vertical steel rails inside
+
+331
+00:12:48,001 --> 00:12:49,243
+a container ship?
+
+332
+00:12:49,423 --> 00:12:51,374
+They are called cell guides.
+
+333
+00:12:51,554 --> 00:12:54,708
+Below deck, the hold is divided into
+
+334
+00:12:54,708 --> 00:12:57,688
+slots, and each slot has guides at
+
+335
+00:12:57,688 --> 00:12:59,178
+its four corners,
+
+336
+00:12:59,178 --> 00:13:01,631
+like a giant elevator shaft.
+
+337
+00:13:01,811 --> 00:13:04,692
+The crane simply lowers the box into
+
+338
+00:13:04,692 --> 00:13:07,253
+the slot, and the guides lead it
+
+339
+00:13:07,253 --> 00:13:08,533
+down into place.
+
+340
+00:13:08,713 --> 00:13:11,048
+No lashing is needed below deck,
+
+341
+00:13:11,048 --> 00:13:13,673
+because the guides hold the stack in
+
+342
+00:13:13,673 --> 00:13:15,935
+place even when the ship rolls.
+
+343
+00:13:16,285 --> 00:13:18,665
+On deck, there are no guides.
+
+344
+00:13:18,845 --> 00:13:21,773
+Boxes are locked to each other with
+
+345
+00:13:21,773 --> 00:13:25,120
+twistlocks and tied down with long steel
+
+346
+00:13:25,120 --> 00:13:27,212
+rods called lashing bars,
+
+347
+00:13:27,212 --> 00:13:29,890
+put in by hand by workers called
+
+348
+00:13:29,890 --> 00:13:30,559
+lashers.
+
+349
+00:13:30,739 --> 00:13:32,273
+In very bad weather,
+
+350
+00:13:32,273 --> 00:13:34,419
+these stacks can still fail.
+
+351
+00:13:34,599 --> 00:13:35,981
+In twenty twenty,
+
+352
+00:13:35,981 --> 00:13:38,582
+the ship ONE Apus lost more than
+
+353
+00:13:38,582 --> 00:13:42,483
+eighteen hundred containers overboard in a storm
+
+354
+00:13:42,483 --> 00:13:43,702
+in the Pacific.
+
+355
+00:13:44,052 --> 00:13:46,850
+That is why ships plan every box.
+
+356
+00:13:47,030 --> 00:13:50,952
+A computer decides where each container goes,
+
+357
+00:13:50,952 --> 00:13:52,259
+heavy ones low,
+
+358
+00:13:52,259 --> 00:13:53,654
+light ones high,
+
+359
+00:13:53,654 --> 00:13:55,572
+dangerous cargo apart,
+
+360
+00:13:55,572 --> 00:13:58,186
+and boxes for the next port on
+
+361
+00:13:58,186 --> 00:13:58,535
+top.
+
+362
+00:13:58,715 --> 00:14:01,722
+The crane is not just lifting boxes.
+
+363
+00:14:01,902 --> 00:14:04,230
+It is solving a giant puzzle,
+
+364
+00:14:04,230 --> 00:14:05,756
+in the right order,
+
+365
+00:14:05,756 --> 00:14:08,325
+so the ship stays stable and the
+
+366
+00:14:08,325 --> 00:14:10,412
+next port can unload fast.
+
+367
+00:14:10,763 --> 00:14:14,147
+Why do ports use strange machines that
+
+368
+00:14:14,147 --> 00:14:16,463
+look like boxes on stilts?
+
+369
+00:14:16,643 --> 00:14:18,396
+They are straddle carriers.
+
+370
+00:14:18,576 --> 00:14:20,595
+They drive over a container,
+
+371
+00:14:20,595 --> 00:14:23,118
+lift it up between their tall legs,
+
+372
+00:14:23,118 --> 00:14:24,416
+and carry it away.
+
+373
+00:14:24,596 --> 00:14:26,849
+Because they straddle the box,
+
+374
+00:14:26,849 --> 00:14:29,402
+they can stack containers in rows,
+
+375
+00:14:29,402 --> 00:14:30,679
+drive over a row,
+
+376
+00:14:30,679 --> 00:14:32,932
+and pick up the one they need.
+
+377
+00:14:33,112 --> 00:14:35,515
+They connect the crane at the ship
+
+378
+00:14:35,515 --> 00:14:37,353
+to the stacks in the yard,
+
+379
+00:14:37,353 --> 00:14:37,918
+nonstop.
+
+380
+00:14:38,269 --> 00:14:40,649
+Other ports use a different system.
+
+381
+00:14:40,829 --> 00:14:44,230
+Driverless vehicles carry boxes from the ship
+
+382
+00:14:44,230 --> 00:14:47,405
+cranes to automated stacking cranes in the
+
+383
+00:14:47,405 --> 00:14:47,783
+yard.
+
+384
+00:14:47,963 --> 00:14:51,485
+The first terminal with automated guided vehicles
+
+385
+00:14:51,485 --> 00:14:54,720
+opened in Rotterdam in nineteen ninety-three.
+
+386
+00:14:54,900 --> 00:14:57,973
+Today, many of the busiest terminals run
+
+387
+00:14:57,973 --> 00:15:00,584
+day and night with very few people
+
+388
+00:15:00,584 --> 00:15:01,506
+in the yard.
+
+389
+00:15:01,856 --> 00:15:04,096
+Every system has the same goal.
+
+390
+00:15:04,276 --> 00:15:06,915
+Keep the giant crane at the ship
+
+391
+00:15:06,915 --> 00:15:08,400
+busy every second,
+
+392
+00:15:08,400 --> 00:15:11,534
+because the ship is the most expensive
+
+393
+00:15:11,534 --> 00:15:13,019
+thing in the port.
+
+394
+00:15:13,199 --> 00:15:15,949
+A ship waiting in port costs a
+
+395
+00:15:15,949 --> 00:15:17,599
+fortune every day.
+
+396
+00:15:17,779 --> 00:15:20,125
+So everything in the terminal,
+
+397
+00:15:20,125 --> 00:15:22,940
+from straddle carriers to computers,
+
+398
+00:15:22,940 --> 00:15:24,896
+exists to feed the crane.
+
+399
+00:15:25,246 --> 00:15:26,732
+So here are the ten.
+
+400
+00:15:26,912 --> 00:15:28,542
+An arm that folds up out of
+
+401
+00:15:28,542 --> 00:15:29,025
+the way.
+
+402
+00:15:29,205 --> 00:15:31,817
+A height set by the biggest ships.
+
+403
+00:15:31,997 --> 00:15:34,600
+A spreader with four turning pins,
+
+404
+00:15:34,600 --> 00:15:37,433
+and corner holes that fit every crane
+
+405
+00:15:37,433 --> 00:15:38,429
+in the world.
+
+406
+00:15:38,609 --> 00:15:40,889
+A cabin with a glass floor,
+
+407
+00:15:40,889 --> 00:15:43,423
+wheels that spread the weight,
+
+408
+00:15:43,423 --> 00:15:46,801
+cranes that cross the ocean standing up,
+
+409
+00:15:46,801 --> 00:15:48,997
+anchors against the storm,
+
+410
+00:15:48,997 --> 00:15:50,855
+rails inside the ship,
+
+411
+00:15:50,855 --> 00:15:53,643
+and machines on stilts to feed it
+
+412
+00:15:53,643 --> 00:15:53,980
+all.
+
+413
+00:15:54,331 --> 00:15:56,938
+The next time you open a package,
+
+414
+00:15:56,938 --> 00:15:59,783
+remember it probably rode in a steel
+
+415
+00:15:59,783 --> 00:16:02,074
+box, under a crane like this.
+
+416
+00:16:02,254 --> 00:16:05,327
+If you want more machines explained part
+
+417
+00:16:05,327 --> 00:16:08,245
+by part, subscribe to Machine Reverse.
+
+418
+00:16:08,425 --> 00:16:10,465
+And tell us in the comments which
+
+419
+00:16:10,465 --> 00:16:12,505
+machine you want us to take apart
+
+420
+00:16:12,505 --> 00:16:12,814
+next.
