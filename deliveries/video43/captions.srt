@@ -1,0 +1,1695 @@
+1
+00:00:00,000 --> 00:00:03,153
+Some oil platforms stand in water deeper
+
+2
+00:00:03,153 --> 00:00:04,887
+than the Grand Canyon.
+
+3
+00:00:05,067 --> 00:00:07,086
+They are as heavy as a city
+
+4
+00:00:07,086 --> 00:00:09,777
+block, they face waves taller than a
+
+5
+00:00:09,777 --> 00:00:12,393
+house, and they must stay in almost
+
+6
+00:00:12,393 --> 00:00:14,934
+exactly the same spot for decades,
+
+7
+00:00:14,934 --> 00:00:17,401
+because a pipe connects them to a
+
+8
+00:00:17,401 --> 00:00:19,046
+hole in the sea floor.
+
+9
+00:00:19,226 --> 00:00:21,128
+If they drift too far,
+
+10
+00:00:21,128 --> 00:00:22,511
+the pipe breaks.
+
+11
+00:00:22,691 --> 00:00:24,224
+So how do they stay put?
+
+12
+00:00:24,404 --> 00:00:27,868
+Today, ten parts of offshore platforms,
+
+13
+00:00:27,868 --> 00:00:30,000
+and why each one exists.
+
+14
+00:00:30,350 --> 00:00:33,401
+The first platforms were built in shallow
+
+15
+00:00:33,401 --> 00:00:35,484
+water, on simple steel legs,
+
+16
+00:00:35,484 --> 00:00:37,568
+like a pier in the middle of
+
+17
+00:00:37,568 --> 00:00:38,163
+the sea.
+
+18
+00:00:38,343 --> 00:00:40,671
+But the oil kept moving deeper,
+
+19
+00:00:40,671 --> 00:00:42,999
+from tens of meters of water to
+
+20
+00:00:42,999 --> 00:00:45,402
+hundreds, and then to thousands.
+
+21
+00:00:45,582 --> 00:00:46,715
+At each step,
+
+22
+00:00:46,715 --> 00:00:49,590
+engineers had to invent a new way
+
+23
+00:00:49,590 --> 00:00:52,553
+to hold a giant structure still on
+
+24
+00:00:52,553 --> 00:00:53,860
+a moving ocean.
+
+25
+00:00:54,040 --> 00:00:56,962
+That is why offshore platforms come in
+
+26
+00:00:56,962 --> 00:00:58,730
+so many strange shapes.
+
+27
+00:00:59,081 --> 00:01:01,902
+As always, every fact comes from a
+
+28
+00:01:01,902 --> 00:01:05,221
+named source, official accident reports,
+
+29
+00:01:05,221 --> 00:01:08,956
+energy companies, and engineering references,
+
+30
+00:01:08,956 --> 00:01:11,445
+all listed in the description.
+
+31
+00:01:11,625 --> 00:01:14,147
+Let's start with a platform that stands
+
+32
+00:01:14,147 --> 00:01:15,375
+up on its own legs.
+
+33
+00:01:15,726 --> 00:01:18,430
+Why do some oil rigs lift themselves
+
+34
+00:01:18,430 --> 00:01:19,708
+out of the water?
+
+35
+00:01:19,888 --> 00:01:21,989
+They are called jack-ups.
+
+36
+00:01:22,169 --> 00:01:24,513
+The rig floats to the site like
+
+37
+00:01:24,513 --> 00:01:27,235
+a barge, with its long legs pointing
+
+38
+00:01:27,235 --> 00:01:28,067
+to the sky.
+
+39
+00:01:28,247 --> 00:01:30,816
+Then motors walk the legs down to
+
+40
+00:01:30,816 --> 00:01:31,906
+the sea floor,
+
+41
+00:01:31,906 --> 00:01:34,786
+and keep pushing until the whole hull
+
+42
+00:01:34,786 --> 00:01:36,420
+rises out of the sea.
+
+43
+00:01:36,600 --> 00:01:38,780
+Now the rig stands on the bottom
+
+44
+00:01:38,780 --> 00:01:39,666
+like a table,
+
+45
+00:01:39,666 --> 00:01:42,323
+high enough that the biggest waves pass
+
+46
+00:01:42,323 --> 00:01:43,276
+underneath it.
+
+47
+00:01:43,627 --> 00:01:45,861
+At the bottom of each leg is
+
+48
+00:01:45,861 --> 00:01:48,174
+a big foot called a spud can,
+
+49
+00:01:48,174 --> 00:01:50,728
+shaped a bit like an upside down
+
+50
+00:01:50,728 --> 00:01:51,127
+cone.
+
+51
+00:01:51,307 --> 00:01:54,538
+Before drilling, the crew fills tanks with
+
+52
+00:01:54,538 --> 00:01:57,384
+seawater to make the rig much heavier
+
+53
+00:01:57,384 --> 00:01:58,307
+than normal.
+
+54
+00:01:58,487 --> 00:02:00,264
+This is called preloading.
+
+55
+00:02:00,444 --> 00:02:02,891
+It pushes the feet deep into the
+
+56
+00:02:02,891 --> 00:02:04,879
+seabed and tests the soil.
+
+57
+00:02:05,059 --> 00:02:07,426
+If the ground is going to give
+
+58
+00:02:07,426 --> 00:02:09,793
+way, it is much better to find
+
+59
+00:02:09,793 --> 00:02:11,055
+out now, slowly,
+
+60
+00:02:11,055 --> 00:02:12,791
+than later in a storm.
+
+61
+00:02:13,141 --> 00:02:14,801
+Jack-ups have a limit.
+
+62
+00:02:14,981 --> 00:02:17,382
+Their legs can only be so long,
+
+63
+00:02:17,382 --> 00:02:20,558
+so they work in relatively shallow water,
+
+64
+00:02:20,558 --> 00:02:23,657
+typically up to around one hundred fifty
+
+65
+00:02:23,657 --> 00:02:24,199
+meters.
+
+66
+00:02:24,379 --> 00:02:26,387
+When the job is done,
+
+67
+00:02:26,387 --> 00:02:28,586
+the legs climb back up,
+
+68
+00:02:28,586 --> 00:02:31,741
+the rig floats again and is towed
+
+69
+00:02:31,741 --> 00:02:33,748
+to the next location.
+
+70
+00:02:33,928 --> 00:02:36,273
+A building that walks down to the
+
+71
+00:02:36,273 --> 00:02:38,617
+sea floor and climbs back up when
+
+72
+00:02:38,617 --> 00:02:39,896
+it wants to leave.
+
+73
+00:02:40,246 --> 00:02:43,565
+Why do some floating platforms pull themselves
+
+74
+00:02:43,565 --> 00:02:45,586
+down instead of floating up?
+
+75
+00:02:45,766 --> 00:02:48,383
+A tension leg platform has a hull
+
+76
+00:02:48,383 --> 00:02:51,238
+that wants to float much higher than
+
+77
+00:02:51,238 --> 00:02:51,873
+it does.
+
+78
+00:02:52,053 --> 00:02:53,857
+But it is tied to the sea
+
+79
+00:02:53,857 --> 00:02:57,104
+floor by vertical steel tubes called tendons,
+
+80
+00:02:57,104 --> 00:02:58,764
+pulled extremely tight.
+
+81
+00:02:58,944 --> 00:03:00,807
+The buoyancy pulls up,
+
+82
+00:03:00,807 --> 00:03:02,670
+the tendons pull down.
+
+83
+00:03:02,850 --> 00:03:05,758
+The platform can slide a little sideways
+
+84
+00:03:05,758 --> 00:03:08,084
+in waves, but it barely moves up
+
+85
+00:03:08,084 --> 00:03:09,247
+and down at all.
+
+86
+00:03:09,598 --> 00:03:12,488
+That vertical stillness is the whole point.
+
+87
+00:03:12,668 --> 00:03:15,044
+On a platform that does not bob,
+
+88
+00:03:15,044 --> 00:03:17,716
+the wells can be controlled from the
+
+89
+00:03:17,716 --> 00:03:19,646
+deck, almost like on land.
+
+90
+00:03:19,826 --> 00:03:23,131
+The first tension leg platform to produce
+
+91
+00:03:23,131 --> 00:03:24,340
+oil was Hutton,
+
+92
+00:03:24,340 --> 00:03:26,355
+in the British North Sea,
+
+93
+00:03:26,355 --> 00:03:28,290
+in nineteen eighty-four.
+
+94
+00:03:28,470 --> 00:03:30,849
+Later ones in the Gulf of Mexico
+
+95
+00:03:30,849 --> 00:03:33,601
+went into water more than a kilometer
+
+96
+00:03:33,601 --> 00:03:33,973
+deep.
+
+97
+00:03:34,153 --> 00:03:37,383
+And Heidrun, in the Norwegian Sea,
+
+98
+00:03:37,383 --> 00:03:39,377
+is even more unusual.
+
+99
+00:03:39,557 --> 00:03:42,402
+Its floating hull is made of concrete.
+
+100
+00:03:42,752 --> 00:03:44,949
+The tendons are a bit like the
+
+101
+00:03:44,949 --> 00:03:46,415
+strings of a guitar,
+
+102
+00:03:46,415 --> 00:03:49,199
+tight enough that they never go slack,
+
+103
+00:03:49,199 --> 00:03:51,250
+even when a big wave passes.
+
+104
+00:03:51,430 --> 00:03:53,906
+If a tendon ever went slack and
+
+105
+00:03:53,906 --> 00:03:55,902
+then snapped tight again,
+
+106
+00:03:55,902 --> 00:03:57,978
+the shock could damage it.
+
+107
+00:03:58,158 --> 00:04:01,450
+So engineers design the platform with so
+
+108
+00:04:01,450 --> 00:04:04,825
+much extra buoyancy that the tendons stay
+
+109
+00:04:04,825 --> 00:04:07,376
+tight in any storm they expect.
+
+110
+00:04:07,556 --> 00:04:09,356
+Tension is the safety.
+
+111
+00:04:09,706 --> 00:04:12,182
+Why do some platforms sit on one
+
+112
+00:04:12,182 --> 00:04:13,653
+huge vertical tube?
+
+113
+00:04:13,833 --> 00:04:15,240
+They are called spars,
+
+114
+00:04:15,240 --> 00:04:17,479
+and they work like a fishing float.
+
+115
+00:04:17,659 --> 00:04:19,360
+The tube is very long,
+
+116
+00:04:19,360 --> 00:04:21,061
+most of it underwater,
+
+117
+00:04:21,061 --> 00:04:22,918
+and its bottom is heavy,
+
+118
+00:04:22,918 --> 00:04:25,470
+so the center of gravity sits far
+
+119
+00:04:25,470 --> 00:04:27,713
+below the center of buoyancy.
+
+120
+00:04:27,893 --> 00:04:29,834
+Like a float with a weight at
+
+121
+00:04:29,834 --> 00:04:32,245
+the bottom, it always wants to stand
+
+122
+00:04:32,245 --> 00:04:32,781
+upright.
+
+123
+00:04:32,961 --> 00:04:34,917
+And because most of it is deep
+
+124
+00:04:34,917 --> 00:04:35,961
+below the waves,
+
+125
+00:04:35,961 --> 00:04:38,243
+the surface motion barely moves it.
+
+126
+00:04:38,593 --> 00:04:40,930
+The first production spar,
+
+127
+00:04:40,930 --> 00:04:44,255
+Neptune, was installed in the Gulf of
+
+128
+00:04:44,255 --> 00:04:46,952
+Mexico in nineteen ninety-six.
+
+129
+00:04:47,132 --> 00:04:49,045
+One of the most famous,
+
+130
+00:04:49,045 --> 00:04:52,790
+Perdido, floats over water about two thousand
+
+131
+00:04:52,790 --> 00:04:55,369
+four hundred fifty meters deep,
+
+132
+00:04:55,369 --> 00:04:57,616
+around eight thousand feet.
+
+133
+00:04:57,796 --> 00:05:00,554
+Its hull is about one hundred seventy
+
+134
+00:05:00,554 --> 00:05:03,686
+meters long, taller than many skyscrapers,
+
+135
+00:05:03,686 --> 00:05:05,773
+and it was towed to the site
+
+136
+00:05:05,773 --> 00:05:07,116
+lying on its side,
+
+137
+00:05:07,116 --> 00:05:09,278
+then flooded to flip upright.
+
+138
+00:05:09,628 --> 00:05:11,831
+A spar is held in place by
+
+139
+00:05:11,831 --> 00:05:15,305
+mooring lines spread out like the strings
+
+140
+00:05:15,305 --> 00:05:16,152
+of a tent.
+
+141
+00:05:16,332 --> 00:05:17,458
+In deep water,
+
+142
+00:05:17,458 --> 00:05:20,112
+steel chain would be too heavy to
+
+143
+00:05:20,112 --> 00:05:21,238
+hang that far,
+
+144
+00:05:21,238 --> 00:05:23,570
+so the middle of each line is
+
+145
+00:05:23,570 --> 00:05:25,902
+often made of polyester rope,
+
+146
+00:05:25,902 --> 00:05:29,440
+strong, flexible, and much lighter in water.
+
+147
+00:05:29,620 --> 00:05:32,123
+A platform in the deep ocean is
+
+148
+00:05:32,123 --> 00:05:34,950
+often held by something closer to a
+
+149
+00:05:34,950 --> 00:05:36,888
+giant rope than a chain.
+
+150
+00:05:37,238 --> 00:05:40,332
+Why doesn't this platform need any anchors
+
+151
+00:05:40,332 --> 00:05:40,848
+at all?
+
+152
+00:05:41,028 --> 00:05:43,509
+Because it is simply too heavy to
+
+153
+00:05:43,509 --> 00:05:43,884
+move.
+
+154
+00:05:44,064 --> 00:05:46,755
+It is a gravity-based structure,
+
+155
+00:05:46,755 --> 00:05:50,118
+a giant made of reinforced concrete that
+
+156
+00:05:50,118 --> 00:05:52,473
+sits on the sea floor and is
+
+157
+00:05:52,473 --> 00:05:54,827
+held down by its own weight.
+
+158
+00:05:55,007 --> 00:05:57,625
+The most famous is Troll A in
+
+159
+00:05:57,625 --> 00:05:58,258
+Norway.
+
+160
+00:05:58,438 --> 00:06:01,381
+Its total height is about four hundred
+
+161
+00:06:01,381 --> 00:06:05,255
+seventy-two meters, and in nineteen ninety-five it
+
+162
+00:06:05,255 --> 00:06:06,882
+was towed out to sea,
+
+163
+00:06:06,882 --> 00:06:10,213
+becoming one of the tallest structures ever
+
+164
+00:06:10,213 --> 00:06:11,452
+moved by humans.
+
+165
+00:06:11,803 --> 00:06:14,572
+Troll A stands in about three hundred
+
+166
+00:06:14,572 --> 00:06:15,769
+meters of water,
+
+167
+00:06:15,769 --> 00:06:17,940
+so most of it is hidden below
+
+168
+00:06:17,940 --> 00:06:18,838
+the surface.
+
+169
+00:06:19,018 --> 00:06:22,830
+Concrete giants like this were built standing
+
+170
+00:06:22,830 --> 00:06:25,880
+in deep, sheltered Norwegian fjords.
+
+171
+00:06:26,060 --> 00:06:27,915
+The base was built first,
+
+172
+00:06:27,915 --> 00:06:30,587
+then flooded to sink lower and lower
+
+173
+00:06:30,587 --> 00:06:32,666
+while the walls grew taller.
+
+174
+00:06:32,846 --> 00:06:35,880
+When finished, the whole thing was floated
+
+175
+00:06:35,880 --> 00:06:38,119
+out using air in its big hollow
+
+176
+00:06:38,119 --> 00:06:40,937
+cells, and then flooded again to settle
+
+177
+00:06:40,937 --> 00:06:41,948
+on the seabed.
+
+178
+00:06:42,298 --> 00:06:46,088
+In Canada, the Hibernia platform uses the
+
+179
+00:06:46,088 --> 00:06:48,768
+same idea for another reason,
+
+180
+00:06:48,768 --> 00:06:49,600
+icebergs.
+
+181
+00:06:49,780 --> 00:06:52,286
+Its gravity base has an ice wall
+
+182
+00:06:52,286 --> 00:06:55,418
+with teeth designed to resist the impact
+
+183
+00:06:55,418 --> 00:06:56,514
+of an iceberg.
+
+184
+00:06:56,694 --> 00:06:58,489
+It sits off Newfoundland,
+
+185
+00:06:58,489 --> 00:07:01,073
+in the stretch of the North Atlantic
+
+186
+00:07:01,073 --> 00:07:02,580
+called Iceberg Alley.
+
+187
+00:07:02,760 --> 00:07:04,786
+When you cannot move out of the
+
+188
+00:07:04,786 --> 00:07:06,290
+way, you become a wall.
+
+189
+00:07:06,640 --> 00:07:09,079
+Why do floating rigs need so many
+
+190
+00:07:09,079 --> 00:07:09,670
+anchors?
+
+191
+00:07:09,850 --> 00:07:13,389
+A semi-submersible rig floats on giant pontoons
+
+192
+00:07:13,389 --> 00:07:14,970
+deep under the water,
+
+193
+00:07:14,970 --> 00:07:17,605
+with columns rising up to the deck.
+
+194
+00:07:17,785 --> 00:07:20,628
+Because the pontoons are below the waves,
+
+195
+00:07:20,628 --> 00:07:22,778
+it moves much less than a ship.
+
+196
+00:07:22,958 --> 00:07:24,523
+But it still floats,
+
+197
+00:07:24,523 --> 00:07:26,480
+so it is held in place by
+
+198
+00:07:26,480 --> 00:07:29,454
+eight, ten or more anchor lines spread
+
+199
+00:07:29,454 --> 00:07:30,237
+around it.
+
+200
+00:07:30,417 --> 00:07:32,495
+Each link of the chain can be
+
+201
+00:07:32,495 --> 00:07:34,573
+the size of a person's torso.
+
+202
+00:07:34,924 --> 00:07:37,577
+A floating rig is only as strong
+
+203
+00:07:37,577 --> 00:07:38,987
+as its structure.
+
+204
+00:07:39,167 --> 00:07:40,792
+In nineteen eighty,
+
+205
+00:07:40,792 --> 00:07:43,614
+the semi-submersible Alexander L.
+
+206
+00:07:43,794 --> 00:07:46,958
+Kielland, used as a floating hotel for
+
+207
+00:07:46,958 --> 00:07:49,373
+oil workers in the North Sea,
+
+208
+00:07:49,373 --> 00:07:51,038
+capsized in a storm.
+
+209
+00:07:51,218 --> 00:07:53,366
+One of its bracing tubes broke.
+
+210
+00:07:53,546 --> 00:07:56,749
+The investigation found a fatigue crack that
+
+211
+00:07:56,749 --> 00:07:59,151
+had started at a poorly made weld
+
+212
+00:07:59,151 --> 00:08:00,826
+around a small fitting.
+
+213
+00:08:01,006 --> 00:08:03,548
+One hundred twenty-three people died.
+
+214
+00:08:03,899 --> 00:08:07,394
+That disaster changed the rules for offshore
+
+215
+00:08:07,394 --> 00:08:10,890
+structures, with more redundancy so that one
+
+216
+00:08:10,890 --> 00:08:13,670
+broken member cannot capsize a rig,
+
+217
+00:08:13,670 --> 00:08:16,530
+and better lifeboats and evacuation.
+
+218
+00:08:16,710 --> 00:08:20,307
+Offshore engineering is full of lessons like
+
+219
+00:08:20,307 --> 00:08:20,716
+this.
+
+220
+00:08:20,896 --> 00:08:23,762
+A platform is designed to survive the
+
+221
+00:08:23,762 --> 00:08:25,157
+hundred-year wave.
+
+222
+00:08:25,337 --> 00:08:28,294
+The real danger is often a small
+
+223
+00:08:28,294 --> 00:08:29,864
+crack nobody saw.
+
+224
+00:08:30,215 --> 00:08:33,265
+Why do some drilling ships have propellers
+
+225
+00:08:33,265 --> 00:08:35,298
+pointing in every direction,
+
+226
+00:08:35,298 --> 00:08:37,332
+when they never go anywhere?
+
+227
+00:08:37,512 --> 00:08:39,915
+Because in very deep water,
+
+228
+00:08:39,915 --> 00:08:42,318
+anchors become impractical.
+
+229
+00:08:42,498 --> 00:08:45,714
+So these ships use dynamic positioning.
+
+230
+00:08:45,894 --> 00:08:50,591
+Satellite navigation, motion sensors and wind sensors
+
+231
+00:08:50,591 --> 00:08:52,009
+feed a computer,
+
+232
+00:08:52,009 --> 00:08:56,085
+which constantly adjusts six or more thrusters
+
+233
+00:08:56,085 --> 00:08:58,301
+to push against the wind,
+
+234
+00:08:58,301 --> 00:08:59,896
+waves and current.
+
+235
+00:09:00,076 --> 00:09:02,446
+The ship can hold its position over
+
+236
+00:09:02,446 --> 00:09:04,275
+a well within a few meters,
+
+237
+00:09:04,275 --> 00:09:06,171
+without touching the bottom.
+
+238
+00:09:06,521 --> 00:09:08,587
+The idea started early.
+
+239
+00:09:08,767 --> 00:09:10,512
+In nineteen sixty-one,
+
+240
+00:09:10,512 --> 00:09:13,763
+the drilling vessel CUSS One drilled into
+
+241
+00:09:13,763 --> 00:09:16,618
+the sea floor off Mexico for Project
+
+242
+00:09:16,618 --> 00:09:21,059
+Mohole, holding position with steerable propellers while
+
+243
+00:09:21,059 --> 00:09:23,756
+operators watched buoys and radar.
+
+244
+00:09:23,936 --> 00:09:27,010
+Today, the system is fully automated and
+
+245
+00:09:27,010 --> 00:09:29,163
+has backups for its backups,
+
+246
+00:09:29,163 --> 00:09:32,545
+because a drillship that drifts off position
+
+247
+00:09:32,545 --> 00:09:34,928
+while connected to a well is an
+
+248
+00:09:34,928 --> 00:09:35,697
+emergency.
+
+249
+00:09:36,047 --> 00:09:39,008
+Dynamic positioning is now used by many
+
+250
+00:09:39,008 --> 00:09:40,147
+kinds of ships,
+
+251
+00:09:40,147 --> 00:09:43,260
+from cable layers to cruise ships waiting
+
+252
+00:09:43,260 --> 00:09:45,842
+near a port where anchoring is not
+
+253
+00:09:45,842 --> 00:09:46,449
+allowed.
+
+254
+00:09:46,629 --> 00:09:48,440
+The ship is not parked.
+
+255
+00:09:48,620 --> 00:09:51,118
+It is driving very hard to stay
+
+256
+00:09:51,118 --> 00:09:52,730
+exactly where it is.
+
+257
+00:09:52,910 --> 00:09:55,810
+Standing still, it turns out,
+
+258
+00:09:55,810 --> 00:09:57,810
+burns a lot of fuel.
+
+259
+00:09:58,160 --> 00:10:00,035
+Why is there a big hole in
+
+260
+00:10:00,035 --> 00:10:02,200
+the middle of a drilling ship?
+
+261
+00:10:02,380 --> 00:10:04,214
+It is called the moonpool,
+
+262
+00:10:04,214 --> 00:10:06,823
+an opening straight through the hull,
+
+263
+00:10:06,823 --> 00:10:08,940
+from the deck down to the sea.
+
+264
+00:10:09,120 --> 00:10:10,233
+The drill pipe,
+
+265
+00:10:10,233 --> 00:10:12,833
+the riser and the equipment go down
+
+266
+00:10:12,833 --> 00:10:15,729
+through it, protected from the waves at
+
+267
+00:10:15,729 --> 00:10:17,363
+the sides of the ship.
+
+268
+00:10:17,543 --> 00:10:20,709
+Supposedly the name comes from the moonlight
+
+269
+00:10:20,709 --> 00:10:23,299
+reflecting on the water inside it at
+
+270
+00:10:23,299 --> 00:10:23,731
+night.
+
+271
+00:10:24,081 --> 00:10:25,810
+But there is another problem.
+
+272
+00:10:25,990 --> 00:10:28,591
+The ship rises and falls with the
+
+273
+00:10:28,591 --> 00:10:31,349
+waves, sometimes by several meters,
+
+274
+00:10:31,349 --> 00:10:34,501
+while the drill bit is kilometers below,
+
+275
+00:10:34,501 --> 00:10:37,022
+trying to press on the rock with
+
+276
+00:10:37,022 --> 00:10:38,204
+a steady force.
+
+277
+00:10:38,384 --> 00:10:40,737
+So the drill string hangs from a
+
+278
+00:10:40,737 --> 00:10:44,120
+heave compensator, a system of giant cylinders
+
+279
+00:10:44,120 --> 00:10:46,840
+and pressurized gas that works like a
+
+280
+00:10:46,840 --> 00:10:49,781
+shock absorber, letting the ship move up
+
+281
+00:10:49,781 --> 00:10:52,502
+and down while the pipe stays steady.
+
+282
+00:10:52,852 --> 00:10:55,388
+The pipe that connects the ship to
+
+283
+00:10:55,388 --> 00:10:57,551
+the well is called the riser,
+
+284
+00:10:57,551 --> 00:11:00,013
+and in ultra-deep water it can be
+
+285
+00:11:00,013 --> 00:11:02,400
+more than three kilometers long,
+
+286
+00:11:02,400 --> 00:11:04,936
+hanging from the ship like a giant
+
+287
+00:11:04,936 --> 00:11:05,832
+steel straw.
+
+288
+00:11:06,012 --> 00:11:07,651
+Currents push on it,
+
+289
+00:11:07,651 --> 00:11:09,126
+the ship pulls it,
+
+290
+00:11:09,126 --> 00:11:11,584
+and it must not bend too much.
+
+291
+00:11:11,764 --> 00:11:13,999
+That is the real reason a rig
+
+292
+00:11:13,999 --> 00:11:15,387
+cannot float away.
+
+293
+00:11:15,567 --> 00:11:18,014
+It is attached to the sea floor
+
+294
+00:11:18,014 --> 00:11:18,804
+by a long,
+
+295
+00:11:18,804 --> 00:11:19,909
+fragile straw.
+
+296
+00:11:20,259 --> 00:11:22,887
+Why does every offshore well have a
+
+297
+00:11:22,887 --> 00:11:26,342
+building-sized valve sitting on the sea floor?
+
+298
+00:11:26,522 --> 00:11:28,333
+It is the blowout preventer.
+
+299
+00:11:28,513 --> 00:11:30,828
+If gas or oil rushes up the
+
+300
+00:11:30,828 --> 00:11:34,342
+well uncontrolled, the crew can close it.
+
+301
+00:11:34,522 --> 00:11:37,365
+Some of its parts squeeze rubber around
+
+302
+00:11:37,365 --> 00:11:39,406
+the pipe, and the strongest,
+
+303
+00:11:39,406 --> 00:11:40,718
+called shear rams,
+
+304
+00:11:40,718 --> 00:11:43,634
+are designed to cut straight through the
+
+305
+00:11:43,634 --> 00:11:46,550
+drill pipe and seal the well completely.
+
+306
+00:11:46,730 --> 00:11:49,226
+It is the last line of defense.
+
+307
+00:11:49,576 --> 00:11:51,283
+On April twentieth,
+
+308
+00:11:51,283 --> 00:11:54,879
+twenty ten, the Deepwater Horizon rig in
+
+309
+00:11:54,879 --> 00:11:58,295
+the Gulf of Mexico suffered a blowout.
+
+310
+00:11:58,475 --> 00:12:01,056
+Gas reached the rig and exploded,
+
+311
+00:12:01,056 --> 00:12:02,933
+and eleven workers died.
+
+312
+00:12:03,113 --> 00:12:06,800
+The blowout preventer was activated but failed
+
+313
+00:12:06,800 --> 00:12:08,163
+to seal the well.
+
+314
+00:12:08,343 --> 00:12:11,449
+Investigators found that the drill pipe had
+
+315
+00:12:11,449 --> 00:12:13,110
+been pushed off center,
+
+316
+00:12:13,110 --> 00:12:15,348
+so the shear rams could not cut
+
+317
+00:12:15,348 --> 00:12:16,865
+and seal it properly.
+
+318
+00:12:17,045 --> 00:12:20,387
+Oil flowed into the Gulf for eighty-seven
+
+319
+00:12:20,387 --> 00:12:20,795
+days.
+
+320
+00:12:21,145 --> 00:12:22,604
+After the disaster,
+
+321
+00:12:22,604 --> 00:12:26,214
+rules for blowout preventers became stricter in
+
+322
+00:12:26,214 --> 00:12:27,596
+the United States,
+
+323
+00:12:27,596 --> 00:12:31,283
+with more testing and requirements for equipment
+
+324
+00:12:31,283 --> 00:12:34,125
+that can cut pipe in more conditions.
+
+325
+00:12:34,305 --> 00:12:37,321
+The giant valve is a perfect example
+
+326
+00:12:37,321 --> 00:12:39,332
+of offshore engineering.
+
+327
+00:12:39,512 --> 00:12:42,029
+It works silently for years at the
+
+328
+00:12:42,029 --> 00:12:43,362
+bottom of the sea,
+
+329
+00:12:43,362 --> 00:12:45,805
+and it must work perfectly on the
+
+330
+00:12:45,805 --> 00:12:47,360
+one day it is needed.
+
+331
+00:12:47,710 --> 00:12:50,099
+Why do many oil platforms have a
+
+332
+00:12:50,099 --> 00:12:52,488
+long arm with a flame burning at
+
+333
+00:12:52,488 --> 00:12:53,085
+the end?
+
+334
+00:12:53,265 --> 00:12:54,403
+It is the flare.
+
+335
+00:12:54,583 --> 00:12:57,172
+The most important reason is safety.
+
+336
+00:12:57,352 --> 00:12:59,977
+If pressure builds up somewhere in the
+
+337
+00:12:59,977 --> 00:13:02,532
+process, or if there is an emergency,
+
+338
+00:13:02,532 --> 00:13:04,190
+gas has to go somewhere.
+
+339
+00:13:04,370 --> 00:13:07,778
+Releasing it unburned near a platform full
+
+340
+00:13:07,778 --> 00:13:10,781
+of people and engines could create an
+
+341
+00:13:10,781 --> 00:13:12,079
+explosive cloud.
+
+342
+00:13:12,259 --> 00:13:13,738
+So it is sent to the end
+
+343
+00:13:13,738 --> 00:13:14,477
+of the boom,
+
+344
+00:13:14,477 --> 00:13:15,587
+far from the deck,
+
+345
+00:13:15,587 --> 00:13:16,265
+and burned.
+
+346
+00:13:16,615 --> 00:13:19,088
+The boom sticks out far from the
+
+347
+00:13:19,088 --> 00:13:21,793
+platform, and it is often placed so
+
+348
+00:13:21,793 --> 00:13:24,576
+that the wind usually blows the heat
+
+349
+00:13:24,576 --> 00:13:24,962
+away.
+
+350
+00:13:25,142 --> 00:13:26,466
+In an emergency,
+
+351
+00:13:26,466 --> 00:13:29,445
+a platform can send large amounts of
+
+352
+00:13:29,445 --> 00:13:31,762
+gas to the flare in minutes,
+
+353
+00:13:31,762 --> 00:13:36,230
+called blowdown, to empty dangerous equipment quickly.
+
+354
+00:13:36,410 --> 00:13:39,487
+A small pilot flame often burns all
+
+355
+00:13:39,487 --> 00:13:42,301
+the time, so the flare is always
+
+356
+00:13:42,301 --> 00:13:43,619
+ready to light.
+
+357
+00:13:43,970 --> 00:13:44,900
+In the past,
+
+358
+00:13:44,900 --> 00:13:48,156
+many fields also flared gas simply because
+
+359
+00:13:48,156 --> 00:13:50,715
+there was no pipeline to sell it.
+
+360
+00:13:50,895 --> 00:13:53,243
+That is wasteful and polluting,
+
+361
+00:13:53,243 --> 00:13:56,728
+and today many countries limit routine flaring
+
+362
+00:13:56,728 --> 00:13:59,531
+and push companies to capture the gas
+
+363
+00:13:59,531 --> 00:14:00,137
+instead.
+
+364
+00:14:00,317 --> 00:14:02,383
+But the safety flare stays.
+
+365
+00:14:02,563 --> 00:14:03,627
+On a platform,
+
+366
+00:14:03,627 --> 00:14:06,135
+the most dangerous gas is the gas
+
+367
+00:14:06,135 --> 00:14:07,579
+with nowhere to go.
+
+368
+00:14:07,929 --> 00:14:11,033
+Why are some lifeboats on oil platforms
+
+369
+00:14:11,033 --> 00:14:13,023
+pointing down at the sea,
+
+370
+00:14:13,023 --> 00:14:15,649
+like a ride at an amusement park?
+
+371
+00:14:15,829 --> 00:14:18,128
+They are free-fall lifeboats.
+
+372
+00:14:18,308 --> 00:14:21,650
+Instead of being lowered slowly by ropes,
+
+373
+00:14:21,650 --> 00:14:24,095
+they slide off a ramp and drop
+
+374
+00:14:24,095 --> 00:14:26,052
+straight into the water,
+
+375
+00:14:26,052 --> 00:14:29,394
+sometimes from more than twenty or thirty
+
+376
+00:14:29,394 --> 00:14:29,964
+meters.
+
+377
+00:14:30,144 --> 00:14:32,324
+They hit the water nose first,
+
+378
+00:14:32,324 --> 00:14:35,013
+dive, and come up already moving away
+
+379
+00:14:35,013 --> 00:14:36,321
+from the platform.
+
+380
+00:14:36,671 --> 00:14:38,644
+Why drop people from that height?
+
+381
+00:14:38,824 --> 00:14:42,340
+Because on a burning or capsizing platform,
+
+382
+00:14:42,340 --> 00:14:44,629
+slow lowering can be deadly.
+
+383
+00:14:44,809 --> 00:14:45,904
+Ropes can jam,
+
+384
+00:14:45,904 --> 00:14:48,876
+the boat can swing into the structure,
+
+385
+00:14:48,876 --> 00:14:51,535
+and waves can smash it against the
+
+386
+00:14:51,535 --> 00:14:51,926
+legs.
+
+387
+00:14:52,106 --> 00:14:55,043
+A free-fall boat leaves in seconds and
+
+388
+00:14:55,043 --> 00:14:57,052
+gets away from the danger.
+
+389
+00:14:57,232 --> 00:15:00,522
+The seats face backward with strong harnesses,
+
+390
+00:15:00,522 --> 00:15:03,025
+so the crew can survive the impact.
+
+391
+00:15:03,376 --> 00:15:05,511
+The North Sea learned this the hard
+
+392
+00:15:05,511 --> 00:15:05,756
+way.
+
+393
+00:15:05,936 --> 00:15:09,044
+After the Alexander Kielland disaster,
+
+394
+00:15:09,044 --> 00:15:12,888
+and later Piper Alpha in nineteen eighty-eight,
+
+395
+00:15:12,888 --> 00:15:15,505
+where an explosion and fire on a
+
+396
+00:15:15,505 --> 00:15:19,349
+platform killed one hundred sixty-seven people,
+
+397
+00:15:19,349 --> 00:15:22,375
+offshore safety rules changed deeply.
+
+398
+00:15:22,555 --> 00:15:25,699
+Free-fall lifeboats became common,
+
+399
+00:15:25,699 --> 00:15:27,640
+especially in Norway.
+
+400
+00:15:27,820 --> 00:15:30,231
+A boat that falls on purpose is
+
+401
+00:15:30,231 --> 00:15:32,798
+safer than one that might fall by
+
+402
+00:15:32,798 --> 00:15:33,498
+accident.
+
+403
+00:15:33,848 --> 00:15:35,241
+So here are the ten.
+
+404
+00:15:35,421 --> 00:15:37,520
+Legs that walk down to the sea
+
+405
+00:15:37,520 --> 00:15:37,940
+floor.
+
+406
+00:15:38,120 --> 00:15:40,895
+Cables that pull a floating hull down.
+
+407
+00:15:41,075 --> 00:15:42,944
+A giant fishing float,
+
+408
+00:15:42,944 --> 00:15:45,747
+and a concrete tower too heavy to
+
+409
+00:15:45,747 --> 00:15:46,172
+move.
+
+410
+00:15:46,352 --> 00:15:49,521
+Anchor lines, and propellers that drive just
+
+411
+00:15:49,521 --> 00:15:50,601
+to stand still.
+
+412
+00:15:50,781 --> 00:15:52,977
+A hole in the middle of a
+
+413
+00:15:52,977 --> 00:15:55,700
+ship, a valve on the sea floor,
+
+414
+00:15:55,700 --> 00:15:57,632
+a flame on a long arm,
+
+415
+00:15:57,632 --> 00:16:00,882
+and a lifeboat that falls on purpose.
+
+416
+00:16:01,232 --> 00:16:04,011
+An oil platform does not stay in
+
+417
+00:16:04,011 --> 00:16:05,574
+place by accident.
+
+418
+00:16:05,754 --> 00:16:07,705
+Every shape fights the sea in a
+
+419
+00:16:07,705 --> 00:16:08,587
+different way.
+
+420
+00:16:08,767 --> 00:16:11,714
+If you want more machines explained part
+
+421
+00:16:11,714 --> 00:16:14,513
+by part, subscribe to Machine Reverse.
+
+422
+00:16:14,693 --> 00:16:16,701
+And tell us in the comments which
+
+423
+00:16:16,701 --> 00:16:18,708
+machine you want us to take apart
+
+424
+00:16:18,708 --> 00:16:19,012
+next.
