@@ -1,0 +1,11 @@
+- Why three blades (Betz limit 59.3%, two-blade yaw imbalance, tip speed and noise): Wikipedia, "Wind turbine design" https://en.wikipedia.org/wiki/Wind_turbine_design ; NREL / US DOE, "How Do Wind Turbines Work?" https://www.energy.gov/eere/wind/how-do-wind-turbines-work
+- Blade root bolts and fatigue: Wikipedia, "Wind turbine blade" https://en.wikipedia.org/wiki/Wind_turbine_blade
+- Pitch control, feathering, cut-out speed (~25 m/s), independent pitch backup: Wikipedia, "Blade pitch" https://en.wikipedia.org/wiki/Blade_pitch ; Wikipedia, "Wind turbine design"
+- Vortex generators on blades: Wikipedia, "Vortex generator" https://en.wikipedia.org/wiki/Vortex_generator ; Siemens Gamesa / LM Wind Power product notes
+- Lightning protection (receptors, down conductors), IEC 61400-24: Wikipedia, "Wind turbine" (lightning section) https://en.wikipedia.org/wiki/Wind_turbine
+- Leading edge erosion (tip speeds ~80-90 m/s), rope access repair: DTU Wind Energy research; Wikipedia, "Wind turbine blade"
+- Icing, ice throw, blade heating: Wikipedia, "Wind turbine" ; VTT / IEA Wind Task 19 "Wind energy in cold climates" https://iea-wind.org/task19/
+- Nacelle, gearbox and direct drive, yaw system: Wikipedia, "Wind turbine design" ; Enercon direct drive https://www.enercon.de/
+- Tower ladders, service lifts and fall protection: US DOE / OSHA wind energy safety https://www.osha.gov/green-jobs/wind-energy
+- Blade transport (blade lifter trailers) and longest blades (>100 m offshore): Wikipedia, "Wind turbine blade"
+- Offshore foundations (monopile, jacket, floating): Wikipedia, "Offshore wind power" https://en.wikipedia.org/wiki/Offshore_wind_power
