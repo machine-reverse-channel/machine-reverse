@@ -132,6 +132,17 @@ sc("""Next time you stand at the top of a tall building, remember that it is mov
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Taipei 101 Tuned Mass Damper 2010.jpg", 0.48, 0.4),
+    2: ("File:Taipei Taiwan Taipei-101-Tower-01.jpg", 0.52, 0.3),
+    3: ("File:Burj Khalifa (16260269606).jpg", 0.5, 0.35),
+    4: ("File:Shanghai - Shanghai Tower - 0003.jpg", 0.6, 0.3),
+    5: ("File:Citicorp Center - panoramio.jpg", 0.72, 0.6),
+    6: ("File:3rd and Lenora tower core under construction, May 2018.jpg", 0.55, 0.45),
+    7: ("File:Shanghai Shanghai Tower 5166304.jpg", 0.55, 0.6),
+    8: ("File:Vysotsky skyscraper interiors 14.jpg", 0.5, 0.4),
+    9: ("File:Lower Manhattan from Jersey City November 2014 panorama 3.jpg", 0.53, 0.2),
+    10: ("File:One World Trade Center, Financial District, Manhattan, New York.jpg", 0.55, 0.2),
+    11: ("File:View from the Petronas Towers (18356083923).jpg", 0.25, 0.75),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
