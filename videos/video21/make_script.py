@@ -121,6 +121,16 @@ sc("""In Formula One, the most important part of the car is the air around it. E
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Honda RC-F1 2.0X bottom Honda Collection Hall.jpg", 0.35, 0.5),
+    2: ("File:Benetton B194 bottom2 2019 Michael Schumacher Private Collection.jpg", 0.48, 0.55),
+    3: ("File:Toyota TF110 diffuser 2019 Prototyp Museum.jpg", 0.42, 0.55),
+    4: ("File:McLaren MCL36A Front Wing at Formula 1 Exhibition, London.jpg", 0.5, 0.55),
+    5: ("File:Mercedes AMG F1 W09 EQ Power+ DRS Rear Wing at Formula 1 Exhibition, London.jpg", 0.42, 0.22),
+    6: ("File:McLaren MP4-22 bargeboard 2017 Museo Fernando Alonso.jpg", 0.35, 0.55),
+    7: ("File:Max Verstappen Red Bull RB19 Petersen Automotive Museum.jpg", 0.8, 0.4),
+    8: ("File:Lotus 79 JPS (51861707041).jpg", 0.4, 0.5),
+    9: ("File:1978 Alfa Romeo Brabham BT46B Fan Car - Flickr - edvvc.jpg", 0.16, 0.63),
+    10: ("File:2017 Manor MRT06 60% model.jpg", 0.6, 0.4),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None

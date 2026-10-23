@@ -24,10 +24,14 @@
    "text": "Why is the floor of an F1 car worth millions? Because the floor is a giant wing. Under the car, two long tunnels run from the front of the floor to the back. As air rushes through them, the tunnels narrow and then open up again, and the air speeds up and its pressure drops. Low pressure under the car, normal pressure on top. The whole car gets sucked down onto the track. That is called ground effect.",
    "query": "Formula One car underside floor",
    "caption": "WHY IS THIS FLOOR WORTH MILLIONS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.35,
+    "y": 0.5
+   },
    "chapter": "1. The floor",
    "short": "Why Is the Floor of an F1 Car Worth Millions?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Honda RC-F1 2.0X bottom Honda Collection Hall.jpg"
   },
   {
    "text": "Ground effect came back to Formula One with the new rules of twenty twenty-two. Engineers estimate that the floor makes a large share of the car's total downforce, by many estimates more than any single wing. And it does it more cleanly. Wings on top leave turbulent air behind the car, which makes it hard for the next driver to follow. Downforce from the floor leaves less of that dirty air, so cars can race closer.",
@@ -43,10 +47,14 @@
    "text": "Why is there a wooden plank under a Formula One car? Under the floor of every F1 car runs a long strip called the plank, or skid block, made of a wood based material. It was introduced in nineteen ninety-four, the year of the deaths of Ayrton Senna and Roland Ratzenberger at Imola, as one of the measures to slow the cars down. The plank forces the car to run higher off the ground.",
    "query": "Formula One plank skid block",
    "caption": "WHY IS THERE WOOD UNDER AN F1 CAR?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.48,
+    "y": 0.55
+   },
    "chapter": "2. The plank",
    "short": "Why Is There a Wooden Plank Under Every F1 Car?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Benetton B194 bottom2 2019 Michael Schumacher Private Collection.jpg"
   },
   {
    "text": "The trick is that the plank works like a measuring stick. It starts ten millimetres thick, and after the race it must still be at least nine millimetres thick at set points. If a team runs the car too low to gain more ground effect, the plank scrapes on the track and wears away. Too much wear, and the car is disqualified. In nineteen ninety-four, Michael Schumacher lost a win at the Belgian Grand Prix this way.",
@@ -62,10 +70,14 @@
    "text": "Why does the back of an F1 car open up into these curved channels? This is the diffuser, the exit of the tunnels under the floor. It gets taller and wider towards the back, so the fast air under the car can slow down gradually and rejoin the air behind the car. That gentle expansion keeps the air under the car moving fast, and keeps the pressure under the floor low.",
    "query": "Formula One diffuser",
    "caption": "WHY DOES THE BACK OPEN UP LIKE THIS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.42,
+    "y": 0.55
+   },
    "chapter": "3. The diffuser",
    "short": "Why Does the Back of an F1 Car Open Up Like This?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Toyota TF110 diffuser 2019 Prototyp Museum.jpg"
   },
   {
    "text": "The diffuser is so powerful that it once decided a world championship. In two thousand nine, Brawn GP, a team that had been rescued from closure only weeks before the season, arrived with a double diffuser, a clever second deck that used a gap in the rules. Other teams protested. The design was declared legal, and Jenson Button won six of the first seven races on his way to the title.",
@@ -81,10 +93,14 @@
    "text": "Why is the front wing of an F1 car made of so many layers? Because it is the first thing that touches the air. The front wing makes downforce for the front wheels, but its bigger job is to steer the air for the rest of the car. It decides how much air goes under the floor, how the air flows around the front tyres, and how it reaches the sidepods.",
    "query": "Formula One front wing",
    "caption": "WHY IS THE FRONT WING SO COMPLEX?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.55
+   },
    "chapter": "4. The front wing",
    "short": "Why Is an F1 Front Wing So Complicated?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:McLaren MCL36A Front Wing at Formula 1 Exhibition, London.jpg"
   },
   {
    "text": "The tyres are the problem. A spinning, open wheel throws turbulent air everywhere, and that turbulence can ruin the floor behind it. So the front wing is shaped to push that messy air away from the car. It is also adjustable. In a pit stop, mechanics can turn a small screw on the flaps to change the angle, and change the balance of the car for the next stint.",
@@ -100,10 +116,14 @@
    "text": "Why does the rear wing of an F1 car open on the straights? Downforce has a price, called drag. The wings that push the car into the corners also hold it back on the straights. From twenty eleven, Formula One used DRS, the drag reduction system. A flap on the rear wing opened on certain straights when a driver was within one second of the car in front, cutting drag and adding speed to make overtaking easier.",
    "query": "Formula One DRS open rear wing",
    "caption": "WHY DOES THIS WING OPEN?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.42,
+    "y": 0.22
+   },
    "chapter": "5. The rear wing flap",
    "short": "Why Does the F1 Rear Wing Open on the Straights?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Mercedes AMG F1 W09 EQ Power+ DRS Rear Wing at Formula 1 Exhibition, London.jpg"
   },
   {
    "text": "When the flap opens, the wing stalls. Less downforce, less drag, and the car gains around ten kilometres per hour by the end of the straight. The moment the driver brakes, the flap closes again and the downforce comes back for the corner. In twenty twenty-six, new rules went further. Both the front and the rear wings now move, opening on straights for every car to save energy, and closing for the corners.",
@@ -119,10 +139,14 @@
    "text": "Why did old F1 cars have this forest of small blades on the side? These were the bargeboards, a cluster of curved carbon fins between the front wheels and the sidepods. Their job was to catch the turbulent air coming off the front tyres and send it away from the floor, while creating small spinning vortices that sealed the edges of the floor, like an invisible curtain.",
    "query": "Formula One bargeboard",
    "caption": "WHY WERE THESE BLADES BANNED?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.35,
+    "y": 0.55
+   },
    "chapter": "6. The bargeboards",
    "short": "Why Did F1 Ban These Strange Blades?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:McLaren MP4-22 bargeboard 2017 Museo Fernando Alonso.jpg"
   },
   {
    "text": "By the late twenty tens, bargeboards had become some of the most complex parts ever put on a racing car, with dozens of slots and edges. They worked brilliantly for the car carrying them. But they threw the air into a storm behind the car. A driver following closely lost a big part of his downforce and could not get close enough to pass.",
@@ -138,10 +162,14 @@
    "text": "Why are the sides of an F1 car shaped in such strange ways? These are the sidepods, and inside them are the radiators that cool the engine, the battery and the electronics. A Formula One power unit turns a lot of fuel into heat, and that heat must leave the car. The sidepods take in air at the front, pass it through the radiators, and release it at the back.",
    "query": "Formula One sidepod",
    "caption": "WHY ARE THE SIDEPODS SHAPED LIKE THIS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.8,
+    "y": 0.4
+   },
    "chapter": "7. The sidepods",
    "short": "Why Do F1 Sidepods All Look Different?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Max Verstappen Red Bull RB19 Petersen Automotive Museum.jpg"
   },
   {
    "text": "But the outside shape is pure aerodynamics. When the new rules arrived in twenty twenty-two, each team found its own answer. Mercedes tried almost no sidepods at all, a design fans called zero pod. Ferrari had a wide, scooped shape. Red Bull carved a deep undercut below the sidepod, to send clean air to the back of the floor. Red Bull won the most races, and soon most teams copied the undercut.",
@@ -157,10 +185,14 @@
    "text": "Why was this black and gold car almost unbeatable? This is the Lotus seventy-nine, and it brought ground effect to Formula One. Colin Chapman's team shaped the sidepods like upside down wings, and closed the gap between the car and the track with sliding skirts that rubbed along the ground. The air under the car was sealed in, and the car was sucked to the track.",
    "query": "Lotus 79",
    "caption": "WHY WAS THIS CAR SO FAST?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.4,
+    "y": 0.5
+   },
    "chapter": "8. The sliding skirts",
    "short": "Why Was the Lotus 79 Almost Unbeatable?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Lotus 79 JPS (51861707041).jpg"
   },
   {
    "text": "In nineteen seventy-eight, Mario Andretti won the world championship with it, and his team mate Ronnie Peterson finished second. Rival teams rushed to copy the idea. But ground effect had a dark side. If a skirt was damaged or the car went over a kerb, the seal broke and the downforce vanished in an instant, often in a fast corner.",
@@ -176,10 +208,14 @@
    "text": "Why does this Formula One car have a giant fan on its back? This is the Brabham BT forty-six B, designed by Gordon Murray in nineteen seventy-eight. Officially, the fan was there to cool the engine. In reality, it sucked the air out from under the car, creating a vacuum that pulled the car down, even at low speed in slow corners, where wings do almost nothing.",
    "query": "Brabham BT46B fan car",
    "caption": "WHY DOES THIS CAR HAVE A FAN?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.16,
+    "y": 0.63
+   },
    "chapter": "9. The fan",
    "short": "Why Did This F1 Car Have a Giant Fan?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:1978 Alfa Romeo Brabham BT46B Fan Car - Flickr - edvvc.jpg"
   },
   {
    "text": "It raced once, at the Swedish Grand Prix of nineteen seventy-eight. Niki Lauda won by more than half a minute. Rival drivers complained that the fan threw dirt and stones at the cars behind. The car had not broken any rule, because the fan's main job was declared to be cooling. But under pressure from the other teams, Brabham withdrew it after that one race.",
@@ -195,10 +231,14 @@
    "text": "Why do F1 teams test a smaller copy of their car? Because full size wind tunnel testing is not allowed. The rules limit teams to models of at most sixty percent of the real car, tested in wind tunnels at limited speed. Every floor, every wing, every sidepod you saw today was first shaped in computer simulations, then built as a precision model and tested in the tunnel.",
    "query": "Formula One wind tunnel model",
    "caption": "WHY IS THIS F1 CAR SO SMALL?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.6,
+    "y": 0.4
+   },
    "chapter": "10. The wind tunnel model",
    "short": "Why Do F1 Teams Test Small Model Cars?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:2017 Manor MRT06 60% model.jpg"
   },
   {
    "text": "And the tunnel time is rationed. Since twenty twenty-one, Formula One uses a sliding scale. The team that finished last in the championship gets the most wind tunnel time and computer simulation, and the champion gets the least. It is a handicap system, designed to let the slower teams catch up. Every hour in the tunnel is precious, so teams plan every run.",
