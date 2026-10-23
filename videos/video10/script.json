@@ -24,10 +24,14 @@
    "text": "Why do airports spray airplanes with hot orange liquid? It is de-icing fluid, mostly glycol mixed with water, the same family of chemicals as the antifreeze in a car. It is sprayed hot, between about fifty-five and eighty degrees Celsius, at high pressure. The heat melts the snow and ice, the pressure blasts it off, and the glycol stops it from freezing again for a few minutes.",
    "query": "aircraft deicing Type I fluid",
    "caption": "WHY IS THIS LIQUID ORANGE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.3,
+    "y": 0.4
+   },
    "chapter": "1. The orange liquid",
    "short": "Why Do Airports Spray Orange Liquid on Planes?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Deicing Copenhagen Airport.JPG"
   },
   {
    "text": "This is called Type one fluid, and it is dyed orange on purpose. Glycol and water are almost invisible on a white airplane, so the color lets the crew on the truck see exactly which parts of the wing and tail are covered, and which they have missed. A big airliner can need hundreds of gallons, often between five hundred and one thousand.",
@@ -43,10 +47,14 @@
    "text": "Why do some airplanes get sprayed with green liquid after the orange one? Green means Type four anti-icing fluid. It is thick, like a gel, and it stays on the wing as a protective coat. Falling snow lands on it and melts into it instead of freezing to the wing. Depending on the weather, it can protect the airplane for much longer than the orange fluid.",
    "query": "Type IV anti-icing fluid green",
    "caption": "WHY IS THIS LIQUID GREEN?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.45
+   },
    "chapter": "2. The green liquid",
    "short": "Why Do Airports Spray Green Liquid on Planes?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Deicing Westjet 737 with type IV Calgary.jpg"
   },
   {
    "text": "The clever part is that the gel is designed to stay on while the airplane is standing still, and to slide off during the takeoff run. As the airplane accelerates, the airflow shears the thick fluid off the wing, so it is gone by the time the wing needs to lift. It is called a pseudoplastic fluid, thick when still, thin when moving.",
@@ -62,10 +70,14 @@
    "text": "Why must a wing be perfectly clean before takeoff? Because a wing works only if its shape is exact. Even a thin layer of frost or snow makes the top surface rough, the air separates from the wing earlier, and the wing makes less lift and stalls at a lower angle. The rule is called the clean aircraft concept. No frost, ice or snow on the wings, tail or controls at takeoff.",
    "query": "airplane wing frost",
    "caption": "WHY MUST THIS WING BE PERFECTLY CLEAN?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.4,
+    "y": 0.6
+   },
    "chapter": "3. The clean wing rule",
    "short": "Why Can't Planes Take Off With Snow on the Wings?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Ice on an aircraft wing.jpg"
   },
   {
    "text": "On the thirteenth of January nineteen eighty-two, Air Florida flight ninety took off from Washington National Airport in a snowstorm. It had been de-iced, but it waited a long time in line, and snow and ice built up again. The crew also did not turn on the engines' anti-ice system. The airplane barely climbed, hit a bridge, and fell into the frozen Potomac River. Seventy-eight people died.",
@@ -81,10 +93,14 @@
    "text": "Why do many big airports have a special parking area right next to the runway? It is the de-icing pad. Instead of spraying the airplane at the gate and then taxiing for twenty minutes, the airplane is sprayed just before takeoff, so the protection lasts until it leaves the ground. Several airplanes can be treated at the same time, like a drive through.",
    "query": "deicing pad airport",
    "caption": "WHY IS THERE A PARKING LOT NEAR THE RUNWAY?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.35,
+    "y": 0.4
+   },
    "chapter": "4. The de-icing pad",
    "short": "Why Do Big Airports Have a Special Parking Lot for De-Icing?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Deice Pad - Denver Airport (53816863550).jpg"
   },
   {
    "text": "The pads are also built for the environment. The used fluid is full of glycol, and when it breaks down in rivers and lakes, it uses up oxygen that fish need. So the pads have special drains, and some airports use glycol recovery trucks that vacuum up the used fluid and slush. Some of it can even be recycled.",
@@ -100,10 +116,14 @@
    "text": "Why are the front edges of an airliner's wings heated in flight? Because flying through clouds below freezing can build ice on the leading edge, the part that hits the air first. On many jets, hot air is taken from the engines, called bleed air, and piped through the inside of the leading edge, so ice cannot form there.",
    "query": "wing leading edge slats",
    "caption": "WHY IS THE FRONT OF THIS WING HOT?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.3
+   },
    "chapter": "5. The hot wing edges",
    "short": "Why Is the Front of an Airplane Wing Heated?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:MD-80 wing, landing, focus on leading edge slats (7984780550).jpg"
   },
   {
    "text": "Ice in flight is different from snow on the ground. Clouds can contain supercooled water, tiny droplets still liquid below zero degrees, that freeze the instant they touch the airplane. The leading edge collects most of them, so that is where the heat goes. Newer airplanes like the Boeing seven eight seven use electric heating mats instead of bleed air.",
@@ -119,10 +139,14 @@
    "text": "Why is the front lip of a jet engine heated? Because ice on the inlet can break off and be swallowed by the engine, damaging the fan blades, and ice can also disturb the airflow into the engine. Hot air from the engine itself is piped into the lip of the inlet, keeping it above freezing.",
    "query": "jet engine inlet lip",
    "caption": "WHY IS THIS ENGINE LIP HEATED?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.22,
+    "y": 0.5
+   },
    "chapter": "6. The hot engine lip",
    "short": "Why Are Jet Engine Inlets Heated?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:The NASA Dryden 747 Shuttle Carrier Aircraft crew poses in an engine inlet (EC00-0032-2).jpg"
   },
   {
    "text": "That system was part of the Air Florida story. Investigators found that the crew did not turn on engine anti-ice. Ice blocked a pressure probe in the engines that measures thrust, so the instruments showed more power than the engines were really making. The pilots took off with less thrust than they thought.",
@@ -138,10 +162,14 @@
    "text": "Why do many propeller airplanes have black rubber strips on the front of their wings? They are de-icing boots. When ice builds up, air is pumped into tubes inside the rubber, the boots inflate, and the ice cracks and is blown away by the wind. Then they deflate again. Smaller airplanes use them because they do not have much hot air from their engines to spare.",
    "query": "deicing boots wing",
    "caption": "WHY IS THIS WING EDGE MADE OF RUBBER?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "7. The rubber boots",
    "short": "Why Do Some Planes Have Rubber on Their Wings?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Pneumatic deice boot detail.JPG"
   },
   {
    "text": "Boots remove ice after it forms, so they only protect the area they cover. On the thirty-first of October nineteen ninety-four, American Eagle flight four one eight four, an ATR seventy-two, was holding near Roselawn, Indiana, in freezing drizzle. Large drops froze into a ridge of ice behind the boots, where they could not reach. The airplane rolled out of control and crashed, killing all sixty-eight people on board.",
@@ -157,10 +185,14 @@
    "text": "Why are the small tubes on an airplane's nose heated? They are pitot tubes, and they measure airspeed. Air rams into the hole at the front, and the pressure tells the airplane how fast it is moving through the air. If ice blocks the hole, the airspeed reading becomes wrong. So the tubes are heated electrically, sometimes so hot you could burn your hand on the ground.",
    "query": "pitot tube aircraft",
    "caption": "WHY ARE THESE LITTLE TUBES HEATED?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.7,
+    "y": 0.72
+   },
    "chapter": "8. The heated tubes",
    "short": "Why Are the Tubes on an Airplane's Nose Heated?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:ILA-Pitotrohr.jpg"
   },
   {
    "text": "On the first of June two thousand nine, Air France flight four four seven flew through a storm over the Atlantic at night. Ice crystals blocked the pitot tubes for less than a minute. The autopilot disconnected, the crew was confused by the wrong speeds, and the airplane stalled and fell into the ocean. Two hundred twenty-eight people died. The tubes on that type of airplane were replaced after the accident.",
@@ -176,10 +208,14 @@
    "text": "Why is there a light on the side of an airplane that shines on its own wing? It is the wing inspection light. At night, the pilots and the cabin crew can switch it on to look at the leading edge of the wing and the engines, to check for ice. Without it, at night, nobody could see whether ice was building up on the wing.",
    "query": "wing inspection light airliner",
    "caption": "WHY IS THERE A LIGHT POINTING AT THE WING?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "9. The light that shines on the wing",
    "short": "Why Do Airplanes Have a Light Pointing at the Wing?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Aurigny Embraer 195 Wing View.jpg"
   },
   {
    "text": "It sounds simple, because it is. Even with sensors and heaters, aviation likes a human check. Before takeoff in winter, crews often look at the wing from the cabin. If a passenger sees snow on the wing after de-icing, the crew wants to know. A light and a pair of eyes can stop an accident.",
@@ -195,10 +231,14 @@
    "text": "How does an airplane know it is collecting ice? Many airliners have a small probe sticking out into the airflow, the ice detector. Inside, a little rod vibrates at a fixed frequency. When ice builds up on it, the extra weight makes it vibrate more slowly. The system notices the change, warns the pilots, and on some airplanes turns the anti-ice on by itself.",
    "query": "aircraft ice detector probe",
    "caption": "WHY DOES THIS PROBE VIBRATE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.41,
+    "y": 0.2
+   },
    "chapter": "10. The vibrating probe",
    "short": "Why Do Airplanes Have a Vibrating Probe on the Nose?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Ice detection probe on Global 6000 (1).jpg"
   },
   {
    "text": "After each detection, the probe heats itself to melt its own ice, and then starts counting again. That way it can keep telling the crew if they are still in icing conditions. It is a tiny scale, weighing ice in real time, hundreds of times faster than any person could.",

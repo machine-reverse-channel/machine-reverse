@@ -122,6 +122,16 @@ sc("""Next time you sit through de-icing, you will know why it is worth the wait
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Deicing Copenhagen Airport.JPG", 0.3, 0.4),
+    2: ("File:Deicing Westjet 737 with type IV Calgary.jpg", 0.5, 0.45),
+    3: ("File:Ice on an aircraft wing.jpg", 0.4, 0.6),
+    4: ("File:Deice Pad - Denver Airport (53816863550).jpg", 0.35, 0.4),
+    5: ("File:MD-80 wing, landing, focus on leading edge slats (7984780550).jpg", 0.5, 0.3),
+    6: ("File:The NASA Dryden 747 Shuttle Carrier Aircraft crew poses in an engine inlet (EC00-0032-2).jpg", 0.22, 0.5),
+    7: ("File:Pneumatic deice boot detail.JPG", 0.5, 0.5),
+    8: ("File:ILA-Pitotrohr.jpg", 0.7, 0.72),
+    9: ("File:Aurigny Embraer 195 Wing View.jpg", 0.5, 0.5),
+    10: ("File:Ice detection probe on Global 6000 (1).jpg", 0.41, 0.2),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
