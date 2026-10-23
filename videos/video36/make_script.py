@@ -123,13 +123,13 @@ sc("""An aircraft carrier is an airport that had to fit on a ship. If you want m
 PICKS = {
     1: ('File:VFA-147 FA-18C Hornet catching arresting wire on USS Nimitz (CVN-68) 971106-N-6939M-269.jpg', 0.4, 0.6),
     2: ("File:US Navy 010816-N-0295M-003 An arresting wire falls away from an S-3B Viking's tail hook as it stops after landing aboard the aircraft carrier USS Constellation (CV 64).jpg", 0.42, 0.33),
-    3: ('File:FA-18 Trap.jpg', 0.47, 0.25),
+    3: ('File:FA-18 Trap.jpg', 0.58, 0.22),
     4: ('File:US Navy 111212-N-BT887-150 Sailors signal to advance a steam-powered catapult shuttle aboard the Nimitz-class aircraft carrier USS John C. Stennis.jpg', 0.35, 0.75),
-    5: ('File:US Navy 030107-N-4953E-001 Hornet prepares for a catapult launch.jpg', 0.1, 0.3),
+    5: ('File:US Navy 030107-N-4953E-001 Hornet prepares for a catapult launch.jpg', 0.1, 0.42),
     6: ('File:US Navy 090708-N-9988F-002 Sailors assigned to the Eisenhower Carrier Strike Group form on the flight deck of the aircraft carrier USS Dwight D. Eisenhower (CVN 69) to spell out.jpg', 0.3, 0.55),
     7: ('File:Optical Landing System, night, aboard USS Dwight D. Eisenhower (CVN-69).jpg', 0.5, 0.33),
-    8: ('File:Aircraft Carrier at HMNB Portsmouth - geograph.org.uk - 8085623.jpg', 0.32, 0.25),
-    9: ('File:F-8E(FN) CVN 69 folding wings.JPEG', 0.62, 0.4),
+    8: ('File:Aircraft Carrier at HMNB Portsmouth - geograph.org.uk - 8085623.jpg', 0.32, 0.45),
+    9: ('File:F-8E(FN) CVN 69 folding wings.JPEG', 0.3, 0.46),
     10: ('File:US Navy 030829-N-5952R-001 Flight deck crew members of the nuclear powered aircraft-carrier USS Enterprise (CVN 65) conduct a barricade drill.jpg', 0.55, 0.6),
 }
 for s in S:

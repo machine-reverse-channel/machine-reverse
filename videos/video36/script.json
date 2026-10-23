@@ -71,8 +71,8 @@
    "query": "jet landing on carrier",
    "caption": "WHY DO PILOTS SPEED UP WHEN THEY LAND?",
    "arrow": {
-    "x": 0.47,
-    "y": 0.25
+    "x": 0.58,
+    "y": 0.22
    },
    "chapter": "3. The full throttle landing",
    "short": "Why Do Navy Pilots Go Full Throttle When Landing?",
@@ -118,7 +118,7 @@
    "caption": "WHY DOES THIS WALL RISE FROM THE DECK?",
    "arrow": {
     "x": 0.1,
-    "y": 0.3
+    "y": 0.42
    },
    "chapter": "5. The blast deflector",
    "short": "Why Does a Wall Rise Behind Jets on a Carrier?",
@@ -187,7 +187,7 @@
    "caption": "WHY IS THE TOWER ALWAYS ON THE RIGHT?",
    "arrow": {
     "x": 0.32,
-    "y": 0.25
+    "y": 0.45
    },
    "chapter": "8. The island",
    "short": "Why Is an Aircraft Carrier's Tower Always on the Right?",
@@ -209,8 +209,8 @@
    "query": "folding wings aircraft carrier",
    "caption": "WHY DO THESE WINGS FOLD UP?",
    "arrow": {
-    "x": 0.62,
-    "y": 0.4
+    "x": 0.3,
+    "y": 0.46
    },
    "chapter": "9. The folding wings",
    "short": "Why Do Navy Jets Have Folding Wings?",
