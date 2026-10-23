@@ -117,8 +117,8 @@
    "query": "power line corona ring",
    "caption": "WHY ARE THERE RINGS ON THESE INSULATORS?",
    "arrow": {
-    "x": 0.72,
-    "y": 0.35
+    "x": 0.83,
+    "y": 0.45
    },
    "chapter": "5. The metal rings at the ends",
    "short": "Why Do High Voltage Lines Have Metal Rings?",
@@ -209,8 +209,8 @@
    "query": "transmission line helicopter",
    "caption": "WHY IS THIS MAN TOUCHING A LIVE WIRE?",
    "arrow": {
-    "x": 0.53,
-    "y": 0.22
+    "x": 0.62,
+    "y": 0.45
    },
    "chapter": "9. The man on the live wire",
    "short": "Why Can This Man Touch a Live Power Line?",
