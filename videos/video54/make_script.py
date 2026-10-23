@@ -104,7 +104,7 @@ part(9, "The tubes on the turret", "WHY ARE THERE TUBES ON THIS TURRET?", "Why D
 sc("""Modern smoke does more than block normal sight. Some types also block infrared and thermal cameras, and the lasers that guide some missiles. Many tanks carry laser warning sensors that can fire the smoke automatically, faster than a human could react.""",
    "tank smoke grenade launcher", "AUTOMATIC SMOKE")
 sc("""It is the oldest form of defense on the battlefield, if they cannot see you, they cannot hit you, done in a modern way. A few kilograms of smoke can protect a tank of sixty tonnes as well as a meter of steel, for a few precious seconds.""",
-   "tank", "IF THEY CANNOT SEE YOU")
+   "main battle tank", "IF THEY CANNOT SEE YOU")
 
 # ---------- 10. TRACKS ----------
 part(10, "The wide tracks", "WHY ARE THESE TRACKS SO WIDE?", "Why Do Tanks Use Tracks Instead of Wheels?",
@@ -122,13 +122,13 @@ part(11, "The radar that shoots back", "WHY DOES THIS TANK SHOOT DOWN MISSILES?"
 sc("""Israel's Trophy system, mounted on the Merkava, made the first combat interception in two thousand eleven, near Gaza, stopping an anti tank missile. Since then, it has been fitted to some American Abrams and German Leopard tanks too. The whole sequence takes a fraction of a second.""",
    "Merkava tank", "TROPHY, 2011")
 sc("""It is a big change in thinking. For a century, tanks survived by being hard to break. Now they also survive by not being hit at all. Slope, layers, bricks, cages and radar, every generation added a new layer of defense, and each one exists because the weapons got better too.""",
-   "tank", "NOT BEING HIT AT ALL")
+   "main battle tank", "NOT BEING HIT AT ALL")
 
 # ---------- VERDICT ----------
 sc("""So here are the eleven. A slanted front plate, a wedge on the turret, and secret layers inside. Bricks that explode, a cage of bars, and roof panels that blow off on purpose. An engine in the front, periscopes instead of windows, tubes that fire smoke, wide tracks for the mud, and a radar that shoots back.""",
-   "tank", "11 PARTS. 60 TONNES.", chapter="The verdict", cuts=6)
+   "main battle tank", "11 PARTS. 60 TONNES.", chapter="The verdict", cuts=6)
 sc("""A tank looks like a simple block of steel, but every angle on it is a calculation. If you want more machines explained part by part, subscribe to Machine Reverse. And tell us in the comments which machine you want us to take apart next.""",
-   "tank", "SUBSCRIBE: MACHINE REVERSE", cuts=4)
+   "main battle tank", "SUBSCRIBE: MACHINE REVERSE", cuts=4)
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
