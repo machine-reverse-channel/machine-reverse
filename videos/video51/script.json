@@ -1,0 +1,290 @@
+{
+ "id": "video51",
+ "title": "Why Are Tunnel Boring Machines Left Underground?",
+ "length_scale": 1.6,
+ "scenes": [
+  {
+   "text": "Under the sea between England and France, there is a machine that will never see daylight again. It dug part of the Channel Tunnel, and when the job was done, the workers did not bring it back. They steered it down into the rock, out of the way, and left it there. Today, eleven parts of a tunnel boring machine, and why each one exists, starting with the strange reason so many of them stay underground.",
+   "query": "tunnel boring machine",
+   "caption": "BURIED FOREVER",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "A tunnel boring machine is a factory on the move. The front is a spinning wheel of steel that grinds through rock or soil. Behind it, the machine builds the tunnel walls as it goes, and behind that, a train of trailers up to hundreds of meters long carries everything the crew needs. Some of these machines are wider than a four story building is tall.",
+   "query": "tunnel boring machine cutterhead",
+   "caption": "A FACTORY ON THE MOVE"
+  },
+  {
+   "text": "As always, every fact comes from a named source, tunnel builders, engineering references, and official project reports, all listed in the description. Let's start with the question in the title.",
+   "query": "tunnel boring machine",
+   "caption": "WHY DOES THIS EXIST?"
+  },
+  {
+   "text": "Why would anyone bury a machine worth millions? Because it cannot go back the way it came. The front of a tunnel boring machine, called the shield, is a little wider than the finished tunnel behind it, because the tunnel walls are built inside the shield. So the machine cannot reverse through the tunnel it just dug. It can only go forward, or be cut into pieces where it stands.",
+   "query": "Channel Tunnel boring machine",
+   "caption": "WHY IS THIS MACHINE LEFT UNDERGROUND?",
+   "arrow": {
+    "x": 0.5,
+    "y": 0.45
+   },
+   "chapter": "1. The machine left in the ground",
+   "short": "Why Are Tunnel Boring Machines Left Underground?",
+   "cuts": 3,
+   "file": "File:2012 Eurotunnel tunnel boring machine 02.JPG"
+  },
+  {
+   "text": "Cutting it up underground is slow and expensive. Workers need weeks or months to take the machine apart in a narrow tunnel and carry the pieces out. Often the used machine is worth less than that work. So when the end of the tunnel is not near a shaft, builders sometimes do the cheaper thing. They strip out the useful parts, drive the shield into a side pocket, and fill it with concrete.",
+   "query": "tunnel boring machine",
+   "caption": "CHEAPER TO BURY"
+  },
+  {
+   "text": "That is what happened under the English Channel. The British and French machines met in nineteen ninety. The British ones turned down into the rock and were buried, so the French ones could break through and be taken out. Years later, one Channel Tunnel machine was even put up for sale online. Many machines today are refurbished and reused, but some still end their lives as part of the tunnel they built.",
+   "query": "Channel Tunnel",
+   "caption": "SOLD ONLINE"
+  },
+  {
+   "text": "Why is the front of a tunnel boring machine covered in little steel wheels? Because they do not cut the rock like a saw. Each disc rolls in a circle on the rock face, pressed against it with tonnes of force. The pressure crushes the rock under the disc and cracks it sideways, so chips flake off between neighboring tracks. The rock breaks itself.",
+   "query": "TBM cutter disc",
+   "caption": "WHY IS THIS WHEEL COVERED IN DISCS?",
+   "arrow": {
+    "x": 0.45,
+    "y": 0.45
+   },
+   "chapter": "2. The steel discs on the cutterhead",
+   "short": "Why Does a Tunnel Boring Machine Have Steel Discs?",
+   "cuts": 3,
+   "file": "File:Hallands\u00e5stunneln TBM disc cutter - 01.jpg"
+  },
+  {
+   "text": "A big hard rock machine can carry dozens of these discs, each about forty centimeters across. The cutterhead turns a few times per minute, pushed forward by hydraulic rams. In very hard rock, like granite, the discs wear out fast, and the crew stops regularly to inspect them and change the worn ones.",
+   "query": "tunnel boring machine cutterhead",
+   "caption": "THE ROCK BREAKS ITSELF"
+  },
+  {
+   "text": "Changing them is one of the hardest jobs in tunneling. Workers climb through the cutterhead to the face of the tunnel. In soft ground under water, the chamber behind the cutterhead is under pressure, so the workers breathe compressed air and need decompression afterwards, like deep sea divers. Some new machines change discs with robots for exactly that reason.",
+   "query": "tunnel boring machine",
+   "caption": "DIVERS UNDERGROUND"
+  },
+  {
+   "text": "Why is the wall of the tunnel made of curved concrete pieces? Because the machine builds the tunnel as it digs. The pieces, called segments, are made in a factory and brought in by train. Inside the shield, a rotating arm called the erector picks up each segment and places it, forming a ring. Usually six or seven segments plus a small key piece close one ring.",
+   "query": "tunnel lining segments",
+   "caption": "WHY IS THE TUNNEL MADE OF PUZZLE PIECES?",
+   "arrow": {
+    "x": 0.42,
+    "y": 0.3
+   },
+   "chapter": "3. The concrete puzzle pieces",
+   "short": "Why Are Tunnels Built From Concrete Puzzle Pieces?",
+   "cuts": 3,
+   "file": "File:Wewelsfleth SuedLink ElbX Tunnelsegment 20241224.jpg"
+  },
+  {
+   "text": "The rings are bolted together and sealed with rubber gaskets, so water from the ground cannot get in. The machine digs a little more than one ring length, stops, builds the next ring, and moves on. Ring after ring, the tunnel appears behind the machine, already finished.",
+   "query": "tunnel segment erector",
+   "caption": "RING AFTER RING"
+  },
+  {
+   "text": "The last segment, the key, is shaped like a wedge. It slides in last and locks the whole ring, like the keystone of a stone arch. Without it, the ring is just a pile of curved concrete. With it, the ring can hold back the weight of the ground and the pressure of water for more than a hundred years.",
+   "query": "tunnel lining segments",
+   "caption": "THE KEY LOCKS IT"
+  },
+  {
+   "text": "How does a machine without wheels move forward through solid rock? It pushes against the tunnel it just built. Around the back of the shield, a ring of powerful hydraulic jacks presses against the last concrete ring. When they extend, the whole machine slides forward and the cutterhead is pressed into the face. Then the jacks pull back, a new ring is built, and the cycle starts again.",
+   "query": "tunnel boring machine",
+   "caption": "WHY DOES THE MACHINE PUSH ON ITS OWN TUNNEL?",
+   "arrow": {
+    "x": 0.45,
+    "y": 0.4
+   },
+   "chapter": "4. The jacks that push off the walls",
+   "short": "Why Does a Tunnel Boring Machine Push Off Its Own Walls?",
+   "cuts": 3,
+   "file": "File:Tunnel Boring Machine Rachel.jpg"
+  },
+  {
+   "text": "The force can be enormous, tens of thousands of tonnes on the biggest machines. And the jacks also steer. Push harder on the left side, and the machine turns right. Push harder at the bottom, and it climbs. The operator does this constantly, guided by lasers and computers that know where the machine should be to within a few millimeters.",
+   "query": "tunnel boring machine",
+   "caption": "STEERING WITH JACKS"
+  },
+  {
+   "text": "In hard rock, some machines use a different trick. Instead of pushing on segments, they press big pads called grippers against the rock walls on both sides, lock themselves in place, and push the cutterhead forward from there. Then they release the grippers, pull the body forward, and grip again, like an inchworm.",
+   "query": "Gotthard Base Tunnel",
+   "caption": "LIKE AN INCHWORM"
+  },
+  {
+   "text": "Why does a tunnel boring machine pump liquid grout behind the walls it builds? Because there is a gap. The cutterhead digs a hole slightly wider than the shield, and the segments are built inside the shield. When the shield moves on, a ring of empty space is left between the concrete and the ground. If nothing fills it, the ground above slowly sinks into it.",
+   "query": "tunnel grout",
+   "caption": "WHY IS GROUT PUMPED BEHIND THE WALLS?",
+   "arrow": {
+    "x": 0.6,
+    "y": 0.45
+   },
+   "chapter": "5. The grout behind the ring",
+   "short": "Why Do Tunnel Machines Pump Grout Behind the Walls?",
+   "cuts": 3,
+   "file": "File:Rondout pressure tunnel. Section of tunnel with finished concrete lining in place. Note grout hole in arch key. Contract 12. October 6, 1910 (NYPL b13814376-435474).jpg"
+  },
+  {
+   "text": "In a city, that matters a lot. A few centimeters of settlement can crack the buildings above, break water pipes, or tilt railway tracks. So the machine injects grout through the tail of the shield, at the same moment it moves forward, filling the gap before the ground can move.",
+   "query": "tunnel boring machine Crossrail",
+   "caption": "BUILDINGS ABOVE"
+  },
+  {
+   "text": "Engineers watch the surface the whole time. Under London, during the Crossrail project, thousands of sensors measured buildings above the tunnels. Under some historic buildings, they even pumped grout into the ground beforehand, ready to push it back up if it started to sink.",
+   "query": "Crossrail",
+   "caption": "THOUSANDS OF SENSORS"
+  },
+  {
+   "text": "Why do soft ground tunnel machines keep a chamber full of mud behind the cutterhead? Because in soft soil under water, the face of the tunnel wants to collapse. The soil and water push into the hole. An earth pressure balance machine fills the chamber behind the cutterhead with the dug soil itself, turned into a thick paste, and keeps it pressed against the face, at the same pressure as the ground outside.",
+   "query": "earth pressure balance shield",
+   "caption": "WHY IS THERE MUD BEHIND THE CUTTER?",
+   "arrow": {
+    "x": 0.62,
+    "y": 0.45
+   },
+   "chapter": "6. The chamber full of mud",
+   "short": "Why Do Tunnel Machines Keep Mud Behind the Cutter?",
+   "cuts": 3,
+   "file": "File:Greenwich Crossrail TBM Tunnel Boring Machines.jpg"
+  },
+  {
+   "text": "A long screw conveyor takes the paste out of the chamber, and its speed controls the pressure. Turn it faster, and pressure drops. Turn it slower, and pressure rises. If the pressure is too low, the ground above can collapse into the tunnel. If it is too high, the machine can push the ground up, and even blow mud out at the surface.",
+   "query": "tunnel boring machine",
+   "caption": "BALANCE THE PRESSURE"
+  },
+  {
+   "text": "Other machines, called slurry shields, use bentonite clay mixed with water instead. The slurry holds the face and is pumped through pipes to a plant on the surface, where the soil is separated out and the slurry is reused. Either way, the idea is the same. Hold the ground with pressure until the concrete ring is in place.",
+   "query": "slurry shield TBM",
+   "caption": "SLURRY SHIELDS"
+  },
+  {
+   "text": "Why does a tunnel boring machine drag a long chain of trailers behind it? Because the cutterhead is only the tip. Behind it, on what is called the backup, are the electric transformers, hydraulic pumps, grout tanks, ventilation, a control cabin, toilets and a place for the crew to eat. The whole thing can be more than a hundred meters long.",
+   "query": "TBM backup gantry",
+   "caption": "WHY IS THERE A TRAIN BEHIND THE CUTTER?",
+   "arrow": {
+    "x": 0.6,
+    "y": 0.5
+   },
+   "chapter": "7. The train behind the machine",
+   "short": "Why Do Tunnel Machines Drag a Train Behind Them?",
+   "cuts": 3,
+   "file": "File:Bertha TBM model at Milepost 31.jpg"
+  },
+  {
+   "text": "The dug material has to leave too. On many machines, a conveyor belt carries the broken rock back through the tunnel, sometimes for kilometers, to the surface. On others, small trains carry it out in wagons, and bring segments back in on the return trip.",
+   "query": "TBM conveyor belt tunnel",
+   "caption": "KILOMETERS OF BELT"
+  },
+  {
+   "text": "The crew lives inside this moving factory. Work goes on day and night, in shifts, for years. On a good day, a modern machine can advance tens of meters. On a bad day, in broken rock or mud, it might not advance at all.",
+   "query": "tunnel boring machine",
+   "caption": "DAY AND NIGHT, FOR YEARS"
+  },
+  {
+   "text": "Why did one of the biggest tunnel machines ever built stop under Seattle for two years? The machine, named Bertha, was more than seventeen meters across. In December two thousand thirteen, after about a thousand feet of digging, it overheated and stopped. Investigators later found damaged seals around the main bearing, the part that lets the cutterhead turn.",
+   "query": "Bertha tunnel boring machine",
+   "caption": "WHY DID THIS GIANT MACHINE GET STUCK?",
+   "arrow": {
+    "x": 0.3,
+    "y": 0.4
+   },
+   "chapter": "8. The seals that failed under Seattle",
+   "short": "Why Did the Biggest Tunnel Machine Get Stuck?",
+   "cuts": 3,
+   "file": "File:Bertha TBM retrieval site.jpg"
+  },
+  {
+   "text": "There was no way to reach the front of the machine from inside. So the builders dug a huge rescue pit from the surface, down to the cutterhead, and lifted the front end of the machine out with a giant crane. It was repaired, put back, and in late two thousand fifteen it started digging again.",
+   "query": "Bertha tunnel boring machine",
+   "caption": "A RESCUE PIT"
+  },
+  {
+   "text": "Bertha finished the tunnel in two thousand seventeen, and the new highway opened in two thousand nineteen, years late. Who was responsible became a long legal fight. The main bearing and its seals are the heart of the machine, and when the heart fails underground, there is no easy way to reach it.",
+   "query": "Seattle tunnel",
+   "caption": "THE HEART FAILED"
+  },
+  {
+   "text": "Why do tunnel boring machines have names like Bertha, Phyllis or Elizabeth? It is a tradition. Miners and tunnelers have long believed a machine should not start digging without a name. The names are usually female, often in honor of Saint Barbara, the patron saint of miners and tunnelers, who is said to protect them from danger underground.",
+   "query": "Saint Barbara statue tunnel",
+   "caption": "WHY DOES EVERY TUNNEL MACHINE HAVE A NAME?",
+   "arrow": {
+    "x": 0.43,
+    "y": 0.65
+   },
+   "chapter": "9. The name on every machine",
+   "short": "Why Does Every Tunnel Machine Have a Woman's Name?",
+   "cuts": 3,
+   "file": "File:Sainte Barbe tunnel de Cointe.jpg"
+  },
+  {
+   "text": "On many projects, a small statue of Saint Barbara is placed at the entrance of the tunnel, and the machines are blessed before they start. On Crossrail in London, the eight machines were named after famous women from London's history, chosen by the public.",
+   "query": "tunnel boring machine Crossrail",
+   "caption": "BLESSED BEFORE DIGGING"
+  },
+  {
+   "text": "It sounds like superstition, and it is. But tunneling was one of the most dangerous jobs in the world for centuries. Collapses, floods and gas killed many workers. A name and a saint at the entrance are a reminder that the people inside are the most important part of the machine.",
+   "query": "tunnel",
+   "caption": "THE PEOPLE INSIDE"
+  },
+  {
+   "text": "How does a machine deep underground, with no GPS, know where it is going? It follows a laser. A survey station fixed to the tunnel wall behind the machine shoots a laser beam onto a target on the machine. Computers read the target and calculate the exact position and direction of the cutterhead, so the operator can correct the course.",
+   "query": "tunnel boring machine",
+   "caption": "WHY DOES THIS MACHINE NEED A LASER?",
+   "arrow": {
+    "x": 0.5,
+    "y": 0.35
+   },
+   "chapter": "10. The laser that steers",
+   "short": "Why Does a Tunnel Machine Need a Laser to Steer?",
+   "cuts": 3,
+   "file": "File:People welding inside the tunnel boring machine (8903739087).jpg"
+  },
+  {
+   "text": "The survey station itself must be moved forward as the tunnel grows, and every move adds a tiny error. Surveyors check the line again and again, using points measured from the surface down through shafts. In a tunnel kilometers long, being off by a fraction of a degree would mean missing the target by meters.",
+   "query": "tunnel",
+   "caption": "A FRACTION OF A DEGREE"
+  },
+  {
+   "text": "Under the Channel, the British and French tunnels started more than thirty kilometers apart. When they met in December nineteen ninety, the difference was about thirty five centimeters sideways and less than six centimeters up and down. Two tunnels dug from two countries, under the sea, met almost perfectly.",
+   "query": "Channel Tunnel",
+   "caption": "OFF BY 35 CM"
+  },
+  {
+   "text": "Why did the Gotthard Base Tunnel in Switzerland need four giant machines working at the same time? Because it is fifty seven kilometers long, the longest railway tunnel in the world. One machine would have taken far too long. So the builders dug access shafts and tunnels into the mountain, and the machines started from several points at once, digging toward each other.",
+   "query": "Gotthard Base Tunnel",
+   "caption": "WHY DID THE LONGEST TUNNEL NEED 4 GIANTS?",
+   "arrow": {
+    "x": 0.55,
+    "y": 0.4
+   },
+   "chapter": "11. The longest tunnel's machines",
+   "short": "Why Did the World's Longest Tunnel Need Four Giant Machines?",
+   "cuts": 3,
+   "file": "File:20141120 gotthard-basistunnel02-wikipedia-hannes-ortlieb.jpg"
+  },
+  {
+   "text": "Under the Alps, up to two thousand three hundred meters of rock sit above the tunnel. The rock there is hot, sometimes above forty degrees, and it can squeeze in on the tunnel or burst out from the walls. The machines had to dig through granite and gneiss, and some sections were dug with explosives instead.",
+   "query": "Gotthard Base Tunnel",
+   "caption": "2,300 METERS OF ROCK ABOVE"
+  },
+  {
+   "text": "The tunnel opened in two thousand sixteen, after seventeen years of construction. Freight trains now cross the Alps almost flat, without climbing over the mountains. And the machines? They were taken apart and carried out, piece by piece, to dig again somewhere else.",
+   "query": "Gotthard Base Tunnel",
+   "caption": "17 YEARS"
+  },
+  {
+   "text": "So here are the eleven. A machine that cannot reverse, so it is sometimes buried. Steel discs that let the rock break itself. Concrete puzzle pieces locked by a key, jacks that push off the tunnel, and grout that holds up the city above. A chamber of mud that balances the ground, a train of trailers behind the cutter, a bearing that stopped Bertha, a name and a saint, a laser that steers, and four giants under the Alps.",
+   "query": "tunnel boring machine",
+   "caption": "11 PARTS. 0 DAYLIGHT.",
+   "chapter": "The verdict",
+   "cuts": 6
+  },
+  {
+   "text": "Next time you ride a subway or drive through a tunnel, remember that a machine like this built it, ring by ring, and might still be down there. If you want more machines explained part by part, subscribe to Machine Reverse. And tell us in the comments which machine you want us to take apart next.",
+   "query": "tunnel boring machine",
+   "caption": "SUBSCRIBE: MACHINE REVERSE",
+   "cuts": 4
+  }
+ ]
+}

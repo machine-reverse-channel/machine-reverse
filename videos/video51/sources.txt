@@ -1,0 +1,8 @@
+- Tunnel boring machines (shields, disc cutters, segment erectors, thrust jacks, grippers, EPB and slurry shields, backup): Wikipedia, "Tunnel boring machine" https://en.wikipedia.org/wiki/Tunnel_boring_machine ; Herrenknecht product pages https://www.herrenknecht.com/
+- Channel Tunnel (buried British TBMs, breakthrough 1 December 1990, alignment error ~358 mm / 58 mm, TBM sold online 2004): Wikipedia, "Channel Tunnel" https://en.wikipedia.org/wiki/Channel_Tunnel ; BBC News, "Channel tunnel machine sold on eBay" (2004) http://news.bbc.co.uk/
+- Tail void grouting, settlement monitoring and compensation grouting on Crossrail: Crossrail Learning Legacy https://learninglegacy.crossrail.co.uk/
+- Crossrail TBM names (eight machines named after women): Crossrail https://www.crossrail.co.uk/
+- Bertha / SR 99 tunnel (17.5 m, stopped Dec 2013, rescue pit, resumed Dec 2015, breakthrough April 2017, opened Feb 2019): Wikipedia, "Bertha (tunnel boring machine)" https://en.wikipedia.org/wiki/Bertha_(tunnel_boring_machine) ; WSDOT https://wsdot.wa.gov/
+- Saint Barbara, patron saint of miners and tunnellers: Wikipedia, "Saint Barbara" https://en.wikipedia.org/wiki/Saint_Barbara
+- Gotthard Base Tunnel (57 km, opened 2016, 2,300 m overburden, rock temperature up to ~46 °C, four gripper TBMs, construction 1999-2016): Wikipedia, "Gotthard Base Tunnel" https://en.wikipedia.org/wiki/Gotthard_Base_Tunnel ; AlpTransit Gotthard AG
+- TBM guidance (laser total station and target): VMT GmbH, "TBM guidance systems" https://www.vmt-gmbh.de/
