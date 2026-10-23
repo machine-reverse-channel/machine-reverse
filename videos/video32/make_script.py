@@ -121,6 +121,16 @@ sc("""Speed is easy. Stopping is the real engineering. If you want more machines
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ('File:AMG Carbon Ceramic brake..JPG', 0.3, 0.5),
+    2: ('File:BMW S1000R front Brembo monobloc.jpg', 0.75, 0.7),
+    3: ('File:Ferrari 458 Italia Brembo Ceramic Brake Caliper (14937767662).jpg', 0.6, 0.5),
+    4: ('File:Ventilated Plain (Smooth) Brake Rotor Parts.jpg', 0.33, 0.5),
+    5: ('File:Porsche 956 962 radiator exhausts, rear brake cooling duct intakes (6268812568).jpg', 0.6, 0.42),
+    6: ('File:Wornout brake pad.jpg', 0.5, 0.5),
+    7: ('File:ABS-Sensor.jpg', 0.45, 0.75),
+    8: ('File:Brake fluid reservoir in Škoda Fabia I.jpg', 0.4, 0.3),
+    9: ('File:Toyota TF103 Front Brake Disc 01.JPG', 0.25, 0.5),
+    10: ('File:2020 Chevrolet Bolt EV front disc brake 1.jpg', 0.55, 0.7),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None

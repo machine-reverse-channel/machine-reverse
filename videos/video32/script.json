@@ -24,10 +24,14 @@
    "text": "Why are supercar brake discs made of ceramic? Because they handle heat better and weigh much less. A carbon ceramic disc is made of carbon fibres mixed into a ceramic material called silicon carbide. It stays strong at temperatures that would make an iron disc lose its grip, and it weighs about half as much as an iron disc of the same size.",
    "query": "carbon ceramic brake disc",
    "caption": "WHY IS THIS BRAKE DISC MADE OF CERAMIC?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.3,
+    "y": 0.5
+   },
    "chapter": "1. The ceramic disc",
    "short": "Why Are Supercar Brakes Made of Ceramic?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:AMG Carbon Ceramic brake..JPG"
   },
   {
    "text": "When iron brakes get too hot after repeated hard stops, they start to fade. The pedal goes soft and the car takes longer to stop. Carbon ceramic discs resist fade much better, so the brakes feel the same on the tenth hard stop as on the first. On a race track, that is the difference between confidence and fear.",
@@ -43,10 +47,14 @@
    "text": "Why do some brake discs have holes drilled in them? In the past, brake pads could release gas when they got very hot. That gas formed a thin layer between the pad and the disc, like a cushion, and reduced the grip. The holes gave the gas, and also water, a place to escape.",
    "query": "drilled brake disc",
    "caption": "WHY DOES THIS BRAKE DISC HAVE HOLES?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.75,
+    "y": 0.7
+   },
    "chapter": "2. The holes in the disc",
    "short": "Why Do Some Brake Discs Have Holes?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:BMW S1000R front Brembo monobloc.jpg"
   },
   {
    "text": "Modern pads release much less gas, but the holes still help. They let water escape in the rain, they clean the surface of the pad, and they save a little weight. Some discs use slots instead of holes, curved grooves that sweep the pad clean with every turn.",
@@ -62,10 +70,14 @@
    "text": "Why does a supercar brake caliper have six or more pistons? The caliper is the part that squeezes the pads against the disc. A basic car has one piston pushing on one side. A big supercar pad is long, and one piston would push hard in the middle and weakly at the ends.",
    "query": "brake caliper six piston",
    "caption": "WHY DOES THIS BRAKE HAVE SIX PISTONS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.6,
+    "y": 0.5
+   },
    "chapter": "3. The six piston caliper",
    "short": "Why Do Supercar Brakes Have So Many Pistons?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Ferrari 458 Italia Brembo Ceramic Brake Caliper (14937767662).jpg"
   },
   {
    "text": "Several smaller pistons spread the force evenly along the whole pad. The pad wears more evenly and grips with its full surface. The pistons can even be different sizes, smaller at the front of the pad and larger at the back, because the front edge of a pad tends to wear faster.",
@@ -81,10 +93,14 @@
    "text": "Why is a brake disc hollow inside? Look at the edge of most front discs, and you will see two plates with gaps between them. Inside are curved walls called vanes. As the disc spins, the vanes act like a fan, pulling air from the centre and throwing it out of the edge.",
    "query": "ventilated brake disc",
    "caption": "WHY IS THIS BRAKE DISC HOLLOW?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.33,
+    "y": 0.5
+   },
    "chapter": "4. The vented disc",
    "short": "Why Are Brake Discs Hollow Inside?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Ventilated Plain (Smooth) Brake Rotor Parts.jpg"
   },
   {
    "text": "That moving air carries heat away from the inside of the disc, so it cools much faster than a solid disc. Front brakes do most of the stopping work, because the car's weight moves forward when it brakes. That is why many cars have vented discs at the front and simpler solid discs at the back.",
@@ -100,10 +116,14 @@
    "text": "Why do many fast cars have openings in the front bumper that lead to the wheels? They are brake ducts. They catch cool air at the front of the car and blow it straight at the brakes. On a race track, the brakes can get so hot that the extra air makes a real difference.",
    "query": "brake cooling duct",
    "caption": "WHY DOES THIS BUMPER HAVE A HOLE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.6,
+    "y": 0.42
+   },
    "chapter": "5. The brake ducts",
    "short": "Why Do Fast Cars Have Holes for the Brakes?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Porsche 956 962 radiator exhausts, rear brake cooling duct intakes (6268812568).jpg"
   },
   {
    "text": "The duct sends air into the centre of the vented disc, where the vanes pull it through. Too little air and the brakes overheat. Too much air and the brakes may run too cold to grip properly, and the duct adds drag. Race teams change the size of the ducts for each track.",
@@ -119,10 +139,14 @@
    "text": "Why do brakes squeal when the pads are worn out? Often, it is on purpose. Many brake pads have a small metal tab on the back plate. When the pad wears down close to its limit, the tab touches the disc and makes a high pitched squeal. It is an alarm that does not need any electronics.",
    "query": "brake pad wear indicator",
    "caption": "WHY DO WORN BRAKES SQUEAL?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "6. The squealer tab",
    "short": "Why Do Brakes Squeal When They Are Worn?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Wornout brake pad.jpg"
   },
   {
    "text": "If the driver ignored it and kept driving, the pad would wear down to its metal backing, which would grind into the disc and damage it. The squeal gives the driver time to replace the pads before that happens. Many modern cars also use an electrical sensor that lights a warning on the dashboard.",
@@ -138,10 +162,14 @@
    "text": "Why is there a ring with teeth near each wheel of your car? It is part of the anti lock braking system. A sensor counts the teeth as they pass, and that tells the car how fast each wheel is turning. If one wheel suddenly slows much faster than the others, it is about to lock.",
    "query": "ABS sensor ring",
    "caption": "WHY DOES THIS RING HAVE TEETH?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.75
+   },
    "chapter": "7. The ABS ring",
    "short": "Why Do Cars Have ABS Rings With Teeth?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:ABS-Sensor.jpg"
   },
   {
    "text": "A locked wheel slides instead of rolling, and a sliding tyre cannot steer. In an emergency stop, the car would go straight even if you turned the wheel. The anti lock system releases and reapplies the pressure on that wheel many times per second, keeping it at the edge of grip. That is the buzzing you feel in the pedal.",
@@ -157,10 +185,14 @@
    "text": "Why does brake fluid need to be changed every few years? The fluid carries the force of your foot to the brakes. It can do that because liquids do not compress. But brake fluid slowly absorbs water from the air, through the hoses and seals, even when the system is closed.",
    "query": "brake fluid reservoir",
    "caption": "WHY DOES THIS FLUID NEED CHANGING?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.4,
+    "y": 0.3
+   },
    "chapter": "8. The brake fluid",
    "short": "Why Does Brake Fluid Need Changing?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Brake fluid reservoir in \u0160koda Fabia I.jpg"
   },
   {
    "text": "Water lowers the boiling point of the fluid. Fresh fluid boils at well over two hundred degrees, but with some water in it, the boiling point can drop a lot. During hard braking, the heat from the brakes travels into the fluid. If it boils, it forms gas bubbles, and gas does compress.",
@@ -176,10 +208,14 @@
    "text": "Why do Formula One brakes glow red when the car slows down? Because they are made of carbon carbon, a material that works best when it is extremely hot. The discs can reach around one thousand degrees during hard braking. At that temperature, they shine like the coils in a toaster.",
    "query": "F1 brake disc glowing",
    "caption": "WHY DO THESE BRAKES GLOW RED?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.25,
+    "y": 0.5
+   },
    "chapter": "9. The glowing F1 brakes",
    "short": "Why Do Formula 1 Brakes Glow Red?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Toyota TF103 Front Brake Disc 01.JPG"
   },
   {
    "text": "Carbon carbon brakes have a strange problem. When they are cold, they barely grip. Drivers have to warm them up, and the cars use ducts and covers to keep them in the right temperature window. Each disc is drilled with hundreds of tiny holes to cool it from the inside.",
@@ -195,10 +231,14 @@
    "text": "Why do electric cars barely use their brake discs? Because the electric motor can work in reverse. When you lift your foot, the motor becomes a generator. The wheels turn it, and it makes electricity that goes back into the battery. That resistance slows the car down, without touching the discs.",
    "query": "regenerative braking",
    "caption": "WHY DO ELECTRIC CARS BARELY USE THEIR BRAKES?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.7
+   },
    "chapter": "10. The motor that brakes",
    "short": "Why Do Electric Cars Barely Use Their Brakes?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:2020 Chevrolet Bolt EV front disc brake 1.jpg"
   },
   {
    "text": "Instead of turning the car's speed into wasted heat, regenerative braking turns part of it back into energy. In city traffic, with many stops, this can add a lot of range. Many drivers learn to drive with one pedal, slowing down just by lifting off the accelerator.",
