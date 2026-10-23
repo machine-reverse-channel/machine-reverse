@@ -24,10 +24,14 @@
    "text": "Why do nuclear plants have those giant curved towers? Because a power plant must throw away a lot of heat. After the steam spins the turbine, it has to be cooled back into water, and that takes huge amounts of cooling water. The tower cools that water down. Warm water is sprayed inside near the bottom, air flows up through it, and some of the water evaporates, carrying the heat away.",
    "query": "natural draft cooling tower",
    "caption": "WHY ARE THESE TOWERS SO GIANT?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.65,
+    "y": 0.45
+   },
    "chapter": "1. The curved tower",
    "short": "Why Do Nuclear Plants Have Those Giant Towers?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:De Molen (windmill) and the nuclear power plant cooling tower in Doel, Belgium (DSCF3859).jpg"
   },
   {
    "text": "The tower works like a chimney with no fan. The warm, moist air inside is lighter than the air outside, so it rises, and fresh air is pulled in at the bottom. A tower can be more than a hundred and fifty meters tall, because the taller it is, the stronger the natural draft.",
@@ -43,10 +47,14 @@
    "text": "Why are cooling towers wide at the bottom, narrow in the middle, and wider again at the top? The shape is called a hyperboloid, and it is surprisingly strong. It can be built from straight lines. Imagine many straight steel beams leaning in a circle, all tilted the same way. Together, they make this curved shape, which resists wind and its own weight very well.",
    "query": "hyperboloid cooling tower",
    "caption": "WHY IS THIS TOWER SHAPED LIKE THIS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.83,
+    "y": 0.45
+   },
    "chapter": "2. The waist of the tower",
    "short": "Why Are Cooling Towers Shaped Like That?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Godorf Cologne Rhineland-Refinery-Cooling-Towers-during-demolition-02.jpg"
   },
   {
    "text": "Because it is so strong, the concrete shell can be very thin, often only around twenty centimeters, for a tower over a hundred meters tall. That is thinner, relative to its size, than an eggshell. Less concrete means a cheaper tower.",
@@ -62,10 +70,14 @@
    "text": "Why do some nuclear plants have no cooling towers at all? Because they use the sea, a lake or a big river instead. They pump huge amounts of water in, pass it through the condenser to cool the steam, and send it back a few degrees warmer. Plants on the coast, like many in France, Japan and the United Kingdom, often work this way.",
    "query": "nuclear plant water intake",
    "caption": "WHY DO SOME PLANTS HAVE NO TOWERS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.55
+   },
    "chapter": "3. The plant without towers",
    "short": "Why Do Some Nuclear Plants Have No Cooling Towers?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Neckarwestheim Nuclear Power Plant September 2013.jpg"
   },
   {
    "text": "It is cheaper and more efficient, but it has limits. In very hot summers, river water can get too warm to cool the plant properly, and environmental rules limit how much warmer the river may become. Some plants in Europe have had to reduce power during heat waves for exactly this reason.",
@@ -81,10 +93,14 @@
    "text": "Why does the reactor sit inside a huge concrete dome or cylinder? It is the containment building, the last barrier between the reactor and the outside world. Its walls are reinforced concrete, often around a meter thick, lined with steel. If something breaks inside, and radioactive steam escapes from the pipes, the containment is designed to hold it in.",
    "query": "containment building",
    "caption": "WHY DOES THE REACTOR LIVE IN A DOME?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.45
+   },
    "chapter": "4. The concrete dome",
    "short": "Why Do Nuclear Reactors Live Inside a Dome?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:NPP containment building construction.jpg"
   },
   {
    "text": "The round shape is strong against pressure from inside, like a balloon or a pressure cooker. It also resists things from outside, like storms, earthquakes and even, in many designs, the impact of a crashing airplane.",
@@ -100,10 +116,14 @@
    "text": "How do you turn off a nuclear reactor? You push rods into it. Uranium splits when it is hit by neutrons, and each split releases more neutrons, which split more atoms. Control rods are made of materials like boron or cadmium that soak up neutrons. Push them in, and the chain reaction slows down or stops. Pull them out a little, and it speeds up.",
    "query": "nuclear reactor control rods",
    "caption": "WHY CAN THESE RODS STOP A REACTOR?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.6,
+    "y": 0.45
+   },
    "chapter": "5. The rods that stop the reaction",
    "short": "Why Can Control Rods Stop a Nuclear Reactor?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Reactor Vessel head.jpg"
   },
   {
    "text": "In an emergency, all the rods drop in at once, often in a couple of seconds. This is called a scram. In many reactors, the rods are held up by electromagnets, so if the power fails, they simply fall in by gravity. The safe position is the one they reach on their own.",
@@ -119,10 +139,14 @@
    "text": "How much energy is in nuclear fuel? It comes as small ceramic pellets of uranium oxide, about the size of a fingertip. According to the nuclear industry, one pellet can produce about as much energy as a tonne of coal. Splitting an atom releases millions of times more energy than burning one.",
    "query": "nuclear fuel assembly",
    "caption": "WHY IS THIS TINY PELLET SO POWERFUL?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.45
+   },
    "chapter": "6. The pellet the size of a fingertip",
    "short": "Why Is a Tiny Uranium Pellet So Powerful?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Nuclear fuel pellets at the Greifswald Nuclear Power Plant information center.jpg"
   },
   {
    "text": "The pellets are stacked inside long metal tubes, called fuel rods, and the rods are grouped into square bundles called fuel assemblies, several meters long. A large reactor holds a few hundred assemblies, and around a third of them are replaced every year or two.",
@@ -138,10 +162,14 @@
    "text": "Why does the water around nuclear fuel sometimes glow blue? It is called Cherenkov radiation. Particles from the fuel travel through the water faster than light travels in water. They do not break the speed of light in a vacuum, but in water, light is slower. The result is a kind of optical shock wave, like a sonic boom, but made of blue light.",
    "query": "Cherenkov radiation",
    "caption": "WHY DOES THIS WATER GLOW BLUE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.6
+   },
    "chapter": "7. The pool of glowing blue water",
    "short": "Why Does Water Around Nuclear Fuel Glow Blue?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Cerenkov Effect.jpg"
   },
   {
    "text": "Used fuel is stored in deep pools of water for years after it leaves the reactor. The water does two jobs. It cools the fuel, which is still producing heat, and it blocks the radiation. A few meters of water above the fuel make it safe for workers to stand at the edge of the pool.",
@@ -157,10 +185,14 @@
    "text": "Why is a nuclear reactor core held inside a giant steel pot? It is the reactor pressure vessel. In the most common type of reactor, the water around the core is heated to around three hundred degrees, but kept from boiling by enormous pressure, more than a hundred and fifty times the pressure of the air. Holding that takes steel walls around twenty centimeters thick.",
    "query": "reactor pressure vessel",
    "caption": "WHY IS THE REACTOR IN A GIANT STEEL POT?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.5
+   },
    "chapter": "8. The thick steel pot",
    "short": "Why Does a Nuclear Reactor Need Such a Thick Steel Pot?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Interior of the VVER-440 reactor pressure vessel at Greifswald NPP.jpg"
   },
   {
    "text": "The hot pressurized water then flows to steam generators, where it heats a second loop of water that boils into steam for the turbine. The water that touches the fuel never leaves the containment. That separation keeps radioactivity away from the turbine and the outside world.",
@@ -176,10 +208,14 @@
    "text": "Why do nuclear control rooms look the way they do, and why do operators train in an exact copy of them? Because of Three Mile Island. In March nineteen seventy nine, a valve stuck open and let cooling water escape. A light on the control panel showed that the valve had been told to close, not that it actually had. Operators believed it was closed for hours.",
    "query": "nuclear power plant control room",
    "caption": "WHY DID THIS CONTROL ROOM CHANGE AFTER 1979?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.4
+   },
    "chapter": "9. The control room",
    "short": "Why Did Nuclear Control Rooms Change After 1979?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Shearon Harris Nuclear Power Plant control room.jpg"
   },
   {
    "text": "Hundreds of alarms went off at once, and the most important information was hard to find. Investigators found that the control room design and operator training were major causes of the accident. After that, control rooms were redesigned to make critical information clear, and every plant in the United States was required to have a full scale simulator.",
@@ -195,10 +231,14 @@
    "text": "Why does a power plant, which makes electricity, need emergency diesel generators? Because when the reactor stops, it cannot power itself. The pumps that keep cooling the fuel need electricity. If the connection to the grid is lost, the diesel generators must start within seconds and keep the pumps running.",
    "query": "emergency diesel generator",
    "caption": "WHY DOES A POWER PLANT NEED GENERATORS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.5
+   },
    "chapter": "10. The emergency generators",
    "short": "Why Does a Nuclear Plant Need Emergency Generators?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Emergency power system in water purification plant Germany.jpg"
   },
   {
    "text": "In March two thousand eleven, at Fukushima Daiichi in Japan, the earthquake cut the plant off from the grid, and the diesel generators started as designed. Then the tsunami arrived. It flooded the generators and the electrical rooms, many of them in low parts of the buildings. With no power to cool the cores, three reactors melted down.",
@@ -214,10 +254,14 @@
    "text": "Why can you see the cloud from a big power plant from tens of kilometers away? Because a large cooling tower evaporates an enormous amount of water. A big plant can release hundreds of liters of water every second as vapor. On a cold, humid day, the plume can rise high into the sky and even make its own clouds downwind.",
    "query": "cooling tower",
    "caption": "WHY CAN YOU SEE THIS PLANT FROM SO FAR?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.4,
+    "y": 0.15
+   },
    "chapter": "11. The cloud on the horizon",
    "short": "Why Can You See a Nuclear Plant From Miles Away?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:De Molen (windmill) and the nuclear power plant cooling tower in Doel, Belgium (DSCF3859).jpg"
   },
   {
    "text": "That water must be replaced, so plants with towers still need a river or lake nearby. They just take much less water than plants that cool directly with river water, because evaporation carries away heat very efficiently. Every liter that evaporates takes a large amount of heat with it.",
