@@ -70,7 +70,7 @@ sc("""The pilots turn the wing anti-ice on when they fly in icing conditions, an
    "airliner cockpit overhead panel anti-ice", "ON WHEN NEEDED")
 
 # ---------- 6. ENGINE INLET ----------
-part(6, "The hot engine lip", "WHY IS THIS ENGINE LIP HEATED?", "Why Are Jet Engine Inlets Heated?",
+part(6, "The hot engine lip", "WHY IS THE FRONT OF THE ENGINE HEATED?", "Why Are Jet Engine Inlets Heated?",
      """Why is the front lip of a jet engine heated? Because ice on the inlet can break off and be swallowed by the engine, damaging the fan blades, and ice can also disturb the airflow into the engine. Hot air from the engine itself is piped into the lip of the inlet, keeping it above freezing.""",
      "jet engine inlet lip")
 sc("""That system was part of the Air Florida story. Investigators found that the crew did not turn on engine anti-ice. Ice blocked a pressure probe in the engines that measures thrust, so the instruments showed more power than the engines were really making. The pilots took off with less thrust than they thought.""",
@@ -123,15 +123,15 @@ sc("""Next time you sit through de-icing, you will know why it is worth the wait
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
     1: ("File:Deicing Copenhagen Airport.JPG", 0.3, 0.4),
-    2: ("File:Deicing Westjet 737 with type IV Calgary.jpg", 0.5, 0.45),
+    2: ("File:WestJet 737-700 getting a spray (4063116066).jpg", 0.17, 0.46),
     3: ("File:Ice on an aircraft wing.jpg", 0.4, 0.6),
-    4: ("File:Deice Pad - Denver Airport (53816863550).jpg", 0.35, 0.4),
+    4: ("File:Deice Pad - Denver Airport (53816863550).jpg", 0.45, 0.62),
     5: ("File:MD-80 wing, landing, focus on leading edge slats (7984780550).jpg", 0.5, 0.3),
-    6: ("File:The NASA Dryden 747 Shuttle Carrier Aircraft crew poses in an engine inlet (EC00-0032-2).jpg", 0.22, 0.5),
+    6: ("File:Inlet of jet engine.jpg", 0.5, 0.5),
     7: ("File:Pneumatic deice boot detail.JPG", 0.5, 0.5),
     8: ("File:ILA-Pitotrohr.jpg", 0.7, 0.72),
-    9: ("File:Aurigny Embraer 195 Wing View.jpg", 0.5, 0.5),
-    10: ("File:Ice detection probe on Global 6000 (1).jpg", 0.41, 0.2),
+    9: ("File:Aircraft element - wing and front left side 2.JPG", 0.75, 0.42),
+    10: ("File:Ice detection probe on Global 6000 (1).jpg", 0.43, 0.5),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None

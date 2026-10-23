@@ -48,13 +48,13 @@
    "query": "Type IV anti-icing fluid green",
    "caption": "WHY IS THIS LIQUID GREEN?",
    "arrow": {
-    "x": 0.5,
-    "y": 0.45
+    "x": 0.17,
+    "y": 0.46
    },
    "chapter": "2. The green liquid",
    "short": "Why Do Airports Spray Green Liquid on Planes?",
    "cuts": 3,
-   "file": "File:Deicing Westjet 737 with type IV Calgary.jpg"
+   "file": "File:WestJet 737-700 getting a spray (4063116066).jpg"
   },
   {
    "text": "The clever part is that the gel is designed to stay on while the airplane is standing still, and to slide off during the takeoff run. As the airplane accelerates, the airflow shears the thick fluid off the wing, so it is gone by the time the wing needs to lift. It is called a pseudoplastic fluid, thick when still, thin when moving.",
@@ -94,8 +94,8 @@
    "query": "deicing pad airport",
    "caption": "WHY IS THERE A PARKING LOT NEAR THE RUNWAY?",
    "arrow": {
-    "x": 0.35,
-    "y": 0.4
+    "x": 0.45,
+    "y": 0.62
    },
    "chapter": "4. The de-icing pad",
    "short": "Why Do Big Airports Have a Special Parking Lot for De-Icing?",
@@ -138,15 +138,15 @@
   {
    "text": "Why is the front lip of a jet engine heated? Because ice on the inlet can break off and be swallowed by the engine, damaging the fan blades, and ice can also disturb the airflow into the engine. Hot air from the engine itself is piped into the lip of the inlet, keeping it above freezing.",
    "query": "jet engine inlet lip",
-   "caption": "WHY IS THIS ENGINE LIP HEATED?",
+   "caption": "WHY IS THE FRONT OF THE ENGINE HEATED?",
    "arrow": {
-    "x": 0.22,
+    "x": 0.5,
     "y": 0.5
    },
    "chapter": "6. The hot engine lip",
    "short": "Why Are Jet Engine Inlets Heated?",
    "cuts": 3,
-   "file": "File:The NASA Dryden 747 Shuttle Carrier Aircraft crew poses in an engine inlet (EC00-0032-2).jpg"
+   "file": "File:Inlet of jet engine.jpg"
   },
   {
    "text": "That system was part of the Air Florida story. Investigators found that the crew did not turn on engine anti-ice. Ice blocked a pressure probe in the engines that measures thrust, so the instruments showed more power than the engines were really making. The pilots took off with less thrust than they thought.",
@@ -209,13 +209,13 @@
    "query": "wing inspection light airliner",
    "caption": "WHY IS THERE A LIGHT POINTING AT THE WING?",
    "arrow": {
-    "x": 0.5,
-    "y": 0.5
+    "x": 0.75,
+    "y": 0.42
    },
    "chapter": "9. The light that shines on the wing",
    "short": "Why Do Airplanes Have a Light Pointing at the Wing?",
    "cuts": 3,
-   "file": "File:Aurigny Embraer 195 Wing View.jpg"
+   "file": "File:Aircraft element - wing and front left side 2.JPG"
   },
   {
    "text": "It sounds simple, because it is. Even with sensors and heaters, aviation likes a human check. Before takeoff in winter, crews often look at the wing from the cabin. If a passenger sees snow on the wing after de-icing, the crew wants to know. A light and a pair of eyes can stop an accident.",
@@ -232,8 +232,8 @@
    "query": "aircraft ice detector probe",
    "caption": "WHY DOES THIS PROBE VIBRATE?",
    "arrow": {
-    "x": 0.41,
-    "y": 0.2
+    "x": 0.43,
+    "y": 0.5
    },
    "chapter": "10. The vibrating probe",
    "short": "Why Do Airplanes Have a Vibrating Probe on the Nose?",
