@@ -1,0 +1,92 @@
+# Photo credits: Why Did the Concorde Drop Its Nose?
+
+All photos from Wikimedia Commons.
+
+- Concorde undercarriage landing gear and brake assembly, Sinsheim Technik Museum, Germany (Ank Kumar, Infosys Limited) 01.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Concorde_undercarriage_landing_gear_and_brake_assembly,_Sinsheim_Technik_Museum,_Germany_(Ank_Kumar,_Infosys_Limited)_01.jpg
+- Concorde undercarriage landing gear and brake assembly, Sinsheim Technik Museum, Germany (Ank Kumar, Infosys Limited) 03.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Concorde_undercarriage_landing_gear_and_brake_assembly,_Sinsheim_Technik_Museum,_Germany_(Ank_Kumar,_Infosys_Limited)_03.jpg
+- Concorde undercarriage landing gear and brake assembly, Sinsheim Technik Museum, Germany (Ank Kumar, Infosys Limited) 04.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Concorde_undercarriage_landing_gear_and_brake_assembly,_Sinsheim_Technik_Museum,_Germany_(Ank_Kumar,_Infosys_Limited)_04.jpg
+- Concorde undercarriage landing gear and brake assembly, Sinsheim Technik Museum, Germany (Ank Kumar, Infosys Limited) 02.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Concorde_undercarriage_landing_gear_and_brake_assembly,_Sinsheim_Technik_Museum,_Germany_(Ank_Kumar,_Infosys_Limited)_02.jpg
+- Concorde at Sinsheim tail landing gear.JPG by AlfvanBeem, CC0, https://commons.wikimedia.org/wiki/File:Concorde_at_Sinsheim_tail_landing_gear.JPG
+- Concorde (vliegtuig) weer (tweede keer) even op Schiphol landing van de Concord, Bestanddeelnr 932-2777.jpg by Hans van Dijk for Anefo, CC0, https://commons.wikimedia.org/wiki/File:Concorde_(vliegtuig)_weer_(tweede_keer)_even_op_Schiphol_landing_van_de_Concord,_Bestanddeelnr_932-2777.jpg
+- Lego Concorde(1).jpg by Ziongarage, CC0, https://commons.wikimedia.org/wiki/File:Lego_Concorde(1).jpg
+- Concorde - Dont forget to read the landing guide - panoramio.jpg by Robert Dimov, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Concorde_-_Dont_forget_to_read_the_landing_guide_-_panoramio.jpg
+- British Airways Concorde G-BOAB, October 2023 02.jpg by DaHuzyBru, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:British_Airways_Concorde_G-BOAB,_October_2023_02.jpg
+- British Airways Concorde G-BOAB, October 2023 01.jpg by DaHuzyBru, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:British_Airways_Concorde_G-BOAB,_October_2023_01.jpg
+- Concorde Nose (7946019546).jpg by Tim Sheerman-Chase, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Concorde_Nose_(7946019546).jpg
+- Concorde Nose on Display at Le Bourget.jpg by DiscoA340, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Concorde_Nose_on_Display_at_Le_Bourget.jpg
+- British Airways Concorde G-BOAC 03.jpg by Eduard Marmet, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:British_Airways_Concorde_G-BOAC_03.jpg
+- United States Air Force - North American XB-70A Valkyrie bomber 3.jpg by James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:United_States_Air_Force_-_North_American_XB-70A_Valkyrie_bomber_3.jpg
+- United States Air Force - North American XB-70A Valkyrie bomber 4.jpg by James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:United_States_Air_Force_-_North_American_XB-70A_Valkyrie_bomber_4.jpg
+- Nose up 9438.jpg by Chris Light, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Nose_up_9438.jpg
+- Tupolev Tu-144 (4322159916).jpg by Dmitry Terekhov from Odintsovo, Russian Federation, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Tupolev_Tu-144_(4322159916).jpg
+- Cockpit of Concorde prototype ‘G-BSST’ (49938440713).jpg by Alan Wilson from Peterborough, Cambs, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Cockpit_of_Concorde_prototype_%E2%80%98G-BSST%E2%80%99_(49938440713).jpg
+- Concorde cockpit, Imperial War Museum, Duxford. (30974272756).jpg by Roland Turner from Birmingham, Great Britain, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Concorde_cockpit,_Imperial_War_Museum,_Duxford._(30974272756).jpg
+- Concorde Air France Musee du Bourget P1020006.JPG by Pline, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Concorde_Air_France_Musee_du_Bourget_P1020006.JPG
+- Concorde, Visor up, Mach 2.02, 55,000 feet.jpg by M McBey, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Concorde,_Visor_up,_Mach_2.02,_55,000_feet.jpg
+- Early Concorde prototype (17081924929).jpg by Andrew Bone from Weymouth, England, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Early_Concorde_prototype_(17081924929).jpg
+- Concorde Prototype on Display at Le Bourget.jpg by DiscoA340, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Concorde_Prototype_on_Display_at_Le_Bourget.jpg
+- Concorde Info 9439.jpg by Chris Light, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Concorde_Info_9439.jpg
+- Concorde at the Museum of Flight, Seattle (6194349550).jpg by Frank Kovalchek from Anchorage, Alaska, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Concorde_at_the_Museum_of_Flight,_Seattle_(6194349550).jpg
+- Concorde - Delta wing and Rolls-Royce-Snecma Olympus 593 engine (7181594822).jpg by Jorge Láscar from Australia, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Concorde_-_Delta_wing_and_Rolls-Royce-Snecma_Olympus_593_engine_(7181594822).jpg
+- Concorde - Undercarriage and cooling fans embedded in the wheel rims (7181588076).jpg by Jorge Láscar from Australia, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Concorde_-_Undercarriage_and_cooling_fans_embedded_in_the_wheel_rims_(7181588076).jpg
+- British Aircraft Corporation BAC221 ‘WG774’ (49942006218).jpg by Alan Wilson from Peterborough, Cambs, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:British_Aircraft_Corporation_BAC221_%E2%80%98WG774%E2%80%99_(49942006218).jpg
+- Concorde The Final YYZ-JFK-LHR Flight (4385501371).jpg by Can Pac Swire from Toronto, Canada, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Concorde_The_Final_YYZ-JFK-LHR_Flight_(4385501371).jpg
+- N391EA DC-10-30 Eastern Airlines LGW JUL85 (12560034175).jpg by Ken Fielding, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:N391EA_DC-10-30_Eastern_Airlines_LGW_JUL85_(12560034175).jpg
+- Concorde - Tail bumper wheel (7181575152).jpg by Jorge Láscar from Australia, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Concorde_-_Tail_bumper_wheel_(7181575152).jpg
+- Concorde - Tail bumper wheel and the four Olympus engine nozzles (7181579366).jpg by Jorge Láscar from Australia, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Concorde_-_Tail_bumper_wheel_and_the_four_Olympus_engine_nozzles_(7181579366).jpg
+- Concorde G-BBDG Tailwheel.JPG by William M, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Concorde_G-BBDG_Tailwheel.JPG
+- Back Landing Gear on a Concorde.jpg by DiscoA340, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Back_Landing_Gear_on_a_Concorde.jpg
+- Concorde G-BBDG LandingGear.JPG by William M, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Concorde_G-BBDG_LandingGear.JPG
+- Short SB5 ‘WG768’ (40077349053).jpg by Alan Wilson from Peterborough, Cambs, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Short_SB5_%E2%80%98WG768%E2%80%99_(40077349053).jpg
+- Rear Concorde at CDG.jpg by Mathious Ier, CC0, https://commons.wikimedia.org/wiki/File:Rear_Concorde_at_CDG.jpg
+- Concorde engine intake.jpg by DanielMichaelPerry, CC0, https://commons.wikimedia.org/wiki/File:Concorde_engine_intake.jpg
+- Concorde Intake Udvar-Hazy.jpg by Alpacaaviator, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Concorde_Intake_Udvar-Hazy.jpg
+- Concorde Engine Intakes (7946071276).jpg by Tim Sheerman-Chase, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Concorde_Engine_Intakes_(7946071276).jpg
+- RR-Snecma Olympus 593-602B.jpg by Nimda01, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:RR-Snecma_Olympus_593-602B.jpg
+- Concorde Rolls-Royce Snecma Olympus 593 tubojet at Sinsheim Technik Museum, Baden-Württemburg, Germany (Ank Kumar, Infosys Limited) 03.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Concorde_Rolls-Royce_Snecma_Olympus_593_tubojet_at_Sinsheim_Technik_Museum,_Baden-W%C3%BCrttemburg,_Germany_(Ank_Kumar,_Infosys_Limited)_03.jpg
+- Concorde engine nacelle detail, Musée de l'Air et de l'Espace, Le Bourget, France. (12599326095).jpg by Roland Turner from Birmingham, Great Britain, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Concorde_engine_nacelle_detail,_Mus%C3%A9e_de_l%27Air_et_de_l%27Espace,_Le_Bourget,_France._(12599326095).jpg
+- Aerospatiale Concorde (42935940412).jpg by Hugh Llewelyn from Keynsham, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Aerospatiale_Concorde_(42935940412).jpg
+- Concorde - Back of the Rolls-Royce-Snecma Olympus 593 (7181583628).jpg by Jorge Láscar from Australia, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Concorde_-_Back_of_the_Rolls-Royce-Snecma_Olympus_593_(7181583628).jpg
+- United States Air Force - North American XB-70A Valkyrie bomber 24.jpg by James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:United_States_Air_Force_-_North_American_XB-70A_Valkyrie_bomber_24.jpg
+- Concorde viewed from the rear-right.jpg by Idkkkkkkkkk, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Concorde_viewed_from_the_rear-right.jpg
+- 00 4916 Concorde of Air France.jpg by W. Bulach, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:00_4916_Concorde_of_Air_France.jpg
+- Hudson River, New York, USA -Concorde-13Nov2011.jpg by Mike Durkin from Forest Hills, NY, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Hudson_River,_New_York,_USA_-Concorde-13Nov2011.jpg
+- Concorde in New York.JPG by Ad Meskens, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Concorde_in_New_York.JPG
+- Concorde Fueling Control (7946110800).jpg by Tim Sheerman-Chase, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Concorde_Fueling_Control_(7946110800).jpg
+- Concorde Flightdeck, Detail (4549083640).jpg by Andrew Smith from Seattle, WA, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Concorde_Flightdeck,_Detail_(4549083640).jpg
+- The First Concorde.jpg by Peer.Gynt, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:The_First_Concorde.jpg
+- G-BOAD flight engineer station.jpg by wctaiwan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:G-BOAD_flight_engineer_station.jpg
+- Concorde - flight engineer's view (50864542312).jpg by Mike McBey, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Concorde_-_flight_engineer%27s_view_(50864542312).jpg
+- British Airways Jumbo and Concorde (4385491783).jpg by Can Pac Swire from Toronto, Canada, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:British_Airways_Jumbo_and_Concorde_(4385491783).jpg
+- Brooklands Concorde, Sign and Flight Ticket Office.jpg by jabberwock, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Brooklands_Concorde,_Sign_and_Flight_Ticket_Office.jpg
+- Concorde G-BBDG Windows.JPG by William M, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Concorde_G-BBDG_Windows.JPG
+- Concorde cabin interior.jpg by Kurkoe, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Concorde_cabin_interior.jpg
+- Inside the Concorde (7482532742).jpg by marsupium photography, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Inside_the_Concorde_(7482532742).jpg
+- Concorde G-BBDG Cabin.JPG by William M, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Concorde_G-BBDG_Cabin.JPG
+- Electronic Route Map of Shmetro Line 10.jpg by Le Concorde, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Electronic_Route_Map_of_Shmetro_Line_10.jpg
+- Concorde passenger cabin.jpg by dschwen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Concorde_passenger_cabin.jpg
+- 'F-BVFB' Air France Concorde supersonic passenger jet, Technik Museum Sinsheim, Baden-Württemberg, Germany (Ank Kumar, Infosys Limited) 04.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%27F-BVFB%27_Air_France_Concorde_supersonic_passenger_jet,_Technik_Museum_Sinsheim,_Baden-W%C3%BCrttemberg,_Germany_(Ank_Kumar,_Infosys_Limited)_04.jpg
+- Air France Concorde at CDG.jpg by Mathious Ier, CC0, https://commons.wikimedia.org/wiki/File:Air_France_Concorde_at_CDG.jpg
+- Air France Concorde (2) at cdg.jpg by Mathious Ier, CC0, https://commons.wikimedia.org/wiki/File:Air_France_Concorde_(2)_at_cdg.jpg
+- Concorde Crash site & memorial (27818400257).jpg by Mike McBey, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Concorde_Crash_site_%26_memorial_(27818400257).jpg
+- Air France Concorde 101 F-BTSD at Gatwick 2.4.1996.jpg by Alex Rankin, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Air_France_Concorde_101_F-BTSD_at_Gatwick_2.4.1996.jpg
+- Air France Concorde 'F-BTSD' at Dublin airport April 3 1996.jpg by Jonathan McDonnell, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Air_France_Concorde_%27F-BTSD%27_at_Dublin_airport_April_3_1996.jpg
+- Rolls Royce-Snecma Olympus 593.jpg by Isra036, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Rolls_Royce-Snecma_Olympus_593.jpg
+- Concorde, Brooklands Museum - geograph.org.uk - 5486525.jpg by Oast House Archive, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Concorde,_Brooklands_Museum_-_geograph.org.uk_-_5486525.jpg
+- Concorde brake discs.jpg by Kurkoe, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Concorde_brake_discs.jpg
+- Concorde undercarriage Speyer 02 with disc brakes.JPG by Kozuch, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Concorde_undercarriage_Speyer_02_with_disc_brakes.JPG
+- 02.03.69 1er vol de Concorde avec Jacqueline Auriol (1969) - 53Fi1927.jpg by André Cros, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:02.03.69_1er_vol_de_Concorde_avec_Jacqueline_Auriol_(1969)_-_53Fi1927.jpg
+- A320-Carbon-Brake Le Bourget 20110624.jpg by Tieum512, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:A320-Carbon-Brake_Le_Bourget_20110624.jpg
+- Boeing 737 Next-Generation Carbon Brake PAS 2013.jpg by Julian Herzog (Website), CC BY 4.0, https://commons.wikimedia.org/wiki/File:Boeing_737_Next-Generation_Carbon_Brake_PAS_2013.jpg
+- Museum für Fotografie Paris, Place de la Concorde 2285039 5219627.jpg by UnknownUnknown, Public domain, https://commons.wikimedia.org/wiki/File:Museum_f%C3%BCr_Fotografie_Paris,_Place_de_la_Concorde_2285039_5219627.jpg
+- Paris erwacht! – Hittorffs Erfindung der Place de la Concorde-1479.jpg by Raimond Spekking, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Paris_erwacht!_%E2%80%93_Hittorffs_Erfindung_der_Place_de_la_Concorde-1479.jpg
+- Hotel Le Concorde at sunset in Quebec City.jpg by Wilfredor, CC0, https://commons.wikimedia.org/wiki/File:Hotel_Le_Concorde_at_sunset_in_Quebec_City.jpg
+- Sunset Hôtel Le Concorde.jpg by Wilfredor, CC0, https://commons.wikimedia.org/wiki/File:Sunset_H%C3%B4tel_Le_Concorde.jpg
+- Place de la Concorde at Sunset 2.jpg by DiscoA340, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Place_de_la_Concorde_at_Sunset_2.jpg
+- Hotel Le Concorde silhouetted at sunset in Quebec City.jpg by Wilfredor, CC0, https://commons.wikimedia.org/wiki/File:Hotel_Le_Concorde_silhouetted_at_sunset_in_Quebec_City.jpg
+- A Sunset In Place De La Concorde (62803327).jpeg by Mvlogs96, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:A_Sunset_In_Place_De_La_Concorde_(62803327).jpeg
+- Hôtel Le Concorde at sunset, Quebec City.jpg by Wilfredor, CC0, https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Le_Concorde_at_sunset,_Quebec_City.jpg
+- 'F-BVFB' Air France Concorde supersonic passenger jet, Technik Museum Sinsheim, Baden-Württemberg, Germany (Ank Kumar, Infosys Limited) 06.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%27F-BVFB%27_Air_France_Concorde_supersonic_passenger_jet,_Technik_Museum_Sinsheim,_Baden-W%C3%BCrttemberg,_Germany_(Ank_Kumar,_Infosys_Limited)_06.jpg
+- 'F-BVFB' Air France Concorde supersonic passenger jet, Technik Museum Sinsheim, Baden-Württemberg, Germany (Ank Kumar, Infosys Limited) 03.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%27F-BVFB%27_Air_France_Concorde_supersonic_passenger_jet,_Technik_Museum_Sinsheim,_Baden-W%C3%BCrttemberg,_Germany_(Ank_Kumar,_Infosys_Limited)_03.jpg
+- Concorde at Brooklands Museum - geograph.org.uk - 6339005.jpg by Mark Percy, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Concorde_at_Brooklands_Museum_-_geograph.org.uk_-_6339005.jpg
+- Brooklands Museum Concorde - geograph.org.uk - 1496464.jpg by Martyn Davies, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Brooklands_Museum_Concorde_-_geograph.org.uk_-_1496464.jpg
