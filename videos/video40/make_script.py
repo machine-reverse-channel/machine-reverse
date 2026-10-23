@@ -121,6 +121,16 @@ sc("""An icebreaker does not fight the ice with sharpness, but with weight, shap
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ('File:Icebreaker Stephan Jantzen in Stadthafen Rostock 2010-12-28.jpg', 0.17, 0.58),
+    2: ('File:Aurora Australis drydock Woolloomooloo.jpg', 0.45, 0.68),
+    3: ('File:USCGC Polar Star (WAGB 10) stern.jpg', 0.5, 0.4),
+    4: ('File:Finnish icebreaker Polaris (24 March 2017).jpg', 0.5, 0.65),
+    5: ('File:Ship, ice breaking, winter, river, shore Fortepan 75138.jpg', 0.5, 0.55),
+    6: ('File:Jääkarhu propellers by P Smit.jpg', 0.5, 0.5),
+    7: ('File:Russian Nuclear Icebreaker Arktika.jpg', 0.6, 0.45),
+    8: ('File:Polaris bollardpull 2016-04-26.jpg', 0.65, 0.6),
+    9: ('File:Icebreaker SHIRASE - しらせ- the stern of shirase.jpg', 0.5, 0.6),
+    10: ('File:Oblique icebreaker Baltika (29 March 2015).jpg', 0.55, 0.63),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
