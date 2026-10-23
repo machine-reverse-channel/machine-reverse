@@ -1,0 +1,227 @@
+{
+ "id": "video29",
+ "title": "Why Do Supercar Doors Open Upward?",
+ "length_scale": 1.6,
+ "scenes": [
+  {
+   "text": "Your car door opens sideways, like a door in a house. A Lamborghini door goes straight up. A Mercedes from the nineteen fifties opens like the wings of a seagull. A McLaren door swings up and out like a butterfly. They look like showing off, but most of them started as an engineering problem. Today, ten parts of upward opening doors, and why each one exists.",
+   "query": "Lamborghini Countach doors open",
+   "caption": "WHY DO THEY OPEN UP?",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "The basic problem is simple. A supercar is low, wide and stiff. The structure that makes it fast, a strong frame running along the sides of the cabin, also gets in the way of a normal door. And a long door that swings sideways needs a lot of space next to the car. Designers have found many different answers to that one problem.",
+   "query": "supercar doors open",
+   "caption": "LOW, WIDE AND STIFF"
+  },
+  {
+   "text": "As always, every fact here comes from a named source, the car makers and automotive references, all listed in the description. Let's start with the most famous one.",
+   "query": "Lamborghini scissor doors",
+   "caption": "WHY DOES THIS EXIST?"
+  },
+  {
+   "text": "Why does a Lamborghini door go straight up? It started with the Countach in the nineteen seventies. The car was very wide and very low, with a wide structure along its sides. A normal door would have been long and heavy, and it would need a lot of space beside the car to open. A door that rotates upward, on a hinge at the front, needs almost no space beside the car at all.",
+   "query": "Lamborghini Countach",
+   "caption": "WHY DOES THIS DOOR GO STRAIGHT UP?",
+   "arrow": true,
+   "chapter": "1. The scissor doors",
+   "short": "Why Do Lamborghini Doors Go Straight Up?",
+   "cuts": 3
+  },
+  {
+   "text": "The idea came from the designer Marcello Gandini, who first used it on a concept car, the Alfa Romeo Carabo, in nineteen sixty-eight. On the Countach it also had a practical side. The rear view was so poor that drivers often reversed by opening the door, sitting on the sill and looking back over the car.",
+   "query": "Alfa Romeo Carabo",
+   "caption": "BORN ON A CONCEPT CAR"
+  },
+  {
+   "text": "After the Countach, scissor doors became a Lamborghini signature. The Diablo, the Murcielago, the Aventador and the Revuelto all have them. Today they are partly tradition, but they still solve the original problem. You can open a Lamborghini in a narrow parking space where a long, normal door would hit the car next to it.",
+   "query": "Lamborghini Aventador doors",
+   "caption": "A SIGNATURE"
+  },
+  {
+   "text": "Why does the Mercedes three hundred S L have doors that open like wings? Because of its frame. The car was built on a light frame made of thin steel tubes, called a space frame. To make it stiff, the tubes ran high along the sides of the car, right where a normal door would be. There was simply no room for a normal door.",
+   "query": "Mercedes-Benz 300 SL gullwing",
+   "caption": "WHY DOES THIS DOOR OPEN LIKE A WING?",
+   "arrow": true,
+   "chapter": "2. The gullwing doors",
+   "short": "Why Does the Mercedes 300 SL Have Gullwing Doors?",
+   "cuts": 3
+  },
+  {
+   "text": "The solution was to hinge the doors on the roof. When they open, they lift up and reveal a high, wide sill that the driver has to climb over. With both doors open, the car looks like a seagull with its wings raised, which is where the name gullwing comes from. The road car arrived in nineteen fifty-four, based on a racing car.",
+   "query": "Mercedes-Benz 300 SL space frame",
+   "caption": "NO ROOM FOR A NORMAL DOOR"
+  },
+  {
+   "text": "Getting in was not easy. The steering wheel could even tilt out of the way, to help the driver climb in. But the stiff, light frame made the car fast, and the doors made it famous. More than fifty years later, Mercedes brought the gullwing back on the S L S A M G, as a tribute to the original.",
+   "query": "Mercedes-Benz SLS AMG doors",
+   "caption": "A FAMOUS SOLUTION"
+  },
+  {
+   "text": "Why do McLaren doors swing up and out, like butterfly wings? Because they carry part of the roof with them. The hinge sits on the windscreen pillar, and the door rotates up and forward and outward at the same time. When it opens, it takes a piece of the roof along, leaving a big opening for the driver to step in.",
+   "query": "McLaren F1 doors open",
+   "caption": "WHY DOES THIS DOOR SWING UP AND OUT?",
+   "arrow": true,
+   "chapter": "3. The butterfly doors",
+   "short": "Why Do McLaren Doors Open Like Butterfly Wings?",
+   "cuts": 3
+  },
+  {
+   "text": "The McLaren F one road car of the nineteen nineties needed this. It had the driver in the centre, with a passenger seat on each side, slightly behind. To reach the middle seat, you need a huge opening. Butterfly doors that lift part of the roof make it possible to get in and slide across.",
+   "query": "McLaren F1 interior",
+   "caption": "THE DRIVER SITS IN THE MIDDLE"
+  },
+  {
+   "text": "Modern McLarens still use the idea. The carbon fibre cabin has high, strong sills, and the low roof would hit your head with a normal door. Opening upward and outward gives more room for your head and your legs, and it needs less space beside the car than a long normal door.",
+   "query": "McLaren 720S doors",
+   "caption": "ROOM FOR YOUR HEAD"
+  },
+  {
+   "text": "Why does a Koenigsegg door rotate and swing forward at the same time? The company calls it the dihedral synchro helix door. As it opens, the door moves outward and then turns ninety degrees, standing upright next to the front of the car. It sounds complicated, but it solves two problems at once.",
+   "query": "Koenigsegg doors open",
+   "caption": "WHY DOES THIS DOOR TURN SIDEWAYS?",
+   "arrow": true,
+   "chapter": "4. The rotating doors",
+   "short": "Why Do Koenigsegg Doors Rotate Forward?",
+   "cuts": 3
+  },
+  {
+   "text": "First, the door moves out of the way of the high sill, so the opening is large. Second, it ends up standing beside the front wheel, not above the car and not far to the side. That means it needs little space around the car, and it does not hit a low ceiling in a garage or a high kerb beside the road.",
+   "query": "Koenigsegg Agera doors",
+   "caption": "OUT OF THE WAY"
+  },
+  {
+   "text": "The mechanism is a precise piece of engineering, with a hinge that guides the door along a curved path. Koenigsegg uses it on all its cars, from the early models to the Jesko and the Gemera. It shows that even a door can become a showcase of the same engineering that goes into the engine.",
+   "query": "Koenigsegg Jesko",
+   "caption": "A SHOWCASE"
+  },
+  {
+   "text": "Why does the rear door of a Tesla Model X have two hinges? It is called a falcon wing door. A simple gullwing door on a tall car would swing far out to the side as it lifts. The falcon wing door has a hinge in the roof and a second hinge in the middle, so it folds as it rises, staying close to the car.",
+   "query": "Tesla Model X falcon wing doors",
+   "caption": "WHY DOES THIS DOOR HAVE TWO HINGES?",
+   "arrow": true,
+   "chapter": "5. The falcon wing doors",
+   "short": "Why Do Tesla Model X Doors Have Two Hinges?",
+   "cuts": 3
+  },
+  {
+   "text": "According to Tesla, the door needs only about thirty centimetres of space beside the car to open. That makes it easier to get into the rear seats in a tight parking space, and it gives a tall opening, so you do not have to bend down to put a child in a seat. Sensors check for obstacles as it opens.",
+   "query": "Tesla Model X doors open",
+   "caption": "THIRTY CENTIMETRES"
+  },
+  {
+   "text": "It is not a supercar, but it uses the same idea. When there is little space beside the car, go up. The price is complexity. Two hinges, motors and sensors are more expensive and can go wrong more easily than a simple sliding door, which is why most family cars still use one.",
+   "query": "Tesla Model X",
+   "caption": "GO UP, NOT OUT"
+  },
+  {
+   "text": "Why do you have to climb over such a high sill to get into a supercar? Because the sill is the backbone of the car. Most supercars are built around a tub, a stiff shell made of carbon fibre or aluminium. The thick sides of the tub run along the cabin, under the doors, and carry a lot of the car's strength.",
+   "query": "carbon fibre monocoque supercar",
+   "caption": "WHY IS THIS STEP SO HIGH?",
+   "arrow": true,
+   "chapter": "6. The high sill",
+   "short": "Why Do Supercars Have Such a High Sill?",
+   "cuts": 3
+  },
+  {
+   "text": "A stiff car handles better, because the suspension can do its job without the body twisting. And a tall side structure protects the people inside in a side crash. Making the sill lower would mean making it weaker, or heavier. So the engineers keep it high, and design the door around it.",
+   "query": "McLaren MonoCell",
+   "caption": "THE BACKBONE"
+  },
+  {
+   "text": "That is the real reason so many supercar doors open upward. A door that opens up takes part of the roof or the top of the sill with it, and makes the opening bigger without cutting into the strong structure below. The unusual door is the price of a stiff, light car.",
+   "query": "supercar door sill",
+   "caption": "THE REAL REASON"
+  },
+  {
+   "text": "Why doesn't a heavy door that opens upward fall on your head? Because of the gas struts. A gas strut is a cylinder filled with gas under pressure. When the door opens, the gas pushes a rod out, and that push holds the weight of the door. It is the same part that holds up the boot lid on a normal car.",
+   "query": "gas strut",
+   "caption": "WHY DOESN'T THIS HEAVY DOOR FALL?",
+   "arrow": true,
+   "chapter": "7. The gas struts",
+   "short": "Why Don't Supercar Doors Fall Down?",
+   "cuts": 3
+  },
+  {
+   "text": "On a door that opens sideways, gravity does not matter much. On a door that opens upward, the whole weight of the door is lifted every time. The struts are chosen so the force nearly balances that weight. The door feels light, rises with a small push, and stays open without a latch.",
+   "query": "Lamborghini door hinge",
+   "caption": "BALANCING THE WEIGHT"
+  },
+  {
+   "text": "The gas inside the struts is affected by temperature, and the seals wear out over time. On a cold day, a door may not rise as easily. On an old car, a worn strut can let the door drift down. That is why owners of cars with upward doors replace the struts as normal maintenance.",
+   "query": "gas spring",
+   "caption": "WEAR AND COLD"
+  },
+  {
+   "text": "Why does the door of a Ford G T cut into the roof? Because the car is so low. The original Ford G T forty, which won Le Mans in the nineteen sixties, was only about forty inches tall, around one metre. That is where its name comes from. With a roof that low, a normal door would leave almost no opening for the driver's head.",
+   "query": "Ford GT40 doors",
+   "caption": "WHY DOES THIS DOOR CUT INTO THE ROOF?",
+   "arrow": true,
+   "chapter": "8. The roof cut",
+   "short": "Why Do Ford GT Doors Cut Into the Roof?",
+   "cuts": 3
+  },
+  {
+   "text": "So the door was extended into the roof. When it opens, it takes a large piece of the roof with it, and the driver can step in and lower themselves into the seat. In racing, this mattered even more, because drivers wear helmets and must get in and out quickly during driver changes.",
+   "query": "Ford GT40",
+   "caption": "ONE METRE TALL"
+  },
+  {
+   "text": "The modern Ford G T cars kept the idea. Many low race cars and supercars use doors that cut deep into the roof. It is the same lesson as the gullwing, approached from the top instead of the side. When the car is low, the door needs to borrow space from the roof.",
+   "query": "Ford GT 2017 doors",
+   "caption": "BORROW FROM THE ROOF"
+  },
+  {
+   "text": "Why do the gullwing doors of the DeLorean have twisted metal bars in the roof? To lift heavy doors. The DeLorean was covered in stainless steel panels, which made the doors heavy. Gas struts alone could not lift them comfortably. So each door also has a torsion bar, a steel bar that is twisted when the door closes, and untwists to help lift it.",
+   "query": "DeLorean DMC-12 doors open",
+   "caption": "WHY DOES THIS DOOR HAVE A TWISTED BAR?",
+   "arrow": true,
+   "chapter": "9. The torsion bars",
+   "short": "Why Do DeLorean Doors Have Torsion Bars?",
+   "cuts": 3
+  },
+  {
+   "text": "The torsion bars were made with help from the aerospace company Grumman and treated with extreme cold, a process that helps the steel hold its shape. The bar stores energy like a spring. Together with gas struts, it lets a heavy door rise with a light push and stay open.",
+   "query": "DeLorean DMC-12",
+   "caption": "A TWISTED SPRING"
+  },
+  {
+   "text": "Gullwing doors on a low car also need very little space beside the car to open. That is one reason the DeLorean became so memorable, along with its role in a famous time travel film. Behind the movie fame, the doors are a clever answer to a heavy problem.",
+   "query": "DeLorean",
+   "caption": "A CLEVER ANSWER"
+  },
+  {
+   "text": "What happens if a car with gullwing doors lands on its roof? The doors are hinged to the roof, so they cannot open. The people inside could be trapped. That is a real risk, and it is the most serious problem with doors that open upward.",
+   "query": "Mercedes-Benz SLS AMG gullwing",
+   "caption": "WHAT IF THIS CAR LANDS ON ITS ROOF?",
+   "arrow": true,
+   "chapter": "10. The rollover bolts",
+   "short": "Why Do Gullwing Doors Have Explosive Bolts?",
+   "cuts": 3
+  },
+  {
+   "text": "Mercedes solved it on the S L S A M G with small explosive charges in the door hinges. If sensors detect that the car has rolled over, the charges fire and separate the hinges. The doors can then be pushed out and removed, so the people inside can get out, or rescuers can reach them.",
+   "query": "Mercedes-Benz SLS AMG",
+   "caption": "SMALL CHARGES IN THE HINGES"
+  },
+  {
+   "text": "It is a good example of how every clever part creates a new problem that needs another clever part. The gullwing door solved the problem of the high frame. The explosive hinges solve the problem of the gullwing door. Engineering is often a chain of solutions.",
+   "query": "Mercedes-Benz SLS AMG roadster",
+   "caption": "A CHAIN OF SOLUTIONS"
+  },
+  {
+   "text": "So here are the ten. Scissor doors for wide, low cars. Gullwings for a frame with no room. Butterfly doors that carry part of the roof. Rotating doors that stay out of the way. Falcon wings for tight spaces. A high sill that is the car's backbone. Struts that hold the weight. Roofs cut for helmets. Twisted bars for heavy steel. And explosive bolts for the worst day.",
+   "query": "supercar doors",
+   "caption": "10 PARTS. 10 REASONS.",
+   "chapter": "The verdict",
+   "cuts": 6
+  },
+  {
+   "text": "A door that opens upward is not just showing off. It is the answer to a car that is low, wide and stiff. If you want more machines explained part by part, subscribe to Machine Reverse. And tell us in the comments which door you would want on your own car.",
+   "query": "Lamborghini night",
+   "caption": "SUBSCRIBE: MACHINE REVERSE",
+   "cuts": 4
+  }
+ ]
+}
