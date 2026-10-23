@@ -132,6 +132,17 @@ sc("""Next time you pass a construction site, look at the back of the bulldozer,
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Liebherr bulldozer-20240815-RM-171945.jpg", 0.88, 0.6),
+    2: ("File:Liebherr bulldozer-20240815-RM-171945.jpg", 0.9, 0.8),
+    3: ("File:CatD11T.jpg", 0.68, 0.4),
+    4: ("File:Cat D11 View 2.jpg", 0.25, 0.6),
+    5: ("File:Caterpillar track shingle.JPG", 0.5, 0.4),
+    6: ("File:Sd8n Big bulldozer.jpg", 0.27, 0.15),
+    7: ("File:CatD11T part.jpg", 0.55, 0.5),
+    8: ("File:Leading a Scraper Unit - DPLA - b327ad8ba9e71ee28d31460cab0814d1.jpg", 0.2, 0.65),
+    9: ("File:IDF-D9-Zachi-Evenor-001.jpg", 0.6, 0.3),
+    10: ("File:Landfill compactor.jpg", 0.45, 0.75),
+    11: ("File:Komatsu bulldozer pushing coal in Power plant Ljubljana (winter 2017).jpg", 0.3, 0.35),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None

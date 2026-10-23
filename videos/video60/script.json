@@ -24,10 +24,14 @@
    "text": "Why do bulldozers have a giant claw on the back? It is called a ripper. A blade can only push loose material. On hard, packed ground, frozen soil or soft rock, it just slides over the top. So the operator lowers the ripper into the ground and drives forward, and the claw tears the ground open, like a giant plow. Then the dozer turns around and pushes the broken material with its blade.",
    "query": "bulldozer ripper",
    "caption": "WHY DOES THIS BULLDOZER HAVE A CLAW?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.88,
+    "y": 0.6
+   },
    "chapter": "1. The claw on the back",
    "short": "Why Do Bulldozers Have a Claw on the Back?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Liebherr bulldozer-20240815-RM-171945.jpg"
   },
   {
    "text": "Ripping is often cheaper than blasting with explosives. In many quarries and mines, rock that is cracked or layered can be ripped instead of blown up, which is safer, quieter, and needs no drilling. A big dozer with a single shank ripper can break rock that would stop almost any other machine.",
@@ -43,10 +47,14 @@
    "text": "Why does the ripper have a small separate tip at its end? Because rock grinds steel away fast. The point that digs into the ground takes all the wear, and it can be worn down in hours in hard rock. So the shank, the long arm, is protected by a removable tip, and sometimes by a replaceable shield around it.",
    "query": "dozer ripper shank",
    "caption": "WHY DOES THIS CLAW HAVE A SEPARATE TIP?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.9,
+    "y": 0.8
+   },
    "chapter": "2. The replaceable tooth",
    "short": "Why Does a Bulldozer Claw Have a Removable Tip?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Liebherr bulldozer-20240815-RM-171945.jpg"
   },
   {
    "text": "When the tip wears out, a mechanic knocks out a pin and slides on a new one. It takes minutes instead of replacing the whole shank, which can weigh tonnes. The same idea is used on excavator buckets, with their rows of replaceable teeth.",
@@ -62,10 +70,14 @@
    "text": "Why do big Caterpillar dozers have tracks shaped like a triangle, instead of a flat oval? Because the drive gear, called the sprocket, is lifted high up, out of the dirt. Caterpillar introduced this elevated sprocket design in the late nineteen seventies. Before that, the sprocket sat low, at ground level, where it took every shock from the ground and was buried in mud and rock.",
    "query": "elevated sprocket bulldozer",
    "caption": "WHY IS THIS TRACK SHAPED LIKE A TRIANGLE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.68,
+    "y": 0.4
+   },
    "chapter": "3. The raised sprocket",
    "short": "Why Do Some Bulldozer Tracks Look Like Triangles?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:CatD11T.jpg"
   },
   {
    "text": "Raising it keeps the final drive, the gears that turn the sprocket, away from the worst impacts and the abrasive dirt. It also makes those parts modular, so they can be removed and replaced more easily. The lower part of the track stays long and flat on the ground, to keep the machine stable and pushing.",
@@ -81,10 +93,14 @@
    "text": "Why is a bulldozer blade curved instead of flat? Because a curved blade rolls the material. As the dozer pushes, the dirt rises up the curved face and tumbles forward, folding over itself. That rolling action moves the load ahead of the blade with less effort than scraping it as a flat pile.",
    "query": "bulldozer blade",
    "caption": "WHY IS THIS BLADE CURVED?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.25,
+    "y": 0.6
+   },
    "chapter": "4. The curved blade",
    "short": "Why Is a Bulldozer Blade Curved?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Cat D11 View 2.jpg"
   },
   {
    "text": "Blades come in different shapes for different jobs. A straight blade is good for leveling and grading. A U blade has big wings at the sides, so it can carry a large load over long distances without spilling it. A semi U blade is in between. The cutting edge at the bottom is a bolted on strip of hardened steel, replaced when it wears down.",
@@ -100,10 +116,14 @@
    "text": "Why do bulldozers use tracks instead of wheels? Because pushing is all about grip. A dozer can only push as hard as its tracks can grip the ground before they slip. Tracks put a long strip of steel on the ground, with grousers, little ridges that dig in. That gives far more traction on soft or loose ground than tires could.",
    "query": "bulldozer track",
    "caption": "WHY DO BULLDOZERS USE TRACKS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.4
+   },
    "chapter": "5. The steel tracks",
    "short": "Why Do Bulldozers Use Tracks Instead of Wheels?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Caterpillar track shingle.JPG"
   },
   {
    "text": "Tracks also spread the weight. A heavy dozer can drive across soft ground where a truck would sink. Special swamp dozers have extra wide tracks, so their ground pressure is very low, and they can work in marshes and wetlands.",
@@ -119,10 +139,14 @@
    "text": "Why is the bulldozer operator's cab built inside a strong steel frame? It is called a rollover protective structure, or ROPS. Dozers work on slopes, at the edge of cliffs and on loose fill. If one rolls over, the cab must not collapse onto the operator. The frame is tested to carry the machine's weight and absorb the energy of a rollover.",
    "query": "bulldozer ROPS",
    "caption": "WHY IS THE CAB IN A STEEL CAGE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.27,
+    "y": 0.15
+   },
    "chapter": "6. The cage around the operator",
    "short": "Why Is a Bulldozer Cab Inside a Steel Cage?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Sd8n Big bulldozer.jpg"
   },
   {
    "text": "It only works if the operator stays inside, so a seat belt is essential. Studies of rollover accidents found that operators who wore seat belts in a ROPS cab usually survived, while many who were thrown out or tried to jump did not.",
@@ -138,10 +162,14 @@
    "text": "Why would anyone build a bulldozer weighing about a hundred and fifty tonnes? Because in some mines, a bigger dozer moves material more cheaply. The Komatsu D five seven five A is one of the largest production bulldozers ever made. Its super dozer version has a blade more than seven meters wide that can push about seventy cubic meters of material at once.",
    "query": "Komatsu D575A",
    "caption": "WHY IS THIS BULLDOZER SO HUGE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.5
+   },
    "chapter": "7. The biggest bulldozer",
    "short": "Why Was the World's Biggest Bulldozer Built?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:CatD11T part.jpg"
   },
   {
    "text": "The engine makes more than a thousand horsepower. In big coal mines, the giant dozer can push huge amounts of overburden, the rock and soil above the coal, down a slope, straight into the mined out area. That can replace trucks for some jobs.",
@@ -157,10 +185,14 @@
    "text": "Why do you sometimes see a bulldozer pushing another machine from behind? The other machine is a scraper, a big wheeled earthmover that slices a thin layer of soil into its bowl. Scrapers are fast on the road, but loading is hard work. So a dozer pushes the scraper from behind while it loads, giving it the extra force it needs to fill quickly.",
    "query": "bulldozer pushing scraper",
    "caption": "WHY IS THIS BULLDOZER PUSHING A SCRAPER?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.2,
+    "y": 0.65
+   },
    "chapter": "8. The bulldozer pushing another machine",
    "short": "Why Do Bulldozers Push Other Machines?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Leading a Scraper Unit - DPLA - b327ad8ba9e71ee28d31460cab0814d1.jpg"
   },
   {
    "text": "The dozer uses a special reinforced plate, or push block, so it does not damage its blade or the scraper. One pusher dozer can serve several scrapers, loading them one after another. It is a choreography of machines on big road and airport projects.",
@@ -176,10 +208,14 @@
    "text": "Why do some armies use bulldozers covered in armor? Because engineers need to clear roads, fill trenches, remove obstacles and build defenses, often under fire. The Israeli army uses heavily armored versions of the Caterpillar D nine, with bulletproof glass, armor plates and even cage armor against rockets.",
    "query": "armored bulldozer",
    "caption": "WHY DOES THIS BULLDOZER HAVE ARMOR?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.6,
+    "y": 0.3
+   },
    "chapter": "9. The armored bulldozer",
    "short": "Why Do Armies Use Armored Bulldozers?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:IDF-D9-Zachi-Evenor-001.jpg"
   },
   {
    "text": "Armies around the world use armored dozers to clear the path for other vehicles, push away roadside bombs, and build protective walls of earth. The armor can add many tonnes, but the D nine is heavy and powerful enough to carry it.",
@@ -195,10 +231,14 @@
    "text": "Why do bulldozers working in landfills look different? Because trash is a terrible surface to drive on. It is soft, full of sharp metal and wire, and packed with things that can wrap around rollers. Landfill dozers get special guards around the undercarriage, sealed parts, and screens that keep trash out of the radiator.",
    "query": "bulldozer landfill",
    "caption": "WHY DOES THIS DOZER HAVE SPECIAL TRACKS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.75
+   },
    "chapter": "10. The landfill tracks",
    "short": "Why Do Landfill Bulldozers Have Special Tracks?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Landfill compactor.jpg"
   },
   {
    "text": "Their main job is to spread and compact the waste, crushing it into thin layers so the landfill holds more and settles less. Some landfills use compactors with steel wheels and big teeth, but tracked dozers are still used to push and spread the trash.",
@@ -214,10 +254,14 @@
    "text": "Why are bulldozers and so many construction machines yellow? Because yellow is easy to see. In late nineteen thirty one, Caterpillar switched its machines from gray to a bright color it called Highway Yellow. Machines were starting to work on roads with traffic, and a bright color made them more visible to drivers and to workers on site.",
    "query": "Caterpillar D9",
    "caption": "WHY ARE BULLDOZERS YELLOW?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.3,
+    "y": 0.35
+   },
    "chapter": "11. The yellow paint",
    "short": "Why Are Bulldozers Yellow?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Komatsu bulldozer pushing coal in Power plant Ljubljana (winter 2017).jpg"
   },
   {
    "text": "It also stands out against dirt, rock and forest, at dawn, at dusk and in dust. Other makers followed with yellow or orange, and today the color is so common that people call it construction yellow. Some brands chose orange, red or green to stand out from Caterpillar, but bright colors won everywhere.",
