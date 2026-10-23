@@ -121,6 +121,16 @@ sc("""A Bugatti is what happens when engineers are told that the impossible is t
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Bugatti Veyron EB 16.4 (2008) (52570116555).jpg", 0.63, 0.72),
+    2: ("File:Bugatti W16, Berlin (1X7A3942).jpg", 0.35, 0.3),
+    3: ("File:Twin Turbos on one side of a Bugatti W16 engine (53249394775).jpg", 0.3, 0.45),
+    4: ("File:Bugatti Veyron Engine 1X7A7930.jpg", 0.2, 0.3),
+    5: ("File:Bugatti Veyron EB 16.4 (2008) (52569212082).jpg", 0.27, 0.27),
+    6: ("File:Bugatti-veyron-1zu18.jpg", 0.62, 0.45),
+    7: ("File:Bugatti Veyron EB 16.4 Grand Sport (2010) (52129289255).jpg", 0.4, 0.5),
+    8: ("File:Bugatti Chiron, Auto 2025, Zurich (20251029-P1074241).jpg", 0.2, 0.45),
+    9: ("File:W16 Engine Bugatti Chiron-P1010490.jpg", 0.65, 0.55),
+    10: ("File:2020 Bugatti Chiron Super Sport 300+ Rear.jpg", 0.1, 0.55),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
