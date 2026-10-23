@@ -1,0 +1,1567 @@
+1
+00:00:00,000 --> 00:00:02,159
+Every time Concorde landed,
+
+2
+00:00:02,159 --> 00:00:04,159
+its whole nose bent down,
+
+3
+00:00:04,159 --> 00:00:06,559
+like a bird lowering its beak.
+
+4
+00:00:06,739 --> 00:00:08,213
+It looked strange,
+
+5
+00:00:08,213 --> 00:00:10,834
+almost alive, and it was not for
+
+6
+00:00:10,834 --> 00:00:11,244
+show.
+
+7
+00:00:11,424 --> 00:00:12,632
+Without that bend,
+
+8
+00:00:12,632 --> 00:00:14,913
+the pilots could not have seen the
+
+9
+00:00:14,913 --> 00:00:15,383
+runway.
+
+10
+00:00:15,563 --> 00:00:18,340
+Concorde was full of parts like that,
+
+11
+00:00:18,340 --> 00:00:20,741
+a glass shield over the windows,
+
+12
+00:00:20,741 --> 00:00:22,467
+a wheel under the tail,
+
+13
+00:00:22,467 --> 00:00:24,944
+fuel that moved around in flight.
+
+14
+00:00:25,124 --> 00:00:28,688
+Today, ten parts of the fastest airliner
+
+15
+00:00:28,688 --> 00:00:32,610
+ever to carry passengers in regular service,
+
+16
+00:00:32,610 --> 00:00:34,748
+and why each one exists.
+
+17
+00:00:35,099 --> 00:00:38,188
+Concorde first flew on the second of
+
+18
+00:00:38,188 --> 00:00:40,419
+March nineteen sixty-nine,
+
+19
+00:00:40,419 --> 00:00:44,538
+entered airline service in nineteen seventy-six,
+
+20
+00:00:44,538 --> 00:00:47,799
+and flew passengers at twice the speed
+
+21
+00:00:47,799 --> 00:00:51,146
+of sound, at about sixty thousand feet,
+
+22
+00:00:51,146 --> 00:00:53,291
+until two thousand three.
+
+23
+00:00:53,471 --> 00:00:54,676
+At that speed,
+
+24
+00:00:54,676 --> 00:00:59,149
+almost every normal airliner solution stops working.
+
+25
+00:00:59,329 --> 00:01:00,341
+Air gets hot,
+
+26
+00:01:00,341 --> 00:01:01,820
+the airplane grows,
+
+27
+00:01:01,820 --> 00:01:04,623
+and even the windows have to change.
+
+28
+00:01:04,803 --> 00:01:07,839
+So the engineers had to invent new
+
+29
+00:01:07,839 --> 00:01:08,286
+ones.
+
+30
+00:01:08,636 --> 00:01:11,730
+As always, every fact here comes from
+
+31
+00:01:11,730 --> 00:01:12,985
+a named source,
+
+32
+00:01:12,985 --> 00:01:17,167
+museums, aviation references and official reports,
+
+33
+00:01:17,167 --> 00:01:19,677
+all listed in the description.
+
+34
+00:01:19,857 --> 00:01:22,402
+Let's start with the most famous part
+
+35
+00:01:22,402 --> 00:01:23,572
+of all, the nose.
+
+36
+00:01:23,921 --> 00:01:26,824
+Why did Concorde's nose bend down?
+
+37
+00:01:27,004 --> 00:01:28,699
+Because of its wing.
+
+38
+00:01:28,879 --> 00:01:31,622
+A delta wing like Concorde's has no
+
+39
+00:01:31,622 --> 00:01:33,973
+flaps, so to fly slowly it has
+
+40
+00:01:33,973 --> 00:01:36,402
+to point its nose high into the
+
+41
+00:01:36,402 --> 00:01:36,716
+air.
+
+42
+00:01:36,896 --> 00:01:39,703
+On landing, Concorde came in with its
+
+43
+00:01:39,703 --> 00:01:41,069
+nose so high that,
+
+44
+00:01:41,069 --> 00:01:42,663
+with a straight nose,
+
+45
+00:01:42,663 --> 00:01:45,394
+the pilots would have seen only sky.
+
+46
+00:01:45,574 --> 00:01:47,583
+So the whole nose was hinged.
+
+47
+00:01:47,763 --> 00:01:50,546
+It drooped to about five degrees for
+
+48
+00:01:50,546 --> 00:01:51,861
+takeoff and taxi,
+
+49
+00:01:51,861 --> 00:01:54,412
+and twelve and a half degrees for
+
+50
+00:01:54,412 --> 00:01:55,031
+landing.
+
+51
+00:01:55,380 --> 00:01:58,201
+Why not just give Concorde a short,
+
+52
+00:01:58,201 --> 00:02:00,942
+round nose like a normal airliner?
+
+53
+00:02:01,122 --> 00:02:04,036
+Because at twice the speed of sound,
+
+54
+00:02:04,036 --> 00:02:06,627
+a blunt nose makes a huge amount
+
+55
+00:02:06,627 --> 00:02:07,275
+of drag.
+
+56
+00:02:07,455 --> 00:02:10,684
+A supersonic airplane needs a long,
+
+57
+00:02:10,684 --> 00:02:12,529
+sharp, pointed nose.
+
+58
+00:02:12,709 --> 00:02:14,742
+That is perfect at Mach two,
+
+59
+00:02:14,742 --> 00:02:17,283
+and terrible for seeing the runway.
+
+60
+00:02:17,463 --> 00:02:20,289
+The droop nose was the compromise,
+
+61
+00:02:20,289 --> 00:02:21,703
+sharp in the sky,
+
+62
+00:02:21,703 --> 00:02:24,197
+and bent down near the ground.
+
+63
+00:02:24,546 --> 00:02:27,037
+The nose moved with hydraulic power,
+
+64
+00:02:27,037 --> 00:02:29,597
+controlled by a lever in the cockpit.
+
+65
+00:02:29,777 --> 00:02:32,412
+And the engineers planned for failure.
+
+66
+00:02:32,592 --> 00:02:35,725
+If the hydraulics or the electrics failed,
+
+67
+00:02:35,725 --> 00:02:38,409
+the locks could be released by hand,
+
+68
+00:02:38,409 --> 00:02:40,721
+and the nose would fall to five
+
+69
+00:02:40,721 --> 00:02:43,332
+degrees by gravity and the airflow.
+
+70
+00:02:43,512 --> 00:02:46,159
+A part this important could never be
+
+71
+00:02:46,159 --> 00:02:48,585
+allowed to get stuck in the wrong
+
+72
+00:02:48,585 --> 00:02:49,247
+position.
+
+73
+00:02:49,597 --> 00:02:52,438
+Why did Concorde have a second windshield
+
+74
+00:02:52,438 --> 00:02:54,240
+in front of the first one?
+
+75
+00:02:54,420 --> 00:02:56,394
+It is called the visor.
+
+76
+00:02:56,574 --> 00:02:59,096
+In cruise, it slid up over the
+
+77
+00:02:59,096 --> 00:03:02,207
+real windshield and made the nose one
+
+78
+00:03:02,207 --> 00:03:03,888
+smooth, sharp shape.
+
+79
+00:03:04,068 --> 00:03:06,906
+It protected the windshield from heat and
+
+80
+00:03:06,906 --> 00:03:08,636
+air pressure at Mach two,
+
+81
+00:03:08,636 --> 00:03:11,058
+and it made the cockpit very quiet.
+
+82
+00:03:11,238 --> 00:03:13,836
+Pilots said that the first time they
+
+83
+00:03:13,836 --> 00:03:16,651
+raised it, they thought the engines had
+
+84
+00:03:16,651 --> 00:03:17,228
+stopped.
+
+85
+00:03:17,579 --> 00:03:20,532
+The first prototypes had a metal visor
+
+86
+00:03:20,532 --> 00:03:23,175
+with tiny windows and a periscope.
+
+87
+00:03:23,355 --> 00:03:25,903
+One test pilot said that flying it
+
+88
+00:03:25,903 --> 00:03:28,602
+was like flying inside a letter box.
+
+89
+00:03:28,782 --> 00:03:33,379
+The American Federal Aviation Administration wanted better
+
+90
+00:03:33,379 --> 00:03:36,866
+forward vision, so the engineers developed a
+
+91
+00:03:36,866 --> 00:03:39,957
+glass visor that could survive the heat
+
+92
+00:03:39,957 --> 00:03:42,018
+and the force of Mach two.
+
+93
+00:03:42,198 --> 00:03:44,117
+It was about one and a half
+
+94
+00:03:44,117 --> 00:03:46,748
+inches thick, with a heated gold film
+
+95
+00:03:46,748 --> 00:03:47,956
+to keep it clear.
+
+96
+00:03:48,306 --> 00:03:50,849
+There was a clever safety lock too.
+
+97
+00:03:51,029 --> 00:03:52,438
+With the visor up,
+
+98
+00:03:52,438 --> 00:03:55,568
+the landing gear circuits were isolated,
+
+99
+00:03:55,568 --> 00:03:58,150
+so nobody could lower the gear at
+
+100
+00:03:58,150 --> 00:04:00,967
+twice the speed of sound by mistake.
+
+101
+00:04:01,147 --> 00:04:04,330
+Visor down and nose down meant slow
+
+102
+00:04:04,330 --> 00:04:04,967
+flight.
+
+103
+00:04:05,147 --> 00:04:07,718
+Visor up and nose up meant Mach
+
+104
+00:04:07,718 --> 00:04:08,049
+two.
+
+105
+00:04:08,229 --> 00:04:09,928
+Just by looking at the nose,
+
+106
+00:04:09,928 --> 00:04:12,293
+you could tell what Concorde was doing.
+
+107
+00:04:12,642 --> 00:04:15,928
+Why did Concorde's wing have no flaps?
+
+108
+00:04:16,108 --> 00:04:19,236
+Normal airliners have flaps and slats that
+
+109
+00:04:19,236 --> 00:04:21,693
+slide out to make the wing bigger
+
+110
+00:04:21,693 --> 00:04:22,586
+for landing.
+
+111
+00:04:22,766 --> 00:04:25,588
+Concorde's thin delta wing had none.
+
+112
+00:04:25,768 --> 00:04:27,768
+Instead, at high angles,
+
+113
+00:04:27,768 --> 00:04:30,435
+the sharp front edge of the wing
+
+114
+00:04:30,435 --> 00:04:33,852
+creates two huge spinning vortices of air
+
+115
+00:04:33,852 --> 00:04:35,102
+above the wing.
+
+116
+00:04:35,282 --> 00:04:37,802
+Those swirls create low pressure,
+
+117
+00:04:37,802 --> 00:04:40,552
+and that low pressure keeps the wing
+
+118
+00:04:40,552 --> 00:04:42,155
+lifting at low speed.
+
+119
+00:04:42,505 --> 00:04:44,597
+This is called vortex lift,
+
+120
+00:04:44,597 --> 00:04:46,766
+and on a humid day you could
+
+121
+00:04:46,766 --> 00:04:48,005
+actually see it,
+
+122
+00:04:48,005 --> 00:04:51,103
+as white swirls of condensation over the
+
+123
+00:04:51,103 --> 00:04:53,349
+wings on takeoff and landing.
+
+124
+00:04:53,529 --> 00:04:55,944
+The wing was not a simple triangle.
+
+125
+00:04:56,124 --> 00:04:57,836
+It had a gentle curve,
+
+126
+00:04:57,836 --> 00:04:59,471
+called an ogee shape,
+
+127
+00:04:59,471 --> 00:05:02,662
+refined over about five thousand hours of
+
+128
+00:05:02,662 --> 00:05:04,218
+wind tunnel testing,
+
+129
+00:05:04,218 --> 00:05:06,553
+so that one wing could work at
+
+130
+00:05:06,553 --> 00:05:09,043
+two hundred miles an hour and at
+
+131
+00:05:09,043 --> 00:05:11,612
+one thousand three hundred fifty.
+
+132
+00:05:11,961 --> 00:05:14,642
+The price of vortex lift is that
+
+133
+00:05:14,642 --> 00:05:16,234
+high nose up angle.
+
+134
+00:05:16,414 --> 00:05:18,589
+And that is the link between all
+
+135
+00:05:18,589 --> 00:05:20,628
+the first parts of this video.
+
+136
+00:05:20,808 --> 00:05:23,080
+The wing needs a high angle,
+
+137
+00:05:23,080 --> 00:05:25,108
+so the nose has to droop,
+
+138
+00:05:25,108 --> 00:05:27,136
+so the visor has to move.
+
+139
+00:05:27,316 --> 00:05:30,822
+One design decision created three moving parts.
+
+140
+00:05:31,002 --> 00:05:33,220
+That is how airplanes are built.
+
+141
+00:05:33,400 --> 00:05:36,279
+Every solution creates the next problem.
+
+142
+00:05:36,628 --> 00:05:38,901
+Why did Concorde have a small set
+
+143
+00:05:38,901 --> 00:05:40,622
+of wheels under its tail?
+
+144
+00:05:40,802 --> 00:05:43,055
+Because of that high angle again.
+
+145
+00:05:43,235 --> 00:05:46,316
+Concorde lifted off with its nose pointing
+
+146
+00:05:46,316 --> 00:05:48,224
+about eighteen degrees up,
+
+147
+00:05:48,224 --> 00:05:50,572
+far more than a normal airliner.
+
+148
+00:05:50,752 --> 00:05:52,271
+With such a long body,
+
+149
+00:05:52,271 --> 00:05:54,411
+a pilot pulling up a little too
+
+150
+00:05:54,411 --> 00:05:56,689
+much could scrape the tail on the
+
+151
+00:05:56,689 --> 00:05:57,172
+runway.
+
+152
+00:05:57,352 --> 00:05:59,704
+The tail wheels were there to touch
+
+153
+00:05:59,704 --> 00:06:01,787
+first and protect the airplane.
+
+154
+00:06:02,137 --> 00:06:03,752
+To reach that angle,
+
+155
+00:06:03,752 --> 00:06:07,302
+Concorde also needed very tall landing gear,
+
+156
+00:06:07,302 --> 00:06:09,724
+so the main legs were long and
+
+157
+00:06:09,724 --> 00:06:12,064
+had to fold into a thin wing.
+
+158
+00:06:12,244 --> 00:06:15,558
+The legs even shortened as they retracted,
+
+159
+00:06:15,558 --> 00:06:18,084
+to fit into the space available.
+
+160
+00:06:18,264 --> 00:06:21,459
+Takeoff speed was about two hundred fifty
+
+161
+00:06:21,459 --> 00:06:22,550
+miles an hour,
+
+162
+00:06:22,550 --> 00:06:26,368
+and landing speed about one hundred eighty-seven,
+
+163
+00:06:26,368 --> 00:06:29,096
+much faster than a normal airliner.
+
+164
+00:06:29,445 --> 00:06:31,718
+A tail bumper sounds like a small
+
+165
+00:06:31,718 --> 00:06:34,405
+detail, but a tailstrike can damage the
+
+166
+00:06:34,405 --> 00:06:37,298
+pressure bulkhead and the structure at the
+
+167
+00:06:37,298 --> 00:06:38,675
+back of an airliner.
+
+168
+00:06:38,855 --> 00:06:41,631
+On Concorde, with its long thin body
+
+169
+00:06:41,631 --> 00:06:42,942
+and steep angles,
+
+170
+00:06:42,942 --> 00:06:45,950
+the engineers decided it was simpler to
+
+171
+00:06:45,950 --> 00:06:48,495
+give the tail its own wheels than
+
+172
+00:06:48,495 --> 00:06:51,348
+to trust every takeoff to be perfect.
+
+173
+00:06:51,697 --> 00:06:55,439
+Why were Concorde's engine intakes so long
+
+174
+00:06:55,439 --> 00:06:56,864
+and rectangular?
+
+175
+00:06:57,044 --> 00:07:00,200
+Because a jet engine cannot swallow air
+
+176
+00:07:00,200 --> 00:07:02,466
+at twice the speed of sound.
+
+177
+00:07:02,646 --> 00:07:04,823
+The air must be slowed down to
+
+178
+00:07:04,823 --> 00:07:07,290
+below the speed of sound before it
+
+179
+00:07:07,290 --> 00:07:08,451
+reaches the fan.
+
+180
+00:07:08,631 --> 00:07:11,928
+Inside each intake there were movable ramps,
+
+181
+00:07:11,928 --> 00:07:14,925
+which created shock waves in exactly the
+
+182
+00:07:14,925 --> 00:07:17,772
+right places, slowing the air down and
+
+183
+00:07:17,772 --> 00:07:20,020
+squeezing it at the same time.
+
+184
+00:07:20,370 --> 00:07:22,662
+The ramps moved all the time,
+
+185
+00:07:22,662 --> 00:07:24,164
+depending on speed,
+
+186
+00:07:24,164 --> 00:07:26,139
+altitude and temperature,
+
+187
+00:07:26,139 --> 00:07:29,063
+and they were controlled by a digital
+
+188
+00:07:29,063 --> 00:07:29,775
+computer.
+
+189
+00:07:29,955 --> 00:07:32,519
+According to aviation historians,
+
+190
+00:07:32,519 --> 00:07:34,928
+it was the first time a digital
+
+191
+00:07:34,928 --> 00:07:38,424
+computer had full authority over an essential
+
+192
+00:07:38,424 --> 00:07:40,833
+system on a passenger airplane.
+
+193
+00:07:41,013 --> 00:07:41,924
+At Mach two,
+
+194
+00:07:41,924 --> 00:07:44,429
+the intake was doing a huge share
+
+195
+00:07:44,429 --> 00:07:47,085
+of the work of compressing the air.
+
+196
+00:07:47,435 --> 00:07:50,061
+If an engine failed at Mach two,
+
+197
+00:07:50,061 --> 00:07:52,850
+the intake had to react instantly,
+
+198
+00:07:52,850 --> 00:07:55,804
+or the shock waves could disturb the
+
+199
+00:07:55,804 --> 00:07:57,281
+engine next to it.
+
+200
+00:07:57,461 --> 00:08:00,224
+So spill doors opened and the ramps
+
+201
+00:08:00,224 --> 00:08:02,987
+moved fully to protect the airflow.
+
+202
+00:08:03,167 --> 00:08:06,039
+On Concorde, the engine was not just
+
+203
+00:08:06,039 --> 00:08:08,113
+the part that burned fuel.
+
+204
+00:08:08,293 --> 00:08:10,350
+The whole channel in front of it
+
+205
+00:08:10,350 --> 00:08:11,892
+was part of the machine.
+
+206
+00:08:12,241 --> 00:08:15,479
+Why did a passenger airliner have afterburners
+
+207
+00:08:15,479 --> 00:08:16,816
+like a fighter jet?
+
+208
+00:08:16,996 --> 00:08:20,309
+Afterburners spray extra fuel into the hot
+
+209
+00:08:20,309 --> 00:08:21,887
+exhaust and burn it,
+
+210
+00:08:21,887 --> 00:08:23,939
+for a big boost of thrust.
+
+211
+00:08:24,119 --> 00:08:28,283
+Concorde's four Rolls-Royce Olympus engines used them
+
+212
+00:08:28,283 --> 00:08:30,640
+only twice in a normal flight,
+
+213
+00:08:30,640 --> 00:08:33,469
+for takeoff, and to push through the
+
+214
+00:08:33,469 --> 00:08:36,926
+sound barrier, between about Mach zero point
+
+215
+00:08:36,926 --> 00:08:39,676
+nine five and Mach one point seven.
+
+216
+00:08:40,025 --> 00:08:42,432
+The sound barrier is where drag rises
+
+217
+00:08:42,432 --> 00:08:45,033
+the most, and Concorde needed extra push
+
+218
+00:08:45,033 --> 00:08:46,724
+to get through it quickly.
+
+219
+00:08:46,904 --> 00:08:49,229
+Once above Mach one point seven,
+
+220
+00:08:49,229 --> 00:08:51,772
+the afterburners were switched off,
+
+221
+00:08:51,772 --> 00:08:54,606
+and Concorde cruised at twice the speed
+
+222
+00:08:54,606 --> 00:08:56,204
+of sound without them.
+
+223
+00:08:56,384 --> 00:08:58,627
+That is called supercruise,
+
+224
+00:08:58,627 --> 00:09:02,282
+something very few airplanes have ever done,
+
+225
+00:09:02,282 --> 00:09:03,861
+even military ones.
+
+226
+00:09:04,210 --> 00:09:06,834
+Afterburners burn fuel very fast,
+
+227
+00:09:06,834 --> 00:09:09,457
+and Concorde was already thirsty,
+
+228
+00:09:09,457 --> 00:09:12,716
+using more than five thousand six hundred
+
+229
+00:09:12,716 --> 00:09:14,067
+gallons per hour.
+
+230
+00:09:14,247 --> 00:09:15,187
+That is why,
+
+231
+00:09:15,187 --> 00:09:16,830
+from London or Paris,
+
+232
+00:09:16,830 --> 00:09:19,492
+it could cross the Atlantic to New
+
+233
+00:09:19,492 --> 00:09:21,527
+York, but not the Pacific.
+
+234
+00:09:21,707 --> 00:09:24,869
+The fastest east to west crossing took
+
+235
+00:09:24,869 --> 00:09:27,198
+three hours and six minutes.
+
+236
+00:09:27,548 --> 00:09:30,264
+Why did Concorde pump its fuel from
+
+237
+00:09:30,264 --> 00:09:32,591
+one end of the airplane to the
+
+238
+00:09:32,591 --> 00:09:34,143
+other during flight?
+
+239
+00:09:34,323 --> 00:09:37,367
+Because when an airplane goes supersonic,
+
+240
+00:09:37,367 --> 00:09:40,040
+the point where the wing's lift acts
+
+241
+00:09:40,040 --> 00:09:42,861
+moves backward, by about two meters on
+
+242
+00:09:42,861 --> 00:09:43,530
+Concorde.
+
+243
+00:09:43,710 --> 00:09:45,584
+That would make the nose want to
+
+244
+00:09:45,584 --> 00:09:46,229
+pitch down.
+
+245
+00:09:46,409 --> 00:09:48,748
+Normally you fix that with the tail
+
+246
+00:09:48,748 --> 00:09:51,487
+controls, but on Concorde that would have
+
+247
+00:09:51,487 --> 00:09:52,957
+created too much drag.
+
+248
+00:09:53,306 --> 00:09:56,014
+So the flight engineer moved the weight
+
+249
+00:09:56,014 --> 00:09:56,569
+instead.
+
+250
+00:09:56,749 --> 00:10:00,287
+During acceleration, fuel was pumped toward the
+
+251
+00:10:00,287 --> 00:10:01,868
+back of the airplane,
+
+252
+00:10:01,868 --> 00:10:04,879
+moving the center of gravity backward to
+
+253
+00:10:04,879 --> 00:10:06,083
+follow the lift.
+
+254
+00:10:06,263 --> 00:10:08,787
+When slowing down before landing,
+
+255
+00:10:08,787 --> 00:10:11,081
+fuel was pumped forward again.
+
+256
+00:10:11,261 --> 00:10:13,381
+The fuel was not only energy for
+
+257
+00:10:13,381 --> 00:10:14,176
+the engines.
+
+258
+00:10:14,356 --> 00:10:16,467
+It was also a moving weight that
+
+259
+00:10:16,467 --> 00:10:18,315
+balanced the whole airplane.
+
+260
+00:10:18,664 --> 00:10:21,439
+This trick is now used on other
+
+261
+00:10:21,439 --> 00:10:23,676
+long range airliners too,
+
+262
+00:10:23,676 --> 00:10:26,182
+with trim tanks in the tail,
+
+263
+00:10:26,182 --> 00:10:28,777
+to reduce drag and save fuel.
+
+264
+00:10:28,957 --> 00:10:31,005
+But Concorde did it on a much
+
+265
+00:10:31,005 --> 00:10:34,255
+bigger scale, because at supersonic speeds the
+
+266
+00:10:34,255 --> 00:10:35,667
+change was so large.
+
+267
+00:10:35,847 --> 00:10:36,934
+A simple idea,
+
+268
+00:10:36,934 --> 00:10:39,960
+move the weight instead of fighting it,
+
+269
+00:10:39,960 --> 00:10:41,745
+made Mach two possible.
+
+270
+00:10:42,095 --> 00:10:45,085
+Why did Concorde have such tiny passenger
+
+271
+00:10:45,085 --> 00:10:47,564
+windows, about the size of a hand?
+
+272
+00:10:47,744 --> 00:10:51,000
+Because it flew at around sixty thousand
+
+273
+00:10:51,000 --> 00:10:53,523
+feet, almost twice as high as a
+
+274
+00:10:53,523 --> 00:10:54,826
+normal airliner.
+
+275
+00:10:55,006 --> 00:10:57,175
+Up there, if a window broke,
+
+276
+00:10:57,175 --> 00:10:59,731
+the cabin would lose its air very
+
+277
+00:10:59,731 --> 00:11:02,210
+fast, and the air outside is too
+
+278
+00:11:02,210 --> 00:11:04,689
+thin to stay conscious for long.
+
+279
+00:11:04,869 --> 00:11:07,625
+Small windows slow down the rate of
+
+280
+00:11:07,625 --> 00:11:10,697
+pressure loss if the cabin is breached.
+
+281
+00:11:11,046 --> 00:11:12,397
+From that height,
+
+282
+00:11:12,397 --> 00:11:15,338
+passengers could see the curve of the
+
+283
+00:11:15,338 --> 00:11:17,801
+Earth and a dark blue sky above
+
+284
+00:11:17,801 --> 00:11:18,198
+them.
+
+285
+00:11:18,378 --> 00:11:21,413
+The cabin was pressurized to about six
+
+286
+00:11:21,413 --> 00:11:24,926
+thousand feet, similar to a normal airliner.
+
+287
+00:11:25,106 --> 00:11:27,328
+The cabin itself was narrow,
+
+288
+00:11:27,328 --> 00:11:28,995
+about nine feet wide,
+
+289
+00:11:28,995 --> 00:11:30,900
+with four seats per row.
+
+290
+00:11:31,080 --> 00:11:33,101
+Speed was the luxury,
+
+291
+00:11:33,101 --> 00:11:34,063
+not space.
+
+292
+00:11:34,413 --> 00:11:37,841
+Passengers also noticed that the windows felt
+
+293
+00:11:37,841 --> 00:11:38,222
+warm.
+
+294
+00:11:38,402 --> 00:11:39,236
+At Mach two,
+
+295
+00:11:39,236 --> 00:11:41,879
+friction with the air heated the outer
+
+296
+00:11:41,879 --> 00:11:44,730
+skin to around one hundred twenty degrees
+
+297
+00:11:44,730 --> 00:11:45,286
+Celsius.
+
+298
+00:11:45,466 --> 00:11:47,475
+Which brings us to the next part.
+
+299
+00:11:47,655 --> 00:11:49,918
+That heat changed the shape of the
+
+300
+00:11:49,918 --> 00:11:50,917
+whole airplane.
+
+301
+00:11:51,267 --> 00:11:54,843
+Why was Concorde almost always painted white?
+
+302
+00:11:55,023 --> 00:11:57,345
+Because white reflects heat.
+
+303
+00:11:57,525 --> 00:11:58,494
+At Mach two,
+
+304
+00:11:58,494 --> 00:12:00,755
+the skin got so hot that the
+
+305
+00:12:00,755 --> 00:12:02,935
+aluminum airframe expanded,
+
+306
+00:12:02,935 --> 00:12:06,083
+and Concorde grew between six and eight
+
+307
+00:12:06,083 --> 00:12:08,021
+inches longer in flight.
+
+308
+00:12:08,201 --> 00:12:11,594
+A special white paint kept the temperature
+
+309
+00:12:11,594 --> 00:12:13,130
+as low as possible,
+
+310
+00:12:13,130 --> 00:12:16,523
+because aluminum loses strength if it gets
+
+311
+00:12:16,523 --> 00:12:18,220
+too hot for too long.
+
+312
+00:12:18,570 --> 00:12:20,671
+In nineteen ninety-six,
+
+313
+00:12:20,671 --> 00:12:24,232
+Air France painted one Concorde in dark
+
+314
+00:12:24,232 --> 00:12:26,697
+blue for a Pepsi promotion.
+
+315
+00:12:26,877 --> 00:12:29,891
+Because dark paint absorbs more heat,
+
+316
+00:12:29,891 --> 00:12:32,743
+that Concorde was allowed to fly at
+
+317
+00:12:32,743 --> 00:12:35,349
+Mach two for no more than twenty
+
+318
+00:12:35,349 --> 00:12:36,816
+minutes at a time.
+
+319
+00:12:36,996 --> 00:12:38,972
+Below Mach one point seven,
+
+320
+00:12:38,972 --> 00:12:40,362
+there was no limit.
+
+321
+00:12:40,542 --> 00:12:42,572
+It is one of the few airplanes
+
+322
+00:12:42,572 --> 00:12:45,210
+where the paint color changed the speed
+
+323
+00:12:45,210 --> 00:12:45,616
+limit.
+
+324
+00:12:45,965 --> 00:12:49,332
+The expansion was visible inside too.
+
+325
+00:12:49,512 --> 00:12:52,262
+Crews told stories of a gap opening
+
+326
+00:12:52,262 --> 00:12:55,639
+near the flight engineer's panel at cruise,
+
+327
+00:12:55,639 --> 00:12:58,231
+which closed again after landing.
+
+328
+00:12:58,411 --> 00:13:02,400
+Concorde's engineers chose an aluminum alloy that
+
+329
+00:13:02,400 --> 00:13:05,494
+could live with that heat for decades.
+
+330
+00:13:05,674 --> 00:13:06,654
+At Mach three,
+
+331
+00:13:06,654 --> 00:13:09,245
+the skin would have been around three
+
+332
+00:13:09,245 --> 00:13:10,786
+hundred fifty degrees,
+
+333
+00:13:10,786 --> 00:13:12,256
+too hot for aluminum.
+
+334
+00:13:12,436 --> 00:13:15,027
+That is one reason Concorde stopped at
+
+335
+00:13:15,027 --> 00:13:15,641
+Mach two.
+
+336
+00:13:15,990 --> 00:13:18,236
+Why did Concorde have brakes made of
+
+337
+00:13:18,236 --> 00:13:18,672
+carbon?
+
+338
+00:13:18,852 --> 00:13:21,116
+Because it landed fast and heavy,
+
+339
+00:13:21,116 --> 00:13:23,585
+and steel brakes would have been too
+
+340
+00:13:23,585 --> 00:13:24,820
+heavy for the job.
+
+341
+00:13:25,000 --> 00:13:28,157
+Concorde was the first airliner with carbon
+
+342
+00:13:28,157 --> 00:13:30,213
+brakes, developed by Dunlop.
+
+343
+00:13:30,393 --> 00:13:33,260
+They saved about one thousand two hundred
+
+344
+00:13:33,260 --> 00:13:35,638
+pounds compared with steel brakes,
+
+345
+00:13:35,638 --> 00:13:38,714
+and they could survive temperatures of three
+
+346
+00:13:38,714 --> 00:13:41,861
+hundred to four hundred degrees Celsius after
+
+347
+00:13:41,861 --> 00:13:42,421
+landing.
+
+348
+00:13:42,770 --> 00:13:45,482
+Carbon brakes are now standard on most
+
+349
+00:13:45,482 --> 00:13:49,050
+large airliners, from the Boeing seven forty-seven
+
+350
+00:13:49,050 --> 00:13:51,048
+to the Airbus A three fifty.
+
+351
+00:13:51,228 --> 00:13:53,184
+Like many Concorde ideas,
+
+352
+00:13:53,184 --> 00:13:56,078
+they were too early and too expensive
+
+353
+00:13:56,078 --> 00:13:58,659
+at first, and then became normal.
+
+354
+00:13:58,839 --> 00:14:03,247
+Fly-by-wire controls, digital engine computers,
+
+355
+00:14:03,247 --> 00:14:07,562
+carbon brakes, Concorde tested them in airline
+
+356
+00:14:07,562 --> 00:14:10,751
+service before almost anyone else.
+
+357
+00:14:11,100 --> 00:14:14,028
+The wheels and tires also played a
+
+358
+00:14:14,028 --> 00:14:16,697
+part in Concorde's darkest day.
+
+359
+00:14:16,877 --> 00:14:20,224
+On the twenty-fifth of July two thousand,
+
+360
+00:14:20,224 --> 00:14:23,817
+Air France flight forty-five ninety ran over
+
+361
+00:14:23,817 --> 00:14:26,267
+a metal strip on the runway in
+
+362
+00:14:26,267 --> 00:14:26,757
+Paris.
+
+363
+00:14:26,937 --> 00:14:28,115
+A tire burst,
+
+364
+00:14:28,115 --> 00:14:30,473
+debris struck a fuel tank,
+
+365
+00:14:30,473 --> 00:14:32,196
+and a fire started.
+
+366
+00:14:32,376 --> 00:14:34,768
+One hundred thirteen people died.
+
+367
+00:14:34,948 --> 00:14:38,983
+Afterwards, Concorde got Kevlar linings inside its
+
+368
+00:14:38,983 --> 00:14:42,293
+fuel tanks and new burst-resistant tires,
+
+369
+00:14:42,293 --> 00:14:45,118
+and flew again in two thousand one.
+
+370
+00:14:45,467 --> 00:14:46,756
+So here are the ten.
+
+371
+00:14:46,936 --> 00:14:49,110
+A nose that bends to see the
+
+372
+00:14:49,110 --> 00:14:51,438
+runway, and a visor to make it
+
+373
+00:14:51,438 --> 00:14:52,370
+sharp again.
+
+374
+00:14:52,550 --> 00:14:55,289
+A wing that lifts with swirls instead
+
+375
+00:14:55,289 --> 00:14:57,584
+of flaps, and a wheel under the
+
+376
+00:14:57,584 --> 00:14:59,434
+tail for the steep angle.
+
+377
+00:14:59,614 --> 00:15:01,643
+Intakes that slow the air down,
+
+378
+00:15:01,643 --> 00:15:03,933
+afterburners for the sound barrier,
+
+379
+00:15:03,933 --> 00:15:06,550
+fuel that moves to balance the airplane,
+
+380
+00:15:06,550 --> 00:15:08,513
+tiny windows for the altitude,
+
+381
+00:15:08,513 --> 00:15:10,149
+white paint for the heat,
+
+382
+00:15:10,149 --> 00:15:12,374
+and carbon brakes for the landing.
+
+383
+00:15:12,723 --> 00:15:16,648
+Concorde was retired in two thousand three,
+
+384
+00:15:16,648 --> 00:15:20,299
+and no passenger airplane has flown that
+
+385
+00:15:20,299 --> 00:15:21,303
+fast since.
+
+386
+00:15:21,483 --> 00:15:24,110
+Every strange part was the price of
+
+387
+00:15:24,110 --> 00:15:24,560
+speed.
+
+388
+00:15:24,740 --> 00:15:27,788
+If you want more machines explained part
+
+389
+00:15:27,788 --> 00:15:30,684
+by part, subscribe to Machine Reverse.
+
+390
+00:15:30,864 --> 00:15:32,947
+And tell us in the comments which
+
+391
+00:15:32,947 --> 00:15:35,030
+machine you want us to take apart
+
+392
+00:15:35,030 --> 00:15:35,346
+next.
