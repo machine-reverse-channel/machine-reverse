@@ -1,0 +1,8 @@
+- Magnetic levitation basics, EMS vs EDS: Wikipedia, "Maglev" https://en.wikipedia.org/wiki/Maglev
+- Transrapid (electromagnetic suspension, ~10 mm gap, bending switches, Emsland test facility): Wikipedia, "Transrapid" https://en.wikipedia.org/wiki/Transrapid
+- Shanghai Maglev (2004, 30 km, 431 km/h): Wikipedia, "Shanghai maglev train" https://en.wikipedia.org/wiki/Shanghai_maglev_train
+- SCMaglev (superconducting magnets, ~10 cm levitation, wheels below ~150 km/h, null-flux coils): Wikipedia, "SCMaglev" https://en.wikipedia.org/wiki/SCMaglev and JR Central, "Superconducting Maglev" https://global.jr-central.co.jp/en/company/ir/annualreport/
+- 603 km/h world record (21 April 2015): Guinness World Records, "Fastest maglev train" https://www.guinnessworldrecords.com/world-records/fastest-maglev-train
+- Linear motors and Linimo: Wikipedia, "Linimo" https://en.wikipedia.org/wiki/Linimo
+- Chuo Shinkansen (Tokyo-Nagoya, delays, Shizuoka water dispute): Wikipedia, "Chūō Shinkansen" https://en.wikipedia.org/wiki/Ch%C5%AB%C5%8D_Shinkansen
+- Lathen train collision (22 September 2006, 23 deaths): Wikipedia, "Lathen train collision" https://en.wikipedia.org/wiki/Lathen_train_collision
