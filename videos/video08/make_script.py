@@ -122,15 +122,15 @@ sc("""Concorde was retired in two thousand three, and no passenger airplane has 
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
-    1: ("File:British Airways Concorde G-BOAC 03.jpg", 0.17, 0.32),
-    2: ("File:Concorde Air France Musee du Bourget P1020006.JPG", 0.73, 0.32),
+    1: ("File:British Airways Concorde G-BOAC 03.jpg", 0.14, 0.2),
+    2: ("File:Concorde Air France Musee du Bourget P1020006.JPG", 0.84, 0.25),
     3: ("File:Concorde - Delta wing and Rolls-Royce-Snecma Olympus 593 engine (7181594822).jpg", 0.5, 0.3),
     4: ("File:Concorde - Tail bumper wheel (7181575152).jpg", 0.58, 0.67),
     5: ("File:Concorde engine intake.jpg", 0.5, 0.45),
     6: ("File:Aerospatiale Concorde (42935940412).jpg", 0.35, 0.5),
     7: ("File:Concorde Fueling Control (7946110800).jpg", 0.5, 0.45),
     8: ("File:Concorde G-BBDG Windows.JPG", 0.53, 0.45),
-    9: ("File:Air France Concorde at CDG.jpg", 0.4, 0.5),
+    9: ("File:Air France Concorde at CDG.jpg", 0.3, 0.43),
     10: ("File:Concorde brake discs.jpg", 0.4, 0.45),
 }
 for s in S:
