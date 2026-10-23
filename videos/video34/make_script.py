@@ -126,7 +126,7 @@ PICKS = {
     3: ('File:Headlight lens optics.jpg', 0.4, 0.45),
     4: ('File:Halogen light bulb.JPG', 0.3, 0.4),
     5: ('File:2014 Proton Suprima S Premium - Headlights.jpg', 0.55, 0.45),
-    6: ('File:1957 Panhard Dyna Z (France Domestic) (8391189016).jpg', 0.3, 0.45),
+    6: ('File:1992 Lada 2106 with yellow headlights.jpg', 0.75, 0.49),
     7: ('File:BMW M4 (G83) 1X7A7098.jpg', 0.4, 0.53),
     8: ('File:2015 Audi A4 B9 S line Tangorot LED-Matrix-Scheinwerfer Detail.jpg', 0.55, 0.6),
     9: ('File:Audi A8 L 55 TFSI Quattro D5 Floret Silver Metallic (6).jpg', 0.8, 0.8),
