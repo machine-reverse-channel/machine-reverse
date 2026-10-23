@@ -1,0 +1,96 @@
+# Photo credits: Why Don't Rally Cars Break When They Fly?
+
+All photos from Wikimedia Commons.
+
+- 2023 Bohemia Rally Mladá Boleslav - Březík.jpg by Miloslav Rejha, CC BY 4.0, https://commons.wikimedia.org/wiki/File:2023_Bohemia_Rally_Mlad%C3%A1_Boleslav_-_B%C5%99ez%C3%ADk.jpg
+- Ramp Jump at Parker Rover Rally.JPG by Aakash sahai, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ramp_Jump_at_Parker_Rover_Rally.JPG
+- Rally Rias Baixas 2013 (Muñiz).jpg by https://www.flickr.com/photos/elentir/, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Rally_Rias_Baixas_2013_(Mu%C3%B1iz).jpg
+- Cersanitrallyteam01 (cropped).JPG by CRT2008, Public domain, https://commons.wikimedia.org/wiki/File:Cersanitrallyteam01_(cropped).JPG
+- Cersanitrallyteam01.JPG by CRT2008, Public domain, https://commons.wikimedia.org/wiki/File:Cersanitrallyteam01.JPG
+- Subaru Impreza WRC at Goodwood 2014 002 (cropped).jpg by Nic Redhead, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Subaru_Impreza_WRC_at_Goodwood_2014_002_(cropped).jpg
+- Fiat 124 Abarth Goodwood 2014 001 (cropped).jpg by Nic Redhead, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Fiat_124_Abarth_Goodwood_2014_001_(cropped).jpg
+- Fiat 124 Abarth Goodwood 2014 001.jpg by Nic Redhead, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Fiat_124_Abarth_Goodwood_2014_001.jpg
+- Lucy Block New England Forest Rally 2010.jpg by Steven Harrell, CC BY-SA 2.5, https://commons.wikimedia.org/wiki/File:Lucy_Block_New_England_Forest_Rally_2010.jpg
+- BMW M3 Rally Coupé (E30, 1988) (53767375605).jpg by Charles from Port Chester, New York, CC BY 2.0, https://commons.wikimedia.org/wiki/File:BMW_M3_Rally_Coup%C3%A9_(E30,_1988)_(53767375605).jpg
+- Cars coming in for Service, Rallye Monte-Carlo 2019.jpg by Iain Cameron from Ellon, Scotland, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Cars_coming_in_for_Service,_Rallye_Monte-Carlo_2019.jpg
+- Andreas Mikkelsen's Car at Service in Gap (6), Rallye Monte-Carlo 2019.jpg by Iain Cameron from Ellon, Scotland, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Andreas_Mikkelsen%27s_Car_at_Service_in_Gap_(6),_Rallye_Monte-Carlo_2019.jpg
+- Ford RS 200 (this is the car involved in The accident at Rally Portugal) (11799405975).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Ford_RS_200_(this_is_the_car_involved_in_The_accident_at_Rally_Portugal)_(11799405975).jpg
+- Andreas Mikkelsen's Car at Service in Gap (4), Rallye Monte-Carlo 2019.jpg by Iain Cameron from Ellon, Scotland, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Andreas_Mikkelsen%27s_Car_at_Service_in_Gap_(4),_Rallye_Monte-Carlo_2019.jpg
+- Alpine A110 Cup vor der Kathedrale von Bourges.jpg by Rolf Kranz, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Alpine_A110_Cup_vor_der_Kathedrale_von_Bourges.jpg
+- Pepe Lopez Peugeot 208 T16 (3).jpg by Harpagornis, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Pepe_Lopez_Peugeot_208_T16_(3).jpg
+- 2012 Rally Finland Killeri 15.jpg by Yaamboo, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2012_Rally_Finland_Killeri_15.jpg
+- 2015 Rally Finland SS5 Himos 1 18.jpg by Yaamboo, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2015_Rally_Finland_SS5_Himos_1_18.jpg
+- Flickr - bjmullan - Colin McRae's Subaru Legacy Rally car (12).jpg by Brendan Mullan from Glasgow, Scotland, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Flickr_-_bjmullan_-_Colin_McRae%27s_Subaru_Legacy_Rally_car_(12).jpg
+- MEX 2008 RB 61 service 2.jpg by Joshbaumgartner, Public domain, https://commons.wikimedia.org/wiki/File:MEX_2008_RB_61_service_2.jpg
+- Luis Vilariño-Moncho Lopez.JPG by Jorjum, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Luis_Vilari%C3%B1o-Moncho_Lopez.JPG
+- 2011 Robert Kubica testing in Valencia in Renault R31.jpg by Tigershoot, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2011_Robert_Kubica_testing_in_Valencia_in_Renault_R31.jpg
+- Police block of crash site (36195158640).jpg by Evan Nesterak, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Police_block_of_crash_site_(36195158640).jpg
+- 1985 Lancia Delta S4 Group B.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1985_Lancia_Delta_S4_Group_B.jpg
+- 1985 Lancia Delta S4 Group B 2.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1985_Lancia_Delta_S4_Group_B_2.jpg
+- Jari Ketomaa - Kaj Lindstrom (18084049872).jpg by Harpagornis, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Jari_Ketomaa_-_Kaj_Lindstrom_(18084049872).jpg
+- Roslyn Shen with her Rally Car by Kuyohong.jpg by 邱鈺鋒, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Roslyn_Shen_with_her_Rally_Car_by_Kuyohong.jpg
+- Andreas Mikkelsen's Car at Service in Gap (1), Rallye Monte-Carlo 2019.jpg by Iain Cameron from Ellon, Scotland, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Andreas_Mikkelsen%27s_Car_at_Service_in_Gap_(1),_Rallye_Monte-Carlo_2019.jpg
+- Cars coming in for Service (5), Rallye Monte-Carlo 2019.jpg by Iain Cameron from Ellon, Scotland, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Cars_coming_in_for_Service_(5),_Rallye_Monte-Carlo_2019.jpg
+- Fuel Tank - Standard - Coventry - 1912 - 20 hp - 4 cyl - Kolkata 2016-01-31 9333.JPG by Biswarup Ganguly, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Fuel_Tank_-_Standard_-_Coventry_-_1912_-_20_hp_-_4_cyl_-_Kolkata_2016-01-31_9333.JPG
+- 1912 Standard Coventry Fuel Tank - 20 hp - 4 cyl - Kolkata 2017-01-29 4206.JPG by Biswarup Ganguly, CC BY 3.0, https://commons.wikimedia.org/wiki/File:1912_Standard_Coventry_Fuel_Tank_-_20_hp_-_4_cyl_-_Kolkata_2017-01-29_4206.JPG
+- 2014 Rally Italia Sardegna 20 Paddon-Kennard.jpg by Louis.attene, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2014_Rally_Italia_Sardegna_20_Paddon-Kennard.jpg
+- 1982 AMC Eagle SX-4 in Sun Yellow at 2015 AMO show 3of3.jpg by CZmarlin — Christopher Ziemnowicz — a photo credit is required if this image is used anywhere other than Wikipedia., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1982_AMC_Eagle_SX-4_in_Sun_Yellow_at_2015_AMO_show_3of3.jpg
+- 1982 AMC Eagle SX-4 in Sun Yellow at 2015 AMO show 2of3.jpg by CZmarlin — Christopher Ziemnowicz — a photo credit is required if this image is used anywhere other than Wikipedia., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1982_AMC_Eagle_SX-4_in_Sun_Yellow_at_2015_AMO_show_2of3.jpg
+- BMW M3 Rally Coupé (E30, 1988) (53766049107).jpg by Charles from Port Chester, New York, CC BY 2.0, https://commons.wikimedia.org/wiki/File:BMW_M3_Rally_Coup%C3%A9_(E30,_1988)_(53766049107).jpg
+- BMW M3 Rally Coupé (E30, 1988) (53767149093).jpg by Charles from Port Chester, New York, CC BY 2.0, https://commons.wikimedia.org/wiki/File:BMW_M3_Rally_Coup%C3%A9_(E30,_1988)_(53767149093).jpg
+- Modifita Lada 2105.jpg by RG72, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Modifita_Lada_2105.jpg
+- Muddy jeep morocco.jpg by bob rayner, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Muddy_jeep_morocco.jpg
+- 2014 Rally Italia-Sardegna 3 K.Meeke-P.Nagle.jpg by Louis.attene, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2014_Rally_Italia-Sardegna_3_K.Meeke-P.Nagle.jpg
+- Barum Rally Zlín (cars in Zlín).JPG by I would appreciate being notified if you use my work outside Wikimedia.
+Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please contact me to negotiate terms.
+
+More of my work can be found in my personal gallery., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Barum_Rally_Zl%C3%ADn_(cars_in_Zl%C3%ADn).JPG
+- Rally QLD- Friday (4856352310).jpg by Tom Reynolds from Melbourne, Australia, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rally_QLD-_Friday_(4856352310).jpg
+- Newby Hall Historic Car Rally 2013 (9348518750).jpg by Draco2008 from UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Newby_Hall_Historic_Car_Rally_2013_(9348518750).jpg
+- Newby Hall Historic Car Rally 2013 (9348518750) (cropped).jpg by Draco2008 from UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Newby_Hall_Historic_Car_Rally_2013_(9348518750)_(cropped).jpg
+- Rallye Monte Carlo Historique 2025, Bad Homburg (P1032898).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rallye_Monte_Carlo_Historique_2025,_Bad_Homburg_(P1032898).jpg
+- Rallye Monte Carlo Historique 2025, Bad Homburg (P1032906).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rallye_Monte_Carlo_Historique_2025,_Bad_Homburg_(P1032906).jpg
+- Nissan E-Z32 Fairlady Z 300ZX 2 seater T-Bar Roof (No.089) (24112314190).jpg by 先従隗始, CC0, https://commons.wikimedia.org/wiki/File:Nissan_E-Z32_Fairlady_Z_300ZX_2_seater_T-Bar_Roof_(No.089)_(24112314190).jpg
+- Nissan E-Z32 Fairlady Z 300ZX 2 seater T-Bar Roof (No.089) (24112314195).jpg by 先従隗始, CC0, https://commons.wikimedia.org/wiki/File:Nissan_E-Z32_Fairlady_Z_300ZX_2_seater_T-Bar_Roof_(No.089)_(24112314195).jpg
+- 1969 Pontiac GTO Hardtop (24420333444).jpg by Sicnag, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1969_Pontiac_GTO_Hardtop_(24420333444).jpg
+- Nissan E-Z32 Fairlady Z 300ZX 2 seater T-Bar Roof (No.089) (24112314194).jpg by 先従隗始, CC0, https://commons.wikimedia.org/wiki/File:Nissan_E-Z32_Fairlady_Z_300ZX_2_seater_T-Bar_Roof_(No.089)_(24112314194).jpg
+- Monte Crew at Ancelle for the Monte-Carlo Rally (46931111871).jpg by Iain Cameron, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Monte_Crew_at_Ancelle_for_the_Monte-Carlo_Rally_(46931111871).jpg
+- Freightliner Argosy Crew Cab, Dakar 2013, ChiLe (11175382795).jpg by order_242 from Chile, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Freightliner_Argosy_Crew_Cab,_Dakar_2013,_ChiLe_(11175382795).jpg
+- 1994 Lancia Delta Integrale Evo 2 rally-style interior (replica).jpg by Mr.choppers, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:1994_Lancia_Delta_Integrale_Evo_2_rally-style_interior_(replica).jpg
+- 1922 Renault 40CV (19339752928) (cropped).jpg by emperornie, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:1922_Renault_40CV_(19339752928)_(cropped).jpg
+- 1922 Renault 40CV (19339752928).jpg by emperornie, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:1922_Renault_40CV_(19339752928).jpg
+- 2014 Subaru Impreza WRC 2001 a.jpg by Jacek Halicki, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2014_Subaru_Impreza_WRC_2001_a.jpg
+- Auto "0" dell'organizzazione gara.jpg by UbeFoto, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Auto_%220%22_dell%27organizzazione_gara.jpg
+- Subaru Sno*Drift Rally 2012.jpg by Dustin May, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Subaru_Sno*Drift_Rally_2012.jpg
+- Mazda 323 at the 2012 Sno*Drift Rally.jpg by Dustin May, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Mazda_323_at_the_2012_Sno*Drift_Rally.jpg
+- Toyota Yaris GR WRC, GIMS 2019, Le Grand-Saconnex (GIMS0534).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Toyota_Yaris_GR_WRC,_GIMS_2019,_Le_Grand-Saconnex_(GIMS0534).jpg
+- 1968 AMC AMX yellow 390 auto md-sp.jpg by CZmarlin  — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, Public domain, https://commons.wikimedia.org/wiki/File:1968_AMC_AMX_yellow_390_auto_md-sp.jpg
+- Dakar 2014 - Luca Viglio (Italy) - 21018172060.jpg by Sports Cars Fan, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dakar_2014_-_Luca_Viglio_(Italy)_-_21018172060.jpg
+- 1986 Toyota Celica Coupe GT-TS TwinCam Turbo Group B Rally Car.jpg by Rutger van der Maar, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1986_Toyota_Celica_Coupe_GT-TS_TwinCam_Turbo_Group_B_Rally_Car.jpg
+- 1986 Toyota Celica Coupe GT-TS TwinCam Turbo Group B Rally Car 370kmh 4cylinder 2.1litre photo2.jpg by Alf van Beem, Public domain, https://commons.wikimedia.org/wiki/File:1986_Toyota_Celica_Coupe_GT-TS_TwinCam_Turbo_Group_B_Rally_Car_370kmh_4cylinder_2.1litre_photo2.jpg
+- 0 car, 40. ADAC Stormarn Rallye, Luetjensee (TR256776).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:0_car,_40._ADAC_Stormarn_Rallye,_Luetjensee_(TR256776).jpg
+- 0 car, 40. ADAC Stormarn Rallye, Luetjensee (TR256772).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:0_car,_40._ADAC_Stormarn_Rallye,_Luetjensee_(TR256772).jpg
+- 2019 Rally Sweden - Lappi.jpg by SSauma, Public domain, https://commons.wikimedia.org/wiki/File:2019_Rally_Sweden_-_Lappi.jpg
+- Hyundai Motorsport - Rally Sweden 2018 3.jpg by hyundai motorsport, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hyundai_Motorsport_-_Rally_Sweden_2018_3.jpg
+- Early-medieval stud, Gold and garnet stud (rally image) (FindID 805090).jpg by Oxfordshire County Council, Anni Byard, 2017-03-13 09:32:32, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Early-medieval_stud,_Gold_and_garnet_stud_(rally_image)_(FindID_805090).jpg
+- EvansRallySweden2020(2).jpg by Cal1, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:EvansRallySweden2020(2).jpg
+- LappiRallySweden2020(2).jpg by Cal1, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:LappiRallySweden2020(2).jpg
+- Triumph TR4 A (8654817332).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Triumph_TR4_A_(8654817332).jpg
+- 2022 Rally Poland - Efrén Llarena.jpg by Makary, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2022_Rally_Poland_-_Efr%C3%A9n_Llarena.jpg
+- Hyundai Fourmaux and co driver at rally Acropolis.jpg by Geonich, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Hyundai_Fourmaux_and_co_driver_at_rally_Acropolis.jpg
+- 2020 Rally Bohemia - Nešetřil.jpg by Miloslav Rejha, CC BY 4.0, https://commons.wikimedia.org/wiki/File:2020_Rally_Bohemia_-_Ne%C5%A1et%C5%99il.jpg
+- 2014 Rally Bohemia - Triner.jpg by Miloslav Rejha, CC BY 4.0, https://commons.wikimedia.org/wiki/File:2014_Rally_Bohemia_-_Triner.jpg
+- Rally Car glass tuning.jpg by Glasstuning, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Rally_Car_glass_tuning.jpg
+- WORLD RALLY CAR - LOEB (6269568370).jpg by Gerard Reyes from Barcelona, España, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:WORLD_RALLY_CAR_-_LOEB_(6269568370).jpg
+- 2017 Rally Bohemia - Nešetřil-Černoch.jpg by Miloslav Rejha, CC BY 4.0, https://commons.wikimedia.org/wiki/File:2017_Rally_Bohemia_-_Ne%C5%A1et%C5%99il-%C4%8Cernoch.jpg
+- Ken Block (rally driver).jpg by Mike Tigas from Columbia, MO, United States, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Ken_Block_(rally_driver).jpg
+- Subaru WRC Rally Japan Zero car 2010 Motorsport Japan.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Subaru_WRC_Rally_Japan_Zero_car_2010_Motorsport_Japan.jpg
+- Osaka Auto Messe 2018 (302) - Toyota Yaris WRC (FIA World Rally Championship 2017).jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Osaka_Auto_Messe_2018_(302)_-_Toyota_Yaris_WRC_(FIA_World_Rally_Championship_2017).jpg
+- 2012 Acropolis Rally - Armindo Araújo.jpg by Manu, CC BY 2.0, https://commons.wikimedia.org/wiki/File:2012_Acropolis_Rally_-_Armindo_Ara%C3%BAjo.jpg
+- Limousin Pierre Roché 2.JPG by Kärjens Slædebjørg, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Limousin_Pierre_Roch%C3%A9_2.JPG
+- 2012 Acropolis Rally - Paulo Nobre.jpg by Manu, CC BY 2.0, https://commons.wikimedia.org/wiki/File:2012_Acropolis_Rally_-_Paulo_Nobre.jpg
+- Limousin Pierre Roché 1.JPG by Kärjens Slædebjørg, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Limousin_Pierre_Roch%C3%A9_1.JPG
+- 2019 Rally Estonia parc ferme.jpg by Kasepats, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2019_Rally_Estonia_parc_ferme.jpg
+- Salta Service rally car 2016 Golf R DSG Number 495.jpg by Corqe, CC0, https://commons.wikimedia.org/wiki/File:Salta_Service_rally_car_2016_Golf_R_DSG_Number_495.jpg
+- Porsche 911-20180520-RM-150013.jpg by Ermell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Porsche_911-20180520-RM-150013.jpg
+- Ford Fiesta rally car turning in at Rallye Deutschland 2018, driven by Louise Cook with Stefan Davis.jpg by Robrob42, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ford_Fiesta_rally_car_turning_in_at_Rallye_Deutschland_2018,_driven_by_Louise_Cook_with_Stefan_Davis.jpg
