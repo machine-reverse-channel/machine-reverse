@@ -123,7 +123,7 @@ sc("""A cruise ship looks top heavy, but it is really a carefully weighted keel 
 PICKS = {
     1: ('File:Vasco da Gama (ship, 1993) at Liverpool Cruise Terminal 1.jpg', 0.5, 0.72),
     2: ('File:Viking Sky (ship, 2017) - Sète - December 2018 - 02.jpg', 0.6, 0.5),
-    3: ('File:Polarstern stabilizer hg.jpg', 0.45, 0.45),
+    3: ('File:Polarstern stabilizer hg.jpg', 0.42, 0.6),
     4: ('File:Inside SS Rotterdam, foto Smiths Stabiliser fin angle indicator.JPG', 0.5, 0.4),
     5: ('File:USS Pampanito watertight door.JPG', 0.5, 0.55),
     6: ('File:Mackinaw WLBB-30 Azipod thruster.jpg', 0.6, 0.5),
