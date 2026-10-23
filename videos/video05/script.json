@@ -122,8 +122,8 @@
    "query": "F-22 gold canopy",
    "caption": "WHY IS THIS CANOPY GOLD?",
    "arrow": {
-    "x": 0.5,
-    "y": 0.25
+    "x": 0.4,
+    "y": 0.22
    },
    "chapter": "5. The gold canopy",
    "short": "Why Do Some Fighter Jets Have Gold Canopies?",
@@ -145,8 +145,8 @@
    "query": "F-35 diverterless supersonic inlet",
    "caption": "WHY IS THERE A BUMP HERE?",
    "arrow": {
-    "x": 0.72,
-    "y": 0.42
+    "x": 0.7,
+    "y": 0.55
    },
    "chapter": "6. The bump in front of the engine",
    "short": "Why Do New Fighter Jets Have a Bump by the Engine?",
@@ -168,8 +168,8 @@
    "query": "F-22 thrust vectoring nozzle",
    "caption": "WHY DO THESE NOZZLES MOVE?",
    "arrow": {
-    "x": 0.5,
-    "y": 0.5
+    "x": 0.22,
+    "y": 0.68
    },
    "chapter": "7. The nozzles that move",
    "short": "Why Do Some Fighter Jet Nozzles Move?",
