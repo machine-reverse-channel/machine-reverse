@@ -1,0 +1,11 @@
+- Track ballast (functions, angular stone, depth, fouling): Wikipedia, "Track ballast" https://en.wikipedia.org/wiki/Track_ballast
+- Network Rail, "Track" (ballast, sleepers, rails) https://www.networkrail.co.uk/running-the-railway/looking-after-the-railway/track/
+- Railroad ties (wood, creosote, concrete, composite): Wikipedia, "Railroad tie" https://en.wikipedia.org/wiki/Railroad_tie and Railway Tie Association, "FAQ" https://www.rta.org/faqs-main
+- Pandrol clip (Per Pande-Rolfsen, 1957): Wikipedia, "Pandrol" https://en.wikipedia.org/wiki/Pandrol
+- Flat-bottomed rail (Vignoles 1836, Stevens 1830) and rail weights: Wikipedia, "Rail profile" https://en.wikipedia.org/wiki/Rail_profile
+- Tamping machines and Plasser & Theurer: Wikipedia, "Tamping machine" https://en.wikipedia.org/wiki/Tamping_machine
+- Ballast cleaning and mud pumping: Wikipedia, "Ballast cleaner" https://en.wikipedia.org/wiki/Ballast_cleaner
+- Guard rails and catch points: Wikipedia, "Guard rail (rail)" https://en.wikipedia.org/wiki/Guard_rail_(rail) and "Catch points" https://en.wikipedia.org/wiki/Catch_points
+- Track circuits (William Robinson, 1872) and axle counters: Wikipedia, "Track circuit" https://en.wikipedia.org/wiki/Track_circuit and "Axle counter" https://en.wikipedia.org/wiki/Axle_counter
+- Eurobalise and ETCS: Wikipedia, "Eurobalise" https://en.wikipedia.org/wiki/Eurobalise
+- Hot box detectors: Wikipedia, "Hot box detector" https://en.wikipedia.org/wiki/Hot_box_detector
