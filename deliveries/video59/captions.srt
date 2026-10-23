@@ -1,0 +1,1507 @@
+1
+00:00:00,000 --> 00:00:02,842
+When people picture a nuclear power plant,
+
+2
+00:00:02,842 --> 00:00:05,753
+they picture giant curved towers with white
+
+3
+00:00:05,753 --> 00:00:07,581
+clouds pouring out of them.
+
+4
+00:00:07,761 --> 00:00:10,932
+Most people think those clouds are smoke,
+
+5
+00:00:10,932 --> 00:00:12,324
+or even radiation.
+
+6
+00:00:12,504 --> 00:00:13,339
+They are neither.
+
+7
+00:00:13,519 --> 00:00:15,239
+They are water vapor,
+
+8
+00:00:15,239 --> 00:00:17,532
+the same stuff as a cloud in
+
+9
+00:00:17,532 --> 00:00:18,187
+the sky.
+
+10
+00:00:18,367 --> 00:00:20,420
+And the towers are not even the
+
+11
+00:00:20,420 --> 00:00:21,281
+nuclear part.
+
+12
+00:00:21,461 --> 00:00:24,664
+Today, eleven parts of a nuclear power
+
+13
+00:00:24,664 --> 00:00:27,277
+plant, and why each one exists,
+
+14
+00:00:27,277 --> 00:00:29,553
+starting with those towers.
+
+15
+00:00:29,902 --> 00:00:31,563
+A nuclear plant is,
+
+16
+00:00:31,563 --> 00:00:32,525
+in the end,
+
+17
+00:00:32,525 --> 00:00:34,535
+a way of boiling water.
+
+18
+00:00:34,715 --> 00:00:37,861
+Uranium atoms split and release heat.
+
+19
+00:00:38,041 --> 00:00:39,795
+That heat makes steam,
+
+20
+00:00:39,795 --> 00:00:41,868
+the steam spins a turbine,
+
+21
+00:00:41,868 --> 00:00:44,659
+and the turbine drives a generator.
+
+22
+00:00:44,839 --> 00:00:46,564
+Most of the engineering,
+
+23
+00:00:46,564 --> 00:00:48,719
+and most of the parts you see,
+
+24
+00:00:48,719 --> 00:00:51,163
+exist to control that heat safely,
+
+25
+00:00:51,163 --> 00:00:53,031
+and to get rid of the heat
+
+26
+00:00:53,031 --> 00:00:55,834
+that cannot be turned into electricity.
+
+27
+00:00:56,183 --> 00:00:59,213
+As always, every fact comes from a
+
+28
+00:00:59,213 --> 00:01:02,153
+named source, nuclear regulators,
+
+29
+00:01:02,153 --> 00:01:06,340
+plant operators, and official accident reports,
+
+30
+00:01:06,340 --> 00:01:09,013
+all listed in the description.
+
+31
+00:01:09,193 --> 00:01:11,224
+Let's start with the towers.
+
+32
+00:01:11,575 --> 00:01:14,434
+Why do nuclear plants have those giant
+
+33
+00:01:14,434 --> 00:01:15,487
+curved towers?
+
+34
+00:01:15,667 --> 00:01:18,236
+Because a power plant must throw away
+
+35
+00:01:18,236 --> 00:01:19,208
+a lot of heat.
+
+36
+00:01:19,388 --> 00:01:22,034
+After the steam spins the turbine,
+
+37
+00:01:22,034 --> 00:01:24,290
+it has to be cooled back into
+
+38
+00:01:24,290 --> 00:01:27,169
+water, and that takes huge amounts of
+
+39
+00:01:27,169 --> 00:01:28,258
+cooling water.
+
+40
+00:01:28,438 --> 00:01:30,783
+The tower cools that water down.
+
+41
+00:01:30,963 --> 00:01:33,970
+Warm water is sprayed inside near the
+
+42
+00:01:33,970 --> 00:01:36,571
+bottom, air flows up through it,
+
+43
+00:01:36,571 --> 00:01:39,253
+and some of the water evaporates,
+
+44
+00:01:39,253 --> 00:01:41,122
+carrying the heat away.
+
+45
+00:01:41,472 --> 00:01:43,968
+The tower works like a chimney with
+
+46
+00:01:43,968 --> 00:01:44,467
+no fan.
+
+47
+00:01:44,647 --> 00:01:47,361
+The warm, moist air inside is lighter
+
+48
+00:01:47,361 --> 00:01:48,901
+than the air outside,
+
+49
+00:01:48,901 --> 00:01:49,782
+so it rises,
+
+50
+00:01:49,782 --> 00:01:51,909
+and fresh air is pulled in at
+
+51
+00:01:51,909 --> 00:01:52,716
+the bottom.
+
+52
+00:01:52,896 --> 00:01:54,688
+A tower can be more than a
+
+53
+00:01:54,688 --> 00:01:56,756
+hundred and fifty meters tall,
+
+54
+00:01:56,756 --> 00:01:58,479
+because the taller it is,
+
+55
+00:01:58,479 --> 00:02:00,616
+the stronger the natural draft.
+
+56
+00:02:00,967 --> 00:02:03,027
+The white cloud at the top is
+
+57
+00:02:03,027 --> 00:02:05,798
+just water vapor condensing in the cold
+
+58
+00:02:05,798 --> 00:02:08,142
+air, like your breath on a winter
+
+59
+00:02:08,142 --> 00:02:08,710
+morning.
+
+60
+00:02:08,890 --> 00:02:12,114
+The water inside the tower never touches
+
+61
+00:02:12,114 --> 00:02:13,082
+the reactor.
+
+62
+00:02:13,262 --> 00:02:14,957
+It is in a separate loop.
+
+63
+00:02:15,137 --> 00:02:17,622
+That is also why coal and gas
+
+64
+00:02:17,622 --> 00:02:21,220
+plants often have exactly the same towers.
+
+65
+00:02:21,571 --> 00:02:24,005
+Why are cooling towers wide at the
+
+66
+00:02:24,005 --> 00:02:26,081
+bottom, narrow in the middle,
+
+67
+00:02:26,081 --> 00:02:28,014
+and wider again at the top?
+
+68
+00:02:28,194 --> 00:02:30,704
+The shape is called a hyperboloid,
+
+69
+00:02:30,704 --> 00:02:32,919
+and it is surprisingly strong.
+
+70
+00:02:33,099 --> 00:02:35,712
+It can be built from straight lines.
+
+71
+00:02:35,892 --> 00:02:39,579
+Imagine many straight steel beams leaning in
+
+72
+00:02:39,579 --> 00:02:42,428
+a circle, all tilted the same way.
+
+73
+00:02:42,608 --> 00:02:45,271
+Together, they make this curved shape,
+
+74
+00:02:45,271 --> 00:02:47,863
+which resists wind and its own weight
+
+75
+00:02:47,863 --> 00:02:48,564
+very well.
+
+76
+00:02:48,914 --> 00:02:50,788
+Because it is so strong,
+
+77
+00:02:50,788 --> 00:02:53,599
+the concrete shell can be very thin,
+
+78
+00:02:53,599 --> 00:02:56,488
+often only around twenty centimeters,
+
+79
+00:02:56,488 --> 00:02:59,065
+for a tower over a hundred meters
+
+80
+00:02:59,065 --> 00:02:59,455
+tall.
+
+81
+00:02:59,635 --> 00:03:00,881
+That is thinner,
+
+82
+00:03:00,881 --> 00:03:02,515
+relative to its size,
+
+83
+00:03:02,515 --> 00:03:03,838
+than an eggshell.
+
+84
+00:03:04,018 --> 00:03:06,747
+Less concrete means a cheaper tower.
+
+85
+00:03:07,097 --> 00:03:09,256
+The shape also helps the air.
+
+86
+00:03:09,436 --> 00:03:11,873
+The wide base gives room for the
+
+87
+00:03:11,873 --> 00:03:14,386
+water sprays and lets lots of air
+
+88
+00:03:14,386 --> 00:03:14,614
+in.
+
+89
+00:03:14,794 --> 00:03:17,580
+The narrow waist speeds up the rising
+
+90
+00:03:17,580 --> 00:03:20,064
+air, and the flared top helps the
+
+91
+00:03:20,064 --> 00:03:22,399
+plume mix with the outside air.
+
+92
+00:03:22,579 --> 00:03:25,686
+One shape, solving the structure and the
+
+93
+00:03:25,686 --> 00:03:27,629
+airflow at the same time.
+
+94
+00:03:27,979 --> 00:03:30,347
+Why do some nuclear plants have no
+
+95
+00:03:30,347 --> 00:03:31,879
+cooling towers at all?
+
+96
+00:03:32,059 --> 00:03:34,350
+Because they use the sea,
+
+97
+00:03:34,350 --> 00:03:37,098
+a lake or a big river instead.
+
+98
+00:03:37,278 --> 00:03:39,828
+They pump huge amounts of water in,
+
+99
+00:03:39,828 --> 00:03:42,524
+pass it through the condenser to cool
+
+100
+00:03:42,524 --> 00:03:44,636
+the steam, and send it back a
+
+101
+00:03:44,636 --> 00:03:46,020
+few degrees warmer.
+
+102
+00:03:46,200 --> 00:03:47,912
+Plants on the coast,
+
+103
+00:03:47,912 --> 00:03:49,623
+like many in France,
+
+104
+00:03:49,623 --> 00:03:52,105
+Japan and the United Kingdom,
+
+105
+00:03:52,105 --> 00:03:53,817
+often work this way.
+
+106
+00:03:54,166 --> 00:03:56,728
+It is cheaper and more efficient,
+
+107
+00:03:56,728 --> 00:03:58,125
+but it has limits.
+
+108
+00:03:58,305 --> 00:03:59,924
+In very hot summers,
+
+109
+00:03:59,924 --> 00:04:02,433
+river water can get too warm to
+
+110
+00:04:02,433 --> 00:04:04,376
+cool the plant properly,
+
+111
+00:04:04,376 --> 00:04:08,018
+and environmental rules limit how much warmer
+
+112
+00:04:08,018 --> 00:04:09,718
+the river may become.
+
+113
+00:04:09,898 --> 00:04:12,488
+Some plants in Europe have had to
+
+114
+00:04:12,488 --> 00:04:15,783
+reduce power during heat waves for exactly
+
+115
+00:04:15,783 --> 00:04:16,725
+this reason.
+
+116
+00:04:17,074 --> 00:04:20,582
+Sea intakes have their own surprise enemy,
+
+117
+00:04:20,582 --> 00:04:21,417
+jellyfish.
+
+118
+00:04:21,597 --> 00:04:24,891
+Large swarms have been sucked into intake
+
+119
+00:04:24,891 --> 00:04:26,899
+screens and clogged them,
+
+120
+00:04:26,899 --> 00:04:29,069
+forcing plants in Scotland,
+
+121
+00:04:29,069 --> 00:04:32,041
+Sweden and elsewhere to shut down for
+
+122
+00:04:32,041 --> 00:04:32,684
+a while.
+
+123
+00:04:32,864 --> 00:04:34,654
+A nuclear reactor,
+
+124
+00:04:34,654 --> 00:04:36,742
+stopped by jellyfish.
+
+125
+00:04:37,091 --> 00:04:40,019
+Why does the reactor sit inside a
+
+126
+00:04:40,019 --> 00:04:42,769
+huge concrete dome or cylinder?
+
+127
+00:04:42,949 --> 00:04:45,274
+It is the containment building,
+
+128
+00:04:45,274 --> 00:04:48,274
+the last barrier between the reactor and
+
+129
+00:04:48,274 --> 00:04:49,624
+the outside world.
+
+130
+00:04:49,804 --> 00:04:52,740
+Its walls are reinforced concrete,
+
+131
+00:04:52,740 --> 00:04:55,071
+often around a meter thick,
+
+132
+00:04:55,071 --> 00:04:56,538
+lined with steel.
+
+133
+00:04:56,718 --> 00:04:58,852
+If something breaks inside,
+
+134
+00:04:58,852 --> 00:05:02,407
+and radioactive steam escapes from the pipes,
+
+135
+00:05:02,407 --> 00:05:05,409
+the containment is designed to hold it
+
+136
+00:05:05,409 --> 00:05:05,646
+in.
+
+137
+00:05:05,996 --> 00:05:09,264
+The round shape is strong against pressure
+
+138
+00:05:09,264 --> 00:05:11,753
+from inside, like a balloon or a
+
+139
+00:05:11,753 --> 00:05:12,997
+pressure cooker.
+
+140
+00:05:13,177 --> 00:05:16,389
+It also resists things from outside,
+
+141
+00:05:16,389 --> 00:05:19,422
+like storms, earthquakes and even,
+
+142
+00:05:19,422 --> 00:05:20,849
+in many designs,
+
+143
+00:05:20,849 --> 00:05:23,882
+the impact of a crashing airplane.
+
+144
+00:05:24,231 --> 00:05:26,442
+In nineteen seventy nine,
+
+145
+00:05:26,442 --> 00:05:29,714
+at Three Mile Island in Pennsylvania,
+
+146
+00:05:29,714 --> 00:05:32,544
+part of the reactor core melted.
+
+147
+00:05:32,724 --> 00:05:35,992
+But the containment building did its job,
+
+148
+00:05:35,992 --> 00:05:39,818
+and only small amounts of radioactivity escaped.
+
+149
+00:05:39,998 --> 00:05:42,709
+At Chernobyl in nineteen eighty six,
+
+150
+00:05:42,709 --> 00:05:45,571
+the reactor had no containment of this
+
+151
+00:05:45,571 --> 00:05:49,336
+kind, and the explosion threw radioactive material
+
+152
+00:05:49,336 --> 00:05:50,993
+straight into the sky.
+
+153
+00:05:51,342 --> 00:05:53,590
+How do you turn off a nuclear
+
+154
+00:05:53,590 --> 00:05:54,210
+reactor?
+
+155
+00:05:54,390 --> 00:05:56,225
+You push rods into it.
+
+156
+00:05:56,405 --> 00:05:59,066
+Uranium splits when it is hit by
+
+157
+00:05:59,066 --> 00:06:03,059
+neutrons, and each split releases more neutrons,
+
+158
+00:06:03,059 --> 00:06:04,973
+which split more atoms.
+
+159
+00:06:05,153 --> 00:06:08,462
+Control rods are made of materials like
+
+160
+00:06:08,462 --> 00:06:11,770
+boron or cadmium that soak up neutrons.
+
+161
+00:06:11,950 --> 00:06:13,199
+Push them in,
+
+162
+00:06:13,199 --> 00:06:16,657
+and the chain reaction slows down or
+
+163
+00:06:16,657 --> 00:06:17,233
+stops.
+
+164
+00:06:17,413 --> 00:06:18,975
+Pull them out a little,
+
+165
+00:06:18,975 --> 00:06:20,130
+and it speeds up.
+
+166
+00:06:20,479 --> 00:06:21,923
+In an emergency,
+
+167
+00:06:21,923 --> 00:06:24,539
+all the rods drop in at once,
+
+168
+00:06:24,539 --> 00:06:27,155
+often in a couple of seconds.
+
+169
+00:06:27,335 --> 00:06:29,054
+This is called a scram.
+
+170
+00:06:29,234 --> 00:06:30,693
+In many reactors,
+
+171
+00:06:30,693 --> 00:06:34,041
+the rods are held up by electromagnets,
+
+172
+00:06:34,041 --> 00:06:35,930
+so if the power fails,
+
+173
+00:06:35,930 --> 00:06:38,591
+they simply fall in by gravity.
+
+174
+00:06:38,771 --> 00:06:40,952
+The safe position is the one they
+
+175
+00:06:40,952 --> 00:06:42,208
+reach on their own.
+
+176
+00:06:42,558 --> 00:06:45,520
+But stopping the chain reaction does not
+
+177
+00:06:45,520 --> 00:06:46,853
+stop all the heat.
+
+178
+00:06:47,033 --> 00:06:50,664
+The radioactive fuel keeps producing heat for
+
+179
+00:06:50,664 --> 00:06:51,874
+days and weeks,
+
+180
+00:06:51,874 --> 00:06:55,021
+at first several percent of full power.
+
+181
+00:06:55,201 --> 00:06:57,818
+That is why a stopped reactor still
+
+182
+00:06:57,818 --> 00:07:00,959
+needs cooling, and why losing that cooling
+
+183
+00:07:00,959 --> 00:07:02,155
+is so dangerous.
+
+184
+00:07:02,505 --> 00:07:04,827
+How much energy is in nuclear fuel?
+
+185
+00:07:05,007 --> 00:07:08,137
+It comes as small ceramic pellets of
+
+186
+00:07:08,137 --> 00:07:11,093
+uranium oxide, about the size of a
+
+187
+00:07:11,093 --> 00:07:11,962
+fingertip.
+
+188
+00:07:12,142 --> 00:07:15,119
+According to the nuclear industry,
+
+189
+00:07:15,119 --> 00:07:18,271
+one pellet can produce about as much
+
+190
+00:07:18,271 --> 00:07:20,547
+energy as a tonne of coal.
+
+191
+00:07:20,727 --> 00:07:24,072
+Splitting an atom releases millions of times
+
+192
+00:07:24,072 --> 00:07:26,277
+more energy than burning one.
+
+193
+00:07:26,626 --> 00:07:29,968
+The pellets are stacked inside long metal
+
+194
+00:07:29,968 --> 00:07:31,924
+tubes, called fuel rods,
+
+195
+00:07:31,924 --> 00:07:34,858
+and the rods are grouped into square
+
+196
+00:07:34,858 --> 00:07:37,384
+bundles called fuel assemblies,
+
+197
+00:07:37,384 --> 00:07:39,014
+several meters long.
+
+198
+00:07:39,194 --> 00:07:41,800
+A large reactor holds a few hundred
+
+199
+00:07:41,800 --> 00:07:44,630
+assemblies, and around a third of them
+
+200
+00:07:44,630 --> 00:07:46,938
+are replaced every year or two.
+
+201
+00:07:47,288 --> 00:07:49,708
+The pellets are made of ceramic for
+
+202
+00:07:49,708 --> 00:07:50,330
+a reason.
+
+203
+00:07:50,510 --> 00:07:54,248
+Ceramic stays solid at very high temperatures
+
+204
+00:07:54,248 --> 00:07:57,737
+and traps most of the radioactive products
+
+205
+00:07:57,737 --> 00:07:58,568
+inside it.
+
+206
+00:07:58,748 --> 00:08:01,025
+The metal tube around it is another
+
+207
+00:08:01,025 --> 00:08:01,546
+barrier.
+
+208
+00:08:01,726 --> 00:08:04,162
+Nuclear safety is built in layers,
+
+209
+00:08:04,162 --> 00:08:06,814
+starting with a pellet you could hold
+
+210
+00:08:06,814 --> 00:08:07,960
+in your fingers.
+
+211
+00:08:08,310 --> 00:08:11,132
+Why does the water around nuclear fuel
+
+212
+00:08:11,132 --> 00:08:12,618
+sometimes glow blue?
+
+213
+00:08:12,798 --> 00:08:15,723
+It is called Cherenkov radiation.
+
+214
+00:08:15,903 --> 00:08:18,900
+Particles from the fuel travel through the
+
+215
+00:08:18,900 --> 00:08:21,825
+water faster than light travels in water.
+
+216
+00:08:22,005 --> 00:08:24,072
+They do not break the speed of
+
+217
+00:08:24,072 --> 00:08:25,312
+light in a vacuum,
+
+218
+00:08:25,312 --> 00:08:26,208
+but in water,
+
+219
+00:08:26,208 --> 00:08:27,310
+light is slower.
+
+220
+00:08:27,490 --> 00:08:29,705
+The result is a kind of optical
+
+221
+00:08:29,705 --> 00:08:31,849
+shock wave, like a sonic boom,
+
+222
+00:08:31,849 --> 00:08:33,493
+but made of blue light.
+
+223
+00:08:33,842 --> 00:08:36,403
+Used fuel is stored in deep pools
+
+224
+00:08:36,403 --> 00:08:39,041
+of water for years after it leaves
+
+225
+00:08:39,041 --> 00:08:39,973
+the reactor.
+
+226
+00:08:40,153 --> 00:08:42,219
+The water does two jobs.
+
+227
+00:08:42,399 --> 00:08:43,873
+It cools the fuel,
+
+228
+00:08:43,873 --> 00:08:46,329
+which is still producing heat,
+
+229
+00:08:46,329 --> 00:08:48,622
+and it blocks the radiation.
+
+230
+00:08:48,802 --> 00:08:50,973
+A few meters of water above the
+
+231
+00:08:50,973 --> 00:08:53,214
+fuel make it safe for workers to
+
+232
+00:08:53,214 --> 00:08:55,315
+stand at the edge of the pool.
+
+233
+00:08:55,665 --> 00:08:57,259
+After several years,
+
+234
+00:08:57,259 --> 00:08:59,649
+when the fuel has cooled down,
+
+235
+00:08:59,649 --> 00:09:02,119
+it can be moved into dry casks,
+
+236
+00:09:02,119 --> 00:09:05,545
+thick containers of steel and concrete that
+
+237
+00:09:05,545 --> 00:09:07,856
+sit outside on concrete pads.
+
+238
+00:09:08,036 --> 00:09:10,440
+A pool of water and a steel
+
+239
+00:09:10,440 --> 00:09:14,092
+can, keeping some of the most radioactive
+
+240
+00:09:14,092 --> 00:09:16,140
+material on Earth safe.
+
+241
+00:09:16,489 --> 00:09:19,935
+Why is a nuclear reactor core held
+
+242
+00:09:19,935 --> 00:09:22,469
+inside a giant steel pot?
+
+243
+00:09:22,649 --> 00:09:24,750
+It is the reactor pressure vessel.
+
+244
+00:09:24,930 --> 00:09:27,424
+In the most common type of reactor,
+
+245
+00:09:27,424 --> 00:09:29,918
+the water around the core is heated
+
+246
+00:09:29,918 --> 00:09:32,198
+to around three hundred degrees,
+
+247
+00:09:32,198 --> 00:09:35,262
+but kept from boiling by enormous pressure,
+
+248
+00:09:35,262 --> 00:09:37,756
+more than a hundred and fifty times
+
+249
+00:09:37,756 --> 00:09:39,466
+the pressure of the air.
+
+250
+00:09:39,646 --> 00:09:43,016
+Holding that takes steel walls around twenty
+
+251
+00:09:43,016 --> 00:09:44,394
+centimeters thick.
+
+252
+00:09:44,744 --> 00:09:47,959
+The hot pressurized water then flows to
+
+253
+00:09:47,959 --> 00:09:51,338
+steam generators, where it heats a second
+
+254
+00:09:51,338 --> 00:09:54,223
+loop of water that boils into steam
+
+255
+00:09:54,223 --> 00:09:55,542
+for the turbine.
+
+256
+00:09:55,722 --> 00:09:57,963
+The water that touches the fuel never
+
+257
+00:09:57,963 --> 00:09:59,356
+leaves the containment.
+
+258
+00:09:59,536 --> 00:10:03,662
+That separation keeps radioactivity away from the
+
+259
+00:10:03,662 --> 00:10:06,188
+turbine and the outside world.
+
+260
+00:10:06,539 --> 00:10:09,325
+The pressure vessel cannot be replaced.
+
+261
+00:10:09,505 --> 00:10:13,063
+Over decades, neutrons slowly make its steel
+
+262
+00:10:13,063 --> 00:10:14,114
+more brittle.
+
+263
+00:10:14,294 --> 00:10:16,873
+So small samples of the same steel
+
+264
+00:10:16,873 --> 00:10:19,605
+are placed inside the vessel when it
+
+265
+00:10:19,605 --> 00:10:22,032
+is built, and taken out over the
+
+266
+00:10:22,032 --> 00:10:23,094
+years to test.
+
+267
+00:10:23,274 --> 00:10:26,048
+They tell engineers how the real vessel
+
+268
+00:10:26,048 --> 00:10:26,688
+is aging.
+
+269
+00:10:27,038 --> 00:10:30,105
+Why do nuclear control rooms look the
+
+270
+00:10:30,105 --> 00:10:31,099
+way they do,
+
+271
+00:10:31,099 --> 00:10:33,752
+and why do operators train in an
+
+272
+00:10:33,752 --> 00:10:35,327
+exact copy of them?
+
+273
+00:10:35,507 --> 00:10:37,771
+Because of Three Mile Island.
+
+274
+00:10:37,951 --> 00:10:40,604
+In March nineteen seventy nine,
+
+275
+00:10:40,604 --> 00:10:43,514
+a valve stuck open and let cooling
+
+276
+00:10:43,514 --> 00:10:44,627
+water escape.
+
+277
+00:10:44,807 --> 00:10:47,237
+A light on the control panel showed
+
+278
+00:10:47,237 --> 00:10:49,389
+that the valve had been told to
+
+279
+00:10:49,389 --> 00:10:51,610
+close, not that it actually had.
+
+280
+00:10:51,790 --> 00:10:54,983
+Operators believed it was closed for hours.
+
+281
+00:10:55,333 --> 00:10:57,893
+Hundreds of alarms went off at once,
+
+282
+00:10:57,893 --> 00:11:00,952
+and the most important information was hard
+
+283
+00:11:00,952 --> 00:11:01,521
+to find.
+
+284
+00:11:01,701 --> 00:11:05,499
+Investigators found that the control room design
+
+285
+00:11:05,499 --> 00:11:08,822
+and operator training were major causes of
+
+286
+00:11:08,822 --> 00:11:09,851
+the accident.
+
+287
+00:11:10,031 --> 00:11:13,139
+After that, control rooms were redesigned to
+
+288
+00:11:13,139 --> 00:11:15,399
+make critical information clear,
+
+289
+00:11:15,399 --> 00:11:17,942
+and every plant in the United States
+
+290
+00:11:17,942 --> 00:11:20,273
+was required to have a full scale
+
+291
+00:11:20,273 --> 00:11:20,979
+simulator.
+
+292
+00:11:21,329 --> 00:11:24,577
+Operators now spend weeks every year in
+
+293
+00:11:24,577 --> 00:11:29,325
+these simulators, practicing accidents that will probably
+
+294
+00:11:29,325 --> 00:11:30,408
+never happen.
+
+295
+00:11:30,588 --> 00:11:33,168
+The simulator is an exact copy,
+
+296
+00:11:33,168 --> 00:11:35,998
+down to the color of the switches.
+
+297
+00:11:36,178 --> 00:11:38,546
+When something goes wrong in the real
+
+298
+00:11:38,546 --> 00:11:40,978
+room, their hands already know what to
+
+299
+00:11:40,978 --> 00:11:41,170
+do.
+
+300
+00:11:41,520 --> 00:11:43,325
+Why does a power plant,
+
+301
+00:11:43,325 --> 00:11:45,210
+which makes electricity,
+
+302
+00:11:45,210 --> 00:11:47,801
+need emergency diesel generators?
+
+303
+00:11:47,981 --> 00:11:50,640
+Because when the reactor stops,
+
+304
+00:11:50,640 --> 00:11:52,613
+it cannot power itself.
+
+305
+00:11:52,793 --> 00:11:55,443
+The pumps that keep cooling the fuel
+
+306
+00:11:55,443 --> 00:11:56,694
+need electricity.
+
+307
+00:11:56,874 --> 00:11:59,332
+If the connection to the grid is
+
+308
+00:11:59,332 --> 00:12:02,788
+lost, the diesel generators must start within
+
+309
+00:12:02,788 --> 00:12:05,477
+seconds and keep the pumps running.
+
+310
+00:12:05,827 --> 00:12:08,036
+In March two thousand eleven,
+
+311
+00:12:08,036 --> 00:12:10,322
+at Fukushima Daiichi in Japan,
+
+312
+00:12:10,322 --> 00:12:13,141
+the earthquake cut the plant off from
+
+313
+00:12:13,141 --> 00:12:16,418
+the grid, and the diesel generators started
+
+314
+00:12:16,418 --> 00:12:17,332
+as designed.
+
+315
+00:12:17,512 --> 00:12:19,393
+Then the tsunami arrived.
+
+316
+00:12:19,573 --> 00:12:22,759
+It flooded the generators and the electrical
+
+317
+00:12:22,759 --> 00:12:25,076
+rooms, many of them in low parts
+
+318
+00:12:25,076 --> 00:12:26,307
+of the buildings.
+
+319
+00:12:26,487 --> 00:12:29,364
+With no power to cool the cores,
+
+320
+00:12:29,364 --> 00:12:31,792
+three reactors melted down.
+
+321
+00:12:32,143 --> 00:12:36,073
+After Fukushima, plants around the world added
+
+322
+00:12:36,073 --> 00:12:37,611
+more backup power,
+
+323
+00:12:37,611 --> 00:12:41,029
+placed higher or in protected buildings,
+
+324
+00:12:41,029 --> 00:12:44,960
+plus portable pumps and generators stored away
+
+325
+00:12:44,960 --> 00:12:46,156
+from the site.
+
+326
+00:12:46,336 --> 00:12:47,926
+The lesson was simple.
+
+327
+00:12:48,106 --> 00:12:50,564
+A backup is only a backup if
+
+328
+00:12:50,564 --> 00:12:54,074
+the same disaster cannot destroy it too.
+
+329
+00:12:54,424 --> 00:12:56,550
+Why can you see the cloud from
+
+330
+00:12:56,550 --> 00:12:58,676
+a big power plant from tens of
+
+331
+00:12:58,676 --> 00:12:59,811
+kilometers away?
+
+332
+00:12:59,991 --> 00:13:03,764
+Because a large cooling tower evaporates an
+
+333
+00:13:03,764 --> 00:13:05,958
+enormous amount of water.
+
+334
+00:13:06,138 --> 00:13:08,782
+A big plant can release hundreds of
+
+335
+00:13:08,782 --> 00:13:11,653
+liters of water every second as vapor.
+
+336
+00:13:11,833 --> 00:13:12,597
+On a cold,
+
+337
+00:13:12,597 --> 00:13:15,197
+humid day, the plume can rise high
+
+338
+00:13:15,197 --> 00:13:17,490
+into the sky and even make its
+
+339
+00:13:17,490 --> 00:13:19,019
+own clouds downwind.
+
+340
+00:13:19,370 --> 00:13:21,602
+That water must be replaced,
+
+341
+00:13:21,602 --> 00:13:24,313
+so plants with towers still need a
+
+342
+00:13:24,313 --> 00:13:25,987
+river or lake nearby.
+
+343
+00:13:26,167 --> 00:13:28,825
+They just take much less water than
+
+344
+00:13:28,825 --> 00:13:32,091
+plants that cool directly with river water,
+
+345
+00:13:32,091 --> 00:13:36,268
+because evaporation carries away heat very efficiently.
+
+346
+00:13:36,448 --> 00:13:39,215
+Every liter that evaporates takes a large
+
+347
+00:13:39,215 --> 00:13:40,767
+amount of heat with it.
+
+348
+00:13:41,117 --> 00:13:43,700
+So the famous image of a nuclear
+
+349
+00:13:43,700 --> 00:13:46,445
+plant is really an image of water.
+
+350
+00:13:46,625 --> 00:13:48,446
+Water cooling the core,
+
+351
+00:13:48,446 --> 00:13:50,424
+water shielding the fuel,
+
+352
+00:13:50,424 --> 00:13:52,481
+water turning the turbine,
+
+353
+00:13:52,481 --> 00:13:55,013
+and water rising into the sky as
+
+354
+00:13:55,013 --> 00:13:55,646
+a cloud.
+
+355
+00:13:55,826 --> 00:13:56,976
+The atom heats it.
+
+356
+00:13:57,156 --> 00:13:58,955
+Everything else is plumbing.
+
+357
+00:13:59,305 --> 00:14:01,407
+So here are the eleven.
+
+358
+00:14:01,587 --> 00:14:04,883
+A giant tower that throws away heat,
+
+359
+00:14:04,883 --> 00:14:07,996
+shaped to be both strong and thin.
+
+360
+00:14:08,176 --> 00:14:10,473
+Plants with no towers at all,
+
+361
+00:14:10,473 --> 00:14:13,245
+a concrete dome around the reactor,
+
+362
+00:14:13,245 --> 00:14:15,780
+and rods that stop the reaction.
+
+363
+00:14:15,960 --> 00:14:18,867
+A pellet the size of a fingertip,
+
+364
+00:14:18,867 --> 00:14:21,421
+a pool of glowing blue water,
+
+365
+00:14:21,421 --> 00:14:23,006
+a thick steel pot,
+
+366
+00:14:23,006 --> 00:14:26,617
+a control room rebuilt after an accident,
+
+367
+00:14:26,617 --> 00:14:29,435
+generators that must never fail,
+
+368
+00:14:29,435 --> 00:14:31,813
+and a cloud you can see for
+
+369
+00:14:31,813 --> 00:14:32,342
+miles.
+
+370
+00:14:32,691 --> 00:14:35,050
+Next time you see those towers on
+
+371
+00:14:35,050 --> 00:14:37,623
+the horizon, you will know the cloud
+
+372
+00:14:37,623 --> 00:14:38,624
+is just water.
+
+373
+00:14:38,804 --> 00:14:41,793
+If you want more machines explained part
+
+374
+00:14:41,793 --> 00:14:44,632
+by part, subscribe to Machine Reverse.
+
+375
+00:14:44,812 --> 00:14:46,809
+And tell us in the comments which
+
+376
+00:14:46,809 --> 00:14:48,806
+machine you want us to take apart
+
+377
+00:14:48,806 --> 00:14:49,108
+next.
