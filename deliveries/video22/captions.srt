@@ -1,0 +1,1659 @@
+1
+00:00:00,000 --> 00:00:02,797
+The steering wheel of a Formula One
+
+2
+00:00:02,797 --> 00:00:05,435
+car has more than twenty buttons,
+
+3
+00:00:05,435 --> 00:00:06,954
+dials and switches,
+
+4
+00:00:06,954 --> 00:00:09,672
+a screen in the middle and paddles
+
+5
+00:00:09,672 --> 00:00:10,472
+behind it.
+
+6
+00:00:10,652 --> 00:00:13,263
+And the driver uses them at three
+
+7
+00:00:13,263 --> 00:00:15,478
+hundred kilometres per hour,
+
+8
+00:00:15,478 --> 00:00:16,665
+with one thumb,
+
+9
+00:00:16,665 --> 00:00:17,931
+between corners.
+
+10
+00:00:18,111 --> 00:00:20,108
+It is not a steering wheel.
+
+11
+00:00:20,288 --> 00:00:22,502
+It is the control room of the
+
+12
+00:00:22,502 --> 00:00:22,807
+car.
+
+13
+00:00:22,987 --> 00:00:26,023
+Today, ten parts of the F1 cockpit,
+
+14
+00:00:26,023 --> 00:00:28,104
+and why each one exists,
+
+15
+00:00:28,104 --> 00:00:30,186
+starting with the wheel.
+
+16
+00:00:30,536 --> 00:00:33,615
+The cockpit of a Formula One car
+
+17
+00:00:33,615 --> 00:00:36,213
+is a tiny carbon fibre tub.
+
+18
+00:00:36,393 --> 00:00:38,494
+The driver lies almost flat,
+
+19
+00:00:38,494 --> 00:00:41,121
+with the feet higher than the hips,
+
+20
+00:00:41,121 --> 00:00:43,448
+wrapped in a seat shaped to his
+
+21
+00:00:43,448 --> 00:00:43,823
+body.
+
+22
+00:00:44,003 --> 00:00:46,277
+There is no room for anything that
+
+23
+00:00:46,277 --> 00:00:47,614
+does not have a job.
+
+24
+00:00:47,794 --> 00:00:50,854
+Every button, every strap and every piece
+
+25
+00:00:50,854 --> 00:00:53,615
+of clothing in there was designed for
+
+26
+00:00:53,615 --> 00:00:56,452
+speed, or written into the rules after
+
+27
+00:00:56,452 --> 00:00:57,720
+someone got hurt.
+
+28
+00:00:58,071 --> 00:01:01,184
+As always, every fact here comes from
+
+29
+00:01:01,184 --> 00:01:02,446
+a named source,
+
+30
+00:01:02,446 --> 00:01:06,401
+the FIA, Formula One and motorsport references,
+
+31
+00:01:06,401 --> 00:01:08,926
+all listed in the description.
+
+32
+00:01:09,106 --> 00:01:11,510
+Let's take the wheel off and look
+
+33
+00:01:11,510 --> 00:01:12,020
+closer.
+
+34
+00:01:12,370 --> 00:01:15,251
+Why does an F1 steering wheel have
+
+35
+00:01:15,251 --> 00:01:16,607
+so many buttons?
+
+36
+00:01:16,787 --> 00:01:20,070
+Because the driver is also the engineer
+
+37
+00:01:20,070 --> 00:01:20,827
+on board.
+
+38
+00:01:21,007 --> 00:01:23,883
+A modern Formula One car is a
+
+39
+00:01:23,883 --> 00:01:26,659
+hybrid, with a turbo engine,
+
+40
+00:01:26,659 --> 00:01:29,634
+electric motors and a battery.
+
+41
+00:01:29,814 --> 00:01:32,278
+The driver can change how the engine
+
+42
+00:01:32,278 --> 00:01:35,016
+delivers power, how the battery is used,
+
+43
+00:01:35,016 --> 00:01:37,411
+how the brakes are balanced and how
+
+44
+00:01:37,411 --> 00:01:39,122
+the differential behaves,
+
+45
+00:01:39,122 --> 00:01:40,286
+corner by corner.
+
+46
+00:01:40,466 --> 00:01:42,646
+All of that is done from the
+
+47
+00:01:42,646 --> 00:01:43,113
+wheel.
+
+48
+00:01:43,463 --> 00:01:45,123
+Some buttons are simple.
+
+49
+00:01:45,303 --> 00:01:46,879
+One for the radio,
+
+50
+00:01:46,879 --> 00:01:49,944
+one for the pit lane speed limiter,
+
+51
+00:01:49,944 --> 00:01:52,133
+one to confirm a message,
+
+52
+00:01:52,133 --> 00:01:53,534
+one for neutral.
+
+53
+00:01:53,714 --> 00:01:56,604
+Others change whole maps of settings with
+
+54
+00:01:56,604 --> 00:01:57,662
+a single click.
+
+55
+00:01:57,842 --> 00:02:00,362
+Every team designs its own wheel,
+
+56
+00:02:00,362 --> 00:02:03,036
+and each driver can ask for buttons
+
+57
+00:02:03,036 --> 00:02:04,564
+in different places,
+
+58
+00:02:04,564 --> 00:02:06,015
+for his own thumbs.
+
+59
+00:02:06,195 --> 00:02:09,272
+Each wheel is a handmade carbon fibre
+
+60
+00:02:09,272 --> 00:02:12,931
+computer, reported to cost tens of thousands
+
+61
+00:02:12,931 --> 00:02:13,846
+of dollars.
+
+62
+00:02:14,196 --> 00:02:17,801
+Drivers spend hours in the simulator learning
+
+63
+00:02:17,801 --> 00:02:21,406
+the wheel, until the movements are automatic.
+
+64
+00:02:21,586 --> 00:02:22,732
+During the race,
+
+65
+00:02:22,732 --> 00:02:25,097
+the engineer on the radio may say
+
+66
+00:02:25,097 --> 00:02:27,032
+a code, like a mode number,
+
+67
+00:02:27,032 --> 00:02:29,970
+and the driver changes it without looking
+
+68
+00:02:29,970 --> 00:02:30,328
+down.
+
+69
+00:02:30,508 --> 00:02:33,146
+The most important skill is not knowing
+
+70
+00:02:33,146 --> 00:02:34,026
+every button.
+
+71
+00:02:34,206 --> 00:02:36,694
+It is knowing which one to press,
+
+72
+00:02:36,694 --> 00:02:39,484
+at three hundred kilometres per hour,
+
+73
+00:02:39,484 --> 00:02:41,218
+without losing a tenth.
+
+74
+00:02:41,568 --> 00:02:44,598
+Why do F1 drivers keep turning small
+
+75
+00:02:44,598 --> 00:02:47,292
+dials on the wheel during a lap?
+
+76
+00:02:47,472 --> 00:02:49,619
+One of the most used is brake
+
+77
+00:02:49,619 --> 00:02:50,212
+balance.
+
+78
+00:02:50,392 --> 00:02:52,840
+It decides how much braking goes to
+
+79
+00:02:52,840 --> 00:02:55,079
+the front wheels and how much to
+
+80
+00:02:55,079 --> 00:02:55,709
+the rear.
+
+81
+00:02:55,889 --> 00:02:58,592
+As the fuel burns and the tyres
+
+82
+00:02:58,592 --> 00:03:00,510
+wear, the car changes.
+
+83
+00:03:00,690 --> 00:03:03,285
+A balance that was perfect on lap
+
+84
+00:03:03,285 --> 00:03:05,801
+one can lock the front wheels on
+
+85
+00:03:05,801 --> 00:03:06,588
+lap forty.
+
+86
+00:03:06,768 --> 00:03:08,836
+So the driver adjusts it,
+
+87
+00:03:08,836 --> 00:03:11,319
+sometimes for a single corner.
+
+88
+00:03:11,669 --> 00:03:14,494
+Another dial controls the differential,
+
+89
+00:03:14,494 --> 00:03:16,739
+the part that lets the two rear
+
+90
+00:03:16,739 --> 00:03:19,347
+wheels turn at different speeds in a
+
+91
+00:03:19,347 --> 00:03:19,854
+corner.
+
+92
+00:03:20,034 --> 00:03:22,806
+More locked helps traction out of slow
+
+93
+00:03:22,806 --> 00:03:23,389
+corners.
+
+94
+00:03:23,569 --> 00:03:25,752
+More open helps the car turn in.
+
+95
+00:03:25,932 --> 00:03:28,565
+Drivers change it between corners,
+
+96
+00:03:28,565 --> 00:03:31,121
+and on some cars the setting even
+
+97
+00:03:31,121 --> 00:03:34,839
+changes automatically at different points of the
+
+98
+00:03:34,839 --> 00:03:37,240
+corner, entry, middle and exit.
+
+99
+00:03:37,590 --> 00:03:40,428
+Other dials manage the hybrid system,
+
+100
+00:03:40,428 --> 00:03:43,496
+how much energy the electric motor gives
+
+101
+00:03:43,496 --> 00:03:45,951
+and how much it takes back under
+
+102
+00:03:45,951 --> 00:03:46,564
+braking.
+
+103
+00:03:46,744 --> 00:03:49,070
+Watch an onboard camera closely,
+
+104
+00:03:49,070 --> 00:03:51,687
+and you will see the driver's thumbs
+
+105
+00:03:51,687 --> 00:03:54,012
+moving on almost every straight.
+
+106
+00:03:54,192 --> 00:03:55,086
+They are not playing.
+
+107
+00:03:55,266 --> 00:03:57,486
+They are tuning a race car while
+
+108
+00:03:57,486 --> 00:03:58,180
+racing it.
+
+109
+00:03:58,530 --> 00:04:01,084
+Why are there paddles behind an F1
+
+110
+00:04:01,084 --> 00:04:02,210
+steering wheel?
+
+111
+00:04:02,390 --> 00:04:04,294
+The top ones change gear.
+
+112
+00:04:04,474 --> 00:04:05,881
+Right paddle up,
+
+113
+00:04:05,881 --> 00:04:07,376
+left paddle down,
+
+114
+00:04:07,376 --> 00:04:09,838
+through eight forward gears.
+
+115
+00:04:10,018 --> 00:04:13,006
+A modern F1 gearbox changes gear in
+
+116
+00:04:13,006 --> 00:04:15,568
+a few thousandths of a second,
+
+117
+00:04:15,568 --> 00:04:18,215
+so fast that there is almost no
+
+118
+00:04:18,215 --> 00:04:19,666
+gap in the power.
+
+119
+00:04:19,846 --> 00:04:22,239
+The driver never takes his hands off
+
+120
+00:04:22,239 --> 00:04:24,300
+the wheel, and there is no gear
+
+121
+00:04:24,300 --> 00:04:26,162
+lever in the cockpit at all.
+
+122
+00:04:26,512 --> 00:04:28,551
+The lower paddles are the clutch,
+
+123
+00:04:28,551 --> 00:04:30,529
+and there are often two of them.
+
+124
+00:04:30,709 --> 00:04:33,165
+The clutch is only used to start,
+
+125
+00:04:33,165 --> 00:04:35,473
+at the race start and leaving a
+
+126
+00:04:35,473 --> 00:04:36,142
+pit stop.
+
+127
+00:04:36,322 --> 00:04:38,311
+Before the lights go out,
+
+128
+00:04:38,311 --> 00:04:41,015
+the driver holds one paddle at the
+
+129
+00:04:41,015 --> 00:04:44,037
+perfect bite point and the other fully
+
+130
+00:04:44,037 --> 00:04:44,275
+in.
+
+131
+00:04:44,455 --> 00:04:46,004
+When the lights go out,
+
+132
+00:04:46,004 --> 00:04:48,159
+he lets go of the second paddle,
+
+133
+00:04:48,159 --> 00:04:50,448
+and the car launches from the bite
+
+134
+00:04:50,448 --> 00:04:50,852
+point.
+
+135
+00:04:51,202 --> 00:04:53,627
+Getting that bite point right is one
+
+136
+00:04:53,627 --> 00:04:55,985
+of the hardest skills in the sport.
+
+137
+00:04:56,165 --> 00:04:58,197
+Too much and the wheels spin.
+
+138
+00:04:58,377 --> 00:05:01,001
+Too little and the engine bogs down.
+
+139
+00:05:01,181 --> 00:05:04,360
+The rules banned electronic launch control,
+
+140
+00:05:04,360 --> 00:05:07,021
+so the start depends on the driver's
+
+141
+00:05:07,021 --> 00:05:07,613
+fingers.
+
+142
+00:05:07,793 --> 00:05:10,000
+Races have been won and lost in
+
+143
+00:05:10,000 --> 00:05:11,567
+the first two seconds,
+
+144
+00:05:11,567 --> 00:05:13,633
+on a paddle behind the wheel.
+
+145
+00:05:13,983 --> 00:05:16,537
+Why do F1 drivers pull the steering
+
+146
+00:05:16,537 --> 00:05:18,580
+wheel off when they get out?
+
+147
+00:05:18,760 --> 00:05:21,593
+Because the cockpit is so tight that
+
+148
+00:05:21,593 --> 00:05:24,268
+a driver cannot climb out with the
+
+149
+00:05:24,268 --> 00:05:25,448
+wheel in place.
+
+150
+00:05:25,628 --> 00:05:27,595
+Behind the wheel there is a quick
+
+151
+00:05:27,595 --> 00:05:28,310
+release hub.
+
+152
+00:05:28,490 --> 00:05:30,403
+The driver pulls a collar,
+
+153
+00:05:30,403 --> 00:05:33,052
+and the wheel slides off the column.
+
+154
+00:05:33,232 --> 00:05:35,602
+The rules require a driver to be
+
+155
+00:05:35,602 --> 00:05:37,527
+able to get out of the car
+
+156
+00:05:37,527 --> 00:05:38,712
+in five seconds.
+
+157
+00:05:39,062 --> 00:05:42,050
+The five second test is done with
+
+158
+00:05:42,050 --> 00:05:43,590
+full racing gear,
+
+159
+00:05:43,590 --> 00:05:45,854
+helmet, gloves and belts.
+
+160
+00:05:46,034 --> 00:05:48,936
+It exists for fire and for crashes.
+
+161
+00:05:49,116 --> 00:05:51,509
+A driver who is trapped in a
+
+162
+00:05:51,509 --> 00:05:53,559
+burning car has seconds,
+
+163
+00:05:53,559 --> 00:05:54,585
+not minutes.
+
+164
+00:05:54,765 --> 00:05:56,229
+The wheel comes off,
+
+165
+00:05:56,229 --> 00:05:58,866
+the six point harness opens with one
+
+166
+00:05:58,866 --> 00:06:00,330
+twist of the buckle,
+
+167
+00:06:00,330 --> 00:06:02,747
+and the driver jumps out over the
+
+168
+00:06:02,747 --> 00:06:04,285
+sides of the cockpit.
+
+169
+00:06:04,635 --> 00:06:07,111
+When drivers stop their car on the
+
+170
+00:06:07,111 --> 00:06:09,588
+track, you will often see them put
+
+171
+00:06:09,588 --> 00:06:12,356
+the wheel back on before walking away.
+
+172
+00:06:12,536 --> 00:06:15,092
+That is because marshals may need to
+
+173
+00:06:15,092 --> 00:06:17,152
+push or steer the car off the
+
+174
+00:06:17,152 --> 00:06:19,709
+track, and the car cannot be steered
+
+175
+00:06:19,709 --> 00:06:20,988
+without the wheel.
+
+176
+00:06:21,168 --> 00:06:22,321
+A small habit,
+
+177
+00:06:22,321 --> 00:06:24,546
+but it is in the rules too.
+
+178
+00:06:24,896 --> 00:06:27,490
+Why does a row of coloured lights
+
+179
+00:06:27,490 --> 00:06:29,533
+flash at the top of the F1
+
+180
+00:06:29,533 --> 00:06:30,713
+steering wheel?
+
+181
+00:06:30,893 --> 00:06:32,831
+These are the shift lights.
+
+182
+00:06:33,011 --> 00:06:34,954
+As the engine revs climb,
+
+183
+00:06:34,954 --> 00:06:37,440
+the lights fill up from one side
+
+184
+00:06:37,440 --> 00:06:38,450
+to the other,
+
+185
+00:06:38,450 --> 00:06:40,314
+and when they all flash,
+
+186
+00:06:40,314 --> 00:06:42,956
+it is the perfect moment to change
+
+187
+00:06:42,956 --> 00:06:43,344
+gear.
+
+188
+00:06:43,524 --> 00:06:45,554
+The driver does not look at a
+
+189
+00:06:45,554 --> 00:06:46,044
+number.
+
+190
+00:06:46,224 --> 00:06:48,393
+His eyes stay on the track and
+
+191
+00:06:48,393 --> 00:06:51,070
+he sees the colours in his peripheral
+
+192
+00:06:51,070 --> 00:06:51,576
+vision.
+
+193
+00:06:51,926 --> 00:06:54,156
+The car also has lights for the
+
+194
+00:06:54,156 --> 00:06:55,235
+race officials.
+
+195
+00:06:55,415 --> 00:06:58,335
+Small panels in the cockpit light up
+
+196
+00:06:58,335 --> 00:06:59,795
+yellow, blue, red,
+
+197
+00:06:59,795 --> 00:07:02,391
+or the colour of the safety car,
+
+198
+00:07:02,391 --> 00:07:04,986
+at the same moment the flags are
+
+199
+00:07:04,986 --> 00:07:07,501
+shown on the side of the track.
+
+200
+00:07:07,681 --> 00:07:10,248
+A driver might miss a flag waved
+
+201
+00:07:10,248 --> 00:07:12,655
+by a marshal in a fast corner,
+
+202
+00:07:12,655 --> 00:07:15,382
+so the flag comes into the cockpit
+
+203
+00:07:15,382 --> 00:07:15,703
+too.
+
+204
+00:07:16,053 --> 00:07:18,601
+And on the screen in the middle
+
+205
+00:07:18,601 --> 00:07:19,669
+of the wheel,
+
+206
+00:07:19,669 --> 00:07:22,053
+the driver can see lap times,
+
+207
+00:07:22,053 --> 00:07:23,861
+the gap to other cars,
+
+208
+00:07:23,861 --> 00:07:26,409
+tyre temperatures and warnings.
+
+209
+00:07:26,589 --> 00:07:29,266
+Teams customise the screen pages,
+
+210
+00:07:29,266 --> 00:07:32,025
+so each driver sees what he wants,
+
+211
+00:07:32,025 --> 00:07:33,485
+where he wants it.
+
+212
+00:07:33,665 --> 00:07:36,484
+All this information has to be readable
+
+213
+00:07:36,484 --> 00:07:37,496
+in one glance,
+
+214
+00:07:37,496 --> 00:07:39,303
+at the end of a straight,
+
+215
+00:07:39,303 --> 00:07:41,038
+with a vibrating helmet.
+
+216
+00:07:41,388 --> 00:07:43,607
+Why is there a drink button on
+
+217
+00:07:43,607 --> 00:07:45,161
+an F1 steering wheel?
+
+218
+00:07:45,341 --> 00:07:48,279
+Because drivers lose a lot of water.
+
+219
+00:07:48,459 --> 00:07:51,004
+In a hot race like Singapore,
+
+220
+00:07:51,004 --> 00:07:54,428
+with high humidity and almost two hours
+
+221
+00:07:54,428 --> 00:07:57,588
+of driving, a driver can lose around
+
+222
+00:07:57,588 --> 00:08:00,309
+three kilograms of body weight,
+
+223
+00:08:00,309 --> 00:08:01,450
+mostly sweat.
+
+224
+00:08:01,630 --> 00:08:03,871
+A bottle sits inside the car,
+
+225
+00:08:03,871 --> 00:08:06,344
+and a tube runs into the helmet.
+
+226
+00:08:06,524 --> 00:08:07,674
+Press the button,
+
+227
+00:08:07,674 --> 00:08:09,366
+and a pump sends a sip of
+
+228
+00:08:09,366 --> 00:08:11,261
+drink to the driver's mouth.
+
+229
+00:08:11,611 --> 00:08:13,747
+The system does not always work.
+
+230
+00:08:13,927 --> 00:08:15,757
+Sometimes the pump fails,
+
+231
+00:08:15,757 --> 00:08:18,318
+and the driver has nothing to drink
+
+232
+00:08:18,318 --> 00:08:19,709
+for the whole race.
+
+233
+00:08:19,889 --> 00:08:21,978
+And the drink is often hot,
+
+234
+00:08:21,978 --> 00:08:24,763
+because the bottle sits in a cockpit
+
+235
+00:08:24,763 --> 00:08:27,548
+that can be well above forty degrees
+
+236
+00:08:27,548 --> 00:08:28,631
+in a hot race.
+
+237
+00:08:28,811 --> 00:08:31,719
+Drivers describe it as drinking hot tea
+
+238
+00:08:31,719 --> 00:08:33,583
+while running a marathon.
+
+239
+00:08:33,933 --> 00:08:37,590
+Dehydration is dangerous in a race car.
+
+240
+00:08:37,770 --> 00:08:40,443
+A small loss of water can slow
+
+241
+00:08:40,443 --> 00:08:42,225
+reactions and focus,
+
+242
+00:08:42,225 --> 00:08:44,809
+and in Formula One a tenth of
+
+243
+00:08:44,809 --> 00:08:48,195
+a second of reaction is several metres
+
+244
+00:08:48,195 --> 00:08:48,997
+of track.
+
+245
+00:08:49,177 --> 00:08:51,852
+So the teams weigh drivers before and
+
+246
+00:08:51,852 --> 00:08:54,599
+after races, and plan exactly how much
+
+247
+00:08:54,599 --> 00:08:57,130
+they should drink before the start.
+
+248
+00:08:57,310 --> 00:09:00,528
+Even water has a strategy in Formula
+
+249
+00:09:00,528 --> 00:09:00,886
+One.
+
+250
+00:09:01,236 --> 00:09:03,349
+Why does an F1 seat come out
+
+251
+00:09:03,349 --> 00:09:05,764
+of the car with the driver still
+
+252
+00:09:05,764 --> 00:09:06,217
+in it?
+
+253
+00:09:06,397 --> 00:09:09,187
+Each seat is a hard carbon fibre
+
+254
+00:09:09,187 --> 00:09:12,327
+shell, moulded to the exact shape of
+
+255
+00:09:12,327 --> 00:09:13,897
+one driver's body.
+
+256
+00:09:14,077 --> 00:09:16,484
+And it is designed to be lifted
+
+257
+00:09:16,484 --> 00:09:17,803
+out in one piece.
+
+258
+00:09:17,983 --> 00:09:19,930
+If a driver is injured in a
+
+259
+00:09:19,930 --> 00:09:22,525
+crash, the medical team can take him
+
+260
+00:09:22,525 --> 00:09:24,904
+out still strapped into the seat,
+
+261
+00:09:24,904 --> 00:09:27,283
+without bending his back or neck.
+
+262
+00:09:27,633 --> 00:09:30,381
+Back and neck injuries are the biggest
+
+263
+00:09:30,381 --> 00:09:32,189
+fear after a heavy crash,
+
+264
+00:09:32,189 --> 00:09:34,721
+because a wrong movement can turn a
+
+265
+00:09:34,721 --> 00:09:36,457
+fracture into paralysis.
+
+266
+00:09:36,637 --> 00:09:38,452
+With the extraction seat,
+
+267
+00:09:38,452 --> 00:09:41,211
+the seat itself becomes the stretcher.
+
+268
+00:09:41,391 --> 00:09:44,993
+Medical teams practice this procedure at every
+
+269
+00:09:44,993 --> 00:09:46,481
+race, on real cars,
+
+270
+00:09:46,481 --> 00:09:48,674
+so they can do it in minutes
+
+271
+00:09:48,674 --> 00:09:49,692
+on any track.
+
+272
+00:09:50,042 --> 00:09:52,696
+Making the seat is a ritual for
+
+273
+00:09:52,696 --> 00:09:54,152
+every new driver.
+
+274
+00:09:54,332 --> 00:09:56,196
+He sits in a bag of liquid
+
+275
+00:09:56,196 --> 00:09:57,630
+foam inside the car,
+
+276
+00:09:57,630 --> 00:09:59,279
+in his racing position,
+
+277
+00:09:59,279 --> 00:10:02,076
+until the foam hardens around his body.
+
+278
+00:10:02,256 --> 00:10:04,694
+That shape becomes the mould for the
+
+279
+00:10:04,694 --> 00:10:05,506
+carbon seat.
+
+280
+00:10:05,686 --> 00:10:08,084
+It fits so closely that the driver
+
+281
+00:10:08,084 --> 00:10:10,694
+feels every bump of the track through
+
+282
+00:10:10,694 --> 00:10:13,091
+it, which is exactly what he needs
+
+283
+00:10:13,091 --> 00:10:14,220
+to feel the car.
+
+284
+00:10:14,570 --> 00:10:17,060
+Why do race car drivers wear this
+
+285
+00:10:17,060 --> 00:10:19,551
+carbon collar on their shoulders?
+
+286
+00:10:19,731 --> 00:10:21,471
+It is the HANS device,
+
+287
+00:10:21,471 --> 00:10:24,003
+short for head and neck support.
+
+288
+00:10:24,183 --> 00:10:26,469
+Two straps connect the back of the
+
+289
+00:10:26,469 --> 00:10:27,881
+helmet to the collar,
+
+290
+00:10:27,881 --> 00:10:30,301
+which sits under the shoulder belts.
+
+291
+00:10:30,481 --> 00:10:31,931
+In a sudden stop,
+
+292
+00:10:31,931 --> 00:10:34,490
+the body is held by the belts,
+
+293
+00:10:34,490 --> 00:10:37,389
+but the head keeps moving forward.
+
+294
+00:10:37,569 --> 00:10:39,535
+HANS holds the head back with the
+
+295
+00:10:39,535 --> 00:10:39,833
+body.
+
+296
+00:10:40,183 --> 00:10:42,640
+Without it, the neck can be stretched
+
+297
+00:10:42,640 --> 00:10:44,832
+so violently that the base of the
+
+298
+00:10:44,832 --> 00:10:45,895
+skull fractures.
+
+299
+00:10:46,075 --> 00:10:49,072
+It is called a basilar skull fracture,
+
+300
+00:10:49,072 --> 00:10:51,439
+and it killed several drivers.
+
+301
+00:10:51,619 --> 00:10:54,772
+The device was developed in the nineteen
+
+302
+00:10:54,772 --> 00:10:56,901
+eighties by Robert Hubbard,
+
+303
+00:10:56,901 --> 00:10:58,872
+an engineering professor,
+
+304
+00:10:58,872 --> 00:11:01,631
+and his brother in law Jim Downing,
+
+305
+00:11:01,631 --> 00:11:02,892
+a racing driver.
+
+306
+00:11:03,072 --> 00:11:05,301
+For years few drivers used it.
+
+307
+00:11:05,651 --> 00:11:07,788
+Then, in two thousand one,
+
+308
+00:11:07,788 --> 00:11:10,911
+NASCAR legend Dale Earnhardt died of a
+
+309
+00:11:10,911 --> 00:11:14,363
+basilar skull fracture at the Daytona five
+
+310
+00:11:14,363 --> 00:11:15,020
+hundred.
+
+311
+00:11:15,200 --> 00:11:18,293
+After that, series around the world made
+
+312
+00:11:18,293 --> 00:11:19,298
+it mandatory.
+
+313
+00:11:19,478 --> 00:11:22,879
+Formula One made HANS compulsory from two
+
+314
+00:11:22,879 --> 00:11:24,122
+thousand three.
+
+315
+00:11:24,302 --> 00:11:26,828
+Today no top racing driver starts a
+
+316
+00:11:26,828 --> 00:11:27,983
+race without it.
+
+317
+00:11:28,163 --> 00:11:30,575
+A collar on the shoulders is the
+
+318
+00:11:30,575 --> 00:11:33,968
+reason many drivers walked away from crashes.
+
+319
+00:11:34,318 --> 00:11:37,348
+Why don't F1 race suits catch fire?
+
+320
+00:11:37,528 --> 00:11:39,916
+They are made of layers of a
+
+321
+00:11:39,916 --> 00:11:42,815
+fire resistant fibre called Nomex,
+
+322
+00:11:42,815 --> 00:11:45,800
+the same family of material used by
+
+323
+00:11:45,800 --> 00:11:46,909
+firefighters.
+
+324
+00:11:47,089 --> 00:11:50,072
+The suits are tested to protect against
+
+325
+00:11:50,072 --> 00:11:52,596
+direct flame for several seconds,
+
+326
+00:11:52,596 --> 00:11:54,891
+enough for a driver to escape.
+
+327
+00:11:55,071 --> 00:11:59,689
+Underneath, drivers wear fireproof underwear,
+
+328
+00:11:59,689 --> 00:12:02,768
+socks, a balaclava and gloves.
+
+329
+00:12:02,948 --> 00:12:05,793
+Every layer is certified by the FIA.
+
+330
+00:12:06,143 --> 00:12:07,607
+In twenty twenty,
+
+331
+00:12:07,607 --> 00:12:09,845
+at the Bahrain Grand Prix,
+
+332
+00:12:09,845 --> 00:12:13,117
+Romain Grosjean's car hit a barrier at
+
+333
+00:12:13,117 --> 00:12:16,733
+more than two hundred kilometres per hour,
+
+334
+00:12:16,733 --> 00:12:20,005
+split in two and exploded into flames.
+
+335
+00:12:20,185 --> 00:12:22,644
+He was inside the fire for almost
+
+336
+00:12:22,644 --> 00:12:23,761
+thirty seconds.
+
+337
+00:12:23,941 --> 00:12:26,043
+He climbed out with burns on his
+
+338
+00:12:26,043 --> 00:12:26,437
+hands.
+
+339
+00:12:26,617 --> 00:12:28,410
+His suit, his helmet,
+
+340
+00:12:28,410 --> 00:12:30,970
+the halo over his head and the
+
+341
+00:12:30,970 --> 00:12:34,043
+fire marshals all did their job that
+
+342
+00:12:34,043 --> 00:12:34,384
+day.
+
+343
+00:12:34,734 --> 00:12:37,644
+Every race suit also has two handles
+
+344
+00:12:37,644 --> 00:12:39,018
+on the shoulders.
+
+345
+00:12:39,198 --> 00:12:41,668
+They are there so that marshals and
+
+346
+00:12:41,668 --> 00:12:43,926
+doctors can pull a driver out of
+
+347
+00:12:43,926 --> 00:12:46,396
+the car, even if he is unconscious.
+
+348
+00:12:46,576 --> 00:12:49,096
+The suits are surprisingly light,
+
+349
+00:12:49,096 --> 00:12:50,470
+around a kilogram,
+
+350
+00:12:50,470 --> 00:12:53,372
+because a heavier suit means more heat
+
+351
+00:12:53,372 --> 00:12:54,517
+and more sweat.
+
+352
+00:12:54,697 --> 00:12:57,777
+The race suit is a compromise between
+
+353
+00:12:57,777 --> 00:12:59,608
+a furnace and a sauna.
+
+354
+00:12:59,958 --> 00:13:02,825
+Why do F1 drivers' gloves have a
+
+355
+00:13:02,825 --> 00:13:04,079
+sensor inside?
+
+356
+00:13:04,259 --> 00:13:06,550
+Since twenty eighteen,
+
+357
+00:13:06,550 --> 00:13:10,924
+Formula One drivers wear biometric gloves.
+
+358
+00:13:11,104 --> 00:13:12,417
+A small sensor,
+
+359
+00:13:12,417 --> 00:13:14,168
+sewn into the glove,
+
+360
+00:13:14,168 --> 00:13:17,846
+measures the driver's pulse and the oxygen
+
+361
+00:13:17,846 --> 00:13:18,984
+in his blood,
+
+362
+00:13:18,984 --> 00:13:21,436
+and sends it by radio to the
+
+363
+00:13:21,436 --> 00:13:22,574
+medical team.
+
+364
+00:13:22,754 --> 00:13:24,195
+After a big crash,
+
+365
+00:13:24,195 --> 00:13:26,597
+before anyone reaches the car,
+
+366
+00:13:26,597 --> 00:13:29,799
+the doctors already know if the driver's
+
+367
+00:13:29,799 --> 00:13:31,160
+heart is working.
+
+368
+00:13:31,510 --> 00:13:33,605
+It is a reaction to a simple
+
+369
+00:13:33,605 --> 00:13:34,203
+problem.
+
+370
+00:13:34,383 --> 00:13:35,399
+After a crash,
+
+371
+00:13:35,399 --> 00:13:37,504
+the car may be upside down or
+
+372
+00:13:37,504 --> 00:13:38,447
+in a barrier,
+
+373
+00:13:38,447 --> 00:13:40,624
+and the driver may not be able
+
+374
+00:13:40,624 --> 00:13:42,220
+to speak on the radio.
+
+375
+00:13:42,400 --> 00:13:43,965
+With the glove sensor,
+
+376
+00:13:43,965 --> 00:13:46,597
+the medical car can decide how urgent
+
+377
+00:13:46,597 --> 00:13:48,801
+it is while it is still driving
+
+378
+00:13:48,801 --> 00:13:49,726
+to the scene.
+
+379
+00:13:49,906 --> 00:13:52,208
+And the data are also used to
+
+380
+00:13:52,208 --> 00:13:55,543
+study how drivers' bodies react to crashes
+
+381
+00:13:55,543 --> 00:13:57,766
+and to the stress of racing.
+
+382
+00:13:58,116 --> 00:14:00,597
+The gloves still have to be perfect
+
+383
+00:14:00,597 --> 00:14:01,448
+for driving.
+
+384
+00:14:01,628 --> 00:14:02,659
+They are thin,
+
+385
+00:14:02,659 --> 00:14:05,165
+so the driver can feel the buttons
+
+386
+00:14:05,165 --> 00:14:06,122
+on the wheel,
+
+387
+00:14:06,122 --> 00:14:08,701
+and fireproof, like the rest of his
+
+388
+00:14:08,701 --> 00:14:09,291
+clothes.
+
+389
+00:14:09,471 --> 00:14:11,926
+The sensor is the size of a
+
+390
+00:14:11,926 --> 00:14:14,382
+coin and almost weightless.
+
+391
+00:14:14,562 --> 00:14:15,771
+In Formula One,
+
+392
+00:14:15,771 --> 00:14:18,673
+even the gloves are connected to the
+
+393
+00:14:18,673 --> 00:14:20,367
+internet of the race.
+
+394
+00:14:20,717 --> 00:14:22,238
+So here are the ten.
+
+395
+00:14:22,418 --> 00:14:25,146
+A wheel full of buttons because the
+
+396
+00:14:25,146 --> 00:14:27,329
+driver is also the engineer.
+
+397
+00:14:27,509 --> 00:14:30,551
+Dials for brake balance and the differential.
+
+398
+00:14:30,731 --> 00:14:33,424
+Paddles for gears and two clutches for
+
+399
+00:14:33,424 --> 00:14:34,132
+the start.
+
+400
+00:14:34,312 --> 00:14:37,412
+A wheel that comes off in seconds.
+
+401
+00:14:37,592 --> 00:14:39,777
+Lights that say when to shift,
+
+402
+00:14:39,777 --> 00:14:40,869
+a drink button,
+
+403
+00:14:40,869 --> 00:14:43,199
+a seat that becomes a stretcher,
+
+404
+00:14:43,199 --> 00:14:44,801
+a collar for the neck,
+
+405
+00:14:44,801 --> 00:14:46,695
+a suit that does not burn,
+
+406
+00:14:46,695 --> 00:14:49,098
+and gloves that check your heart.
+
+407
+00:14:49,448 --> 00:14:52,013
+In the cockpit of a Formula One
+
+408
+00:14:52,013 --> 00:14:54,579
+car, every object has two jobs,
+
+409
+00:14:54,579 --> 00:14:57,227
+to make the driver faster and to
+
+410
+00:14:57,227 --> 00:14:58,469
+bring him home.
+
+411
+00:14:58,649 --> 00:15:01,584
+If you want more machines explained part
+
+412
+00:15:01,584 --> 00:15:04,373
+by part, subscribe to Machine Reverse.
+
+413
+00:15:04,553 --> 00:15:06,641
+And tell us in the comments which
+
+414
+00:15:06,641 --> 00:15:08,729
+machine you want us to take apart
+
+415
+00:15:08,729 --> 00:15:09,046
+next.
