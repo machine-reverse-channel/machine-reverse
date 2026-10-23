@@ -1,0 +1,92 @@
+# Photo credits: Why Doesn't a Helicopter Spin Out of Control?
+
+All photos from Wikimedia Commons.
+
+- Irish Coastguard helicopter hovering over ferry and lowering equipment.jpg by Gaius Cornelius, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Irish_Coastguard_helicopter_hovering_over_ferry_and_lowering_equipment.jpg
+- Irish Coastguard helicopter hovering over ferry.jpg by Gaius Cornelius, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Irish_Coastguard_helicopter_hovering_over_ferry.jpg
+- Helicopter hovering just above the ground.jpg by Keller Jo, U.S. Fish and Wildlife Service, Public domain, https://commons.wikimedia.org/wiki/File:Helicopter_hovering_just_above_the_ground.jpg
+- Hovering ÖAMTC helicopter PNr°0020.jpg by D-Kuru, CC BY-SA 3.0 at, https://commons.wikimedia.org/wiki/File:Hovering_%C3%96AMTC_helicopter_PNr%C2%B00020.jpg
+- Irish Coastguard helicopter hovering next to ferry.jpg by Gaius Cornelius, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Irish_Coastguard_helicopter_hovering_next_to_ferry.jpg
+- Dakar 2014 - FACH helicopter hovering - 21180106376.jpg by Sports Cars Fan, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dakar_2014_-_FACH_helicopter_hovering_-_21180106376.jpg
+- FEMA - 45355 - Firefighting helicopter hovering over a lake in Colorado.jpg by Michael Rieger, Public domain, https://commons.wikimedia.org/wiki/File:FEMA_-_45355_-_Firefighting_helicopter_hovering_over_a_lake_in_Colorado.jpg
+- Helicopter designed by George de Bothezat, hovering above ground. (81739715-e199-40ae-b5a6-3cba0be96d8f).jpg by Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:Helicopter_designed_by_George_de_Bothezat,_hovering_above_ground._(81739715-e199-40ae-b5a6-3cba0be96d8f).jpg
+- Boundary-Layer Control to Helicopter Rotor Blades (A-22383).jpg by NASA Ames Research Center / NACA, Public domain, https://commons.wikimedia.org/wiki/File:Boundary-Layer_Control_to_Helicopter_Rotor_Blades_(A-22383).jpg
+- US Navy 091008-N-9123L-009 Aviation Machinist Mate Airman Bryan Cooper, assigned to the Warlords of Helicopter Anti-submarine Squadron Light (HSL) 51, tightens the tail rotor blades of an SH-60B Sea Hawk.jpg by U.S. Navy photo by Mass Communication Specialist 2nd Class Byron C. Linder, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_091008-N-9123L-009_Aviation_Machinist_Mate_Airman_Bryan_Cooper,_assigned_to_the_Warlords_of_Helicopter_Anti-submarine_Squadron_Light_(HSL)_51,_tightens_the_tail_rotor_blades_of_an_SH-60B_Sea_Hawk.jpg
+- ZF, ILA 2018, Schoenefeld (1X7A6913).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:ZF,_ILA_2018,_Schoenefeld_(1X7A6913).jpg
+- NHIndustries NH90 TTH French Army Air Corps EAD PAS 2013 04 tail rotor detail.jpg by Julian Herzog (Website), CC BY 4.0, https://commons.wikimedia.org/wiki/File:NHIndustries_NH90_TTH_French_Army_Air_Corps_EAD_PAS_2013_04_tail_rotor_detail.jpg
+- Tail rotor Sea Lynx.jpg by Tvabutzku1234, Public domain, https://commons.wikimedia.org/wiki/File:Tail_rotor_Sea_Lynx.jpg
+- US Navy 111130-N-BT887-003 A Sailor wipes down the tail rotor of an MH-60R Sea Hawk helicopter assigned to the Raptors of Helicopter Maritime Strik.jpg by U.S. Navy photo by Mass Communication Specialist 3rd Class Benjamin Crossley, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_111130-N-BT887-003_A_Sailor_wipes_down_the_tail_rotor_of_an_MH-60R_Sea_Hawk_helicopter_assigned_to_the_Raptors_of_Helicopter_Maritime_Strik.jpg
+- Tail rotor inspection (11240753776).jpg by U.S. Air Force photo by Senior Airman John D. Pharr III, Public domain, https://commons.wikimedia.org/wiki/File:Tail_rotor_inspection_(11240753776).jpg
+- Piasecki PV-2 ‘NX37061’ (51220352517).jpg by Alan Wilson from Peterborough, Cambs, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Piasecki_PV-2_%E2%80%98NX37061%E2%80%99_(51220352517).jpg
+- DFC 5849 A yellow-and-blue helicopter displayed on a raised metal stand against a cloudy sky at Khao Chi Chan Sattahip Thailand.jpg by PattayaPatrol, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:DFC_5849_A_yellow-and-blue_helicopter_displayed_on_a_raised_metal_stand_against_a_cloudy_sky_at_Khao_Chi_Chan_Sattahip_Thailand.jpg
+- Tail rotor of ROCAF EC-225 2251 20120602a.jpg by 玄史生, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Tail_rotor_of_ROCAF_EC-225_2251_20120602a.jpg
+- Shrouded tail of an H135 (5).jpg by Olivier Cleynen, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shrouded_tail_of_an_H135_(5).jpg
+- Spot-breasted Fantail in Saswad August 2025 by Tisha Mukherjee 02.jpg by Tisha Mukherjee, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Spot-breasted_Fantail_in_Saswad_August_2025_by_Tisha_Mukherjee_02.jpg
+- Fenestron Eurocopter AS-365N2 Dauphin II EC-HIM @ Helipuerto Costa Norte.jpg by Enrique Pernas, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Fenestron_Eurocopter_AS-365N2_Dauphin_II_EC-HIM_@_Helipuerto_Costa_Norte.jpg
+- Shrouded tail of an H135 (4).jpg by Olivier Cleynen, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shrouded_tail_of_an_H135_(4).jpg
+- Shrouded tail of an H135 (3).jpg by Olivier Cleynen, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shrouded_tail_of_an_H135_(3).jpg
+- Zepper-BK 117-C2-(EC145)-SchweizerischeRettungsflugwacht.jpg by Matthias Zepper, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Zepper-BK_117-C2-(EC145)-SchweizerischeRettungsflugwacht.jpg
+- Airbus Helicopter H145 (D-HDSQ)-20240621-RM-101724.jpg by Reinhold Möller Ermell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Airbus_Helicopter_H145_(D-HDSQ)-20240621-RM-101724.jpg
+- MD600N (14825938382).jpg by Aleksander Markin, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:MD600N_(14825938382).jpg
+- McDonnell Douglas MD-600N.jpg by Carlos E. Perez S.L, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_MD-600N.jpg
+- 2011 MD Helicopters MD600N (26009172967).jpg by Chris Hunkeler from Carlsbad, California, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:2011_MD_Helicopters_MD600N_(26009172967).jpg
+- Gunn Resources (VH-INW) McDonnell Douglas Helicopters MD-520N Wagga Wagga Airport.jpg by Bidgee, CC BY-SA 3.0 au, https://commons.wikimedia.org/wiki/File:Gunn_Resources_(VH-INW)_McDonnell_Douglas_Helicopters_MD-520N_Wagga_Wagga_Airport.jpg
+- Gunn Resources (VH-EPZ) McDonnell Douglas Helicopters MD-520N at Wagga Wagga Airport.jpg by Bidgee, CC BY-SA 3.0 au, https://commons.wikimedia.org/wiki/File:Gunn_Resources_(VH-EPZ)_McDonnell_Douglas_Helicopters_MD-520N_at_Wagga_Wagga_Airport.jpg
+- MD Helicopters MD902 Explorer ‘G-16’ (34209916042).jpg by Alan Wilson from Stilton, Peterborough, Cambs, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:MD_Helicopters_MD902_Explorer_%E2%80%98G-16%E2%80%99_(34209916042).jpg
+- Hélicoptères de la police fédérale belge lors du défilé du 21 juillet 2013.JPG by Collectorofinsignia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:H%C3%A9licopt%C3%A8res_de_la_police_f%C3%A9d%C3%A9rale_belge_lors_du_d%C3%A9fil%C3%A9_du_21_juillet_2013.JPG
+- Ka-52 at an air show in Voronezh 2014.jpg by Роман Дергунов, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ka-52_at_an_air_show_in_Voronezh_2014.jpg
+- Kamov Ka-52 Hokum 98 yellow (8709839190).jpg by Alan Wilson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Kamov_Ka-52_Hokum_98_yellow_(8709839190).jpg
+- Kamov Ka-52 Hokum 98 yellow (8709841232).jpg by Alan Wilson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Kamov_Ka-52_Hokum_98_yellow_(8709841232).jpg
+- Kamov Ka-27 helicopter, USS Ross, Hetman Sahaidachnyi ship.jpg by U.S. Embassy Kyiv Ukraine, Public domain, https://commons.wikimedia.org/wiki/File:Kamov_Ka-27_helicopter,_USS_Ross,_Hetman_Sahaidachnyi_ship.jpg
+- ARKR Kalinin flight deck with Ka-25 and Ka-27.jpg by USN, Public domain, https://commons.wikimedia.org/wiki/File:ARKR_Kalinin_flight_deck_with_Ka-25_and_Ka-27.jpg
+- Display plaque for Sikorsky X2 Technology Demonstrator.jpg by Joe Loong from Reston, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Display_plaque_for_Sikorsky_X2_Technology_Demonstrator.jpg
+- BMW U10 X2 M35i IMG 9777.jpg by Alexander-93, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:BMW_U10_X2_M35i_IMG_9777.jpg
+- ZK558 Boeing Chinook HC.6 RAF Corris Corner 2018 01.jpg by Julian Herzog (Website), CC BY 4.0, https://commons.wikimedia.org/wiki/File:ZK558_Boeing_Chinook_HC.6_RAF_Corris_Corner_2018_01.jpg
+- An Army CH-47 Chinook helicopter during a training exercise (210120-A-II094-096M).jpg by Elena Baladelli (according to Exif data), Public domain, https://commons.wikimedia.org/wiki/File:An_Army_CH-47_Chinook_helicopter_during_a_training_exercise_(210120-A-II094-096M).jpg
+- Military CH-47 Chinook over Mokuleia, Hawaii (49554955612).jpg by Tony Webster, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Military_CH-47_Chinook_over_Mokuleia,_Hawaii_(49554955612).jpg
+- CH-47 Chinook - RIAT 2015 (20820630144).jpg by Airwolfhound from  Hertfordshire, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:CH-47_Chinook_-_RIAT_2015_(20820630144).jpg
+- Chinook Aircraft in Pueblo, Colorado.jpg by Maplemoths, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Chinook_Aircraft_in_Pueblo,_Colorado.jpg
+- CH-47 Chinook 4036 (2128486499).jpg by James Emery from Douglasville, United States, CC BY 2.0, https://commons.wikimedia.org/wiki/File:CH-47_Chinook_4036_(2128486499).jpg
+- 1-214th Arrives to Saber Strike (9675915).jpg by U.S. Army Reserve photo by Sgt. Derek Combs, Public domain, https://commons.wikimedia.org/wiki/File:1-214th_Arrives_to_Saber_Strike_(9675915).jpg
+- Swashplate by Kamov Ka-26. Central House of Aviation and Cosmonautics.jpg by Niklitov, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Swashplate_by_Kamov_Ka-26._Central_House_of_Aviation_and_Cosmonautics.jpg
+- OelpumpeModel.JPG by StromBer, CC BY 3.0, https://commons.wikimedia.org/wiki/File:OelpumpeModel.JPG
+- Pompe pistons axiaux camion plateau barillet axe.JPG by Cdang (photographer), Bruno Langlais (owner of the pump), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Pompe_pistons_axiaux_camion_plateau_barillet_axe.JPG
+- Pompe pistons axiaux camion en pieces.JPG by Cdang (photographer), Bruno Langlais (owner of the pump), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Pompe_pistons_axiaux_camion_en_pieces.JPG
+- Pompe pistons axiaux camion en position.JPG by Cdang (photographer), Bruno Langlais (owner of the pump), Samuel Dupré (the hands), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Pompe_pistons_axiaux_camion_en_position.JPG
+- R44 tail rotor.jpg by User:Glueball, Public domain, https://commons.wikimedia.org/wiki/File:R44_tail_rotor.jpg
+- R44 rotorhub.jpg by Glueball at English Wikipedia, Public domain, https://commons.wikimedia.org/wiki/File:R44_rotorhub.jpg
+- JMSDF SH-60J (8295) main rotor head at Tokushima Air Base October 1, 2022.jpg by Hunini, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:JMSDF_SH-60J_(8295)_main_rotor_head_at_Tokushima_Air_Base_October_1,_2022.jpg
+- Otago Regional Rescue Helicopter rotor head, Taieri, NZ.JPG by Benchill, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Otago_Regional_Rescue_Helicopter_rotor_head,_Taieri,_NZ.JPG
+- Rotor head CH-53.jpg by Thuringius, Public domain, https://commons.wikimedia.org/wiki/File:Rotor_head_CH-53.jpg
+- Bell 206L-4 LongRanger IV over Botafogo Bay, Rio de Janeiro.jpg by Wilfredor, CC0, https://commons.wikimedia.org/wiki/File:Bell_206L-4_LongRanger_IV_over_Botafogo_Bay,_Rio_de_Janeiro.jpg
+- LAPD Bell 206 Jetranger.jpg by Mfield - Matthew Field, http://www.photography.mattfield.com, CC BY 2.5, https://commons.wikimedia.org/wiki/File:LAPD_Bell_206_Jetranger.jpg
+- Bell H-13J - DPLA - 5b3dc8031e53438f09c057f57185b8e2 (page 1).jpg by Bell Helicopter Corporation, CC0, https://commons.wikimedia.org/wiki/File:Bell_H-13J_-_DPLA_-_5b3dc8031e53438f09c057f57185b8e2_(page_1).jpg
+- Bell UH-1M Iroquois Huey - 51168569855.jpg by Eric Friedebach, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bell_UH-1M_Iroquois_Huey_-_51168569855.jpg
+- Focke-Achgelis Fa 330A-1 Bachstelze (Water Wagtail) - DPLA - 8270b64e603a3522a3224c89a835b35c (page 2).jpg by Weser-Flugzeugbau, CC0, https://commons.wikimedia.org/wiki/File:Focke-Achgelis_Fa_330A-1_Bachstelze_(Water_Wagtail)_-_DPLA_-_8270b64e603a3522a3224c89a835b35c_(page_2).jpg
+- Focke-Achgelis Fa 330A-1 Bachstelze (Water Wagtail) - DPLA - 8270b64e603a3522a3224c89a835b35c (page 1).jpg by Weser-Flugzeugbau, CC0, https://commons.wikimedia.org/wiki/File:Focke-Achgelis_Fa_330A-1_Bachstelze_(Water_Wagtail)_-_DPLA_-_8270b64e603a3522a3224c89a835b35c_(page_1).jpg
+- Westland Lynx HAS.2 ‘XX910’.jpg by HawkeyeUK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Westland_Lynx_HAS.2_%E2%80%98XX910%E2%80%99.jpg
+- 330-PSA-58-63 (USN 711258a) (21541727674).jpg by National Museum of the U.S. Navy, Public domain, https://commons.wikimedia.org/wiki/File:330-PSA-58-63_(USN_711258a)_(21541727674).jpg
+- Coupe cable gazelle 16321.jpg by Albin Denooz, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Coupe_cable_gazelle_16321.jpg
+- WSPS lower.JPG by RosarioVanTulpe, Public domain, https://commons.wikimedia.org/wiki/File:WSPS_lower.JPG
+- WSPS upper.JPG by RosarioVanTulpe, Public domain, https://commons.wikimedia.org/wiki/File:WSPS_upper.JPG
+- OH-58 Kiowa Warrior of the Croatian Air Force.jpg by MORH T. Brandt, CC BY 4.0, https://commons.wikimedia.org/wiki/File:OH-58_Kiowa_Warrior_of_the_Croatian_Air_Force.jpg
+- OH-58D Kiowa Treetop.jpg by TSGT JAMES D. MOSSMAN, Public domain, https://commons.wikimedia.org/wiki/File:OH-58D_Kiowa_Treetop.jpg
+- Crop spraying helicopter on a landing pad atop it’s refueling truck.jpg by Richard N Horne, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Crop_spraying_helicopter_on_a_landing_pad_atop_it%E2%80%99s_refueling_truck.jpg
+- Agricultural Spray Helicopter - panoramio.jpg by Art Anderson, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Agricultural_Spray_Helicopter_-_panoramio.jpg
+- NATC pilots train with A-Star Helicopter (20250207612).jpg by U.S. Customs and Border Protection, Public domain, https://commons.wikimedia.org/wiki/File:NATC_pilots_train_with_A-Star_Helicopter_(20250207612).jpg
+- Airflow in Autorotation HEB.jpg by USA FAA, Public domain, https://commons.wikimedia.org/wiki/File:Airflow_in_Autorotation_HEB.jpg
+- Pescara Model 3 at the Musée de l'air et de l'espace, Le Bourget, France (53428493642).jpg by Alan Wilson from Peterborough, Cambs, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Pescara_Model_3_at_the_Mus%C3%A9e_de_l%27air_et_de_l%27espace,_Le_Bourget,_France_(53428493642).jpg
+- Rotor of a Helicopter in Bangalore in 2011 (2).jpg by Vinu Thomas from Bangalore, India, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Rotor_of_a_Helicopter_in_Bangalore_in_2011_(2).jpg
+- Rotor of a Helicopter in Bangalore in 2011 (1).jpg by Vinu Thomas from Bangalore, India, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Rotor_of_a_Helicopter_in_Bangalore_in_2011_(1).jpg
+- Aerospatiale SA-315B Lama over Murodo.JPG by Alpsdake, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Aerospatiale_SA-315B_Lama_over_Murodo.JPG
+- Aerospatiale SA-315B Lama.JPG by Alpsdake, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Aerospatiale_SA-315B_Lama.JPG
+- Helicopter Sunset (30543631505).jpg by Tony Hisgett from Birmingham, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Helicopter_Sunset_(30543631505).jpg
+- Sunset from helicopter (50255930843).jpg by BLM Nevada, Public domain, https://commons.wikimedia.org/wiki/File:Sunset_from_helicopter_(50255930843).jpg
+- SH-60B Seahawk helicopter sunset Point Loma San Diego 2014.JPG by Jasonrimmer, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:SH-60B_Seahawk_helicopter_sunset_Point_Loma_San_Diego_2014.JPG
+- Helicopter Kamov Ka-32A11BC (EC-KFZ) flying at sunset over Mount Aloia.jpg by Contando Estrelas from Vigo, España / Spain, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Helicopter_Kamov_Ka-32A11BC_(EC-KFZ)_flying_at_sunset_over_Mount_Aloia.jpg
+- Military helicopter at sunset.jpg by Горбунова М.С., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Military_helicopter_at_sunset.jpg
+- A Sea Hawk helicopter at sunset. (8701366289).jpg by Official U.S. Navy Page from United States of America, Public domain, https://commons.wikimedia.org/wiki/File:A_Sea_Hawk_helicopter_at_sunset._(8701366289).jpg
+- Helicopter prepares for takeoff (6526370).jpg by U.S. Army JMRC by Spc. Zachary Bouvier, Public domain, https://commons.wikimedia.org/wiki/File:Helicopter_prepares_for_takeoff_(6526370).jpg
+- Starr-180312-0226-Leucaena leucocephala-helicopter preparing for takeoff-Kahului Airport-Maui (41195442322).jpg by Forest and Kim Starr, CC BY 3.0 us, https://commons.wikimedia.org/wiki/File:Starr-180312-0226-Leucaena_leucocephala-helicopter_preparing_for_takeoff-Kahului_Airport-Maui_(41195442322).jpg
+- N353AM - KPHN, takeoff - 5-10-24.jpg by Coldstreamer20, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:N353AM_-_KPHN,_takeoff_-_5-10-24.jpg
+- US Navy 110607-N-HU253-218 A Sailor guides an SA-330 Puma helicopter for takeoff during a weapons onload aboard the aircraft carrier USS George Was.jpg by U.S. Navy photo by Mass Communication Specialist 3rd Class Cody R. Boyd, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_110607-N-HU253-218_A_Sailor_guides_an_SA-330_Puma_helicopter_for_takeoff_during_a_weapons_onload_aboard_the_aircraft_carrier_USS_George_Was.jpg

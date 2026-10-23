@@ -1,0 +1,69 @@
+{
+ "title": "Why Doesn't a Helicopter Spin Out of Control?",
+ "description": "Start the engine of a normal helicopter, take away one small part at the back, and the whole machine would spin around in circles the moment it tried to lift off. That small part is the tail rotor, and it is only the beginning. Helicopters are full of parts that look strange from the ground, a fan inside the tail, a nut with a nickname, blades that cut cables. Today, ten parts that keep a helicopter from spinning, shaking or falling, and why each one exists.\n\nMachine Reverse takes apart the machines you see every day and explains, part by part, why each one exists. This video covers 10 parts.\n\nChapters:\n0:00 Intro\n1:17 1. The tail rotor\n2:47 2. The fan inside the tail\n4:21 3. The tail with no rotor\n5:53 4. The two rotors on top\n7:18 5. The rotor at each end\n8:38 6. The plates under the rotor\n10:01 7. The nut on top\n11:22 8. The dampers on the blades\n12:47 9. The blades above the cockpit\n14:12 10. The clutch that lets go\n15:45 The verdict\n\nSources:\n- Tail rotor, about 10% of engine power, Sikorsky layout, stripes for ground crew visibility: Wikipedia, \"Tail rotor\" https://en.wikipedia.org/wiki/Tail_rotor\n- Fenestron first flight 12 April 1968 (Gazelle prototype), uneven blade spacing on H135, H160 canted 12 degrees: Airbus, \"50th anniversary of the trademark Fenestron\" https://www.airbus.com/en/newsroom/press-releases/2018-04-50th-anniversary-of-the-trademark-fenestron\n- NOTAR (Coanda slots, direct jet thruster, OH-6A first flight 17 Dec 1981, 520N 1990, among the quietest FAA-certified): Wikipedia, \"NOTAR\" https://en.wikipedia.org/wiki/NOTAR\n- Coaxial rotors (Kamov, torque cancellation): Wikipedia, \"Coaxial-rotor aircraft\" https://en.wikipedia.org/wiki/Coaxial-rotor_aircraft\n- CH-47 Chinook tandem rotors, first flight September 1961: Wikipedia, \"Boeing CH-47 Chinook\" https://en.wikipedia.org/wiki/Boeing_CH-47_Chinook\n- Swashplate, collective and cyclic: FAA Helicopter Flying Handbook https://www.faa.gov/sites/faa.gov/files/helicopter_flying_handbook.pdf\n- Jesus nut (1967 print, Bell 206B crash in 2000): Wikipedia, \"Jesus nut\" https://en.wikipedia.org/wiki/Jesus_nut\n- Ground resonance, lag dampers, tests, lift-off escape: SlashGear https://www.slashgear.com/1891320/ground-resonance-dangerous-to-helicopters\n- Wire strike protection system (Bristol Aerospace, May 1979 Kiowa, 3/8 in cable, 16% of US Army fatalities 1974-79): Wikipedia, \"Wire strike protection system\" https://en.wikipedia.org/wiki/Wire_strike_protection_system\n- Autorotation, freewheeling unit, flare at 50-100 ft, Jean Boulet Lama record 21 June 1972: Wikipedia, \"Autorotation\" https://en.wikipedia.org/wiki/Autorotation\n\nPhotos from Wikimedia Commons. Full credits and licenses: https://github.com/viniciushoscher-ctrl/machine-reverse/blob/main/agendamento/creditos/video07.md\n\n#engineering #machines #whydoesthisexist",
+ "tags": [
+  "doesnt helicopter spin out control",
+  "doesnt",
+  "helicopter",
+  "spin",
+  "out",
+  "control",
+  "engineering",
+  "how it works",
+  "why does this exist",
+  "machine reverse",
+  "engineering explained"
+ ],
+ "shorts": [
+  {
+   "file": "short1.mp4",
+   "title": "Why Do Helicopters Have a Small Rotor on the Tail? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Doesn't a Helicopter Spin Out of Control?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short2.mp4",
+   "title": "Why Do Some Helicopters Hide the Tail Rotor in a Hole? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Doesn't a Helicopter Spin Out of Control?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short3.mp4",
+   "title": "Why Does This Helicopter Have No Tail Rotor? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Doesn't a Helicopter Spin Out of Control?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short4.mp4",
+   "title": "Why Do Some Helicopters Have Two Rotors on Top? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Doesn't a Helicopter Spin Out of Control?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short5.mp4",
+   "title": "Why Does the Chinook Have Two Rotors? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Doesn't a Helicopter Spin Out of Control?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short6.mp4",
+   "title": "Why Is There a Tilting Ring Under Helicopter Rotors? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Doesn't a Helicopter Spin Out of Control?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short7.mp4",
+   "title": "Why Is This Helicopter Part Called the Jesus Nut? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Doesn't a Helicopter Spin Out of Control?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short8.mp4",
+   "title": "Why Do Helicopter Blades Have Shock Absorbers? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Doesn't a Helicopter Spin Out of Control?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short9.mp4",
+   "title": "Why Do Some Helicopters Have Knives on the Nose? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Doesn't a Helicopter Spin Out of Control?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short10.mp4",
+   "title": "Why Doesn't a Helicopter Fall When the Engine Dies? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Doesn't a Helicopter Spin Out of Control?\" on Machine Reverse.\n#shorts #engineering"
+  }
+ ]
+}
