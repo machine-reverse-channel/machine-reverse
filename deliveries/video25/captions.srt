@@ -1,0 +1,1627 @@
+1
+00:00:00,000 --> 00:00:02,349
+A rally car can fly through the
+
+2
+00:00:02,349 --> 00:00:04,698
+air for more than forty metres,
+
+3
+00:00:04,698 --> 00:00:07,199
+land nose first on a gravel road,
+
+4
+00:00:07,199 --> 00:00:09,473
+and keep going flat out to the
+
+5
+00:00:09,473 --> 00:00:12,202
+next corner, as if nothing happened.
+
+6
+00:00:12,382 --> 00:00:14,831
+Your road car would leave its wheels
+
+7
+00:00:14,831 --> 00:00:15,307
+behind.
+
+8
+00:00:15,487 --> 00:00:18,181
+The difference is not luck or magic.
+
+9
+00:00:18,361 --> 00:00:20,283
+It is a list of parts built
+
+10
+00:00:20,283 --> 00:00:22,633
+for the worst roads in the world.
+
+11
+00:00:22,813 --> 00:00:26,024
+Today, ten parts of a rally car,
+
+12
+00:00:26,024 --> 00:00:28,433
+and why each one exists.
+
+13
+00:00:28,782 --> 00:00:31,836
+Rally is motorsport on real roads.
+
+14
+00:00:32,016 --> 00:00:33,829
+Gravel in Finland,
+
+15
+00:00:33,829 --> 00:00:35,341
+snow in Sweden,
+
+16
+00:00:35,341 --> 00:00:36,650
+mud in Kenya,
+
+17
+00:00:36,650 --> 00:00:38,565
+tarmac in the Alps,
+
+18
+00:00:38,565 --> 00:00:41,083
+often in the same season.
+
+19
+00:00:41,263 --> 00:00:43,425
+The roads are closed for the stage,
+
+20
+00:00:43,425 --> 00:00:45,402
+but they are not prepared like a
+
+21
+00:00:45,402 --> 00:00:46,081
+race track.
+
+22
+00:00:46,261 --> 00:00:49,358
+Rocks, ruts, crests and jumps are part
+
+23
+00:00:49,358 --> 00:00:50,499
+of the course.
+
+24
+00:00:50,679 --> 00:00:52,715
+And the cars race one at a
+
+25
+00:00:52,715 --> 00:00:54,594
+time, against the clock,
+
+26
+00:00:54,594 --> 00:00:57,726
+with a co-driver reading the road ahead.
+
+27
+00:00:58,077 --> 00:01:01,122
+As always, every fact here comes from
+
+28
+00:01:01,122 --> 00:01:02,356
+a named source,
+
+29
+00:01:02,356 --> 00:01:05,731
+the FIA, the World Rally Championship and
+
+30
+00:01:05,731 --> 00:01:10,093
+motorsport references, all listed in the description.
+
+31
+00:01:10,273 --> 00:01:12,270
+Let's look under the car first.
+
+32
+00:01:12,620 --> 00:01:14,718
+Why don't rally cars break when they
+
+33
+00:01:14,718 --> 00:01:15,418
+land a jump?
+
+34
+00:01:15,598 --> 00:01:17,409
+Because of the suspension.
+
+35
+00:01:17,589 --> 00:01:20,194
+A gravel rally car has far more
+
+36
+00:01:20,194 --> 00:01:23,052
+suspension travel than a road car,
+
+37
+00:01:23,052 --> 00:01:25,994
+often more than twenty centimetres.
+
+38
+00:01:26,174 --> 00:01:27,209
+When it lands,
+
+39
+00:01:27,209 --> 00:01:29,352
+the wheels can move up a long
+
+40
+00:01:29,352 --> 00:01:32,235
+way into the body before anything hits.
+
+41
+00:01:32,415 --> 00:01:35,433
+The springs and dampers absorb the energy
+
+42
+00:01:35,433 --> 00:01:37,642
+of a landing that would bend a
+
+43
+00:01:37,642 --> 00:01:38,452
+normal car.
+
+44
+00:01:38,801 --> 00:01:40,647
+The dampers are the secret.
+
+45
+00:01:40,827 --> 00:01:41,814
+They are big,
+
+46
+00:01:41,814 --> 00:01:45,760
+adjustable units, often costing thousands of dollars
+
+47
+00:01:45,760 --> 00:01:49,402
+each, with separate settings for slow movements,
+
+48
+00:01:49,402 --> 00:01:51,982
+like the body rolling in a corner,
+
+49
+00:01:51,982 --> 00:01:53,424
+and fast movements,
+
+50
+00:01:53,424 --> 00:01:55,549
+like a wheel hitting a rock.
+
+51
+00:01:55,729 --> 00:01:58,819
+Teams change the settings for every rally,
+
+52
+00:01:58,819 --> 00:02:00,953
+and sometimes during the day.
+
+53
+00:02:01,133 --> 00:02:04,094
+A rally car on gravel rides high,
+
+54
+00:02:04,094 --> 00:02:05,977
+soft and long legged,
+
+55
+00:02:05,977 --> 00:02:08,668
+almost like an off road truck.
+
+56
+00:02:09,019 --> 00:02:11,122
+The same car on tarmac is a
+
+57
+00:02:11,122 --> 00:02:12,525
+different machine.
+
+58
+00:02:12,705 --> 00:02:14,466
+For asphalt rallies,
+
+59
+00:02:14,466 --> 00:02:16,402
+the teams fit shorter,
+
+60
+00:02:16,402 --> 00:02:20,012
+stiffer suspension, lower the car and fit
+
+61
+00:02:20,012 --> 00:02:21,157
+wider wheels.
+
+62
+00:02:21,337 --> 00:02:24,535
+Engineers can turn a gravel car into
+
+63
+00:02:24,535 --> 00:02:27,467
+a tarmac car in the service park.
+
+64
+00:02:27,647 --> 00:02:29,715
+The jumps in Finland are where the
+
+65
+00:02:29,715 --> 00:02:31,478
+gravel setup earns its money.
+
+66
+00:02:31,658 --> 00:02:34,364
+Some crests send the cars flying for
+
+67
+00:02:34,364 --> 00:02:36,093
+more than forty metres.
+
+68
+00:02:36,443 --> 00:02:38,763
+Why is the inside of a rally
+
+69
+00:02:38,763 --> 00:02:40,751
+car full of metal pipes?
+
+70
+00:02:40,931 --> 00:02:42,490
+This is the roll cage,
+
+71
+00:02:42,490 --> 00:02:44,686
+steel tubes welded to the body,
+
+72
+00:02:44,686 --> 00:02:46,458
+running around the doors,
+
+73
+00:02:46,458 --> 00:02:48,583
+over the heads of the crew and
+
+74
+00:02:48,583 --> 00:02:49,859
+down to the floor.
+
+75
+00:02:50,039 --> 00:02:52,311
+When a rally car rolls over,
+
+76
+00:02:52,311 --> 00:02:53,285
+and many do,
+
+77
+00:02:53,285 --> 00:02:56,451
+the cage keeps the roof from collapsing
+
+78
+00:02:56,451 --> 00:02:58,886
+onto the driver and co-driver.
+
+79
+00:02:59,066 --> 00:03:01,318
+It also makes the whole body much
+
+80
+00:03:01,318 --> 00:03:01,864
+stiffer.
+
+81
+00:03:02,214 --> 00:03:05,122
+The cage is built to strict FIA
+
+82
+00:03:05,122 --> 00:03:05,685
+rules.
+
+83
+00:03:05,865 --> 00:03:09,547
+The tubes have minimum sizes and thicknesses,
+
+84
+00:03:09,547 --> 00:03:12,657
+and the design is tested and approved.
+
+85
+00:03:12,837 --> 00:03:14,162
+In modern cars,
+
+86
+00:03:14,162 --> 00:03:17,520
+there are extra bars inside the doors,
+
+87
+00:03:17,520 --> 00:03:21,230
+because side impacts against trees are one
+
+88
+00:03:21,230 --> 00:03:24,853
+of the most dangerous accidents in rally.
+
+89
+00:03:25,033 --> 00:03:28,282
+A road car is designed to crumple
+
+90
+00:03:28,282 --> 00:03:30,153
+and absorb a crash.
+
+91
+00:03:30,333 --> 00:03:33,407
+A rally car is designed to survive
+
+92
+00:03:33,407 --> 00:03:36,301
+many crashes in a single season.
+
+93
+00:03:36,651 --> 00:03:40,459
+Safety in rally changed forever in nineteen
+
+94
+00:03:40,459 --> 00:03:41,434
+eighty-six.
+
+95
+00:03:41,614 --> 00:03:45,169
+That year, Henri Toivonen and his co-driver
+
+96
+00:03:45,169 --> 00:03:48,641
+Sergio Cresto died when their Lancia Delta
+
+97
+00:03:48,641 --> 00:03:51,204
+S four left the road in Corsica
+
+98
+00:03:51,204 --> 00:03:52,527
+and caught fire.
+
+99
+00:03:52,707 --> 00:03:55,592
+The extreme Group B cars were banned
+
+100
+00:03:55,592 --> 00:03:57,676
+at the end of that season.
+
+101
+00:03:57,856 --> 00:03:59,535
+Since then, cages,
+
+102
+00:03:59,535 --> 00:04:03,360
+fuel tanks and seats have become stronger
+
+103
+00:04:03,360 --> 00:04:05,972
+with every new set of rules.
+
+104
+00:04:06,322 --> 00:04:08,426
+Why do rally cars have a metal
+
+105
+00:04:08,426 --> 00:04:09,619
+plate underneath?
+
+106
+00:04:09,799 --> 00:04:11,693
+It is the sump guard,
+
+107
+00:04:11,693 --> 00:04:14,129
+also called the skid plate.
+
+108
+00:04:14,309 --> 00:04:17,709
+A thick plate of aluminium or composite
+
+109
+00:04:17,709 --> 00:04:19,279
+covers the engine,
+
+110
+00:04:19,279 --> 00:04:22,853
+the gearbox and the important pipes under
+
+111
+00:04:22,853 --> 00:04:23,551
+the car.
+
+112
+00:04:23,731 --> 00:04:25,247
+On a gravel road,
+
+113
+00:04:25,247 --> 00:04:27,299
+a rally car hits rocks,
+
+114
+00:04:27,299 --> 00:04:30,778
+ruts and the ground itself after jumps.
+
+115
+00:04:30,958 --> 00:04:32,187
+Without the guard,
+
+116
+00:04:32,187 --> 00:04:34,236
+one rock could punch a hole in
+
+117
+00:04:34,236 --> 00:04:34,987
+the engine.
+
+118
+00:04:35,337 --> 00:04:38,088
+The plate is designed to slide.
+
+119
+00:04:38,268 --> 00:04:40,848
+When the car lands hard or scrapes
+
+120
+00:04:40,848 --> 00:04:41,835
+over a crest,
+
+121
+00:04:41,835 --> 00:04:44,264
+the guard takes the hit and lets
+
+122
+00:04:44,264 --> 00:04:47,223
+the car glide over the obstacle instead
+
+123
+00:04:47,223 --> 00:04:48,589
+of catching on it.
+
+124
+00:04:48,769 --> 00:04:50,196
+After each stage,
+
+125
+00:04:50,196 --> 00:04:53,722
+mechanics often find deep scratches in the
+
+126
+00:04:53,722 --> 00:04:57,667
+plate, and sometimes they replace it completely
+
+127
+00:04:57,667 --> 00:04:59,346
+in the service park.
+
+128
+00:04:59,526 --> 00:05:02,249
+It is the part that sacrifices itself
+
+129
+00:05:02,249 --> 00:05:04,530
+so the engine does not have to.
+
+130
+00:05:04,880 --> 00:05:06,969
+Even the fuel tank is protected.
+
+131
+00:05:07,149 --> 00:05:08,947
+In a modern rally car,
+
+132
+00:05:08,947 --> 00:05:11,480
+the fuel sits in a safety cell,
+
+133
+00:05:11,480 --> 00:05:14,341
+a flexible bag inside a strong box,
+
+134
+00:05:14,341 --> 00:05:17,119
+placed where it is least likely to
+
+135
+00:05:17,119 --> 00:05:17,691
+be hit.
+
+136
+00:05:17,871 --> 00:05:20,562
+Fire was the great danger in the
+
+137
+00:05:20,562 --> 00:05:20,983
+past.
+
+138
+00:05:21,163 --> 00:05:23,586
+Today the most important parts of the
+
+139
+00:05:23,586 --> 00:05:26,140
+car are hidden behind layers of armour,
+
+140
+00:05:26,140 --> 00:05:27,908
+from the floor to the roof.
+
+141
+00:05:28,258 --> 00:05:31,014
+Why do rally cars have big flaps
+
+142
+00:05:31,014 --> 00:05:32,565
+behind the wheels?
+
+143
+00:05:32,745 --> 00:05:36,329
+Because spinning tyres on gravel throw stones
+
+144
+00:05:36,329 --> 00:05:37,842
+like a machine gun.
+
+145
+00:05:38,022 --> 00:05:41,005
+A rally car accelerating on a loose
+
+146
+00:05:41,005 --> 00:05:44,755
+surface fires rocks backwards at high speed.
+
+147
+00:05:44,935 --> 00:05:46,793
+The mud flaps catch them.
+
+148
+00:05:46,973 --> 00:05:49,430
+The rules require them on gravel,
+
+149
+00:05:49,430 --> 00:05:51,665
+to protect the car's own body,
+
+150
+00:05:51,665 --> 00:05:54,345
+and everyone standing near the road.
+
+151
+00:05:54,696 --> 00:05:57,717
+Rally fans often stand very close to
+
+152
+00:05:57,717 --> 00:06:00,402
+the stages, and the cars pass at
+
+153
+00:06:00,402 --> 00:06:01,325
+full speed.
+
+154
+00:06:01,505 --> 00:06:03,967
+A stone thrown from a wheel can
+
+155
+00:06:03,967 --> 00:06:04,999
+be dangerous.
+
+156
+00:06:05,179 --> 00:06:06,638
+The flaps are thick,
+
+157
+00:06:06,638 --> 00:06:09,336
+flexible and long enough to stop most
+
+158
+00:06:09,336 --> 00:06:10,358
+of the gravel.
+
+159
+00:06:10,538 --> 00:06:13,307
+They also stop the car from blasting
+
+160
+00:06:13,307 --> 00:06:16,230
+its own rear bodywork and windows with
+
+161
+00:06:16,230 --> 00:06:19,153
+stones, which would break parts of the
+
+162
+00:06:19,153 --> 00:06:20,615
+car during a stage.
+
+163
+00:06:20,965 --> 00:06:23,507
+The flaps are also a canvas.
+
+164
+00:06:23,687 --> 00:06:26,414
+Teams put sponsor names and the car's
+
+165
+00:06:26,414 --> 00:06:27,519
+number on them,
+
+166
+00:06:27,519 --> 00:06:30,467
+because they are big flat surfaces right
+
+167
+00:06:30,467 --> 00:06:32,604
+at the height of the cameras.
+
+168
+00:06:32,784 --> 00:06:33,955
+On a muddy rally,
+
+169
+00:06:33,955 --> 00:06:36,090
+they are often the only part of
+
+170
+00:06:36,090 --> 00:06:37,950
+the car you can still read.
+
+171
+00:06:38,130 --> 00:06:41,135
+A strip of rubber with two jobs,
+
+172
+00:06:41,135 --> 00:06:44,516
+safety first and advertising second.
+
+173
+00:06:44,866 --> 00:06:46,886
+Why do some rally cars have a
+
+174
+00:06:46,886 --> 00:06:49,254
+giant set of lights on the bonnet?
+
+175
+00:06:49,434 --> 00:06:52,571
+Because some stages are run at night,
+
+176
+00:06:52,571 --> 00:06:55,963
+on narrow roads in forests or mountains,
+
+177
+00:06:55,963 --> 00:06:57,828
+with no street lights.
+
+178
+00:06:58,008 --> 00:07:00,805
+A normal car's headlights are not enough
+
+179
+00:07:00,805 --> 00:07:03,671
+at more than one hundred fifty kilometres
+
+180
+00:07:03,671 --> 00:07:04,301
+per hour.
+
+181
+00:07:04,481 --> 00:07:07,858
+The light pod carries several powerful lamps,
+
+182
+00:07:07,858 --> 00:07:09,810
+aimed at different angles,
+
+183
+00:07:09,810 --> 00:07:12,136
+to light the road far ahead and
+
+184
+00:07:12,136 --> 00:07:14,013
+the edges of the corners.
+
+185
+00:07:14,363 --> 00:07:16,092
+Each lamp has a job.
+
+186
+00:07:16,272 --> 00:07:17,840
+Some throw a long,
+
+187
+00:07:17,840 --> 00:07:20,365
+narrow beam to see far down a
+
+188
+00:07:20,365 --> 00:07:21,149
+straight.
+
+189
+00:07:21,329 --> 00:07:22,563
+Others are wide,
+
+190
+00:07:22,563 --> 00:07:25,108
+to light the inside of the corner
+
+191
+00:07:25,108 --> 00:07:26,959
+the car is turning into.
+
+192
+00:07:27,139 --> 00:07:29,581
+The pod is bolted onto the front
+
+193
+00:07:29,581 --> 00:07:32,328
+for night stages and removed for day
+
+194
+00:07:32,328 --> 00:07:35,533
+stages, to save weight and air resistance.
+
+195
+00:07:35,713 --> 00:07:37,375
+Modern pods use LEDs,
+
+196
+00:07:37,375 --> 00:07:40,460
+which are lighter and brighter than the
+
+197
+00:07:40,460 --> 00:07:41,251
+old lamps.
+
+198
+00:07:41,602 --> 00:07:43,930
+Night stages are some of the most
+
+199
+00:07:43,930 --> 00:07:45,201
+dramatic in rally.
+
+200
+00:07:45,381 --> 00:07:47,232
+At the Monte Carlo rally,
+
+201
+00:07:47,232 --> 00:07:49,453
+crews may face snow and ice in
+
+202
+00:07:49,453 --> 00:07:51,453
+the mountains, in the dark.
+
+203
+00:07:51,633 --> 00:07:54,595
+Fans line the roads with torches and
+
+204
+00:07:54,595 --> 00:07:55,418
+campfires.
+
+205
+00:07:55,598 --> 00:07:57,971
+The drivers say the hardest part is
+
+206
+00:07:57,971 --> 00:07:59,464
+not seeing far enough.
+
+207
+00:07:59,644 --> 00:08:01,594
+The light pod is their only way
+
+208
+00:08:01,594 --> 00:08:03,733
+to see the next corner before they
+
+209
+00:08:03,733 --> 00:08:04,299
+reach it.
+
+210
+00:08:04,650 --> 00:08:06,788
+Why is there an air scoop on
+
+211
+00:08:06,788 --> 00:08:08,620
+the roof of a rally car?
+
+212
+00:08:08,800 --> 00:08:10,565
+To keep the crew from cooking.
+
+213
+00:08:10,745 --> 00:08:13,576
+The windows of a rally car stay
+
+214
+00:08:13,576 --> 00:08:15,494
+closed on the stages,
+
+215
+00:08:15,494 --> 00:08:18,508
+because open windows let in dust,
+
+216
+00:08:18,508 --> 00:08:20,335
+stones and branches.
+
+217
+00:08:20,515 --> 00:08:23,765
+The engine, the gearbox and the exhaust
+
+218
+00:08:23,765 --> 00:08:26,015
+are all close to the cabin,
+
+219
+00:08:26,015 --> 00:08:28,849
+and on a hot rally the temperature
+
+220
+00:08:28,849 --> 00:08:31,266
+inside can be extremely high.
+
+221
+00:08:31,446 --> 00:08:34,250
+The scoop forces fresh air into the
+
+222
+00:08:34,250 --> 00:08:34,731
+cabin.
+
+223
+00:08:35,082 --> 00:08:37,140
+The roof is the best place for
+
+224
+00:08:37,140 --> 00:08:37,345
+it.
+
+225
+00:08:37,525 --> 00:08:40,091
+The air there is clean and fast,
+
+226
+00:08:40,091 --> 00:08:42,576
+away from the dust thrown up by
+
+227
+00:08:42,576 --> 00:08:43,458
+the wheels.
+
+228
+00:08:43,638 --> 00:08:46,195
+The scoop pushes the air down through
+
+229
+00:08:46,195 --> 00:08:47,854
+a vent into the cockpit,
+
+230
+00:08:47,854 --> 00:08:50,203
+where it blows over the driver and
+
+231
+00:08:50,203 --> 00:08:50,894
+co-driver.
+
+232
+00:08:51,074 --> 00:08:53,138
+In rallies like Mexico,
+
+233
+00:08:53,138 --> 00:08:54,574
+Kenya or Greece,
+
+234
+00:08:54,574 --> 00:08:56,906
+where the heat is intense,
+
+235
+00:08:56,906 --> 00:08:59,777
+that flow of air helps them stay
+
+236
+00:08:59,777 --> 00:09:02,290
+focused through long stages.
+
+237
+00:09:02,640 --> 00:09:05,846
+A tired, overheated driver makes mistakes,
+
+238
+00:09:05,846 --> 00:09:08,059
+and on a rally road a mistake
+
+239
+00:09:08,059 --> 00:09:09,280
+can mean a tree.
+
+240
+00:09:09,460 --> 00:09:11,176
+So the cooling of the crew is
+
+241
+00:09:11,176 --> 00:09:13,660
+treated almost as seriously as the cooling
+
+242
+00:09:13,660 --> 00:09:14,488
+of the engine.
+
+243
+00:09:14,668 --> 00:09:16,898
+A small scoop on the roof is
+
+244
+00:09:16,898 --> 00:09:19,846
+there to cool the most important part
+
+245
+00:09:19,846 --> 00:09:20,722
+of the car,
+
+246
+00:09:20,722 --> 00:09:22,156
+the people inside.
+
+247
+00:09:22,506 --> 00:09:24,447
+Why do rally cars have a tall
+
+248
+00:09:24,447 --> 00:09:26,790
+handbrake lever next to the driver?
+
+249
+00:09:26,970 --> 00:09:29,453
+It is a hydraulic handbrake,
+
+250
+00:09:29,453 --> 00:09:31,316
+used to turn the car,
+
+251
+00:09:31,316 --> 00:09:32,647
+not to park it.
+
+252
+00:09:32,827 --> 00:09:34,186
+In a tight hairpin,
+
+253
+00:09:34,186 --> 00:09:36,117
+the driver pulls the lever,
+
+254
+00:09:36,117 --> 00:09:38,691
+the rear wheels lock for an instant,
+
+255
+00:09:38,691 --> 00:09:40,836
+and the back of the car swings
+
+256
+00:09:40,836 --> 00:09:41,337
+around.
+
+257
+00:09:41,517 --> 00:09:43,934
+The car rotates much faster than it
+
+258
+00:09:43,934 --> 00:09:45,592
+would by steering alone.
+
+259
+00:09:45,942 --> 00:09:48,030
+The lever is tall so the driver
+
+260
+00:09:48,030 --> 00:09:49,378
+can grab it quickly,
+
+261
+00:09:49,378 --> 00:09:52,275
+without looking, while the other hand stays
+
+262
+00:09:52,275 --> 00:09:53,151
+on the wheel.
+
+263
+00:09:53,331 --> 00:09:55,504
+In a four wheel drive rally car,
+
+264
+00:09:55,504 --> 00:09:58,220
+pulling it also disconnects the drive to
+
+265
+00:09:58,220 --> 00:10:00,189
+the rear wheels for a moment,
+
+266
+00:10:00,189 --> 00:10:02,701
+so they can lock without fighting the
+
+267
+00:10:02,701 --> 00:10:03,177
+engine.
+
+268
+00:10:03,357 --> 00:10:05,861
+Let go, and the drive comes back
+
+269
+00:10:05,861 --> 00:10:08,210
+as the car points to the exit.
+
+270
+00:10:08,560 --> 00:10:10,440
+Drivers use it differently.
+
+271
+00:10:10,620 --> 00:10:12,793
+Some use it in many corners,
+
+272
+00:10:12,793 --> 00:10:15,508
+some only in the tightest hairpins.
+
+273
+00:10:15,688 --> 00:10:17,818
+On the narrowest mountain roads,
+
+274
+00:10:17,818 --> 00:10:19,482
+it can be the only way to
+
+275
+00:10:19,482 --> 00:10:22,410
+turn the car without stopping and reversing.
+
+276
+00:10:22,590 --> 00:10:24,916
+A parking brake on your car holds
+
+277
+00:10:24,916 --> 00:10:25,621
+you still.
+
+278
+00:10:25,801 --> 00:10:27,143
+On a rally car,
+
+279
+00:10:27,143 --> 00:10:29,738
+the same idea is used to make
+
+280
+00:10:29,738 --> 00:10:30,990
+the car dance.
+
+281
+00:10:31,341 --> 00:10:33,249
+Why do rally cars bang,
+
+282
+00:10:33,249 --> 00:10:36,402
+pop and shoot flames from the exhaust?
+
+283
+00:10:36,582 --> 00:10:38,614
+It is the anti-lag system.
+
+284
+00:10:38,794 --> 00:10:41,174
+A turbo engine has a delay.
+
+285
+00:10:41,354 --> 00:10:44,586
+When the driver lifts off the throttle,
+
+286
+00:10:44,586 --> 00:10:46,327
+the turbo slows down,
+
+287
+00:10:46,327 --> 00:10:48,813
+and when he accelerates again,
+
+288
+00:10:48,813 --> 00:10:51,299
+it takes a moment to spin back
+
+289
+00:10:51,299 --> 00:10:51,548
+up.
+
+290
+00:10:51,728 --> 00:10:53,539
+On a twisty rally road,
+
+291
+00:10:53,539 --> 00:10:56,611
+with constant braking and accelerating,
+
+292
+00:10:56,611 --> 00:10:58,973
+that delay would cost a lot of
+
+293
+00:10:58,973 --> 00:10:59,367
+time.
+
+294
+00:10:59,718 --> 00:11:02,801
+Anti-lag keeps the turbo spinning even when
+
+295
+00:11:02,801 --> 00:11:05,023
+the driver is off the throttle.
+
+296
+00:11:05,203 --> 00:11:07,805
+The engine lets a little air through
+
+297
+00:11:07,805 --> 00:11:09,178
+and adds fuel late,
+
+298
+00:11:09,178 --> 00:11:11,563
+so it burns in the exhaust before
+
+299
+00:11:11,563 --> 00:11:12,285
+the turbo.
+
+300
+00:11:12,465 --> 00:11:15,443
+The explosions keep the turbo turning at
+
+301
+00:11:15,443 --> 00:11:16,262
+high speed.
+
+302
+00:11:16,442 --> 00:11:19,552
+When the driver touches the throttle again,
+
+303
+00:11:19,552 --> 00:11:21,794
+the boost is there immediately.
+
+304
+00:11:21,974 --> 00:11:24,231
+The bangs you hear in the forest
+
+305
+00:11:24,231 --> 00:11:25,712
+are those explosions.
+
+306
+00:11:26,063 --> 00:11:27,990
+It is brutal for the hardware.
+
+307
+00:11:28,170 --> 00:11:31,451
+The exhaust and the turbo get extremely
+
+308
+00:11:31,451 --> 00:11:34,480
+hot, and parts wear much faster than
+
+309
+00:11:34,480 --> 00:11:35,658
+in a road car.
+
+310
+00:11:35,838 --> 00:11:38,630
+That is why anti-lag is turned off
+
+311
+00:11:38,630 --> 00:11:41,586
+on the road sections between stages,
+
+312
+00:11:41,586 --> 00:11:44,952
+where rally cars drive in normal traffic.
+
+313
+00:11:45,132 --> 00:11:47,221
+It is a system built for a
+
+314
+00:11:47,221 --> 00:11:49,470
+few minutes of total attack,
+
+315
+00:11:49,470 --> 00:11:51,076
+not for a long life.
+
+316
+00:11:51,427 --> 00:11:54,434
+Why do rally tyres have metal spikes?
+
+317
+00:11:54,614 --> 00:11:57,637
+These are the studded tyres used on
+
+318
+00:11:57,637 --> 00:11:58,760
+snow and ice,
+
+319
+00:11:58,760 --> 00:12:01,092
+especially at Rally Sweden.
+
+320
+00:12:01,272 --> 00:12:04,259
+Hundreds of small metal studs stick out
+
+321
+00:12:04,259 --> 00:12:05,254
+of each tyre.
+
+322
+00:12:05,434 --> 00:12:08,378
+On ice, a normal tyre has almost
+
+323
+00:12:08,378 --> 00:12:09,114
+no grip.
+
+324
+00:12:09,294 --> 00:12:11,602
+The studs dig into the ice like
+
+325
+00:12:11,602 --> 00:12:13,314
+the claws of an animal,
+
+326
+00:12:13,314 --> 00:12:15,919
+giving the car grip in places where
+
+327
+00:12:15,919 --> 00:12:17,630
+you could barely stand.
+
+328
+00:12:17,981 --> 00:12:21,134
+With studs, rally cars race on frozen
+
+329
+00:12:21,134 --> 00:12:24,542
+roads at speeds above one hundred eighty
+
+330
+00:12:24,542 --> 00:12:26,247
+kilometres per hour.
+
+331
+00:12:26,427 --> 00:12:29,383
+In Sweden, the roads are lined with
+
+332
+00:12:29,383 --> 00:12:32,424
+snow banks, and drivers lean the car
+
+333
+00:12:32,424 --> 00:12:34,451
+against them in corners,
+
+334
+00:12:34,451 --> 00:12:36,562
+using the snow as a wall.
+
+335
+00:12:36,742 --> 00:12:39,524
+The studs wear down during a stage,
+
+336
+00:12:39,524 --> 00:12:42,147
+and the tyre rules limit how many
+
+337
+00:12:42,147 --> 00:12:44,690
+studs each tyre can have and how
+
+338
+00:12:44,690 --> 00:12:46,518
+far they may stick out.
+
+339
+00:12:46,868 --> 00:12:50,154
+Tyres are the only contact between the
+
+340
+00:12:50,154 --> 00:12:51,624
+car and the road,
+
+341
+00:12:51,624 --> 00:12:55,084
+so rally teams carry different tyres for
+
+342
+00:12:55,084 --> 00:12:56,295
+every surface.
+
+343
+00:12:56,475 --> 00:12:59,608
+Soft and hard compounds for gravel,
+
+344
+00:12:59,608 --> 00:13:02,832
+slicks and grooved tyres for tarmac,
+
+345
+00:13:02,832 --> 00:13:04,801
+narrow tyres for snow,
+
+346
+00:13:04,801 --> 00:13:06,413
+and studs for ice.
+
+347
+00:13:06,593 --> 00:13:07,780
+On a mixed rally,
+
+348
+00:13:07,780 --> 00:13:10,432
+choosing the wrong tyre in the morning
+
+349
+00:13:10,432 --> 00:13:12,177
+can decide the whole day.
+
+350
+00:13:12,528 --> 00:13:15,026
+Why is the passenger in a rally
+
+351
+00:13:15,026 --> 00:13:18,007
+car reading a notebook at full speed?
+
+352
+00:13:18,187 --> 00:13:20,137
+These are the pace notes,
+
+353
+00:13:20,137 --> 00:13:22,866
+and the passenger is the co-driver.
+
+354
+00:13:23,046 --> 00:13:24,354
+Before the rally,
+
+355
+00:13:24,354 --> 00:13:26,969
+the crew drives each stage slowly,
+
+356
+00:13:26,969 --> 00:13:29,892
+writing a description of every corner,
+
+357
+00:13:29,892 --> 00:13:31,046
+crest and jump.
+
+358
+00:13:31,226 --> 00:13:32,560
+During the stage,
+
+359
+00:13:32,560 --> 00:13:35,623
+the co-driver reads the notes out loud,
+
+360
+00:13:35,623 --> 00:13:37,193
+a few seconds ahead,
+
+361
+00:13:37,193 --> 00:13:39,863
+so the driver knows what is coming
+
+362
+00:13:39,863 --> 00:13:41,512
+before he can see it.
+
+363
+00:13:41,862 --> 00:13:43,696
+The notes are written in a code.
+
+364
+00:13:43,876 --> 00:13:46,880
+Many crews use numbers for how tight
+
+365
+00:13:46,880 --> 00:13:48,132
+each corner is,
+
+366
+00:13:48,132 --> 00:13:50,468
+along with words like crest,
+
+367
+00:13:50,468 --> 00:13:52,471
+don't cut, or over jump,
+
+368
+00:13:52,471 --> 00:13:55,892
+and the distance to the next instruction.
+
+369
+00:13:56,072 --> 00:13:58,336
+A sentence like six left,
+
+370
+00:13:58,336 --> 00:13:59,784
+into four right,
+
+371
+00:13:59,784 --> 00:14:03,496
+don't cut, describes a corner sequence in
+
+372
+00:14:03,496 --> 00:14:04,582
+two seconds.
+
+373
+00:14:04,762 --> 00:14:07,790
+The driver trusts the voice so completely
+
+374
+00:14:07,790 --> 00:14:10,375
+that he drives flat out over crests
+
+375
+00:14:10,375 --> 00:14:11,926
+he cannot see beyond.
+
+376
+00:14:12,276 --> 00:14:14,123
+A mistake in the notes or in
+
+377
+00:14:14,123 --> 00:14:16,300
+the timing of the reading can put
+
+378
+00:14:16,300 --> 00:14:17,686
+the car off the road.
+
+379
+00:14:17,866 --> 00:14:20,345
+That is why the co-driver is as
+
+380
+00:14:20,345 --> 00:14:22,264
+important as the driver,
+
+381
+00:14:22,264 --> 00:14:25,223
+and why crews often stay together for
+
+382
+00:14:25,223 --> 00:14:25,703
+years.
+
+383
+00:14:25,883 --> 00:14:28,354
+The fastest part of a rally car
+
+384
+00:14:28,354 --> 00:14:31,223
+is not the engine or the suspension.
+
+385
+00:14:31,403 --> 00:14:34,375
+It is the conversation inside the cockpit.
+
+386
+00:14:34,726 --> 00:14:36,386
+So here are the ten.
+
+387
+00:14:36,566 --> 00:14:39,399
+Long suspension that swallows jumps.
+
+388
+00:14:39,579 --> 00:14:41,892
+A roll cage for when the car
+
+389
+00:14:41,892 --> 00:14:42,388
+rolls.
+
+390
+00:14:42,568 --> 00:14:44,122
+Armour under the car,
+
+391
+00:14:44,122 --> 00:14:45,676
+flaps for the stones,
+
+392
+00:14:45,676 --> 00:14:48,044
+lights for the night and a scoop
+
+393
+00:14:48,044 --> 00:14:49,894
+on the roof for the crew.
+
+394
+00:14:50,074 --> 00:14:51,656
+A handbrake to turn,
+
+395
+00:14:51,656 --> 00:14:54,029
+an anti-lag system that bangs,
+
+396
+00:14:54,029 --> 00:14:55,532
+spikes for the ice,
+
+397
+00:14:55,532 --> 00:14:58,300
+and a notebook that lets the driver
+
+398
+00:14:58,300 --> 00:14:59,803
+see around corners.
+
+399
+00:15:00,154 --> 00:15:02,695
+A rally car looks like a normal
+
+400
+00:15:02,695 --> 00:15:04,171
+car with stickers.
+
+401
+00:15:04,351 --> 00:15:07,888
+Underneath, almost every part has been rebuilt
+
+402
+00:15:07,888 --> 00:15:10,887
+to survive the roughest roads on Earth.
+
+403
+00:15:11,067 --> 00:15:14,109
+If you want more machines explained part
+
+404
+00:15:14,109 --> 00:15:17,000
+by part, subscribe to Machine Reverse.
+
+405
+00:15:17,180 --> 00:15:19,166
+And tell us in the comments which
+
+406
+00:15:19,166 --> 00:15:21,151
+machine you want us to take apart
+
+407
+00:15:21,151 --> 00:15:21,452
+next.
