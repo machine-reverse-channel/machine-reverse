@@ -121,8 +121,8 @@ sc("""The bullet train does not look like that to look fast. Every curve has a r
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
-    1: ("File:Class E956 ALFA-X Shinkansen EMU.jpg", 0.75, 0.62),
-    2: ("File:Nakayama tunnel north entrance of the Joetsu Shinkansen A.jpg", 0.55, 0.35),
+    1: ("File:Class E956 ALFA-X Shinkansen EMU.jpg", 0.78, 0.7),
+    2: ("File:Nakayama tunnel north entrance of the Joetsu Shinkansen A.jpg", 0.76, 0.35),
     3: ("File:JRW Shinkansen Series 500 V3 Pantograph.jpg", 0.62, 0.35),
     4: ("File:Kyushu Shinkansen N700-8000 series interior 20110315.jpg", 0.9, 0.42),
     5: ("File:JRCentralSeriesN700Nose.JPG", 0.5, 0.55),

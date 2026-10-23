@@ -25,8 +25,8 @@
    "query": "Shinkansen E5 nose",
    "caption": "WHY IS THIS NOSE SO LONG?",
    "arrow": {
-    "x": 0.75,
-    "y": 0.62
+    "x": 0.78,
+    "y": 0.7
    },
    "chapter": "1. The long nose",
    "short": "Why Do Bullet Trains Have Such Long Noses?",
@@ -48,7 +48,7 @@
    "query": "tunnel portal hood Shinkansen",
    "caption": "WHY DO THESE TUNNELS HAVE HOODS?",
    "arrow": {
-    "x": 0.55,
+    "x": 0.76,
     "y": 0.35
    },
    "chapter": "2. The tunnel hood",
