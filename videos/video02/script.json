@@ -71,8 +71,8 @@
    "query": "aircraft lavatory waste bin",
    "caption": "WHY IS THIS TRASH BIN SPECIAL?",
    "arrow": {
-    "x": 0.27,
-    "y": 0.35
+    "x": 0.22,
+    "y": 0.4
    },
    "chapter": "3. The extinguisher in the trash bin",
    "short": "The Secret Inside Airplane Trash Bins",
@@ -117,7 +117,7 @@
    "query": "aircraft oxygen masks deployed cabin",
    "caption": "WHERE DOES THIS OXYGEN COME FROM?",
    "arrow": {
-    "x": 0.3,
+    "x": 0.15,
     "y": 0.72
    },
    "chapter": "5. The oxygen mask",

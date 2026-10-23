@@ -127,9 +127,9 @@ sc("""The next time you board, look for them. Count the floor lights, find the t
 PICKS = {
     1: ('File:Economy Plus seat on a 737 Max.jpg', 0.5, 0.88),
     2: ('File:Econamy class lavatory.jpg', 0.6, 0.08),
-    3: ('File:Trash bin signage in aircraft.jpg', 0.27, 0.35),
+    3: ('File:Trash bin signage in aircraft.jpg', 0.22, 0.4),
     4: ('File:JP 沖繩 Okinawa 亞洲航空 AirAsia flying to HKG flight aircraft economy class interior seats February 2026 N13P 01.jpg', 0.3, 0.52),
-    5: ('File:PECO Passenger Service Unit.jpg', 0.3, 0.72),
+    5: ('File:PECO Passenger Service Unit.jpg', 0.15, 0.72),
     6: ('File:Controlled impact demonstration dummies.jpg', 0.42, 0.85),
     7: ('File:SP-LPC LO16 Flight escape slide.png', 0.38, 0.3),
     8: ('File:Deflated evacuation slide on an Airbus A320.jpg', 0.45, 0.4),
