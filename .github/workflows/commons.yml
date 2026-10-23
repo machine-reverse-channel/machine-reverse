@@ -10,6 +10,9 @@ on:
       list:
         description: "path to the query list, e.g. pesquisa/coverage.txt"
         required: true
+      mode:
+        description: "check (coverage) or find (candidates for arrow scenes)"
+        default: check
 permissions:
   contents: write
 jobs:
@@ -19,8 +22,9 @@ jobs:
       - uses: actions/checkout@v4
       - name: Which job
         run: echo "JOB=${{ inputs.list || '' }}" >> $GITHUB_ENV && [ -n "${{ inputs.list }}" ] || echo "JOB=$(head -1 jobs/commons.txt | tr -d '[:space:]')" >> $GITHUB_ENV
-      - run: pip install -q requests
-      - run: python pipeline/commons_check.py "$JOB" /tmp/rep
+      - run: pip install -q requests pillow
+      - run: |
+          if [ "${{ inputs.mode }}" = "find" ]; then python pipeline/find_parts.py "$JOB" /tmp/rep; else python pipeline/commons_check.py "$JOB" /tmp/rep; fi
       - name: Publish the report
         run: |
           N=$(basename "$JOB" .txt)
