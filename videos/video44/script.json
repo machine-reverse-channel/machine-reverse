@@ -162,10 +162,14 @@
    "text": "Why do locomotives carry sand? Because steel wheels on steel rails have low grip. That is great for rolling easily, but bad when starting a heavy train or stopping on a wet rail. So locomotives and many trains carry sand in boxes, with pipes that blow it right in front of the wheels. The sand increases grip between the wheel and the rail at exactly the moment it is needed.",
    "query": "railway sander locomotive",
    "caption": "WHY DO TRAINS CARRY SAND?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.72,
+    "y": 0.35
+   },
    "chapter": "7. The sandbox",
    "short": "Why Do Trains Carry Sand?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Sandbox 270.JPG"
   },
   {
    "text": "In autumn, railways have an unexpected enemy. Leaves. When trains crush wet leaves on the rails, they form a slippery black layer that can be compared to ice. Trains slip when starting and slide when braking. In Britain, special trains spray the rails with high pressure water and apply a gel mixed with sand, to clean the rails during leaf season.",
@@ -181,10 +185,14 @@
    "text": "Why did railway workers walk along trains hitting the wheels with hammers? They were called wheel tappers, and they were listening. A healthy steel wheel rings like a bell. A cracked wheel makes a dull sound. It was a simple test, but it could find hidden cracks before they turned into a disaster. Today, railways use ultrasonic testing and sensors along the track to do the same job.",
    "query": "wheel tapping hammer",
    "caption": "WHY DID WORKERS HIT TRAIN WHEELS WITH HAMMERS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.6,
+    "y": 0.6
+   },
    "chapter": "8. The hammer test",
    "short": "Why Did Railway Workers Hit Wheels With Hammers?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Wheel tapper.jpg"
   },
   {
    "text": "The reason is fatigue. A wheel takes millions of loads, and a tiny crack can grow a little with each turn. On June third, nineteen ninety-eight, a German high speed ICE train near the village of Eschede had a wheel with a steel tire, a ring around the wheel center, that had a fatigue crack. The tire broke at about two hundred kilometers an hour. The train derailed and hit a bridge, and one hundred one people died.",
@@ -223,10 +231,14 @@
    "text": "Why do the hoses between train cars matter so much? They carry compressed air for the brakes. In the eighteen sixties and seventies, George Westinghouse developed the railway air brake. And his key idea was brilliant. In the automatic air brake, air pressure in the pipe keeps the brakes released. To brake, the driver lowers the pressure. So if the pipe breaks, or the train splits in two, the pressure drops and every car brakes on its own.",
    "query": "air brake hose train",
    "caption": "WHY DO THESE HOSES STOP A TRAIN?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.53
+   },
    "chapter": "10. The air brake hose",
    "short": "Why Do Train Brakes Work When the Air Is Lost?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Luftleitung-01.jpg"
   },
   {
    "text": "This is called fail-safe design. The system is built so that its most likely failure leads to the safe outcome, a stopped train. Before air brakes, workers called brakemen had to climb on top of moving cars and turn hand wheels to brake each car, often in rain and snow. Many fell to their deaths. The air brake made trains longer, faster, and much safer.",

@@ -47,13 +47,17 @@
    "text": "Why do some floating platforms pull themselves down instead of floating up? A tension leg platform has a hull that wants to float much higher than it does. But it is tied to the sea floor by vertical steel tubes called tendons, pulled extremely tight. The buoyancy pulls up, the tendons pull down. The platform can slide a little sideways in waves, but it barely moves up and down at all.",
    "query": "tension leg platform",
    "caption": "WHY IS THIS PLATFORM PULLED DOWN?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.88
+   },
    "chapter": "2. The cables pulling down",
    "short": "Why Are Some Oil Platforms Pulled Underwater?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Heidrun, Norskehavet (28276260560).jpg"
   },
   {
-   "text": "That vertical stillness is the whole point. On a platform that does not bob, the wells can be controlled from the deck, almost like on land. The first tension leg platform to produce oil was Hutton, in the British North Sea, in nineteen eighty-four. Later ones in the Gulf of Mexico went into water more than a kilometer deep.",
+   "text": "That vertical stillness is the whole point. On a platform that does not bob, the wells can be controlled from the deck, almost like on land. The first tension leg platform to produce oil was Hutton, in the British North Sea, in nineteen eighty-four. Later ones in the Gulf of Mexico went into water more than a kilometer deep. And Heidrun, in the Norwegian Sea, is even more unusual. Its floating hull is made of concrete.",
    "query": "tension leg platform tendons",
    "caption": "STILL AS LAND"
   },

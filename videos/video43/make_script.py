@@ -36,7 +36,7 @@ sc("""Jack-ups have a limit. Their legs can only be so long, so they work in rel
 part(2, "The cables pulling down", "WHY IS THIS PLATFORM PULLED DOWN?", "Why Are Some Oil Platforms Pulled Underwater?",
      """Why do some floating platforms pull themselves down instead of floating up? A tension leg platform has a hull that wants to float much higher than it does. But it is tied to the sea floor by vertical steel tubes called tendons, pulled extremely tight. The buoyancy pulls up, the tendons pull down. The platform can slide a little sideways in waves, but it barely moves up and down at all.""",
      "tension leg platform")
-sc("""That vertical stillness is the whole point. On a platform that does not bob, the wells can be controlled from the deck, almost like on land. The first tension leg platform to produce oil was Hutton, in the British North Sea, in nineteen eighty-four. Later ones in the Gulf of Mexico went into water more than a kilometer deep.""",
+sc("""That vertical stillness is the whole point. On a platform that does not bob, the wells can be controlled from the deck, almost like on land. The first tension leg platform to produce oil was Hutton, in the British North Sea, in nineteen eighty-four. Later ones in the Gulf of Mexico went into water more than a kilometer deep. And Heidrun, in the Norwegian Sea, is even more unusual. Its floating hull is made of concrete.""",
    "tension leg platform tendons", "STILL AS LAND")
 sc("""The tendons are a bit like the strings of a guitar, tight enough that they never go slack, even when a big wave passes. If a tendon ever went slack and then snapped tight again, the shock could damage it. So engineers design the platform with so much extra buoyancy that the tendons stay tight in any storm they expect. Tension is the safety.""",
    "offshore platform storm waves", "TENSION IS SAFETY")
@@ -122,6 +122,7 @@ sc("""An oil platform does not stay in place by accident. Every shape fights the
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
     1: ("File:Jackup Rig - Galveston TX.jpg", 0.22, 0.35),
+    2: ("File:Heidrun, Norskehavet (28276260560).jpg", 0.5, 0.88),
     3: ("File:Shell Perdido deepwater offshore production platform (51115227891).jpg", 0.31, 0.72),
     4: ("File:Troll A Platform.jpg", 0.48, 0.8),
     5: ("File:Ramnäs bruk AB 5.jpg", 0.35, 0.65),

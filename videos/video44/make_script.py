@@ -127,7 +127,10 @@ PICKS = {
     4: ("File:Continuous welded rail track.JPG", 0.62, 0.55),
     5: ("File:Close-up of a bogie of a TRA EMU700 coach at Taichung Station.jpg", 0.45, 0.6),
     6: ("File:Grinding thermite welded track to create smooth continuous rail. 04-12-19 (46729514965).jpg", 0.42, 0.55),
+    7: ("File:Sandbox 270.JPG", 0.72, 0.35),
+    8: ("File:Wheel tapper.jpg", 0.6, 0.6),
     9: ("File:AAR knuckle coupler connection.jpg", 0.5, 0.5),
+    10: ("File:Luftleitung-01.jpg", 0.5, 0.53),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
