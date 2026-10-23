@@ -133,9 +133,9 @@ sc("""Next time you see those towers on the horizon, you will know the cloud is 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
     1: ("File:De Molen (windmill) and the nuclear power plant cooling tower in Doel, Belgium (DSCF3859).jpg", 0.65, 0.45),
-    2: ("File:Godorf Cologne Rhineland-Refinery-Cooling-Towers-during-demolition-02.jpg", 0.83, 0.45),
+    2: ("File:Godorf Cologne Rhineland-Refinery-Cooling-Towers-during-demolition-02.jpg", 0.8, 0.6),
     3: ("File:Neckarwestheim Nuclear Power Plant September 2013.jpg", 0.45, 0.55),
-    4: ("File:NPP containment building construction.jpg", 0.45, 0.45),
+    4: ("File:NPP containment building construction.jpg", 0.45, 0.15),
     5: ("File:Reactor Vessel head.jpg", 0.6, 0.45),
     6: ("File:Nuclear fuel pellets at the Greifswald Nuclear Power Plant information center.jpg", 0.5, 0.45),
     7: ("File:Cerenkov Effect.jpg", 0.5, 0.6),

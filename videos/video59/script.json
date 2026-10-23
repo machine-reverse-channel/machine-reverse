@@ -48,8 +48,8 @@
    "query": "hyperboloid cooling tower",
    "caption": "WHY IS THIS TOWER SHAPED LIKE THIS?",
    "arrow": {
-    "x": 0.83,
-    "y": 0.45
+    "x": 0.8,
+    "y": 0.6
    },
    "chapter": "2. The waist of the tower",
    "short": "Why Are Cooling Towers Shaped Like That?",
@@ -95,7 +95,7 @@
    "caption": "WHY DOES THE REACTOR LIVE IN A DOME?",
    "arrow": {
     "x": 0.45,
-    "y": 0.45
+    "y": 0.15
    },
    "chapter": "4. The concrete dome",
    "short": "Why Do Nuclear Reactors Live Inside a Dome?",
