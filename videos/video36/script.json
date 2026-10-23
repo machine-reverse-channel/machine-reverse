@@ -24,10 +24,14 @@
    "text": "Why are there steel cables stretched across the deck of an aircraft carrier? They are arresting wires. A landing jet catches one of them with a hook, and the cable pulls out, slowing the plane down. Below deck, each wire is connected to a large machine that absorbs the energy of the landing.",
    "query": "aircraft carrier arresting wire",
    "caption": "WHY ARE THERE CABLES ACROSS THE DECK?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.4,
+    "y": 0.6
+   },
    "chapter": "1. The arresting wires",
    "short": "Why Do Aircraft Carriers Catch Jets With Cables?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:VFA-147 FA-18C Hornet catching arresting wire on USS Nimitz (CVN-68) 971106-N-6939M-269.jpg"
   },
   {
    "text": "The machine is the clever part. It controls how hard the cable pulls, depending on the weight and speed of each aircraft. Too soft, and the plane rolls off the end of the deck. Too hard, and the hook or the plane could be torn apart. The settings are changed for every single landing.",
@@ -43,10 +47,14 @@
    "text": "Why do navy jets have a hook under the tail? It is the tailhook, the other half of the arresting system. Before landing, the pilot lowers the hook. It hangs behind the plane and drags along the deck, ready to snag one of the cables. Air force versions of the same jets often have a much smaller hook, or none at all.",
    "query": "tailhook",
    "caption": "WHY DOES THIS JET HAVE A HOOK?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.42,
+    "y": 0.33
+   },
    "chapter": "2. The tailhook",
    "short": "Why Do Navy Jets Have a Hook on the Tail?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:US Navy 010816-N-0295M-003 An arresting wire falls away from an S-3B Viking's tail hook as it stops after landing aboard the aircraft carrier USS Constellation (CV 64).jpg"
   },
   {
    "text": "The hook has to take enormous forces in a fraction of a second. So it is built into a strong part of the plane's structure, and navy jets have stronger frames and landing gear overall. That extra strength adds weight, which is one reason carrier aircraft are heavier than their land based versions.",
@@ -62,10 +70,14 @@
    "text": "Why do navy pilots push the throttle to full power the moment they touch the deck? In case the hook misses the wires. If the hook bounces over every cable, the plane is running out of deck very fast. With the engines already at full power, it can take off again immediately.",
    "query": "jet landing on carrier",
    "caption": "WHY DO PILOTS SPEED UP WHEN THEY LAND?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.47,
+    "y": 0.25
+   },
    "chapter": "3. The full throttle landing",
    "short": "Why Do Navy Pilots Go Full Throttle When Landing?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:FA-18 Trap.jpg"
   },
   {
    "text": "A missed landing like this is called a bolter. The jet roars off the end of the angled deck, climbs, circles, and tries again. If the engines were idle, they would need several seconds to spool up, and the plane would fall into the sea. Full power on landing turns a disaster into a second try.",
@@ -81,10 +93,14 @@
    "text": "Why does the deck of an aircraft carrier have a long slot running to the front? It is the catapult. A heavy jet cannot reach take off speed in less than a hundred metres on its own. The catapult grabs the nose wheel and throws the plane forward, from zero to around two hundred and sixty kilometres per hour in about two seconds.",
    "query": "aircraft carrier catapult",
    "caption": "WHY DOES THIS DECK HAVE A SLOT?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.35,
+    "y": 0.75
+   },
    "chapter": "4. The catapult",
    "short": "Why Do Aircraft Carriers Launch Jets With Catapults?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:US Navy 111212-N-BT887-150 Sailors signal to advance a steam-powered catapult shuttle aboard the Nimitz-class aircraft carrier USS John C. Stennis.jpg"
   },
   {
    "text": "For decades, catapults were powered by steam from the ship's boilers or reactors, pushing pistons along a cylinder under the deck. The steam catapult was a British invention of the nineteen fifties. You can still see the clouds of steam rising from the slot after each launch.",
@@ -100,10 +116,14 @@
    "text": "Why does a metal wall rise from the deck behind a jet before it launches? It is the jet blast deflector. When the jet goes to full power on the catapult, its engines blast hot gas straight backwards. Without the wall, that blast would hit the planes and people waiting behind it.",
    "query": "jet blast deflector",
    "caption": "WHY DOES THIS WALL RISE FROM THE DECK?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.1,
+    "y": 0.3
+   },
    "chapter": "5. The blast deflector",
    "short": "Why Does a Wall Rise Behind Jets on a Carrier?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:US Navy 030107-N-4953E-001 Hornet prepares for a catapult launch.jpg"
   },
   {
    "text": "The deflector tilts up from the deck and sends the hot exhaust upwards, away from the crew. Because the blast is so hot, the panels are cooled by sea water running through pipes inside them. Without cooling, they would warp after a few launches.",
@@ -119,10 +139,14 @@
    "text": "Why is the landing area of an aircraft carrier set at an angle to the ship? On early carriers, planes landed straight down the length of the deck. If a plane missed the wires, it crashed into the planes parked at the front. Barriers were used to stop them, and many aircraft were destroyed.",
    "query": "aircraft carrier angled deck",
    "caption": "WHY IS THE LANDING DECK CROOKED?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.3,
+    "y": 0.55
+   },
    "chapter": "6. The angled deck",
    "short": "Why Is an Aircraft Carrier's Landing Deck Angled?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:US Navy 090708-N-9988F-002 Sailors assigned to the Eisenhower Carrier Strike Group form on the flight deck of the aircraft carrier USS Dwight D. Eisenhower (CVN 69) to spell out.jpg"
   },
   {
    "text": "In the early nineteen fifties, British officers came up with a simple idea. Angle the landing area to the left, so it points off the side of the ship. A plane that misses the wires simply flies off the end of the angled deck and goes around. The front of the ship stays clear for parking and catapult launches.",
@@ -138,10 +162,14 @@
    "text": "Why do carrier pilots follow a ball of light? On the side of the deck there is a system of lights, called the optical landing system. Pilots call the central light the meatball, or just the ball. Its position, compared with a row of green reference lights, tells the pilot whether the plane is too high, too low or exactly on the glide path.",
    "query": "Fresnel lens optical landing system",
    "caption": "WHY DOES THIS LIGHT HELP PILOTS LAND?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.33
+   },
    "chapter": "7. The landing lights",
    "short": "Why Do Carrier Pilots Follow a Ball of Light?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Optical Landing System, night, aboard USS Dwight D. Eisenhower (CVN-69).jpg"
   },
   {
    "text": "The system uses special lenses that only show the ball at the right height to a pilot at the right angle. If the plane is too high, the ball appears above the green lights. Too low, and it drops below them, and turns red if it is dangerously low. The pilot keeps the ball in the middle all the way down.",
@@ -157,10 +185,14 @@
    "text": "Why is the control tower of an aircraft carrier almost always on the right side? The tower is called the island, and it holds the bridge, the flight control and radars. Putting it on one edge leaves the rest of the deck free. The choice of the right side is partly about the angled landing deck, which points to the left.",
    "query": "aircraft carrier island",
    "caption": "WHY IS THE TOWER ALWAYS ON THE RIGHT?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.32,
+    "y": 0.25
+   },
    "chapter": "8. The island",
    "short": "Why Is an Aircraft Carrier's Tower Always on the Right?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Aircraft Carrier at HMNB Portsmouth - geograph.org.uk - 8085623.jpg"
   },
   {
    "text": "There is also a historical reason that is often given. Early propeller planes tended to pull to the left when they went to full power, and pilots usually turned left if they had to abort a landing. An island on the right was out of the way. Once that layout became standard, the rest of the deck was designed around it.",
@@ -176,10 +208,14 @@
    "text": "Why do the wings of navy aircraft fold up? To save space. A carrier may carry dozens of aircraft, and they all have to fit on the deck and in the hangar below. Folding the wings can reduce a plane's width a lot, so more planes fit in the same space, and they can be moved around more easily.",
    "query": "folding wings aircraft carrier",
    "caption": "WHY DO THESE WINGS FOLD UP?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.62,
+    "y": 0.4
+   },
    "chapter": "9. The folding wings",
    "short": "Why Do Navy Jets Have Folding Wings?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:F-8E(FN) CVN 69 folding wings.JPEG"
   },
   {
    "text": "The fold adds hinges, locks and hydraulic systems, which add weight and complexity. A wing that fails to lock properly before take off is a serious danger, so the system has multiple checks. Navy versions of aircraft like the F thirty-five C have folding wings, while the air force versions do not need them.",
@@ -195,10 +231,14 @@
    "text": "Why do the crew on an aircraft carrier deck wear different coloured shirts? So everyone can see instantly who does what. On a deck full of noise, with jet engines screaming, people cannot easily talk. A colour tells a pilot or another sailor someone's job from far away.",
    "query": "aircraft carrier deck crew",
    "caption": "WHY DOES THE DECK CREW WEAR COLOURS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.6
+   },
    "chapter": "10. The coloured shirts",
    "short": "Why Do Aircraft Carrier Crews Wear Different Colors?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:US Navy 030829-N-5952R-001 Flight deck crew members of the nuclear powered aircraft-carrier USS Enterprise (CVN 65) conduct a barricade drill.jpg"
   },
   {
    "text": "Yellow shirts direct the aircraft, guiding pilots with hand signals. Green shirts run the catapults and arresting gear. Red shirts handle weapons and fire fighting. Purple shirts handle fuel, and they are nicknamed grapes. White shirts are often safety and medical staff. Each colour is a job.",
