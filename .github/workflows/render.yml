@@ -53,7 +53,7 @@ jobs:
         run: |
           V="$JOB"
           mkdir -p /tmp/out/media /tmp/out/parts
-          cp videos/$V/out/preview.mp4 videos/$V/out/captions.srt videos/$V/out/chapters.txt videos/$V/out/frame*.jpg videos/$V/credits.json /tmp/out/
+          cp videos/$V/out/preview.mp4 videos/$V/out/captions.srt videos/$V/out/chapters.txt videos/$V/out/frame*.jpg videos/$V/credits.json videos/$V/exact_failed.json /tmp/out/
           cp videos/$V/media/*.jpg /tmp/out/media/
           mkdir -p /tmp/out/shorts && cp videos/$V/out/shorts/*.mp4 videos/$V/out/shorts/shorts.md /tmp/out/shorts/
           split -b 90M -d -a 2 videos/$V/out/$V.mp4 /tmp/out/parts/$V.mp4.part

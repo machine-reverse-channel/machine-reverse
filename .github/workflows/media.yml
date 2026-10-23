@@ -39,7 +39,7 @@ jobs:
               im = ImageOps.fit(Image.open(f).convert("RGB"), (960, 540))  # same 16:9 crop as the render
               im.save(f"/tmp/m/{f.name}", quality=80)
           PY
-          cp videos/$V/credits.json /tmp/m/
+          cp videos/$V/credits.json videos/$V/exact_failed.json /tmp/m/
           git config user.name "render-bot" && git config user.email "render-bot@users.noreply.github.com"
           git checkout --orphan med && git rm -rf -q . && mkdir -p media/$V && cp -r /tmp/m/* media/$V/
           git add -f media && git commit -q -m "media $V" && git push -f origin med:media-$V

@@ -45,7 +45,7 @@ sc("""Today the Fenestron is on many Airbus helicopters, like the H130, the H135
 # ---------- 3. NOTAR ----------
 part(3, "The tail with no rotor", "WHY IS THERE NO TAIL ROTOR?", "Why Does This Helicopter Have No Tail Rotor?",
      """Why do some helicopters have no tail rotor at all? This is NOTAR, short for no tail rotor. Inside the tail boom, a fan blows low pressure air out of two long slots on the side. The air coming down from the main rotor hugs the curved boom, and that bends the flow and creates a sideways force, just like a wing. The tail boom itself becomes the anti-torque device.""",
-     "NOTAR MD 520N")
+     "MD 600N helicopter")
 sc("""At the very end of the tail, a rotating nozzle called a direct jet thruster pushes out more air, and the pilot uses it to steer, with the same pedals as any other helicopter. A NOTAR test aircraft, a modified OH-6A, first flew on the seventeenth of December nineteen eighty-one. The production MD five twenty N followed in nineteen ninety, built by McDonnell Douglas, later MD Helicopters.""",
    "MD 520N helicopter", "THE BOOM BECOMES A WING")
 sc("""The reasons are safety and noise. With no blades spinning at the back, nobody can walk into the tail rotor, and the tail cannot hit a tree or a wire. Tail rotors also make a large part of a helicopter's noise, which is why NOTAR helicopters are among the quietest certified by the Federal Aviation Administration. That is why you often see them with police and news crews flying over cities.""",

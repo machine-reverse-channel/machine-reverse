@@ -4,6 +4,8 @@ import json, sys, time, pathlib, requests
 API = "https://commons.wikimedia.org/w/api.php"
 HEADERS = {"User-Agent": "machine-reverse-channel/1.0 (github.com/viniciushoscher-ctrl/machine-reverse)"}
 _cache = {}
+FAILED = []  # exact arrow photos that could not be used, written next to credits.json for checking
+LAST = {}
 
 
 def api_pages(params):
@@ -31,7 +33,7 @@ def download(url, fatal=True):
         r = requests.get(url, headers=HEADERS, timeout=120)
         if r.status_code == 200:
             return r.content
-        print("download", r.status_code, url)
+        print("download", r.status_code, url); LAST["status"] = r.status_code
         wait = r.headers.get("Retry-After", "")  # upload.wikimedia.org answers 429 to bursts
         time.sleep(int(wait) if wait.isdigit() else 5 * (attempt + 1))
     if fatal:
@@ -98,8 +100,9 @@ def main(video):
                 print(i, k, "exact photo retry", retry); time.sleep(60)
                 m = m or exact(s["file"])
                 data = download(m["url"] if retry % 2 else m["original"], fatal=False) if m else None
-            if m and data is None:  # the chosen photo would not download: fall back to a search rather than fail
-                print(i, k, "exact photo failed, searching instead"); m = None
+            if k == 0 and s.get("file") and data is None:  # the chosen photo would not download: fall back to a search rather than fail
+                print(i, k, "exact photo failed, searching instead")
+                FAILED.append({"scene": i, "file": s["file"], "found": bool(m), "status": LAST.get("status")}); m = None
             if m is None:
                 m = pick(q, used)
             while m is None and len(q.split()) > 2:  # query too narrow: drop the last word and retry
@@ -112,6 +115,7 @@ def main(video):
             credits.append({**m, "scene": i, "cut": k})
             print(i, k, m["title"], m["license"])
     (d / "credits.json").write_text(json.dumps(credits, indent=2))
+    (d / "exact_failed.json").write_text(json.dumps(FAILED, indent=2))
 
 
 if __name__ == "__main__":
