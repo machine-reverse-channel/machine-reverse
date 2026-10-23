@@ -1,0 +1,227 @@
+{
+ "id": "video36",
+ "title": "Why Do Aircraft Carriers Catch Jets With Cables?",
+ "length_scale": 1.6,
+ "scenes": [
+  {
+   "text": "A fighter jet lands at around two hundred and forty kilometres per hour. On a normal airport, it needs a runway more than a kilometre long to stop. On an aircraft carrier, it has about one hundred metres. So the ship catches it, with a steel cable, and stops it in around two seconds. Today, ten parts of an aircraft carrier, and why each one exists.",
+   "query": "aircraft carrier landing",
+   "caption": "CAUGHT BY A CABLE",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "An aircraft carrier is a floating airport, squeezed onto a deck about three hundred metres long, moving, rolling and pitching in the sea. Almost every part of it exists because there is not enough space. Planes must launch without a long runway, land without a long runway, and be parked where there is no room.",
+   "query": "aircraft carrier flight deck",
+   "caption": "NOT ENOUGH SPACE"
+  },
+  {
+   "text": "As always, every fact here comes from a named source, navies and naval references, all listed in the description. Let's start with the cables.",
+   "query": "aircraft carrier at sea",
+   "caption": "WHY DOES THIS EXIST?"
+  },
+  {
+   "text": "Why are there steel cables stretched across the deck of an aircraft carrier? They are arresting wires. A landing jet catches one of them with a hook, and the cable pulls out, slowing the plane down. Below deck, each wire is connected to a large machine that absorbs the energy of the landing.",
+   "query": "aircraft carrier arresting wire",
+   "caption": "WHY ARE THERE CABLES ACROSS THE DECK?",
+   "arrow": true,
+   "chapter": "1. The arresting wires",
+   "short": "Why Do Aircraft Carriers Catch Jets With Cables?",
+   "cuts": 3
+  },
+  {
+   "text": "The machine is the clever part. It controls how hard the cable pulls, depending on the weight and speed of each aircraft. Too soft, and the plane rolls off the end of the deck. Too hard, and the hook or the plane could be torn apart. The settings are changed for every single landing.",
+   "query": "arresting gear",
+   "caption": "SET FOR EVERY LANDING"
+  },
+  {
+   "text": "American carriers have three or four wires. On carriers with four wires, pilots aim for the third, because it gives the safest margin. Every landing is graded, and pilots are ranked by how well they land. Stopping a jet in about two seconds pushes the pilot hard into the straps, and most say it never feels normal.",
+   "query": "F/A-18 arrested landing",
+   "caption": "AIM FOR THE THIRD WIRE"
+  },
+  {
+   "text": "Why do navy jets have a hook under the tail? It is the tailhook, the other half of the arresting system. Before landing, the pilot lowers the hook. It hangs behind the plane and drags along the deck, ready to snag one of the cables. Air force versions of the same jets often have a much smaller hook, or none at all.",
+   "query": "tailhook",
+   "caption": "WHY DOES THIS JET HAVE A HOOK?",
+   "arrow": true,
+   "chapter": "2. The tailhook",
+   "short": "Why Do Navy Jets Have a Hook on the Tail?",
+   "cuts": 3
+  },
+  {
+   "text": "The hook has to take enormous forces in a fraction of a second. So it is built into a strong part of the plane's structure, and navy jets have stronger frames and landing gear overall. That extra strength adds weight, which is one reason carrier aircraft are heavier than their land based versions.",
+   "query": "F-35C tailhook",
+   "caption": "BUILT FOR THE PULL"
+  },
+  {
+   "text": "Navy pilots do not flare and float onto the deck like airline pilots. They fly straight into the deck at a steady angle, in what looks like a controlled crash. The landing gear is built to absorb that impact, and the hook is placed so it is sure to drag across the wires.",
+   "query": "carrier landing",
+   "caption": "A CONTROLLED CRASH"
+  },
+  {
+   "text": "Why do navy pilots push the throttle to full power the moment they touch the deck? In case the hook misses the wires. If the hook bounces over every cable, the plane is running out of deck very fast. With the engines already at full power, it can take off again immediately.",
+   "query": "jet landing on carrier",
+   "caption": "WHY DO PILOTS SPEED UP WHEN THEY LAND?",
+   "arrow": true,
+   "chapter": "3. The full throttle landing",
+   "short": "Why Do Navy Pilots Go Full Throttle When Landing?",
+   "cuts": 3
+  },
+  {
+   "text": "A missed landing like this is called a bolter. The jet roars off the end of the angled deck, climbs, circles, and tries again. If the engines were idle, they would need several seconds to spool up, and the plane would fall into the sea. Full power on landing turns a disaster into a second try.",
+   "query": "carrier bolter",
+   "caption": "A SECOND TRY"
+  },
+  {
+   "text": "If the hook does catch a wire, the cable is strong enough to hold the jet even at full power. Only when the plane has stopped does the pilot pull the throttle back. It is one of the strangest rules in aviation. To land safely, you must be ready to take off.",
+   "query": "F/A-18 Super Hornet carrier",
+   "caption": "READY TO TAKE OFF"
+  },
+  {
+   "text": "Why does the deck of an aircraft carrier have a long slot running to the front? It is the catapult. A heavy jet cannot reach take off speed in less than a hundred metres on its own. The catapult grabs the nose wheel and throws the plane forward, from zero to around two hundred and sixty kilometres per hour in about two seconds.",
+   "query": "aircraft carrier catapult",
+   "caption": "WHY DOES THIS DECK HAVE A SLOT?",
+   "arrow": true,
+   "chapter": "4. The catapult",
+   "short": "Why Do Aircraft Carriers Launch Jets With Catapults?",
+   "cuts": 3
+  },
+  {
+   "text": "For decades, catapults were powered by steam from the ship's boilers or reactors, pushing pistons along a cylinder under the deck. The steam catapult was a British invention of the nineteen fifties. You can still see the clouds of steam rising from the slot after each launch.",
+   "query": "steam catapult",
+   "caption": "POWERED BY STEAM"
+  },
+  {
+   "text": "The newest American carrier, the Gerald R Ford, uses an electromagnetic catapult instead, a linear electric motor that pushes the plane with magnetic force. It can be adjusted more precisely for light and heavy aircraft, and it puts less stress on the planes. The idea is old, but the power behind it keeps changing.",
+   "query": "USS Gerald R. Ford",
+   "caption": "ELECTRIC CATAPULT"
+  },
+  {
+   "text": "Why does a metal wall rise from the deck behind a jet before it launches? It is the jet blast deflector. When the jet goes to full power on the catapult, its engines blast hot gas straight backwards. Without the wall, that blast would hit the planes and people waiting behind it.",
+   "query": "jet blast deflector",
+   "caption": "WHY DOES THIS WALL RISE FROM THE DECK?",
+   "arrow": true,
+   "chapter": "5. The blast deflector",
+   "short": "Why Does a Wall Rise Behind Jets on a Carrier?",
+   "cuts": 3
+  },
+  {
+   "text": "The deflector tilts up from the deck and sends the hot exhaust upwards, away from the crew. Because the blast is so hot, the panels are cooled by sea water running through pipes inside them. Without cooling, they would warp after a few launches.",
+   "query": "jet blast deflector carrier",
+   "caption": "COOLED BY SEA WATER"
+  },
+  {
+   "text": "The deflector lets the carrier launch planes one after another, with the next jet waiting just behind. On a busy flight deck, every metre counts. A simple wall makes it possible to line up aircraft behind each other, instead of spreading them out across the deck.",
+   "query": "carrier flight deck operations",
+   "caption": "EVERY METRE COUNTS"
+  },
+  {
+   "text": "Why is the landing area of an aircraft carrier set at an angle to the ship? On early carriers, planes landed straight down the length of the deck. If a plane missed the wires, it crashed into the planes parked at the front. Barriers were used to stop them, and many aircraft were destroyed.",
+   "query": "aircraft carrier angled deck",
+   "caption": "WHY IS THE LANDING DECK CROOKED?",
+   "arrow": true,
+   "chapter": "6. The angled deck",
+   "short": "Why Is an Aircraft Carrier's Landing Deck Angled?",
+   "cuts": 3
+  },
+  {
+   "text": "In the early nineteen fifties, British officers came up with a simple idea. Angle the landing area to the left, so it points off the side of the ship. A plane that misses the wires simply flies off the end of the angled deck and goes around. The front of the ship stays clear for parking and catapult launches.",
+   "query": "angled flight deck",
+   "caption": "A BRITISH IDEA"
+  },
+  {
+   "text": "The angled deck changed carrier design forever. It allowed landings and launches at the same time, and made bolters safe. Almost every large carrier built since has one. A few degrees of paint on the deck turned the most dangerous part of naval aviation into a routine.",
+   "query": "Nimitz class aircraft carrier",
+   "caption": "A FEW DEGREES OF PAINT"
+  },
+  {
+   "text": "Why do carrier pilots follow a ball of light? On the side of the deck there is a system of lights, called the optical landing system. Pilots call the central light the meatball, or just the ball. Its position, compared with a row of green reference lights, tells the pilot whether the plane is too high, too low or exactly on the glide path.",
+   "query": "Fresnel lens optical landing system",
+   "caption": "WHY DOES THIS LIGHT HELP PILOTS LAND?",
+   "arrow": true,
+   "chapter": "7. The landing lights",
+   "short": "Why Do Carrier Pilots Follow a Ball of Light?",
+   "cuts": 3
+  },
+  {
+   "text": "The system uses special lenses that only show the ball at the right height to a pilot at the right angle. If the plane is too high, the ball appears above the green lights. Too low, and it drops below them, and turns red if it is dangerously low. The pilot keeps the ball in the middle all the way down.",
+   "query": "carrier landing lights",
+   "caption": "KEEP THE BALL CENTRED"
+  },
+  {
+   "text": "The idea started with a British mirror landing aid in the nineteen fifties, using a mirror and a light. Next to it stands a landing signal officer, an experienced pilot who watches every approach and talks to the pilot by radio. Lights and a human eye work together on every landing.",
+   "query": "landing signal officer",
+   "caption": "LIGHTS AND A HUMAN EYE"
+  },
+  {
+   "text": "Why is the control tower of an aircraft carrier almost always on the right side? The tower is called the island, and it holds the bridge, the flight control and radars. Putting it on one edge leaves the rest of the deck free. The choice of the right side is partly about the angled landing deck, which points to the left.",
+   "query": "aircraft carrier island",
+   "caption": "WHY IS THE TOWER ALWAYS ON THE RIGHT?",
+   "arrow": true,
+   "chapter": "8. The island",
+   "short": "Why Is an Aircraft Carrier's Tower Always on the Right?",
+   "cuts": 3
+  },
+  {
+   "text": "There is also a historical reason that is often given. Early propeller planes tended to pull to the left when they went to full power, and pilots usually turned left if they had to abort a landing. An island on the right was out of the way. Once that layout became standard, the rest of the deck was designed around it.",
+   "query": "aircraft carrier tower",
+   "caption": "OUT OF THE WAY"
+  },
+  {
+   "text": "A few carriers have been built with the island on the left, but they were rare and were not repeated. The British Queen Elizabeth class carriers have two islands, one for steering the ship and one for controlling flight operations. Even the tower of a carrier is a careful compromise.",
+   "query": "HMS Queen Elizabeth",
+   "caption": "TWO ISLANDS"
+  },
+  {
+   "text": "Why do the wings of navy aircraft fold up? To save space. A carrier may carry dozens of aircraft, and they all have to fit on the deck and in the hangar below. Folding the wings can reduce a plane's width a lot, so more planes fit in the same space, and they can be moved around more easily.",
+   "query": "folding wings aircraft carrier",
+   "caption": "WHY DO THESE WINGS FOLD UP?",
+   "arrow": true,
+   "chapter": "9. The folding wings",
+   "short": "Why Do Navy Jets Have Folding Wings?",
+   "cuts": 3
+  },
+  {
+   "text": "The fold adds hinges, locks and hydraulic systems, which add weight and complexity. A wing that fails to lock properly before take off is a serious danger, so the system has multiple checks. Navy versions of aircraft like the F thirty-five C have folding wings, while the air force versions do not need them.",
+   "query": "F-35C folded wings",
+   "caption": "HINGES AND LOCKS"
+  },
+  {
+   "text": "The aircraft elevators on the side of the ship lift planes between the hangar and the flight deck, and they are sized for folded aircraft. Helicopters fold their rotor blades for the same reason. On a carrier, every aircraft is designed to shrink when it is not flying.",
+   "query": "aircraft carrier elevator",
+   "caption": "DESIGNED TO SHRINK"
+  },
+  {
+   "text": "Why do the crew on an aircraft carrier deck wear different coloured shirts? So everyone can see instantly who does what. On a deck full of noise, with jet engines screaming, people cannot easily talk. A colour tells a pilot or another sailor someone's job from far away.",
+   "query": "aircraft carrier deck crew",
+   "caption": "WHY DOES THE DECK CREW WEAR COLOURS?",
+   "arrow": true,
+   "chapter": "10. The coloured shirts",
+   "short": "Why Do Aircraft Carrier Crews Wear Different Colors?",
+   "cuts": 3
+  },
+  {
+   "text": "Yellow shirts direct the aircraft, guiding pilots with hand signals. Green shirts run the catapults and arresting gear. Red shirts handle weapons and fire fighting. Purple shirts handle fuel, and they are nicknamed grapes. White shirts are often safety and medical staff. Each colour is a job.",
+   "query": "flight deck crew signals",
+   "caption": "EACH COLOUR IS A JOB"
+  },
+  {
+   "text": "Hand signals replace words. A yellow shirt can guide a jet onto the catapult using only arm movements, at night with lighted wands. It is a language built for the most dangerous deck in the world, where a single mistake can cost lives, and everyone has to understand each other at a glance.",
+   "query": "aircraft carrier night operations",
+   "caption": "A LANGUAGE OF COLOURS"
+  },
+  {
+   "text": "So here are the ten. Cables that stop a jet in two seconds. A hook built to take the pull. Full throttle on landing, in case of a miss. A catapult that throws planes into the air. A wall that deflects the blast. A crooked deck for safe go arounds. A ball of light that guides every landing. A tower on the right. Wings that fold. And colours that speak when no one can hear.",
+   "query": "aircraft carrier",
+   "caption": "10 PARTS. 10 REASONS.",
+   "chapter": "The verdict",
+   "cuts": 6
+  },
+  {
+   "text": "An aircraft carrier is an airport that had to fit on a ship. If you want more machines explained part by part, subscribe to Machine Reverse. And tell us in the comments which part of the carrier surprised you most.",
+   "query": "aircraft carrier sunset",
+   "caption": "SUBSCRIBE: MACHINE REVERSE",
+   "cuts": 4
+  }
+ ]
+}
