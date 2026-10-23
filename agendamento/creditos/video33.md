@@ -1,0 +1,91 @@
+# Photo credits: Why Are Electric Hypercars So Fast?
+
+All photos from Wikimedia Commons.
+
+- Rimac Nevera R Auto Zuerich 2024 DSC 6340.jpg by Alexander-93, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rimac_Nevera_R_Auto_Zuerich_2024_DSC_6340.jpg
+- Rimac Nevera R Auto Zuerich 2024 DSC 6342.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rimac_Nevera_R_Auto_Zuerich_2024_DSC_6342.jpg
+- Rimac Nevera.jpg by MrWalkr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rimac_Nevera.jpg
+- Rimac - Nevera 01.jpg by Miroslav.vajdic, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rimac_-_Nevera_01.jpg
+- Rimac - Nevera 10.jpg by Miroslav.vajdic, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rimac_-_Nevera_10.jpg
+- Rimac - Nevera 03.jpg by Miroslav.vajdic, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rimac_-_Nevera_03.jpg
+- Rimac - Nevera 06.jpg by Miroslav.vajdic, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rimac_-_Nevera_06.jpg
+- Rimac - Nevera 04.jpg by Miroslav.vajdic, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rimac_-_Nevera_04.jpg
+- Hispano Suiza Carmen (33552532248).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Hispano_Suiza_Carmen_(33552532248).jpg
+- Aion Hyper SSR 006.jpg by Zoerides, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Aion_Hyper_SSR_006.jpg
+- Medion MD8910 - Capstan motor-8589.jpg by Raimond Spekking, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Medion_MD8910_-_Capstan_motor-8589.jpg
+- FPT eCD 140, Busworld Europe 2023, Brussels (P1140028).jpg by MB-one, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:FPT_eCD_140,_Busworld_Europe_2023,_Brussels_(P1140028).jpg
+- Vitesco Technologies EMR3.jpg by Caprolactam123, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Vitesco_Technologies_EMR3.jpg
+- 2022.07.19 Fully electric car Tesla Model 3 Dual motor in Tomaszów Mazowiecki, Poland (1).jpg by WrS.tm.pl, CC0, https://commons.wikimedia.org/wiki/File:2022.07.19_Fully_electric_car_Tesla_Model_3_Dual_motor_in_Tomasz%C3%B3w_Mazowiecki,_Poland_(1).jpg
+- Electric motor Toyota bZ4X Expo 2022 CRI 4894.jpg by Mariordo (Mario Roberto Durán Ortiz), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Electric_motor_Toyota_bZ4X_Expo_2022_CRI_4894.jpg
+- Volvo C30 DRIVe Electric (5223995851).jpg by Christian Flores from Carlsbad / Encinitas, United States of America, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Volvo_C30_DRIVe_Electric_(5223995851).jpg
+- Auto Electrico Rosario VER en calle.JPG by Ing. Ricardo Berizzo - Universidad Tecnogica Nacional Rosario, Public domain, https://commons.wikimedia.org/wiki/File:Auto_Electrico_Rosario_VER_en_calle.JPG
+- Detailed view of a cutaway electric motor showing inner components.jpg by Shixart1985, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Detailed_view_of_a_cutaway_electric_motor_showing_inner_components.jpg
+- Detailed view of a cutaway electric motor showing internal parts and design.jpg by Shixart1985, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Detailed_view_of_a_cutaway_electric_motor_showing_internal_parts_and_design.jpg
+- Rimac - Nevera 09.jpg by Miroslav.vajdic, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rimac_-_Nevera_09.jpg
+- Rimac - Nevera 05.jpg by Miroslav.vajdic, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rimac_-_Nevera_05.jpg
+- Rimac Nevera in Bridgehampton, rear left.jpg by Mr.choppers, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Rimac_Nevera_in_Bridgehampton,_rear_left.jpg
+- Rimac Nevera in Bridgehampton, rear right 1.jpg by Mr.choppers, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Rimac_Nevera_in_Bridgehampton,_rear_right_1.jpg
+- Rimac Nevera in Bridgehampton, front right.jpg by Mr.choppers, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Rimac_Nevera_in_Bridgehampton,_front_right.jpg
+- Rimac Nevera, Auto 2024, Zurich (PANA0908).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rimac_Nevera,_Auto_2024,_Zurich_(PANA0908).jpg
+- 2016-03-01 Geneva Motor Show 0975.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 4.0, https://commons.wikimedia.org/wiki/File:2016-03-01_Geneva_Motor_Show_0975.JPG
+- CSIRO ScienceImage 11473 CSIRO engineers refitting a plugin hybrid electric trial car with a larger battery pack and battery charger which can plug into a standard household power point or a special charging point.jpg by division, CSIRO, CC BY 3.0, https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_11473_CSIRO_engineers_refitting_a_plugin_hybrid_electric_trial_car_with_a_larger_battery_pack_and_battery_charger_which_can_plug_into_a_standard_household_power_point_or_a_special_charging_point.jpg
+- BLAAFARVEVÆRKET (Cobalt Works Blue pigment factory koboltmalm 1773-1893) museum Modum NORWAY 2025-08-13 NEDRE FARVEMØLLE Glasshuset Utstilt ELBIL-BATTERI Li-ion-pakke 16 kWh mindre eldre type inneholder kobolt electric car battery.jpg by Wolfmann, CC BY 4.0, https://commons.wikimedia.org/wiki/File:BLAAFARVEV%C3%86RKET_(Cobalt_Works_Blue_pigment_factory_koboltmalm_1773-1893)_museum_Modum_NORWAY_2025-08-13_NEDRE_FARVEM%C3%98LLE_Glasshuset_Utstilt_ELBIL-BATTERI_Li-ion-pakke_16_kWh_mindre_eldre_type_inneholder_kobolt_electric_car_battery.jpg
+- Rimconc1.jpg by Croq, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Rimconc1.jpg
+- Volkswagen ID.3 electric car chassis DSC 0060 (52146930872).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Volkswagen_ID.3_electric_car_chassis_DSC_0060_(52146930872).jpg
+- Volkswagen ID.3 electric car chassis DSC 0070 (52148186729).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Volkswagen_ID.3_electric_car_chassis_DSC_0070_(52148186729).jpg
+- YASA EDU Concept.jpg by Jonfrancis1, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:YASA_EDU_Concept.jpg
+- Milburn Electric 27L (1921) (52342273380).jpg by Charles from Port Chester, New York, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Milburn_Electric_27L_(1921)_(52342273380).jpg
+- Milburn Electric 27L (1921) (52342273335).jpg by Charles from Port Chester, New York, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Milburn_Electric_27L_(1921)_(52342273335).jpg
+- Lucid Air Electric Drive Unit and Battery.jpg by DutchTreat, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lucid_Air_Electric_Drive_Unit_and_Battery.jpg
+- Blaupunkt CR-4500 - drive unit - tape Drive Capstan, brushless DC electric motor-9993.jpg by Raimond Spekking, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Blaupunkt_CR-4500_-_drive_unit_-_tape_Drive_Capstan,_brushless_DC_electric_motor-9993.jpg
+- Porsche Taycan Sport Turismo GTS 1X7A0416.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Porsche_Taycan_Sport_Turismo_GTS_1X7A0416.jpg
+- Porsche Taycan GTS (Safety Car) at the 2025 Adelaide Grand Final Parade - 08.jpg by Yu Chu Chin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Porsche_Taycan_GTS_(Safety_Car)_at_the_2025_Adelaide_Grand_Final_Parade_-_08.jpg
+- Deo 724 SIV 20140824.JPG by Hahifuheho, CC0, https://commons.wikimedia.org/wiki/File:Deo_724_SIV_20140824.JPG
+- Blackpool tram 632 , Promenade.jpg by Phil Sangwell from United Kingdom, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Blackpool_tram_632_,_Promenade.jpg
+- ASRock 775Twins-HDTV - Advanced Power Electronics 9T16GH-7814.jpg by Raimond Spekking, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:ASRock_775Twins-HDTV_-_Advanced_Power_Electronics_9T16GH-7814.jpg
+- H-H Electronics TPA50 Professional Power Amplifier - Power Switch.jpg by PT35, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:H-H_Electronics_TPA50_Professional_Power_Amplifier_-_Power_Switch.jpg
+- Silicon carbide - mesh 60.jpg by W.carter, CC0, https://commons.wikimedia.org/wiki/File:Silicon_carbide_-_mesh_60.jpg
+- Silicon carbide.JPG by JanDerChemiker, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Silicon_carbide.JPG
+- Lithium Energy Japan LEV50 Rechargeable Li-ion battery cell in Tokyo Motor Show 2011.jpg by photo: Qurren (talk) Taken with Canon IXY 10S, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Lithium_Energy_Japan_LEV50_Rechargeable_Li-ion_battery_cell_in_Tokyo_Motor_Show_2011.jpg
+- 18650 and 21700 lithium ion battery cell.jpg by Sevenethics, CC0, https://commons.wikimedia.org/wiki/File:18650_and_21700_lithium_ion_battery_cell.jpg
+- Pentax Optio P70 - Lithium-Ion Battery D-LI88-7555.jpg by Raimond Spekking, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Pentax_Optio_P70_-_Lithium-Ion_Battery_D-LI88-7555.jpg
+- Lucid battery pack 01.jpg by Votpuske, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lucid_battery_pack_01.jpg
+- Lucid battery pack - detail.jpg by Votpuske, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lucid_battery_pack_-_detail.jpg
+- Toledo Technology Academy Electric Car.jpg by Mbrickn, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Toledo_Technology_Academy_Electric_Car.jpg
+- Electric car part of RAC electric highway project.jpg by JarrahTree, CC BY 2.5 au, https://commons.wikimedia.org/wiki/File:Electric_car_part_of_RAC_electric_highway_project.jpg
+- Geneva Motor Show 2011 - Shelby 2011 Rear (5546954585).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Geneva_Motor_Show_2011_-_Shelby_2011_Rear_(5546954585).jpg
+- Geneva Motor Show 2011 - Shelby Mustang GT500 Cobra 2011 (5546959215).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Geneva_Motor_Show_2011_-_Shelby_Mustang_GT500_Cobra_2011_(5546959215).jpg
+- Rimac - Nevera 02.jpg by Miroslav.vajdic, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rimac_-_Nevera_02.jpg
+- Rimac - Nevera 07.jpg by Miroslav.vajdic, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rimac_-_Nevera_07.jpg
+- Slot car race track -- Kalamazoo Valley Museum 031 (6780374110).jpg by Joe Ross from Lansing, Michigan, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Slot_car_race_track_--_Kalamazoo_Valley_Museum_031_(6780374110).jpg
+- Glenville Racetrack, 1903 - DPLA - 935c16d6dfdfbd3676895cd04fe05e38.jpg by unknown, Public domain, https://commons.wikimedia.org/wiki/File:Glenville_Racetrack,_1903_-_DPLA_-_935c16d6dfdfbd3676895cd04fe05e38.jpg
+- Tamagawa Seiki TS3118N8 - disc motor with controller - axial flux motor-8277.jpg by Raimond Spekking, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tamagawa_Seiki_TS3118N8_-_disc_motor_with_controller_-_axial_flux_motor-8277.jpg
+- Tamagawa Seiki TS3118N8 - disc motor with controller - axial flux motor-8278.jpg by Raimond Spekking, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tamagawa_Seiki_TS3118N8_-_disc_motor_with_controller_-_axial_flux_motor-8278.jpg
+- NEC FD3238H - disc motor with controller - axial flux motor-8446.jpg by Raimond Spekking, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:NEC_FD3238H_-_disc_motor_with_controller_-_axial_flux_motor-8446.jpg
+- Ferrari SF90 Spider IMG 9568.jpg by Alexander-93, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ferrari_SF90_Spider_IMG_9568.jpg
+- Ferrari SF90 Spider IMG 8856.jpg by Alexander-93, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ferrari_SF90_Spider_IMG_8856.jpg
+- Aisin, Paris Motor Show 2018, Paris (1Y7A1812).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Aisin,_Paris_Motor_Show_2018,_Paris_(1Y7A1812).jpg
+- Electric Motor at the former Lukens Steel Company mill house.jpg by Nolabob, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Electric_Motor_at_the_former_Lukens_Steel_Company_mill_house.jpg
+- Dodge Viper Wheel Michelin Pilot Sport Cup.jpg by Ryan Gsell, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dodge_Viper_Wheel_Michelin_Pilot_Sport_Cup.jpg
+- 2019 Porsche 911 GT3 RS - 03.jpg by Oleg Yunakov, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2019_Porsche_911_GT3_RS_-_03.jpg
+- 2014 Greater Los Angeles Auto Show XA0A8943 (23020220629).jpg by Shelby Asistio from Los Angeles, United States, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:2014_Greater_Los_Angeles_Auto_Show_XA0A8943_(23020220629).jpg
+- V8 Supercars Tyres 2011 Sydney 500.jpg by Kytabu, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:V8_Supercars_Tyres_2011_Sydney_500.jpg
+- Ford Falcon (BF) of Ryan Simpson.JPG by GTHO, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ford_Falcon_(BF)_of_Ryan_Simpson.JPG
+- SubmergedEgyptianHarbour TyreSour Lebanon RomanDeckert04112019.jpg by RomanDeckert, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:SubmergedEgyptianHarbour_TyreSour_Lebanon_RomanDeckert04112019.jpg
+- Columns at Al Mina site, Tyre, Lebanon.jpg by Vyacheslav Argenberg, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Columns_at_Al_Mina_site,_Tyre,_Lebanon.jpg
+- Rimac - Nevera 08.jpg by Miroslav.vajdic, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rimac_-_Nevera_08.jpg
+- Rimac Nevera Time Attack at Quail 2023.jpg by Prova MO, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rimac_Nevera_Time_Attack_at_Quail_2023.jpg
+- Lotus 88 Carbon Fibre-Kevlar Monocoque Chassis at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lotus_88_Carbon_Fibre-Kevlar_Monocoque_Chassis_at_Formula_1_Exhibition,_London.jpg
+- McLaren MP4-1 Carbon Fibre-Kevlar Monocoque Chassis at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:McLaren_MP4-1_Carbon_Fibre-Kevlar_Monocoque_Chassis_at_Formula_1_Exhibition,_London.jpg
+- Vintage Electra Solid State Radio Phonograph, Broadcast Band Only (MW), Made In Japan, Battery & AC Operation (16035225408).jpg by Joe Haupt from USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Vintage_Electra_Solid_State_Radio_Phonograph,_Broadcast_Band_Only_(MW),_Made_In_Japan,_Battery_%26_AC_Operation_(16035225408).jpg
+- Library of Environmental Images, Office of Research and Development (ORD), September 1996 - Municipal Solid Waste - Batteries representing typical household hazardous waste - DPLA - aa8cbde7c252fcd532e8c343bd02210b.JPG by Environmental Protection Agency. 12/2/1970, Public domain, https://commons.wikimedia.org/wiki/File:Library_of_Environmental_Images,_Office_of_Research_and_Development_(ORD),_September_1996_-_Municipal_Solid_Waste_-_Batteries_representing_typical_household_hazardous_waste_-_DPLA_-_aa8cbde7c252fcd532e8c343bd02210b.JPG
+- Aion Hyper SSR 002.jpg by JustAnotherCarDesigner, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Aion_Hyper_SSR_002.jpg
+- Aion Hyper SSR 004.jpg by JustAnotherCarDesigner, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Aion_Hyper_SSR_004.jpg
+- Aion Hyper SSR 001.jpg by JustAnotherCarDesigner, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Aion_Hyper_SSR_001.jpg
+- Aion Hyper SSR 005.jpg by JustAnotherCarDesigner, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Aion_Hyper_SSR_005.jpg
+- Aion Hyper SSR 003.jpg by JustAnotherCarDesigner, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Aion_Hyper_SSR_003.jpg
+- Aion Hyper SSR IMG01.jpg by Baizerserens, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Aion_Hyper_SSR_IMG01.jpg
+- Rimac Nevera (61051).jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rimac_Nevera_(61051).jpg
+- Rimac Nevera (91671).jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rimac_Nevera_(91671).jpg
+- 2023 Rimac Nevera 1.jpg by Calreyn88, CC0, https://commons.wikimedia.org/wiki/File:2023_Rimac_Nevera_1.jpg
+- Rimac Nevera, IAA Open Space 2023, Munich (P1120126).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rimac_Nevera,_IAA_Open_Space_2023,_Munich_(P1120126).jpg
