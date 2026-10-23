@@ -1,0 +1,11 @@
+- Natural draft cooling towers (hyperboloid shape, thin shells, evaporation, plumes are water vapour): Wikipedia, "Cooling tower" https://en.wikipedia.org/wiki/Cooling_tower ; Wikipedia, "Hyperboloid structure" https://en.wikipedia.org/wiki/Hyperboloid_structure ; US NRC, "Cooling towers" glossary https://www.nrc.gov/
+- Once-through cooling, heat waves and output reductions: Wikipedia, "Nuclear power plant" https://en.wikipedia.org/wiki/Nuclear_power_plant ; EDF / French nuclear operator notices
+- Jellyfish shutdowns (Torness 2011, Oskarshamn 2013): BBC News reports
+- Containment buildings: US NRC, "Containment structure" https://www.nrc.gov/reading-rm/basic-ref/glossary/containment-structure.html
+- Three Mile Island (28 March 1979; stuck-open PORV, misleading indicator, control room and simulator reforms): Kemeny Commission Report (1979) ; US NRC Backgrounder https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html
+- Chernobyl (1986, no Western-style containment): Wikipedia, "Chernobyl disaster" https://en.wikipedia.org/wiki/Chernobyl_disaster
+- Control rods, scram and decay heat: US NRC glossary ; Wikipedia, "Control rod" https://en.wikipedia.org/wiki/Control_rod ; Wikipedia, "Decay heat" https://en.wikipedia.org/wiki/Decay_heat
+- Fuel pellets (one pellet ~ one ton of coal): Nuclear Energy Institute https://www.nei.org/ ; US DOE, "Nuclear Fuel Facts"
+- Cherenkov radiation and spent fuel pools, dry casks: Wikipedia, "Cherenkov radiation" https://en.wikipedia.org/wiki/Cherenkov_radiation ; US NRC, "Spent Fuel Storage" https://www.nrc.gov/waste/spent-fuel-storage.html
+- PWR pressure vessel (~155 bar, ~300 °C), surveillance capsules: Wikipedia, "Pressurized water reactor" https://en.wikipedia.org/wiki/Pressurized_water_reactor
+- Fukushima Daiichi (11 March 2011, flooded diesel generators, three meltdowns): IAEA, "The Fukushima Daiichi Accident" (2015) https://www.iaea.org/
