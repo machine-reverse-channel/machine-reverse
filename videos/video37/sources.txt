@@ -1,0 +1,9 @@
+- Pressure hulls, frames, test depth and crush depth: Wikipedia, "Submarine hull" https://en.wikipedia.org/wiki/Submarine_hull and "Submarine depth ratings" https://en.wikipedia.org/wiki/Submarine_depth_ratings
+- Komsomolets titanium hull and 1984 dive record: Wikipedia, "Soviet submarine K-278 Komsomolets" https://en.wikipedia.org/wiki/Soviet_submarine_K-278_Komsomolets
+- Ballast and trim tanks, neutral buoyancy: Wikipedia, "Ballast tank" https://en.wikipedia.org/wiki/Ballast_tank and "Submarine" https://en.wikipedia.org/wiki/Submarine
+- Anechoic tiles: Wikipedia, "Anechoic tile" https://en.wikipedia.org/wiki/Anechoic_tile
+- Diving planes: Wikipedia, "Diving plane" https://en.wikipedia.org/wiki/Diving_plane
+- Pump-jets: Wikipedia, "Pump-jet" https://en.wikipedia.org/wiki/Pump-jet
+- Photonics masts on the Virginia class: Wikipedia, "Photonics mast" https://en.wikipedia.org/wiki/Photonics_mast
+- Submarine escape and rescue: Wikipedia, "Submarine escape" https://en.wikipedia.org/wiki/Submarine_escape and "Deep-submergence rescue vehicle" https://en.wikipedia.org/wiki/Deep-submergence_rescue_vehicle
+- Bathyscaphe Trieste, Challenger Deep 1960: Wikipedia, "Trieste (bathyscaphe)" https://en.wikipedia.org/wiki/Trieste_(bathyscaphe)
