@@ -1,0 +1,95 @@
+# Photo credits: Why Can an F1 Pit Stop Take Only 2 Seconds?
+
+All photos from Wikimedia Commons.
+
+- Junior at Darlington edit.jpg by Junior_at_Darlington.jpg: United States National Guard
+derivative work: Purpy Pupple (talk), Public domain, https://commons.wikimedia.org/wiki/File:Junior_at_Darlington_edit.jpg
+- Fale F1 Monza 2004 73.jpg by Fabio Alessandro Locati, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Fale_F1_Monza_2004_73.jpg
+- Fale F1 Monza 2004 77.jpg by Fabio Alessandro Locati, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Fale_F1_Monza_2004_77.jpg
+- Pit Stop Practice at Williams (14845909054).jpg by pedrik, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Pit_Stop_Practice_at_Williams_(14845909054).jpg
+- Formula One Wheel Gun.jpg by Rich Jones from United Kingdom, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Formula_One_Wheel_Gun.jpg
+- PitStop.JPG by Motor Show, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:PitStop.JPG
+- Scuderia Ferrari Pit Stop1.JPG by Hatsukari715, Public domain, https://commons.wikimedia.org/wiki/File:Scuderia_Ferrari_Pit_Stop1.JPG
+- Scuderia Ferrari Pit Stop2.JPG by Hatsukari715, Public domain, https://commons.wikimedia.org/wiki/File:Scuderia_Ferrari_Pit_Stop2.JPG
+- McLaren mechanic on 2010 Canadian GP.jpg by Mark McArdle, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:McLaren_mechanic_on_2010_Canadian_GP.jpg
+- Marussia MR02 Jerez 2013 Testing.jpg by Leo Hidalgo (@yompyHERE), CC BY 3.0, https://commons.wikimedia.org/wiki/File:Marussia_MR02_Jerez_2013_Testing.jpg
+- Singapore F1 Grand Prix Pit Lane (4448666252).jpg by Andy Mitchell from Glasgow, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Singapore_F1_Grand_Prix_Pit_Lane_(4448666252).jpg
+- Gulf Racing Pit Stop Shanghai.jpg by emperornie, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Gulf_Racing_Pit_Stop_Shanghai.jpg
+- Equipment Display Cabinet at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Equipment_Display_Cabinet_at_Formula_1_Exhibition,_London.jpg
+- Hawker Hurricane Mk. IIC - DPLA - 89d4a57c7bab92f452f19ca23d906797 (page 1).jpg by Hawker Aircraft Ltd, CC0, https://commons.wikimedia.org/wiki/File:Hawker_Hurricane_Mk._IIC_-_DPLA_-_89d4a57c7bab92f452f19ca23d906797_(page_1).jpg
+- Ensign N180 rear 2010 Pavilion Pit Stop.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Ensign_N180_rear_2010_Pavilion_Pit_Stop.jpg
+- Tyrrell 012 rear 2010 Pavilion Pit Stop.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Tyrrell_012_rear_2010_Pavilion_Pit_Stop.jpg
+- Joest Audi Pit Stop Shanghai.jpg by emperornie, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Joest_Audi_Pit_Stop_Shanghai.jpg
+- Pit-stop. Depo. Depot. Tor Poznań..jpg by Mejdrzer, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Pit-stop._Depo._Depot._Tor_Pozna%C5%84..jpg
+- Williams FW35 front wheel 2013 Malaysia.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Williams_FW35_front_wheel_2013_Malaysia.jpg
+- McLaren MP4-23 Steering Wheel at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:McLaren_MP4-23_Steering_Wheel_at_Formula_1_Exhibition,_London.jpg
+- Caterham steering wheel at Goodwood 2012.jpg by Nic Redhead from Birmingham, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Caterham_steering_wheel_at_Goodwood_2012.jpg
+- Racing car in shopping centre (5594142929).jpg by kevin ryder from southampton, england, CC0, https://commons.wikimedia.org/wiki/File:Racing_car_in_shopping_centre_(5594142929).jpg
+- View of a remote-controlled car racing around the private track at the National Sports Centre - geograph.org.uk - 4491201.jpg by Robert Lamb, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:View_of_a_remote-controlled_car_racing_around_the_private_track_at_the_National_Sports_Centre_-_geograph.org.uk_-_4491201.jpg
+- Ford RS 200 (this is the car involved in The accident at Rally Portugal) (11799405975).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Ford_RS_200_(this_is_the_car_involved_in_The_accident_at_Rally_Portugal)_(11799405975).jpg
+- Citroen 7 CV (170491320).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Citroen_7_CV_(170491320).jpg
+- Alonso Renault Pitstop Chinese GP 2008.jpg by Bert van Dijk, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Alonso_Renault_Pitstop_Chinese_GP_2008.jpg
+- 2000 Mini Mk VII John Cooper S Works.jpg by Cars Down Under, CC BY 2.0, https://commons.wikimedia.org/wiki/File:2000_Mini_Mk_VII_John_Cooper_S_Works.jpg
+- Citroen 7 CV (11649728566).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Citroen_7_CV_(11649728566).jpg
+- Dallara 191 front wing 2010 Pavilion Pit Stop.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Dallara_191_front_wing_2010_Pavilion_Pit_Stop.jpg
+- Benetton B192 front nose and wing 2010 Pavilion Pit Stop.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Benetton_B192_front_nose_and_wing_2010_Pavilion_Pit_Stop.jpg
+- 1 Jochen and Jacky WMgf2.jpg by Gillfoto, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1_Jochen_and_Jacky_WMgf2.jpg
+- Fórmula 4 pit stop.jpg by Caza1393, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:F%C3%B3rmula_4_pit_stop.jpg
+- Tyre warmer 2005 United States GP (19890682).jpg by Ryosuke Yagi, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Tyre_warmer_2005_United_States_GP_(19890682).jpg
+- Pirelli Tyre Sets at Formula 1 Exhibition, London 03.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Pirelli_Tyre_Sets_at_Formula_1_Exhibition,_London_03.jpg
+- Pirelli Tyre Sets at Formula 1 Exhibition, London 02.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Pirelli_Tyre_Sets_at_Formula_1_Exhibition,_London_02.jpg
+- Pirelli Tyre Sets at Formula 1 Exhibition, London 04.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Pirelli_Tyre_Sets_at_Formula_1_Exhibition,_London_04.jpg
+- Pirelli Tyre Sets at Formula 1 Exhibition, London 01.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Pirelli_Tyre_Sets_at_Formula_1_Exhibition,_London_01.jpg
+- Safety Car side 2015 Malaysia.jpg by Morio, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Safety_Car_side_2015_Malaysia.jpg
+- The rearview of Mercedes-AMG GT R Formula One Safety Car model cars.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:The_rearview_of_Mercedes-AMG_GT_R_Formula_One_Safety_Car_model_cars.jpg
+- Pirelli P Zero Formula 1 Medium Slick Tyre 2026.jpg by TaurusEmerald, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Pirelli_P_Zero_Formula_1_Medium_Slick_Tyre_2026.jpg
+- Pirelli tyres (43423604981).jpg by Phil Guest from Bournemouth, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Pirelli_tyres_(43423604981).jpg
+- Pirelli Tire Range (52849596009).jpg by Steve, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Pirelli_Tire_Range_(52849596009).jpg
+- March 2-4-0 at Silverstone Classic 2011 (2).jpg by David Merrett from Daventry, England, CC BY 2.0, https://commons.wikimedia.org/wiki/File:March_2-4-0_at_Silverstone_Classic_2011_(2).jpg
+- Oliver Jarvis A1 Grand Prix 2007.jpg by Rob Oo from NL, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Oliver_Jarvis_A1_Grand_Prix_2007.jpg
+- Audi Sport Team Joest pit stop practice 2012 WEC Fuji.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Audi_Sport_Team_Joest_pit_stop_practice_2012_WEC_Fuji.jpg
+- Pit Stop Competition (5840500838).jpg by momentcaptured1 from NYC, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Pit_Stop_Competition_(5840500838).jpg
+- Toyota steering wheel 1.jpg by Mark Woodbury, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Toyota_steering_wheel_1.jpg
+- Pit Stop Competition (5827564022).jpg by momentcaptured1 from NYC, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Pit_Stop_Competition_(5827564022).jpg
+- Martin truex jr. pit stop (50211689738).jpg by Zach Catanzareti Photo, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Martin_truex_jr._pit_stop_(50211689738).jpg
+- Lotus duo in pit exit.jpg by ericok, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Lotus_duo_in_pit_exit.jpg
+- Pit Stop Competition - 2011 (5827564054).jpg by momentcaptured1 from NYC, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Pit_Stop_Competition_-_2011_(5827564054).jpg
+- Schumacher wall cheste 2006-02.jpg by Rafa Castillo (rafolas), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Schumacher_wall_cheste_2006-02.jpg
+- Pit Stop Competition - 2011 (5837422906).jpg by momentcaptured1 from NYC, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Pit_Stop_Competition_-_2011_(5837422906).jpg
+- Kimi Raikkonen 2017 United States GP (37946719176).jpg by Curt Smith from Bellevue, WA, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Kimi_Raikkonen_2017_United_States_GP_(37946719176).jpg
+- Pit Stop Competition (5827564076).jpg by momentcaptured1 from NYC, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Pit_Stop_Competition_(5827564076).jpg
+- Greg Biffle pit stop (2932906049).jpg by tequilamike, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Greg_Biffle_pit_stop_(2932906049).jpg
+- Felipe Massa 2008 British Grand Prix.jpg by ligreq, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Felipe_Massa_2008_British_Grand_Prix.jpg
+- Felipe Massa out 2008 Hungarian GP.jpg by Michalgarbowski, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Felipe_Massa_out_2008_Hungarian_GP.jpg
+- 2011 Brazil GP - Lotus pitstop.jpg by Dell Inc., CC BY 2.0, https://commons.wikimedia.org/wiki/File:2011_Brazil_GP_-_Lotus_pitstop.jpg
+- Monaco 2008 Renault R28 offloading 4.JPG by Petri Krohn, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Monaco_2008_Renault_R28_offloading_4.JPG
+- Fale F1 Monza 2004 78.jpg by Fabio Alessandro Locati, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Fale_F1_Monza_2004_78.jpg
+- Nick Heidfeld 2005 San Marino.jpg by Alexandre López from Murcia, España, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Nick_Heidfeld_2005_San_Marino.jpg
+- La grande sfera di Toni Benetton, Treviso.jpeg by BluesBrother, CC0, https://commons.wikimedia.org/wiki/File:La_grande_sfera_di_Toni_Benetton,_Treviso.jpeg
+- Toni Benetton - Le anime (Memorie di una cattedrale) 05.jpg by Holapaco77, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Toni_Benetton_-_Le_anime_(Memorie_di_una_cattedrale)_05.jpg
+- Formula one.jpg by Rick Dikeman, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Formula_one.jpg
+- 2010 Canadian GP race start.jpg by Mark McArdle, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:2010_Canadian_GP_race_start.jpg
+- Massa Ferrari Pitstop Chinese GP 2008.jpg by Bert van Dijk, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Massa_Ferrari_Pitstop_Chinese_GP_2008.jpg
+- 25 Cassutt (N-6291N) Formula One Racer 2014 Reno Air Races photo Don Ramey Logan.jpg by Don Ramey Logan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:25_Cassutt_(N-6291N)_Formula_One_Racer_2014_Reno_Air_Races_photo_Don_Ramey_Logan.jpg
+- 2015 Malaysian GP opening lap.jpg by Morio, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2015_Malaysian_GP_opening_lap.jpg
+- Partial-Inertial-Systems 20151118.jpg by Claus cm Mueller, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Partial-Inertial-Systems_20151118.jpg
+- Jacques Villeneuve 2005 San Marino.jpg by Alexandre López Conesa, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Jacques_Villeneuve_2005_San_Marino.jpg
+- 2012 Italian GP - McLaren pit.jpg by Francesco Crippa, CC BY 2.0, https://commons.wikimedia.org/wiki/File:2012_Italian_GP_-_McLaren_pit.jpg
+- Vodafone McLaren Mercedes Formula 1 Car (7322757828).jpg by William Murphy from Dublin, Ireland, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Vodafone_McLaren_Mercedes_Formula_1_Car_(7322757828).jpg
+- Istanbul park kubica pit wall.JPG by Homonihilis, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Istanbul_park_kubica_pit_wall.JPG
+- 2013 FIA Formula One Constructors Championship Trophy, Geneva 2014 (Ank Kumar) 04.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2013_FIA_Formula_One_Constructors_Championship_Trophy,_Geneva_2014_(Ank_Kumar)_04.jpg
+- 2013 FIA Formula One Constructors Championship Trophy, Geneva 2014 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2013_FIA_Formula_One_Constructors_Championship_Trophy,_Geneva_2014_(Ank_Kumar)_03.jpg
+- Renault after losing the title sponsor ING 2009 Japan.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Renault_after_losing_the_title_sponsor_ING_2009_Japan.jpg
+- Fernando Alonso (ESP) Ferrari F150.Formula One Testing, Day 1, Valencia, Spain, Tuesday 1 February 2011.jpg by Raulongo, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Fernando_Alonso_(ESP)_Ferrari_F150.Formula_One_Testing,_Day_1,_Valencia,_Spain,_Tuesday_1_February_2011.jpg
+- Sebastian Vettel (GER) Red Bull Racing RB7.Formula One Testing, Day 1, Valencia, Spain, Tuesday 1 February 2011.jpg by Raulongo, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sebastian_Vettel_(GER)_Red_Bull_Racing_RB7.Formula_One_Testing,_Day_1,_Valencia,_Spain,_Tuesday_1_February_2011.jpg
+- Noida Formula One 2013 (Ank kumar) 03.jpg by Ank kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Noida_Formula_One_2013_(Ank_kumar)_03.jpg
+- MNA 43 - Formula One.jpg by Herranderssvensson, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:MNA_43_-_Formula_One.jpg
+- Noida Formula One 2013 (Ank kumar) 11.jpg by Ank kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Noida_Formula_One_2013_(Ank_kumar)_11.jpg
+- Noida Formula One 2013 (Ank kumar) 07.jpg by Ank kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Noida_Formula_One_2013_(Ank_kumar)_07.jpg
+- Noida Formula One 2013 (Ank kumar) 05.jpg by Ank kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Noida_Formula_One_2013_(Ank_kumar)_05.jpg
+- Noida Formula One 2013 (Ank kumar) 01.jpg by Ank kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Noida_Formula_One_2013_(Ank_kumar)_01.jpg
+- Noida Formula One 2013 (Ank kumar) 08.jpg by Ank kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Noida_Formula_One_2013_(Ank_kumar)_08.jpg
+- Monaco 2008 Renault R28 offloading 7.JPG by Petri Krohn, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Monaco_2008_Renault_R28_offloading_7.JPG
+- Monaco 2008 Renault R28 offloading 8.JPG by Petri Krohn, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Monaco_2008_Renault_R28_offloading_8.JPG
+- Monaco 2008 Renault R28 offloading 6.JPG by Petri Krohn, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Monaco_2008_Renault_R28_offloading_6.JPG
+- Monaco 2008 Renault R28 offloading 5.JPG by Petri Krohn, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Monaco_2008_Renault_R28_offloading_5.JPG

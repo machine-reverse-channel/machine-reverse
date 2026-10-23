@@ -1,0 +1,99 @@
+# Photo credits: Why Does Your Road Car Have Race Car Parts?
+
+All photos from Wikimedia Commons.
+
+- Rear view mirror Snæfellsjökull (Unsplash).jpg by Kalle K kallek, CC0, https://commons.wikimedia.org/wiki/File:Rear_view_mirror_Sn%C3%A6fellsj%C3%B6kull_(Unsplash).jpg
+- Car mirror overview (21720783242).jpg by StockyPics, CC0, https://commons.wikimedia.org/wiki/File:Car_mirror_overview_(21720783242).jpg
+- Rear-view mirror.jpg by No machine-readable author provided. Dcoetzee assumed (based on copyright claims)., Public domain, https://commons.wikimedia.org/wiki/File:Rear-view_mirror.jpg
+- Lexus ISF - Reflection in the Mirror; with man in car looking dramatic (5459747493).jpg by atzerok, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Lexus_ISF_-_Reflection_in_the_Mirror;_with_man_in_car_looking_dramatic_(5459747493).jpg
+- Assignment- Cars, Rear view mirror (16193953188).jpg by Bob Adams from Amanzimtoti, South Africa, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Assignment-_Cars,_Rear_view_mirror_(16193953188).jpg
+- Car's mirror.jpg by Lucas Pescador Barcelos, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Car%27s_mirror.jpg
+- Green rear-view mirror (Unsplash).jpg by Dan Gold danielcgold, CC0, https://commons.wikimedia.org/wiki/File:Green_rear-view_mirror_(Unsplash).jpg
+- Sunset, car, mirror.jpg by Xcuboftea, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Sunset,_car,_mirror.jpg
+- Chitty Chitty Bang Bang in Brisbane Mall-1.jpg by John, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Chitty_Chitty_Bang_Bang_in_Brisbane_Mall-1.jpg
+- Chitty Chitty Bang Bang car.jpg by Paul Slade, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Chitty_Chitty_Bang_Bang_car.jpg
+- ZAZ-1103 Slavuta front seats and dashboard interior view.jpg by Natalka Ukraine, CC BY 4.0, https://commons.wikimedia.org/wiki/File:ZAZ-1103_Slavuta_front_seats_and_dashboard_interior_view.jpg
+- Classic car interior with old dashboard and worn upholstery in a neglected state.jpg by Shixart1985, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Classic_car_interior_with_old_dashboard_and_worn_upholstery_in_a_neglected_state.jpg
+- Indianapolis Motor Speedway Museum May 2026 29 (Ray Harroun's 1911 Marmon Wasp).jpg by Michael Barera, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Indianapolis_Motor_Speedway_Museum_May_2026_29_(Ray_Harroun%27s_1911_Marmon_Wasp).jpg
+- Indianapolis Motor Speedway Museum May 2026 30 (Ray Harroun's 1911 Marmon Wasp).jpg by Michael Barera, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Indianapolis_Motor_Speedway_Museum_May_2026_30_(Ray_Harroun%27s_1911_Marmon_Wasp).jpg
+- Marmon Wasp 1911 Indy 500 Winner - Ray Harroun.jpg by OctaviaCombi, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Marmon_Wasp_1911_Indy_500_Winner_-_Ray_Harroun.jpg
+- Burman, Disbrow, Tower, Grinnon at Indianapolis 1911.jpg by Bain News Service, publisherUploaded to en.wikipedia by Richard Arthur Norton (1958- ), Public domain, https://commons.wikimedia.org/wiki/File:Burman,_Disbrow,_Tower,_Grinnon_at_Indianapolis_1911.jpg
+- La course d'Indianapolis 1911.jpg by Agence de presse Meurisse, Public domain, https://commons.wikimedia.org/wiki/File:La_course_d%27Indianapolis_1911.jpg
+- Car side mirror sunset.jpg by J RAWLS, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Car_side_mirror_sunset.jpg
+- Broken car side mirror hanging on the door of a blue vehicle at a parking area.jpg by Shixart1985, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Broken_car_side_mirror_hanging_on_the_door_of_a_blue_vehicle_at_a_parking_area.jpg
+- Disc brakes.jpg by Envy fstop, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Disc_brakes.jpg
+- Disc brake car.jpg by Irvin calicut at Malayalam Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Disc_brake_car.jpg
+- Rusty brake disc seen on a car located in a garage during the afternoon hours on a well-worn gravel surface.jpg by Shixart1985, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rusty_brake_disc_seen_on_a_car_located_in_a_garage_during_the_afternoon_hours_on_a_well-worn_gravel_surface.jpg
+- Jaguar C-Type 1953.jpg by DeFacto, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Jaguar_C-Type_1953.jpg
+- Jaguar C-Type (1953) Solitude Revival 2022 1X7A0129.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Jaguar_C-Type_(1953)_Solitude_Revival_2022_1X7A0129.jpg
+- Alarm bells! (25681917701).jpg by Riley from Christchurch, New Zealand, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Alarm_bells!_(25681917701).jpg
+- Butch Leitzinger 52 PC Sebring.JPG by Nave.notnilc, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Butch_Leitzinger_52_PC_Sebring.JPG
+- Mercedes 300 SL Engine EMS.jpg by unknown, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Mercedes_300_SL_Engine_EMS.jpg
+- Changing a fuel injector while performing maintenance on a car engine.jpg by Shixart1985, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Changing_a_fuel_injector_while_performing_maintenance_on_a_car_engine.jpg
+- F-1 fuel injector.JPG by James E. Scarborough, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:F-1_fuel_injector.JPG
+- Mercedes-Benz W198 300 SL Gullwing Genf 2019 1Y7A5009.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W198_300_SL_Gullwing_Genf_2019_1Y7A5009.jpg
+- Mercedes-Benz W198 300 SL Gullwing Genf 2019 1Y7A4987.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W198_300_SL_Gullwing_Genf_2019_1Y7A4987.jpg
+- 1981 AMC Eagle Sport station wagon in blue metallic at 2021 PA meet 14of14.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0, https://commons.wikimedia.org/wiki/File:1981_AMC_Eagle_Sport_station_wagon_in_blue_metallic_at_2021_PA_meet_14of14.jpg
+- 1981 AMC Eagle Sport station wagon in blue metallic at 2024 AMO show 12of13.jpg by CZmarlin — Christopher Ziemnowicz, a photo credit would be appreciated if this image is used anywhere other than Wikipedia., CC0, https://commons.wikimedia.org/wiki/File:1981_AMC_Eagle_Sport_station_wagon_in_blue_metallic_at_2024_AMO_show_12of13.jpg
+- Alfa Romeo 1300 Twin Cam engine.jpg by Mr.choppers, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Alfa_Romeo_1300_Twin_Cam_engine.jpg
+- MB OM 605 D 25.jpg by Matti Blume (MB-one), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:MB_OM_605_D_25.jpg
+- WM Holden Cooper Bristol CB-1-52 at the 2025 Adelaide Grand Final - 03.jpg by Yu Chu Chin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:WM_Holden_Cooper_Bristol_CB-1-52_at_the_2025_Adelaide_Grand_Final_-_03.jpg
+- Peugeot at the 1912 French Grand Prix at Dieppe.jpg by Agence de presse Meurisse, Public domain, https://commons.wikimedia.org/wiki/File:Peugeot_at_the_1912_French_Grand_Prix_at_Dieppe.jpg
+- David Bruce-Brown in his Peugeot at the 1912 French Grand Prix at Dieppe (10).jpg by Agence Rol, Public domain, https://commons.wikimedia.org/wiki/File:David_Bruce-Brown_in_his_Peugeot_at_the_1912_French_Grand_Prix_at_Dieppe_(10).jpg
+- Toyota 16 valve EfI.JPG by Biny86755, Public domain, https://commons.wikimedia.org/wiki/File:Toyota_16_valve_EfI.JPG
+- QSMM Engine 3247.JPG by Clem Rutter, Rochester, Kent., CC BY 3.0, https://commons.wikimedia.org/wiki/File:QSMM_Engine_3247.JPG
+- VW DSG transmission DTMB.jpg by Matti Blume, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:VW_DSG_transmission_DTMB.jpg
+- Hyundai 7 speed dual clutch transmission. Spielvogel.jpg by Spielvogel
+
+For a gallery of some more of my uploaded pictures see: here.
+All images can be used free of charge., CC0, https://commons.wikimedia.org/wiki/File:Hyundai_7_speed_dual_clutch_transmission._Spielvogel.jpg
+- Honda VFR 1200F Dual Clutch Transmission at the TMS 2009.JPG by PekePON, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Honda_VFR_1200F_Dual_Clutch_Transmission_at_the_TMS_2009.JPG
+- Porsche 962 1X7A0035.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Porsche_962_1X7A0035.jpg
+- Porsche 962C (2007-06-15 37).jpg by Lothar Spurzem, CC BY-SA 2.0 de, https://commons.wikimedia.org/wiki/File:Porsche_962C_(2007-06-15_37).jpg
+- Volkswagen Golf IV R32 Classic-Days 2022 DSC 0035.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Volkswagen_Golf_IV_R32_Classic-Days_2022_DSC_0035.jpg
+- Volkswagen Golf IV R32 Classic-Days 2022 IMG 7040.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Volkswagen_Golf_IV_R32_Classic-Days_2022_IMG_7040.jpg
+- Ferrari 640 front-left Museo Ferrari.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Ferrari_640_front-left_Museo_Ferrari.jpg
+- 1989 Ferrari 640 Gerhard Berger.jpg by Calreyn88, CC BY 4.0, https://commons.wikimedia.org/wiki/File:1989_Ferrari_640_Gerhard_Berger.jpg
+- 1989 Ferrari 640.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1989_Ferrari_640.jpg
+- 2007-06-17 Ferrari F355 GTS (kl).jpg by Lothar Spurzem, CC BY-SA 2.0 de, https://commons.wikimedia.org/wiki/File:2007-06-17_Ferrari_F355_GTS_(kl).jpg
+- Ferrari F355 Berlinetta 1X7A7333.jpg by Alexander-93, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ferrari_F355_Berlinetta_1X7A7333.jpg
+- Toyota 86 GT - Paddle shifter.jpg by Cllackr, CC0, https://commons.wikimedia.org/wiki/File:Toyota_86_GT_-_Paddle_shifter.jpg
+- A.d.Tramontana Interior New.jpg by a.d.Tramontana, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:A.d.Tramontana_Interior_New.jpg
+- McLaren MP4-1 Carbon Fibre-Kevlar Monocoque Chassis at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:McLaren_MP4-1_Carbon_Fibre-Kevlar_Monocoque_Chassis_at_Formula_1_Exhibition,_London.jpg
+- McLaren MP4-12C, Kingsville, Ontario, 2025-06-29.jpg by Crisco 1492, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:McLaren_MP4-12C,_Kingsville,_Ontario,_2025-06-29.jpg
+- McLaren MP4-12C and Corvette Stingray, Kingsville, Ontario, 2025-06-29.jpg by Crisco 1492, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:McLaren_MP4-12C_and_Corvette_Stingray,_Kingsville,_Ontario,_2025-06-29.jpg
+- McLaren MP4-3.jpg by John Chapman (Pyrope), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:McLaren_MP4-3.jpg
+- McLaren MP4-4 diffuser Honda Collection Hall.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:McLaren_MP4-4_diffuser_Honda_Collection_Hall.jpg
+- 1996 McLaren F1 Chassis No 63 6.1 Front.jpg by Chelsea Jay, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1996_McLaren_F1_Chassis_No_63_6.1_Front.jpg
+- A Silver McLaren F1.jpg by MrWalkr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:A_Silver_McLaren_F1.jpg
+- 1973 Porsche 911 Carrera RS 2.7 CHP.jpg by MrWalkr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1973_Porsche_911_Carrera_RS_2.7_CHP.jpg
+- Porsche 911 Carrera RS, Bj. 1972-73 (2016-07-02 01 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de, https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_RS,_Bj._1972-73_(2016-07-02_01_Sp).JPG
+- Porsche 911 Carrera RS 2.7 (1972) Solitude Revival 2022 1X7A0355.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Porsche_911_Carrera_RS_2.7_(1972)_Solitude_Revival_2022_1X7A0355.jpg
+- 2017 Porsche 911 GT3 Ducktail HCC23.jpg by MrWalkr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2017_Porsche_911_GT3_Ducktail_HCC23.jpg
+- 2017 Porsche 911 991 GT3 ducktail.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2017_Porsche_911_991_GT3_ducktail.jpg
+- " 13 - Italian sport car - Alfa Romeo 4C rear spoiler carbon fiber.jpg by Clément Bucco-Lechat, CC BY-SA 3.0 it, https://commons.wikimedia.org/wiki/File:%22_13_-_Italian_sport_car_-_Alfa_Romeo_4C_rear_spoiler_carbon_fiber.jpg
+- " 13 - Italian sport car - Alfa Romeo 4C rear spoiler.jpg by Clément Bucco-Lechat, CC BY-SA 3.0 it, https://commons.wikimedia.org/wiki/File:%22_13_-_Italian_sport_car_-_Alfa_Romeo_4C_rear_spoiler.jpg
+- 1992 Williams FW14B (49379465223).jpg by David Merrett from Daventry, England, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1992_Williams_FW14B_(49379465223).jpg
+- 1987 Lotus 99T 2.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1987_Lotus_99T_2.jpg
+- 1987 Lotus 99T 1.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1987_Lotus_99T_1.jpg
+- Williams FW14B Sidepod 01 at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Williams_FW14B_Sidepod_01_at_Formula_1_Exhibition,_London.jpg
+- Williams FW14B Sidepod 02 at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Williams_FW14B_Sidepod_02_at_Formula_1_Exhibition,_London.jpg
+- 1938 Hispano-Suiza H6B Dubonnet Xenia Goodwood, 2009 (02).jpg by Bahnfrend, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1938_Hispano-Suiza_H6B_Dubonnet_Xenia_Goodwood,_2009_(02).jpg
+- 1938 Hispano-Suiza H6B Dubonnet Xenia 1.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1938_Hispano-Suiza_H6B_Dubonnet_Xenia_1.jpg
+- FIA WEC Porsche 919 hybrid and 911 RSR , GIMS 2014 (Ank Kumar) 02.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:FIA_WEC_Porsche_919_hybrid_and_911_RSR_,_GIMS_2014_(Ank_Kumar)_02.jpg
+- New Body Plans (3529299478).jpg by Steve Jurvetson from Los Altos, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:New_Body_Plans_(3529299478).jpg
+- Solon-Hybrid car.jpg by Jan Ainali, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Solon-Hybrid_car.jpg
+- FIA WEC Porsche 919 hybrid and 911 RSR , GIMS 2014 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:FIA_WEC_Porsche_919_hybrid_and_911_RSR_,_GIMS_2014_(Ank_Kumar)_01.jpg
+- Porsche 919 hybrid + evo after retirement.jpg by Cutkiller2018, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Porsche_919_hybrid_%2B_evo_after_retirement.jpg
+- Porsche 918 Spyder IAA 2013.jpg by Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:Porsche_918_Spyder_IAA_2013.jpg
+- Porsche 918 Spyder concept 1X7A6623.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Porsche_918_Spyder_concept_1X7A6623.jpg
+- Wolseley racing cars Classic-Days 2022 IMG 7029.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wolseley_racing_cars_Classic-Days_2022_IMG_7029.jpg
+- Wolseley racing cars Classic-Days 2022 DSC 0232.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wolseley_racing_cars_Classic-Days_2022_DSC_0232.jpg
+- MG racing cars Classic-Days 2022 IMG 6967.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:MG_racing_cars_Classic-Days_2022_IMG_6967.jpg
+- BMW Le Grand Mk2 (1964) Classic-Days 2022 DSC 0224.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:BMW_Le_Grand_Mk2_(1964)_Classic-Days_2022_DSC_0224.jpg
+- Monopoletta (1950) Classic-Days 2022 IMG 6995.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Monopoletta_(1950)_Classic-Days_2022_IMG_6995.jpg
+- Marcos Fastback GT (1963) Classic-Days 2022 DSC 0237.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Marcos_Fastback_GT_(1963)_Classic-Days_2022_DSC_0237.jpg
+- Sunset on the Highway.jpg by Joma433, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sunset_on_the_Highway.jpg
+- Horizons Embrace - Sunset on the Highway.jpg by Joma433, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Horizons_Embrace_-_Sunset_on_the_Highway.jpg
+- Horizons Embrace the Sunset on the Highway.jpg by Joma433, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Horizons_Embrace_the_Sunset_on_the_Highway.jpg
+- Sunset on the road (16508532928).jpg by Ludovic Lubeigt from Taiwan, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Sunset_on_the_road_(16508532928).jpg
