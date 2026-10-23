@@ -1,0 +1,1599 @@
+1
+00:00:00,000 --> 00:00:02,426
+The nose of a Japanese bullet train
+
+2
+00:00:02,426 --> 00:00:04,714
+can be longer than a whole subway
+
+3
+00:00:04,714 --> 00:00:04,992
+car.
+
+4
+00:00:05,172 --> 00:00:06,411
+On some trains,
+
+5
+00:00:06,411 --> 00:00:08,643
+a big part of the first car
+
+6
+00:00:08,643 --> 00:00:09,717
+is just nose,
+
+7
+00:00:09,717 --> 00:00:11,453
+with no seats inside.
+
+8
+00:00:11,633 --> 00:00:13,748
+That looks like a waste of space
+
+9
+00:00:13,748 --> 00:00:15,996
+on the most crowded railway in the
+
+10
+00:00:15,996 --> 00:00:16,393
+world.
+
+11
+00:00:16,573 --> 00:00:18,054
+But without that nose,
+
+12
+00:00:18,054 --> 00:00:20,612
+every time the train entered a tunnel,
+
+13
+00:00:20,612 --> 00:00:23,170
+people living near the exit would hear
+
+14
+00:00:23,170 --> 00:00:24,584
+a bang like a cannon.
+
+15
+00:00:24,764 --> 00:00:27,975
+Today, ten parts of the bullet train,
+
+16
+00:00:27,975 --> 00:00:30,058
+and why each one exists.
+
+17
+00:00:30,407 --> 00:00:33,923
+Japan opened the first Shinkansen line,
+
+18
+00:00:33,923 --> 00:00:36,087
+between Tokyo and Osaka,
+
+19
+00:00:36,087 --> 00:00:37,620
+on October first,
+
+20
+00:00:37,620 --> 00:00:42,308
+nineteen sixty-four, just before the Tokyo Olympics.
+
+21
+00:00:42,488 --> 00:00:45,010
+It was the first high speed railway
+
+22
+00:00:45,010 --> 00:00:45,947
+in the world.
+
+23
+00:00:46,127 --> 00:00:49,756
+Since then, the Shinkansen has carried billions
+
+24
+00:00:49,756 --> 00:00:52,457
+of passengers, and it is famous for
+
+25
+00:00:52,457 --> 00:00:53,384
+two numbers.
+
+26
+00:00:53,564 --> 00:00:56,463
+An average delay of under a minute
+
+27
+00:00:56,463 --> 00:00:59,788
+per train, and no passenger deaths from
+
+28
+00:00:59,788 --> 00:01:03,711
+derailments or collisions in normal operation.
+
+29
+00:01:04,060 --> 00:01:06,888
+As always, every fact comes from a
+
+30
+00:01:06,888 --> 00:01:10,297
+named source, Japanese railway companies,
+
+31
+00:01:10,297 --> 00:01:13,872
+engineering papers, and railway references,
+
+32
+00:01:13,872 --> 00:01:16,367
+all listed in the description.
+
+33
+00:01:16,547 --> 00:01:19,241
+Let's start with the most famous part,
+
+34
+00:01:19,241 --> 00:01:19,879
+the nose.
+
+35
+00:01:20,229 --> 00:01:23,074
+Why do bullet trains have such long
+
+36
+00:01:23,074 --> 00:01:23,562
+noses?
+
+37
+00:01:23,742 --> 00:01:26,214
+The main reason is not speed.
+
+38
+00:01:26,394 --> 00:01:27,579
+It is tunnels.
+
+39
+00:01:27,759 --> 00:01:30,163
+When a fast train enters a tunnel,
+
+40
+00:01:30,163 --> 00:01:32,214
+it pushes the air ahead of it
+
+41
+00:01:32,214 --> 00:01:33,204
+like a piston.
+
+42
+00:01:33,384 --> 00:01:35,986
+That creates a pressure wave that races
+
+43
+00:01:35,986 --> 00:01:38,254
+through the tunnel at the speed of
+
+44
+00:01:38,254 --> 00:01:38,655
+sound.
+
+45
+00:01:38,835 --> 00:01:40,955
+When it reaches the other end,
+
+46
+00:01:40,955 --> 00:01:42,793
+part of it bursts out as a
+
+47
+00:01:42,793 --> 00:01:45,055
+loud boom, called a tunnel boom,
+
+48
+00:01:45,055 --> 00:01:47,812
+which can rattle windows of houses near
+
+49
+00:01:47,812 --> 00:01:48,448
+the exit.
+
+50
+00:01:48,797 --> 00:01:52,057
+A long, slowly tapering nose pushes the
+
+51
+00:01:52,057 --> 00:01:53,394
+air more gently,
+
+52
+00:01:53,394 --> 00:01:56,486
+so the pressure rises more slowly and
+
+53
+00:01:56,486 --> 00:01:58,910
+the boom becomes much weaker.
+
+54
+00:01:59,090 --> 00:02:01,501
+That is why the noses got longer
+
+55
+00:02:01,501 --> 00:02:03,385
+as the trains got faster.
+
+56
+00:02:03,565 --> 00:02:05,553
+The newest test train,
+
+57
+00:02:05,553 --> 00:02:09,076
+the ALFA-X, has a nose about twenty-two
+
+58
+00:02:09,076 --> 00:02:11,154
+meters long on one end,
+
+59
+00:02:11,154 --> 00:02:14,226
+almost as long as an entire normal
+
+60
+00:02:14,226 --> 00:02:15,129
+train car.
+
+61
+00:02:15,478 --> 00:02:18,035
+The most famous nose was inspired by
+
+62
+00:02:18,035 --> 00:02:18,532
+a bird.
+
+63
+00:02:18,712 --> 00:02:21,009
+In the nineteen nineties,
+
+64
+00:02:21,009 --> 00:02:24,317
+Eiji Nakatsu, an engineer at JR West
+
+65
+00:02:24,317 --> 00:02:26,063
+and a bird watcher,
+
+66
+00:02:26,063 --> 00:02:29,922
+noticed that the kingfisher dives from air
+
+67
+00:02:29,922 --> 00:02:32,954
+into water with almost no splash,
+
+68
+00:02:32,954 --> 00:02:34,700
+thanks to its long,
+
+69
+00:02:34,700 --> 00:02:35,895
+pointed beak.
+
+70
+00:02:36,075 --> 00:02:38,422
+The nose of the five hundred series
+
+71
+00:02:38,422 --> 00:02:39,697
+was shaped like it.
+
+72
+00:02:39,877 --> 00:02:42,694
+Reports say the new train was quieter,
+
+73
+00:02:42,694 --> 00:02:45,957
+used about fifteen percent less electricity,
+
+74
+00:02:45,957 --> 00:02:48,329
+and ran faster than the old one.
+
+75
+00:02:48,678 --> 00:02:51,936
+Why do many Shinkansen tunnel entrances have
+
+76
+00:02:51,936 --> 00:02:54,378
+a strange box sticking out of the
+
+77
+00:02:54,378 --> 00:02:57,340
+mountain, often with holes in its sides?
+
+78
+00:02:57,520 --> 00:02:59,332
+It is a tunnel hood,
+
+79
+00:02:59,332 --> 00:03:01,235
+also called a buffer.
+
+80
+00:03:01,415 --> 00:03:04,073
+It works together with the long nose.
+
+81
+00:03:04,253 --> 00:03:06,849
+When the train enters the hood,
+
+82
+00:03:06,849 --> 00:03:09,779
+some of the air escapes through the
+
+83
+00:03:09,779 --> 00:03:13,044
+openings, so the pressure in the tunnel
+
+84
+00:03:13,044 --> 00:03:15,723
+rises in steps instead of all at
+
+85
+00:03:15,723 --> 00:03:16,142
+once.
+
+86
+00:03:16,322 --> 00:03:18,337
+The pressure wave is softer,
+
+87
+00:03:18,337 --> 00:03:20,279
+and the boom at the far end
+
+88
+00:03:20,279 --> 00:03:21,070
+is quieter.
+
+89
+00:03:21,420 --> 00:03:24,609
+Japan needed this more than most countries,
+
+90
+00:03:24,609 --> 00:03:27,873
+because its high speed lines cross mountains
+
+91
+00:03:27,873 --> 00:03:29,652
+and are full of tunnels,
+
+92
+00:03:29,652 --> 00:03:32,322
+and many tunnels are close to homes.
+
+93
+00:03:32,502 --> 00:03:35,736
+Japanese rules limit the noise and pressure
+
+94
+00:03:35,736 --> 00:03:38,067
+that a train can cause near the
+
+95
+00:03:38,067 --> 00:03:41,225
+line, so engineers attack the problem from
+
+96
+00:03:41,225 --> 00:03:44,008
+both sides, the train and the tunnel.
+
+97
+00:03:44,357 --> 00:03:47,097
+Even the inside of the tunnel matters.
+
+98
+00:03:47,277 --> 00:03:50,031
+Some tunnels were built with a larger
+
+99
+00:03:50,031 --> 00:03:52,487
+cross section so the air has more
+
+100
+00:03:52,487 --> 00:03:54,719
+room to move around the train.
+
+101
+00:03:54,899 --> 00:03:57,432
+A bigger tunnel costs much more to
+
+102
+00:03:57,432 --> 00:03:59,816
+dig, but a smaller one makes the
+
+103
+00:03:59,816 --> 00:04:02,945
+boom louder and the ride less comfortable.
+
+104
+00:04:03,125 --> 00:04:04,615
+In high speed rail,
+
+105
+00:04:04,615 --> 00:04:06,811
+air is the enemy you have to
+
+106
+00:04:06,811 --> 00:04:07,908
+design around.
+
+107
+00:04:08,258 --> 00:04:10,341
+Why was part of a bullet train
+
+108
+00:04:10,341 --> 00:04:11,660
+copied from an owl?
+
+109
+00:04:11,840 --> 00:04:13,953
+The part is the pantograph,
+
+110
+00:04:13,953 --> 00:04:16,457
+the arm on the roof that touches
+
+111
+00:04:16,457 --> 00:04:19,665
+the overhead wire to collect electricity.
+
+112
+00:04:19,845 --> 00:04:22,626
+At three hundred kilometers an hour,
+
+113
+00:04:22,626 --> 00:04:25,639
+air rushing past it creates loud noise.
+
+114
+00:04:25,819 --> 00:04:28,136
+Eiji Nakatsu looked at owls,
+
+115
+00:04:28,136 --> 00:04:30,370
+which hunt in near silence.
+
+116
+00:04:30,550 --> 00:04:33,818
+Their wing feathers have small comb-like edges
+
+117
+00:04:33,818 --> 00:04:36,376
+that break the air into tiny swirls,
+
+118
+00:04:36,376 --> 00:04:38,224
+making their flight quiet.
+
+119
+00:04:38,573 --> 00:04:41,752
+The pantograph of the five hundred series
+
+120
+00:04:41,752 --> 00:04:45,551
+used a wing-shaped support with small serrations,
+
+121
+00:04:45,551 --> 00:04:47,954
+inspired by those owl feathers.
+
+122
+00:04:48,134 --> 00:04:51,892
+The serrations break the large noisy swirls
+
+123
+00:04:51,892 --> 00:04:53,639
+of air into smaller,
+
+124
+00:04:53,639 --> 00:04:54,775
+quieter ones.
+
+125
+00:04:54,955 --> 00:04:58,115
+Combined with a smaller design and covers
+
+126
+00:04:58,115 --> 00:04:59,811
+around the pantograph,
+
+127
+00:04:59,811 --> 00:05:02,894
+the noise dropped enough to meet Japan's
+
+128
+00:05:02,894 --> 00:05:04,975
+strict rules at high speed.
+
+129
+00:05:05,324 --> 00:05:09,877
+Modern Shinkansen trains use fewer pantographs than
+
+130
+00:05:09,877 --> 00:05:13,806
+older ones, often with streamlined covers or
+
+131
+00:05:13,806 --> 00:05:15,770
+shields at their base,
+
+132
+00:05:15,770 --> 00:05:19,698
+because each pantograph adds noise and drag.
+
+133
+00:05:19,878 --> 00:05:21,364
+The goal is simple.
+
+134
+00:05:21,544 --> 00:05:24,550
+Collect electricity from a wire at three
+
+135
+00:05:24,550 --> 00:05:26,579
+hundred kilometers an hour,
+
+136
+00:05:26,579 --> 00:05:28,984
+and do it so quietly that people
+
+137
+00:05:28,984 --> 00:05:31,540
+living next to the line can sleep.
+
+138
+00:05:31,889 --> 00:05:35,002
+Why are bullet train cars sealed almost
+
+139
+00:05:35,002 --> 00:05:36,359
+like an airplane?
+
+140
+00:05:36,539 --> 00:05:38,954
+Because of the same tunnel pressure.
+
+141
+00:05:39,134 --> 00:05:41,602
+When a train enters a tunnel at
+
+142
+00:05:41,602 --> 00:05:45,105
+high speed, the air pressure outside changes
+
+143
+00:05:45,105 --> 00:05:45,822
+suddenly.
+
+144
+00:05:46,002 --> 00:05:47,697
+In an ordinary train,
+
+145
+00:05:47,697 --> 00:05:50,847
+that change would rush in through doors
+
+146
+00:05:50,847 --> 00:05:53,835
+and gaps, and passengers would feel a
+
+147
+00:05:53,835 --> 00:05:55,935
+painful pop in their ears,
+
+148
+00:05:55,935 --> 00:05:56,985
+every tunnel.
+
+149
+00:05:57,165 --> 00:05:59,806
+So Shinkansen cars are built to be
+
+150
+00:05:59,806 --> 00:06:04,699
+airtight, with pressure-tight doors and controlled ventilation.
+
+151
+00:06:05,049 --> 00:06:08,878
+The ventilation system controls how quickly the
+
+152
+00:06:08,878 --> 00:06:10,426
+air inside changes,
+
+153
+00:06:10,426 --> 00:06:13,196
+so the pressure in the cabin moves
+
+154
+00:06:13,196 --> 00:06:14,663
+slowly and gently.
+
+155
+00:06:14,843 --> 00:06:17,441
+The car body must also be strong
+
+156
+00:06:17,441 --> 00:06:20,689
+enough to handle the pressure pushing on
+
+157
+00:06:20,689 --> 00:06:22,313
+it, again and again,
+
+158
+00:06:22,313 --> 00:06:25,318
+every time the train enters or leaves
+
+159
+00:06:25,318 --> 00:06:28,241
+a tunnel, or passes another train in
+
+160
+00:06:28,241 --> 00:06:28,972
+a tunnel.
+
+161
+00:06:29,152 --> 00:06:31,903
+It is a pressure vessel on wheels.
+
+162
+00:06:32,253 --> 00:06:35,298
+Passing another train at high speed is
+
+163
+00:06:35,298 --> 00:06:37,060
+also a pressure event.
+
+164
+00:06:37,240 --> 00:06:40,290
+Two trains approaching each other at three
+
+165
+00:06:40,290 --> 00:06:43,195
+hundred kilometers an hour each create a
+
+166
+00:06:43,195 --> 00:06:45,519
+sudden push of air that hits the
+
+167
+00:06:45,519 --> 00:06:47,480
+windows of the other train.
+
+168
+00:06:47,660 --> 00:06:50,543
+That is one reason the space between
+
+169
+00:06:50,543 --> 00:06:53,347
+tracks on high speed lines is wider
+
+170
+00:06:53,347 --> 00:06:54,789
+than on old lines.
+
+171
+00:06:54,969 --> 00:06:56,675
+The air needs room too.
+
+172
+00:06:57,025 --> 00:06:59,773
+Why do some bullet trains lean into
+
+173
+00:06:59,773 --> 00:07:00,323
+curves?
+
+174
+00:07:00,503 --> 00:07:03,031
+The old Tokaido Shinkansen line,
+
+175
+00:07:03,031 --> 00:07:05,401
+built in the nineteen sixties,
+
+176
+00:07:05,401 --> 00:07:08,324
+has many curves that are tighter than
+
+177
+00:07:08,324 --> 00:07:10,220
+modern high speed lines.
+
+178
+00:07:10,400 --> 00:07:12,067
+To go faster on it,
+
+179
+00:07:12,067 --> 00:07:15,136
+the N seven hundred series uses air
+
+180
+00:07:15,136 --> 00:07:17,854
+springs to tilt the car body by
+
+181
+00:07:17,854 --> 00:07:20,222
+about one degree in curves.
+
+182
+00:07:20,402 --> 00:07:22,059
+It is a small angle,
+
+183
+00:07:22,059 --> 00:07:24,626
+but it lets the train take many
+
+184
+00:07:24,626 --> 00:07:28,187
+curves at two hundred seventy kilometers an
+
+185
+00:07:28,187 --> 00:07:31,334
+hour instead of slowing down to around
+
+186
+00:07:31,334 --> 00:07:32,825
+two hundred fifty.
+
+187
+00:07:33,174 --> 00:07:35,241
+The tilt is not for the train.
+
+188
+00:07:35,421 --> 00:07:37,232
+It is for the passengers.
+
+189
+00:07:37,412 --> 00:07:38,747
+In a fast curve,
+
+190
+00:07:38,747 --> 00:07:40,748
+you are pushed sideways,
+
+191
+00:07:40,748 --> 00:07:43,334
+and if the force is too strong,
+
+192
+00:07:43,334 --> 00:07:46,503
+coffee spills and people lose balance.
+
+193
+00:07:46,683 --> 00:07:49,143
+Tilting the body moves the force so
+
+194
+00:07:49,143 --> 00:07:51,182
+that it feels more like it is
+
+195
+00:07:51,182 --> 00:07:53,080
+pushing you into your seat.
+
+196
+00:07:53,260 --> 00:07:55,632
+The train is not more stable when
+
+197
+00:07:55,632 --> 00:07:56,279
+it tilts.
+
+198
+00:07:56,459 --> 00:07:57,979
+It is more comfortable.
+
+199
+00:07:58,329 --> 00:08:01,174
+Saving a few seconds on every curve
+
+200
+00:08:01,174 --> 00:08:01,824
+adds up.
+
+201
+00:08:02,004 --> 00:08:05,377
+Along the busy route between Tokyo and
+
+202
+00:08:05,377 --> 00:08:09,549
+Osaka, faster curves helped trains save several
+
+203
+00:08:09,549 --> 00:08:10,259
+minutes.
+
+204
+00:08:10,439 --> 00:08:12,330
+On a line that runs a train
+
+205
+00:08:12,330 --> 00:08:13,591
+every few minutes,
+
+206
+00:08:13,591 --> 00:08:14,642
+minutes matter.
+
+207
+00:08:14,822 --> 00:08:17,189
+The fastest way to speed up an
+
+208
+00:08:17,189 --> 00:08:19,871
+old railway is sometimes not a new
+
+209
+00:08:19,871 --> 00:08:22,159
+line, but a train that leans.
+
+210
+00:08:22,509 --> 00:08:25,276
+Why does Japan spray water on bullet
+
+211
+00:08:25,276 --> 00:08:27,351
+train tracks when it snows?
+
+212
+00:08:27,531 --> 00:08:29,930
+Because snow can stick to the bottom
+
+213
+00:08:29,930 --> 00:08:31,929
+of the train at high speed and
+
+214
+00:08:31,929 --> 00:08:34,195
+build up into heavy chunks of ice.
+
+215
+00:08:34,375 --> 00:08:37,435
+Later, when the train reaches a warmer
+
+216
+00:08:37,435 --> 00:08:39,529
+area, the chunks fall off,
+
+217
+00:08:39,529 --> 00:08:41,783
+hit the stones of the track,
+
+218
+00:08:41,783 --> 00:08:44,441
+and throw them up into the train,
+
+219
+00:08:44,441 --> 00:08:46,937
+breaking windows and equipment.
+
+220
+00:08:47,117 --> 00:08:49,610
+Wetting the snow makes it heavy and
+
+221
+00:08:49,610 --> 00:08:51,889
+less likely to fly up and stick.
+
+222
+00:08:52,238 --> 00:08:56,439
+The Tokaido Shinkansen passes near Sekigahara,
+
+223
+00:08:56,439 --> 00:08:59,087
+an area known for heavy snow,
+
+224
+00:08:59,087 --> 00:09:02,192
+and it uses sprinklers to keep the
+
+225
+00:09:02,192 --> 00:09:03,105
+snow damp.
+
+226
+00:09:03,285 --> 00:09:05,786
+On lines in the snowiest parts of
+
+227
+00:09:05,786 --> 00:09:09,121
+Japan, some sprinklers spray warmed water to
+
+228
+00:09:09,121 --> 00:09:10,182
+melt the snow.
+
+229
+00:09:10,362 --> 00:09:13,725
+Trains in snowy regions also have plows
+
+230
+00:09:13,725 --> 00:09:16,916
+and special shapes to throw snow away
+
+231
+00:09:16,916 --> 00:09:18,210
+from the train.
+
+232
+00:09:18,560 --> 00:09:20,138
+And at some stations,
+
+233
+00:09:20,138 --> 00:09:22,919
+workers remove ice from the bottom of
+
+234
+00:09:22,919 --> 00:09:25,474
+trains by hand during short stops,
+
+235
+00:09:25,474 --> 00:09:28,104
+sometimes with high pressure water.
+
+236
+00:09:28,284 --> 00:09:31,279
+In winter, keeping a bullet train on
+
+237
+00:09:31,279 --> 00:09:34,108
+time is not only about engines and
+
+238
+00:09:34,108 --> 00:09:34,774
+signals.
+
+239
+00:09:34,954 --> 00:09:37,306
+It is about a crew with hoses
+
+240
+00:09:37,306 --> 00:09:38,765
+fighting the snow,
+
+241
+00:09:38,765 --> 00:09:40,387
+one train at a time.
+
+242
+00:09:40,737 --> 00:09:43,455
+Why does much of the Shinkansen track
+
+243
+00:09:43,455 --> 00:09:44,557
+have no stones?
+
+244
+00:09:44,737 --> 00:09:47,317
+Most railways lay their track on a
+
+245
+00:09:47,317 --> 00:09:49,973
+bed of crushed rock called ballast.
+
+246
+00:09:50,153 --> 00:09:51,212
+It works well,
+
+247
+00:09:51,212 --> 00:09:53,330
+but trains shake the stones,
+
+248
+00:09:53,330 --> 00:09:55,070
+the track slowly moves,
+
+249
+00:09:55,070 --> 00:09:57,793
+and crews have to fix it constantly.
+
+250
+00:09:57,973 --> 00:10:02,009
+Many Shinkansen lines use slab track instead,
+
+251
+00:10:02,009 --> 00:10:04,700
+rails fixed on concrete slabs,
+
+252
+00:10:04,700 --> 00:10:08,468
+with a layer of special mortar underneath.
+
+253
+00:10:08,648 --> 00:10:11,058
+It stays in place much better,
+
+254
+00:10:11,058 --> 00:10:13,547
+and needs far less maintenance.
+
+255
+00:10:13,897 --> 00:10:17,473
+Slab track also has another advantage.
+
+256
+00:10:17,653 --> 00:10:18,765
+At high speed,
+
+257
+00:10:18,765 --> 00:10:21,147
+the air under a train can lift
+
+258
+00:10:21,147 --> 00:10:24,245
+small stones of ballast and throw them,
+
+259
+00:10:24,245 --> 00:10:27,580
+a problem sometimes called ballast flight.
+
+260
+00:10:27,760 --> 00:10:30,384
+Concrete slabs do not fly.
+
+261
+00:10:30,564 --> 00:10:32,723
+The downside is cost.
+
+262
+00:10:32,903 --> 00:10:36,123
+Slab track is more expensive to build,
+
+263
+00:10:36,123 --> 00:10:37,309
+and once laid,
+
+264
+00:10:37,309 --> 00:10:39,766
+it is harder to adjust if the
+
+265
+00:10:39,766 --> 00:10:40,868
+ground moves.
+
+266
+00:10:41,217 --> 00:10:44,210
+Japan began using slab track widely on
+
+267
+00:10:44,210 --> 00:10:47,911
+the Sanyo Shinkansen in the nineteen seventies,
+
+268
+00:10:47,911 --> 00:10:50,273
+and many later lines followed.
+
+269
+00:10:50,453 --> 00:10:52,844
+For a railway that runs hundreds of
+
+270
+00:10:52,844 --> 00:10:54,756
+trains a day with only a few
+
+271
+00:10:54,756 --> 00:10:56,873
+hours at night for maintenance,
+
+272
+00:10:56,873 --> 00:10:59,264
+a track that does not need constant
+
+273
+00:10:59,264 --> 00:11:01,518
+fixing is worth its higher price.
+
+274
+00:11:01,867 --> 00:11:04,324
+Why can a bullet train start braking
+
+275
+00:11:04,324 --> 00:11:06,848
+before an earthquake shaking arrives?
+
+276
+00:11:07,028 --> 00:11:10,542
+Japan has seismometers along the coast and
+
+277
+00:11:10,542 --> 00:11:11,881
+along the lines.
+
+278
+00:11:12,061 --> 00:11:15,126
+An earthquake sends two main waves.
+
+279
+00:11:15,306 --> 00:11:18,015
+The fast P wave arrives first and
+
+280
+00:11:18,015 --> 00:11:18,836
+is weaker.
+
+281
+00:11:19,016 --> 00:11:21,932
+The slower S wave carries the strong
+
+282
+00:11:21,932 --> 00:11:22,580
+shaking.
+
+283
+00:11:22,760 --> 00:11:25,827
+When the sensors detect the first wave,
+
+284
+00:11:25,827 --> 00:11:28,501
+the system can cut power to trains
+
+285
+00:11:28,501 --> 00:11:32,904
+automatically, and their emergency brakes start working,
+
+286
+00:11:32,904 --> 00:11:36,994
+sometimes seconds before the strong shaking arrives.
+
+287
+00:11:37,174 --> 00:11:40,765
+Japan even places seismometers like this one
+
+288
+00:11:40,765 --> 00:11:42,315
+on the ocean floor,
+
+289
+00:11:42,315 --> 00:11:45,417
+to catch offshore earthquakes earlier.
+
+290
+00:11:45,766 --> 00:11:47,452
+In two thousand four,
+
+291
+00:11:47,452 --> 00:11:49,860
+during the Chuetsu earthquake,
+
+292
+00:11:49,860 --> 00:11:53,152
+a Shinkansen train traveling at about two
+
+293
+00:11:53,152 --> 00:11:56,041
+hundred kilometers an hour derailed.
+
+294
+00:11:56,221 --> 00:11:58,654
+It was the first derailment of a
+
+295
+00:11:58,654 --> 00:12:01,086
+Shinkansen in passenger service.
+
+296
+00:12:01,266 --> 00:12:02,775
+Nobody was killed.
+
+297
+00:12:02,955 --> 00:12:06,410
+After that, railways added devices that keep
+
+298
+00:12:06,410 --> 00:12:09,237
+a derailed train close to the rails,
+
+299
+00:12:09,237 --> 00:12:11,907
+so it slides along them instead of
+
+300
+00:12:11,907 --> 00:12:12,928
+tipping over.
+
+301
+00:12:13,279 --> 00:12:15,026
+In March twenty eleven,
+
+302
+00:12:15,026 --> 00:12:18,825
+the huge Tohoku earthquake struck while Shinkansen
+
+303
+00:12:18,825 --> 00:12:21,789
+trains were running on the Tohoku line.
+
+304
+00:12:21,969 --> 00:12:24,204
+The warning system cut power,
+
+305
+00:12:24,204 --> 00:12:27,365
+and the trains in service stopped without
+
+306
+00:12:27,365 --> 00:12:30,525
+any passenger being hurt in a derailment.
+
+307
+00:12:30,705 --> 00:12:32,557
+In twenty twenty-two,
+
+308
+00:12:32,557 --> 00:12:37,320
+another strong earthquake derailed a Tohoku Shinkansen
+
+309
+00:12:37,320 --> 00:12:41,201
+near Shiroishi, and again nobody was killed.
+
+310
+00:12:41,381 --> 00:12:43,373
+A few seconds of warning,
+
+311
+00:12:43,373 --> 00:12:46,163
+used by machines instead of humans,
+
+312
+00:12:46,163 --> 00:12:49,032
+can be the difference between a stop
+
+313
+00:12:49,032 --> 00:12:50,227
+and a disaster.
+
+314
+00:12:50,578 --> 00:12:53,261
+Why is one Japanese bullet train painted
+
+315
+00:12:53,261 --> 00:12:54,200
+bright yellow?
+
+316
+00:12:54,380 --> 00:12:56,322
+It is called Doctor Yellow,
+
+317
+00:12:56,322 --> 00:12:58,408
+and it is not for passengers.
+
+318
+00:12:58,588 --> 00:13:01,409
+It is an inspection train that runs
+
+319
+00:13:01,409 --> 00:13:04,551
+at full speed while measuring the track
+
+320
+00:13:04,551 --> 00:13:06,324
+and the overhead wire,
+
+321
+00:13:06,324 --> 00:13:09,950
+checking for tiny problems before they become
+
+322
+00:13:09,950 --> 00:13:10,756
+dangerous.
+
+323
+00:13:10,936 --> 00:13:14,150
+Its sensors can measure the track's alignment
+
+324
+00:13:14,150 --> 00:13:16,865
+and the condition of the electric wire
+
+325
+00:13:16,865 --> 00:13:18,865
+while running at high speed.
+
+326
+00:13:19,216 --> 00:13:22,456
+Doctor Yellow did not follow a public
+
+327
+00:13:22,456 --> 00:13:25,872
+timetable, so seeing one became a small
+
+328
+00:13:25,872 --> 00:13:27,273
+legend in Japan.
+
+329
+00:13:27,453 --> 00:13:29,415
+People said it brings good luck.
+
+330
+00:13:29,595 --> 00:13:32,777
+JR Central retired its Doctor Yellow in
+
+331
+00:13:32,777 --> 00:13:34,980
+January twenty twenty-five,
+
+332
+00:13:34,980 --> 00:13:37,672
+and JR West planned to retire its
+
+333
+00:13:37,672 --> 00:13:38,488
+own later.
+
+334
+00:13:38,668 --> 00:13:41,377
+Their job is moving to sensors fitted
+
+335
+00:13:41,377 --> 00:13:43,427
+on regular passenger trains,
+
+336
+00:13:43,427 --> 00:13:45,843
+which measure the line every day.
+
+337
+00:13:46,194 --> 00:13:48,811
+That change shows the philosophy of the
+
+338
+00:13:48,811 --> 00:13:49,549
+Shinkansen.
+
+339
+00:13:49,729 --> 00:13:53,097
+Instead of waiting for something to break,
+
+340
+00:13:53,097 --> 00:13:55,743
+measure everything, all the time.
+
+341
+00:13:55,923 --> 00:13:57,899
+The goal is to find a problem
+
+342
+00:13:57,899 --> 00:13:59,534
+when it is a millimeter,
+
+343
+00:13:59,534 --> 00:14:01,101
+not when it is a meter.
+
+344
+00:14:01,281 --> 00:14:03,394
+That is how you run a railway
+
+345
+00:14:03,394 --> 00:14:06,237
+at three hundred kilometers an hour for
+
+346
+00:14:06,237 --> 00:14:08,642
+decades with almost no accidents.
+
+347
+00:14:08,992 --> 00:14:11,842
+Why couldn't the bullet train simply use
+
+348
+00:14:11,842 --> 00:14:14,123
+Japan's existing railway tracks?
+
+349
+00:14:14,303 --> 00:14:17,837
+Because most old Japanese lines use a
+
+350
+00:14:17,837 --> 00:14:21,275
+narrow gauge, about one point oh six
+
+351
+00:14:21,275 --> 00:14:24,236
+seven meters between the rails,
+
+352
+00:14:24,236 --> 00:14:27,388
+which limits speed and stability.
+
+353
+00:14:27,568 --> 00:14:30,581
+The Shinkansen was built from the start
+
+354
+00:14:30,581 --> 00:14:33,517
+on separate lines with standard gauge,
+
+355
+00:14:33,517 --> 00:14:36,066
+one point four three five meters,
+
+356
+00:14:36,066 --> 00:14:38,384
+the same width used by most of
+
+357
+00:14:38,384 --> 00:14:40,315
+Europe and North America.
+
+358
+00:14:40,495 --> 00:14:42,888
+A wider track allows bigger,
+
+359
+00:14:42,888 --> 00:14:45,708
+more stable trains at high speed.
+
+360
+00:14:46,059 --> 00:14:49,082
+The new lines were also built without
+
+361
+00:14:49,082 --> 00:14:50,389
+level crossings.
+
+362
+00:14:50,569 --> 00:14:52,167
+No cars, no people,
+
+363
+00:14:52,167 --> 00:14:55,533
+no animals crossing the tracks at street
+
+364
+00:14:55,533 --> 00:14:56,037
+level.
+
+365
+00:14:56,217 --> 00:14:59,228
+Bridges and tunnels carry the line over
+
+366
+00:14:59,228 --> 00:15:00,850
+and under everything.
+
+367
+00:15:01,030 --> 00:15:03,381
+That alone removes one of the most
+
+368
+00:15:03,381 --> 00:15:05,801
+common causes of railway accidents.
+
+369
+00:15:05,981 --> 00:15:08,663
+A bullet train never has to worry
+
+370
+00:15:08,663 --> 00:15:11,426
+about a truck stuck on the tracks.
+
+371
+00:15:11,777 --> 00:15:14,628
+Some lines, called mini-Shinkansen,
+
+372
+00:15:14,628 --> 00:15:16,420
+use a different trick.
+
+373
+00:15:16,600 --> 00:15:19,448
+They widened old narrow gauge lines to
+
+374
+00:15:19,448 --> 00:15:22,971
+standard gauge, so bullet trains could continue
+
+375
+00:15:22,971 --> 00:15:25,519
+from the high speed line onto them
+
+376
+00:15:25,519 --> 00:15:26,643
+at lower speed.
+
+377
+00:15:26,823 --> 00:15:29,232
+But on its own dedicated lines,
+
+378
+00:15:29,232 --> 00:15:32,185
+the Shinkansen lives in its own world,
+
+379
+00:15:32,185 --> 00:15:34,128
+which is why it can be so
+
+380
+00:15:34,128 --> 00:15:35,449
+fast and so safe.
+
+381
+00:15:35,800 --> 00:15:37,297
+So here are the ten.
+
+382
+00:15:37,477 --> 00:15:40,213
+A long nose against the tunnel boom,
+
+383
+00:15:40,213 --> 00:15:42,493
+and hoods at the tunnel doors.
+
+384
+00:15:42,673 --> 00:15:45,545
+A pantograph copied from an owl,
+
+385
+00:15:45,545 --> 00:15:48,327
+and cars sealed like airplanes.
+
+386
+00:15:48,507 --> 00:15:51,381
+A body that leans for your coffee,
+
+387
+00:15:51,381 --> 00:15:53,749
+sprinklers against the snow,
+
+388
+00:15:53,749 --> 00:15:55,524
+track without stones,
+
+389
+00:15:55,524 --> 00:15:58,568
+sensors that feel earthquakes first,
+
+390
+00:15:58,568 --> 00:16:01,780
+a yellow train that checks everything,
+
+391
+00:16:01,780 --> 00:16:04,486
+and a wider track built just for
+
+392
+00:16:04,486 --> 00:16:04,993
+speed.
+
+393
+00:16:05,342 --> 00:16:07,390
+The bullet train does not look like
+
+394
+00:16:07,390 --> 00:16:08,442
+that to look fast.
+
+395
+00:16:08,622 --> 00:16:10,619
+Every curve has a reason.
+
+396
+00:16:10,799 --> 00:16:13,865
+If you want more machines explained part
+
+397
+00:16:13,865 --> 00:16:16,778
+by part, subscribe to Machine Reverse.
+
+398
+00:16:16,958 --> 00:16:18,917
+And tell us in the comments which
+
+399
+00:16:18,917 --> 00:16:20,876
+machine you want us to take apart
+
+400
+00:16:20,876 --> 00:16:21,173
+next.
