@@ -121,6 +121,16 @@ sc("""The biggest machines on Earth hide their cleverest parts under the water. 
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ('File:Bulbous bow container feeder.jpg', 0.5, 0.55),
+    2: ('File:Ship-propeller 2000.jpg', 0.5, 0.33),
+    3: ('File:Brosen bowthruster pharos.jpg', 0.47, 0.45),
+    4: ('File:Plimsoll mark.jpg', 0.62, 0.62),
+    5: ('File:Rudder and propeller Beached fishing vessel Nørre Vorupør Denmark 2017-04-14.jpg', 0.3, 0.45),
+    6: ('File:Union Sapphire close up of the propellor 11-Jan-2005.jpg', 0.27, 0.5),
+    7: ('File:Anchor chain (cable). (9769053784).jpg', 0.5, 0.5),
+    8: ('File:2022-01-18 sacrificial galvanic anode.jpg', 0.45, 0.5),
+    9: ('File:Nipponmaru bridge wing 20170929.jpg', 0.4, 0.68),
+    10: ('File:Polar Endeavour 31930.JPG', 0.45, 0.6),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
