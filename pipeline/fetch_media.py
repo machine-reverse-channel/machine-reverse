@@ -82,6 +82,8 @@ def main(video):
         for k in range(s.get("cuts", 2)):
             f = d / "media" / f"{i}_{k}.jpg"
             q = s["query"]
+            if k == 0 and s.get("local"):  # our own diagram from assets/, no credit needed
+                f.write_bytes(pathlib.Path(s["local"]).read_bytes()); last = f; print(i, k, s["local"]); continue
             m = exact(s["file"]) if k == 0 and s.get("file") else None
             if m is None:
                 m = pick(q, used)
