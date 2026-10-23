@@ -55,9 +55,14 @@ def main(video):
         style = ("FontName=DejaVu Sans,Bold=1,FontSize=13,PrimaryColour=&H0000FFFF,OutlineColour=&H00000000,"
                  "BorderStyle=1,Outline=3,Alignment=2,MarginV=60")
         q = group[0]["caption"].replace("'", "").replace(":", " -") if group[0].get("arrow") else ""
-        size = 72 if len(q) <= 22 else 58
-        question = (f"drawtext=text='{q}':fontcolor=0xFFD400:fontsize={size}:borderw=6:bordercolor=black:"
-                    f"x=(w-text_w)/2:y=480," if q else "")
+        # long questions go on two lines and shrink to fit the 1080 px width (about 0.7 em per capital letter)
+        rows = [q]
+        if len(q) > 20:
+            w = q.split(); cut = min(range(1, len(w)), key=lambda i: abs(len(" ".join(w[:i])) - len(" ".join(w[i:]))))
+            rows = [" ".join(w[:cut]), " ".join(w[cut:])]
+        size = min(72, int(1000 / (0.7 * max(len(r) for r in rows)))) if q else 0
+        question = "".join(f"drawtext=text='{r}':fontcolor=0xFFD400:fontsize={size}:borderw=6:bordercolor=black:"
+                           f"x=(w-text_w)/2:y={430 + i * int(size * 1.25)}," for i, r in enumerate(rows)) if q else ""
         # the whole 16:9 frame (arrow + question) over a blurred 9:16 copy of itself, so nothing is cropped away
         vf = (f"split[a][b];[a]scale=-2:1920,crop=1080:1920,boxblur=24:2,eq=brightness=-0.12[bg];"
               f"[b]scale=1080:-2[fg];[bg][fg]overlay=0:(H-h)/2,"
