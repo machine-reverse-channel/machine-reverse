@@ -48,8 +48,8 @@
    "query": "windshield frit dots",
    "caption": "WHY ARE THERE BLACK DOTS ON THE WINDSCREEN?",
    "arrow": {
-    "x": 0.8,
-    "y": 0.35
+    "x": 0.12,
+    "y": 0.62
    },
    "chapter": "2. The black dots",
    "short": "Why Are There Black Dots on Your Windshield?",
@@ -72,12 +72,12 @@
    "caption": "WHY ARE THERE BUMPS INSIDE THE TYRE GROOVES?",
    "arrow": {
     "x": 0.55,
-    "y": 0.62
+    "y": 0.3
    },
    "chapter": "3. The tread wear bars",
    "short": "Why Are There Little Bumps Inside Tire Grooves?",
    "cuts": 3,
-   "file": "File:Autoreifen mit Verschlei\u00dfanzeige.JPG"
+   "file": "File:Tread Wear Indicators of Studless Tire.jpg"
   },
   {
    "text": "One point six millimetres is the legal minimum tread depth in many countries, including the European Union. The grooves in a tyre carry water away, so the rubber can touch the road. When the grooves become too shallow, water stays under the tyre and the car can start to float on it, which is called aquaplaning.",
@@ -94,7 +94,7 @@
    "query": "new tire rubber hairs",
    "caption": "WHY DO NEW TYRES HAVE LITTLE HAIRS?",
    "arrow": {
-    "x": 0.85,
+    "x": 0.7,
     "y": 0.45
    },
    "chapter": "4. The tyre hairs",

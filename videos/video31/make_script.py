@@ -122,9 +122,9 @@ sc("""The next time you get in your car, look for them. If you want more machine
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
     1: ('File:Car Fuel Gauge - Full Gas Tank (52958977635).jpg', 0.58, 0.5),
-    2: ('File:Dülmen, Wiesmann Sports Cars, Wiesmann GT -- 2018 -- 9598.jpg', 0.8, 0.35),
-    3: ('File:Autoreifen mit Verschleißanzeige.JPG', 0.55, 0.62),
-    4: ('File:Close-up of Front tire of a Volkswagen car.jpg', 0.85, 0.45),
+    2: ('File:Dülmen, Wiesmann Sports Cars, Wiesmann GT -- 2018 -- 9598.jpg', 0.12, 0.62),
+    3: ('File:Tread Wear Indicators of Studless Tire.jpg', 0.55, 0.3),
+    4: ('File:Close-up of Front tire of a Volkswagen car.jpg', 0.7, 0.45),
     5: ('File:1968 Rambler American 440 4-door sedan green VA-rm.jpg', 0.35, 0.5),
     6: ('File:" 12 - ITALY - FIAT Panda 4x4 - third brake light and rear window 04.jpg', 0.45, 0.2),
     7: ('File:Shark Fin Antenna of Honda City 7th Generation (5th Generation Sedan) iVTEC 2022.jpg', 0.6, 0.4),
