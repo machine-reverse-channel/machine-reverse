@@ -1,0 +1,98 @@
+# Photo credits: Why Do Freight Trains Have Engines in the Middle?
+
+All photos from Wikimedia Commons.
+
+- Benching Freight Train Graffiti in SoCal (June 11th 2021) (51256677559).jpg by siamesepuppy, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Benching_Freight_Train_Graffiti_in_SoCal_(June_11th_2021)_(51256677559).jpg
+- Middle of Downtown Aurora.jpg by GR_Pei, Public domain, https://commons.wikimedia.org/wiki/File:Middle_of_Downtown_Aurora.jpg
+- CP GP20C-ECO and GP38-2 at Wilkie v2.jpg by Kabelleger / David Gubler, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:CP_GP20C-ECO_and_GP38-2_at_Wilkie_v2.jpg
+- RL310 6SM7 Cement Middle Footscray.jpg by ConnorL-D, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:RL310_6SM7_Cement_Middle_Footscray.jpg
+- Oxford Up freight entering geograph-2925379-by-Ben-Brooksbank.jpg by Ben Brooksbank, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Oxford_Up_freight_entering_geograph-2925379-by-Ben-Brooksbank.jpg
+- Rockville Bridge - Blue in the Middle (4632600861).jpg by jpmueller99 from Shenandoah Valley of VA, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rockville_Bridge_-_Blue_in_the_Middle_(4632600861).jpg
+- Victorian Railways K190 - Middle Gorge - November 2022.jpg by Max Walton, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Victorian_Railways_K190_-_Middle_Gorge_-_November_2022.jpg
+- Diesel (SAR 845) and steam (T class) locos with freight cars in Ellen Street, Port Pirie, South Australia, 2 Sep 1965 (photographer Lindsay Bridge).jpg by Lindsay Bridge.When re-used, attribute as:Photographer and copyright owner: Lindsay Bridge. CC0., CC0, https://commons.wikimedia.org/wiki/File:Diesel_(SAR_845)_and_steam_(T_class)_locos_with_freight_cars_in_Ellen_Street,_Port_Pirie,_South_Australia,_2_Sep_1965_(photographer_Lindsay_Bridge).jpg
+- Train station with train and coal depot by Gustave Le Gray1.jpg by Gustave Le Gray, Public domain, https://commons.wikimedia.org/wiki/File:Train_station_with_train_and_coal_depot_by_Gustave_Le_Gray1.jpg
+- Banff National Park (AB, Canada), Bankhead, Lower Bankhead, Coal Mine Train -- 2022 -- 2226.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Banff_National_Park_(AB,_Canada),_Bankhead,_Lower_Bankhead,_Coal_Mine_Train_--_2022_--_2226.jpg
+- Image from page 889 of "Locomotive engineering - a practical journal of railway motive power and rolling stock" (1892).jpg by Internet Archive Book Images, CC0, https://commons.wikimedia.org/wiki/File:Image_from_page_889_of_%22Locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_(1892).jpg
+- Northwich Locomotive Depot LMS Fowler 4F 0-6-0 geograph-2795668-by-Ben-Brooksbank.jpg by Ben Brooksbank, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Northwich_Locomotive_Depot_LMS_Fowler_4F_0-6-0_geograph-2795668-by-Ben-Brooksbank.jpg
+- CN Freight. Helper Engine in Mid-train 6082 (6775062342).jpg by Robert Taylor from Stirling, ON, Canada, CC BY 2.0, https://commons.wikimedia.org/wiki/File:CN_Freight._Helper_Engine_in_Mid-train_6082_(6775062342).jpg
+- Train at Currumbin Wildlife Sanctuary, Gold Coast, Queensland, Australia.jpg by Jack Bain, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Train_at_Currumbin_Wildlife_Sanctuary,_Gold_Coast,_Queensland,_Australia.jpg
+- DSC00599 - Locomotive CP 4563 & Locomotive VIA 6921 (48167650192).jpg by Dennis G. Jarvis, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:DSC00599_-_Locomotive_CP_4563_%26_Locomotive_VIA_6921_(48167650192).jpg
+- CP GE AC4400CW 8608 Morant's Curve.jpg by Kabelleger / David Gubler, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:CP_GE_AC4400CW_8608_Morant%27s_Curve.jpg
+- Norfolk Southern Railway freight train (10 May 2016; Horseshoe Curve, Pennsylvania, USA) 2 (26437754463).jpg by James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Norfolk_Southern_Railway_freight_train_(10_May_2016;_Horseshoe_Curve,_Pennsylvania,_USA)_2_(26437754463).jpg
+- Pacific National freight train Virginia, SA.jpg by Tomoyn, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Pacific_National_freight_train_Virginia,_SA.jpg
+- IORE beim Torneträsk.jpg by Kabelleger / David Gubler (http://www.bahnbilder.ch), CC BY 3.0, https://commons.wikimedia.org/wiki/File:IORE_beim_Tornetr%C3%A4sk.jpg
+- Long freight train in Newport station - geograph.org.uk - 6254833.jpg by Jaggery, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Long_freight_train_in_Newport_station_-_geograph.org.uk_-_6254833.jpg
+- Freight Train Graffiti - SoCal - 5-23-2020 (49929463677).jpg by siamesepuppy, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Freight_Train_Graffiti_-_SoCal_-_5-23-2020_(49929463677).jpg
+- GWR no 813 and a loose coupled freight train, Kidderminster - geograph.org.uk - 5463292.jpg by Philip Pankhurst, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:GWR_no_813_and_a_loose_coupled_freight_train,_Kidderminster_-_geograph.org.uk_-_5463292.jpg
+- Image from page 306 of "American engineer and railroad journal" (1893).jpg by Internet Archive Book Images, CC0, https://commons.wikimedia.org/wiki/File:Image_from_page_306_of_%22American_engineer_and_railroad_journal%22_(1893).jpg
+- Image from page 498 of "American engineer and railroad journal" (1893).jpg by Internet Archive Book Images, CC0, https://commons.wikimedia.org/wiki/File:Image_from_page_498_of_%22American_engineer_and_railroad_journal%22_(1893).jpg
+- Union Pacific Freight Train Heading Westbound.jpg by GP_FullFrame, Public domain, https://commons.wikimedia.org/wiki/File:Union_Pacific_Freight_Train_Heading_Westbound.jpg
+- Freight at Crouch Hill - geograph.org.uk - 8052949.jpg by Des Blenkinsopp, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Freight_at_Crouch_Hill_-_geograph.org.uk_-_8052949.jpg
+- AAR knuckle coupler connection.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:AAR_knuckle_coupler_connection.jpg
+- Janney coupler of TR ED9052 20250120.jpg by D1114456, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Janney_coupler_of_TR_ED9052_20250120.jpg
+- AAR knuckle coupler on MBTA work car.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:AAR_knuckle_coupler_on_MBTA_work_car.jpg
+- AAR knuckle couplers April 2025.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:AAR_knuckle_couplers_April_2025.jpg
+- Benching Freight Train Graffiti in SoCal (July 24th 2021) (51335735396).jpg by siamesepuppy, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Benching_Freight_Train_Graffiti_in_SoCal_(July_24th_2021)_(51335735396).jpg
+- Railroad Coupling (CMRR).jpg by RoySmith, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Railroad_Coupling_(CMRR).jpg
+- Griffith Park and Southern Train Coupler Detail.jpg by Northwalker, CC0, https://commons.wikimedia.org/wiki/File:Griffith_Park_and_Southern_Train_Coupler_Detail.jpg
+- Rear of CSX train L005 awaiting departure from Framingham October 2025.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Rear_of_CSX_train_L005_awaiting_departure_from_Framingham_October_2025.jpg
+- Loaded centerbeam flatcar on CSX train departing Framingham December 2025.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Loaded_centerbeam_flatcar_on_CSX_train_departing_Framingham_December_2025.jpg
+- JR East E001 Train Suite Shiki-shima Kōzu 2016 0907.jpg by Cfktj1596
+
+ This photo was taken with Nikon D750, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:JR_East_E001_Train_Suite_Shiki-shima_K%C5%8Dzu_2016_0907.jpg
+- FGA Fred George Road railroad crossing.jpg by The Bushranger, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:FGA_Fred_George_Road_railroad_crossing.jpg
+- Disneyland Railroad Fred Gurley builders plate - January 2016.jpg by Jeremy Thompson, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Disneyland_Railroad_Fred_Gurley_builders_plate_-_January_2016.jpg
+- Freight Train Graffiti in SoCal - 05-31-2020 (49975656123).jpg by siamesepuppy, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Freight_Train_Graffiti_in_SoCal_-_05-31-2020_(49975656123).jpg
+- Freight Train Graffiti in SoCal - 05-31-2020 (49975615318).jpg by siamesepuppy, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Freight_Train_Graffiti_in_SoCal_-_05-31-2020_(49975615318).jpg
+- Antique Caboose at La Crosse, Virginia.jpg by James Shelton32, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Antique_Caboose_at_La_Crosse,_Virginia.jpg
+- Riviere-du-Loup - Wagon.jpg by Selbymay, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Riviere-du-Loup_-_Wagon.jpg
+- Carlton County Fair-Caboose leaving fair grounds.jpg by Myotus, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Carlton_County_Fair-Caboose_leaving_fair_grounds.jpg
+- Caboose ODC 105.jpg by Chris Light, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Caboose_ODC_105.jpg
+- Happy Endings Caboose Cafe.jpg by Xnatedawgx, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Happy_Endings_Caboose_Cafe.jpg
+- Caboose Interior.jpg by Chris Light, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Caboose_Interior.jpg
+- Caboose 6334.jpg by Chris Light, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Caboose_6334.jpg
+- DGVR40 Staunton WJGrimes.JPG by William Grimes, Public domain, https://commons.wikimedia.org/wiki/File:DGVR40_Staunton_WJGrimes.JPG
+- ЭД4М-0109 f006.jpg by Ural-66, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%D0%AD%D0%944%D0%9C-0109_f006.jpg
+- VL80 in Brest, Belarus.jpg by LHOON, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:VL80_in_Brest,_Belarus.jpg
+- WAB Gueterzug Allmend-Wengen Sommer 09.jpg by Rahimsa Images, Public domain, https://commons.wikimedia.org/wiki/File:WAB_Gueterzug_Allmend-Wengen_Sommer_09.jpg
+- Rollbockwagen at Stiege DDR. DR Loco 99 7231. Sunday 29 April 1990.jpg by Felix O, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Rollbockwagen_at_Stiege_DDR._DR_Loco_99_7231._Sunday_29_April_1990.jpg
+- B.C. Electric Railway locomotive and freight cars.jpg by Matthews, James Skitt, Major (1878-1970), Public domain, https://commons.wikimedia.org/wiki/File:B.C._Electric_Railway_locomotive_and_freight_cars.jpg
+- B.C. Electric Railway locomotive and freight car.jpg by Matthews, James Skitt, Major (1878-1970), Public domain, https://commons.wikimedia.org/wiki/File:B.C._Electric_Railway_locomotive_and_freight_car.jpg
+- DTTX 724681 20050529 IL Rochelle.jpg by Slambo at en.wikipedia, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:DTTX_724681_20050529_IL_Rochelle.jpg
+- CSX Double Stack train in Worcester.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:CSX_Double_Stack_train_in_Worcester.jpg
+- Double stack intermodal container train. (3119035814).jpg by Dan from PQ, Canada, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Double_stack_intermodal_container_train._(3119035814).jpg
+- Conductor riding well car in Worcester MA.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Conductor_riding_well_car_in_Worcester_MA.jpg
+- Empty TTX Well Car on CSX intermodal train at Worcester MA June 2025.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Empty_TTX_Well_Car_on_CSX_intermodal_train_at_Worcester_MA_June_2025.jpg
+- Wembley European Freight Operations Centre to Dollands Moor Sidings 67005 and 67025.jpg by train_photos, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Wembley_European_Freight_Operations_Centre_to_Dollands_Moor_Sidings_67005_and_67025.jpg
+- Wembley European Freight Operations Centre to Dollands Moor Sidings 67005 and 67025 - 11799390064.jpg by train_photos, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Wembley_European_Freight_Operations_Centre_to_Dollands_Moor_Sidings_67005_and_67025_-_11799390064.jpg
+- Tinsley Hump Marshalling Yard 1981 - geograph.org.uk - 2308273.jpg by Rob Newman, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Tinsley_Hump_Marshalling_Yard_1981_-_geograph.org.uk_-_2308273.jpg
+- Godorf Station at Dusk, May 2018.jpg by Martin Falbisoner, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Godorf_Station_at_Dusk,_May_2018.jpg
+- Marshalling hump Dnipropetrovsk-Vantazhny, Ukraine.jpg by Novoklimov, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Marshalling_hump_Dnipropetrovsk-Vantazhny,_Ukraine.jpg
+- J01 187 FEW-Gummigleisbremse.jpg by Falk2, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:J01_187_FEW-Gummigleisbremse.jpg
+- J01 183 FEW-Dreikraftbremsen.jpg by Falk2, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:J01_183_FEW-Dreikraftbremsen.jpg
+- Godorf Cologne HGK-Marshalling-Yard-01.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Godorf_Cologne_HGK-Marshalling-Yard-01.jpg
+- Marshaling Yard Ernakulam.jpg by Dr. Chinchu C., CC BY 4.0, https://commons.wikimedia.org/wiki/File:Marshaling_Yard_Ernakulam.jpg
+- Tehachapi Loop Aerial.jpg by Keavon Chambers, CC0, https://commons.wikimedia.org/wiki/File:Tehachapi_Loop_Aerial.jpg
+- Tehachapi Loop 2092 13.JPG by Pedro Xing, CC0, https://commons.wikimedia.org/wiki/File:Tehachapi_Loop_2092_13.JPG
+- Tehachapi Loop 2089 10.JPG by Pedro Xing, CC0, https://commons.wikimedia.org/wiki/File:Tehachapi_Loop_2089_10.JPG
+- BYB V100 1365 Schiefe Ebene km 79,5.jpg by Leonhard. 628, CC BY 4.0, https://commons.wikimedia.org/wiki/File:BYB_V100_1365_Schiefe_Ebene_km_79,5.jpg
+- Image from page 326 of "Railway and locomotive engineering - a practical journal of railway motive power and rolling stock" (1901) 3149.jpg by Internet Archive Book Images, CC0, https://commons.wikimedia.org/wiki/File:Image_from_page_326_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_(1901)_3149.jpg
+- Ferrocarril White Pass, Portage, Alaska, Estados Unidos, 2017-08-31, DD 39.jpg by Diego Delso, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ferrocarril_White_Pass,_Portage,_Alaska,_Estados_Unidos,_2017-08-31,_DD_39.jpg
+- White Pass Railroad (3732245683).jpg by Rennett Stowe from USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:White_Pass_Railroad_(3732245683).jpg
+- Illinois Central 101 (4593757527).jpg by vxla from Chicago, US, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Illinois_Central_101_(4593757527).jpg
+- CN FP9 6506 with The Rupert Rocket at Smithers, BC in November 1971. The hanging wires are for the ditch lights.-F (24282368281).jpg by railfan 44, Public domain, https://commons.wikimedia.org/wiki/File:CN_FP9_6506_with_The_Rupert_Rocket_at_Smithers,_BC_in_November_1971._The_hanging_wires_are_for_the_ditch_lights.-F_(24282368281).jpg
+- Level crossing lights in Junee.jpg by Bidgee, CC BY-SA 3.0 au, https://commons.wikimedia.org/wiki/File:Level_crossing_lights_in_Junee.jpg
+- Train crossing Cape Cod Canal on railroad bridge (77268).jpg by (Photo by Hicks) Pub. by H. L. Moore Co., West Yarmouth, Mass. Tichnor Bros. Inc., Boston, Mass., Public domain, https://commons.wikimedia.org/wiki/File:Train_crossing_Cape_Cod_Canal_on_railroad_bridge_(77268).jpg
+- Nakayama railroad crossing and train on the Kishin Line. Mimasaka City.jpg by さかおり, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Nakayama_railroad_crossing_and_train_on_the_Kishin_Line._Mimasaka_City.jpg
+- 92032 Dollands Moor to Daventry - Norfolk Line (13432494345).jpg by Train Photos, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:92032_Dollands_Moor_to_Daventry_-_Norfolk_Line_(13432494345).jpg
+- 92032 Dollands Moor to Daventry - Norfolk Line containers (13432893214).jpg by Train Photos, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:92032_Dollands_Moor_to_Daventry_-_Norfolk_Line_containers_(13432893214).jpg
+- Banff National Park (AB, Canada), Bankhead, Lower Bankhead, Coal Mine Train -- 2022 -- 2222.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Banff_National_Park_(AB,_Canada),_Bankhead,_Lower_Bankhead,_Coal_Mine_Train_--_2022_--_2222.jpg
+- Banff National Park (AB, Canada), Bankhead, Lower Bankhead, Coal Mine Train -- 2022 -- 2226 (bw).jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Banff_National_Park_(AB,_Canada),_Bankhead,_Lower_Bankhead,_Coal_Mine_Train_--_2022_--_2226_(bw).jpg
+- Banff National Park (AB, Canada), Bankhead, Lower Bankhead, Coal Mine Train -- 2022 -- 2225.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Banff_National_Park_(AB,_Canada),_Bankhead,_Lower_Bankhead,_Coal_Mine_Train_--_2022_--_2225.jpg
+- Banff National Park (AB, Canada), Bankhead, Lower Bankhead, Coal Mine Train -- 2022 -- 2229.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Banff_National_Park_(AB,_Canada),_Bankhead,_Lower_Bankhead,_Coal_Mine_Train_--_2022_--_2229.jpg
+- Banff National Park (AB, Canada), Bankhead, Lower Bankhead, Coal Mine Train -- 2022 -- 2230.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Banff_National_Park_(AB,_Canada),_Bankhead,_Lower_Bankhead,_Coal_Mine_Train_--_2022_--_2230.jpg
+- Banff National Park (AB, Canada), Bankhead, Lower Bankhead, Coal Mine Train -- 2022 -- 2223.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Banff_National_Park_(AB,_Canada),_Bankhead,_Lower_Bankhead,_Coal_Mine_Train_--_2022_--_2223.jpg
+- Freight train at Bharathnagar during sunset.jpg by Adityamadhav83, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Freight_train_at_Bharathnagar_during_sunset.jpg
+- Sunset train - panoramio.jpg by Harri Hedman, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Sunset_train_-_panoramio.jpg
+- Закат на озере Баскунчак.jpg by Ted.ns, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%D0%97%D0%B0%D0%BA%D0%B0%D1%82_%D0%BD%D0%B0_%D0%BE%D0%B7%D0%B5%D1%80%D0%B5_%D0%91%D0%B0%D1%81%D0%BA%D1%83%D0%BD%D1%87%D0%B0%D0%BA.jpg
+- CN 312 004 Ilseng - Hamar.jpg by Kabelleger / David Gubler, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:CN_312_004_Ilseng_-_Hamar.jpg

@@ -1,0 +1,93 @@
+# Photo credits: Why Are Train Wheels Shaped Like Cones?
+
+All photos from Wikimedia Commons.
+
+- Wheelsets of rail vehicles with fitted journals.jpg by Ural-66, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wheelsets_of_rail_vehicles_with_fitted_journals.jpg
+- Колёсные пары f003.jpg by Ural-66, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BB%D1%91%D1%81%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B0%D1%80%D1%8B_f003.jpg
+- Колёсные пары f001.jpg by Ural-66, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BB%D1%91%D1%81%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B0%D1%80%D1%8B_f001.jpg
+- J24 962 Bw Temuco, Dampflokomotivradsätze.jpg by Falk2, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:J24_962_Bw_Temuco,_Dampflokomotivrads%C3%A4tze.jpg
+- Asse ferrov. "sala montata".jpg by Al*from*Lig, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Asse_ferrov._%22sala_montata%22.jpg
+- J24 963 Bw Temuco, Tenderradsatz.jpg by Falk2, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:J24_963_Bw_Temuco,_Tenderradsatz.jpg
+- Radsätze beim SBB CFF FFS Werk in Bellinzona.jpg by JoachimKohler-HB, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rads%C3%A4tze_beim_SBB_CFF_FFS_Werk_in_Bellinzona.jpg
+- Heidelberg funicular wheelset.jpg by Brian Snelson, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Heidelberg_funicular_wheelset.jpg
+- Chelyabinsk. The driving wheels of the Kommunar steam locomotive. 54 Zwilling Street.jpg by Александр Байдуков, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Chelyabinsk._The_driving_wheels_of_the_Kommunar_steam_locomotive._54_Zwilling_Street.jpg
+- Brest Railway Museum П36 0050 Steam Locomotive Wheels 2023-03-05 3248.jpg by Mike1979 Russia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Brest_Railway_Museum_%D0%9F36_0050_Steam_Locomotive_Wheels_2023-03-05_3248.jpg
+- Laxey Wheel from the Snaefell train - geograph.org.uk - 6188169.jpg by Robert Eva, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Laxey_Wheel_from_the_Snaefell_train_-_geograph.org.uk_-_6188169.jpg
+- Hopper wagon train (geograph 3229290).jpg by Bob Harvey, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Hopper_wagon_train_(geograph_3229290).jpg
+- Railway Check Shoe R01.jpg by Marc Ryckaert, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Railway_Check_Shoe_R01.jpg
+- India - Railway Museum Mysore 05.jpg by Paweł 'pbm' Szubert (talk), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:India_-_Railway_Museum_Mysore_05.jpg
+- CP GE AC4400CW 8608 Morant's Curve.jpg by Kabelleger / David Gubler, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:CP_GE_AC4400CW_8608_Morant%27s_Curve.jpg
+- Horseshoe Curve aerial photo, March 2006.jpg by Center for Earth Resources Observation and Science, United States Geological Survey, Public domain, https://commons.wikimedia.org/wiki/File:Horseshoe_Curve_aerial_photo,_March_2006.jpg
+- 2020-04-30 02 10 22 Two Reese's Peanut Butter Cups with the inner paper cup intact in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg by Famartin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2020-04-30_02_10_22_Two_Reese%27s_Peanut_Butter_Cups_with_the_inner_paper_cup_intact_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg
+- 2020-04-30 02 10 40 Two Reese's Peanut Butter Cups with the inner paper cup intact in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg by Famartin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2020-04-30_02_10_40_Two_Reese%27s_Peanut_Butter_Cups_with_the_inner_paper_cup_intact_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg
+- Pojezd merkur b.jpg by PetrS., CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Pojezd_merkur_b.jpg
+- Image from page 155 of "Railway and locomotive engineering - a practical journal of railway motive power and rolling stock" (1901).jpg by Internet Archive Book Images, CC0, https://commons.wikimedia.org/wiki/File:Image_from_page_155_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_(1901).jpg
+- Railway locomotive -filling in worn flange on locomotive driving wheel(GN03822).jpg by State Government Photographer, CC0, https://commons.wikimedia.org/wiki/File:Railway_locomotive_-filling_in_worn_flange_on_locomotive_driving_wheel(GN03822).jpg
+- Wheel flangers at Islington(GN12207).jpg by State Government Photographer, CC0, https://commons.wikimedia.org/wiki/File:Wheel_flangers_at_Islington(GN12207).jpg
+- 2014-0428-IMG 5142-Jct Points, Xing Frog, guide shoe and Switch Arm linkage (1st SW prev pic).JPG by Fabartus, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2014-0428-IMG_5142-Jct_Points,_Xing_Frog,_guide_shoe_and_Switch_Arm_linkage_(1st_SW_prev_pic).JPG
+- RailroadSwitch 20200801 014921.jpg by Ka23 13, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:RailroadSwitch_20200801_014921.jpg
+- Spare Wheelsets.jpg by Qchasserieau, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Spare_Wheelsets.jpg
+- Münster, Gremmendorf, Pängelanton -- 2020 -- 9573.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Gremmendorf,_P%C3%A4ngelanton_--_2020_--_9573.jpg
+- TGV Euroduplex Jacobs Bogie.jpg by RAIL P (RAIL.PHOTOGRAPHY), CC0, https://commons.wikimedia.org/wiki/File:TGV_Euroduplex_Jacobs_Bogie.jpg
+- Lse high speed test run.JPG by Shellparakeet, Public domain, https://commons.wikimedia.org/wiki/File:Lse_high_speed_test_run.JPG
+- GWR 802003 (835003) leading bogie revised fittings.JPG by Geof Sheppard, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:GWR_802003_(835003)_leading_bogie_revised_fittings.JPG
+- JRC Series313-5000 Damper.jpg by MaedaAkihiko, CC0, https://commons.wikimedia.org/wiki/File:JRC_Series313-5000_Damper.jpg
+- Continuous welded rail track.JPG by Glucke, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Continuous_welded_rail_track.JPG
+- On this side you cant even see the sun setting (4983156260).jpg by upyernoz from Haverford, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:On_this_side_you_cant_even_see_the_sun_setting_(4983156260).jpg
+- Inbound Providence Line train 856 departing Sharon July 2025.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Inbound_Providence_Line_train_856_departing_Sharon_July_2025.jpg
+- DB Museum rail Krupp 83 UIC 60.jpg by Arnoldius, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:DB_Museum_rail_Krupp_83_UIC_60.jpg
+- First day of Soham railway station - sign on sleepers.jpg by Chris McKenna, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:First_day_of_Soham_railway_station_-_sign_on_sleepers.jpg
+- Image from page 249 of "Railway mechanical engineer" (1916).jpg by Internet Archive Book Images, CC0, https://commons.wikimedia.org/wiki/File:Image_from_page_249_of_%22Railway_mechanical_engineer%22_(1916).jpg
+- Image from page 250 of "Railway mechanical engineer" (1916) PO.jpg by Internet Archive Book Images, CC0, https://commons.wikimedia.org/wiki/File:Image_from_page_250_of_%22Railway_mechanical_engineer%22_(1916)_PO.jpg
+- Close-up of a bogie of a TRA EMU700 coach at Taichung Station.jpg by WC-QHS, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Close-up_of_a_bogie_of_a_TRA_EMU700_coach_at_Taichung_Station.jpg
+- Bogie on Commonwealth Railways Budd RDC-1 railcar.jpg by SCHolar44, CC0, https://commons.wikimedia.org/wiki/File:Bogie_on_Commonwealth_Railways_Budd_RDC-1_railcar.jpg
+- China Railways HXN5B 0148's close-up.jpg by Changzhensky, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:China_Railways_HXN5B_0148%27s_close-up.jpg
+- Freight diesel locomotive TE3-1001 (4).jpg by George Shuklin, CC BY-SA 2.5, https://commons.wikimedia.org/wiki/File:Freight_diesel_locomotive_TE3-1001_(4).jpg
+- Tender bogie of South Australian Railways 620 class locomotive (GN13090A).jpg by South Australian Railways photographer, Public domain, https://commons.wikimedia.org/wiki/File:Tender_bogie_of_South_Australian_Railways_620_class_locomotive_(GN13090A).jpg
+- TGV IRIS320 Gare du Nord Paris FRA 004.jpg by ignis, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:TGV_IRIS320_Gare_du_Nord_Paris_FRA_004.jpg
+- Jakobsdrehgestell.jpg by Falk2, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Jakobsdrehgestell.jpg
+- Grinding thermite welded track to create smooth continuous rail. 04-12-19 (46729514965).jpg by MTA Capital Construction Mega Projects, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Grinding_thermite_welded_track_to_create_smooth_continuous_rail._04-12-19_(46729514965).jpg
+- Baikal Railway, Railway track, Khabartuy Cape, Lake Baikal, Russia.jpg by Vyacheslav Argenberg, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Baikal_Railway,_Railway_track,_Khabartuy_Cape,_Lake_Baikal,_Russia.jpg
+- Baikal Railway, Railway track, Russia.jpg by Vyacheslav Argenberg, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Baikal_Railway,_Railway_track,_Russia.jpg
+- TC1908 eClip Shoulder.jpg by Andy Sou, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:TC1908_eClip_Shoulder.jpg
+- Balfour Beatty relaying the up fast at Petts Wood (32892288631).jpg by Train Photos, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Balfour_Beatty_relaying_the_up_fast_at_Petts_Wood_(32892288631).jpg
+- 56102 Wakefield Kirkgate 230794.jpg by kitmasterbloke, CC BY 2.0, https://commons.wikimedia.org/wiki/File:56102_Wakefield_Kirkgate_230794.jpg
+- 56 106 at Knottingley 230794.jpg by kitmasterbloke, CC BY 2.0, https://commons.wikimedia.org/wiki/File:56_106_at_Knottingley_230794.jpg
+- Sandbox 270.JPG by RHaworth, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sandbox_270.JPG
+- Image from page 156 of "Railway and locomotive engineering - a practical journal of railway motive power and rolling stock" (1901) 2278.jpg by Internet Archive Book Images, CC0, https://commons.wikimedia.org/wiki/File:Image_from_page_156_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_(1901)_2278.jpg
+- Image from page 41 of "Railway and locomotive engineering - a practical journal of railway motive power and rolling stock" (1901) 3011.jpg by Internet Archive Book Images, CC0, https://commons.wikimedia.org/wiki/File:Image_from_page_41_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_(1901)_3011.jpg
+- R30 Rail Adhesion Car 8429.jpg by TheVintageResurrector, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:R30_Rail_Adhesion_Car_8429.jpg
+- Railhead treatment train at Heath High Level.jpg by Dai Lygad, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Railhead_treatment_train_at_Heath_High_Level.jpg
+- ESh2-001 cab 2.jpg by Д.Гришкин (пресс-служба Мэра и Правительства Москвы), CC BY 4.0, https://commons.wikimedia.org/wiki/File:ESh2-001_cab_2.jpg
+- Pilatus train driver cab.jpg by Audriusa, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Pilatus_train_driver_cab.jpg
+- Wheel tapper.jpg by Monkeypuzzle, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wheel_tapper.jpg
+- Steinbruch, 2026 Tárnok.jpg by Globetrotter19, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Steinbruch,_2026_T%C3%A1rnok.jpg
+- Brentford au printemps 2026. (91495).jpg by Rc1959, CC0, https://commons.wikimedia.org/wiki/File:Brentford_au_printemps_2026._(91495).jpg
+- DB ICE 1 München Hauptbahnhof 2015 01.jpg by Julian Herzog (Website), CC BY 4.0, https://commons.wikimedia.org/wiki/File:DB_ICE_1_M%C3%BCnchen_Hauptbahnhof_2015_01.jpg
+- Püchitz Stadelbachbrücke ICE 1-20180330-RM-120404.jpg by Ermell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:P%C3%BCchitz_Stadelbachbr%C3%BCcke_ICE_1-20180330-RM-120404.jpg
+- 20190503 The Budapest Cog-wheel Railway at Széchenyi hegy 1358 2257 DxO.jpg by Jakub Hałun, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:20190503_The_Budapest_Cog-wheel_Railway_at_Sz%C3%A9chenyi_hegy_1358_2257_DxO.jpg
+- Yorkshire Wheel Railway Museum 02.jpg by Malcolmxl5, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Yorkshire_Wheel_Railway_Museum_02.jpg
+- AAR knuckle coupler connection.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:AAR_knuckle_coupler_connection.jpg
+- Janney coupler of TR ED9052 20250120.jpg by D1114456, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Janney_coupler_of_TR_ED9052_20250120.jpg
+- AAR knuckle coupler on MBTA work car.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:AAR_knuckle_coupler_on_MBTA_work_car.jpg
+- J24 984 Janney-Kuppelkopf.jpg by Falk2, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:J24_984_Janney-Kuppelkopf.jpg
+- J22 794 Janney-Klauenkupplungen.jpg by Falk2, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:J22_794_Janney-Klauenkupplungen.jpg
+- AAR knuckle couplers April 2025.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:AAR_knuckle_couplers_April_2025.jpg
+- Freight Train Graffiti - SoCal - 5-23-2020 (49929463677).jpg by siamesepuppy, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Freight_Train_Graffiti_-_SoCal_-_5-23-2020_(49929463677).jpg
+- Luftleitung-01.jpg by Priwo, Public domain, https://commons.wikimedia.org/wiki/File:Luftleitung-01.jpg
+- RhB BDt at La Punt-Chamues-ch.jpg by Kabelleger / David Gubler (http://www.bahnbilder.ch), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:RhB_BDt_at_La_Punt-Chamues-ch.jpg
+- 2013 04 14 Re 420 213 LION 04 ROK 0625.JPG by Lord Koxinga, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2013_04_14_Re_420_213_LION_04_ROK_0625.JPG
+- Seibu Railway brake shoe shiraitodai 20230415- MG 2518.jpg by SEMISAYAMASHI, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Seibu_Railway_brake_shoe_shiraitodai_20230415-_MG_2518.jpg
+- Seibu Railway brake shoe musashigaoka 20220604- MG 0885.jpg by SEMISAYAMASHI, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Seibu_Railway_brake_shoe_musashigaoka_20220604-_MG_0885.jpg
+- Red railway signal at dusk.jpg by W.carter, CC0, https://commons.wikimedia.org/wiki/File:Red_railway_signal_at_dusk.jpg
+- Stop Signal Semaphores (7496938872).jpg by nottsexminer, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Stop_Signal_Semaphores_(7496938872).jpg
+- Morants Curve Train - Banff.jpg by Jakub Fryš, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Morants_Curve_Train_-_Banff.jpg
+- The curve from the train door.jpg by Soulful sunshine, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:The_curve_from_the_train_door.jpg
+- Malabar Train in Kadungora, Garut (curve).jpg by NFarras, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Malabar_Train_in_Kadungora,_Garut_(curve).jpg
+- ONCF DH 370 with a Casablanca - Oujda train at the Barrage Idriss 1er.jpg by Kabelleger / David Gubler (http://www.bahnbilder.ch), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:ONCF_DH_370_with_a_Casablanca_-_Oujda_train_at_the_Barrage_Idriss_1er.jpg
+- 7 train rounding the curve to Court Square September 2025.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:7_train_rounding_the_curve_to_Court_Square_September_2025.jpg
+- Train In The Curve - Mühlheim an der Donau.jpg by Dg-505, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Train_In_The_Curve_-_M%C3%BChlheim_an_der_Donau.jpg
+- Sunset Limited diesels.JPG by Southern Pacific/Smith News Company, San Francisco, Public domain, https://commons.wikimedia.org/wiki/File:Sunset_Limited_diesels.JPG
+- Sunset Limited in Alpine TX.jpg by Floppaisgood, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sunset_Limited_in_Alpine_TX.jpg
+- Bangkok skytrain sunset.jpg by User:Diliff, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Bangkok_skytrain_sunset.jpg
+- SP 6451 with Train 1, the Sunset Limited, at Lafayette, LA on January 22, 1971 (29978499383).jpg by railfan 44, Public domain, https://commons.wikimedia.org/wiki/File:SP_6451_with_Train_1,_the_Sunset_Limited,_at_Lafayette,_LA_on_January_22,_1971_(29978499383).jpg

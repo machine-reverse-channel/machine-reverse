@@ -1,0 +1,82 @@
+# Photo credits: Why Are Tunnel Boring Machines Left Underground?
+
+All photos from Wikimedia Commons.
+
+- Tunnel boring machine KTF 280 (2008).jpg by Jochen Teufel, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Tunnel_boring_machine_KTF_280_(2008).jpg
+- 2012 Eurotunnel tunnel boring machine 01.JPG by Bärbel Miemietz, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2012_Eurotunnel_tunnel_boring_machine_01.JPG
+- 2012 Eurotunnel tunnel boring machine 02.JPG by Bärbel Miemietz, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2012_Eurotunnel_tunnel_boring_machine_02.JPG
+- People welding inside the tunnel boring machine (8903739087).jpg by Eric Fischer, CC BY 2.0, https://commons.wikimedia.org/wiki/File:People_welding_inside_the_tunnel_boring_machine_(8903739087).jpg
+- Taipei MRT Xinyi Line Tunnel boring machine.jpg by Vincent Guander Wang, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Taipei_MRT_Xinyi_Line_Tunnel_boring_machine.jpg
+- Kawasaki Tunnel Boring Machine (TBM).jpg by Rainmaker47, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Kawasaki_Tunnel_Boring_Machine_(TBM).jpg
+- Tunnel Boring Machine Rachel.jpg by MyrtleGal, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tunnel_Boring_Machine_Rachel.jpg
+- The Bays Metro Station TBM.jpg by JustARandomEditor123, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:The_Bays_Metro_Station_TBM.jpg
+- Continued demolition and removal of a tunnel boring machine cutterhead that was used during a previous contract to bore the Queens tunnels. (CH058A, 10-08-19) (48919623078).jpg by MTA Capital Construction Mega Projects, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Continued_demolition_and_removal_of_a_tunnel_boring_machine_cutterhead_that_was_used_during_a_previous_contract_to_bore_the_Queens_tunnels._(CH058A,_10-08-19)_(48919623078).jpg
+- Continued demolition of the Tunnel Boring Machine Cutterhead West of the 39th Street Bridge in Harold Interlocking. 10-01-2019 (48843694698).jpg by MTA Capital Construction Mega Projects, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Continued_demolition_of_the_Tunnel_Boring_Machine_Cutterhead_West_of_the_39th_Street_Bridge_in_Harold_Interlocking._10-01-2019_(48843694698).jpg
+- Zürich - Oerlikon - Tunnelbohrmaschine IMG 0002.JPG by Roland zh, upload on 9. März 2009, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Z%C3%BCrich_-_Oerlikon_-_Tunnelbohrmaschine_IMG_0002.JPG
+- Knife and knife pan for Tunnel boring machine.jpg by PQ77wd, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Knife_and_knife_pan_for_Tunnel_boring_machine.jpg
+- Channel Tunnel Exhibition Centre, Folkestone 1992, a Tunnel Boring Machine - geograph.org.uk - 5416285.jpg by Ben Brooksbank, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Channel_Tunnel_Exhibition_Centre,_Folkestone_1992,_a_Tunnel_Boring_Machine_-_geograph.org.uk_-_5416285.jpg
+- Ashford Locomotive Works, South Eastern Railway (SER) 171 Ans 05373-0752.jpg by Unknown photographer, CC0, https://commons.wikimedia.org/wiki/File:Ashford_Locomotive_Works,_South_Eastern_Railway_(SER)_171_Ans_05373-0752.jpg
+- Nord-Süd-Stadtbahn Köln - Teil einer Schildvortriebsmaschine.jpg by Raimond Spekking, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Nord-S%C3%BCd-Stadtbahn_K%C3%B6ln_-_Teil_einer_Schildvortriebsmaschine.jpg
+- The tunnel boring machine! (8904389362).jpg by Eric Fischer, CC BY 2.0, https://commons.wikimedia.org/wiki/File:The_tunnel_boring_machine!_(8904389362).jpg
+- TGV TMST 3011-2 - Sortie Tunnel sous la Manche à Coquelles.jpg by Billy69150 (voir les conditions d'utilisation / see licensing below), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg
+- Eurotunnel Class 9705 - Sortie Tunnel sous la Manche à Coquelles.jpg by Florian Fèvre, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Eurotunnel_Class_9705_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg
+- Hallandsåstunneln TBM disc cutter - 01.jpg by Erik Lundin, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Hallands%C3%A5stunneln_TBM_disc_cutter_-_01.jpg
+- TBM Cutter Head at Cutty Sark DLR station.jpg by oyxman, CC BY 2.5, https://commons.wikimedia.org/wiki/File:TBM_Cutter_Head_at_Cutty_Sark_DLR_station.jpg
+- TBM cutter LA Metro Eastside Extension.jpg by Dorothy Peyton Gray Transportation Library and Archive at the Los Angeles County Metropolitan Transportation Authority, Public domain, https://commons.wikimedia.org/wiki/File:TBM_cutter_LA_Metro_Eastside_Extension.jpg
+- Demolition of the Tunnel Boring Machine Cutterhead West of the 39th Street Bridge in Harold Interlocking. 09-25-2019 (48805242842).jpg by MTA Capital Construction Mega Projects, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Demolition_of_the_Tunnel_Boring_Machine_Cutterhead_West_of_the_39th_Street_Bridge_in_Harold_Interlocking._09-25-2019_(48805242842).jpg
+- Preparing to remove the Tunnel Boring Machine cutterhead west of the 39th St. Bridge. (CH058A, 08-14-19) (48552742897).jpg by MTA Capital Construction Mega Projects, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Preparing_to_remove_the_Tunnel_Boring_Machine_cutterhead_west_of_the_39th_St._Bridge._(CH058A,_08-14-19)_(48552742897).jpg
+- The tunnel boring machine (8904385412).jpg by Eric Fischer, CC BY 2.0, https://commons.wikimedia.org/wiki/File:The_tunnel_boring_machine_(8904385412).jpg
+- Inside the tunnel boring machine (8904381770).jpg by Eric Fischer, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Inside_the_tunnel_boring_machine_(8904381770).jpg
+- Wewelsfleth SuedLink ElbX Tunnelsegment 20241224.jpg by Quintus Germanicus, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wewelsfleth_SuedLink_ElbX_Tunnelsegment_20241224.jpg
+- Greenwich Foot Tunnel ring segment lining and plaque.jpg by Spudgun67, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Greenwich_Foot_Tunnel_ring_segment_lining_and_plaque.jpg
+- Greenwich Foot Tunnel - ring segment lining.jpg by Spudgun67, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Greenwich_Foot_Tunnel_-_ring_segment_lining.jpg
+- Greenwich Foot Tunnel Second World War Damage Repair plaque.jpg by Spudgun67, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Greenwich_Foot_Tunnel_Second_World_War_Damage_Repair_plaque.jpg
+- Tunnel Rastatt 2025-09-20 10.jpg by Entbert, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Tunnel_Rastatt_2025-09-20_10.jpg
+- 2016 Flickr file IMG 4289 (27699434431).jpg by Richard Ash, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:2016_Flickr_file_IMG_4289_(27699434431).jpg
+- Contract No. 14, East Portion, Wachusett-Coldbrook Tunnel, West Boylston, Holden, Rutland, west end of form, Shaft 1, West Boylston, Mass., Jul. 29, 1929 - DPLA - 47440c932214c4fc9a460a3ce604fdff.jpg by Massachusetts. Metropolitan District Water Supply Commission, Remington, Carl A., 1902-1982, Public domain, https://commons.wikimedia.org/wiki/File:Contract_No._14,_East_Portion,_Wachusett-Coldbrook_Tunnel,_West_Boylston,_Holden,_Rutland,_west_end_of_form,_Shaft_1,_West_Boylston,_Mass.,_Jul._29,_1929_-_DPLA_-_47440c932214c4fc9a460a3ce604fdff.jpg
+- Ducts and the tunnel boring machine (8904359404).jpg by Eric Fischer, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Ducts_and_the_tunnel_boring_machine_(8904359404).jpg
+- Side of the tunnel boring machine (8903756043).jpg by Eric Fischer, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Side_of_the_tunnel_boring_machine_(8903756043).jpg
+- People sign the tunnel boring machine (8904376232).jpg by Eric Fischer, CC BY 2.0, https://commons.wikimedia.org/wiki/File:People_sign_the_tunnel_boring_machine_(8904376232).jpg
+- Group next to the tunnel boring machine (8903754127).jpg by Eric Fischer, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Group_next_to_the_tunnel_boring_machine_(8903754127).jpg
+- 20141120 gotthard-basistunnel02-wikipedia-hannes-ortlieb.jpg by Hannes Ortlieb (Diskussion), CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:20141120_gotthard-basistunnel02-wikipedia-hannes-ortlieb.jpg
+- SBB - Gotthard Base Tunnel GBT (29814267596).jpg by Kecko, CC BY 2.0, https://commons.wikimedia.org/wiki/File:SBB_-_Gotthard_Base_Tunnel_GBT_(29814267596).jpg
+- Rondout pressure tunnel. Section of tunnel with finished concrete lining in place. Note grout hole in arch key. Contract 12. October 6, 1910 (NYPL b13814376-435474).jpg by Scan by NYPL, Public domain, https://commons.wikimedia.org/wiki/File:Rondout_pressure_tunnel._Section_of_tunnel_with_finished_concrete_lining_in_place._Note_grout_hole_in_arch_key._Contract_12._October_6,_1910_(NYPL_b13814376-435474).jpg
+- Contract No. 14, East Portion, Wachusett-Coldbrook Tunnel, West Boylston, Holden, Rutland, steel lining, Shaft 1, West Boylston, Mass., Dec. 2, 1929 - DPLA - 78b6a4164ce5d7c6f7b82f672af558c2.jpg by Massachusetts. Metropolitan District Water Supply Commission, Remington, Carl A., 1902-1982, Public domain, https://commons.wikimedia.org/wiki/File:Contract_No._14,_East_Portion,_Wachusett-Coldbrook_Tunnel,_West_Boylston,_Holden,_Rutland,_steel_lining,_Shaft_1,_West_Boylston,_Mass.,_Dec._2,_1929_-_DPLA_-_78b6a4164ce5d7c6f7b82f672af558c2.jpg
+- Greenwich Crossrail TBM Tunnel Boring Machines.jpg by DarkestElephant, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Greenwich_Crossrail_TBM_Tunnel_Boring_Machines.jpg
+- Greenwich Crossrail TBM Tunnel Boring Machines Large.jpg by DarkestElephant, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Greenwich_Crossrail_TBM_Tunnel_Boring_Machines_Large.jpg
+- Crossrail BR 185 Hohtenn.jpg by Kabelleger / David Gubler (http://www.bahnbilder.ch), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Crossrail_BR_185_Hohtenn.jpg
+- Tottenham Court Road Crossrail works May 2009 SL2.jpg by secretlondon123, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Tottenham_Court_Road_Crossrail_works_May_2009_SL2.jpg
+- Looking up at the tunnel boring machine (8904383512).jpg by Eric Fischer, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Looking_up_at_the_tunnel_boring_machine_(8904383512).jpg
+- Group next to the tunnel boring machine (8903752241).jpg by Eric Fischer, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Group_next_to_the_tunnel_boring_machine_(8903752241).jpg
+- People welding inside the tunnel boring machine (8903737095).jpg by Eric Fischer, CC BY 2.0, https://commons.wikimedia.org/wiki/File:People_welding_inside_the_tunnel_boring_machine_(8903737095).jpg
+- Bakrigg utvendig - TBM Ulrikke.jpg by Svein Harkestad, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bakrigg_utvendig_-_TBM_Ulrikke.jpg
+- The Central Subway Tunnel Boring Machine cake (8904411276).jpg by Eric Fischer, CC BY 2.0, https://commons.wikimedia.org/wiki/File:The_Central_Subway_Tunnel_Boring_Machine_cake_(8904411276).jpg
+- More people signing the tunnel boring machine (8904363112).jpg by Eric Fischer, CC BY 2.0, https://commons.wikimedia.org/wiki/File:More_people_signing_the_tunnel_boring_machine_(8904363112).jpg
+- Bertha TBM model at Milepost 31.jpg by SounderBruce, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Bertha_TBM_model_at_Milepost_31.jpg
+- Picking up muck (6858701592).jpg by Atomic Taco from Seattle, WA, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Picking_up_muck_(6858701592).jpg
+- Just drove something Boring ⚫️ (55434314771).jpg by jurvetson, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Just_drove_something_Boring_%E2%9A%AB%EF%B8%8F_(55434314771).jpg
+- Tunnel Boring Machine.jpg by Matt Brown, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Tunnel_Boring_Machine.jpg
+- Tuneladora de la línea 11 del Metro de Madrid. Detalle.jpg by Monotensión, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tuneladora_de_la_l%C3%ADnea_11_del_Metro_de_Madrid._Detalle.jpg
+- Bertha TBM retrieval site.jpg by SounderBruce from Seattle, United States, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Bertha_TBM_retrieval_site.jpg
+- Duisburg, Bertha-Krankenhaus, 2012-07 CN-01.jpg by kaʁstn Disk/Cat, CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:Duisburg,_Bertha-Krankenhaus,_2012-07_CN-01.jpg
+- Bertha 2002-08-06 1650Z.jpg by Jacques Descloitres, MODIS Land Rapid Response Team, NASA/GSFC, Public domain, https://commons.wikimedia.org/wiki/File:Bertha_2002-08-06_1650Z.jpg
+- Downtown Seattle Transit Tunnel south portal, from Seattle Blvd.JPG by SounderBruce, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Downtown_Seattle_Transit_Tunnel_south_portal,_from_Seattle_Blvd.JPG
+- Link Light Rail train parked inside Downtown Seattle Transit Tunnel (8754014715).jpg by Sound Transit Special Selection, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Link_Light_Rail_train_parked_inside_Downtown_Seattle_Transit_Tunnel_(8754014715).jpg
+- Sainte Barbe tunnel de Cointe.jpg by Cymbella, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Sainte_Barbe_tunnel_de_Cointe.jpg
+- Notaustieg 19 Lainzer Tunnel Hl. Barbara.JPG by Linie29, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Notaustieg_19_Lainzer_Tunnel_Hl._Barbara.JPG
+- Preda - Saint Barbara (16129252735).jpg by Kecko from Switzerland (Rheintal SG), CC BY 2.0, https://commons.wikimedia.org/wiki/File:Preda_-_Saint_Barbara_(16129252735).jpg
+- Crossrail conveyer system.JPG by Marcus Rowland, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Crossrail_conveyer_system.JPG
+- London MMB E9 Crossrail Royal Oak.jpg by mattbuck (category), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:London_MMB_E9_Crossrail_Royal_Oak.jpg
+- 14-46-35-f-mutzig.jpg by Thomas Bresson, CC BY 2.0, https://commons.wikimedia.org/wiki/File:14-46-35-f-mutzig.jpg
+- London King's Cross rainbow light tunnel - 2023-06-25.jpg by The wub, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:London_King%27s_Cross_rainbow_light_tunnel_-_2023-06-25.jpg
+- Borhode - TBM Ulrikke, montering i Arna i september 2015.jpg by Svein Harkestad, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Borhode_-_TBM_Ulrikke,_montering_i_Arna_i_september_2015.jpg
+- Metro de São Paulo, Luz Station, Brazil.jpg by Wilfredor, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Metro_de_S%C3%A3o_Paulo,_Luz_Station,_Brazil.jpg
+- Gare - couloir nord (Strasbourg) (2).jpg by Gzen92, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Gare_-_couloir_nord_(Strasbourg)_(2).jpg
+- Locomotive 230G353 sortant du tunnel sous la Manche.jpg by YannickCulnard, CC0, https://commons.wikimedia.org/wiki/File:Locomotive_230G353_sortant_du_tunnel_sous_la_Manche.jpg
+- Channel Tunnel car train.jpg by Prolete, CC0, https://commons.wikimedia.org/wiki/File:Channel_Tunnel_car_train.jpg
+- SBB - Gotthard Base Tunnel GBT (29766774281).jpg by Kecko, CC BY 2.0, https://commons.wikimedia.org/wiki/File:SBB_-_Gotthard_Base_Tunnel_GBT_(29766774281).jpg
+- SBB - Gotthard Base Tunnel GBT (29556544190).jpg by Kecko, CC BY 2.0, https://commons.wikimedia.org/wiki/File:SBB_-_Gotthard_Base_Tunnel_GBT_(29556544190).jpg
+- SBB - Gotthard Base Tunnel GBT (29736370042).jpg by Kecko, CC BY 2.0, https://commons.wikimedia.org/wiki/File:SBB_-_Gotthard_Base_Tunnel_GBT_(29736370042).jpg
+- SBB - Gotthard Base Tunnel GBT (29736371792).jpg by Kecko, CC BY 2.0, https://commons.wikimedia.org/wiki/File:SBB_-_Gotthard_Base_Tunnel_GBT_(29736371792).jpg
+- SBB - Gotthard Base Tunnel GBT (29223195653).jpg by Kecko, CC BY 2.0, https://commons.wikimedia.org/wiki/File:SBB_-_Gotthard_Base_Tunnel_GBT_(29223195653).jpg
+- SBB - Gotthard Base Tunnel GBT (29556432960).jpg by Kecko, CC BY 2.0, https://commons.wikimedia.org/wiki/File:SBB_-_Gotthard_Base_Tunnel_GBT_(29556432960).jpg

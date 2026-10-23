@@ -1,0 +1,99 @@
+# Photo credits: Why Is Tank Armor Slanted?
+
+All photos from Wikimedia Commons.
+
+- Tank T-34.JPG by Cezary Piwowarski, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tank_T-34.JPG
+- T-34-85 Tank at the Imperial War Museum.jpg by Peter Trimming, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:T-34-85_Tank_at_the_Imperial_War_Museum.jpg
+- Yerevan, T-34 Tank, Mother Armenia Museum, Armenia.jpg by Vyacheslav Argenberg, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Yerevan,_T-34_Tank,_Mother_Armenia_Museum,_Armenia.jpg
+- T-34-76 Sevastopol 2012 G2.jpg by George Chernilevsky, Public domain, https://commons.wikimedia.org/wiki/File:T-34-76_Sevastopol_2012_G2.jpg
+- T-34-85 in Ulaanbaatar.jpg by Bernard Gagnon, CC0, https://commons.wikimedia.org/wiki/File:T-34-85_in_Ulaanbaatar.jpg
+- Volgograd Panorama Museum T-34-76 STZ Tank 2023-07-16 6646.jpg by Mike1979 Russia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Volgograd_Panorama_Museum_T-34-76_STZ_Tank_2023-07-16_6646.jpg
+- Volgograd Panorama Museum T-34-76 STZ Tank 2023-07-16 6648.jpg by Mike1979 Russia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Volgograd_Panorama_Museum_T-34-76_STZ_Tank_2023-07-16_6648.jpg
+- Volgograd Panorama Museum T-34-76 STZ Tank 2023-07-16 6647.jpg by Mike1979 Russia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Volgograd_Panorama_Museum_T-34-76_STZ_Tank_2023-07-16_6647.jpg
+- M1 Abrams noBG.jpg by US Military, Public domain, https://commons.wikimedia.org/wiki/File:M1_Abrams_noBG.jpg
+- Completed M1 Abrams Tank Chrysler Lima 1979.jpg by Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:Completed_M1_Abrams_Tank_Chrysler_Lima_1979.jpg
+- Glacis plate of the T-62 tank at the Military Vehicle Technology Foundation.jpg by Free Denizen, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Glacis_plate_of_the_T-62_tank_at_the_Military_Vehicle_Technology_Foundation.jpg
+- Model of a Polish T-55A tank.jpg by Simon from United Kingdom, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Model_of_a_Polish_T-55A_tank.jpg
+- T-34-76 Khmelnytskyi 2011 G3.jpg by George Chernilevsky, Public domain, https://commons.wikimedia.org/wiki/File:T-34-76_Khmelnytskyi_2011_G3.jpg
+- Vyšný Komárnik (Felsőkomárnok) - T-34-85 tank.JPG by Pudelek, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Vy%C5%A1n%C3%BD_Kom%C3%A1rnik_(Fels%C5%91kom%C3%A1rnok)_-_T-34-85_tank.JPG
+- Naro-Fominsk Tank T-34.jpg by Sergey Sebelev, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Naro-Fominsk_Tank_T-34.jpg
+- T 34 1942 noBG.jpg by https://commons.wikimedia.org/wiki/User:Butko, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:T_34_1942_noBG.jpg
+- Panzerkampfwagen V Panther Tank wreck (Ank Kumar, Infosys Limited) 03.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Panzerkampfwagen_V_Panther_Tank_wreck_(Ank_Kumar,_Infosys_Limited)_03.jpg
+- Panzerkampfwagen V Panther Tank wreck (Ank Kumar, Infosys Limited) 04.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Panzerkampfwagen_V_Panther_Tank_wreck_(Ank_Kumar,_Infosys_Limited)_04.jpg
+- Leopard 2 A7.JPG by Boevaya mashina, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Leopard_2_A7.JPG
+- Leopard 2 A5 der Bundeswehr.jpg by Bundeswehr-Fotos, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Leopard_2_A5_der_Bundeswehr.jpg
+- Leopard 2 TVM.jpg by Suit, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Leopard_2_TVM.jpg
+- 81032MID Singapore Armed Forces Leopard 2SG Tank.jpg by km30192002, CC BY 4.0, https://commons.wikimedia.org/wiki/File:81032MID_Singapore_Armed_Forces_Leopard_2SG_Tank.jpg
+- Indonesian Army Leopard 2RI Driver's Station.jpg by Re57k, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Indonesian_Army_Leopard_2RI_Driver%27s_Station.jpg
+- Leopard 2A4 IFOR missie.jpg by Staffotografen Directie Voorlichting Ministerie van Defensie, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Leopard_2A4_IFOR_missie.jpg
+- Hungary Leopard 2A7HU tank.jpg by OhanaUnitedTalk page, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hungary_Leopard_2A7HU_tank.jpg
+- M1 Abrams Turret Bustle Side Special Armor.png by U.S. Army, Public domain, https://commons.wikimedia.org/wiki/File:M1_Abrams_Turret_Bustle_Side_Special_Armor.png
+- M1-A1 Abrams Fire.jpg by U.S. Navy photo by Photographer’s Mate 1st Class Ted Banks., Public domain, https://commons.wikimedia.org/wiki/File:M1-A1_Abrams_Fire.jpg
+- M1A2 Abrams firing.jpg by Sgt. Joaquin Vasquez-Duran, Public domain, https://commons.wikimedia.org/wiki/File:M1A2_Abrams_firing.jpg
+- XM-1 Abrams during a demonstration on the test range of Fort Knox, 1979.jpg by DoD photo by: EDDIE MCCROSSAN Date Shot: 1 Dec 1979 National Archive# NN33300514 30 Jun 2005, uploader was Signaleer at en.wikipedia.org, Public domain, https://commons.wikimedia.org/wiki/File:XM-1_Abrams_during_a_demonstration_on_the_test_range_of_Fort_Knox,_1979.jpg
+- M1-A1 Abrams 1.jpg by unknown, Public domain, https://commons.wikimedia.org/wiki/File:M1-A1_Abrams_1.jpg
+- M1A1 Abrams tank equipped with tank urban survivability kit.jpg by Spc. Luke Thornberry, US Army photographer, Public domain, https://commons.wikimedia.org/wiki/File:M1A1_Abrams_tank_equipped_with_tank_urban_survivability_kit.jpg
+- Leo 2 Imp, M1 Abrams, Leclerc under strv NY utprovning 1.jpg by Sveriges försvarsmakt, PDM-owner, https://commons.wikimedia.org/wiki/File:Leo_2_Imp,_M1_Abrams,_Leclerc_under_strv_NY_utprovning_1.jpg
+- IDET2007 reactive armor DYNA.jpg by Shaddack, Public domain, https://commons.wikimedia.org/wiki/File:IDET2007_reactive_armor_DYNA.jpg
+- IDET2007 reactive armor detail1.jpg by Shaddack, Public domain, https://commons.wikimedia.org/wiki/File:IDET2007_reactive_armor_detail1.jpg
+- IDET2007 reactive armor detail2.jpg by Shaddack, Public domain, https://commons.wikimedia.org/wiki/File:IDET2007_reactive_armor_detail2.jpg
+- Destroyed T-72B3 in Tsyrkuny, north of Kharkiv, Ukraine.jpg by OSINTWiki, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Destroyed_T-72B3_in_Tsyrkuny,_north_of_Kharkiv,_Ukraine.jpg
+- PT-91 Twardy NTW 5 93 1.jpg by Tomasz Szulc, Public domain, https://commons.wikimedia.org/wiki/File:PT-91_Twardy_NTW_5_93_1.jpg
+- US M2A2 Bradley with explosive reactive armor deployed to Somalia as part of UNOSOM II.jpg by STAFF SGT. James Mossman, Public domain, https://commons.wikimedia.org/wiki/File:US_M2A2_Bradley_with_explosive_reactive_armor_deployed_to_Somalia_as_part_of_UNOSOM_II.jpg
+- USMC M60A1 with Explosive Reactive Armor.jpg by JOCS Theresa L. Dunn, USN, Public domain, https://commons.wikimedia.org/wiki/File:USMC_M60A1_with_Explosive_Reactive_Armor.jpg
+- Slat armour on the Stridsvagn 103C at the Swedish Army Museum September 2015.jpg by Nick-D, CC0, https://commons.wikimedia.org/wiki/File:Slat_armour_on_the_Stridsvagn_103C_at_the_Swedish_Army_Museum_September_2015.jpg
+- VNPA T-54M turret's slat chain armor - 092025.jpg by Somerset999, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:VNPA_T-54M_turret%27s_slat_chain_armor_-_092025.jpg
+- IDF-D9R pic001.jpg by MathKnight and Zachi Evenor, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:IDF-D9R_pic001.jpg
+- D9R-002a.jpg by MathKnight and Zachi Evenor, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D9R-002a.jpg
+- 172nd Stryker Brigade in Mosul.jpg by USAF, Public domain, https://commons.wikimedia.org/wiki/File:172nd_Stryker_Brigade_in_Mosul.jpg
+- MBT-70 turret.JPG by US Army, Public domain, https://commons.wikimedia.org/wiki/File:MBT-70_turret.JPG
+- T-54 Tank Turret. (31324252420).jpg by Mohit S from Mumbai, India, CC BY 2.0, https://commons.wikimedia.org/wiki/File:T-54_Tank_Turret._(31324252420).jpg
+- M1 Abrams Total-Tankstelle Raststätte Börde Nord.JPG by Martin Lindner, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:M1_Abrams_Total-Tankstelle_Rastst%C3%A4tte_B%C3%B6rde_Nord.JPG
+- Australian M1 Abrams fires.jpg by Mark Stroud, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Australian_M1_Abrams_fires.jpg
+- Tank gun turret.jpg by Antonov14, CC BY-SA 2.5, https://commons.wikimedia.org/wiki/File:Tank_gun_turret.jpg
+- Tank Turret cut-away.jpg by Sean O'Flaherty, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Tank_Turret_cut-away.jpg
+- Merkava-1-batey-haosef-1.jpg by No machine-readable author provided. Bukvoed assumed (based on copyright claims)., CC BY 2.5, https://commons.wikimedia.org/wiki/File:Merkava-1-batey-haosef-1.jpg
+- Merkava Mk III tank.jpg by Staselnik, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Merkava_Mk_III_tank.jpg
+- Merkava Mk III tank 01.jpg by Staselnik, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Merkava_Mk_III_tank_01.jpg
+- Merkava-Tanks-Wikipedia-02.jpg by MathKnight, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Merkava-Tanks-Wikipedia-02.jpg
+- Merkava-Tanks-Wikipedia-01.jpg by MathKnight, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Merkava-Tanks-Wikipedia-01.jpg
+- The first Israeli made Merkava 1 tanks in action on the Golan heights (FL45820712).jpg by IPPA photographer, CC BY 4.0, https://commons.wikimedia.org/wiki/File:The_first_Israeli_made_Merkava_1_tanks_in_action_on_the_Golan_heights_(FL45820712).jpg
+- The first Israeli made Merkava 1 tanks in action on the Golan heights (FL45820832).jpg by IPPA photographer, CC BY 4.0, https://commons.wikimedia.org/wiki/File:The_first_Israeli_made_Merkava_1_tanks_in_action_on_the_Golan_heights_(FL45820832).jpg
+- JGSDF Type 61 Tank periscope at Camp Imazu November 9, 2014.jpg by Hunini, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:JGSDF_Type_61_Tank_periscope_at_Camp_Imazu_November_9,_2014.jpg
+- Periscope Knob Adjustment Settings on head of tank periscope.JPG by RenseNBM, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Periscope_Knob_Adjustment_Settings_on_head_of_tank_periscope.JPG
+- Sturmgeschütz III aiming periscope RUK-museo.JPG by MKFI, Public domain, https://commons.wikimedia.org/wiki/File:Sturmgesch%C3%BCtz_III_aiming_periscope_RUK-museo.JPG
+- Tank turret (Cromwell Cantaur Tank Mk VIII) at Athens War Museum on November 22, 2022.jpg by George E. Koronaios, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tank_turret_(Cromwell_Cantaur_Tank_Mk_VIII)_at_Athens_War_Museum_on_November_22,_2022.jpg
+- Churchill tank turret in Broadwater Warren - geograph.org.uk - 5616691.jpg by Patrick Roper, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Churchill_tank_turret_in_Broadwater_Warren_-_geograph.org.uk_-_5616691.jpg
+- T-80U tank interior -04.jpg by Vitaly V. Kuzmin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:T-80U_tank_interior_-04.jpg
+- T-80U tank interior -02.jpg by Vitaly V. Kuzmin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:T-80U_tank_interior_-02.jpg
+- Leopard 2A6 Kokonaisturvallisuus 2015 03 smoke grenade launchers.JPG by MKFI, Public domain, https://commons.wikimedia.org/wiki/File:Leopard_2A6_Kokonaisturvallisuus_2015_03_smoke_grenade_launchers.JPG
+- T-90S smoke grenade launchers.jpg by Vitaly V. Kuzmin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:T-90S_smoke_grenade_launchers.jpg
+- US Army M60 tank in German village.jpg by SSGT Bob Simons, U.S. Army photo 330-CFD-DF-ST-99-04890, Public domain, https://commons.wikimedia.org/wiki/File:US_Army_M60_tank_in_German_village.jpg
+- Bovington modified type 59.JPG by Geni, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bovington_modified_type_59.JPG
+- Bovington modified type 59 2014.JPG by Geni, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bovington_modified_type_59_2014.JPG
+- British Centurion Main Battle Tank (Ank Kumar, Infosys Limited) 02.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:British_Centurion_Main_Battle_Tank_(Ank_Kumar,_Infosys_Limited)_02.jpg
+- Russian T-72A Main Battle Tank (Ank Kumar, Infosys Limited) 04.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Russian_T-72A_Main_Battle_Tank_(Ank_Kumar,_Infosys_Limited)_04.jpg
+- Kette T-34 85 IWM.jpg by HH58, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Kette_T-34_85_IWM.jpg
+- Caterpillar track shingle.JPG by JMiall, Public domain, https://commons.wikimedia.org/wiki/File:Caterpillar_track_shingle.JPG
+- Raupenkran 7.jpg by btr, CC BY-SA 2.5, https://commons.wikimedia.org/wiki/File:Raupenkran_7.jpg
+- T-34-76 Khmelnytskyi 2011 G1.jpg by George Chernilevsky, Public domain, https://commons.wikimedia.org/wiki/File:T-34-76_Khmelnytskyi_2011_G1.jpg
+- T 34 als Teil des Sowjetischen Ehrenmals Berlin (Tiergarten) 20160413- MG 0004.jpg by JoachimKohler-HB, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:T_34_als_Teil_des_Sowjetischen_Ehrenmals_Berlin_(Tiergarten)_20160413-_MG_0004.jpg
+- Caterpillar Tracks off a Vehicle.jpg by Flappy Pigeon, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Caterpillar_Tracks_off_a_Vehicle.jpg
+- John Deere tracked tractor.jpg by Wikideas1, CC0, https://commons.wikimedia.org/wiki/File:John_Deere_tracked_tractor.jpg
+- NGP 6692.jpg by Nehemia Gershuni-Aylho, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:NGP_6692.jpg
+- The first Israeli made Merkava 1 tanks in action on the Golan heights (FL45820799).jpg by IPPA photographer, CC BY 4.0, https://commons.wikimedia.org/wiki/File:The_first_Israeli_made_Merkava_1_tanks_in_action_on_the_Golan_heights_(FL45820799).jpg
+- The first Israeli made Merkava 1 tanks in action on the Golan heights (FL45820737).jpg by IPPA photographer, CC BY 4.0, https://commons.wikimedia.org/wiki/File:The_first_Israeli_made_Merkava_1_tanks_in_action_on_the_Golan_heights_(FL45820737).jpg
+- The first Israeli made Merkava 1 tanks in action on the Golan heights (FL45820772).jpg by IPPA photographer, CC BY 4.0, https://commons.wikimedia.org/wiki/File:The_first_Israeli_made_Merkava_1_tanks_in_action_on_the_Golan_heights_(FL45820772).jpg
+- The first Israeli made Merkava 1 tanks in action on the Golan heights (FL45820687).jpg by IPPA photographer, CC BY 4.0, https://commons.wikimedia.org/wiki/File:The_first_Israeli_made_Merkava_1_tanks_in_action_on_the_Golan_heights_(FL45820687).jpg
+- Russian T-72A Main Battle Tank (Ank Kumar, Infosys Limited) 01.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Russian_T-72A_Main_Battle_Tank_(Ank_Kumar,_Infosys_Limited)_01.jpg
+- Russian T-72A Main Battle Tank (Ank Kumar, Infosys Limited) 02.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Russian_T-72A_Main_Battle_Tank_(Ank_Kumar,_Infosys_Limited)_02.jpg
+- Russian T-72A Main Battle Tank (Ank Kumar, Infosys Limited) 05.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Russian_T-72A_Main_Battle_Tank_(Ank_Kumar,_Infosys_Limited)_05.jpg
+- British Centurion Main Battle Tank (Ank Kumar, Infosys Limited) 01.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:British_Centurion_Main_Battle_Tank_(Ank_Kumar,_Infosys_Limited)_01.jpg
+- Switzerland Main Battle Tank 68 (Panzer 68) in Birmenstorf, Switzerland (Ank Kumar, Infosys Limited) 02.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Switzerland_Main_Battle_Tank_68_(Panzer_68)_in_Birmenstorf,_Switzerland_(Ank_Kumar,_Infosys_Limited)_02.jpg
+- Bangladesh Army MBT-2000. (31624335826).jpg by Shadman Samee from Dhaka, Bangladesh, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Bangladesh_Army_MBT-2000._(31624335826).jpg
+- Merkeva Mk 4M - Israeli Tanks 2019-04-21 IZE-42.jpg by Zachi Evenor, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Merkeva_Mk_4M_-_Israeli_Tanks_2019-04-21_IZE-42.jpg
+- M60 (Patton) Main Battle Tank (MBT) (26594153009).jpg by Tomás Del Coro from Las Vegas, Nevada, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:M60_(Patton)_Main_Battle_Tank_(MBT)_(26594153009).jpg
+- MBT-70 Main Battle Tank - Aberdeen Proving Ground.jpg by Marc Palumbo from Narragansett, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:MBT-70_Main_Battle_Tank_-_Aberdeen_Proving_Ground.jpg
+- Italian Army - Ariete C2 main battle tank during acceptance trials 01.jpg by Italian Army, CC BY 2.5, https://commons.wikimedia.org/wiki/File:Italian_Army_-_Ariete_C2_main_battle_tank_during_acceptance_trials_01.jpg
+- Italian Army - Ariete C2 main battle tank during acceptance trials 02.jpg by Italian Army, CC BY 2.5, https://commons.wikimedia.org/wiki/File:Italian_Army_-_Ariete_C2_main_battle_tank_during_acceptance_trials_02.jpg
+- Italian Army - Ariete C2 main battle tank during acceptance trials 03.jpg by Italian Army, CC BY 2.5, https://commons.wikimedia.org/wiki/File:Italian_Army_-_Ariete_C2_main_battle_tank_during_acceptance_trials_03.jpg

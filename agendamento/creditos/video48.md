@@ -1,0 +1,102 @@
+# Photo credits: Why Is There a Pit Under Subway Tracks?
+
+All photos from Wikimedia Commons.
+
+- Underground train at new southbound Northern line platform at Bank, London on the opening day, from side corridor.jpg by Prateek Karandikar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Underground_train_at_new_southbound_Northern_line_platform_at_Bank,_London_on_the_opening_day,_from_side_corridor.jpg
+- Underground train at southbound Northern Line platform on first day of opening.jpg by Prateek Karandikar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Underground_train_at_southbound_Northern_Line_platform_on_first_day_of_opening.jpg
+- London Post Office Railway Mount Pleasant sorting office platform.jpg by Matthew Prior, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:London_Post_Office_Railway_Mount_Pleasant_sorting_office_platform.jpg
+- Railway platforms and tracks at Finchley Central Tube Station - geograph.org.uk - 4703483.jpg by PAUL FARMER, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Railway_platforms_and_tracks_at_Finchley_Central_Tube_Station_-_geograph.org.uk_-_4703483.jpg
+- Upminster Underground Station (District Line, C2C and Overground Liberty Line) Platform Overhead View.jpg by Hugh Llewelyn, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Upminster_Underground_Station_(District_Line,_C2C_and_Overground_Liberty_Line)_Platform_Overhead_View.jpg
+- LondonUndergroundEngineeringTrainAtRuislip1.jpg by Kelisi, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:LondonUndergroundEngineeringTrainAtRuislip1.jpg
+- Upminster Bridge Underground Station bench 2025-07-12.jpg by Hugh Llewelyn, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Upminster_Bridge_Underground_Station_bench_2025-07-12.jpg
+- LondonUndergroundEngineeringTrainAtRuislip4.jpg by Kelisi, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:LondonUndergroundEngineeringTrainAtRuislip4.jpg
+- King's Cross St Pancras tube station MMB 09.jpg by mattbuck (category), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:King%27s_Cross_St_Pancras_tube_station_MMB_09.jpg
+- Waterloo station MMB 21.jpg by mattbuck (category), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Waterloo_station_MMB_21.jpg
+- Bounds Green Underground Station (Piccadilly Line) - 52809713604.jpg by hugh llewelyn, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Bounds_Green_Underground_Station_(Piccadilly_Line)_-_52809713604.jpg
+- Aldwych tube station track detail.jpg by generalising, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Aldwych_tube_station_track_detail.jpg
+- Tracks and Conrail at Elephant & Castle tube station, NB Northern line.jpg by TheFrog001, CC0, https://commons.wikimedia.org/wiki/File:Tracks_and_Conrail_at_Elephant_%26_Castle_tube_station,_NB_Northern_line.jpg
+- Down in a Tube Station at Midnight (13091403883).jpg by [Duncan] from Nottingham, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Down_in_a_Tube_Station_at_Midnight_(13091403883).jpg
+- London Victoria Station.jpg by Ewan Munro from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:London_Victoria_Station.jpg
+- Victoria station MMB 14 456022.jpg by mattbuck (category), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Victoria_station_MMB_14_456022.jpg
+- Old Street Underground, London - geograph.org.uk - 3785821.jpg by wfmillar, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Old_Street_Underground,_London_-_geograph.org.uk_-_3785821.jpg
+- Old Street underground station - geograph.org.uk - 2014086.jpg by Stacey Harris, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Old_Street_underground_station_-_geograph.org.uk_-_2014086.jpg
+- NYC subway third rail.agr.jpg by ArnoldReinhold, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:NYC_subway_third_rail.agr.jpg
+- NYC subway third rail 23st IND.agr.jpg by ArnoldReinhold, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:NYC_subway_third_rail_23st_IND.agr.jpg
+- L Project Tunnel Rehabilitation Work (49821330333).jpg by Metropolitan Transportation Authority of the State of New York from United States of America, CC BY 2.0, https://commons.wikimedia.org/wiki/File:L_Project_Tunnel_Rehabilitation_Work_(49821330333).jpg
+- New York City Transit Third Rail Operations Sign.jpg by Kidfly182, CC BY 4.0, https://commons.wikimedia.org/wiki/File:New_York_City_Transit_Third_Rail_Operations_Sign.jpg
+- NYCT Crews Assess Impact after City Water Main Break (49409341591).jpg by Metropolitan Transportation Authority of the State of New York from United States of America, CC BY 2.0, https://commons.wikimedia.org/wiki/File:NYCT_Crews_Assess_Impact_after_City_Water_Main_Break_(49409341591).jpg
+- Glasgow-Subway-StadlerRear-RedLights-P1790021.jpg by Spsmiler, CC0, https://commons.wikimedia.org/wiki/File:Glasgow-Subway-StadlerRear-RedLights-P1790021.jpg
+- Third Rail for Toronto Transit Commission.jpg by Saud, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Third_Rail_for_Toronto_Transit_Commission.jpg
+- Cockfosters station centre track platform 2 and 3 look west.JPG by Sunil060902, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Cockfosters_station_centre_track_platform_2_and_3_look_west.JPG
+- 1972 Stock at Kilburn High Road 5.jpg by Oxyman, CC BY 2.5, https://commons.wikimedia.org/wiki/File:1972_Stock_at_Kilburn_High_Road_5.jpg
+- 1972 Stock at Kilburn High Road 2.jpg by Oxyman, CC BY 2.5, https://commons.wikimedia.org/wiki/File:1972_Stock_at_Kilburn_High_Road_2.jpg
+- Morden station, London Underground geograph-3789223-by-Ben-Brooksbank.jpg by Ben Brooksbank, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Morden_station,_London_Underground_geograph-3789223-by-Ben-Brooksbank.jpg
+- Why London Underground is nicknamed The Tube.jpg by SPSmiler, Public domain, https://commons.wikimedia.org/wiki/File:Why_London_Underground_is_nicknamed_The_Tube.jpg
+- Underground Rail Tracks near High Street Kensington - geograph.org.uk - 4477179.jpg by PAUL FARMER, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Underground_Rail_Tracks_near_High_Street_Kensington_-_geograph.org.uk_-_4477179.jpg
+- Hornchurch Underground Station (District Line) 2025-07-12.jpg by Hugh Llewelyn, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hornchurch_Underground_Station_(District_Line)_2025-07-12.jpg
+- Train stop.jpg by James E. Petts, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Train_stop.jpg
+- Stop Signal Semaphores (7496938872).jpg by nottsexminer, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Stop_Signal_Semaphores_(7496938872).jpg
+- Thoresby Colliery Junction Stop Signal Up Main.jpg by nottsexminer, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Thoresby_Colliery_Junction_Stop_Signal_Up_Main.jpg
+- The Thames Path near Tripcock Ness - geograph.org.uk - 6441863.jpg by Marathon, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:The_Thames_Path_near_Tripcock_Ness_-_geograph.org.uk_-_6441863.jpg
+- Train stop karlsruhe 1.jpg by Killarnee, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Train_stop_karlsruhe_1.jpg
+- Liverpool Street signal box.jpg by Oxyman, CC BY 2.5, https://commons.wikimedia.org/wiki/File:Liverpool_Street_signal_box.jpg
+- Signal box at Woodside Park Underground station - geograph.org.uk - 4947251.jpg by Marathon, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Signal_box_at_Woodside_Park_Underground_station_-_geograph.org.uk_-_4947251.jpg
+- Metro SPB Line2 Park Pobedy.jpg by Florstein (Telegram:WikiPhoto.Space), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Metro_SPB_Line2_Park_Pobedy.jpg
+- Crossrail platform at Farringdon.jpg by Tom Page from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Crossrail_platform_at_Farringdon.jpg
+- Platform screen doors (IMG 6231.jpg).jpg by Tom Page, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Platform_screen_doors_(IMG_6231.jpg).jpg
+- Metro SPB Line2 Park Pobedy pavilion.jpg by Florstein (Telegram:WikiPhoto.Space), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Metro_SPB_Line2_Park_Pobedy_pavilion.jpg
+- Metro SPB Line2 Park Pobedy After Renovation.jpg by Florstein (Telegram:WikiPhoto.Space), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Metro_SPB_Line2_Park_Pobedy_After_Renovation.jpg
+- Takatsuki station screen door closed.JPG by もんじゃ, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Takatsuki_station_screen_door_closed.JPG
+- Fuda-STA Screen-door.jpg by MaedaAkihiko, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Fuda-STA_Screen-door.jpg
+- Tactile Ground Surface Indicators at Corinda railway station along platform edge.jpg by Kgbo, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tactile_Ground_Surface_Indicators_at_Corinda_railway_station_along_platform_edge.jpg
+- Platform edge TGSIs Cultural Centre bus station Platform 1 Melbourne Street South Brisbane P1001206.jpg by John Robert McPherson, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Platform_edge_TGSIs_Cultural_Centre_bus_station_Platform_1_Melbourne_Street_South_Brisbane_P1001206.jpg
+- Platform edge warning sign Roma St Platform 3 IMGP2375.jpg by John Robert McPherson, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Platform_edge_warning_sign_Roma_St_Platform_3_IMGP2375.jpg
+- Birthplace of tactile paving 02.jpg by Phronimoi, Public domain, https://commons.wikimedia.org/wiki/File:Birthplace_of_tactile_paving_02.jpg
+- Birthplace of tactile paving 01.jpg by Phronimoi, Public domain, https://commons.wikimedia.org/wiki/File:Birthplace_of_tactile_paving_01.jpg
+- Shin-Tokorozawa Station platform edge doors 20131116.JPG by DAJF, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Shin-Tokorozawa_Station_platform_edge_doors_20131116.JPG
+- Platform edge under renovation at Shady Grove station (10063610844).jpg by Ben Schumin from Montgomery Village, Maryland, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Platform_edge_under_renovation_at_Shady_Grove_station_(10063610844).jpg
+- Gummibereifung der metro.JPG by Peter Nussbaumer, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Gummibereifung_der_metro.JPG
+- Metro de Paris - Bogie de MP 55 - 02.jpg by Clicsouris, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Metro_de_Paris_-_Bogie_de_MP_55_-_02.jpg
+- MP73 RATP Rolling stock.jpg by Maurits90, CC0, https://commons.wikimedia.org/wiki/File:MP73_RATP_Rolling_stock.jpg
+- MP 59 - Pneumatiques.jpg by Capitaine AdBlock, CC0, https://commons.wikimedia.org/wiki/File:MP_59_-_Pneumatiques.jpg
+- Paris Night.jpg by Benh LIEU SONG, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Paris_Night.jpg
+- Paris Métro Line 1 Train at Bastille.jpg by DiscoA340, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Paris_M%C3%A9tro_Line_1_Train_at_Bastille.jpg
+- Interior of a Paris Métro Line 1 Train.jpg by DiscoA340, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Interior_of_a_Paris_M%C3%A9tro_Line_1_Train.jpg
+- Southgate station southbound look north tunnel.JPG by Sunil060902, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Southgate_station_southbound_look_north_tunnel.JPG
+- Missing roundel at Bank Central line platform 2025-09-20.jpg by Matt Brown, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Missing_roundel_at_Bank_Central_line_platform_2025-09-20.jpg
+- Central Station Island Line Platform 201503.jpg by Wing1990hk, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Central_Station_Island_Line_Platform_201503.jpg
+- Qualicum Beach Station 3.jpg by Alasdair McLellan, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Qualicum_Beach_Station_3.jpg
+- Interior of a Victoria Line Train (August 2023).jpg by DiscoA340, CC0, https://commons.wikimedia.org/wiki/File:Interior_of_a_Victoria_Line_Train_(August_2023).jpg
+- London Underground train stationary at Barbican tube station platform.jpg by Oleg Yunakov, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:London_Underground_train_stationary_at_Barbican_tube_station_platform.jpg
+- London Post Office Railway tunnel loop at Mount Pleasant.jpg by Matthew Prior, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:London_Post_Office_Railway_tunnel_loop_at_Mount_Pleasant.jpg
+- Bournemouth (9453245033).jpg by Rafaela Ely, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bournemouth_(9453245033).jpg
+- Mind the Gap in Arabic.jpg by Slywire, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mind_the_Gap_in_Arabic.jpg
+- Mind the gap backwards.jpg by Matt Brown, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Mind_the_gap_backwards.jpg
+- Mind the gap sign on the southbound platform of Gunning railway station April 2026.jpg by Nick-D, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mind_the_gap_sign_on_the_southbound_platform_of_Gunning_railway_station_April_2026.jpg
+- Mind-The-Gap-Bank.jpg by Juergen Rosskamp, wiki+spam@eindruckschinderdomain.de, CC BY-SA 2.5, https://commons.wikimedia.org/wiki/File:Mind-The-Gap-Bank.jpg
+- District Line train at Westminster April 2025.jpg by 4300streetcar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:District_Line_train_at_Westminster_April_2025.jpg
+- Farringdon station MMB 22 S-Stock.jpg by mattbuck (category), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Farringdon_station_MMB_22_S-Stock.jpg
+- London Underground escalator advertising panels.jpg by The1keith, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:London_Underground_escalator_advertising_panels.jpg
+- Escalator at Knightsbridge Underground Station - geograph.org.uk - 5652795.jpg by Christine Matthews, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Escalator_at_Knightsbridge_Underground_Station_-_geograph.org.uk_-_5652795.jpg
+- Escalator London Underground.jpg by morebyless, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Escalator_London_Underground.jpg
+- Tyne Cyclist and Pedestrian Tunnel, Northern Escalator Shaft - geograph.org.uk - 6419510.jpg by Anthony Foster, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Tyne_Cyclist_and_Pedestrian_Tunnel,_Northern_Escalator_Shaft_-_geograph.org.uk_-_6419510.jpg
+- Spiral Escalator (51543110069).jpg by Hugh Llewelyn from Keynsham, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Spiral_Escalator_(51543110069).jpg
+- DZ3 1051 Looking down the empty escalator into the quiet mall below - a moment of calm before the bustle.jpg by PattayaPatrol, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:DZ3_1051_Looking_down_the_empty_escalator_into_the_quiet_mall_below_-_a_moment_of_calm_before_the_bustle.jpg
+- Escalator texture, Anděl metro station - Na Knížecí, Prague.jpg by Juan de Vojníkov, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Escalator_texture,_And%C4%9Bl_metro_station_-_Na_Kn%C3%AD%C5%BEec%C3%AD,_Prague.jpg
+- Novatorskaya - south-east ventilation shaft 2.jpg by andreitass, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Novatorskaya_-_south-east_ventilation_shaft_2.jpg
+- Ventilacni komin metra A v Sadech Svatopluka Cecha-1-2020-praha.jpg by The photonaut, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ventilacni_komin_metra_A_v_Sadech_Svatopluka_Cecha-1-2020-praha.jpg
+- Praha, Sady Svatopluka Čecha, komín.jpg by Palickap, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Praha,_Sady_Svatopluka_%C4%8Cecha,_kom%C3%ADn.jpg
+- Subway ventilation tower at Vergueiro Station - panoramio.jpg by Duplode, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Subway_ventilation_tower_at_Vergueiro_Station_-_panoramio.jpg
+- 39th Av IND Ventilation Complex td (2024-08-01) 02b.jpg by Tdorante10, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:39th_Av_IND_Ventilation_Complex_td_(2024-08-01)_02b.jpg
+- MTA Hillside Av East 20.jpg by Tdorante10, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:MTA_Hillside_Av_East_20.jpg
+- MTA Hillside Av East 22.jpg by Tdorante10, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:MTA_Hillside_Av_East_22.jpg
+- London Underground platforms at Whitechapel station, August 2021 01.jpg by TheFrog001, CC0, https://commons.wikimedia.org/wiki/File:London_Underground_platforms_at_Whitechapel_station,_August_2021_01.jpg
+- Platform screen doors on the London Underground, 2011.jpg by Tom Page, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Platform_screen_doors_on_the_London_Underground,_2011.jpg
+- London Overground and Underground trains at Kew Gardens, with footbridge.jpg by Daniel Case, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:London_Overground_and_Underground_trains_at_Kew_Gardens,_with_footbridge.jpg
+- Hornchurch London Underground station - geograph.org.uk - 7638291.jpg by Richard Vince, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Hornchurch_London_Underground_station_-_geograph.org.uk_-_7638291.jpg
+- London Underground 2009 Stock front.jpg by Tom Page from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:London_Underground_2009_Stock_front.jpg
+- London Underground C Stock 5516 on District Line, Ealing Common (13953435968).jpg by Au Morandarte from London, Middlesex, England, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:London_Underground_C_Stock_5516_on_District_Line,_Ealing_Common_(13953435968).jpg
+- Metro de São Paulo, Luz Station, Brazil.jpg by Wilfredor, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Metro_de_S%C3%A3o_Paulo,_Luz_Station,_Brazil.jpg
+- High Capacity Metro Train on Metro Tunnel opening day at Malvern station.jpg by Alison Newman, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:High_Capacity_Metro_Train_on_Metro_Tunnel_opening_day_at_Malvern_station.jpg
+- Trains leaving Hůrka station 2.jpg by AVDLCZ, CC0, https://commons.wikimedia.org/wiki/File:Trains_leaving_H%C5%AFrka_station_2.jpg
+- Taipei Metro's train entering the tunnel below Songshan Airport.jpg by Chi-Hung Lin, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Taipei_Metro%27s_train_entering_the_tunnel_below_Songshan_Airport.jpg
