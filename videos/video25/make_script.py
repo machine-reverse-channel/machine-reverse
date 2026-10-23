@@ -121,6 +121,16 @@ sc("""A rally car looks like a normal car with stickers. Underneath, almost ever
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Cersanitrallyteam01 (cropped).JPG", 0.72, 0.6),
+    2: ("File:Flickr - bjmullan - Colin McRae's Subaru Legacy Rally car (12).jpg", 0.3, 0.4),
+    3: ("File:Subaru Impreza WRC at Goodwood 2014 002 (cropped).jpg", 0.2, 0.78),
+    4: ("File:2014 Rally Italia Sardegna 20 Paddon-Kennard.jpg", 0.42, 0.75),
+    5: ("File:2014 Rally Italia-Sardegna 3 K.Meeke-P.Nagle.jpg", 0.1, 0.43),
+    6: ("File:2014 Rally Italia Sardegna 20 Paddon-Kennard.jpg", 0.47, 0.16),
+    7: ("File:1994 Lancia Delta Integrale Evo 2 rally-style interior (replica).jpg", 0.7, 0.5),
+    8: ("File:Toyota Yaris GR WRC, GIMS 2019, Le Grand-Saconnex (GIMS0534).jpg", 0.5, 0.8),
+    9: ("File:2019 Rally Sweden - Lappi.jpg", 0.42, 0.7),
+    10: ("File:Hyundai Fourmaux and co driver at rally Acropolis.jpg", 0.72, 0.45),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None

@@ -24,10 +24,14 @@
    "text": "Why don't rally cars break when they land a jump? Because of the suspension. A gravel rally car has far more suspension travel than a road car, often more than twenty centimetres. When it lands, the wheels can move up a long way into the body before anything hits. The springs and dampers absorb the energy of a landing that would bend a normal car.",
    "query": "rally car suspension",
    "caption": "WHY DOESN'T THIS CAR BREAK WHEN IT FLIES?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.72,
+    "y": 0.6
+   },
    "chapter": "1. The long suspension",
    "short": "Why Don't Rally Cars Break When They Fly?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Cersanitrallyteam01 (cropped).JPG"
   },
   {
    "text": "The dampers are the secret. They are big, adjustable units, often costing thousands of dollars each, with separate settings for slow movements, like the body rolling in a corner, and fast movements, like a wheel hitting a rock. Teams change the settings for every rally, and sometimes during the day. A rally car on gravel rides high, soft and long legged, almost like an off road truck.",
@@ -43,10 +47,14 @@
    "text": "Why is the inside of a rally car full of metal pipes? This is the roll cage, steel tubes welded to the body, running around the doors, over the heads of the crew and down to the floor. When a rally car rolls over, and many do, the cage keeps the roof from collapsing onto the driver and co-driver. It also makes the whole body much stiffer.",
    "query": "rally car roll cage",
    "caption": "WHY IS THE INSIDE FULL OF PIPES?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.3,
+    "y": 0.4
+   },
    "chapter": "2. The roll cage",
    "short": "Why Are Rally Cars Full of Metal Pipes Inside?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Flickr - bjmullan - Colin McRae's Subaru Legacy Rally car (12).jpg"
   },
   {
    "text": "The cage is built to strict FIA rules. The tubes have minimum sizes and thicknesses, and the design is tested and approved. In modern cars, there are extra bars inside the doors, because side impacts against trees are one of the most dangerous accidents in rally. A road car is designed to crumple and absorb a crash. A rally car is designed to survive many crashes in a single season.",
@@ -62,10 +70,14 @@
    "text": "Why do rally cars have a metal plate underneath? It is the sump guard, also called the skid plate. A thick plate of aluminium or composite covers the engine, the gearbox and the important pipes under the car. On a gravel road, a rally car hits rocks, ruts and the ground itself after jumps. Without the guard, one rock could punch a hole in the engine.",
    "query": "rally car underbody protection",
    "caption": "WHY IS THERE ARMOUR UNDER THIS CAR?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.2,
+    "y": 0.78
+   },
    "chapter": "3. The underbody shield",
    "short": "Why Do Rally Cars Have Armour Underneath?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Subaru Impreza WRC at Goodwood 2014 002 (cropped).jpg"
   },
   {
    "text": "The plate is designed to slide. When the car lands hard or scrapes over a crest, the guard takes the hit and lets the car glide over the obstacle instead of catching on it. After each stage, mechanics often find deep scratches in the plate, and sometimes they replace it completely in the service park. It is the part that sacrifices itself so the engine does not have to.",
@@ -81,10 +93,14 @@
    "text": "Why do rally cars have big flaps behind the wheels? Because spinning tyres on gravel throw stones like a machine gun. A rally car accelerating on a loose surface fires rocks backwards at high speed. The mud flaps catch them. The rules require them on gravel, to protect the car's own body, and everyone standing near the road.",
    "query": "rally car mud flaps",
    "caption": "WHY DO RALLY CARS HAVE THESE FLAPS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.42,
+    "y": 0.75
+   },
    "chapter": "4. The mud flaps",
    "short": "Why Do Rally Cars Have Big Mud Flaps?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:2014 Rally Italia Sardegna 20 Paddon-Kennard.jpg"
   },
   {
    "text": "Rally fans often stand very close to the stages, and the cars pass at full speed. A stone thrown from a wheel can be dangerous. The flaps are thick, flexible and long enough to stop most of the gravel. They also stop the car from blasting its own rear bodywork and windows with stones, which would break parts of the car during a stage.",
@@ -100,10 +116,14 @@
    "text": "Why do some rally cars have a giant set of lights on the bonnet? Because some stages are run at night, on narrow roads in forests or mountains, with no street lights. A normal car's headlights are not enough at more than one hundred fifty kilometres per hour. The light pod carries several powerful lamps, aimed at different angles, to light the road far ahead and the edges of the corners.",
    "query": "rally car night lights",
    "caption": "WHY DOES THIS CAR HAVE EXTRA LIGHTS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.1,
+    "y": 0.43
+   },
    "chapter": "5. The light pod",
    "short": "Why Do Rally Cars Have Giant Lights on the Front?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:2014 Rally Italia-Sardegna 3 K.Meeke-P.Nagle.jpg"
   },
   {
    "text": "Each lamp has a job. Some throw a long, narrow beam to see far down a straight. Others are wide, to light the inside of the corner the car is turning into. The pod is bolted onto the front for night stages and removed for day stages, to save weight and air resistance. Modern pods use LEDs, which are lighter and brighter than the old lamps.",
@@ -119,10 +139,14 @@
    "text": "Why is there an air scoop on the roof of a rally car? To keep the crew from cooking. The windows of a rally car stay closed on the stages, because open windows let in dust, stones and branches. The engine, the gearbox and the exhaust are all close to the cabin, and on a hot rally the temperature inside can be extremely high. The scoop forces fresh air into the cabin.",
    "query": "rally car roof scoop",
    "caption": "WHY IS THERE A SCOOP ON THE ROOF?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.47,
+    "y": 0.16
+   },
    "chapter": "6. The roof scoop",
    "short": "Why Is There an Air Scoop on a Rally Car's Roof?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:2014 Rally Italia Sardegna 20 Paddon-Kennard.jpg"
   },
   {
    "text": "The roof is the best place for it. The air there is clean and fast, away from the dust thrown up by the wheels. The scoop pushes the air down through a vent into the cockpit, where it blows over the driver and co-driver. In rallies like Mexico, Kenya or Greece, where the heat is intense, that flow of air helps them stay focused through long stages.",
@@ -138,10 +162,14 @@
    "text": "Why do rally cars have a tall handbrake lever next to the driver? It is a hydraulic handbrake, used to turn the car, not to park it. In a tight hairpin, the driver pulls the lever, the rear wheels lock for an instant, and the back of the car swings around. The car rotates much faster than it would by steering alone.",
    "query": "rally car hydraulic handbrake",
    "caption": "WHY IS THIS HANDBRAKE SO TALL?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.7,
+    "y": 0.5
+   },
    "chapter": "7. The tall handbrake",
    "short": "Why Do Rally Cars Have a Giant Handbrake?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:1994 Lancia Delta Integrale Evo 2 rally-style interior (replica).jpg"
   },
   {
    "text": "The lever is tall so the driver can grab it quickly, without looking, while the other hand stays on the wheel. In a four wheel drive rally car, pulling it also disconnects the drive to the rear wheels for a moment, so they can lock without fighting the engine. Let go, and the drive comes back as the car points to the exit.",
@@ -157,10 +185,14 @@
    "text": "Why do rally cars bang, pop and shoot flames from the exhaust? It is the anti-lag system. A turbo engine has a delay. When the driver lifts off the throttle, the turbo slows down, and when he accelerates again, it takes a moment to spin back up. On a twisty rally road, with constant braking and accelerating, that delay would cost a lot of time.",
    "query": "rally car exhaust flames",
    "caption": "WHY DOES THIS CAR BANG AND POP?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.8
+   },
    "chapter": "8. The anti-lag system",
    "short": "Why Do Rally Cars Bang and Shoot Flames?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Toyota Yaris GR WRC, GIMS 2019, Le Grand-Saconnex (GIMS0534).jpg"
   },
   {
    "text": "Anti-lag keeps the turbo spinning even when the driver is off the throttle. The engine lets a little air through and adds fuel late, so it burns in the exhaust before the turbo. The explosions keep the turbo turning at high speed. When the driver touches the throttle again, the boost is there immediately. The bangs you hear in the forest are those explosions.",
@@ -176,10 +208,14 @@
    "text": "Why do rally tyres have metal spikes? These are the studded tyres used on snow and ice, especially at Rally Sweden. Hundreds of small metal studs stick out of each tyre. On ice, a normal tyre has almost no grip. The studs dig into the ice like the claws of an animal, giving the car grip in places where you could barely stand.",
    "query": "rally studded tyre",
    "caption": "WHY DO THESE TYRES HAVE SPIKES?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.42,
+    "y": 0.7
+   },
    "chapter": "9. The studded tyres",
    "short": "Why Do Rally Tyres Have Metal Spikes?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:2019 Rally Sweden - Lappi.jpg"
   },
   {
    "text": "With studs, rally cars race on frozen roads at speeds above one hundred eighty kilometres per hour. In Sweden, the roads are lined with snow banks, and drivers lean the car against them in corners, using the snow as a wall. The studs wear down during a stage, and the tyre rules limit how many studs each tyre can have and how far they may stick out.",
@@ -195,10 +231,14 @@
    "text": "Why is the passenger in a rally car reading a notebook at full speed? These are the pace notes, and the passenger is the co-driver. Before the rally, the crew drives each stage slowly, writing a description of every corner, crest and jump. During the stage, the co-driver reads the notes out loud, a few seconds ahead, so the driver knows what is coming before he can see it.",
    "query": "rally co-driver pace notes",
    "caption": "WHY IS THE PASSENGER READING A BOOK?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.72,
+    "y": 0.45
+   },
    "chapter": "10. The pace notes",
    "short": "Why Does the Rally Co-Driver Read a Notebook?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Hyundai Fourmaux and co driver at rally Acropolis.jpg"
   },
   {
    "text": "The notes are written in a code. Many crews use numbers for how tight each corner is, along with words like crest, don't cut, or over jump, and the distance to the next instruction. A sentence like six left, into four right, don't cut, describes a corner sequence in two seconds. The driver trusts the voice so completely that he drives flat out over crests he cannot see beyond.",
