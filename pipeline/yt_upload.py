@@ -66,7 +66,9 @@ def main(mode):
     if mode == "check":
         r = requests.get("https://www.googleapis.com/youtube/v3/channels?part=snippet,status&mine=true",
                          headers={"Authorization": f"Bearer {tok}"}, timeout=30); r.raise_for_status()
-        for c in r.json().get("items", []): print("channel:", c["snippet"]["title"], c["id"], c.get("status", {}))
+        lines = [f"channel: {c['snippet']['title']} {c['id']} {c.get('status', {})}" for c in r.json().get("items", [])]
+        print("\n".join(lines) or "no channel on this account")
+        open("agendamento/youtube-check.txt", "w").write("\n".join(lines) or "no channel on this account")
         return
     if mode == "status":
         ids = ",".join(x["id"] for x in json.loads(STATE.read_text()).values() if "id" in x)
