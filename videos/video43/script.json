@@ -24,10 +24,14 @@
    "text": "Why do some oil rigs lift themselves out of the water? They are called jack-ups. The rig floats to the site like a barge, with its long legs pointing to the sky. Then motors walk the legs down to the sea floor, and keep pushing until the whole hull rises out of the sea. Now the rig stands on the bottom like a table, high enough that the biggest waves pass underneath it.",
    "query": "jack-up rig legs",
    "caption": "WHY DOES THIS RIG LIFT ITSELF UP?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.22,
+    "y": 0.35
+   },
    "chapter": "1. The legs that climb",
    "short": "Why Do Some Oil Rigs Lift Themselves Out of the Water?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Jackup Rig - Galveston TX.jpg"
   },
   {
    "text": "At the bottom of each leg is a big foot called a spud can, shaped a bit like an upside down cone. Before drilling, the crew fills tanks with seawater to make the rig much heavier than normal. This is called preloading. It pushes the feet deep into the seabed and tests the soil. If the ground is going to give way, it is much better to find out now, slowly, than later in a storm.",
@@ -62,10 +66,14 @@
    "text": "Why do some platforms sit on one huge vertical tube? They are called spars, and they work like a fishing float. The tube is very long, most of it underwater, and its bottom is heavy, so the center of gravity sits far below the center of buoyancy. Like a float with a weight at the bottom, it always wants to stand upright. And because most of it is deep below the waves, the surface motion barely moves it.",
    "query": "spar platform offshore",
    "caption": "WHY IS THIS PLATFORM A GIANT TUBE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.31,
+    "y": 0.72
+   },
    "chapter": "3. The giant fishing float",
    "short": "Why Do Some Oil Platforms Float on a Giant Tube?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Shell Perdido deepwater offshore production platform (51115227891).jpg"
   },
   {
    "text": "The first production spar, Neptune, was installed in the Gulf of Mexico in nineteen ninety-six. One of the most famous, Perdido, floats over water about two thousand four hundred fifty meters deep, around eight thousand feet. Its hull is about one hundred seventy meters long, taller than many skyscrapers, and it was towed to the site lying on its side, then flooded to flip upright.",
@@ -81,10 +89,14 @@
    "text": "Why doesn't this platform need any anchors at all? Because it is simply too heavy to move. It is a gravity-based structure, a giant made of reinforced concrete that sits on the sea floor and is held down by its own weight. The most famous is Troll A in Norway. Its total height is about four hundred seventy-two meters, and in nineteen ninety-five it was towed out to sea, becoming one of the tallest structures ever moved by humans.",
    "query": "Troll A platform",
    "caption": "WHY DOESN'T THIS PLATFORM NEED ANCHORS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.48,
+    "y": 0.8
+   },
    "chapter": "4. The concrete giant",
    "short": "Why Doesn't This Giant Platform Need Anchors?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Troll A Platform.jpg"
   },
   {
    "text": "Troll A stands in about three hundred meters of water, so most of it is hidden below the surface. Concrete giants like this were built standing in deep, sheltered Norwegian fjords. The base was built first, then flooded to sink lower and lower while the walls grew taller. When finished, the whole thing was floated out using air in its big hollow cells, and then flooded again to settle on the seabed.",
@@ -93,22 +105,27 @@
   },
   {
    "text": "In Canada, the Hibernia platform uses the same idea for another reason, icebergs. Its gravity base has an ice wall with teeth designed to resist the impact of an iceberg. It sits off Newfoundland, in the stretch of the North Atlantic called Iceberg Alley. When you cannot move out of the way, you become a wall.",
-   "query": "Hibernia platform",
+   "query": "iceberg Newfoundland",
    "caption": "BECOME A WALL"
   },
   {
    "text": "Why do floating rigs need so many anchors? A semi-submersible rig floats on giant pontoons deep under the water, with columns rising up to the deck. Because the pontoons are below the waves, it moves much less than a ship. But it still floats, so it is held in place by eight, ten or more anchor lines spread around it. Each link of the chain can be the size of a person's torso.",
    "query": "semi-submersible drilling rig",
-   "caption": "WHY DOES THIS RIG HAVE SO MANY ANCHORS?",
-   "arrow": true,
+   "caption": "WHY DO FLOATING RIGS NEED THESE CHAINS?",
+   "arrow": {
+    "x": 0.35,
+    "y": 0.65
+   },
    "chapter": "5. The anchor lines",
    "short": "Why Do Floating Oil Rigs Need So Many Anchors?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Ramn\u00e4s bruk AB 5.jpg"
   },
   {
    "text": "A floating rig is only as strong as its structure. In nineteen eighty, the semi-submersible Alexander L. Kielland, used as a floating hotel for oil workers in the North Sea, capsized in a storm. One of its bracing tubes broke. The investigation found a fatigue crack that had started at a poorly made weld around a small fitting. One hundred twenty-three people died.",
    "query": "Alexander L. Kielland",
-   "caption": "ONE SMALL WELD"
+   "caption": "ONE SMALL WELD",
+   "file": "File:Alexander L Kielland and Edda 2-7C NOMF-02663-1-650.jpg"
   },
   {
    "text": "That disaster changed the rules for offshore structures, with more redundancy so that one broken member cannot capsize a rig, and better lifeboats and evacuation. Offshore engineering is full of lessons like this. A platform is designed to survive the hundred-year wave. The real danger is often a small crack nobody saw.",
@@ -119,10 +136,14 @@
    "text": "Why do some drilling ships have propellers pointing in every direction, when they never go anywhere? Because in very deep water, anchors become impractical. So these ships use dynamic positioning. Satellite navigation, motion sensors and wind sensors feed a computer, which constantly adjusts six or more thrusters to push against the wind, waves and current. The ship can hold its position over a well within a few meters, without touching the bottom.",
    "query": "dynamic positioning thruster",
    "caption": "WHY 6 PROPELLERS TO STAND STILL?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.42,
+    "y": 0.4
+   },
    "chapter": "6. The propellers that hold still",
    "short": "Why Do Drillships Have Propellers Pointing Everywhere?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Siemens Schottel Propulsor.jpg"
   },
   {
    "text": "The idea started early. In nineteen sixty-one, the drilling vessel CUSS One drilled into the sea floor off Mexico for Project Mohole, holding position with steerable propellers while operators watched buoys and radar. Today, the system is fully automated and has backups for its backups, because a drillship that drifts off position while connected to a well is an emergency.",
@@ -138,10 +159,14 @@
    "text": "Why is there a big hole in the middle of a drilling ship? It is called the moonpool, an opening straight through the hull, from the deck down to the sea. The drill pipe, the riser and the equipment go down through it, protected from the waves at the sides of the ship. Supposedly the name comes from the moonlight reflecting on the water inside it at night.",
    "query": "drillship moonpool",
    "caption": "WHY IS THERE A HOLE IN THIS SHIP?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.45
+   },
    "chapter": "7. The hole in the middle",
    "short": "Why Do Drillships Have a Hole in the Middle?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:2025 07 24 Oc\u00e9an Arctique \u00e9quipage en action David Monmarch\u00e9 plong\u00e9e Moon Pool P1005493.jpg"
   },
   {
    "text": "But there is another problem. The ship rises and falls with the waves, sometimes by several meters, while the drill bit is kilometers below, trying to press on the rock with a steady force. So the drill string hangs from a heave compensator, a system of giant cylinders and pressurized gas that works like a shock absorber, letting the ship move up and down while the pipe stays steady.",
@@ -157,10 +182,14 @@
    "text": "Why does every offshore well have a building-sized valve sitting on the sea floor? It is the blowout preventer. If gas or oil rushes up the well uncontrolled, the crew can close it. Some of its parts squeeze rubber around the pipe, and the strongest, called shear rams, are designed to cut straight through the drill pipe and seal the well completely. It is the last line of defense.",
    "query": "blowout preventer",
    "caption": "WHY DOES THIS VALVE SIT ON THE SEA FLOOR?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.35,
+    "y": 0.45
+   },
    "chapter": "8. The giant valve",
    "short": "Why Is There a Giant Valve on the Sea Floor?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Blowout Preventer (BOP).jpg"
   },
   {
    "text": "On April twentieth, twenty ten, the Deepwater Horizon rig in the Gulf of Mexico suffered a blowout. Gas reached the rig and exploded, and eleven workers died. The blowout preventer was activated but failed to seal the well. Investigators found that the drill pipe had been pushed off center, so the shear rams could not cut and seal it properly. Oil flowed into the Gulf for eighty-seven days.",
@@ -176,10 +205,14 @@
    "text": "Why do many oil platforms have a long arm with a flame burning at the end? It is the flare. The most important reason is safety. If pressure builds up somewhere in the process, or if there is an emergency, gas has to go somewhere. Releasing it unburned near a platform full of people and engines could create an explosive cloud. So it is sent to the end of the boom, far from the deck, and burned.",
    "query": "oil platform flare stack",
    "caption": "WHY DOES THIS PLATFORM BURN A FLAME?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.15,
+    "y": 0.25
+   },
    "chapter": "9. The flame on the boom",
    "short": "Why Do Oil Platforms Have a Burning Flame?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Gullfaks Alpha.jpg"
   },
   {
    "text": "The boom sticks out far from the platform, and it is often placed so that the wind usually blows the heat away. In an emergency, a platform can send large amounts of gas to the flare in minutes, called blowdown, to empty dangerous equipment quickly. A small pilot flame often burns all the time, so the flare is always ready to light.",
@@ -195,10 +228,14 @@
    "text": "Why are some lifeboats on oil platforms pointing down at the sea, like a ride at an amusement park? They are free-fall lifeboats. Instead of being lowered slowly by ropes, they slide off a ramp and drop straight into the water, sometimes from more than twenty or thirty meters. They hit the water nose first, dive, and come up already moving away from the platform.",
    "query": "free fall lifeboat",
    "caption": "WHY IS THIS LIFEBOAT POINTING DOWN?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.62,
+    "y": 0.45
+   },
    "chapter": "10. The lifeboat that falls",
    "short": "Why Do Oil Rig Lifeboats Drop Into the Sea?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Freefall lifeboat.JPG"
   },
   {
    "text": "Why drop people from that height? Because on a burning or capsizing platform, slow lowering can be deadly. Ropes can jam, the boat can swing into the structure, and waves can smash it against the legs. A free-fall boat leaves in seconds and gets away from the danger. The seats face backward with strong harnesses, so the crew can survive the impact.",

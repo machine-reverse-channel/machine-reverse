@@ -24,10 +24,14 @@
    "text": "Why do port cranes lift their long arms straight up into the sky? Because when a ship arrives or leaves, the arm, called the boom, would be right in the way. The boom sticks out far over the water to reach across the ship. A ship's bridge, its masts and antennas can stand dozens of meters tall. So the boom is hinged near the crane, and big cables pull it up until it points at the sky, leaving the berth free for the ship to slide in.",
    "query": "container crane boom raised",
    "caption": "WHY DOES THIS ARM FOLD UP?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.37,
+    "y": 0.2
+   },
    "chapter": "1. The arm that folds up",
    "short": "Why Do Port Cranes Raise Their Arms?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Portainers, WPAhoi, Waltershofer Hafen, Hamburg (P1080572).jpg"
   },
   {
    "text": "Once the ship is tied up, the boom comes back down and becomes a bridge over the deck. A small cart called the trolley runs along it, carrying the container from the ship to the shore. On the biggest cranes, the boom reaches about seventy meters out over the water, more than two hundred feet. That is the length needed to grab the farthest box on the farthest side of the widest ships.",
@@ -43,10 +47,14 @@
    "text": "Why are container cranes so tall? Because the ships keep growing. The biggest container ships today are about four hundred meters long and more than sixty meters wide. They carry boxes stacked up to around ten high below deck and about ten high above deck, and twenty-four rows across. To lift the top box over the top of the stack, the crane needs a lifting height of around fifty meters above the rails, as tall as a fifteen-story building.",
    "query": "Panamax container crane",
    "caption": "WHY IS THIS CRANE SO TALL?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.28,
+    "y": 0.25
+   },
    "chapter": "2. The height",
    "short": "Why Are Container Cranes So Tall?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Hamburg Hafen Containerterminal.jpg"
   },
   {
    "text": "In the nineteen eighties, many cranes were built for Panamax ships, the biggest that could fit through the old locks of the Panama Canal, about thirteen containers across. Then came post-Panamax ships, and then super post-Panamax. Many ports had to buy new cranes, or literally raise their old cranes, cutting the legs and inserting new steel sections to make them taller.",
@@ -62,10 +70,14 @@
    "text": "Why does the crane hold a container with a flat steel frame instead of a hook? That frame is called a spreader. At each corner it has a pin called a twistlock. The spreader lands on top of the box, the four pins drop into four holes, and then each pin rotates ninety degrees. Its head is now crossways inside the hole, and it cannot come out. The box is locked. No ropes, no hooks, no workers on top. It takes seconds.",
    "query": "container crane spreader",
    "caption": "WHY DOES THIS FRAME HAVE 4 PINS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.33
+   },
    "chapter": "3. The spreader",
    "short": "Why Do Port Cranes Use 4 Pins Instead of a Hook?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Lifted container 01.jpg"
   },
   {
    "text": "The spreader is also telescopic. In a few seconds, it can stretch from the size of a twenty-foot container to a forty-foot or forty-five-foot one. Many can even lift two twenty-foot boxes at once, and some cranes carry two forty-foot boxes side by side. Sensors tell the operator when all four twistlocks are seated, and a lift is blocked until they are.",
@@ -81,10 +93,14 @@
    "text": "Why does every shipping container in the world have the same holes at its corners? They are called corner castings, solid steel blocks with oval openings. They are where the twistlocks grab the box, where boxes lock to each other in a stack, and where they lock onto trucks and trains. And their size and position are set by international standards, so a box from China fits a crane in Germany and a truck in Brazil.",
    "query": "container corner casting",
    "caption": "WHY DOES EVERY CONTAINER HAVE THESE HOLES?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.35
+   },
    "chapter": "4. The corner holes",
    "short": "Why Does Every Shipping Container Have Holes in the Corners?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Container twistlock connector.agr.jpg"
   },
   {
    "text": "This standard is the real invention. Malcom McLean's containers worked because they were all the same, and in the nineteen sixties the industry agreed on standard sizes, now set by the International Organization for Standardization. The most common box is twenty or forty feet long and eight feet wide. That is why port capacity is measured in TEU, twenty-foot equivalent units.",
@@ -100,10 +116,14 @@
    "text": "Why does the crane operator sit in a cabin with a glass floor? Because the operator's job is to look straight down. The cabin hangs under the trolley and travels with it, high above the ship. The operator sits leaning forward, watching the spreader drop into a narrow slot dozens of meters below, with only a few centimeters to spare. Doing that for hours, in wind and at night, takes enormous skill and concentration.",
    "query": "container crane operator cabin",
    "caption": "WHY DOES THIS CABIN HAVE A GLASS FLOOR?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.6
+   },
    "chapter": "5. The cabin with a glass floor",
    "short": "Why Do Crane Operators Sit Over a Glass Floor?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Good view from up here ... ABP Crane Driver's Cabin at Southampton - geograph.org.uk - 3057631.jpg"
   },
   {
    "text": "The spreader swings like a pendulum when the trolley stops. Modern cranes have anti-sway systems that move the trolley in a smart way to cancel the swing, the same idea as moving your hand under a hanging object to keep it still. Still, wind, rain and a moving ship make every lift a little different. Crane operators are among the best paid workers in many ports.",
@@ -119,10 +139,14 @@
    "text": "Why does a port crane stand on so many wheels? Because it weighs as much as a small ship, and it has to move. The crane rolls along two rails that run the length of the dock, so it can line up with any row of boxes on the ship. Its weight, plus the load and the force of the wind, is spread over many small wheels grouped at each leg, because a few large wheels would crush the dock.",
    "query": "container crane rail wheels",
    "caption": "WHY DOES THIS CRANE NEED SO MANY WHEELS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.38,
+    "y": 0.85
+   },
    "chapter": "6. The wheels and rails",
    "short": "Why Do Port Cranes Need So Many Wheels?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Ship-to-shore cranes at the Davao International Container Terminal.jpg"
   },
   {
    "text": "The legs are far apart, often around thirty meters, so trucks and vehicles can drive between them and park right under the crane. The dock itself is a serious piece of engineering, often built on deep piles, because it must carry these moving giants plus stacks of loaded containers right at the edge of deep water.",
@@ -138,10 +162,14 @@
    "text": "Why do new port cranes often cross the ocean already standing up? Because building them in one factory and shipping them complete is faster and cheaper than assembling them piece by piece at the port. Special heavy-lift ships carry two, three or more giant cranes standing on deck, fully assembled. Most of the world's large ship-to-shore cranes come from one Chinese company, ZPMC.",
    "query": "ZPMC crane ship delivery",
    "caption": "WHY IS THIS SHIP CARRYING CRANES?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.35
+   },
    "chapter": "7. Cranes that cross the ocean",
    "short": "Why Are Port Cranes Shipped Fully Assembled?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:The Zhen Hua 24 delivers four new Neo-Panamax cranes to Baltimore - 210909-G-XD768-003.jpg"
   },
   {
    "text": "The trip can be tricky. Cranes arriving in San Francisco Bay have had to wait for the right tide and conditions to pass under the Golden Gate Bridge with very little clearance. At the destination, the cranes are rolled off the ship onto the dock's rails. A port can go from an empty berth to working cranes in a matter of weeks.",
@@ -157,10 +185,14 @@
    "text": "Why are port cranes chained to the ground before a storm? Because a crane on rails is a giant sail on wheels. A strong wind can push it along its rails, or even tip it over. So every crane has storm anchors. Heavy pins drop into holes in the dock, and tie-downs connect the legs to anchors in the concrete. An anemometer at the top measures the wind, and above a certain speed, work must stop.",
    "query": "container crane storm tie down",
    "caption": "WHY IS THIS CRANE CHAINED DOWN?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.32,
+    "y": 0.88
+   },
    "chapter": "8. The storm anchors",
    "short": "Why Are Port Cranes Chained to the Ground?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Container Crane Lyttelton. (12807777564).jpg"
   },
   {
    "text": "This is not theory. In two thousand three, Typhoon Maemi hit the port of Busan in South Korea, and the wind knocked over several giant container cranes. Some fell onto each other. Cranes have also collapsed in other storms and in accidents when a ship hit a crane while berthing. When a crane falls, it can take a berth out of service for months.",
@@ -176,10 +208,14 @@
    "text": "Why are there vertical steel rails inside a container ship? They are called cell guides. Below deck, the hold is divided into slots, and each slot has guides at its four corners, like a giant elevator shaft. The crane simply lowers the box into the slot, and the guides lead it down into place. No lashing is needed below deck, because the guides hold the stack in place even when the ship rolls.",
    "query": "container ship cell guides",
    "caption": "WHY ARE THERE RAILS INSIDE THIS SHIP?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.55
+   },
    "chapter": "9. The rails inside the ship",
    "short": "Why Do Container Ships Have Rails Inside?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Offenes Containerschiff.jpg"
   },
   {
    "text": "On deck, there are no guides. Boxes are locked to each other with twistlocks and tied down with long steel rods called lashing bars, put in by hand by workers called lashers. In very bad weather, these stacks can still fail. In twenty twenty, the ship ONE Apus lost more than eighteen hundred containers overboard in a storm in the Pacific.",
@@ -195,10 +231,14 @@
    "text": "Why do ports use strange machines that look like boxes on stilts? They are straddle carriers. They drive over a container, lift it up between their tall legs, and carry it away. Because they straddle the box, they can stack containers in rows, drive over a row, and pick up the one they need. They connect the crane at the ship to the stacks in the yard, nonstop.",
    "query": "straddle carrier",
    "caption": "WHY DOES THIS MACHINE WALK OVER BOXES?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.45
+   },
    "chapter": "10. The machine on stilts",
    "short": "Why Do Ports Use Machines on Stilts?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Straddle carrier CT Brhv.jpg"
   },
   {
    "text": "Other ports use a different system. Driverless vehicles carry boxes from the ship cranes to automated stacking cranes in the yard. The first terminal with automated guided vehicles opened in Rotterdam in nineteen ninety-three. Today, many of the busiest terminals run day and night with very few people in the yard.",

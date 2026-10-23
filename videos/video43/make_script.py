@@ -57,14 +57,14 @@ part(4, "The concrete giant", "WHY DOESN'T THIS PLATFORM NEED ANCHORS?", "Why Do
 sc("""Troll A stands in about three hundred meters of water, so most of it is hidden below the surface. Concrete giants like this were built standing in deep, sheltered Norwegian fjords. The base was built first, then flooded to sink lower and lower while the walls grew taller. When finished, the whole thing was floated out using air in its big hollow cells, and then flooded again to settle on the seabed.""",
    "gravity based structure platform", "BUILT IN A FJORD")
 sc("""In Canada, the Hibernia platform uses the same idea for another reason, icebergs. Its gravity base has an ice wall with teeth designed to resist the impact of an iceberg. It sits off Newfoundland, in the stretch of the North Atlantic called Iceberg Alley. When you cannot move out of the way, you become a wall.""",
-   "Hibernia platform", "BECOME A WALL")
+   "iceberg Newfoundland", "BECOME A WALL")
 
 # ---------- 5. ANCHOR LINES ----------
-part(5, "The anchor lines", "WHY DOES THIS RIG HAVE SO MANY ANCHORS?", "Why Do Floating Oil Rigs Need So Many Anchors?",
+part(5, "The anchor lines", "WHY DO FLOATING RIGS NEED THESE CHAINS?", "Why Do Floating Oil Rigs Need So Many Anchors?",
      """Why do floating rigs need so many anchors? A semi-submersible rig floats on giant pontoons deep under the water, with columns rising up to the deck. Because the pontoons are below the waves, it moves much less than a ship. But it still floats, so it is held in place by eight, ten or more anchor lines spread around it. Each link of the chain can be the size of a person's torso.""",
      "semi-submersible drilling rig")
 sc("""A floating rig is only as strong as its structure. In nineteen eighty, the semi-submersible Alexander L. Kielland, used as a floating hotel for oil workers in the North Sea, capsized in a storm. One of its bracing tubes broke. The investigation found a fatigue crack that had started at a poorly made weld around a small fitting. One hundred twenty-three people died.""",
-   "Alexander L. Kielland", "ONE SMALL WELD")
+   "Alexander L. Kielland", "ONE SMALL WELD", file="File:Alexander L Kielland and Edda 2-7C NOMF-02663-1-650.jpg")
 sc("""That disaster changed the rules for offshore structures, with more redundancy so that one broken member cannot capsize a rig, and better lifeboats and evacuation. Offshore engineering is full of lessons like this. A platform is designed to survive the hundred-year wave. The real danger is often a small crack nobody saw.""",
    "offshore anchor chain", "THE CRACK NOBODY SAW")
 
@@ -121,6 +121,15 @@ sc("""An oil platform does not stay in place by accident. Every shape fights the
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Jackup Rig - Galveston TX.jpg", 0.22, 0.35),
+    3: ("File:Shell Perdido deepwater offshore production platform (51115227891).jpg", 0.31, 0.72),
+    4: ("File:Troll A Platform.jpg", 0.48, 0.8),
+    5: ("File:Ramnäs bruk AB 5.jpg", 0.35, 0.65),
+    6: ("File:Siemens Schottel Propulsor.jpg", 0.42, 0.4),
+    7: ("File:2025 07 24 Océan Arctique équipage en action David Monmarché plongée Moon Pool P1005493.jpg", 0.5, 0.45),
+    8: ("File:Blowout Preventer (BOP).jpg", 0.35, 0.45),
+    9: ("File:Gullfaks Alpha.jpg", 0.15, 0.25),
+    10: ("File:Freefall lifeboat.JPG", 0.62, 0.45),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None

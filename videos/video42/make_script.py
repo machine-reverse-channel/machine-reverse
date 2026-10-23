@@ -121,6 +121,16 @@ sc("""The next time you open a package, remember it probably rode in a steel box
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Portainers, WPAhoi, Waltershofer Hafen, Hamburg (P1080572).jpg", 0.37, 0.2),
+    2: ("File:Hamburg Hafen Containerterminal.jpg", 0.28, 0.25),
+    3: ("File:Lifted container 01.jpg", 0.45, 0.33),
+    4: ("File:Container twistlock connector.agr.jpg", 0.5, 0.35),
+    5: ("File:Good view from up here ... ABP Crane Driver's Cabin at Southampton - geograph.org.uk - 3057631.jpg", 0.55, 0.6),
+    6: ("File:Ship-to-shore cranes at the Davao International Container Terminal.jpg", 0.38, 0.85),
+    7: ("File:The Zhen Hua 24 delivers four new Neo-Panamax cranes to Baltimore - 210909-G-XD768-003.jpg", 0.55, 0.35),
+    8: ("File:Container Crane Lyttelton. (12807777564).jpg", 0.32, 0.88),
+    9: ("File:Offenes Containerschiff.jpg", 0.55, 0.55),
+    10: ("File:Straddle carrier CT Brhv.jpg", 0.55, 0.45),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
