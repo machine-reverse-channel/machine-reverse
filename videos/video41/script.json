@@ -25,8 +25,8 @@
    "query": "Titanic watertight bulkheads diagram",
    "caption": "WHY DIDN'T THESE WALLS SAVE TITANIC?",
    "arrow": {
-    "x": 0.68,
-    "y": 0.66
+    "x": 0.745,
+    "y": 0.7
    },
    "chapter": "1. The walls that stopped too low",
    "short": "Why Didn't the Titanic's Watertight Walls Save It?",
@@ -113,17 +113,17 @@
    "caption": "BEND, DON'T SHATTER"
   },
   {
-   "text": "Why couldn't the Titanic turn away from the iceberg? This is its identical twin, Olympic, built right next to it. Look at the rudder. It was about seventy-eight feet tall, twenty-four meters, and weighed more than one hundred tons. That sounds huge, but compared with the size of the ship, it was narrow. It met the rules of the time, and it was designed for a ship that would cross the ocean in straight lines, not dodge obstacles. A big liner was built to be stable, not agile.",
+   "text": "Why couldn't the Titanic turn away from the iceberg? This is its identical twin, Olympic, built right next to it. Look at the tall, thin rudder in the middle. It was about seventy-eight feet tall, twenty-four meters, and weighed more than one hundred tons. That sounds huge, but compared with the size of the ship, it was narrow. It met the rules of the time, and it was designed for a ship that would cross the ocean in straight lines, not dodge obstacles. A big liner was built to be stable, not agile.",
    "query": "Titanic rudder",
    "caption": "WHY COULDN'T THIS RUDDER TURN IN TIME?",
    "arrow": {
-    "x": 0.69,
-    "y": 0.45
+    "x": 0.5,
+    "y": 0.2
    },
    "chapter": "5. The rudder",
    "short": "Why Couldn't the Titanic Turn in Time?",
    "cuts": 3,
-   "file": "File:Olympic stern and rudder.jpg"
+   "file": "File:RMS Olympic's propellers.jpg"
   },
   {
    "text": "The lookouts saw the iceberg only about thirty-seven seconds before the impact. First Officer William Murdoch ordered the helm hard over, and the bow began to swing. In that time, the Titanic, traveling at about twenty-two knots, covered more than four hundred meters, about a quarter of a mile. The ship had started to turn, and that is exactly why it did not hit head-on. It scraped along the side.",
@@ -136,12 +136,12 @@
    "caption": "THE TURN THAT HURT"
   },
   {
-   "text": "Why couldn't the Titanic's middle propeller go in reverse? The ship had three propellers, the same as its twin Olympic, seen here. The two outer ones were driven by giant steam engines, each as tall as a building. The center one was driven by a turbine that ran on leftover steam from those engines, a clever way to squeeze more power from the same coal. But that turbine could only turn one way. To stop or reverse, the center propeller simply had to stop.",
+   "text": "Why couldn't the Titanic's middle propeller go in reverse? The ship had three propellers, the same as its twin Olympic, seen here. The small one in the middle is the key. The two outer ones were driven by giant steam engines, each as tall as a building. The center one was driven by a turbine that ran on leftover steam from those engines, a clever way to squeeze more power from the same coal. But that turbine could only turn one way. To stop or reverse, the center propeller simply had to stop.",
    "query": "Titanic propellers",
    "caption": "WHY COULDN'T THIS PROPELLER REVERSE?",
    "arrow": {
-    "x": 0.5,
-    "y": 0.47
+    "x": 0.58,
+    "y": 0.43
    },
    "chapter": "6. The center propeller",
    "short": "Why Couldn't the Titanic's Middle Propeller Reverse?",
@@ -232,8 +232,8 @@
    "query": "Titanic sinking illustration",
    "caption": "WHY DID TITANIC BREAK IN TWO?",
    "arrow": {
-    "x": 0.835,
-    "y": 0.45
+    "x": 0.71,
+    "y": 0.55
    },
    "chapter": "10. The expansion joint",
    "short": "Why Did the Titanic Break in Half?",
