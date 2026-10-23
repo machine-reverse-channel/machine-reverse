@@ -24,10 +24,14 @@
    "text": "Why didn't the Titanic's watertight walls save it? The hull was divided by fifteen steel walls called bulkheads, creating sixteen compartments. The ship could stay afloat with any two compartments flooded, and even with the first four flooded. But the iceberg opened the first five, and maybe a sixth. And here is the fatal detail. The bulkheads did not go all the way up. Most of them stopped at E deck, only a few decks above the waterline.",
    "query": "Titanic watertight bulkheads diagram",
    "caption": "WHY DIDN'T THESE WALLS SAVE TITANIC?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.68,
+    "y": 0.66
+   },
    "chapter": "1. The walls that stopped too low",
    "short": "Why Didn't the Titanic's Watertight Walls Save It?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Titanic side plan annotated English.png"
   },
   {
    "text": "So the compartments were not sealed boxes. They were more like an ice cube tray. As the bow filled with water and sank lower, the water reached the top of a bulkhead and simply spilled over into the next compartment. Then the next. Then the next. The ship designer, Thomas Andrews, walked through the damage and told the captain the Titanic would sink. He gave it about an hour or an hour and a half.",
@@ -43,10 +47,14 @@
    "text": "Why did the Titanic have a double bottom? Because the most common danger for a big ship was running aground, tearing the bottom open on rocks. So the Titanic had a second steel skin inside the bottom of the hull, with a gap of about one and a half meters, a little over five feet, between the two. If the outer bottom was ripped open, the inner one would keep the sea out. Against rocks, it was excellent protection.",
    "query": "Titanic double bottom construction",
    "caption": "WHY DID TITANIC HAVE TWO BOTTOMS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.68
+   },
    "chapter": "2. The double bottom",
    "short": "Why Did the Titanic Have a Double Bottom But Not Double Sides?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Walker - An Unsinkable Titanic (1912) page 103.jpg"
   },
   {
    "text": "But the iceberg did not hit the bottom. It scraped along the side of the bow, below the waterline. And the sides of the Titanic were a single skin of steel, about two and a half centimeters thick, around one inch. Interestingly, the idea of a double skin on the sides was not new. The giant steamship Great Eastern had a double hull back in eighteen fifty-eight. It was expensive, it was heavy, and most liners did not use it.",
@@ -62,10 +70,14 @@
    "text": "Why do some researchers blame tiny rivets for the Titanic's fate? The hull plates were held together by about three million rivets. In the middle of the ship, they were steel, driven by big hydraulic machines. But at the bow and the stern, where the hull curves and the machines could not fit, workers hammered them in by hand, and many of those were wrought iron. And the bow is exactly where the iceberg hit.",
    "query": "Titanic hull plates rivets",
    "caption": "WHY DID THESE RIVETS POP?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.3
+   },
    "chapter": "3. The rivets",
    "short": "Why Did the Titanic's Rivets Fail?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Titanic's Rivets.JPG"
   },
   {
    "text": "In two thousand eight, metallurgists Jennifer Hooper McCarty and Tim Foecke studied rivets recovered from the wreck. Some had high amounts of slag, glassy impurities that make wrought iron weaker. Their theory is that the iceberg pushed against the plates, the rivet heads snapped off, and the seams between plates opened like zippers. That would explain why the damage was a series of thin openings instead of one big gash.",
@@ -81,10 +93,14 @@
    "text": "Why might the Titanic's steel have cracked so easily? Because steel changes its personality with temperature. Warm steel bends before it breaks. Cold steel can shatter. The sea that night was about minus two degrees Celsius, twenty-eight degrees Fahrenheit, colder than freezing because it was salt water. In the nineteen nineties, scientists tested steel recovered from the wreck, and at that temperature it was brittle compared with modern ship steel.",
    "query": "Titanic hull plates",
    "caption": "WHY DID THIS STEEL CRACK LIKE GLASS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.66,
+    "y": 0.55
+   },
    "chapter": "4. The cold steel",
    "short": "Why Did the Titanic's Steel Act Like Glass?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Olympic Titanic Belfast.jpg"
   },
   {
    "text": "The reason was the chemistry. The steel had a lot of sulfur and relatively little manganese, and it was made in a way that left it more brittle in the cold. That was normal for nineteen twelve. Nobody understood brittle fracture well until the Second World War, when some Liberty ships cracked in half in cold water, a few of them while sitting in port.",
@@ -97,13 +113,17 @@
    "caption": "BEND, DON'T SHATTER"
   },
   {
-   "text": "Why couldn't the Titanic turn away from the iceberg? Look at the rudder. It was about seventy-eight feet tall, twenty-four meters, and weighed more than one hundred tons. That sounds huge, but compared with the size of the ship, it was narrow. It met the rules of the time, and it was designed for a ship that would cross the ocean in straight lines, not dodge obstacles. A big liner was built to be stable, not agile.",
+   "text": "Why couldn't the Titanic turn away from the iceberg? This is its identical twin, Olympic, built right next to it. Look at the rudder. It was about seventy-eight feet tall, twenty-four meters, and weighed more than one hundred tons. That sounds huge, but compared with the size of the ship, it was narrow. It met the rules of the time, and it was designed for a ship that would cross the ocean in straight lines, not dodge obstacles. A big liner was built to be stable, not agile.",
    "query": "Titanic rudder",
    "caption": "WHY COULDN'T THIS RUDDER TURN IN TIME?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.69,
+    "y": 0.45
+   },
    "chapter": "5. The rudder",
    "short": "Why Couldn't the Titanic Turn in Time?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Olympic stern and rudder.jpg"
   },
   {
    "text": "The lookouts saw the iceberg only about thirty-seven seconds before the impact. First Officer William Murdoch ordered the helm hard over, and the bow began to swing. In that time, the Titanic, traveling at about twenty-two knots, covered more than four hundred meters, about a quarter of a mile. The ship had started to turn, and that is exactly why it did not hit head-on. It scraped along the side.",
@@ -116,13 +136,17 @@
    "caption": "THE TURN THAT HURT"
   },
   {
-   "text": "Why couldn't the Titanic's middle propeller go in reverse? The ship had three propellers. The two outer ones were driven by giant steam engines, each as tall as a building. The center one was driven by a turbine that ran on leftover steam from those engines, a clever way to squeeze more power from the same coal. But that turbine could only turn one way. To stop or reverse, the center propeller simply had to stop.",
+   "text": "Why couldn't the Titanic's middle propeller go in reverse? The ship had three propellers, the same as its twin Olympic, seen here. The two outer ones were driven by giant steam engines, each as tall as a building. The center one was driven by a turbine that ran on leftover steam from those engines, a clever way to squeeze more power from the same coal. But that turbine could only turn one way. To stop or reverse, the center propeller simply had to stop.",
    "query": "Titanic propellers",
    "caption": "WHY COULDN'T THIS PROPELLER REVERSE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.47
+   },
    "chapter": "6. The center propeller",
    "short": "Why Couldn't the Titanic's Middle Propeller Reverse?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:RMS Olympic's propellers.jpg"
   },
   {
    "text": "And the center propeller sat right in front of the rudder. Its water flow helps a rudder bite. According to testimony from the inquiries, the engines may have been ordered to stop or reverse as the ship turned. If that happened, the center propeller stopped pushing water over the rudder at the worst moment, and the turn became weaker. Historians still debate the exact orders, but the design made this possible.",
@@ -138,10 +162,14 @@
    "text": "Why did the Titanic's lookouts have no binoculars? The crow's nest, high up on the front mast, was where two men watched for danger. But the binoculars were locked in a box, and the key was with an officer, David Blair, who was removed from the crew at the last minute before the voyage and left with the key in his pocket. Lookout Frederick Fleet later testified that with binoculars, they could have seen the iceberg in time to get out of the way.",
    "query": "Titanic crow's nest",
    "caption": "WHY HAD NO BINOCULARS UP HERE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.68,
+    "y": 0.3
+   },
    "chapter": "7. The crow's nest",
    "short": "Why Did the Titanic's Lookouts Have No Binoculars?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Titanic Bridge and Crow's Nest.jpg"
   },
   {
    "text": "That claim is still debated, because binoculars narrow your view and lookouts were trained to scan with their eyes. And the night itself was against them. There was no moon, and the sea was perfectly calm. Normally, small waves break at the base of an iceberg and create a white line you can spot. That night, there were no waves at all. The iceberg was a dark shape on a dark sea.",
@@ -157,10 +185,14 @@
    "text": "Why didn't the closest ship come to save the Titanic? The Titanic had one of the most powerful radios at sea, run by two Marconi operators, Jack Phillips and Harold Bride. But they worked for the Marconi company, and their main job was sending private messages for rich passengers. That day, the Titanic received several ice warnings from other ships. At least one never made it to the bridge.",
    "query": "Titanic Marconi wireless room",
    "caption": "WHY DID NOBODY ANSWER THIS RADIO?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.3,
+    "y": 0.62
+   },
    "chapter": "8. The wireless room",
    "short": "Why Didn't the Closest Ship Hear the Titanic?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Titanic Marconi Wireless Radio Room.jpg"
   },
   {
    "text": "The ship Californian was stopped in the ice, close enough to see the Titanic's lights, maybe ten to twenty miles away. Its radio operator tried to warn the Titanic about the ice, and Phillips, busy with passenger messages, cut him off with a message that basically said shut up, I am busy. A little later, the Californian's operator turned off his radio and went to bed. Minutes later, the Titanic hit the iceberg. Its distress calls went to a ship that was no longer listening.",
@@ -176,10 +208,14 @@
    "text": "Why did the Titanic have so few lifeboats? It carried twenty boats, enough for about one thousand one hundred seventy-eight people, with more than two thousand two hundred on board. And it was perfectly legal. British rules from the eighteen nineties based the number of lifeboats on the ship's tonnage, and the scale stopped at ten thousand tons. The Titanic was more than four times bigger, and it actually carried more boats than the law required.",
    "query": "Titanic lifeboats davits",
    "caption": "WHY WERE THERE SO FEW LIFEBOATS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.47,
+    "y": 0.65
+   },
    "chapter": "9. The lifeboats",
    "short": "Why Did the Titanic Have So Few Lifeboats?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Carpathia - Titanic lifeboats.jpg"
   },
   {
    "text": "The davits, the cranes that lowered the boats, were designed so each one could handle several boats. One designer had proposed far more lifeboats. But the deck space was kept open for passengers to walk on, and in those days, lifeboats were seen as ferries, used to move people to a rescue ship, not to hold everyone at once. On the night, some boats left half empty. The first boat lowered had room for sixty-five people, and it left with about twenty-eight.",
@@ -195,10 +231,14 @@
    "text": "Why did the Titanic break in two? As the bow sank, the stern rose out of the water, until a huge part of the ship was hanging in the air, unsupported. The hull was never designed to carry that load. Near the end, the ship broke apart, roughly between the third and fourth funnels. The upper structure even had expansion joints, small built-in gaps that let it flex in waves. Some researchers think one of them was a weak point where the break began.",
    "query": "Titanic sinking illustration",
    "caption": "WHY DID TITANIC BREAK IN TWO?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.835,
+    "y": 0.45
+   },
    "chapter": "10. The expansion joint",
    "short": "Why Did the Titanic Break in Half?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Titanic leaving Southampton.png"
   },
   {
    "text": "For seventy-three years, many people believed the Titanic sank in one piece, because the official inquiries did not conclude that it broke apart, even though some survivors said it did. Then, in nineteen eighty-five, Robert Ballard's expedition found the wreck at about three thousand eight hundred meters, more than twelve thousand feet deep. The bow and stern were lying about six hundred meters apart. The survivors had been right.",

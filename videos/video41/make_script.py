@@ -61,7 +61,7 @@ sc("""Today, ship steel is tested for exactly this. Engineers hit a small notche
 
 # ---------- 5. RUDDER ----------
 part(5, "The rudder", "WHY COULDN'T THIS RUDDER TURN IN TIME?", "Why Couldn't the Titanic Turn in Time?",
-     """Why couldn't the Titanic turn away from the iceberg? Look at the rudder. It was about seventy-eight feet tall, twenty-four meters, and weighed more than one hundred tons. That sounds huge, but compared with the size of the ship, it was narrow. It met the rules of the time, and it was designed for a ship that would cross the ocean in straight lines, not dodge obstacles. A big liner was built to be stable, not agile.""",
+     """Why couldn't the Titanic turn away from the iceberg? This is its identical twin, Olympic, built right next to it. Look at the rudder. It was about seventy-eight feet tall, twenty-four meters, and weighed more than one hundred tons. That sounds huge, but compared with the size of the ship, it was narrow. It met the rules of the time, and it was designed for a ship that would cross the ocean in straight lines, not dodge obstacles. A big liner was built to be stable, not agile.""",
      "Titanic rudder")
 sc("""The lookouts saw the iceberg only about thirty-seven seconds before the impact. First Officer William Murdoch ordered the helm hard over, and the bow began to swing. In that time, the Titanic, traveling at about twenty-two knots, covered more than four hundred meters, about a quarter of a mile. The ship had started to turn, and that is exactly why it did not hit head-on. It scraped along the side.""",
    "Titanic bridge wheel", "37 SECONDS")
@@ -70,7 +70,7 @@ sc("""And here is one of the cruelest ideas in the story. Many naval architects 
 
 # ---------- 6. CENTER PROPELLER ----------
 part(6, "The center propeller", "WHY COULDN'T THIS PROPELLER REVERSE?", "Why Couldn't the Titanic's Middle Propeller Reverse?",
-     """Why couldn't the Titanic's middle propeller go in reverse? The ship had three propellers. The two outer ones were driven by giant steam engines, each as tall as a building. The center one was driven by a turbine that ran on leftover steam from those engines, a clever way to squeeze more power from the same coal. But that turbine could only turn one way. To stop or reverse, the center propeller simply had to stop.""",
+     """Why couldn't the Titanic's middle propeller go in reverse? The ship had three propellers, the same as its twin Olympic, seen here. The two outer ones were driven by giant steam engines, each as tall as a building. The center one was driven by a turbine that ran on leftover steam from those engines, a clever way to squeeze more power from the same coal. But that turbine could only turn one way. To stop or reverse, the center propeller simply had to stop.""",
      "Titanic propellers")
 sc("""And the center propeller sat right in front of the rudder. Its water flow helps a rudder bite. According to testimony from the inquiries, the engines may have been ordered to stop or reverse as the ship turned. If that happened, the center propeller stopped pushing water over the rudder at the worst moment, and the turn became weaker. Historians still debate the exact orders, but the design made this possible.""",
    "Olympic propellers Harland Wolff", "IN FRONT OF THE RUDDER")
@@ -121,6 +121,16 @@ sc("""Every ship you board today carries a piece of the Titanic in its rules, fr
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Titanic side plan annotated English.png", 0.68, 0.66),
+    2: ("File:Walker - An Unsinkable Titanic (1912) page 103.jpg", 0.5, 0.68),
+    3: ("File:Titanic's Rivets.JPG", 0.5, 0.3),
+    4: ("File:Olympic Titanic Belfast.jpg", 0.66, 0.55),
+    5: ("File:Olympic stern and rudder.jpg", 0.69, 0.45),
+    6: ("File:RMS Olympic's propellers.jpg", 0.5, 0.47),
+    7: ("File:Titanic Bridge and Crow's Nest.jpg", 0.68, 0.3),
+    8: ("File:Titanic Marconi Wireless Radio Room.jpg", 0.3, 0.62),
+    9: ("File:Carpathia - Titanic lifeboats.jpg", 0.47, 0.65),
+    10: ("File:Titanic leaving Southampton.png", 0.835, 0.45),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
