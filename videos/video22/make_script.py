@@ -121,6 +121,16 @@ sc("""In the cockpit of a Formula One car, every object has two jobs, to make th
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Caterham steering wheel at Goodwood 2012.jpg", 0.5, 0.45),
+    2: ("File:Toyota F1 steering wheel (3649850169).jpg", 0.47, 0.55),
+    3: ("File:Toyota 86 GT - Paddle shifter.jpg", 0.48, 0.42),
+    4: ("File:Geneva Motor Show 2011 - Renault RB7 F1 Car Steering Wheel (5577393685).jpg", 0.3, 0.45),
+    5: ("File:Alpine F1 steering wheel.jpg", 0.5, 0.18),
+    6: ("File:Toyota steering wheel 1.jpg", 0.63, 0.81),
+    7: ("File:Ferrari F1 (5356124552).jpg", 0.3, 0.5),
+    8: ("File:Ken SchraderHANSdevice.jpg", 0.85, 0.45),
+    9: ("File:Andy Priaulx 2007 Curitiba qualify.jpg", 0.35, 0.65),
+    10: ("File:Puma Furio Nomex Racing Gloves.JPG", 0.55, 0.45),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None

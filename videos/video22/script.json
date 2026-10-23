@@ -24,10 +24,14 @@
    "text": "Why does an F1 steering wheel have so many buttons? Because the driver is also the engineer on board. A modern Formula One car is a hybrid, with a turbo engine, electric motors and a battery. The driver can change how the engine delivers power, how the battery is used, how the brakes are balanced and how the differential behaves, corner by corner. All of that is done from the wheel.",
    "query": "Formula One steering wheel buttons",
    "caption": "WHY DOES THIS WHEEL HAVE SO MANY BUTTONS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.45
+   },
    "chapter": "1. The steering wheel",
    "short": "Why Does an F1 Steering Wheel Have So Many Buttons?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Caterham steering wheel at Goodwood 2012.jpg"
   },
   {
    "text": "Some buttons are simple. One for the radio, one for the pit lane speed limiter, one to confirm a message, one for neutral. Others change whole maps of settings with a single click. Every team designs its own wheel, and each driver can ask for buttons in different places, for his own thumbs. Each wheel is a handmade carbon fibre computer, reported to cost tens of thousands of dollars.",
@@ -43,10 +47,14 @@
    "text": "Why do F1 drivers keep turning small dials on the wheel during a lap? One of the most used is brake balance. It decides how much braking goes to the front wheels and how much to the rear. As the fuel burns and the tyres wear, the car changes. A balance that was perfect on lap one can lock the front wheels on lap forty. So the driver adjusts it, sometimes for a single corner.",
    "query": "Formula One steering wheel rotary switch",
    "caption": "WHY DOES THE DRIVER TURN THESE DIALS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.47,
+    "y": 0.55
+   },
    "chapter": "2. The rotary dials",
    "short": "Why Do F1 Drivers Keep Turning Dials on the Wheel?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Toyota F1 steering wheel (3649850169).jpg"
   },
   {
    "text": "Another dial controls the differential, the part that lets the two rear wheels turn at different speeds in a corner. More locked helps traction out of slow corners. More open helps the car turn in. Drivers change it between corners, and on some cars the setting even changes automatically at different points of the corner, entry, middle and exit.",
@@ -62,10 +70,14 @@
    "text": "Why are there paddles behind an F1 steering wheel? The top ones change gear. Right paddle up, left paddle down, through eight forward gears. A modern F1 gearbox changes gear in a few thousandths of a second, so fast that there is almost no gap in the power. The driver never takes his hands off the wheel, and there is no gear lever in the cockpit at all.",
    "query": "Formula One steering wheel paddles",
    "caption": "WHY ARE THERE PADDLES BEHIND THE WHEEL?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.48,
+    "y": 0.42
+   },
    "chapter": "3. The paddles",
    "short": "Why Does an F1 Car Have Two Clutch Paddles?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Toyota 86 GT - Paddle shifter.jpg"
   },
   {
    "text": "The lower paddles are the clutch, and there are often two of them. The clutch is only used to start, at the race start and leaving a pit stop. Before the lights go out, the driver holds one paddle at the perfect bite point and the other fully in. When the lights go out, he lets go of the second paddle, and the car launches from the bite point.",
@@ -81,10 +93,14 @@
    "text": "Why do F1 drivers pull the steering wheel off when they get out? Because the cockpit is so tight that a driver cannot climb out with the wheel in place. Behind the wheel there is a quick release hub. The driver pulls a collar, and the wheel slides off the column. The rules require a driver to be able to get out of the car in five seconds.",
    "query": "Formula One steering wheel quick release",
    "caption": "WHY DOES THE WHEEL COME OFF?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.3,
+    "y": 0.45
+   },
    "chapter": "4. The quick release",
    "short": "Why Do F1 Drivers Take the Steering Wheel Off?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Geneva Motor Show 2011 - Renault RB7 F1 Car Steering Wheel (5577393685).jpg"
   },
   {
    "text": "The five second test is done with full racing gear, helmet, gloves and belts. It exists for fire and for crashes. A driver who is trapped in a burning car has seconds, not minutes. The wheel comes off, the six point harness opens with one twist of the buckle, and the driver jumps out over the sides of the cockpit.",
@@ -100,10 +116,14 @@
    "text": "Why does a row of coloured lights flash at the top of the F1 steering wheel? These are the shift lights. As the engine revs climb, the lights fill up from one side to the other, and when they all flash, it is the perfect moment to change gear. The driver does not look at a number. His eyes stay on the track and he sees the colours in his peripheral vision.",
    "query": "Formula One steering wheel shift lights",
    "caption": "WHY DO THESE LIGHTS FLASH?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.18
+   },
    "chapter": "5. The lights on the wheel",
    "short": "Why Do Lights Flash on an F1 Steering Wheel?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Alpine F1 steering wheel.jpg"
   },
   {
    "text": "The car also has lights for the race officials. Small panels in the cockpit light up yellow, blue, red, or the colour of the safety car, at the same moment the flags are shown on the side of the track. A driver might miss a flag waved by a marshal in a fast corner, so the flag comes into the cockpit too.",
@@ -119,10 +139,14 @@
    "text": "Why is there a drink button on an F1 steering wheel? Because drivers lose a lot of water. In a hot race like Singapore, with high humidity and almost two hours of driving, a driver can lose around three kilograms of body weight, mostly sweat. A bottle sits inside the car, and a tube runs into the helmet. Press the button, and a pump sends a sip of drink to the driver's mouth.",
    "query": "Formula One driver helmet",
    "caption": "WHY IS THERE A DRINK BUTTON?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.63,
+    "y": 0.81
+   },
    "chapter": "6. The drink button",
    "short": "Why Is There a Drink Button in an F1 Car?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Toyota steering wheel 1.jpg"
   },
   {
    "text": "The system does not always work. Sometimes the pump fails, and the driver has nothing to drink for the whole race. And the drink is often hot, because the bottle sits in a cockpit that can be well above forty degrees in a hot race. Drivers describe it as drinking hot tea while running a marathon.",
@@ -138,10 +162,14 @@
    "text": "Why does an F1 seat come out of the car with the driver still in it? Each seat is a hard carbon fibre shell, moulded to the exact shape of one driver's body. And it is designed to be lifted out in one piece. If a driver is injured in a crash, the medical team can take him out still strapped into the seat, without bending his back or neck.",
    "query": "Formula One seat",
    "caption": "WHY DOES THE SEAT COME OUT WITH THE DRIVER?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.3,
+    "y": 0.5
+   },
    "chapter": "7. The extraction seat",
    "short": "Why Does an F1 Seat Come Out With the Driver in It?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Ferrari F1 (5356124552).jpg"
   },
   {
    "text": "Back and neck injuries are the biggest fear after a heavy crash, because a wrong movement can turn a fracture into paralysis. With the extraction seat, the seat itself becomes the stretcher. Medical teams practice this procedure at every race, on real cars, so they can do it in minutes on any track.",
@@ -157,10 +185,14 @@
    "text": "Why do race car drivers wear this carbon collar on their shoulders? It is the HANS device, short for head and neck support. Two straps connect the back of the helmet to the collar, which sits under the shoulder belts. In a sudden stop, the body is held by the belts, but the head keeps moving forward. HANS holds the head back with the body.",
    "query": "HANS device",
    "caption": "WHY DO DRIVERS WEAR THIS COLLAR?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.85,
+    "y": 0.45
+   },
    "chapter": "8. The HANS device",
    "short": "Why Do Race Drivers Wear This Collar?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Ken SchraderHANSdevice.jpg"
   },
   {
    "text": "Without it, the neck can be stretched so violently that the base of the skull fractures. It is called a basilar skull fracture, and it killed several drivers. The device was developed in the nineteen eighties by Robert Hubbard, an engineering professor, and his brother in law Jim Downing, a racing driver. For years few drivers used it.",
@@ -176,10 +208,14 @@
    "text": "Why don't F1 race suits catch fire? They are made of layers of a fire resistant fibre called Nomex, the same family of material used by firefighters. The suits are tested to protect against direct flame for several seconds, enough for a driver to escape. Underneath, drivers wear fireproof underwear, socks, a balaclava and gloves. Every layer is certified by the FIA.",
    "query": "Formula One race suit",
    "caption": "WHY DOESN'T THIS SUIT BURN?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.35,
+    "y": 0.65
+   },
    "chapter": "9. The race suit",
    "short": "Why Don't F1 Race Suits Burn?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Andy Priaulx 2007 Curitiba qualify.jpg"
   },
   {
    "text": "In twenty twenty, at the Bahrain Grand Prix, Romain Grosjean's car hit a barrier at more than two hundred kilometres per hour, split in two and exploded into flames. He was inside the fire for almost thirty seconds. He climbed out with burns on his hands. His suit, his helmet, the halo over his head and the fire marshals all did their job that day.",
@@ -195,10 +231,14 @@
    "text": "Why do F1 drivers' gloves have a sensor inside? Since twenty eighteen, Formula One drivers wear biometric gloves. A small sensor, sewn into the glove, measures the driver's pulse and the oxygen in his blood, and sends it by radio to the medical team. After a big crash, before anyone reaches the car, the doctors already know if the driver's heart is working.",
    "query": "Formula One driver gloves",
    "caption": "WHY DO THESE GLOVES HAVE A SENSOR?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.45
+   },
    "chapter": "10. The biometric gloves",
    "short": "Why Do F1 Gloves Measure the Driver's Pulse?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Puma Furio Nomex Racing Gloves.JPG"
   },
   {
    "text": "It is a reaction to a simple problem. After a crash, the car may be upside down or in a barrier, and the driver may not be able to speak on the radio. With the glove sensor, the medical car can decide how urgent it is while it is still driving to the scene. And the data are also used to study how drivers' bodies react to crashes and to the stress of racing.",

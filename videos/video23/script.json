@@ -24,10 +24,14 @@
    "text": "Why can an F1 pit stop take only two seconds? Start with the wheel gun. It is a powerful air tool driven by high pressure gas, spinning at thousands of revolutions per minute. It removes the wheel nut in a fraction of a second, and tightens the new one just as fast. The gunner presses the trigger, and a switch on the gun tells the system when the nut is tight.",
    "query": "Formula One wheel gun",
    "caption": "WHY IS THIS GUN SO FAST?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.45
+   },
    "chapter": "1. The wheel gun",
    "short": "Why Can an F1 Pit Stop Take Only 2 Seconds?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Formula One Wheel Gun.jpg"
   },
   {
    "text": "Each gun is a precision tool, built specially for the teams, and every corner of the car has its gunner. They hold the gun against the nut before the car has even fully stopped. The gun switches direction automatically between loosening and tightening, so the gunner never has to look for a button. The whole job of the gunner is about two tenths of a second, repeated perfectly.",
@@ -43,10 +47,14 @@
    "text": "Why does an F1 wheel have only one nut, when your car has four or five? Because removing five nuts would take five times longer. Racing cars use a centre lock wheel, one large nut in the middle holding the whole wheel onto a hub with pins that carry the torque. One nut means one movement of the gun, on and off.",
    "query": "Formula One wheel nut",
    "caption": "WHY IS THERE ONLY ONE NUT?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.48,
+    "y": 0.5
+   },
    "chapter": "2. The single wheel nut",
    "short": "Why Do F1 Wheels Have Only One Nut?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Williams FW35 front wheel 2013 Malaysia.jpg"
   },
   {
    "text": "The nut stays inside the wheel. It is a captive nut, so it does not fall onto the floor when the wheel comes off, and the new wheel arrives with its own nut already in place. There is also a safety latch that holds the nut if it is not fully tight. A lost wheel at three hundred kilometres per hour is one of the most dangerous things in motorsport.",
@@ -62,10 +70,14 @@
    "text": "Why does the front jack of an F1 pit crew look so strange? The car arrives at around eighty kilometres per hour in the pit lane and stops right in front of the jack man. He slides the jack under the nose, and pulls the long handle down to lift the front of the car in one move. Then the front of the jack swivels, so he can step to the side when the car leaves.",
    "query": "Formula One front jack",
    "caption": "WHY DOES THIS JACK BEND?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.86,
+    "y": 0.55
+   },
    "chapter": "3. The front jack",
    "short": "Why Does the F1 Front Jack Have a Hinge?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Alonso Renault Pitstop Chinese GP 2008.jpg"
   },
   {
    "text": "The jack man is the bravest person in the pit crew. He stands directly in front of a car that is braking towards him, trusting the driver to stop on his marks. The jack is shaped to fit a specific point on the nose, so it cannot slip. At the back of the car, another jack man does the same with a rear jack, lifting the car from behind.",
@@ -81,10 +93,14 @@
    "text": "Why are F1 tyres wrapped in blankets before they go on the car? Because cold racing tyres have almost no grip. These are electric heating blankets, and they warm the tyres for hours before they are fitted. A Formula One tyre only works in a narrow window of temperature. Cold, it slides like plastic. Warm, the rubber becomes sticky and grips the track.",
    "query": "Formula One tyre blankets",
    "caption": "WHY ARE THESE TYRES WRAPPED IN BLANKETS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.6
+   },
    "chapter": "4. The tyre blankets",
    "short": "Why Are F1 Tyres Wrapped in Electric Blankets?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Tyre warmer 2005 United States GP (19890682).jpg"
   },
   {
    "text": "For years, teams heated tyres to around one hundred degrees. Pirelli and the FIA have been reducing that limit, to around seventy degrees, to save energy and push tyre design forward. The blankets come off seconds before the car arrives, so the heat stays in the rubber. The driver leaves the pits with tyres that are ready to grip in the first corner.",
@@ -100,10 +116,14 @@
    "text": "Why do F1 tyres have red, yellow or white markings on the side? They tell everyone which rubber the car is using. Pirelli brings three dry compounds to every race. Red is the soft, the fastest but the quickest to wear out. Yellow is the medium. White is the hard, slower but longest lasting. For rain there are two more, green for intermediates and blue for full wets.",
    "query": "Pirelli Formula One tyres",
    "caption": "WHY DO THESE TYRES HAVE COLOURS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.85,
+    "y": 0.5
+   },
    "chapter": "5. The coloured stripes",
    "short": "Why Do F1 Tyres Have Coloured Stripes?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Pirelli P Zero Formula 1 Medium Slick Tyre 2026.jpg"
   },
   {
    "text": "The colours are there for the fans and for the rivals. Under the rules, each car must use at least two different dry compounds in a dry race. So every team watches the colours on its rivals' cars and guesses their strategy. A car on red tyres will stop earlier. A car on white will go longer and attack at the end.",
@@ -119,10 +139,14 @@
    "text": "Why do F1 cars drive so slowly in the pit lane? There is a speed limit, usually eighty kilometres per hour, and lower on some tight tracks. Mechanics are standing in the lane, with no barrier between them and the cars. At the white line at the entrance, the driver presses a button on the steering wheel, and a limiter holds the car exactly at the speed limit.",
    "query": "Formula One pit lane entry",
    "caption": "WHY DO F1 CARS SLOW DOWN HERE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.29,
+    "y": 0.33
+   },
    "chapter": "6. The pit lane speed limiter",
    "short": "Why Do F1 Cars Crawl Through the Pit Lane?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Toyota steering wheel 1.jpg"
   },
   {
    "text": "The limit is checked electronically, and going even one kilometre per hour too fast earns a penalty. That is why drivers brake very late before the line and accelerate the instant they cross the exit line. Every metre of the pit lane is timed. Some tracks have long pit lanes, and a stop there costs twenty five seconds or more in total, even if the tyres change in two.",
@@ -138,10 +162,14 @@
    "text": "Why is there a traffic light hanging over the pit box? It tells the driver when to go. Each wheel crew presses a button when its wheel is done. When all four signals are in and the lane is clear, the light turns green. Before these systems, a man held a sign on a stick in front of the driver, called the lollipop, and lifted it when the stop was finished.",
    "query": "Formula One pit stop lights",
    "caption": "WHY IS THERE A TRAFFIC LIGHT IN THE PIT BOX?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.72,
+    "y": 0.22
+   },
    "chapter": "7. The release lights",
    "short": "Why Do F1 Teams Use a Traffic Light in the Pits?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Kimi Raikkonen 2017 United States GP (37946719176).jpg"
   },
   {
    "text": "Lights are faster than any human reaction, and every hundredth of a second counts. But they made a famous mistake. At the Singapore Grand Prix of two thousand eight, Felipe Massa's Ferrari got the signal to go while the fuel hose was still attached. He drove off dragging the hose down the pit lane, and his race was ruined.",
@@ -157,10 +185,14 @@
    "text": "Why don't F1 cars refuel during the race anymore? Refuelling was banned from twenty ten. Before that, from nineteen ninety-four to two thousand nine, pit stops included a giant fuel hose, pushing around twelve litres per second into the car. A stop took seven or eight seconds, and the fuel decided the strategy.",
    "query": "Formula One refuelling 2000s",
    "caption": "WHY DON'T F1 CARS REFUEL ANYMORE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.37,
+    "y": 0.65
+   },
    "chapter": "8. The missing fuel hose",
    "short": "Why Did F1 Ban Refuelling?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Fale F1 Monza 2004 77.jpg"
   },
   {
    "text": "It was dangerous. In nineteen ninety-four, at Hockenheim, fuel sprayed over Jos Verstappen's Benetton during a stop and caught fire. The car and crew were engulfed in flames for several seconds. The crew survived, with minor burns. There were other fires over the years, and hoses that stayed connected, like Massa's in Singapore.",
@@ -176,10 +208,14 @@
    "text": "Why does one F1 pit stop need about twenty people? Because each person does only one tiny job. At each wheel there are three, a gunner, one to pull the old wheel off and one to put the new wheel on. Then two jack men, people holding the car steady, someone for the front wing, and the person watching the release. Nobody does two things.",
    "query": "Formula One pit crew stop",
    "caption": "WHY DOES ONE CAR NEED 20 PEOPLE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.45
+   },
    "chapter": "9. The pit crew",
    "short": "Why Does an F1 Pit Stop Need 20 People?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Massa Ferrari Pitstop Chinese GP 2008.jpg"
   },
   {
    "text": "Most of them are not full time pit crew. They are mechanics who build and fix the car all weekend, and switch to their pit stop roles during the race. They train like athletes, with fitness programs and hundreds of practice stops at the factory, measured with sensors and video. A tenth of a second is found in the position of a foot.",
@@ -195,10 +231,14 @@
    "text": "Why do F1 teams still hold out a sign board on the pit wall, when drivers have a radio? Because radios fail. The pit board shows the driver his position, the gap to the cars around him and the laps remaining. It is the oldest communication tool in racing, and it works when everything else does not.",
    "query": "Formula One pit board",
    "caption": "WHY DO TEAMS STILL USE THIS BOARD?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.78,
+    "y": 0.55
+   },
    "chapter": "10. The pit board",
    "short": "Why Do F1 Teams Still Hold Up a Pit Board?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Istanbul park kubica pit wall.JPG"
   },
   {
    "text": "Radio problems are common in Formula One. Interference, broken connectors, or simply a driver who cannot hear over the engine. When that happens, the pit board is the only way to tell him to come in for tyres.",

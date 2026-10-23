@@ -121,6 +121,16 @@ sc("""A pit stop looks like chaos, but it is one of the most designed moments in
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Formula One Wheel Gun.jpg", 0.5, 0.45),
+    2: ("File:Williams FW35 front wheel 2013 Malaysia.jpg", 0.48, 0.5),
+    3: ("File:Alonso Renault Pitstop Chinese GP 2008.jpg", 0.86, 0.55),
+    4: ("File:Tyre warmer 2005 United States GP (19890682).jpg", 0.45, 0.6),
+    5: ("File:Pirelli P Zero Formula 1 Medium Slick Tyre 2026.jpg", 0.85, 0.5),
+    6: ("File:Toyota steering wheel 1.jpg", 0.29, 0.33),
+    7: ("File:Kimi Raikkonen 2017 United States GP (37946719176).jpg", 0.72, 0.22),
+    8: ("File:Fale F1 Monza 2004 77.jpg", 0.37, 0.65),
+    9: ("File:Massa Ferrari Pitstop Chinese GP 2008.jpg", 0.5, 0.45),
+    10: ("File:Istanbul park kubica pit wall.JPG", 0.78, 0.55),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
