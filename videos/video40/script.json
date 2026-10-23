@@ -1,0 +1,227 @@
+{
+ "id": "video40",
+ "title": "Why Do Icebreakers Climb On Top of the Ice?",
+ "length_scale": 1.6,
+ "scenes": [
+  {
+   "text": "Most people imagine an icebreaker smashing through ice like a hammer, or cutting it like a knife. It does neither. An icebreaker drives up onto the ice, and then crushes it with its own weight, again and again, thousands of times a day. Today, ten parts of an icebreaker, and why each one exists.",
+   "query": "icebreaker",
+   "caption": "IT CLIMBS ON THE ICE",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Sea ice can be more than a metre thick, and it can trap a normal ship for weeks, or even crush its hull. In places like the Arctic and the Baltic Sea, icebreakers keep ports and shipping lanes open through the winter. They are some of the toughest ships ever built, and almost every part of them is designed for ice.",
+   "query": "icebreaker Arctic",
+   "caption": "THE TOUGHEST SHIPS"
+  },
+  {
+   "text": "As always, every fact here comes from a named source, ice class rules, shipbuilders and naval references, all listed in the description. Let's start with the bow.",
+   "query": "icebreaker bow",
+   "caption": "WHY DOES THIS EXIST?"
+  },
+  {
+   "text": "Why does an icebreaker have a long, sloped bow, like a spoon? So it can climb on top of the ice. A normal ship's bow is steep, and it would hit thick ice head on and stop. An icebreaker's bow is shallow and angled, so when it meets the ice, the ship slides up onto it.",
+   "query": "icebreaker bow",
+   "caption": "WHY IS THIS BOW SO SLOPED?",
+   "arrow": true,
+   "chapter": "1. The sloped bow",
+   "short": "Why Do Icebreakers Climb On Top of the Ice?",
+   "cuts": 3
+  },
+  {
+   "text": "Once the bow is on top, the weight of thousands of tonnes of ship presses down. Ice is strong when you push it from the side, but weak when you bend it from above. The ice sheet cracks under the weight, and the broken pieces are pushed down and aside, under the hull.",
+   "query": "icebreaker breaking ice",
+   "caption": "BENDING, NOT CUTTING"
+  },
+  {
+   "text": "If the ice is too thick to break in one go, the icebreaker backs up and rams it, sliding further up each time. This is called ramming, and it can take many attempts to get through a ridge of piled up ice. It is slow, noisy and violent work, but it opens a path for other ships.",
+   "query": "icebreaker ramming",
+   "caption": "BACK UP AND RAM"
+  },
+  {
+   "text": "Why is the hull of an icebreaker much thicker in a band around the waterline? That band is called the ice belt. It is the part of the hull that hits the ice, scrapes along it and gets squeezed by it. On a large icebreaker, the steel there can be several centimetres thick, much thicker than on a normal ship.",
+   "query": "icebreaker hull",
+   "caption": "WHY IS THE HULL THICKER HERE?",
+   "arrow": true,
+   "chapter": "2. The ice belt",
+   "short": "Why Is an Icebreaker's Hull Thicker at the Waterline?",
+   "cuts": 3
+  },
+  {
+   "text": "Inside, the ice belt is also supported by extra frames placed close together, like the ribs of a strong animal. Ice does not push evenly. It hits in sharp, concentrated points, which can dent normal steel. The thick plates and dense frames spread those forces out.",
+   "query": "ship hull frames",
+   "caption": "CLOSE TOGETHER LIKE RIBS"
+  },
+  {
+   "text": "The steel itself is special. Normal steel becomes brittle in extreme cold, and can crack like glass. Icebreakers use steel that stays tough at very low temperatures, often far below minus thirty degrees. In the Arctic, even the choice of metal is a matter of survival.",
+   "query": "Arctic ship ice",
+   "caption": "STEEL THAT STAYS TOUGH"
+  },
+  {
+   "text": "Why are icebreaker hulls rounded at the sides, instead of straight? So that ice pushes the ship up, instead of crushing it. When floating ice is pressed together by wind and currents, it can close in on a ship from both sides. A straight sided hull takes the full squeeze, like a nut in a nutcracker.",
+   "query": "icebreaker hull shape",
+   "caption": "WHY IS THIS HULL SO ROUNDED?",
+   "arrow": true,
+   "chapter": "3. The round hull",
+   "short": "Why Are Icebreaker Hulls So Rounded?",
+   "cuts": 3
+  },
+  {
+   "text": "A rounded hull turns that sideways squeeze partly into an upward push. The ice slides down along the curve and lifts the ship, instead of crushing it. The famous polar ship Fram, built for the explorer Fridtjof Nansen in the eighteen nineties, used this idea. It was frozen into the Arctic ice on purpose and survived.",
+   "query": "Fram ship",
+   "caption": "LIFTED, NOT CRUSHED"
+  },
+  {
+   "text": "Many ships trapped in ice in the past, with straight sides, were crushed and sank. The rounded shape makes the ship roll more in open water, which is uncomfortable for the crew. But in the ice, comfort is less important than survival.",
+   "query": "ship trapped in ice",
+   "caption": "SURVIVAL FIRST"
+  },
+  {
+   "text": "Why does an icebreaker rock itself from side to side on purpose? To avoid getting stuck. Ice can grip the sides of a ship with huge friction. Large tanks on both sides of the hull pump water quickly from one side to the other, making the ship roll a few degrees back and forth.",
+   "query": "icebreaker heeling system",
+   "caption": "WHY DOES THIS SHIP ROCK ITSELF?",
+   "arrow": true,
+   "chapter": "4. The heeling tanks",
+   "short": "Why Do Icebreakers Rock Themselves From Side to Side?",
+   "cuts": 3
+  },
+  {
+   "text": "That rolling motion breaks the grip of the ice on the hull, like wiggling a stuck key in a lock. It also helps the ship turn in thick ice and break free when it is pinned. Some icebreakers can also pump water forward and backward to tilt the bow up or down.",
+   "query": "icebreaker in ice",
+   "caption": "WIGGLING A STUCK KEY"
+  },
+  {
+   "text": "The heeling system is powerful. Hundreds of tonnes of water can be moved in under a minute. Finnish icebreaker designers were among the pioneers of the idea, because the Baltic Sea freezes every winter, and keeping its ports open is vital for the country's trade.",
+   "query": "Finnish icebreaker",
+   "caption": "BORN IN THE BALTIC"
+  },
+  {
+   "text": "Why do some icebreakers blow air bubbles out of their hull? To reduce friction. Holes along the lower hull release a stream of compressed air. The bubbles rise along the sides of the ship, carrying water with them, and form a slippery layer between the hull and the ice.",
+   "query": "icebreaker air bubbling system",
+   "caption": "WHY DOES THIS SHIP BLOW BUBBLES?",
+   "arrow": true,
+   "chapter": "5. The air bubbling system",
+   "short": "Why Do Some Icebreakers Blow Bubbles?",
+   "cuts": 3
+  },
+  {
+   "text": "Ice and snow piled against a hull can act like glue, especially wet snow on top of ice. The bubbling water washes it away and makes the ice slide more easily. The ship needs less power to move, and is less likely to get stuck in heavy ice.",
+   "query": "ship in snow ice",
+   "caption": "A SLIPPERY LAYER"
+  },
+  {
+   "text": "Some icebreakers use a very smooth, hard coating on the hull instead, which also reduces friction and protects the steel. Both ideas aim at the same problem. Breaking the ice is only half the battle. The other half is sliding through the broken pieces without being held back.",
+   "query": "icebreaker hull coating",
+   "caption": "SLIDING THROUGH"
+  },
+  {
+   "text": "Why do most icebreakers turn their propellers with electric motors? Because the propellers keep hitting ice. A block of ice can suddenly jam a propeller and almost stop it. A diesel engine connected directly to the propeller could stall or be damaged by that shock.",
+   "query": "icebreaker propeller",
+   "caption": "WHY DO ICEBREAKERS USE ELECTRIC MOTORS?",
+   "arrow": true,
+   "chapter": "6. The electric drive",
+   "short": "Why Do Icebreakers Use Electric Motors?",
+   "cuts": 3
+  },
+  {
+   "text": "In a diesel electric icebreaker, the diesel engines run generators, and the generators power electric motors that turn the propellers. An electric motor can produce full force even at very low speed, so when ice slows the propeller, the motor keeps pushing hard and chews through it.",
+   "query": "diesel-electric ship",
+   "caption": "FULL FORCE AT LOW SPEED"
+  },
+  {
+   "text": "The propellers themselves are made of very strong steel, with thick blades, and they are often designed so a damaged blade can be replaced. Some icebreakers have propellers at the bow too, to wash broken ice away from the hull. Every part of the drive is built to survive ice.",
+   "query": "icebreaker propeller dry dock",
+   "caption": "BUILT TO SURVIVE ICE"
+  },
+  {
+   "text": "Why does Russia operate icebreakers powered by nuclear reactors? Because of distance and power. The Arctic route along the north of Russia is very long, far from ports where a ship could refuel. Breaking thick ice also needs enormous power for long periods.",
+   "query": "nuclear icebreaker",
+   "caption": "WHY DOES THIS ICEBREAKER HAVE A REACTOR?",
+   "arrow": true,
+   "chapter": "7. The nuclear reactor",
+   "short": "Why Does Russia Have Nuclear Icebreakers?",
+   "cuts": 3
+  },
+  {
+   "text": "A nuclear reactor provides that power without refuelling for years. The Soviet Union launched the Lenin in nineteen fifty-seven, the world's first nuclear powered surface ship. In nineteen seventy-seven, the nuclear icebreaker Arktika became the first surface ship to reach the North Pole.",
+   "query": "icebreaker Arktika",
+   "caption": "FIRST TO THE NORTH POLE"
+  },
+  {
+   "text": "Russia still builds new nuclear icebreakers, among the most powerful ever made, to keep the Northern Sea Route open. Nuclear power is expensive and complex, and only makes sense for the toughest jobs. In the Arctic, where the ice never stops and fuel is far away, it is the toughest job of all.",
+   "query": "Russian nuclear icebreaker",
+   "caption": "THE TOUGHEST JOB"
+  },
+  {
+   "text": "Why do some ships sail backwards through ice on purpose? They are called double acting ships. The bow is shaped for open water, so the ship is efficient in normal seas. The stern is shaped like an icebreaker, and it has rotating propeller pods that can break and mill the ice.",
+   "query": "double acting ship",
+   "caption": "WHY DOES THIS SHIP SAIL BACKWARDS?",
+   "arrow": true,
+   "chapter": "8. The backward ship",
+   "short": "Why Do Some Ships Sail Backwards Through Ice?",
+   "cuts": 3
+  },
+  {
+   "text": "In heavy ice, the ship turns around and goes stern first. The propellers chew up the ice in front of them and wash it away along the hull, which turns out to be very effective, especially in thick, packed ice. In open water, the ship turns around again and sails normally.",
+   "query": "ship in ice stern first",
+   "caption": "STERN FIRST"
+  },
+  {
+   "text": "This idea was developed in Finland, and it allowed some cargo ships and tankers to sail in ice without needing an icebreaker escort. It is a perfect example of engineering thinking. When one end of the ship cannot be good at two jobs, give each end a different job.",
+   "query": "Arctic tanker",
+   "caption": "EACH END HAS A JOB"
+  },
+  {
+   "text": "Why do some icebreakers have a curved notch cut into the back of the hull? It is a towing notch. When a cargo ship gets stuck in heavy ice, the icebreaker can pull it very close, until the cargo ship's bow sits right inside the notch.",
+   "query": "icebreaker towing notch",
+   "caption": "WHY IS THERE A NOTCH IN THE BACK?",
+   "arrow": true,
+   "chapter": "9. The towing notch",
+   "short": "Why Do Icebreakers Have a Notch in the Stern?",
+   "cuts": 3
+  },
+  {
+   "text": "Then the two ships move together as one. The icebreaker breaks the ice, and the cargo ship pushes from behind, with no gap where the ice could close in between them. In thick ice, a channel can freeze shut quickly, so keeping the ships tightly together is essential.",
+   "query": "icebreaker escort ship",
+   "caption": "MOVING AS ONE"
+  },
+  {
+   "text": "The notch is padded with heavy rubber fenders to protect both ships. It is a simple solution that looks strange in a photo, like a bite taken out of the stern. But in the Arctic, it can be the difference between a cargo ship reaching port and spending the winter trapped.",
+   "query": "icebreaker stern",
+   "caption": "A BITE IN THE STERN"
+  },
+  {
+   "text": "Why does one icebreaker sail sideways through the ice? It is the Baltika, an oblique icebreaker built for Russia. Its hull is asymmetric, not the same on both sides. It can move forward or backward like a normal icebreaker, but it can also move at an angle, pushing its long side against the ice.",
+   "query": "oblique icebreaker Baltika",
+   "caption": "WHY DOES THIS ICEBREAKER GO SIDEWAYS?",
+   "arrow": true,
+   "chapter": "10. The sideways icebreaker",
+   "short": "Why Does This Icebreaker Sail Sideways?",
+   "cuts": 3
+  },
+  {
+   "text": "Moving sideways, the small ship opens a channel much wider than itself, wide enough for a big tanker to follow. Normally, that would need a much larger icebreaker. Its propeller pods can rotate in any direction, letting it slide diagonally through the ice.",
+   "query": "Baltika icebreaker",
+   "caption": "A WIDER CHANNEL"
+  },
+  {
+   "text": "It was designed by Finnish engineers and entered service in the twenty tens. It shows that, even after more than a century of icebreakers, there are still new ways to break ice. Sometimes the best way forward is to go sideways.",
+   "query": "icebreaker channel",
+   "caption": "SOMETIMES, GO SIDEWAYS"
+  },
+  {
+   "text": "So here are the ten. A sloped bow that climbs onto the ice. A thick ice belt with ribs close together. A rounded hull that gets lifted, not crushed. Tanks that rock the ship free. Bubbles that make the ice slippery. Electric motors that chew through ice. Reactors for the longest routes. Ships that sail backwards on purpose. A notch for close towing. And an icebreaker that goes sideways.",
+   "query": "icebreaker",
+   "caption": "10 PARTS. 10 REASONS.",
+   "chapter": "The verdict",
+   "cuts": 6
+  },
+  {
+   "text": "An icebreaker does not fight the ice with sharpness, but with weight, shape and patience. If you want more machines explained part by part, subscribe to Machine Reverse. And tell us in the comments, would you sail through the Arctic on an icebreaker?",
+   "query": "icebreaker night",
+   "caption": "SUBSCRIBE: MACHINE REVERSE",
+   "cuts": 4
+  }
+ ]
+}
