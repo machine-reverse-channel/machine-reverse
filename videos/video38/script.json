@@ -163,8 +163,8 @@
    "query": "foul release coating",
    "caption": "WHY IS THIS HULL SO SLIPPERY?",
    "arrow": {
-    "x": 0.5,
-    "y": 0.62
+    "x": 0.35,
+    "y": 0.78
    },
    "chapter": "7. The slippery coating",
    "short": "Why Do Some Ships Have Slippery Hulls?",
