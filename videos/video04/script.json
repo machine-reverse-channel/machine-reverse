@@ -71,8 +71,8 @@
    "query": "aircraft tire tread grooves",
    "caption": "WHY DON'T THESE TIRES HAVE TREAD?",
    "arrow": {
-    "x": 0.5,
-    "y": 0.66
+    "x": 0.46,
+    "y": 0.58
    },
    "chapter": "3. The straight grooves",
    "short": "Why Don't Airplane Tires Have Tread Like Car Tires?",
@@ -94,8 +94,8 @@
    "query": "oleo strut landing gear",
    "caption": "WHY IS THIS LEG FULL OF OIL AND GAS?",
    "arrow": {
-    "x": 0.5,
-    "y": 0.3
+    "x": 0.6,
+    "y": 0.35
    },
    "chapter": "4. The shiny piston",
    "short": "Why Is an Airplane's Landing Gear Full of Oil?",
@@ -117,8 +117,8 @@
    "query": "landing gear torque link",
    "caption": "WHY ARE THERE SCISSORS ON THE GEAR?",
    "arrow": {
-    "x": 0.5,
-    "y": 0.3
+    "x": 0.43,
+    "y": 0.45
    },
    "chapter": "5. The scissors on the gear",
    "short": "Why Do Airplane Landing Gears Have Scissors?",
@@ -186,8 +186,8 @@
    "query": "airplane landing tire smoke",
    "caption": "WHY DO TIRES SMOKE ON LANDING?",
    "arrow": {
-    "x": 0.4,
-    "y": 0.62
+    "x": 0.36,
+    "y": 0.76
    },
    "chapter": "8. The puff of smoke",
    "short": "Why Do Airplane Tires Smoke When They Land?",
