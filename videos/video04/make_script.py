@@ -129,6 +129,16 @@ sc("""Landing gear looks like a few wheels on sticks. It is really one of the mo
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Two man replace a main landing gear tire of a plane.jpg", 0.22, 0.55),
+    2: ("File:Concorde - Undercarriage and cooling fans embedded in the wheel rims (7181588076).jpg", 0.66, 0.5),
+    3: ("File:Nose landing gear of a Sukhoi Superjet 100.jpg", 0.5, 0.66),
+    4: ("File:Oleo trailing link main landing gear.JPG", 0.5, 0.3),
+    5: ("File:Oleo torque link main landing gear.JPG", 0.5, 0.3),
+    6: ("File:Boeing 737 Next-Generation Carbon Brake PAS 2013.jpg", 0.62, 0.45),
+    7: ("File:American Airlines Boeing 777-200ER N788AN landing gear and flaps.jpg", 0.6, 0.7),
+    8: ("File:Touchdown! FedEx MD-11 main gear making contact.jpg", 0.4, 0.62),
+    9: ("File:'Remove before flight' tag on Concorde F-BVFA.jpg", 0.52, 0.45),
+    10: ("File:44 Hercules main landing gear manual emergency extension - IMG 6279 RIAT 2025 - Friday 18 July.jpg", 0.5, 0.6),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
