@@ -24,10 +24,14 @@
    "text": "Why does the nose of a seven forty-seven freighter open? So long cargo can go straight in, with nothing in the way. In the early nineteen sixties, Boeing designed a huge military transport for a US Air Force competition, and it needed a door at the front. To make room for it, the cockpit was moved up, above the cargo floor. Boeing lost that competition, but the idea moved into the seven forty-seven.",
    "query": "Boeing 747 nose cargo door",
    "caption": "WHY DOES THIS NOSE OPEN?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.3,
+    "y": 0.45
+   },
    "chapter": "1. The nose door",
    "short": "Why Do Cargo Planes Open Their Nose?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Big mouth (50162261181).jpg"
   },
   {
    "text": "At the time, many engineers believed supersonic jets would soon carry most passengers, and the seven forty-seven would end its life as a freighter. So Boeing kept the cockpit up high and made the nose able to open on the freighter versions. Supersonic jets never took over, but the hump became the most famous shape in aviation, and the nose door made the seven forty-seven a cargo legend.",
@@ -43,10 +47,14 @@
    "text": "Why do cargo planes also have a giant door on the side, behind the wing? Because not every airport has the special loaders needed for the nose, and not every freighter has a nose that opens. A large side cargo door lets a standard loader lift pallets up to the main deck from the side. Many freighters converted from passenger jets get one of these doors cut into their fuselage.",
    "query": "main deck side cargo door",
    "caption": "WHY IS THIS DOOR SO BIG?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.62,
+    "y": 0.55
+   },
    "chapter": "2. The giant side door",
    "short": "Why Do Cargo Planes Have a Giant Side Door?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:B-16462 B747-45E (SCD) Eva Air BKK 31MAR06 (6539733803).jpg"
   },
   {
    "text": "Cutting a giant hole in the side of a pressurized fuselage is a serious job. The edges of the hole must be reinforced with new frames and beams, because the fuselage is basically a pressure vessel, and the forces that the old skin carried must now go around the door. The door itself has heavy latches, and the crew gets warnings if it is not fully locked.",
@@ -62,10 +70,14 @@
    "text": "Why is the floor of a cargo plane covered in rollers and balls? Because cargo comes in standard pallets and containers that can weigh several tonnes each, and nobody can carry them. Near the door, ball mats let a pallet turn in any direction. Along the length of the airplane, rows of rollers and motor-driven wheels push it toward the back, one position at a time.",
    "query": "aircraft cargo floor rollers",
    "caption": "WHY IS THIS FLOOR FULL OF ROLLERS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "3. The floor that rolls",
    "short": "Why Is a Cargo Plane Floor Full of Rollers?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:USCG Lockheed HC-130H 1704 cargo bay pallet rollers.JPG"
   },
   {
    "text": "A loadmaster can move a pallet weighing several tonnes with a small joystick. And the containers themselves are clever. Many of them are shaped with a sloped side, so they fit the curve of the fuselage perfectly, wasting as little space as possible. They are called unit load devices, and their shapes are standardized, so the same container can fly on different airplanes.",
@@ -81,10 +93,14 @@
    "text": "Why is there a strong net or wall right behind the cockpit of a cargo plane? It is the cargo barrier. If the airplane stops suddenly, in a crash landing or a rejected takeoff, tonnes of cargo would keep moving forward. The barrier is there to stop it before it reaches the pilots. Aviation rules require items inside an airplane to be restrained against very high forces, up to nine times their own weight forward.",
    "query": "cargo barrier net aircraft",
    "caption": "WHY IS THERE A NET BEHIND THE PILOTS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.4
+   },
    "chapter": "4. The net behind the cockpit",
    "short": "Why Is There a Giant Net Behind Cargo Pilots?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:N414FE cargo hold.jpg"
   },
   {
    "text": "The cargo itself is also locked to the floor. Pallets are held by locks built into the floor rails, and the load on each pallet is tied down with nets and straps. The loadmaster calculates where every pallet goes, because the weight must be spread along the airplane to keep the center of gravity in a safe range.",
@@ -100,10 +116,14 @@
    "text": "Why does the Antonov An-124 kneel down on the ground, like a camel? Its landing gear can lower the nose of the airplane, so the cargo floor becomes a gentle ramp. Then trucks, tanks and heavy machines can be driven or winched straight in through the front door. The An-124 first flew on the twenty-fourth of December nineteen eighty-two, and it is still one of the biggest cargo planes flying.",
    "query": "Antonov An-124 nose open",
    "caption": "WHY DOES THIS PLANE KNEEL DOWN?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.6,
+    "y": 0.6
+   },
    "chapter": "5. The legs that kneel",
    "short": "Why Does This Giant Plane Kneel Down?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Antonov An-124 (445770991).jpg"
   },
   {
    "text": "The An-124 has doors at both ends, so vehicles can drive in one side and out the other. It can carry about one hundred twenty tonnes in its standard version, and up to one hundred fifty in a special version. Inside the cabin, there is an overhead crane that can lift thirty tonnes, plus a winch that can pull loads of up to one hundred twenty tonnes. It does not need much help from the airport.",
@@ -119,10 +139,14 @@
    "text": "Why do military cargo planes open their tail like a ramp? Because the cargo often has wheels. With a ramp at the back, jeeps, trucks and helicopters can be driven or pushed straight in, without special airport equipment. That is why military transports like the C-130 Hercules and the C-17 have a high wing, a tail lifted up out of the way, and a fuselage that sits close to the ground.",
    "query": "C-130 Hercules rear ramp open",
    "caption": "WHY DOES THE TAIL OPEN LIKE A RAMP?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.55
+   },
    "chapter": "6. The ramp at the back",
    "short": "Why Do Military Cargo Planes Open at the Back?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:C-130 Air Drop 110411-F-RH591-224.jpg"
   },
   {
    "text": "The ramp can also open in flight. That is how paratroopers jump and how cargo is dropped by parachute. Pallets slide out of the back, pulled by a small parachute, and a big one opens to bring them down. In some low level drops, the airplane flies just above the ground, and the cargo is pulled out by parachute and lands on its skids.",
@@ -138,10 +162,14 @@
    "text": "Why does the tail of this strange seven forty-seven swing open sideways? This is the Dreamlifter, a seven forty-seven heavily modified by Boeing to carry the giant parts of the seven eight seven, like wings and fuselage sections, between factories in different countries. The parts are too big for any normal door, so the entire back of the airplane swings open on hinges.",
    "query": "Boeing Dreamlifter tail open",
    "caption": "WHY DOES THIS TAIL SWING OPEN?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.75,
+    "y": 0.45
+   },
    "chapter": "7. The tail that swings open",
    "short": "Why Does the Dreamlifter's Tail Swing Open?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Boeing 747-400LCF Dreamlifter.jpg"
   },
   {
    "text": "The Dreamlifter's fuselage was enlarged into a huge bulging shape, with far more volume than a normal seven forty-seven freighter. Its cargo is big but not very heavy, so volume matters more than weight. Only four were built, and they are a key part of how the seven eight seven is built, as the parts come from suppliers spread around the world.",
@@ -157,10 +185,14 @@
    "text": "Why does the Airbus Beluga have that giant bubble on top? Because Airbus builds its airliners in pieces across Europe, wings in Britain, fuselage sections in France, Germany and Spain, and those pieces must fly to the final assembly lines. The Beluga's cockpit was lowered, and a huge cargo bay was built above it, opening through a door at the front, above the cockpit.",
    "query": "Airbus Beluga",
    "caption": "WHY DOES THIS PLANE HAVE A BUBBLE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.6,
+    "y": 0.3
+   },
    "chapter": "8. The bubble on top",
    "short": "Why Does the Airbus Beluga Look Like a Whale?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Airbus Beluga, ILA 2024, Schoenefeld (ILA43968).jpg"
   },
   {
    "text": "The newer BelugaXL is based on the A three thirty and first flew in July two thousand eighteen. It can carry two A three fifty wings at the same time. Its designers even painted a smiling face on the nose, with eyes and a mouth, after a public vote. It is one of the few aircraft built to look friendly on purpose.",
@@ -176,10 +208,14 @@
    "text": "Why are the walls of a cargo hold covered in special fire-resistant panels? They are called cargo liners, and their job is to hold a fire inside the cargo compartment long enough for the crew to land. Behind those walls run the cables and control systems that fly the airplane. If a fire burns through, the pilots can lose control.",
    "query": "aircraft cargo hold liner",
    "caption": "WHY ARE THESE WALLS FIREPROOF?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.3,
+    "y": 0.4
+   },
    "chapter": "9. The walls of the cargo hold",
    "short": "Why Are Cargo Plane Walls Fireproof?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:CARGO HOLD OF BOEING 747-230 D-ABYM ON DISPLAY AT THE TECHNIK MUSEUM SPEYER GERMANY APRIL 2013 (9377073884).jpg"
   },
   {
    "text": "That is what happened to UPS flight six on the third of September two thousand ten. Shortly after takeoff from Dubai, a pallet carrying more than eighty-one thousand lithium batteries caught fire by itself. The fire burned through the liner, damaged the flight controls, and smoke filled the cockpit. Both pilots died, about twenty-seven minutes after the first fire warning.",
@@ -195,10 +231,14 @@
    "text": "Why is there a seat and a control panel inside the cargo hold of a military transport? It is the loadmaster's station. The loadmaster is the crew member who plans where all the cargo goes, checks that every pallet and vehicle is locked down, operates the ramp, and in flight watches the cargo and runs airdrops. On a cargo plane, the cargo has its own crew member.",
    "query": "loadmaster C-17",
    "caption": "WHY IS THERE A SEAT IN THE CARGO HOLD?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "10. The seat for the loadmaster",
    "short": "Why Is There a Seat Inside a Cargo Plane?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:JASDF C-2(78-1205) loadmaster station at Komaki Air Base March 3, 2018.jpg"
   },
   {
    "text": "The loadmaster's numbers decide whether the airplane can fly at all. If the weight is too far forward or too far back, the airplane can become impossible to control on takeoff. That is why every piece of cargo is weighed and its position recorded, and why the loadmaster signs off before the airplane moves.",
