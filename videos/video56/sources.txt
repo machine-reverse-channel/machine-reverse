@@ -1,0 +1,12 @@
+- Arch, gravity and arch-gravity dams: Wikipedia, "Arch dam" https://en.wikipedia.org/wiki/Arch_dam ; Wikipedia, "Gravity dam" https://en.wikipedia.org/wiki/Gravity_dam
+- Contra (Verzasca) Dam, 220 m, GoldenEye bungee jump: Wikipedia, "Contra Dam" https://en.wikipedia.org/wiki/Contra_Dam
+- Three Gorges Dam (2,335 m long, 181 m tall, largest power station): Wikipedia, "Three Gorges Dam" https://en.wikipedia.org/wiki/Three_Gorges_Dam
+- Hoover Dam (660 ft base, cooling pipes ~582 miles, 125-year cooling estimate, four intake towers, two clocks, 30 ft penstocks): US Bureau of Reclamation, "Hoover Dam - Frequently Asked Questions" https://www.usbr.gov/lc/hooverdam/faqs/ ; Wikipedia, "Hoover Dam" https://en.wikipedia.org/wiki/Hoover_Dam
+- Oroville Dam spillway incident (February 2017, ~188,000 evacuated): Independent Forensic Team report (2018) ; Wikipedia, "Oroville Dam crisis" https://en.wikipedia.org/wiki/Oroville_Dam_crisis
+- Glen Canyon Dam 1983 spillway cavitation, flashboards, aeration slots: US Bureau of Reclamation ; Wikipedia, "Glen Canyon Dam" https://en.wikipedia.org/wiki/Glen_Canyon_Dam
+- Cavitation: Wikipedia, "Cavitation" https://en.wikipedia.org/wiki/Cavitation
+- Water hammer and surge tanks: Wikipedia, "Water hammer" https://en.wikipedia.org/wiki/Water_hammer
+- Inspection galleries, uplift and drains, plumb lines: US Bureau of Reclamation, "Design of Gravity Dams" ; FEMA dam safety guidelines https://www.fema.gov/emergency-managers/risk-management/dam-safety
+- Fish ladders (Bonneville Dam fish counting): US Army Corps of Engineers, Portland District https://www.nwp.usace.army.mil/bonneville/ ; Wikipedia, "Fish ladder" https://en.wikipedia.org/wiki/Fish_ladder
+- Vajont Dam disaster (9 October 1963, ~260 million m3 landslide, ~2,000 deaths, Longarone): Wikipedia, "Vajont Dam" https://en.wikipedia.org/wiki/Vajont_Dam
+- Itaipu Dam (Brazil-Paraguay 50/50, 20 units at 50 Hz and 60 Hz): Itaipu Binacional https://www.itaipu.gov.br/en ; Wikipedia, "Itaipu Dam" https://en.wikipedia.org/wiki/Itaipu_Dam
