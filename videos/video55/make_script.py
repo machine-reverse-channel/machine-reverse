@@ -132,6 +132,17 @@ sc("""Next time you feel that thump thump on a bridge, look down. The bridge is 
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:20250801 082601 Bridge expansion joints 02.jpg", 0.53, 0.5),
+    2: ("File:2018-10-22 (835) Bridge expansion joint at Donaubrücke in Krems an der Donau, Austria.jpg", 0.48, 0.5),
+    3: ("File:Elastomeric Bearing Pads-1 GA (8423158069).jpg", 0.42, 0.73),
+    4: ("File:Rocker Bearings P9030222.JPG", 0.35, 0.55),
+    5: ("File:Hydrodemolitioned deck surface, screed rail, plugged deck drains.jpg", 0.72, 0.5),
+    6: ("File:Rail bridge scour protection Lower Gledfield - geograph.org.uk - 2176381.jpg", 0.75, 0.55),
+    7: ("File:Hovenring - trillingsdempers.jpg", 0.62, 0.45),
+    8: ("File:Regency suspension bridge, west suspension cable and Colorado River below.jpg", 0.5, 0.38),
+    9: ("File:Tacoma Narrows Bridge (117561803).jpeg", 0.3, 0.75),
+    10: ("File:WB US 84 Bridge ices before road Brooks County dashcam.jpg", 0.9, 0.62),
+    11: ("File:Forth Bridge (geograph 6549767).jpg", 0.62, 0.4),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
