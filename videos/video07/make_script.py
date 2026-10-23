@@ -122,6 +122,16 @@ sc("""A helicopter looks like it is fighting the air, and in a way it is. Every 
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Tail rotor Sea Lynx.jpg", 0.48, 0.42),
+    2: ("File:Shrouded tail of an H135 (5).jpg", 0.42, 0.55),
+    3: ("File:MD600N (14825938382).jpg", 0.78, 0.42),
+    4: ("File:Ka-52 at an air show in Voronezh 2014.jpg", 0.47, 0.32),
+    5: ("File:ZK558 Boeing Chinook HC.6 RAF Corris Corner 2018 01.jpg", 0.28, 0.5),
+    6: ("File:Swashplate by Kamov Ka-26. Central House of Aviation and Cosmonautics.jpg", 0.5, 0.45),
+    7: ("File:JMSDF SH-60J (8295) main rotor head at Tokushima Air Base October 1, 2022.jpg", 0.5, 0.25),
+    8: ("File:Rotor head CH-53.jpg", 0.45, 0.55),
+    9: ("File:Coupe cable gazelle 16321.jpg", 0.76, 0.3),
+    10: ("File:NATC pilots train with A-Star Helicopter (20250207612).jpg", 0.47, 0.33),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
