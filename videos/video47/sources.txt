@@ -1,0 +1,11 @@
+- Distributed power (radio-controlled remote locomotives, Locotrol): Wikipedia, "Distributed power" https://en.wikipedia.org/wiki/Distributed_power
+- Slack action and draft gear: Wikipedia, "Slack action" https://en.wikipedia.org/wiki/Slack_action and "Draft gear" https://en.wikipedia.org/wiki/Draft_gear
+- Knuckle couplers and spare knuckles: Wikipedia, "Railway coupling" https://en.wikipedia.org/wiki/Railway_coupling
+- End-of-train devices and two-way EOT rules: US FRA, 49 CFR Part 232 Subpart E https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-232/subpart-E and Wikipedia, "End-of-train device" https://en.wikipedia.org/wiki/End-of-train_device
+- Caboose and its disappearance in the 1980s: Wikipedia, "Caboose" https://en.wikipedia.org/wiki/Caboose
+- Dynamic braking and resistor grids: Wikipedia, "Dynamic braking" https://en.wikipedia.org/wiki/Dynamic_braking
+- Double-stack rail transport and tunnel clearance projects: Wikipedia, "Double-stack rail transport" https://en.wikipedia.org/wiki/Double-stack_rail_transport
+- Hump yards and car retarders: Wikipedia, "Classification yard" https://en.wikipedia.org/wiki/Classification_yard and "Car retarder" https://en.wikipedia.org/wiki/Car_retarder
+- Tehachapi Loop (1876): Wikipedia, "Tehachapi Loop" https://en.wikipedia.org/wiki/Tehachapi_Loop
+- Ditch lights (auxiliary alerting lights): US FRA, 49 CFR 229.125 https://www.ecfr.gov/current/title-49/subtitle-B/chapter-II/part-229/subpart-C/subject-group-ECFRe3e3b49e4e5c9b4/section-229.125
+- Train stopping distances at crossings: Operation Lifesaver, "Train facts" https://oli.org/
