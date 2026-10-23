@@ -1,0 +1,8 @@
+- Nitrogen in tires on braked wheels above 75,000 lb, max 5% oxygen: 14 CFR 25.733(e) https://www.law.cornell.edu/cfr/text/14/25.733
+- Mexicana Flight 940 (1986), air-filled tire explosion, AD 87-08-09: Wikipedia, "Mexicana de Aviación Flight 940" https://en.wikipedia.org/wiki/Mexicana_de_Aviaci%C3%B3n_Flight_940
+- Fusible plugs in aircraft wheels: SKYbrary, "Fusible Plug" https://skybrary.aero/articles/fusible-plug
+- Boeing 737NG main tire rating (225 mph): Boeing Shop, Goodyear Flight Leader H44.5x16.5-21 https://shop.boeing.com/cpd/bdi_441k82-1=0t
+- Oleo strut principle, Vickers 1915 patent: Wikipedia, "Oleo strut" https://en.wikipedia.org/wiki/Oleo_strut
+- 747-8 rejected takeoff test (975,000 lb, worn brakes, 5-minute wait): AVweb, "Boeing's Takeoff Torture Test" https://www.avweb.com/news/boeings-takeoff-torture-test
+- Maxaret anti-skid (Dunlop, early 1950s, ~30% shorter stops, Jensen FF): Wikipedia, "Maxaret" https://en.wikipedia.org/wiki/Maxaret
+- Tire nitrogen and inflation guidance: FAA AC 20-97B https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC20-97B.pdf
