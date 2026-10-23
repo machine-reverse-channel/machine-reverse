@@ -1,0 +1,9 @@
+- Expansion joints (finger and modular), thermal expansion of steel ~12e-6 per °C: Wikipedia, "Expansion joint" https://en.wikipedia.org/wiki/Expansion_joint ; FHWA, "Bridge Preservation Guide" https://www.fhwa.dot.gov/bridge/preservation/
+- Bridge bearings (elastomeric, pot, sliding, rocker, seismic isolation): Wikipedia, "Bridge bearing" https://en.wikipedia.org/wiki/Bridge_bearing
+- Deck drainage, chlorides and rebar corrosion: FHWA, "Corrosion Protection of Concrete Bridges" https://www.fhwa.dot.gov/
+- Scour; Schoharie Creek Bridge collapse (5 April 1987, 10 deaths): NTSB report HAR-88/02 ; Wikipedia, "Schoharie Creek Bridge collapse" https://en.wikipedia.org/wiki/Schoharie_Creek_Bridge_collapse ; FHWA HEC-18 "Evaluating Scour at Bridges"
+- Rain-wind induced vibration of stay cables, helical fillets and dampers: Wikipedia, "Cable-stayed bridge" https://en.wikipedia.org/wiki/Cable-stayed_bridge ; Hikami & Shiraishi (1988), Journal of Wind Engineering and Industrial Aerodynamics
+- Main cable dehumidification (Akashi Kaikyo Bridge): Wikipedia, "Akashi Kaikyō Bridge" https://en.wikipedia.org/wiki/Akashi_Kaiky%C5%8D_Bridge ; Honshu-Shikoku Bridge Expressway
+- Tacoma Narrows Bridge collapse (7 November 1940, ~64 km/h wind, dog Tubby): Wikipedia, "Tacoma Narrows Bridge (1940)" https://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge_(1940)
+- Bridges freeze before roads: US National Weather Service / FHWA Road Weather Management https://ops.fhwa.dot.gov/weather/
+- Forth Bridge repainting (2002-2011, coating expected to last 25+ years): Wikipedia, "Forth Bridge" https://en.wikipedia.org/wiki/Forth_Bridge ; Network Rail
