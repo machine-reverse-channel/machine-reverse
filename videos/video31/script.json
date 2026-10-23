@@ -24,10 +24,14 @@
    "text": "Why is there a little arrow next to your fuel gauge? It tells you which side of the car the fuel door is on. If the arrow points left, the filler is on the left. If it points right, it is on the right. It exists for the moment you drive a rented or borrowed car into a petrol station and do not know which side to stop on.",
    "query": "fuel gauge arrow",
    "caption": "WHY IS THERE AN ARROW NEXT TO THE FUEL GAUGE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.58,
+    "y": 0.5
+   },
    "chapter": "1. The fuel gauge arrow",
    "short": "Why Is There a Little Arrow Next to Your Fuel Gauge?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Car Fuel Gauge - Full Gas Tank (52958977635).jpg"
   },
   {
    "text": "There is no single rule for which side the fuel door goes on. Car makers choose based on the layout of the car underneath, where the tank, the exhaust and the other parts fit best. So two cars from the same brand can have the filler on opposite sides, and drivers guess wrong all the time.",
@@ -43,10 +47,14 @@
    "text": "Why are there black dots around the edge of your windscreen? They are part of a black band called the frit, a ceramic paint baked into the glass. The windscreen is glued to the car, and that glue is damaged by sunlight. The black band blocks the sun, so the glue stays strong for years.",
    "query": "windshield frit dots",
    "caption": "WHY ARE THERE BLACK DOTS ON THE WINDSCREEN?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.8,
+    "y": 0.35
+   },
    "chapter": "2. The black dots",
    "short": "Why Are There Black Dots on Your Windshield?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:D\u00fclmen, Wiesmann Sports Cars, Wiesmann GT -- 2018 -- 9598.jpg"
   },
   {
    "text": "The band also gives the glue a rough surface to grip, and it hides the glue from view so the edge looks clean. The dots are there because of heat. A solid black band heats up much more than clear glass. Fading the black into smaller and smaller dots spreads the heat more gently, and reduces stress in the glass.",
@@ -62,10 +70,14 @@
    "text": "Why are there small bumps hidden inside the grooves of your tyres? They are tread wear indicators. Each bump is a little bar of rubber that sits about one point six millimetres above the bottom of the groove. When the tyre wears down to the level of the bars, it is time to replace it.",
    "query": "tire tread wear indicator",
    "caption": "WHY ARE THERE BUMPS INSIDE THE TYRE GROOVES?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.62
+   },
    "chapter": "3. The tread wear bars",
    "short": "Why Are There Little Bumps Inside Tire Grooves?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Autoreifen mit Verschlei\u00dfanzeige.JPG"
   },
   {
    "text": "One point six millimetres is the legal minimum tread depth in many countries, including the European Union. The grooves in a tyre carry water away, so the rubber can touch the road. When the grooves become too shallow, water stays under the tyre and the car can start to float on it, which is called aquaplaning.",
@@ -81,10 +93,14 @@
    "text": "Why do new tyres have little rubber hairs sticking out of them? They are a side effect of how tyres are made. A tyre is pressed into a hot mould, and the rubber flows into every corner. Air trapped inside the mould would leave holes and weak spots, so the mould has tiny holes to let the air escape.",
    "query": "new tire rubber hairs",
    "caption": "WHY DO NEW TYRES HAVE LITTLE HAIRS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.85,
+    "y": 0.45
+   },
    "chapter": "4. The tyre hairs",
    "short": "Why Do New Tires Have Little Rubber Hairs?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Close-up of Front tire of a Volkswagen car.jpg"
   },
   {
    "text": "As the air escapes, a little rubber flows into those holes too. When the tyre comes out of the mould, the rubber in the holes stays attached as thin hairs. Tyre makers call them vent spews. They have no job on the road. They are the fingerprints of air leaving the mould.",
@@ -100,10 +116,14 @@
    "text": "Why do many rear car doors have a small fixed window at the back? Because of the wheel. The rear wheel arch cuts into the bottom of the rear door. When the main window slides down into the door, it would hit the wheel arch before it disappears. So the window is made smaller, and the gap is filled with a fixed piece of glass.",
    "query": "car rear door quarter glass",
    "caption": "WHY IS THIS SMALL WINDOW HERE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.35,
+    "y": 0.5
+   },
    "chapter": "5. The small rear window",
    "short": "Why Do Rear Car Doors Have a Small Fixed Window?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:1968 Rambler American 440 4-door sedan green VA-rm.jpg"
   },
   {
    "text": "That is why, in many cars, the rear window only goes down partway, or the door has a small triangle of glass that never moves. Engineers would rather have a fully opening window, but the shape of the door simply does not leave enough room inside it for the whole glass.",
@@ -119,10 +139,14 @@
    "text": "Why do cars have a third brake light, high up in the middle? So the driver behind can see you brake, even through the car in front of them. The two normal brake lights are low, at the height of the other car's bumper. The third one is at eye level, often visible through the windows of the cars in between.",
    "query": "third brake light",
    "caption": "WHY IS THERE A BRAKE LIGHT UP HERE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.2
+   },
    "chapter": "6. The third brake light",
    "short": "Why Do Cars Have a Third Brake Light?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:\" 12 - ITALY - FIAT Panda 4x4 - third brake light and rear window 04.jpg"
   },
   {
    "text": "In the United States, it became required on new cars in the nineteen eighties, after studies found it helped reduce rear end crashes. Many other countries followed. It has a special job, because it lights up only when you brake. It is never confused with the tail lights at night.",
@@ -138,10 +162,14 @@
    "text": "Why do modern cars have a little shark fin on the roof? It is an antenna cover. Cars used to have a long metal rod for the radio. Today, a car may need antennas for the radio, satellite navigation, phone connection and emergency calls. The fin holds several of them in one small, hard shell.",
    "query": "shark fin antenna",
    "caption": "WHY IS THERE A SHARK FIN ON THE ROOF?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.6,
+    "y": 0.4
+   },
    "chapter": "7. The shark fin",
    "short": "Why Do Cars Have a Shark Fin on the Roof?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Shark Fin Antenna of Honda City 7th Generation (5th Generation Sedan) iVTEC 2022.jpg"
   },
   {
    "text": "The roof is the best place for antennas, because it has the clearest view of the sky, and the metal roof below acts as a reflector that helps the signal. A long rod antenna makes wind noise, adds a little drag, and can be broken in a car wash. The fin solves all three.",
@@ -157,10 +185,14 @@
    "text": "Why are there thin lines across your rear window? They are heating wires. The lines are made of a conductive paint, printed onto the glass and baked in. When you press the defrost button, electricity flows through them, and they warm up just enough to clear ice, frost and mist.",
    "query": "rear window defroster lines",
    "caption": "WHY ARE THERE LINES ON THE REAR WINDOW?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "8. The rear window lines",
    "short": "Why Are There Lines on Your Rear Window?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Rear window heating 20180405.jpg"
   },
   {
    "text": "The lines are spaced so heat spreads evenly across the glass. They run across the window, connected at each side by a wider strip where the wires attach. A broken line leaves a stripe of frost, which is why repair kits sell a small bottle of conductive paint to reconnect it.",
@@ -176,10 +208,14 @@
    "text": "Why do the low beams of your car shine unevenly? Look at the light on a wall, and you will see the top edge is not straight. On one side it is lower, and on the other side it rises. It is designed that way. The low side faces oncoming traffic, so you do not blind other drivers.",
    "query": "car low beam pattern",
    "caption": "WHY DOES THIS LIGHT POINT UNEVENLY?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.35
+   },
    "chapter": "9. The tilted low beam",
    "short": "Why Do Car Headlights Shine Unevenly?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Phare code.png"
   },
   {
    "text": "The higher side lights the edge of the road, where people walk and signs stand. That way, you see further along the side of the road without shining into anyone's eyes. The shape is built into the headlight itself, with carefully designed reflectors or lenses.",
@@ -195,10 +231,14 @@
    "text": "Why is there a small dome on top of your dashboard, near the windscreen? It is a sensor. On many cars it measures sunlight. When strong sun shines into the car, the climate control knows to cool the cabin more, often on the side where the sun is coming in.",
    "query": "dashboard sunlight sensor",
    "caption": "WHY IS THERE A LITTLE DOME ON THE DASHBOARD?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.6
+   },
    "chapter": "10. The dashboard sensor",
    "short": "Why Is There a Little Dome on Your Dashboard?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Chevrolet Ambient Light Sensor.jpg"
   },
   {
    "text": "On many cars, the same spot also holds a light sensor for automatic headlights. When it gets dark, or you drive into a tunnel, the sensor notices and the lights turn on. Covering it with a phone holder or a parking ticket can fool the car into thinking it is night.",
