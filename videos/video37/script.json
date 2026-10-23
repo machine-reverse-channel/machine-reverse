@@ -24,10 +24,14 @@
    "text": "Why is a submarine shaped like a long tube? Because a cylinder is one of the best shapes to resist pressure from all sides. Inside the outer skin, there is a thick steel tube called the pressure hull, where the crew lives. The water presses evenly all around the circle, and the steel works in compression, the way an arch holds up a bridge.",
    "query": "submarine pressure hull",
    "caption": "WHY IS THIS SUBMARINE A TUBE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.4
+   },
    "chapter": "1. The pressure hull",
    "short": "Why Don't Submarines Get Crushed?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Construction of the hull section of a submarine 8b07456v.jpg"
   },
   {
    "text": "The steel is a special high strength alloy, and the tube is reinforced from the inside with rings called frames, spaced along its length. A flat surface would bend under the pressure. A curved one spreads the force around the ring. Even the ends of the pressure hull are domed, never flat.",
@@ -43,10 +47,14 @@
    "text": "Why does every submarine have a strict depth limit? Because there is a depth where the hull would fail. Navies define a test depth, the deepest the submarine is designed to go in normal operations, and a much deeper crush depth, where the hull is expected to collapse. The gap between them is the safety margin.",
    "query": "submarine depth gauge",
    "caption": "WHY DOES THIS SUBMARINE HAVE A DEPTH LIMIT?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.58,
+    "y": 0.4
+   },
    "chapter": "2. The depth limit",
    "short": "Why Do Submarines Have a Depth Limit?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Depth gauge in submarine.JPG"
   },
   {
    "text": "The exact numbers are secret for most military submarines, but modern attack submarines are generally believed to operate at several hundred metres. Going deeper means a thicker, heavier hull, or stronger materials. Every metre of depth is a trade with weight, speed and cost.",
@@ -62,10 +70,14 @@
    "text": "Why does a submarine blast out sprays of water when it surfaces? Because of its ballast tanks. A submarine dives by letting sea water into large tanks, which makes it heavier. To come back up, it uses compressed air to push the water out, making the submarine lighter, so it floats up.",
    "query": "submarine emergency surfacing",
    "caption": "WHY DOES THIS SUBMARINE BLOW OUT WATER?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.32,
+    "y": 0.4
+   },
    "chapter": "3. The ballast tanks",
    "short": "Why Do Submarines Blow Out Water to Surface?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:980604-N-7726D-002 Submarine Emergency Surfacing Drill.jpg"
   },
   {
    "text": "The main ballast tanks sit outside the pressure hull, between it and the outer skin. They do not need to resist the full pressure, because they are open to the sea at the bottom. Air pushed in at the top simply forces the water out of the openings below.",
@@ -81,10 +93,14 @@
    "text": "Why does a submarine pump water around inside itself? To stay perfectly balanced. Underwater, a submarine should be neither heavier nor lighter than the water around it, so it hovers without sinking or rising. That is called neutral buoyancy. Small tanks called trim tanks fine tune the weight.",
    "query": "submarine control room",
    "caption": "WHY DOES THIS SUBMARINE MOVE WATER INSIDE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.55
+   },
    "chapter": "4. The trim tanks",
    "short": "Why Do Submarines Pump Water Inside Themselves?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Moscow. Museum of the History of the Russian Navy. Submarine B-396 Novosibirsky komsomolets, ballast tank control station P4172411 3145.jpg"
   },
   {
    "text": "The weight of a submarine keeps changing. Food is eaten, fuel is used, torpedoes are fired, and water density changes with temperature and salt. Even the crew walking from one end to the other can tip the boat. The trim tanks move water forward or backward, and take water in or pump it out, to keep the balance.",
@@ -100,10 +116,14 @@
    "text": "Why are many submarines covered in black rubber tiles? They are anechoic tiles, which means without echo. An enemy can find a submarine by sending a sound pulse through the water and listening for the echo, which is called active sonar. The tiles absorb part of that sound, so the echo is weaker.",
    "query": "submarine anechoic tiles",
    "caption": "WHY IS THIS SUBMARINE COVERED IN TILES?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.65
+   },
    "chapter": "5. The rubber tiles",
    "short": "Why Are Submarines Covered in Rubber Tiles?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Extended sail and hull section amidships of Israeli submarine INS Drakon of German submarine class Dolphin-AIP (modified version).jpg"
   },
   {
    "text": "The tiles also work from the inside. Machines on the submarine, like pumps and generators, make vibrations that travel through the hull and into the water. The rubber layer dampens those sounds before they escape, making the submarine harder to hear. The Soviet Union was one of the first to use them widely.",
@@ -119,10 +139,14 @@
    "text": "Why do submarines have small wings on the tower or the bow? They are diving planes, and they work like the elevators on the tail of a plane. When the submarine is moving, tilting the planes pushes the bow up or down, so the boat can change depth smoothly without changing its ballast.",
    "query": "submarine diving planes",
    "caption": "WHY DOES THIS SUBMARINE HAVE SMALL WINGS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.6,
+    "y": 0.55
+   },
    "chapter": "6. The diving planes",
    "short": "Why Do Submarines Have Small Wings?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:B-39 port bow plane 2.JPG"
   },
   {
    "text": "On many American submarines, the planes were placed on the tower, called the sail. That keeps them away from the noisy bow sonar. But planes on the sail must turn vertical to break through ice when the submarine surfaces in the Arctic. Newer designs often move them to the bow, where they can fold away.",
@@ -138,10 +162,14 @@
    "text": "Why are the propellers of modern submarines so secret, often covered when the boat is in dry dock? Because the shape of a propeller decides how much noise it makes. An enemy listening with sensitive microphones can identify a submarine by the sound of its propeller.",
    "query": "submarine propeller covered",
    "caption": "WHY IS THIS PROPELLER HIDDEN?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.35,
+    "y": 0.45
+   },
    "chapter": "7. The hidden propeller",
    "short": "Why Do Submarines Hide Their Propellers?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Resolution class submarine propeller IMG 9657.jpg"
   },
   {
    "text": "Older submarines used a propeller with many curved blades, shaped to avoid cavitation, the bubbles that form and collapse when a propeller spins too fast. Those bubbles are loud underwater. Many modern submarines use a pump jet instead, a rotor spinning inside a duct, which is quieter at high speed.",
@@ -157,10 +185,14 @@
    "text": "Why do some modern submarines have no traditional periscope? A classic periscope is a long tube with mirrors or prisms, passing right through the pressure hull into the control room. That tube needs a large hole in the hull, and it decides where the control room must be, directly under the sail.",
    "query": "submarine periscope",
    "caption": "WHY DOESN'T THIS SUBMARINE HAVE A PERISCOPE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.8,
+    "y": 0.45
+   },
    "chapter": "8. The periscope",
    "short": "Why Do Modern Submarines Not Have a Periscope?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:USN Cmdr. Mike Stevens, CO of USS New Hampshire demonstrates the photonics mast for members of the media.jpg"
   },
   {
    "text": "The American Virginia class uses photonics masts instead. They carry cameras and sensors, and send images by cable to screens inside. Nothing has to pass through the hull except wires, so the control room can be placed lower and wherever designers want it, with more space.",
@@ -175,11 +207,15 @@
   {
    "text": "How can sailors escape from a sunken submarine? Through an escape trunk, a small chamber with a hatch, built into the pressure hull. A sailor enters, the inner hatch is closed, and the chamber is slowly flooded until the pressure inside matches the sea outside. Then the outer hatch can open.",
    "query": "submarine escape hatch",
-   "caption": "HOW DO SAILORS ESCAPE A SUNKEN SUBMARINE?",
-   "arrow": true,
+   "caption": "WHY DOES THIS SUBMARINE HAVE A ROUND DOOR?",
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "9. The escape hatch",
    "short": "Why Do Submarines Have Escape Hatches?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:B-39 emergency escape hatch 1.JPG"
   },
   {
    "text": "The sailor rises to the surface wearing a special suit, which provides air and keeps them warm. The rise must be fast but controlled, because the air in the lungs expands as the pressure drops. Escape is only possible from limited depths. Deeper, rescue vehicles must come down and connect to the hatch.",
@@ -195,10 +231,14 @@
    "text": "Why are the cabins of the deepest diving vehicles perfect spheres? Because a sphere is the strongest shape against pressure from all sides. In nineteen sixty, the bathyscaphe Trieste carried two men to the bottom of the Challenger Deep, almost eleven kilometres down. They sat inside a steel sphere about two metres across.",
    "query": "bathyscaphe Trieste",
    "caption": "WHY IS THIS CABIN A PERFECT SPHERE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.39,
+    "y": 0.62
+   },
    "chapter": "10. The deep sphere",
    "short": "Why Are the Deepest Submarines Shaped Like Spheres?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Bathyscaphe Trieste.jpg"
   },
   {
    "text": "At that depth, the pressure is more than one thousand times that at the surface. The walls of the Trieste's sphere were about thirteen centimetres thick. A long tube like a military submarine could never survive there. Only a sphere spreads the force evenly in every direction.",

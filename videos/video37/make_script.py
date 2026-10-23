@@ -96,7 +96,7 @@ sc("""The mast can also take a quick panoramic picture in a moment and then go d
    "submarine mast", "A QUICK LOOK")
 
 # ---------- 9. ESCAPE HATCH ----------
-part(9, "The escape hatch", "HOW DO SAILORS ESCAPE A SUNKEN SUBMARINE?", "Why Do Submarines Have Escape Hatches?",
+part(9, "The escape hatch", "WHY DOES THIS SUBMARINE HAVE A ROUND DOOR?", "Why Do Submarines Have Escape Hatches?",
      """How can sailors escape from a sunken submarine? Through an escape trunk, a small chamber with a hatch, built into the pressure hull. A sailor enters, the inner hatch is closed, and the chamber is slowly flooded until the pressure inside matches the sea outside. Then the outer hatch can open.""",
      "submarine escape hatch")
 sc("""The sailor rises to the surface wearing a special suit, which provides air and keeps them warm. The rise must be fast but controlled, because the air in the lungs expands as the pressure drops. Escape is only possible from limited depths. Deeper, rescue vehicles must come down and connect to the hatch.""",
@@ -121,6 +121,16 @@ sc("""A submarine is a machine that fights the whole ocean, quietly. If you want
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ('File:Construction of the hull section of a submarine 8b07456v.jpg', 0.45, 0.4),
+    2: ('File:Depth gauge in submarine.JPG', 0.58, 0.4),
+    3: ('File:980604-N-7726D-002 Submarine Emergency Surfacing Drill.jpg', 0.32, 0.4),
+    4: ('File:Moscow. Museum of the History of the Russian Navy. Submarine B-396 Novosibirsky komsomolets, ballast tank control station P4172411 3145.jpg', 0.55, 0.55),
+    5: ('File:Extended sail and hull section amidships of Israeli submarine INS Drakon of German submarine class Dolphin-AIP (modified version).jpg', 0.5, 0.65),
+    6: ('File:B-39 port bow plane 2.JPG', 0.6, 0.55),
+    7: ('File:Resolution class submarine propeller IMG 9657.jpg', 0.35, 0.45),
+    8: ('File:USN Cmdr. Mike Stevens, CO of USS New Hampshire demonstrates the photonics mast for members of the media.jpg', 0.8, 0.45),
+    9: ('File:B-39 emergency escape hatch 1.JPG', 0.5, 0.5),
+    10: ('File:Bathyscaphe Trieste.jpg', 0.39, 0.62),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
