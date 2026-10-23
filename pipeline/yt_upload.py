@@ -78,9 +78,10 @@ def main(mode):
         return
     if mode == "status":
         ids = ",".join(x["id"] for x in json.loads(STATE.read_text()).values() if "id" in x)
-        r = requests.get("https://www.googleapis.com/youtube/v3/videos", params={"part": "status", "id": ids},
+        r = requests.get("https://www.googleapis.com/youtube/v3/videos", params={"part": "status,processingDetails", "id": ids},
                          headers={"Authorization": f"Bearer {tok}"}, timeout=30); r.raise_for_status()
-        for v in r.json()["items"]: print(v["id"], v["status"])
+        out = [f"{v['id']} {v['status']}" for v in r.json()["items"]]
+        print("\n".join(out)); open("agendamento/youtube-check.txt", "w").write("\n".join(out))
         return
     state = json.loads(STATE.read_text()) if STATE.exists() else {}
     lote = mode == "lote"
