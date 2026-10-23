@@ -133,7 +133,7 @@ sc("""Next time you see a wind farm turning slowly on a hill, count the blades, 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
     1: ("File:Nacelle of Wind Turbine 01.jpg", 0.62, 0.32),
-    2: ("File:Shaft end of Wind turbine blades.jpg", 0.55, 0.6),
+    2: ("File:Shaft end of Wind turbine blades.jpg", 0.27, 0.5),
     3: ("File:Wind turbine construction, Pougny, Enercon E-103 hub (1).jpg", 0.5, 0.45),
     4: ("File:Wind turbine blades in laydown yard Pasco 2009 fins - detail.jpg", 0.55, 0.5),
     5: ("File:N117 Vortexgenerator.jpg", 0.85, 0.6),

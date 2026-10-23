@@ -1,0 +1,93 @@
+# Photo credits: Why Are There Rocks Under Railway Tracks?
+
+All photos from Wikimedia Commons.
+
+- Haltepunkt Leipzig–Anger-Crottendorf mit demontiertem Gleis 1.jpg by August Geyler, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Haltepunkt_Leipzig%E2%80%93Anger-Crottendorf_mit_demontiertem_Gleis_1.jpg
+- Bauende eines neuen Streckenabschnittes mit Betonschwellen.jpg by August Geyler, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bauende_eines_neuen_Streckenabschnittes_mit_Betonschwellen.jpg
+- Lake-Louise AB Railway-Station Ballast-Regulator 2022-09-25.jpg by Milan Suvajac, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lake-Louise_AB_Railway-Station_Ballast-Regulator_2022-09-25.jpg
+- Guards van with ballast spreading. Leeming Bar Station. Wensleydale Railway.jpg by Rosser1954, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Guards_van_with_ballast_spreading._Leeming_Bar_Station._Wensleydale_Railway.jpg
+- Lake-Louise AB Railway-Station Ballast-Regulator 2022-09-25 (5).jpg by Milan Suvajac, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lake-Louise_AB_Railway-Station_Ballast-Regulator_2022-09-25_(5).jpg
+- Lake-Louise AB Railway-Station Ballast-Tamper 2022-09-25.jpg by Milan Suvajac, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lake-Louise_AB_Railway-Station_Ballast-Tamper_2022-09-25.jpg
+- Lake-Louise AB Railway-Station Ballast-Regulator 2022-09-25 (3).jpg by Milan Suvajac, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lake-Louise_AB_Railway-Station_Ballast-Regulator_2022-09-25_(3).jpg
+- Lake-Louise AB Railway-Station Ballast-Regulator 2022-09-25 (6).jpg by Milan Suvajac, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lake-Louise_AB_Railway-Station_Ballast-Regulator_2022-09-25_(6).jpg
+- Pacific National freight train Virginia, SA.jpg by Tomoyn, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Pacific_National_freight_train_Virginia,_SA.jpg
+- Bangladesh Railway freight train 981 At Alishwar.jpg by Sobuz Khan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bangladesh_Railway_freight_train_981_At_Alishwar.jpg
+- Railway switch lever on Grötö.jpg by W.carter, Public domain, https://commons.wikimedia.org/wiki/File:Railway_switch_lever_on_Gr%C3%B6t%C3%B6.jpg
+- GER Class 61 at Western Junction, Liverpool Street.jpg by Tony Hisgett from Birmingham, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:GER_Class_61_at_Western_Junction,_Liverpool_Street.jpg
+- Lake-Louise AB Railway-Station Ballast-Regulator 2022-09-25 (4).jpg by Milan Suvajac, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lake-Louise_AB_Railway-Station_Ballast-Regulator_2022-09-25_(4).jpg
+- Lake-Louise AB Railway-Station Ballast-Regulator 2022-09-25 (2).jpg by Milan Suvajac, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lake-Louise_AB_Railway-Station_Ballast-Regulator_2022-09-25_(2).jpg
+- Park in Świerklaniec, Industriada 2014 pic29.JPG by WikiAnika, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Park_in_%C5%9Awierklaniec,_Industriada_2014_pic29.JPG
+- Park in Świerklaniec, Industriada 2014 pic27.JPG by WikiAnika, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Park_in_%C5%9Awierklaniec,_Industriada_2014_pic27.JPG
+- Concrete to wooden tie transition.JPG by Reaperexpress, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Concrete_to_wooden_tie_transition.JPG
+- Concrete sleepers for Hovedstadens Letbane 02.jpg by Leif Jørgensen, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Concrete_sleepers_for_Hovedstadens_Letbane_02.jpg
+- Concrete sleepers for Hovedstadens Letbane 03.jpg by Leif Jørgensen, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Concrete_sleepers_for_Hovedstadens_Letbane_03.jpg
+- Colinton (AU), Bombala Railway -- 2019 -- 1699.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Colinton_(AU),_Bombala_Railway_--_2019_--_1699.jpg
+- Wells Light Railway Sleepers after closure.jpg by Norfolks disused railways, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wells_Light_Railway_Sleepers_after_closure.jpg
+- Stack of railroad ties - Fitchburg Cutoff - Belmont, MA.jpg by Daderot, CC0, https://commons.wikimedia.org/wiki/File:Stack_of_railroad_ties_-_Fitchburg_Cutoff_-_Belmont,_MA.jpg
+- Jack Rabbit Trading Post seen through stacked railroad ties - US Route 66, Joseph City, Arizona, AZ, USA - 2026 - Daniel Guimaraes Rego, Dan Rego, Daniel G. Rego, Daniel Rego, Daniel Guimarães Rego (1986) 07.jpg by Daniel G Rego, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Jack_Rabbit_Trading_Post_seen_through_stacked_railroad_ties_-_US_Route_66,_Joseph_City,_Arizona,_AZ,_USA_-_2026_-_Daniel_Guimaraes_Rego,_Dan_Rego,_Daniel_G._Rego,_Daniel_Rego,_Daniel_Guimar%C3%A3es_Rego_(1986)_07.jpg
+- Pandrol-on-concrete.jpg by Marcus Wong Wongm, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Pandrol-on-concrete.jpg
+- Pandrol clip statue.jpg by Alex Peterson, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Pandrol_clip_statue.jpg
+- Broken Pandrol clip at Bromborough railway station (26872782811).jpg by Richard Ash, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Broken_Pandrol_clip_at_Bromborough_railway_station_(26872782811).jpg
+- Nabla Clip 3038.jpg by Chris Light, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Nabla_Clip_3038.jpg
+- Rail LRS, fixation sur traverse, clip.jpg by Cjp24, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rail_LRS,_fixation_sur_traverse,_clip.jpg
+- Concrete Pad - panoramio.jpg by Membwayne, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Concrete_Pad_-_panoramio.jpg
+- Up First GW HST passing Magor.jpg by kitmasterbloke, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Up_First_GW_HST_passing_Magor.jpg
+- DB Museum rail and concrete sleeper cross section 1.jpg by Arnoldius, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:DB_Museum_rail_and_concrete_sleeper_cross_section_1.jpg
+- Profile of Beacon Hill Tunnel, 1912.jpg by Engineering News, Public domain, https://commons.wikimedia.org/wiki/File:Profile_of_Beacon_Hill_Tunnel,_1912.jpg
+- 37706 at Kings Cross 039.jpg by Panhard, CC BY 2.5, https://commons.wikimedia.org/wiki/File:37706_at_Kings_Cross_039.jpg
+- Didcot Railway Centre- Rails, wheelsets, and coaling facility.jpg by wwwuppertal, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Didcot_Railway_Centre-_Rails,_wheelsets,_and_coaling_facility.jpg
+- Istanbul Sirkeci old railway station rails already removed 2022-05.jpg by Josef Moser, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Istanbul_Sirkeci_old_railway_station_rails_already_removed_2022-05.jpg
+- Fairmont Tamper Rail Grinding Train.jpg by Samson Ng . D201@EAL, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Fairmont_Tamper_Rail_Grinding_Train.jpg
+- Speno International Rail Grinding Train - 51516034580.jpg by Samson Ng . D201@EAL, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Speno_International_Rail_Grinding_Train_-_51516034580.jpg
+- Plasser & Theurer Ballast Tamping Train.jpg by Samson Ng . D201@EAL, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Plasser_%26_Theurer_Ballast_Tamping_Train.jpg
+- Total reconstruction of Neunkirchen station (075).jpg by Steindy (talk) 14:10, 22 December 2014 (UTC), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Total_reconstruction_of_Neunkirchen_station_(075).jpg
+- Total reconstruction of Neunkirchen station (073).jpg by Steindy (talk) 14:09, 22 December 2014 (UTC), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Total_reconstruction_of_Neunkirchen_station_(073).jpg
+- Plasser & Theurer Ballast Tamping Train - 52740311489.jpg by Samson Ng . D201@EAL, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Plasser_%26_Theurer_Ballast_Tamping_Train_-_52740311489.jpg
+- Tamping machine Plasser & Theurer Unimat 08-275.jpg by McKaby, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tamping_machine_Plasser_%26_Theurer_Unimat_08-275.jpg
+- Hallstadt Baustelle Ballast leveller-20210925-RM-152740.jpg by Ermell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hallstadt_Baustelle_Ballast_leveller-20210925-RM-152740.jpg
+- WorkTrain 20210219 020842.jpg by Ka23 13, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:WorkTrain_20210219_020842.jpg
+- Ballast cleaning machine BCM343.jpg by KannanVM, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ballast_cleaning_machine_BCM343.jpg
+- Ballast cleaning machine RM8092U.jpg by KannanVM, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ballast_cleaning_machine_RM8092U.jpg
+- HUA-168655-Afbeelding van de transportband van de hormachine van de N.S. voor het afvoeren van vuile ballast, tijdens onderhoudswerkzaamheden aan de spoorlijn te Heerhugowaard.jpg by Nederlandse Spoorwegen, CC0, https://commons.wikimedia.org/wiki/File:HUA-168655-Afbeelding_van_de_transportband_van_de_hormachine_van_de_N.S._voor_het_afvoeren_van_vuile_ballast,_tijdens_onderhoudswerkzaamheden_aan_de_spoorlijn_te_Heerhugowaard.jpg
+- TOBU railway's Ballast sweeper.jpg by Bassabassa, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:TOBU_railway%27s_Ballast_sweeper.jpg
+- General Railway Pictures 2014 08.jpg by The Basingstoker, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:General_Railway_Pictures_2014_08.jpg
+- Railway track Mud eruption.JPG by まも, Public domain, https://commons.wikimedia.org/wiki/File:Railway_track_Mud_eruption.JPG
+- The street railway review (1891) (14736903046).jpg by Internet Archive Book Images, Public domain, https://commons.wikimedia.org/wiki/File:The_street_railway_review_(1891)_(14736903046).jpg
+- Railroad bridge across the Willimantic River, Ellington CT.jpg by John Phelan, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Railroad_bridge_across_the_Willimantic_River,_Ellington_CT.jpg
+- Maidenhead Railway Bridge and Guards Club Island (Nancy).JPG by Nancy, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Maidenhead_Railway_Bridge_and_Guards_Club_Island_(Nancy).JPG
+- Railway bridge, Dainton - geograph.org.uk - 6869554.jpg by Derek Harper, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Railway_bridge,_Dainton_-_geograph.org.uk_-_6869554.jpg
+- BLW Switch frame from Post Office (London) Railway (Mail Rail).jpg by Mike Peel, CC BY-SA 2.0 uk, https://commons.wikimedia.org/wiki/File:BLW_Switch_frame_from_Post_Office_(London)_Railway_(Mail_Rail).jpg
+- BLW Switch frame from Post Office (London) Railway (Mail Rail) (1).jpg by Mike Peel, CC BY-SA 2.0 uk, https://commons.wikimedia.org/wiki/File:BLW_Switch_frame_from_Post_Office_(London)_Railway_(Mail_Rail)_(1).jpg
+- Derail device on a siding off the Yanco–Griffith railway line near Leeton Railway Station.jpg by Bidgee, CC BY-SA 3.0 au, https://commons.wikimedia.org/wiki/File:Derail_device_on_a_siding_off_the_Yanco%E2%80%93Griffith_railway_line_near_Leeton_Railway_Station.jpg
+- Derail device on a siding off the Yanco–Griffith railway line near Leeton Railway Station (close-up).jpg by Bidgee, CC BY-SA 3.0 au, https://commons.wikimedia.org/wiki/File:Derail_device_on_a_siding_off_the_Yanco%E2%80%93Griffith_railway_line_near_Leeton_Railway_Station_(close-up).jpg
+- Axle counter installed on rail 20260913.jpg by Jplahti, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Axle_counter_installed_on_rail_20260913.jpg
+- Axle counters on railway tracks 20260913.jpg by Jplahti, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Axle_counters_on_railway_tracks_20260913.jpg
+- I20 679 EAK30C-NT.jpg by Falk2, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:I20_679_EAK30C-NT.jpg
+- Red railway signal at dusk.jpg by W.carter, CC0, https://commons.wikimedia.org/wiki/File:Red_railway_signal_at_dusk.jpg
+- Stop Signal Semaphores (7496938872).jpg by nottsexminer, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Stop_Signal_Semaphores_(7496938872).jpg
+- Signal box, Hadlow Road station 2018.jpg by Rodhullandemu, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Signal_box,_Hadlow_Road_station_2018.jpg
+- Pickering MMB 04 North Yorkshire Moors Railway (New Bridge Signal Box).jpg by mattbuck (category), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Pickering_MMB_04_North_Yorkshire_Moors_Railway_(New_Bridge_Signal_Box).jpg
+- Eurobalise Toledo.JPG by Stino, Public domain, https://commons.wikimedia.org/wiki/File:Eurobalise_Toledo.JPG
+- Siemens Eurobalise on Infrabel L202, front.jpg by M!dgard, CC0, https://commons.wikimedia.org/wiki/File:Siemens_Eurobalise_on_Infrabel_L202,_front.jpg
+- Eurobalise at Ripafratta train station.jpg by DnaX, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Eurobalise_at_Ripafratta_train_station.jpg
+- Balise til CBTC på Hvidovre Station.jpg by Leif Jørgensen, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Balise_til_CBTC_p%C3%A5_Hvidovre_Station.jpg
+- Alstom CBTC balise, Anse-à-l'Orme station, 2026-05-16.jpg by SomeRailfan, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Alstom_CBTC_balise,_Anse-%C3%A0-l%27Orme_station,_2026-05-16.jpg
+- Baikal Railway, Tunnel 13, Russia.jpg by Vyacheslav Argenberg, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Baikal_Railway,_Tunnel_13,_Russia.jpg
+- Baikal Railway, Tunnel 27, East portal, Russia.jpg by Vyacheslav Argenberg, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Baikal_Railway,_Tunnel_27,_East_portal,_Russia.jpg
+- Defect Detector.JPG by BBT609, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Defect_Detector.JPG
+- Defect Detector bungalow.JPG by BBT609, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Defect_Detector_bungalow.JPG
+- Heissläufer-Ortungsanlage im Innern des Gotthard Basistunnels.jpg by Uschoen, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Heissl%C3%A4ufer-Ortungsanlage_im_Innern_des_Gotthard_Basistunnels.jpg
+- Ferrocarril en el salar de Ascotán, Chile, 2016-02-09, DD 46.JPG by Diego Delso, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ferrocarril_en_el_salar_de_Ascot%C3%A1n,_Chile,_2016-02-09,_DD_46.JPG
+- CN 8015, 5690 and 5517 Hinton - Jasper.jpg by Kabelleger / David Gubler, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:CN_8015,_5690_and_5517_Hinton_-_Jasper.jpg
+- Image from page 322 of "The Street railway journal" (1884).jpg by Internet Archive Book Images, CC0, https://commons.wikimedia.org/wiki/File:Image_from_page_322_of_%22The_Street_railway_journal%22_(1884).jpg
+- Image from page 1109 of "Electric railway journal" (1908).jpg by Internet Archive Book Images, CC0, https://commons.wikimedia.org/wiki/File:Image_from_page_1109_of_%22Electric_railway_journal%22_(1908).jpg
+- One point perspective.jpg by Laitche, Public domain, https://commons.wikimedia.org/wiki/File:One_point_perspective.jpg
+- Wooden and bamboo facades of dwellings with sudare in a cobbled street of Gion, perspective effect with vanishing point, Kyoto, Japan.jpg by Basile Morin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wooden_and_bamboo_facades_of_dwellings_with_sudare_in_a_cobbled_street_of_Gion,_perspective_effect_with_vanishing_point,_Kyoto,_Japan.jpg
+- Sao Paulo Railway.jpg by Silvio Tanaka, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Sao_Paulo_Railway.jpg
+- One-point perspective of the Dresser Subdivision railway.jpg by PinchyCC, CC BY 4.0, https://commons.wikimedia.org/wiki/File:One-point_perspective_of_the_Dresser_Subdivision_railway.jpg
+- One Point Perspective of Courtesan's street (Landscape).jpg by iMahesh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:One_Point_Perspective_of_Courtesan%27s_street_(Landscape).jpg
+- One point perspective of a small Mandapa in Bhima's Gateway.jpg by iMahesh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:One_point_perspective_of_a_small_Mandapa_in_Bhima%27s_Gateway.jpg
+- Sunset Limited diesels.JPG by Southern Pacific/Smith News Company, San Francisco, Public domain, https://commons.wikimedia.org/wiki/File:Sunset_Limited_diesels.JPG
+- Sunset Limited in Alpine TX.jpg by Floppaisgood, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sunset_Limited_in_Alpine_TX.jpg
+- Bangkok skytrain sunset.jpg by User:Diliff, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Bangkok_skytrain_sunset.jpg
+- SP 6451 with Train 1, the Sunset Limited, at Lafayette, LA on January 22, 1971 (29978499383).jpg by railfan 44, Public domain, https://commons.wikimedia.org/wiki/File:SP_6451_with_Train_1,_the_Sunset_Limited,_at_Lafayette,_LA_on_January_22,_1971_(29978499383).jpg
