@@ -121,6 +121,16 @@ sc("""The red on a ship is the colour of a centuries old war against tiny creatu
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ('File:SD-14 Tina.JPG', 0.4, 0.72),
+    2: ('File:New copper sheathing on USS Constitution (2).jpg', 0.5, 0.45),
+    3: ('File:Dry Dock Number 3 in snow.agr.JPG', 0.75, 0.6),
+    4: ('File:Invasive quagga mussels (15466012239).jpg', 0.4, 0.35),
+    5: ('File:613 Osnatol August 2015 Antifoulingaufbau.jpg', 0.5, 0.6),
+    6: ('File:Draft Marks (43785166).jpeg', 0.27, 0.55),
+    7: ('File:Cleaning a hull in Ullapool Harbour - geograph.org.uk - 4470881.jpg', 0.5, 0.62),
+    8: ('File:A port bow view of the cargo ship SS MORMAC SEA in a floating dry dock at Norfolk Shipbuilding and Dry Dock Corporation. The MORMAC SEA is undergoing conversion and will become a Mi - DPLA - 121eea5aa674ca4e64c81092791515a0.jpeg', 0.3, 0.72),
+    9: ('File:Ballast Alfa1.JPG', 0.6, 0.4),
+    10: ('File:Container lock----6005【 Pictures taken in Japan 】.jpg', 0.4, 0.55),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None

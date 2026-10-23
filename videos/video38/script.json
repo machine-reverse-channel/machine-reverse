@@ -24,10 +24,14 @@
    "text": "Why are cargo ships red below the waterline? Because of the paint that keeps sea life away. It is called antifouling paint. For a long time, the most common ingredient was copper oxide, a copper compound that is poisonous to barnacles and other creatures, and naturally reddish.",
    "query": "antifouling paint ship",
    "caption": "WHY IS THIS SHIP RED UNDERNEATH?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.4,
+    "y": 0.72
+   },
    "chapter": "1. The red paint",
    "short": "Why Are Cargo Ships Red Below the Waterline?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:SD-14 Tina.JPG"
   },
   {
    "text": "The paint slowly releases tiny amounts of copper into the water right next to the hull. Young barnacles and other larvae that try to settle on the surface are killed or driven away. Many modern paints work in a self polishing way, slowly wearing off as the ship moves, always exposing a fresh layer.",
@@ -43,10 +47,14 @@
    "text": "Why did old wooden warships have bottoms covered in copper? To protect them from a small creature called the shipworm. It is actually a kind of clam that bores into wood, eating tunnels through the planks of a ship. A wooden hull could be eaten from inside in just a few years in warm waters.",
    "query": "copper sheathing ship",
    "caption": "WHY DID WOODEN SHIPS HAVE COPPER BOTTOMS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.45
+   },
    "chapter": "2. The copper sheathing",
    "short": "Why Did Old Ships Have Copper Bottoms?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:New copper sheathing on USS Constitution (2).jpg"
   },
   {
    "text": "In the seventeen sixties, the Royal Navy tried covering a ship's hull with thin sheets of copper. It worked. The copper stopped the shipworm and also kept weed and barnacles away, so ships stayed faster for longer. Within a couple of decades, much of the fleet was copper bottomed.",
@@ -62,10 +70,14 @@
    "text": "Why was one of the most effective ship paints ever made banned around the world? It contained a chemical called tributyltin, or T B T. From the nineteen sixties, it was used in antifouling paint, and it worked extremely well. Hulls stayed clean for years.",
    "query": "antifouling ship hull",
    "caption": "WHY WAS THIS SHIP PAINT BANNED?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.75,
+    "y": 0.6
+   },
    "chapter": "3. The banned paint",
    "short": "Why Was the Best Ship Paint Ever Banned?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Dry Dock Number 3 in snow.agr.JPG"
   },
   {
    "text": "But T B T did not only kill barnacles. It leaked into harbours and coastal waters and harmed a wide range of sea life. Oyster farms in France collapsed, with deformed shells, and some sea snails developed abnormal changes. The chemical was found to be one of the most toxic substances ever deliberately put into the sea.",
@@ -81,10 +93,14 @@
    "text": "Why are tiny barnacles such a big problem for giant ships? Because they make the hull rough. A smooth hull slides through the water. A hull covered in barnacles, weed and slime drags a thick layer of water with it, and that friction costs power.",
    "query": "barnacles",
    "caption": "WHY ARE BARNACLES SO EXPENSIVE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.4,
+    "y": 0.35
+   },
    "chapter": "4. The barnacles",
    "short": "Why Are Barnacles a Ship's Worst Enemy?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Invasive quagga mussels (15466012239).jpg"
   },
   {
    "text": "Heavy fouling can increase the fuel a ship burns by tens of percent. For a large ship, that can mean thousands of tonnes of extra fuel per year, and much more pollution. Navies have studied this for decades, because a fouled warship is slower and has less range.",
@@ -100,10 +116,14 @@
    "text": "Why do many ships have a separate stripe of colour at the waterline? It is called the boot top. That band of the hull is sometimes underwater and sometimes in the air, as the ship is loaded, unloaded, and rolls in the waves. It gets wet, dry, sunlight and scraping from docks and tugboats.",
    "query": "boot topping ship",
    "caption": "WHY IS THERE A STRIPE AT THE WATERLINE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.6
+   },
    "chapter": "5. The boot top",
    "short": "Why Do Ships Have a Stripe at the Waterline?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:613 Osnatol August 2015 Antifoulingaufbau.jpg"
   },
   {
    "text": "Those conditions are tougher than either the deep underwater hull or the top sides. So the boot top is painted with a special tough coating, designed to resist wear, sunlight and fouling at the same time. The stripe makes it easy to see where that special paint is.",
@@ -119,10 +139,14 @@
    "text": "Why are there numbers painted down the front and back of a ship? They are draft marks, and they show how deep the ship sits in the water. On metric marks, each number is ten centimetres tall, with gaps of ten centimetres between them, so the water level can be read precisely.",
    "query": "draft marks ship",
    "caption": "WHY ARE THERE NUMBERS ON THE BOW?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.27,
+    "y": 0.55
+   },
    "chapter": "6. The draft marks",
    "short": "Why Do Ships Have Numbers on the Front?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Draft Marks (43785166).jpeg"
   },
   {
    "text": "The draft decides whether a ship can enter a port, pass through a canal or cross a shallow area. It also tells how much cargo the ship is carrying. A surveyor reads the marks at the bow, the middle and the stern, and from the depth, calculates the weight of cargo on board.",
@@ -138,10 +162,14 @@
    "text": "Why do some modern ships have hulls coated in a slippery, rubbery layer? It is a foul release coating, often based on silicone. Instead of poisoning sea life, it makes the surface so smooth and slippery that creatures cannot stick well. When the ship moves, the water washes most of them off.",
    "query": "foul release coating",
    "caption": "WHY IS THIS HULL SO SLIPPERY?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.62
+   },
    "chapter": "7. The slippery coating",
    "short": "Why Do Some Ships Have Slippery Hulls?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Cleaning a hull in Ullapool Harbour - geograph.org.uk - 4470881.jpg"
   },
   {
    "text": "These coatings release no poison into the sea, which makes them attractive as rules on toxic paints get stricter. They work best on ships that move fast and often, because the flowing water is what cleans them. A ship that sits still for weeks may still collect growth.",
@@ -157,10 +185,14 @@
    "text": "Why do giant ships have to leave the water regularly? To inspect and repaint the hull. A dry dock is a basin that can be emptied. The ship floats in, the gates close, the water is pumped out, and the ship settles onto blocks, revealing the whole underwater hull.",
    "query": "ship in dry dock",
    "caption": "WHY DOES THIS SHIP LEAVE THE WATER?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.3,
+    "y": 0.72
+   },
    "chapter": "8. The dry dock",
    "short": "Why Do Giant Ships Have to Leave the Water?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:A port bow view of the cargo ship SS MORMAC SEA in a floating dry dock at Norfolk Shipbuilding and Dry Dock Corporation. The MORMAC SEA is undergoing conversion and will become a Mi - DPLA - 121eea5aa674ca4e64c81092791515a0.jpeg"
   },
   {
    "text": "Classification societies, the organisations that certify ships as safe, require regular inspections of the hull. Large ships typically visit a dry dock every few years. Workers blast off old paint and growth, check the steel, the propeller, the rudder and the anodes, and apply fresh coats of antifouling.",
@@ -176,10 +208,14 @@
    "text": "Why do ships now have systems to treat the sea water they carry? Empty cargo ships take on sea water, called ballast, to sit deeper and stay stable. They carry it across the ocean, and pump it out when they load cargo, in a different part of the world.",
    "query": "ballast water treatment",
    "caption": "WHY DOES THIS SHIP TREAT ITS WATER?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.6,
+    "y": 0.4
+   },
    "chapter": "9. The ballast water system",
    "short": "Why Do Ships Have to Clean Their Ballast Water?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Ballast Alfa1.JPG"
   },
   {
    "text": "That water is full of tiny living things, larvae, plankton and bacteria. Released in a new place, some of them can spread out of control. The zebra mussel, carried in ballast water to the Great Lakes of North America, multiplied enormously and clogged water pipes and power plants, costing huge sums.",
@@ -195,10 +231,14 @@
    "text": "Why don't shipping containers fall off ships in storms? Because each corner is locked to the one below. Every container has strong steel corner castings, with oval holes. A small device called a twistlock fits into those holes, and a quarter turn locks two containers together.",
    "query": "twistlock container",
    "caption": "WHY DON'T CONTAINERS FALL OFF SHIPS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.4,
+    "y": 0.55
+   },
    "chapter": "10. The twistlocks",
    "short": "Why Don't Shipping Containers Fall Off Ships?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Container lock----6005\u3010 Pictures taken in Japan \u3011.jpg"
   },
   {
    "text": "On deck, containers are also tied down with long steel bars called lashing rods, crossing between the stacks. Together, the twistlocks and lashings hold stacks that can be many containers high, against the rolling and pitching of the ship in heavy seas.",
