@@ -48,8 +48,8 @@
    "query": "Mercedes-Benz 300 SL gullwing",
    "caption": "WHY DOES THIS DOOR OPEN LIKE A WING?",
    "arrow": {
-    "x": 0.3,
-    "y": 0.35
+    "x": 0.55,
+    "y": 0.38
    },
    "chapter": "2. The gullwing doors",
    "short": "Why Does the Mercedes 300 SL Have Gullwing Doors?",
@@ -140,8 +140,8 @@
    "query": "carbon fibre monocoque supercar",
    "caption": "WHY IS THIS STEP SO HIGH?",
    "arrow": {
-    "x": 0.62,
-    "y": 0.6
+    "x": 0.63,
+    "y": 0.66
    },
    "chapter": "6. The high sill",
    "short": "Why Do Supercars Have Such a High Sill?",
@@ -163,8 +163,8 @@
    "query": "gas strut",
    "caption": "WHY DOESN'T THIS HEAVY DOOR FALL?",
    "arrow": {
-    "x": 0.47,
-    "y": 0.3
+    "x": 0.66,
+    "y": 0.5
    },
    "chapter": "7. The gas struts",
    "short": "Why Don't Supercar Doors Fall Down?",
