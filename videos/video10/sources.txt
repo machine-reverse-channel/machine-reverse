@@ -1,0 +1,6 @@
+- De-icing fluid types (Type I orange, sprayed 54-82 C; Type IV green, thickened; holdover ranges; 500-1,000 gallons; glycol recovery): Wikipedia, "Aircraft deicing fluid" https://en.wikipedia.org/wiki/Aircraft_deicing_fluid
+- FAA holdover time guidelines: FAA Notice N 8900.374 https://www.faa.gov/documentLibrary/media/Notice/N_8900.374.pdf
+- Air Florida Flight 90 (13 Jan 1982, 78 dead, engine anti-ice off, iced EPR probes): Wikipedia https://en.wikipedia.org/wiki/Air_Florida_Flight_90
+- American Eagle Flight 4184 (31 Oct 1994, ATR 72, 68 dead, ice ridge behind boots): Wikipedia https://en.wikipedia.org/wiki/American_Eagle_Flight_4184
+- Air France Flight 447 (1 June 2009, 228 dead, pitot icing): Wikipedia https://en.wikipedia.org/wiki/Air_France_Flight_447
+- Ice detection, pneumatic boots, electrothermal anti-ice: FAA Aviation Maintenance Technician Handbook, Airframe, Ice and Rain Protection https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/amt_airframe_handbook
