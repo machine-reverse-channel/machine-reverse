@@ -1,0 +1,9 @@
+- Bulldozer parts (ripper, blades S/U/SU, tracks and grousers, undercarriage wear): Wikipedia, "Bulldozer" https://en.wikipedia.org/wiki/Bulldozer ; Caterpillar Performance Handbook
+- Ripping vs blasting: Caterpillar, "Handbook of Ripping" https://www.cat.com/
+- Elevated sprocket (introduced on the Cat D10, 1977): Wikipedia, "Caterpillar D10" https://en.wikipedia.org/wiki/Caterpillar_D10 ; Caterpillar history https://www.caterpillar.com/en/company/history.html
+- ROPS / FOPS and seat belts: OSHA 29 CFR 1926.1001 ; NIOSH, "Preventing Injuries and Deaths from Rollovers"
+- Komatsu D575A-3 Super Dozer (~152 t, 1,150 hp, ~69 m3 blade): Komatsu product data ; Wikipedia, "Komatsu D575A" https://en.wikipedia.org/wiki/Komatsu_D575A
+- Push-loading scrapers with dozers: Wikipedia, "Wheel tractor-scraper" https://en.wikipedia.org/wiki/Wheel_tractor-scraper
+- Armored Caterpillar D9 (IDF): Wikipedia, "IDF Caterpillar D9" https://en.wikipedia.org/wiki/IDF_Caterpillar_D9
+- Landfill dozers and compaction: Caterpillar waste handling arrangements ; US EPA landfill guidance
+- Caterpillar "Hi-Way Yellow" (December 1931): Caterpillar history https://www.caterpillar.com/en/company/history.html
