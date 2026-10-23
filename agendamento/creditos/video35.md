@@ -1,0 +1,96 @@
+# Photo credits: Why Do Ships Have a Bulb Under the Front?
+
+All photos from Wikimedia Commons.
+
+- Dry Dock (4211882894).jpg by Michael Elleray from England, United Kingdom, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dry_Dock_(4211882894).jpg
+- Bulbous bow container feeder.jpg by Niels Johannes, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bulbous_bow_container_feeder.jpg
+- Passenger ship Zaandam in drydock.jpg by S*anner 06n2ey at en.wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Passenger_ship_Zaandam_in_drydock.jpg
+- Bulbous bow 01.jpg by Joe Mabel, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bulbous_bow_01.jpg
+- Bulbous Bow. (10506326716).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0, https://commons.wikimedia.org/wiki/File:Bulbous_Bow._(10506326716).jpg
+- Lifting existing bulbous bow (8293007483).jpg by Maersk Line, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Lifting_existing_bulbous_bow_(8293007483).jpg
+- Bulbous bow. Ship. (12806213473).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0, https://commons.wikimedia.org/wiki/File:Bulbous_bow._Ship._(12806213473).jpg
+- HMS QueenElizabeth bulbous bow 1.JPG by PuzzleScot, CC BY 3.0, https://commons.wikimedia.org/wiki/File:HMS_QueenElizabeth_bulbous_bow_1.JPG
+- MSC HARMONY III (container ship, 2006) in Port Koper (SIKOP, 2024).jpg by Petar Milošević, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:MSC_HARMONY_III_(container_ship,_2006)_in_Port_Koper_(SIKOP,_2024).jpg
+- Container ship Reecon Whale on Black Sea near Constanța Romania.jpg by HopsonRoad, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Container_ship_Reecon_Whale_on_Black_Sea_near_Constan%C8%9Ba_Romania.jpg
+- Viking Sky (ship, 2017) and GNV Cristal (ship, 1989).jpg by Christian Ferrer, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Viking_Sky_(ship,_2017)_and_GNV_Cristal_(ship,_1989).jpg
+- Svanhild sailing ship bow.jpg by Antti Leppänen, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Svanhild_sailing_ship_bow.jpg
+- Marguerite A Bulbous bow Port of Antwerp 07-Jun-2005.jpg by AlfvanBeem, CC0, https://commons.wikimedia.org/wiki/File:Marguerite_A_Bulbous_bow_Port_of_Antwerp_07-Jun-2005.jpg
+- Los Angeles Trader Bulbous Bow (133376873).jpeg by Andrew Priest, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Los_Angeles_Trader_Bulbous_Bow_(133376873).jpeg
+- LL25 MiTina turning into Norra Grundsund harbor.jpg by W.carter, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:LL25_MiTina_turning_into_Norra_Grundsund_harbor.jpg
+- Pilot Boat Mercury.jpg by Stefan Krause, Germany, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Pilot_Boat_Mercury.jpg
+- Tank Barge GM 11105 in Dry Dock.jpg by GuavaTrain, CC0, https://commons.wikimedia.org/wiki/File:Tank_Barge_GM_11105_in_Dry_Dock.jpg
+- Ship in the dry dock at Falmouth by Kernow Skies.jpg by Kernow Skies, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Ship_in_the_dry_dock_at_Falmouth_by_Kernow_Skies.jpg
+- Ship-propeller 2000.jpg by US gov, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ship-propeller_2000.jpg
+- Rudder and propeller Beached fishing vessel Nørre Vorupør Denmark 2017-04-14.jpg by Kim Hansen, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rudder_and_propeller_Beached_fishing_vessel_N%C3%B8rre_Vorup%C3%B8r_Denmark_2017-04-14.jpg
+- 1940s warship propeller.jpg by Tom Oates (Nabokov at English Wikipedia), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:1940s_warship_propeller.jpg
+- Cavitation Propeller Damage.JPG by Erik Axdahl (The original uploader was Axda0002 at English Wikipedia.) (Original text: Erik Axdahl en:User:Axda0002), CC BY-SA 2.5, https://commons.wikimedia.org/wiki/File:Cavitation_Propeller_Damage.JPG
+- Kavitation-ps hg.jpg by Hannes Grobe, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Kavitation-ps_hg.jpg
+- DCP 2024.JPG by Ursula Horn, CC BY 3.0, https://commons.wikimedia.org/wiki/File:DCP_2024.JPG
+- Anker, Gedenktafel, Schiffsdenkmal, 2025 Dunaföldvár.jpg by Globetrotter19, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Anker,_Gedenktafel,_Schiffsdenkmal,_2025_Dunaf%C3%B6ldv%C3%A1r.jpg
+- Brosen bowthruster pharos.jpg by Brosen, CC BY 2.5, https://commons.wikimedia.org/wiki/File:Brosen_bowthruster_pharos.jpg
+- Nieuw Statendam - Bow thruster room.jpg by Akela NDE, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Nieuw_Statendam_-_Bow_thruster_room.jpg
+- Bow thruster make Veth.JPG by S.J. de Waard, CC BY 2.5, https://commons.wikimedia.org/wiki/File:Bow_thruster_make_Veth.JPG
+- Bow thruster make Kalkman (2).JPG by S.J. de Waard, CC BY 2.5, https://commons.wikimedia.org/wiki/File:Bow_thruster_make_Kalkman_(2).JPG
+- Bow thruster my Mautika 1000.JPG by Paweł Drozd aka Drozdp, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Bow_thruster_my_Mautika_1000.JPG
+- Spirit of Tasmania I entering the Mersey River channel.jpg by Cody  Williams, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Spirit_of_Tasmania_I_entering_the_Mersey_River_channel.jpg
+- CSL Laurentien (IMO 7423108) on St Clair River Michigan.jpg by Chris Light (talk), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:CSL_Laurentien_(IMO_7423108)_on_St_Clair_River_Michigan.jpg
+- Plimsoll mark.jpg by Niels Johannes, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Plimsoll_mark.jpg
+- Plimsoll (7476559444).jpg by Michael Pereckas from Milwaukee, WI, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Plimsoll_(7476559444).jpg
+- Plimsoll mark on tugboat Harry in Lysekil harbor 5.jpg by W.carter, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Plimsoll_mark_on_tugboat_Harry_in_Lysekil_harbor_5.jpg
+- Plimsol-mark 4 hg.jpg by Hannes Grobe, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Plimsol-mark_4_hg.jpg
+- Plimsol-mark 3 hg.jpg by Hannes Grobe, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Plimsol-mark_3_hg.jpg
+- SS Sankt Erik, 2021-09-18, 02.jpg by Axel Pettersson, CC BY 4.0, https://commons.wikimedia.org/wiki/File:SS_Sankt_Erik,_2021-09-18,_02.jpg
+- Soldiers Loading Barges for a Large Sailing Ship Along the Coast MET DP860030.jpg by Dirk Langendijk, CC0, https://commons.wikimedia.org/wiki/File:Soldiers_Loading_Barges_for_a_Large_Sailing_Ship_Along_the_Coast_MET_DP860030.jpg
+- General Rudder 2019.jpg by Cstorm21, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:General_Rudder_2019.jpg
+- Rudder, Sailor and climbing gear on Roald Amundsen.jpg by Bernd Fiedler, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rudder,_Sailor_and_climbing_gear_on_Roald_Amundsen.jpg
+- US Navy 061114-N-5951A-007 Workers from Northrop Grumman Newport News shipyard install a refurbished rudder on USS Carl Vinson (CVN 70) in dry dock in Newport News.jpg by U.S. Navy photo by Mass Communication Specialist 2nd Class Tekeshia Affa, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_061114-N-5951A-007_Workers_from_Northrop_Grumman_Newport_News_shipyard_install_a_refurbished_rudder_on_USS_Carl_Vinson_(CVN_70)_in_dry_dock_in_Newport_News.jpg
+- USS Constitution enters dry dock 150519-N-SU274-033.jpg by Petty Officer 2nd Class Peter Melkus, Public domain, https://commons.wikimedia.org/wiki/File:USS_Constitution_enters_dry_dock_150519-N-SU274-033.jpg
+- USS Maine (ACR-1)- Steering Gear Disengaging Mechanism for Intermediate Gear - NARA - 78117899.jpg by Unknown authorUnknown author or not provided, Public domain, https://commons.wikimedia.org/wiki/File:USS_Maine_(ACR-1)-_Steering_Gear_Disengaging_Mechanism_for_Intermediate_Gear_-_NARA_-_78117899.jpg
+- LCT-6- Steering Gear Assembly - NARA - 76033413.jpg by Unknown authorUnknown author or not provided, Public domain, https://commons.wikimedia.org/wiki/File:LCT-6-_Steering_Gear_Assembly_-_NARA_-_76033413.jpg
+- Union Sapphire close up of the propellor 11-Jan-2005.jpg by Alfvanbeem, CC0, https://commons.wikimedia.org/wiki/File:Union_Sapphire_close_up_of_the_propellor_11-Jan-2005.jpg
+- SchlepperSunLondon.jpg by Martin Hüdepohl, Public domain, https://commons.wikimedia.org/wiki/File:SchlepperSunLondon.jpg
+- POSEIDON 6514.jpg by Ein Dahmer, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:POSEIDON_6514.jpg
+- Union Sapphire p7 in the drydocks at Antwerp, Belgium 11-Jan-2005.jpg by Alfvanbeem, CC0, https://commons.wikimedia.org/wiki/File:Union_Sapphire_p7_in_the_drydocks_at_Antwerp,_Belgium_11-Jan-2005.jpg
+- Union Sapphire p4 in the drydocks at Antwerp, Belgium 11-Jan-2005.jpg by Alfvanbeem, CC0, https://commons.wikimedia.org/wiki/File:Union_Sapphire_p4_in_the_drydocks_at_Antwerp,_Belgium_11-Jan-2005.jpg
+- 2025-05-24 01 Tugboat, CHARLES H. CATES IV - MMSI 316005724.jpg by Gordon Leggett, CC BY 4.0, https://commons.wikimedia.org/wiki/File:2025-05-24_01_Tugboat,_CHARLES_H._CATES_IV_-_MMSI_316005724.jpg
+- Comet Tugboat at Mississippi River, New Orleans; September 2019.jpg by Bernard Spragg. NZ, CC0, https://commons.wikimedia.org/wiki/File:Comet_Tugboat_at_Mississippi_River,_New_Orleans;_September_2019.jpg
+- Anchor chain (cable). (9769053784).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0, https://commons.wikimedia.org/wiki/File:Anchor_chain_(cable)._(9769053784).jpg
+- Aegina chain shadow.jpg by Jebulon, CC0, https://commons.wikimedia.org/wiki/File:Aegina_chain_shadow.jpg
+- Staithes Anchor Chain (22337672139).jpg by Sketyl none, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Staithes_Anchor_Chain_(22337672139).jpg
+- Ship Anchor NMGL.jpg by Mbrickn, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Ship_Anchor_NMGL.jpg
+- Anchor of the Rio Tagus (ship, 1979), Sète cf01.jpg by Christian Ferrer, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Anchor_of_the_Rio_Tagus_(ship,_1979),_S%C3%A8te_cf01.jpg
+- Svanhild anchor windlass.jpg by Antti Leppänen, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Svanhild_anchor_windlass.jpg
+- Anchor Windlass on SS Shieldhall.JPG by Wexcan
+
+Christopher Doyle, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Anchor_Windlass_on_SS_Shieldhall.JPG
+- 2022-01-18 sacrificial galvanic anode.jpg by Springnuts, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2022-01-18_sacrificial_galvanic_anode.jpg
+- Sacrificial anode.jpg by Zwergelstern, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Sacrificial_anode.jpg
+- Anode sacrificielle en zinc (2).JPG by Jpbazard Jean-Pierre Bazard, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Anode_sacrificielle_en_zinc_(2).JPG
+- Galvanic-anode hg.jpg by Hannes Grobe (talk), CC BY 3.0, https://commons.wikimedia.org/wiki/File:Galvanic-anode_hg.jpg
+- Galvanic-anodes hg.jpg by Hannes Grobe (talk), CC BY 3.0, https://commons.wikimedia.org/wiki/File:Galvanic-anodes_hg.jpg
+- MMS Ship Repairs at Alexandra Dry Dock, Hull - geograph.org.uk - 4510538.jpg by Ian S, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:MMS_Ship_Repairs_at_Alexandra_Dry_Dock,_Hull_-_geograph.org.uk_-_4510538.jpg
+- Underwater hull of the SS Great Britain in dry dock in Bristol.jpg by Nortix08, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Underwater_hull_of_the_SS_Great_Britain_in_dry_dock_in_Bristol.jpg
+- Nipponmaru bridge wing 20170929.jpg by Ka23 13, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Nipponmaru_bridge_wing_20170929.jpg
+- Bridge Wing of a Cargo Ship 1.jpg by Yanjipy, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bridge_Wing_of_a_Cargo_Ship_1.jpg
+- Ruby Princess bridge.jpg by Eric Polk, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ruby_Princess_bridge.jpg
+- Bridge and deck of Gullbritt.jpg by W.carter, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bridge_and_deck_of_Gullbritt.jpg
+- Boat passing under Elgin Bridge during blue hour (2023)-L1003785.jpg by Frank Schulenburg, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Boat_passing_under_Elgin_Bridge_during_blue_hour_(2023)-L1003785.jpg
+- Container ship from Hamburg passing the Golden Gate.jpg by Frank Schulenburg, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Container_ship_from_Hamburg_passing_the_Golden_Gate.jpg
+- Golden Gate Bridge Yang Ming Line.jpg by Cary Bass, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_Yang_Ming_Line.jpg
+- Polar Endeavour 31930.JPG by Walter Siegmund (talk), CC BY 2.5, https://commons.wikimedia.org/wiki/File:Polar_Endeavour_31930.JPG
+- Seadrive IMO 9934137 T Hamburg 10-01-2024 (1).jpg by Wolfgang Fricke, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Seadrive_IMO_9934137_T_Hamburg_10-01-2024_(1).jpg
+- Seadrive IMO 9934137 T Hamburg 10-01-2024 (2).jpg by Wolfgang Fricke, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Seadrive_IMO_9934137_T_Hamburg_10-01-2024_(2).jpg
+- Exxon Valdez Cleanup.jpg by PH2 POCHE, Public domain, https://commons.wikimedia.org/wiki/File:Exxon_Valdez_Cleanup.jpg
+- Exxon Valdez Oil Spill (13266806523).jpg by NOAA's National Ocean Service, Public domain, https://commons.wikimedia.org/wiki/File:Exxon_Valdez_Oil_Spill_(13266806523).jpg
+- 2022-09-04 01 ACADIAN - IMO 9298715 tanker – St. John’s NL Canada.jpg by Gordon Leggett, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2022-09-04_01_ACADIAN_-_IMO_9298715_tanker_%E2%80%93_St._John%E2%80%99s_NL_Canada.jpg
+- Anna Chemical Oil tanker - IMO 7384986 on Deûle (3).jpg by Pierre André Leclercq, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Anna_Chemical_Oil_tanker_-_IMO_7384986_on_De%C3%BBle_(3).jpg
+- 2021-11-19 Damaged container ship, MV ZIM KINGSTON - IMO 9389693.jpg by Gordon Leggett, CC BY 4.0, https://commons.wikimedia.org/wiki/File:2021-11-19_Damaged_container_ship,_MV_ZIM_KINGSTON_-_IMO_9389693.jpg
+- MAERSK HANOI Container Ship (Port Koper SIKOP, 2023).jpg by Petar Milošević, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:MAERSK_HANOI_Container_Ship_(Port_Koper_SIKOP,_2023).jpg
+- Container ship in Kronstadt.jpg by Florstein (Telegram:WikiPhoto.Space), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Container_ship_in_Kronstadt.jpg
+- Aerial photograph of a cargo ship.jpg by Wilfredor, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_a_cargo_ship.jpg
+- Hamburg Hafen Containerterminal.jpg by Raimond Spekking, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hamburg_Hafen_Containerterminal.jpg
+- 2015-02-07 VEGA SCORPIO - IMO 9491599, with tug, BARBADOS II - IMO 9229221.jpg by Gordon Leggett, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2015-02-07_VEGA_SCORPIO_-_IMO_9491599,_with_tug,_BARBADOS_II_-_IMO_9229221.jpg
+- Fantastic (ship, 1996) - Sète - October 2018.jpg by Christian Ferrer, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Fantastic_(ship,_1996)_-_S%C3%A8te_-_October_2018.jpg
+- Ships In The Night at Underground Arts (2025) 02.jpg by RobinIsadorable, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Ships_In_The_Night_at_Underground_Arts_(2025)_02.jpg
+- Ships In The Night at Underground Arts (2025) 01.jpg by RobinIsadorable, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Ships_In_The_Night_at_Underground_Arts_(2025)_01.jpg
+- Royal Wing (ship, 1960) at night 20211212-1.jpg by Suicasmo, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Royal_Wing_(ship,_1960)_at_night_20211212-1.jpg
