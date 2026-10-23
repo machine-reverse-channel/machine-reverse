@@ -1,0 +1,94 @@
+# Photo credits: Why Don't Cruise Ships Tip Over?
+
+All photos from Wikimedia Commons.
+
+- Cruise ship in the Port of Nagasaki, 20240814 0829 3199.jpg by Jakub Hałun, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Cruise_ship_in_the_Port_of_Nagasaki,_20240814_0829_3199.jpg
+- Borealis (ship, 1997) at Liverpool Cruise Terminal 2.jpg by Rodhullandemu, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Borealis_(ship,_1997)_at_Liverpool_Cruise_Terminal_2.jpg
+- 03613 ISL Akureyri cruise vessel vapors V P.jpg by Virtual-Pano, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:03613_ISL_Akureyri_cruise_vessel_vapors_V_P.jpg
+- Birka June 2013.jpg by Arild Vågen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Birka_June_2013.jpg
+- 2018-09-18 MS EURODAM - IMO 9378448 - Glacier Bay, Alaska USA.jpg by Gordon Leggett, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2018-09-18_MS_EURODAM_-_IMO_9378448_-_Glacier_Bay,_Alaska_USA.jpg
+- Mein Schiff 4 (IMO 9678408), Rostock.jpg by Radomianin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mein_Schiff_4_(IMO_9678408),_Rostock.jpg
+- Cruise ship Modigliani Bamberg-20220610-RM-170943.jpg by Ermell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cruise_ship_Modigliani_Bamberg-20220610-RM-170943.jpg
+- Cruise ship Modigliani Bamberg-20220610-RM-171024.jpg by Ermell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cruise_ship_Modigliani_Bamberg-20220610-RM-171024.jpg
+- White Sea–Baltic Canal. Cruise ship A. S. Popov P7120615 2200.jpg by Alexxx1979, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:White_Sea%E2%80%93Baltic_Canal._Cruise_ship_A._S._Popov_P7120615_2200.jpg
+- Anthem of the Seas (ship, 2015) at Liverpool 2021-6.jpg by Rodhullandemu, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Anthem_of_the_Seas_(ship,_2015)_at_Liverpool_2021-6.jpg
+- Marella Explorer 2 (ship, 1995) at Liverpool Cruise Terminal 3.jpg by Rodhullandemu, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Marella_Explorer_2_(ship,_1995)_at_Liverpool_Cruise_Terminal_3.jpg
+- Vasco da Gama (ship, 1993) at Liverpool Cruise Terminal 1.jpg by Rodhullandemu, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Vasco_da_Gama_(ship,_1993)_at_Liverpool_Cruise_Terminal_1.jpg
+- Hamburg, Hafen, Kreuzfahrtschiff -Queen Mary 2- im Dock -- 2016 -- 3068.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hamburg,_Hafen,_Kreuzfahrtschiff_-Queen_Mary_2-_im_Dock_--_2016_--_3068.jpg
+- Hamburg, Hafen, Kreuzfahrtschiff -Queen Mary 2- im Dock -- 2016 -- 3069.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hamburg,_Hafen,_Kreuzfahrtschiff_-Queen_Mary_2-_im_Dock_--_2016_--_3069.jpg
+- MV Westward - Hugh Reilly in engine room 02.jpg by Joe Mabel, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:MV_Westward_-_Hugh_Reilly_in_engine_room_02.jpg
+- MV Westward - Hugh Reilly in engine room 01.jpg by Joe Mabel, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:MV_Westward_-_Hugh_Reilly_in_engine_room_01.jpg
+- Cruise Ship Carnival Splendor - Stern View - San Francisco - March 2009.jpg by Nick Ares from Auburn, CA, United States, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Cruise_Ship_Carnival_Splendor_-_Stern_View_-_San_Francisco_-_March_2009.jpg
+- P-120 4K85 Malakhit anti-ship cruise missile.jpg by vitaly kuzmin, CC BY 4.0, https://commons.wikimedia.org/wiki/File:P-120_4K85_Malakhit_anti-ship_cruise_missile.jpg
+- Viking Sky (ship, 2017) - Sète - December 2018 - 02.jpg by Christian Ferrer, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Viking_Sky_(ship,_2017)_-_S%C3%A8te_-_December_2018_-_02.jpg
+- 9725433 Viking Sun 2017.jpg by Cavernia, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:9725433_Viking_Sun_2017.jpg
+- Viking Zhao Shang Yi Dun 12-06-2023.jpg by LN9267, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Viking_Zhao_Shang_Yi_Dun_12-06-2023.jpg
+- Wind Surf (ship, 1989).jpg by Didier Descouens, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wind_Surf_(ship,_1989).jpg
+- Sailing cruise ship Wind Surf in the Kotor, September 2022 01.jpg by Calistemon, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sailing_cruise_ship_Wind_Surf_in_the_Kotor,_September_2022_01.jpg
+- Cruise Ship passengers enjoying Panama Canal 2.jpg by Paul Harrison, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cruise_Ship_passengers_enjoying_Panama_Canal_2.jpg
+- Cruise ship locking westbound thru Panama Canal 2016.jpg by Paul Harrison, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cruise_ship_locking_westbound_thru_Panama_Canal_2016.jpg
+- Polarstern stabilizer hg.jpg by Hannes Grobe, Alfred Wegener Institute, CC BY 2.5, https://commons.wikimedia.org/wiki/File:Polarstern_stabilizer_hg.jpg
+- Nieuw Statendam - Starboard ship stabilizer hydraulic cylinder.jpg by Akela NDE, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Nieuw_Statendam_-_Starboard_ship_stabilizer_hydraulic_cylinder.jpg
+- Inside SS Rotterdam, foto Smiths Stabiliser fin angle indicator.JPG by Alf van Beem, CC0, https://commons.wikimedia.org/wiki/File:Inside_SS_Rotterdam,_foto_Smiths_Stabiliser_fin_angle_indicator.JPG
+- US Navy 081004-N-0676F-268 Combined Trades Supervisor II Alan Smith observes as Marine Machinery Mechanic Leader Richard Ulmer sprays water onto a fin stabilizer of the guided-missile frigate USS Crommelin (FFG 37).jpg by U.S. Navy photo by Marshall Fukuki, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_081004-N-0676F-268_Combined_Trades_Supervisor_II_Alan_Smith_observes_as_Marine_Machinery_Mechanic_Leader_Richard_Ulmer_sprays_water_onto_a_fin_stabilizer_of_the_guided-missile_frigate_USS_Crommelin_(FFG_37).jpg
+- Messerschmitt Me 163B-1a.jpg by George Neat, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Messerschmitt_Me_163B-1a.jpg
+- Safari Quest - Dining Room.jpg by Attributed to Un-Cruise Adventures, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Safari_Quest_-_Dining_Room.jpg
+- Wilderness Adventurer - Dining Room.jpg by Attributed to Un-Cruise Adventures, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wilderness_Adventurer_-_Dining_Room.jpg
+- Flickr - Official U.S. Navy Imagery - 55 feet remain visible after the crew of the Floating Instrument Platform, or FLIP, partially flood the ballast tanks causing the vessel to turn stern first into the ocean. (1).jpg by U.S. Navy/John F. Williams, Public domain, https://commons.wikimedia.org/wiki/File:Flickr_-_Official_U.S._Navy_Imagery_-_55_feet_remain_visible_after_the_crew_of_the_Floating_Instrument_Platform,_or_FLIP,_partially_flood_the_ballast_tanks_causing_the_vessel_to_turn_stern_first_into_the_ocean._(1).jpg
+- Official U.S. Navy Imagery Floating Instrument Platform.jpg by U.S. Navy/John F. Williams, Public domain, https://commons.wikimedia.org/wiki/File:Official_U.S._Navy_Imagery_Floating_Instrument_Platform.jpg
+- 2022-09-10 Ferry Terminal at Caribou, NS Canada.jpg by Gordon Leggett, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2022-09-10_Ferry_Terminal_at_Caribou,_NS_Canada.jpg
+- 2021-08-21 01a Ferry terminal at Wood Islands PEI Canada.jpg by Gordon Leggett, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2021-08-21_01a_Ferry_terminal_at_Wood_Islands_PEI_Canada.jpg
+- Terminal de Cruzeiros de Lisboa - Portugal (51089561751).jpg by Vitor Oliveira from Torres Vedras, PORTUGAL, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Terminal_de_Cruzeiros_de_Lisboa_-_Portugal_(51089561751).jpg
+- Cruise Ships Port Everglades Hollywood Florida.jpg by EgorovaSvetlana, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cruise_Ships_Port_Everglades_Hollywood_Florida.jpg
+- US Navy 060531-N-9851B-003 Damage control investigators, Republic of Singapore Navy (RSN) 2nd Sgt. Alvin Joseph Arozoo and Damage Controlman Fireman Alfonso Robeles approach a watertight door as they search for damage.jpg by U.S. Navy photo by Mass Communication Specialist 2nd Class John L. Beeman, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_060531-N-9851B-003_Damage_control_investigators,_Republic_of_Singapore_Navy_(RSN)_2nd_Sgt._Alvin_Joseph_Arozoo_and_Damage_Controlman_Fireman_Alfonso_Robeles_approach_a_watertight_door_as_they_search_for_damage.jpg
+- USS Maine (ACR-1)- Watertight Door for Filling Coal Bunkers Under Turrets - NARA - 100382300.jpg by Unknown authorUnknown author or not provided, Public domain, https://commons.wikimedia.org/wiki/File:USS_Maine_(ACR-1)-_Watertight_Door_for_Filling_Coal_Bunkers_Under_Turrets_-_NARA_-_100382300.jpg
+- US Navy 050923-N-9288T-177 U.S. Navy Senior Chief Operation s Specialist Terry Schweizer, prepares to enter a hatch during a Visit, Board, Search and Seizure (VBSS).jpg by U.S. Navy photo by Photographer's Mate 2nd Class Brandon A. Teeples, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_050923-N-9288T-177_U.S._Navy_Senior_Chief_Operation_s_Specialist_Terry_Schweizer,_prepares_to_enter_a_hatch_during_a_Visit,_Board,_Search_and_Seizure_(VBSS).jpg
+- RMS Titanic 3.jpg by Francis Godolphin Osbourne Stuart, Public domain, https://commons.wikimedia.org/wiki/File:RMS_Titanic_3.jpg
+- Titanic sinking, painting by Willy Stöwer.jpg by Willy Stöwer, Public domain, https://commons.wikimedia.org/wiki/File:Titanic_sinking,_painting_by_Willy_St%C3%B6wer.jpg
+- Bc ferries bulkhead tray penetration.jpg by Achim Hering, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Bc_ferries_bulkhead_tray_penetration.jpg
+- SS Rotterdam, Bulkhead, pic1.JPG by Alf van Beem, CC0, https://commons.wikimedia.org/wiki/File:SS_Rotterdam,_Bulkhead,_pic1.JPG
+- Mackinaw WLBB-30 Azipod thruster.jpg by unknown, Public domain, https://commons.wikimedia.org/wiki/File:Mackinaw_WLBB-30_Azipod_thruster.jpg
+- I11 591 Pod-Antriebsgondel.jpg by Falk2, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:I11_591_Pod-Antriebsgondel.jpg
+- First Azipod.jpg by Kovako-1, CC0, https://commons.wikimedia.org/wiki/File:First_Azipod.jpg
+- Another cruise ship from MS Silja Symphony cruise (24229268134).jpg by Jorge Láscar from Melbourne, Australia, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Another_cruise_ship_from_MS_Silja_Symphony_cruise_(24229268134).jpg
+- Cruise ship Wind Surf - Dubrovnik, Croatia - 8 June 2013.jpg by Dennis G. Jarvis, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Cruise_ship_Wind_Surf_-_Dubrovnik,_Croatia_-_8_June_2013.jpg
+- Electrical generator aboard Virginia V (ship, 1922).jpg by Joe Mabel, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Electrical_generator_aboard_Virginia_V_(ship,_1922).jpg
+- Guemes Island Ferry generator replacement.jpg by Richardawalker, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Guemes_Island_Ferry_generator_replacement.jpg
+- Engine control room, Explorer of the Seas 03.jpg by Mitch Ames, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Engine_control_room,_Explorer_of_the_Seas_03.jpg
+- Engine control room, Explorer of the Seas 02.jpg by Mitch Ames, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Engine_control_room,_Explorer_of_the_Seas_02.jpg
+- Engine control room, Explorer of the Seas 01.jpg by Mitch Ames, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Engine_control_room,_Explorer_of_the_Seas_01.jpg
+- Engine Control Room Harmony of the Seas 2026.jpg by Larry D. Moore, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Engine_Control_Room_Harmony_of_the_Seas_2026.jpg
+- Nieuw Statendam - engine control room.jpg by Akela NDE, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Nieuw_Statendam_-_engine_control_room.jpg
+- Ocean Diamond cruise ship at Djúpivogur harbour.jpg by Alexander Grebenkov, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Ocean_Diamond_cruise_ship_at_Dj%C3%BApivogur_harbour.jpg
+- Pier and cruise ship in Djúpivogur harbour.jpg by Alexander Grebenkov, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Pier_and_cruise_ship_in_Dj%C3%BApivogur_harbour.jpg
+- A lifeboat on the cruise ship Scarlet Lady.jpg by The Silver Novice, CC BY 2.0, https://commons.wikimedia.org/wiki/File:A_lifeboat_on_the_cruise_ship_Scarlet_Lady.jpg
+- Lifeboat for cruise ship "Quantum of the Seas".JPG by HenSti, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lifeboat_for_cruise_ship_%22Quantum_of_the_Seas%22.JPG
+- Cruise ship lifeboats, cabins and portholes.jpg by Mariojan photo, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cruise_ship_lifeboats,_cabins_and_portholes.jpg
+- Le Diamant is a small cruise ship operated by Compagnie du Ponant, of France (5864437688).jpg by William Murphy from Dublin, Ireland, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Le_Diamant_is_a_small_cruise_ship_operated_by_Compagnie_du_Ponant,_of_France_(5864437688).jpg
+- Cruise ship tender. Diamond Princess. Akaroa. NZ (23631999042).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0, https://commons.wikimedia.org/wiki/File:Cruise_ship_tender._Diamond_Princess._Akaroa._NZ_(23631999042).jpg
+- Tallink Superfast IX lifeboat drill in Paldiski South Harbour.jpg by KarlShipSpotting / KarlShipSpotting, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Tallink_Superfast_IX_lifeboat_drill_in_Paldiski_South_Harbour.jpg
+- Lifeboat drill (1).jpg by Marwan Mohamad, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lifeboat_drill_(1).jpg
+- USS Tennessee (ACR-10)- Inclining Experiment - Ship at Time of Inclining Experiment., Sheet 1 - NARA - 122414678.jpg by Unknown authorUnknown author or not provided, Public domain, https://commons.wikimedia.org/wiki/File:USS_Tennessee_(ACR-10)-_Inclining_Experiment_-_Ship_at_Time_of_Inclining_Experiment.,_Sheet_1_-_NARA_-_122414678.jpg
+- USS Restless (1887)- Inclining Experiment - NARA - 109188755.jpg by Unknown authorUnknown author or not provided, Public domain, https://commons.wikimedia.org/wiki/File:USS_Restless_(1887)-_Inclining_Experiment_-_NARA_-_109188755.jpg
+- USS Iowa (BB-4)- Inclining Experiment - Observations and Results. - DPLA - 8d67e4b72639f5ab298cb04b8fd09cba.jpg by Department of Defense. Department of the Navy. 9/18/1947, Public domain, https://commons.wikimedia.org/wiki/File:USS_Iowa_(BB-4)-_Inclining_Experiment_-_Observations_and_Results._-_DPLA_-_8d67e4b72639f5ab298cb04b8fd09cba.jpg
+- 2026-02-11 Pendulum Cove Deception Island 09.jpg by Carina Gsottbauer, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2026-02-11_Pendulum_Cove_Deception_Island_09.jpg
+- 2026-02-11 Pendulum Cove Deception Island 07.jpg by Carina Gsottbauer, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2026-02-11_Pendulum_Cove_Deception_Island_07.jpg
+- Pearl Mist & Geysir at Shelburne Shipyard.jpg by Dennis G. Jarvis, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Pearl_Mist_%26_Geysir_at_Shelburne_Shipyard.jpg
+- Carnival Valor curise ship at New Orleans September 2019.jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0, https://commons.wikimedia.org/wiki/File:Carnival_Valor_curise_ship_at_New_Orleans_September_2019.jpg
+- Oasis of the Seas.jpg by Baldwin040, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Oasis_of_the_Seas.jpg
+- LL25 MiTina turning into Norra Grundsund harbor.jpg by W.carter, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:LL25_MiTina_turning_into_Norra_Grundsund_harbor.jpg
+- Turning The Cargo Ship.jpg by ARG_Flickr, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Turning_The_Cargo_Ship.jpg
+- P^O's 175th Anniversary Grand Event - Oceana follows in Azura's wake - geograph.org.uk - 3063168.jpg by Terry Robinson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:P%5EO%27s_175th_Anniversary_Grand_Event_-_Oceana_follows_in_Azura%27s_wake_-_geograph.org.uk_-_3063168.jpg
+- Ambassador Johnson meets Chancellor Hammond (36560214560).jpg by U.S. Embassy in U.K., Public domain, https://commons.wikimedia.org/wiki/File:Ambassador_Johnson_meets_Chancellor_Hammond_(36560214560).jpg
+- Borealis Bow Tallinn Cruise Terminal Port of Tallinn 12 June 2026.jpg by Pjotr Mahhonin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Borealis_Bow_Tallinn_Cruise_Terminal_Port_of_Tallinn_12_June_2026.jpg
+- Borealis Bow Tallinn Cruise Terminal Port of Tallinn Tallinn 12 June 2026.jpg by Pjotr Mahhonin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Borealis_Bow_Tallinn_Cruise_Terminal_Port_of_Tallinn_Tallinn_12_June_2026.jpg
+- Cruise ship Modigliani Bamberg-20220610-RM-175403.jpg by Ermell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cruise_ship_Modigliani_Bamberg-20220610-RM-175403.jpg
+- Cruise ship Le Lyrial off Anvers Island, Antarctica V-P.jpg by Virtual-Pano, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cruise_ship_Le_Lyrial_off_Anvers_Island,_Antarctica_V-P.jpg
+- Cruiseschip FM217 Croisi Europe Strasbourg f, MS Victor Hugo. 15-07-2024. (actm.).jpg by Agnes Monkelbaan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cruiseschip_FM217_Croisi_Europe_Strasbourg_f,_MS_Victor_Hugo._15-07-2024._(actm.).jpg
+- ZAANDAM Cruise in Quebec City.jpg by Wilfredor, CC0, https://commons.wikimedia.org/wiki/File:ZAANDAM_Cruise_in_Quebec_City.jpg
+- 2017-03-29 CARNIVAL VISTA - IMO 9692569, in Willemstad, Curaçao.jpg by Gordon Leggett, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2017-03-29_CARNIVAL_VISTA_-_IMO_9692569,_in_Willemstad,_Cura%C3%A7ao.jpg
+- 2023-09-04 01 NORWEGIAN SKY - IMO 9128532 - Charlottetown PEI CAN.jpg by Gordon Leggett, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2023-09-04_01_NORWEGIAN_SKY_-_IMO_9128532_-_Charlottetown_PEI_CAN.jpg
+- Cruise Ship Sunset View.jpg by Shelley Steinhorst, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cruise_Ship_Sunset_View.jpg
+- Sunset from the cruise ship in the Arabian Sea.jpg by Jyoti Chiring, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Sunset_from_the_cruise_ship_in_the_Arabian_Sea.jpg
+- Miami sunset from Cruise ship - panoramio.jpg by Michael A. Orlando, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Miami_sunset_from_Cruise_ship_-_panoramio.jpg
+- Cruise Ship Celebrity Summit against Grenada Sunset.jpg by Paul Harrison, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cruise_Ship_Celebrity_Summit_against_Grenada_Sunset.jpg
