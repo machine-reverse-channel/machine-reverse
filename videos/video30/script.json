@@ -1,0 +1,227 @@
+{
+ "id": "video30",
+ "title": "Why Do Rolls-Royce Wheel Logos Never Spin?",
+ "length_scale": 1.6,
+ "scenes": [
+  {
+   "text": "Watch the wheels of a Rolls-Royce as it drives away. The wheels spin, but the R R logo in the middle stays perfectly upright, as if it were painted on the air. It is not magic, and it is not a camera trick. Today, ten parts of a Rolls-Royce that look like luxury tricks, and the engineering reason behind each one.",
+   "query": "Rolls-Royce wheel",
+   "caption": "WHY DOESN'T IT SPIN?",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Rolls-Royce has one simple idea behind almost everything it builds. The car should feel calm, quiet and effortless, for the person in the back seat as much as for the driver. Many of its strange parts exist to protect that feeling, by hiding effort, noise and small annoyances that other cars simply accept.",
+   "query": "Rolls-Royce Phantom",
+   "caption": "CALM AND EFFORTLESS"
+  },
+  {
+   "text": "As always, every fact here comes from a named source, Rolls-Royce and automotive references, all listed in the description. Let's start with the wheels.",
+   "query": "Rolls-Royce Phantom side",
+   "caption": "WHY DOES THIS EXIST?"
+  },
+  {
+   "text": "Why does the logo in the middle of a Rolls-Royce wheel never spin? Because it is not attached to the wheel. The badge sits on its own small bearing, so it can turn freely. Under the badge, a small weight is fixed at the bottom. As the wheel turns, gravity keeps pulling that weight down, so the badge always stays upright.",
+   "query": "Rolls-Royce wheel centre",
+   "caption": "WHY DOES THIS LOGO NEVER SPIN?",
+   "arrow": true,
+   "chapter": "1. The floating wheel logo",
+   "short": "Why Do Rolls-Royce Wheel Logos Never Spin?",
+   "cuts": 3
+  },
+  {
+   "text": "It works like a pendulum. The wheel rotates around the badge, but the weight keeps the badge level, the same way a hanging picture stays straight while you turn the frame around it. Rolls-Royce calls them self righting wheel centres. They became a feature of its cars in the two thousands.",
+   "query": "Rolls-Royce Ghost wheel",
+   "caption": "A TINY PENDULUM"
+  },
+  {
+   "text": "Why bother? Because photos of parked cars always show a perfectly straight logo, and when the car moves, the logo stays readable. It is a small detail, but it says the same thing as the rest of the car. Even the wheels should look calm.",
+   "query": "Rolls-Royce Cullinan wheel",
+   "caption": "EVEN THE WHEELS LOOK CALM"
+  },
+  {
+   "text": "Why is there an umbrella hidden inside the door of a Rolls-Royce? Because the moment of getting out of the car is part of the experience. If it rains, the passenger should not step out and get wet while someone looks for an umbrella. So it sits in a tube inside the door, ready to slide out.",
+   "query": "Rolls-Royce umbrella door",
+   "caption": "WHY IS THERE AN UMBRELLA IN THE DOOR?",
+   "arrow": true,
+   "chapter": "2. The umbrella in the door",
+   "short": "Why Do Rolls-Royce Doors Hide an Umbrella?",
+   "cuts": 3
+  },
+  {
+   "text": "The engineering problem is the water. A wet umbrella put back into a door would drip into the car and could damage it over time. So the umbrella sits in its own compartment, designed to let it dry, away from the rest of the door. The fabric is also treated to shed water quickly.",
+   "query": "Rolls-Royce door",
+   "caption": "WHAT ABOUT THE WATER?"
+  },
+  {
+   "text": "It is a tiny part, but it became one of the most famous details of the brand. It shows how Rolls-Royce thinks. Not only about how the car drives, but about the full minute before and after the drive, including the walk to the front door.",
+   "query": "Rolls-Royce Phantom door open",
+   "caption": "THE WHOLE JOURNEY"
+  },
+  {
+   "text": "Why does the little silver statue on a Rolls-Royce bonnet disappear into the car? The statue is the Spirit of Ecstasy, and it is a target for thieves. On modern Rolls-Royce cars, it sits on a mechanism that can pull it down into the grille. When the car is locked, or if someone tries to pull it off, it drops out of sight.",
+   "query": "Spirit of Ecstasy",
+   "caption": "WHY DOES THIS STATUE DISAPPEAR?",
+   "arrow": true,
+   "chapter": "3. The hiding mascot",
+   "short": "Why Does the Rolls-Royce Statue Disappear Into the Car?",
+   "cuts": 3
+  },
+  {
+   "text": "The mechanism is also about safety. A hard metal statue on the front of a car could hurt a pedestrian in an accident. If the car hits something, the mascot is designed to retract quickly, so it does not stick out. A beautiful ornament becomes a safer part of the car.",
+   "query": "Spirit of Ecstasy Rolls-Royce",
+   "caption": "SAFETY TOO"
+  },
+  {
+   "text": "The statue itself goes back to nineteen eleven, sculpted by Charles Sykes. More than a century later, it is still on every car, now made lower and slightly leaner to help the airflow. On the electric Spectre, Rolls-Royce reshaped it to cut through the air better.",
+   "query": "Rolls-Royce Spectre",
+   "caption": "SINCE 1911"
+  },
+  {
+   "text": "Why do the rear doors of a Rolls-Royce open backwards? They are hinged at the rear, like the doors of an old horse drawn coach, which is why Rolls-Royce calls them coach doors. With the door open, there is no door frame in front of the passenger, so they can step out facing forward, upright and calm.",
+   "query": "Rolls-Royce coach doors",
+   "caption": "WHY DOES THIS DOOR OPEN BACKWARDS?",
+   "arrow": true,
+   "chapter": "4. The coach doors",
+   "short": "Why Do Rolls-Royce Rear Doors Open Backwards?",
+   "cuts": 3
+  },
+  {
+   "text": "With a normal rear door, you twist your body and squeeze past the door to get out. With a coach door, you simply stand up and walk forward. And when the front and rear doors are both open, the whole side of the cabin opens like a gate. It makes getting in and out look elegant, which matters for a car often filmed at events.",
+   "query": "Rolls-Royce Phantom doors open",
+   "caption": "STAND UP AND WALK"
+  },
+  {
+   "text": "Rear hinged doors can be dangerous if they swing open while moving, which is why they had a bad reputation in the past. Modern Rolls-Royce doors are locked while driving, and a button inside closes them with a motor. The passenger never has to stretch out and pull a heavy door shut.",
+   "query": "Rolls-Royce Ghost doors",
+   "caption": "A BUTTON CLOSES IT"
+  },
+  {
+   "text": "Why is there a sky full of stars on the ceiling of a Rolls-Royce? It is called the Starlight headliner. Hundreds or even more than a thousand tiny lights are woven into the leather of the roof lining. They are the ends of fibre optic cables, thin strands of glass that carry light from a hidden source.",
+   "query": "Rolls-Royce starlight headliner",
+   "caption": "WHY ARE THERE STARS ON THE CEILING?",
+   "arrow": true,
+   "chapter": "5. The starlight headliner",
+   "short": "Why Do Rolls-Royce Cars Have Stars on the Ceiling?",
+   "cuts": 3
+  },
+  {
+   "text": "Each point of light is placed by hand, and customers can even ask for a real constellation, like the sky on the night they were born. Because the light comes through fibres, there is no heat and no bulb in the roof. The whole sky is lit from a source far away from the passengers.",
+   "query": "Rolls-Royce interior",
+   "caption": "PLACED BY HAND"
+  },
+  {
+   "text": "The reason is the same calm feeling. At night, a dark cabin feels small and closed. A soft starry sky makes it feel open and relaxed, without the glare of a normal reading light. It became one of the most requested options in the history of the brand.",
+   "query": "Rolls-Royce Phantom interior",
+   "caption": "A CALMER CABIN AT NIGHT"
+  },
+  {
+   "text": "Why does a Rolls-Royce have cameras that watch the road ahead? To prepare the suspension. Rolls-Royce calls the system Flagbearer. Cameras in the windscreen look at the road in front of the car, and if they see a bump, the suspension adjusts before the wheels reach it.",
+   "query": "Rolls-Royce Phantom windscreen",
+   "caption": "WHY DOES THIS CAR LOOK AT THE ROAD?",
+   "arrow": true,
+   "chapter": "6. The camera that reads the road",
+   "short": "Why Does a Rolls-Royce Watch the Road Ahead?",
+   "cuts": 3
+  },
+  {
+   "text": "The name comes from history. In the early days of the car in Britain, a person had to walk in front of a motor vehicle carrying a red flag, to warn others. Rolls-Royce named its camera after that person, because it also walks ahead and warns the car about what is coming.",
+   "query": "Red Flag Act",
+   "caption": "THE MAN WITH THE RED FLAG"
+  },
+  {
+   "text": "The goal is what Rolls-Royce calls the magic carpet ride. Air springs and electronically controlled dampers soften each bump, and the camera gives them time to get ready. The car should feel like it floats over the road, not like it is fighting it.",
+   "query": "Rolls-Royce air suspension",
+   "caption": "THE MAGIC CARPET RIDE"
+  },
+  {
+   "text": "Why does a Rolls-Royce have no rev counter? A normal sports car shows how fast the engine is spinning, so the driver can push it to the limit. A Rolls-Royce shows a gauge called the power reserve instead. It tells you how much of the engine's power you are not using.",
+   "query": "Rolls-Royce power reserve gauge",
+   "caption": "WHY IS THERE NO REV COUNTER?",
+   "arrow": true,
+   "chapter": "7. The power reserve gauge",
+   "short": "Why Doesn't a Rolls-Royce Have a Rev Counter?",
+   "cuts": 3
+  },
+  {
+   "text": "The gauge usually shows a large reserve, often close to one hundred percent. That is the point. The six point seven five litre V twelve engine is designed to make huge pulling force at low engine speed, so the car moves smoothly without ever working hard. The gauge reminds the driver how much is still available.",
+   "query": "Rolls-Royce V12 engine",
+   "caption": "MOST OF THE POWER IS WAITING"
+  },
+  {
+   "text": "It is a dashboard that matches the brand's idea. A sports car tells you how hard it is working. A Rolls-Royce tells you how easy everything is. The name sounds like a fine mechanical watch, where a power reserve shows how long the watch can keep running. The idea is the same. Look at it, and you know you will never run short.",
+   "query": "Rolls-Royce Phantom dashboard",
+   "caption": "HOW EASY IT IS"
+  },
+  {
+   "text": "Why does the Rolls-Royce grille look like the front of a Greek temple? It is called the Pantheon grille, after the ancient building in Rome. Its vertical bars and straight, proud shape were inspired by classical architecture, and it has been the face of the brand for over a century.",
+   "query": "Rolls-Royce Pantheon grille",
+   "caption": "WHY IS THIS GRILLE SHAPED LIKE A TEMPLE?",
+   "arrow": true,
+   "chapter": "8. The Pantheon grille",
+   "short": "Why Is the Rolls-Royce Grille Shaped Like a Temple?",
+   "cuts": 3
+  },
+  {
+   "text": "It started as a working part. Early cars needed a big radiator at the front, and the grille protected it while letting air through. The vertical bars were simple to make and let air flow straight in. Rolls-Royce shaped that functional part to look dignified, and it never changed the idea.",
+   "query": "Rolls-Royce Silver Ghost",
+   "caption": "A RADIATOR AT THE FRONT"
+  },
+  {
+   "text": "On the electric Spectre, there is no engine radiator to cool, but the grille stays. On some newer models, it is even lit from behind. A part born from cooling became a symbol. That is why every Rolls-Royce is recognisable from a hundred metres away, even at night.",
+   "query": "Rolls-Royce Spectre front",
+   "caption": "FROM COOLING TO SYMBOL"
+  },
+  {
+   "text": "Why is the thin line along the side of a Rolls-Royce painted by hand? It is called the coachline, and for many years it has been painted by one craftsman at the factory in Goodwood, with a brush made of squirrel hair. A machine could do it, but Rolls-Royce wants the line to show the hand of a person.",
+   "query": "Rolls-Royce coachline",
+   "caption": "WHY IS THIS LINE PAINTED BY HAND?",
+   "arrow": true,
+   "chapter": "9. The painted coachline",
+   "short": "Why Is the Rolls-Royce Coachline Painted by Hand?",
+   "cuts": 3
+  },
+  {
+   "text": "The line runs the length of the car and must be perfectly even. The painter works freehand, with a steady hand and years of practice, and the job takes hours. Any mistake means starting again. Customers can ask for their initials or a small design painted at the end of the line.",
+   "query": "Rolls-Royce Goodwood factory",
+   "caption": "FREEHAND"
+  },
+  {
+   "text": "The coachline also goes back to horse drawn carriages, which had painted lines to show off the craftsmanship of the builder. On a Rolls-Royce it is a signature, a reminder that the car is built for one person, not mass produced on a fast line.",
+   "query": "Rolls-Royce Ghost side",
+   "caption": "BUILT FOR ONE PERSON"
+  },
+  {
+   "text": "Why is a Rolls-Royce so quiet inside? Because silence is engineered, piece by piece. Rolls-Royce uses more than a hundred kilograms of sound insulation in its cars, in the floor, the doors, the roof and around the engine. The glass is made with two layers, with a sound blocking layer in between.",
+   "query": "Rolls-Royce interior quiet",
+   "caption": "WHY IS THIS CAR SO QUIET?",
+   "arrow": true,
+   "chapter": "10. The silent cabin",
+   "short": "Why Is a Rolls-Royce So Quiet Inside?",
+   "cuts": 3
+  },
+  {
+   "text": "Even the tyres are special. They have a layer of foam inside, which absorbs the hollow sound that a normal tyre makes as it rolls. The aluminium frame is designed to avoid vibrations that could hum in the cabin. Each source of noise has its own solution.",
+   "query": "Rolls-Royce tyre",
+   "caption": "FOAM INSIDE THE TYRES"
+  },
+  {
+   "text": "The engineers even found that a cabin can be too quiet. In near total silence, people start to hear small sounds and feel uneasy. So Rolls-Royce tuned the sound of the cabin to keep a soft, low background, like a calm room. Silence, it turns out, also has to be designed.",
+   "query": "Rolls-Royce Phantom rear seat",
+   "caption": "TOO QUIET?"
+  },
+  {
+   "text": "So here are the ten. A floating logo that stays upright. An umbrella in the door. A statue that hides. Doors that open backwards. Stars on the ceiling. A camera that reads the road. A gauge that shows the power you are not using. A temple shaped grille. A line painted by hand. And a cabin where even the silence is engineered.",
+   "query": "Rolls-Royce",
+   "caption": "10 PARTS. 10 REASONS.",
+   "chapter": "The verdict",
+   "cuts": 6
+  },
+  {
+   "text": "Luxury, at this level, is really engineering that hides effort. If you want more machines explained part by part, subscribe to Machine Reverse. And tell us in the comments which detail of a Rolls-Royce surprised you most.",
+   "query": "Rolls-Royce night",
+   "caption": "SUBSCRIBE: MACHINE REVERSE",
+   "cuts": 4
+  }
+ ]
+}
