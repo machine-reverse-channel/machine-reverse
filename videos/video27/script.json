@@ -24,10 +24,14 @@
    "text": "Why do supercar parts cost more than your car? Start with the tyres of the Bugatti Veyron. The Veyron could go over four hundred kilometres per hour. At that speed, each tyre turns about fifty times per second, and the forces try to tear the rubber apart. No ordinary tyre could survive. Michelin developed special tyres just for this car, and a set of four has been reported to cost tens of thousands of dollars.",
    "query": "Bugatti Veyron wheel tyre",
    "caption": "WHY DO THESE TYRES COST SO MUCH?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.85,
+    "y": 0.5
+   },
    "chapter": "1. The Veyron tyres",
    "short": "Why Do Supercar Parts Cost More Than Your Car?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Bugatti Veyron EB 16.4 Grand Sport (wheel).JPG"
   },
   {
    "text": "The tyres for the later Bugatti Chiron went even further. To test them at speeds above four hundred kilometres per hour, Michelin reportedly used a test machine originally built for the tyres of the Space Shuttle. Every tyre is checked and certified. At top speed, the Bugatti manual says the tyres last only around fifteen minutes, and the fuel tank empties even faster.",
@@ -43,10 +47,14 @@
    "text": "Why does an oil change on a Bugatti Veyron reportedly cost around twenty thousand dollars? Because the engine is buried. The Veyron has a sixteen cylinder engine with four turbochargers, packed tightly into the middle of the car. To change the oil, mechanics have to remove the rear wheels, parts of the bodywork and the underbody panels, just to reach the drain plugs.",
    "query": "Bugatti Veyron engine",
    "caption": "WHY DOES AN OIL CHANGE COST $20,000?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.55
+   },
    "chapter": "2. The oil change",
    "short": "Why Does a Bugatti Oil Change Cost $20,000?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Bugatti Veyron 8.0-litre W16-cylinder engine - Flickr - exfordy.jpg"
   },
   {
    "text": "The engine uses a dry sump lubrication system, like a race car. Instead of a simple pan under the engine, oil is kept in a separate tank and pumped around, so it never runs away from the pump in hard corners. That means more lines, more plugs and more work. The job takes many hours of a specialist technician's time, using special tools and a lot of oil.",
@@ -62,10 +70,14 @@
    "text": "Why is the engine bay of the McLaren F one lined with real gold? Because gold is one of the best materials for reflecting heat. The F one's BMW V twelve engine runs very hot, and it sits right behind the carbon fibre body. Carbon fibre does not like heat. So designer Gordon Murray lined the engine bay with gold foil, to reflect the heat radiating from the engine.",
    "query": "McLaren F1 engine gold",
    "caption": "WHY IS THIS ENGINE BAY LINED WITH GOLD?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.25,
+    "y": 0.3
+   },
    "chapter": "3. The gold engine bay",
    "short": "Why Is the McLaren F1 Engine Bay Lined With Gold?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:1996 McLaren F1 engine.jpg"
   },
   {
    "text": "The amount of gold is small, reported at about sixteen grams. But its effect is big. Gold reflects infrared radiation very well, and it does not corrode or tarnish, so it keeps working for decades. The same idea is used in space, where satellites are wrapped in gold coloured foils and astronauts' visors are coated with a thin layer of gold.",
@@ -81,10 +93,14 @@
    "text": "Why do some supercars have wheels made of carbon fibre? Because weight in the wheels is the most expensive weight on a car. Wheels are unsprung mass, weight the suspension has to control, and they also spin, so they resist every acceleration and braking. Koenigsegg makes one piece hollow carbon fibre wheels, much lighter than metal wheels of the same size.",
    "query": "Koenigsegg carbon wheel",
    "caption": "WHY ARE THESE WHEELS MADE OF CARBON?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.4,
+    "y": 0.45
+   },
    "chapter": "4. The hollow carbon wheels",
    "short": "Why Do Some Supercars Have Carbon Fibre Wheels?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Koenigsegg wheel, GIMS 2019, Le Grand-Saconnex (GIMS1052).jpg"
   },
   {
    "text": "A lighter wheel lets the suspension react faster to bumps, so the tyre stays in contact with the road. It also takes less energy to spin up and slow down. Engineers say that a kilogram saved in the wheels is worth much more than a kilogram saved in the body. That is why racing cars always use the lightest wheels the rules allow.",
@@ -100,10 +116,14 @@
    "text": "Why does a Pagani use titanium bolts with the company name engraved on them? Titanium is as strong as many steels, but much lighter, and it does not rust. On a car that is built around saving weight, a thousand small savings add up. Pagani is reported to use more than a thousand titanium bolts in a Huayra, each one engraved with the Pagani name.",
    "query": "Pagani Huayra",
    "caption": "WHY ARE THESE BOLTS ENGRAVED?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.3
+   },
    "chapter": "5. The titanium bolts",
    "short": "Why Does a Pagani Use Titanium Bolts With Its Name?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Pagani Zonda F engine (AMG V12 7.3l).jpg"
   },
   {
    "text": "Titanium is expensive to make and hard to machine. It wears out cutting tools and must be worked slowly. A titanium bolt can cost many times more than a steel one. Engraving each one adds even more work. For most cars, that would be crazy. For Pagani, it is a signature. The company says every part should be beautiful, even the ones you will never see.",
@@ -119,10 +139,14 @@
    "text": "Why is there a signature on the engine of a Mercedes AMG? It is the One Man, One Engine philosophy. At the AMG engine factory in Affalterbach, Germany, one technician builds a complete engine from start to finish, and then signs a plaque that is fixed on top of it. The owner can see exactly who built the heart of the car.",
    "query": "AMG engine plaque",
    "caption": "WHY IS THERE A SIGNATURE ON THIS ENGINE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.47,
+    "y": 0.33
+   },
    "chapter": "6. The signed engine",
    "short": "Why Do AMG Engines Have a Signature on Them?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Mercedes-Benz M156 Engine 01.JPG"
   },
   {
    "text": "A mass production engine is assembled by robots and many workers along a line, each doing one small step. A hand built engine takes much longer, and every builder must be trained for every step. That is part of why these engines cost so much. The builder checks each part as it goes in, and his name on the plaque is a promise of quality.",
@@ -138,10 +162,14 @@
    "text": "Why does the Mercedes AMG One need its engine rebuilt after a set distance? Because it has a real Formula One engine. The AMG One uses a hybrid one point six litre V six derived from the Mercedes Formula One cars that won world championships. That engine revs extremely high and works with electric motors and a complex hybrid system.",
    "query": "Mercedes-AMG One",
    "caption": "WHY DOES THIS ENGINE NEED A REBUILD?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.55
+   },
    "chapter": "7. The Formula One engine",
    "short": "Why Does the Mercedes-AMG One Need an Engine Rebuild?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Mercedes-AMG One IAA 2023 1X7A0454.jpg"
   },
   {
    "text": "Formula One engines are built to run at the limit for a limited distance. So the AMG One comes with a strict maintenance plan, including a major engine overhaul after fifty thousand kilometres, done by specialists. Even starting the car is a process, because the engine must warm up before it can run properly. Mercedes needed years to make a race engine work on public roads.",
@@ -157,10 +185,14 @@
    "text": "Why does a Bugatti need a second key to reach its top speed? Bugatti cars have a special speed key. Without it, the car is limited to a lower top speed. Before reaching the very top, the driver stops, turns the second key in a slot near the seat, and the car checks itself. It lowers its body, changes the rear wing and tells the driver if everything is ready.",
    "query": "Bugatti Chiron interior",
    "caption": "WHY DOES THIS CAR NEED A SECOND KEY?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.65
+   },
    "chapter": "8. The speed key",
    "short": "Why Does a Bugatti Need a Second Key for Top Speed?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Bugatti Veyron Hermes interior.jpg"
   },
   {
    "text": "The car is changing its shape. At the highest speeds, the Bugatti needs less drag and just the right amount of downforce to stay stable. Running in the wrong mode at those speeds could make the car unstable. So the second key makes the driver think before entering a speed that only a handful of road cars in the world can reach.",
@@ -176,10 +208,14 @@
    "text": "Why do many supercars have exhausts made of titanium? Because titanium is light, strong and handles heat well. An exhaust system is a long set of pipes that gets extremely hot, and on a big engine it can be heavy. Switching from steel to titanium can save many kilograms, often at the very back of the car, where weight hurts the handling the most.",
    "query": "titanium exhaust",
    "caption": "WHY IS THIS EXHAUST MADE OF TITANIUM?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.3,
+    "y": 0.55
+   },
    "chapter": "9. The titanium exhaust",
    "short": "Why Do Supercars Have Titanium Exhausts?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:IPE wiki 991GT3 fullsystem.jpg"
   },
   {
    "text": "Titanium is hard to work with. It must be welded in a protected atmosphere, often with inert gas, because hot titanium reacts with the air and becomes weak. Every weld must be done carefully by a skilled welder. That is why a titanium exhaust can cost many thousands of dollars, sometimes more than a used family car.",
@@ -195,10 +231,14 @@
    "text": "Why do some cars have laser headlights? Because they can light the road much further ahead. In laser headlights, blue lasers shine onto a material that converts the light into intense white light. The light source is tiny and very bright, so the beam can reach several hundred metres, about twice as far as many normal high beams.",
    "query": "BMW i8 headlight",
    "caption": "WHY DOES THIS CAR HAVE LASER LIGHTS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.83,
+    "y": 0.65
+   },
    "chapter": "10. The laser headlights",
    "short": "Why Do Some Cars Have Laser Headlights?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:BMW i8 Front (left) New.jpg"
   },
   {
    "text": "BMW was the first to put laser high beams into a production car, the i eight hybrid sports car, in twenty fourteen. Audi used them on sports cars and luxury models too. The lasers never shine directly out of the car. They are used only inside the headlight to create the white light, which is then shaped into a safe beam.",

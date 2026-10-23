@@ -121,6 +121,16 @@ sc("""The price of a supercar part is the price of extreme demands, tiny numbers
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Bugatti Veyron EB 16.4 Grand Sport (wheel).JPG", 0.85, 0.5),
+    2: ("File:Bugatti Veyron 8.0-litre W16-cylinder engine - Flickr - exfordy.jpg", 0.5, 0.55),
+    3: ("File:1996 McLaren F1 engine.jpg", 0.25, 0.3),
+    4: ("File:Koenigsegg wheel, GIMS 2019, Le Grand-Saconnex (GIMS1052).jpg", 0.4, 0.45),
+    5: ("File:Pagani Zonda F engine (AMG V12 7.3l).jpg", 0.45, 0.3),
+    6: ("File:Mercedes-Benz M156 Engine 01.JPG", 0.47, 0.33),
+    7: ("File:Mercedes-AMG One IAA 2023 1X7A0454.jpg", 0.5, 0.55),
+    8: ("File:Bugatti Veyron Hermes interior.jpg", 0.55, 0.65),
+    9: ("File:IPE wiki 991GT3 fullsystem.jpg", 0.3, 0.55),
+    10: ("File:BMW i8 Front (left) New.jpg", 0.83, 0.65),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
