@@ -1,0 +1,93 @@
+# Photo credits: Why Do Rolls-Royce Wheel Logos Never Spin?
+
+All photos from Wikimedia Commons.
+
+- Rolls Royce Silver Ghost 1907.jpg by Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:Rolls_Royce_Silver_Ghost_1907.jpg
+- 2012 alloy wheel of Rolls-Royce Phantom in BMW-Museum in Munich, Bayern.JPG by Jiří Sedláček, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2012_alloy_wheel_of_Rolls-Royce_Phantom_in_BMW-Museum_in_Munich,_Bayern.JPG
+- 1956 Rolls Royce Silver Cloud I by Hooper.jpg by Phil,cropped and altered by uploader Mr.choppers, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:1956_Rolls_Royce_Silver_Cloud_I_by_Hooper.jpg
+- 1908 wheel of Rolls-Royce Silver Ghost in BMW-Museum in Munich, Bayern.JPG by Jiří Sedláček, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1908_wheel_of_Rolls-Royce_Silver_Ghost_in_BMW-Museum_in_Munich,_Bayern.JPG
+- Rolls-Royce Spectre (2024) (53623838426).jpg by Charles from Port Chester, New York, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Spectre_(2024)_(53623838426).jpg
+- Rolls-Royce Spectre (2024) (53622954312).jpg by Charles from Port Chester, New York, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Spectre_(2024)_(53622954312).jpg
+- Geneva MotorShow 2013 - Rolls-Royce Phantom Coupé wheel.jpg by Clément Bucco-Lechat, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Geneva_MotorShow_2013_-_Rolls-Royce_Phantom_Coup%C3%A9_wheel.jpg
+- Rolls-Royce Phantom VIII EWB White (16).jpg by Damian B Oh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_VIII_EWB_White_(16).jpg
+- Dülmen, Rolls-Royce Phantom II -- 2024 -- 5846.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Rolls-Royce_Phantom_II_--_2024_--_5846.jpg
+- Dülmen, Rolls-Royce Phantom II -- 2024 -- 5841.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Rolls-Royce_Phantom_II_--_2024_--_5841.jpg
+- Rolls Royce Phantom - Flickr - Alexandre Prévot (5) (cropped).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Rolls_Royce_Phantom_-_Flickr_-_Alexandre_Pr%C3%A9vot_(5)_(cropped).jpg
+- 2009 Rolls-Royce Phantom Coupé Goodwood, 2009 (01).jpg by Bahnfrend, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2009_Rolls-Royce_Phantom_Coup%C3%A9_Goodwood,_2009_(01).jpg
+- 1997 Rolls-Royce Silver Spur in Green, rear right.jpg by Mr.choppers, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:1997_Rolls-Royce_Silver_Spur_in_Green,_rear_right.jpg
+- FAB 1 (46946364531).jpg by Mike McBey, CC BY 2.0, https://commons.wikimedia.org/wiki/File:FAB_1_(46946364531).jpg
+- Rolls-Royce Ghost II Midnight Sapphire (63).jpg by Damian B Oh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Ghost_II_Midnight_Sapphire_(63).jpg
+- Rolls-Royce Ghost II Midnight Sapphire (66).jpg by Damian B Oh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Ghost_II_Midnight_Sapphire_(66).jpg
+- Rolls-Royce Cullinan (2022) (52230889845).jpg by Charles from Port Chester, New York, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Cullinan_(2022)_(52230889845).jpg
+- Rolls-Royce Cullinan (2022) (52230410253).jpg by Charles from Port Chester, New York, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Cullinan_(2022)_(52230410253).jpg
+- 2011-03-04 Autosalon Genf 1295.JPG by Norbert Aepli, Switzerland (User:Noebu), CC BY 3.0, https://commons.wikimedia.org/wiki/File:2011-03-04_Autosalon_Genf_1295.JPG
+- John Lennon’s 1965 Rolls-Royce Phantom V at Pointe-à-Callière (loan from the Royal BC Museum in Victoria) - The Beatles in Montréal - Pointe-à-Callière (2013-06-23 14.11.55 by Patrick Grace).jpg by Patrick Grace from Montreal, Canada, CC BY 2.0, https://commons.wikimedia.org/wiki/File:John_Lennon%E2%80%99s_1965_Rolls-Royce_Phantom_V_at_Pointe-%C3%A0-Calli%C3%A8re_(loan_from_the_Royal_BC_Museum_in_Victoria)_-_The_Beatles_in_Montr%C3%A9al_-_Pointe-%C3%A0-Calli%C3%A8re_(2013-06-23_14.11.55_by_Patrick_Grace).jpg
+- John Lennon’s 1965 Rolls-Royce Phantom V at Pointe-à-Callière (loan from the Royal BC Museum in Victoria) - The Beatles in Montréal - Pointe-à-Callière (2013-06-23 14.11.39 by Patrick Grace).jpg by Patrick Grace from Montreal, Canada, CC BY 2.0, https://commons.wikimedia.org/wiki/File:John_Lennon%E2%80%99s_1965_Rolls-Royce_Phantom_V_at_Pointe-%C3%A0-Calli%C3%A8re_(loan_from_the_Royal_BC_Museum_in_Victoria)_-_The_Beatles_in_Montr%C3%A9al_-_Pointe-%C3%A0-Calli%C3%A8re_(2013-06-23_14.11.39_by_Patrick_Grace).jpg
+- 1937 Rolls Royce Phantom III Brewster Newmarket Faux Cabriolet, front left (Greenwich 2023).jpg by Mr.choppers, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:1937_Rolls_Royce_Phantom_III_Brewster_Newmarket_Faux_Cabriolet,_front_left_(Greenwich_2023).jpg
+- 1967 Rolls-Royce Silver Shadow Pick-Up.jpg by MrWalkr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1967_Rolls-Royce_Silver_Shadow_Pick-Up.jpg
+- Rolls-Royce Phantom III Barker two-door coupé-chauffeur.jpg by Charles, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_III_Barker_two-door_coup%C3%A9-chauffeur.jpg
+- 1925 Rolls-Royce Phantom I “Round Door”.jpg by Nan Palmero, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1925_Rolls-Royce_Phantom_I_%E2%80%9CRound_Door%E2%80%9D.jpg
+- Spirit of Ecstasy HMC.jpg by Adam Loader, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Spirit_of_Ecstasy_HMC.jpg
+- Dülmen, Rolls-Royce Phantom II -- 2024 -- 5837.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Rolls-Royce_Phantom_II_--_2024_--_5837.jpg
+- Spirit of Ecstasy "Emily" Rolls Royce.jpg by XoMEoX, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Spirit_of_Ecstasy_%22Emily%22_Rolls_Royce.jpg
+- Rolls Royce Spirit of Ecstasy and reflections - in a moving car in the open.jpg by JarrahTree, CC BY 2.5 au, https://commons.wikimedia.org/wiki/File:Rolls_Royce_Spirit_of_Ecstasy_and_reflections_-_in_a_moving_car_in_the_open.jpg
+- Spirit of Ecstasy (Side View).jpg by NoslivRage, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Spirit_of_Ecstasy_(Side_View).jpg
+- Rolls-Royce Spectre, Monaco (20260620-IMG 3854).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Spectre,_Monaco_(20260620-IMG_3854).jpg
+- Rolls-Royce Spectre IAA 2023 1X7A0754.jpg by Alexander-93, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Spectre_IAA_2023_1X7A0754.jpg
+- Geneva MotorShow 2013 - Rolls-Royce Phantom Coupé opened door.jpg by Clément Bucco-Lechat, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Geneva_MotorShow_2013_-_Rolls-Royce_Phantom_Coup%C3%A9_opened_door.jpg
+- Rolls Royce round door (30839297873).jpg by zombieite, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rolls_Royce_round_door_(30839297873).jpg
+- Rolls-Royce Phantom VIII EWB White (12).jpg by Damian B Oh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_VIII_EWB_White_(12).jpg
+- Rolls-Royce Phantom III Sedanca de Ville by Barker (1937).jpg by Charles, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_III_Sedanca_de_Ville_by_Barker_(1937).jpg
+- Rolls-Royce Phantom III Sedanca de Ville by Barker (1937) - 52958114907.jpg by Charles, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_III_Sedanca_de_Ville_by_Barker_(1937)_-_52958114907.jpg
+- Rolls-Royce Ghost (SPOFEC ROLLS ROYCE GHOST) (Ent No.20601) (24021012390).jpg by 先従隗始, CC0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Ghost_(SPOFEC_ROLLS_ROYCE_GHOST)_(Ent_No.20601)_(24021012390).jpg
+- Rolls-Royce Ghost (SPOFEC ROLLS ROYCE GHOST) (Ent No.20601) (24021012391).jpg by 先従隗始, CC0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Ghost_(SPOFEC_ROLLS_ROYCE_GHOST)_(Ent_No.20601)_(24021012391).jpg
+- Rolls-Royce Phantom VIII Series II Scivaro Grey Peony Pink Iceland Moss (12).jpg by Damian B Oh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_VIII_Series_II_Scivaro_Grey_Peony_Pink_Iceland_Moss_(12).jpg
+- Rolls-Royce Phantom VIII Series II Scivaro Grey Peony Pink Iceland Moss (13).jpg by Damian B Oh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_VIII_Series_II_Scivaro_Grey_Peony_Pink_Iceland_Moss_(13).jpg
+- Rolls-Royce Phantom VIII Series II Monteverde Black Peony Pink (29).jpg by Damian B Oh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_VIII_Series_II_Monteverde_Black_Peony_Pink_(29).jpg
+- Dülmen, Rolls-Royce Phantom II, Innenraum -- 2024 -- 5877.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Rolls-Royce_Phantom_II,_Innenraum_--_2024_--_5877.jpg
+- Rolls Royce Interior (3102093218).jpg by dave_7 from Lethbridge, Canada, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rolls_Royce_Interior_(3102093218).jpg
+- Rolls Royce Phantom Drophead Coupe (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls_Royce_Phantom_Drophead_Coupe_(Ank_Kumar)_01.jpg
+- 1930 Rolls Royce Phantom II Landaulet De Ville (9578618831).jpg by sv1ambo, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1930_Rolls_Royce_Phantom_II_Landaulet_De_Ville_(9578618831).jpg
+- Rolls-Royce Phantom, Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1220).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom,_Geneva_International_Motor_Show_2018,_Le_Grand-Saconnex_(1X7A1220).jpg
+- Dülmen, Rolls-Royce Phantom II -- 2024 -- 5829.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Rolls-Royce_Phantom_II_--_2024_--_5829.jpg
+- Rolls-Royce Phantom V, TC 24, Essen (TCE43387-RR).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_V,_TC_24,_Essen_(TCE43387-RR).jpg
+- Steamroller preceded by red flag.jpg by Martinvl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Steamroller_preceded_by_red_flag.jpg
+- Charles Rolls driving a Peugeot 1896.jpg by Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:Charles_Rolls_driving_a_Peugeot_1896.jpg
+- Sydney, NSW - Australia (16652710445).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Sydney,_NSW_-_Australia_(16652710445).jpg
+- Westland WG.30 TT300 ‘G-HAUL’.jpg by HawkeyeUK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Westland_WG.30_TT300_%E2%80%98G-HAUL%E2%80%99.jpg
+- GravesendThames3401.JPG by Clem Rutter, Rochester Kent, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:GravesendThames3401.JPG
+- Dülmen, Rolls-Royce Phantom II -- 2024 -- 5825.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Rolls-Royce_Phantom_II_--_2024_--_5825.jpg
+- Rolls Royce Ghost Black Badge V12 Engine.jpg by RpM Tartar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls_Royce_Ghost_Black_Badge_V12_Engine.jpg
+- Rolls-Royce Boat Engine.jpg by Spartan7W, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Boat_Engine.jpg
+- Rolls-Royce Phantom (2) Travelarz.JPG by Travelarz, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_(2)_Travelarz.JPG
+- Rolls-Royce Phantom I (2) Travelarz.JPG by Travelarz, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_I_(2)_Travelarz.JPG
+- Rolls-Royce Phantom front view at BMW Museum, Munich.jpg by Wilfredor, CC0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_front_view_at_BMW_Museum,_Munich.jpg
+- Rolls-Royce Phantom VIII EWB White (11).jpg by Damian B Oh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_VIII_EWB_White_(11).jpg
+- 1969 Rolls-Royce Phantom VI Black (8).jpg by Damian B Oh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1969_Rolls-Royce_Phantom_VI_Black_(8).jpg
+- Rolls-Royce Silver Ghost Roadster (1923) Classic-Gala 2021 1X7A0124.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Silver_Ghost_Roadster_(1923)_Classic-Gala_2021_1X7A0124.jpg
+- Rolls-Royce Silver Ghost Roadster (1923) Classic-Gala 2021 1X7A0131.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Silver_Ghost_Roadster_(1923)_Classic-Gala_2021_1X7A0131.jpg
+- Rolls Royce Spectre in the Rolls Royce Hong Kong showroom January 2026.jpg by Nick-D, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls_Royce_Spectre_in_the_Rolls_Royce_Hong_Kong_showroom_January_2026.jpg
+- 2023 Rolls-Royce Spectre EV - 102kWh (585PS) Electric - Wittering Blue - 06-2024, Front Quarter.jpg by Harvey Bold, CC0, https://commons.wikimedia.org/wiki/File:2023_Rolls-Royce_Spectre_EV_-_102kWh_(585PS)_Electric_-_Wittering_Blue_-_06-2024,_Front_Quarter.jpg
+- Rolls-Royce Phantom VIII EWB White (3).jpg by Damian B Oh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_VIII_EWB_White_(3).jpg
+- Rolls-Royce Phantom VIII EWB White (8).jpg by Damian B Oh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_VIII_EWB_White_(8).jpg
+- Dull weather at Rolls-Royce plant, Goodwood. - Flickr - Supermac1961.jpg by Supermac1961 from CHAFFORD HUNDRED, England, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dull_weather_at_Rolls-Royce_plant,_Goodwood._-_Flickr_-_Supermac1961.jpg
+- 1926 Rolls-Royce Springfield Silver Ghost Town Car 'Warwick' by Brewster, front left.jpg by Mr.choppers, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:1926_Rolls-Royce_Springfield_Silver_Ghost_Town_Car_%27Warwick%27_by_Brewster,_front_left.jpg
+- 1925 Rolls-Royce Silver Ghost Barrel Sided Tourer HCC24.jpg by MrWalkr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1925_Rolls-Royce_Silver_Ghost_Barrel_Sided_Tourer_HCC24.jpg
+- 1925 Rolls-Royce Silver Ghost Barrel Sided Tourer by Barker.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1925_Rolls-Royce_Silver_Ghost_Barrel_Sided_Tourer_by_Barker.jpg
+- Rolls Royce Ghost 2015 (23149918661).jpg by Kārlis Dambrāns from Latvia, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rolls_Royce_Ghost_2015_(23149918661).jpg
+- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0, https://commons.wikimedia.org/wiki/File:PACKARD_120_CONVERTIBLE_COUPE_(1939)_(50072477626).jpg
+- Rolls Royce Cullinan Interior.jpg by Kārlis Dambrāns, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rolls_Royce_Cullinan_Interior.jpg
+- Rolls-Royce Ghost II Black Badge (2024) (53623838441).jpg by Charles from Port Chester, New York, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Ghost_II_Black_Badge_(2024)_(53623838441).jpg
+- Rolls-Royce WW1 armoured car. (31371368675).jpg by Mohit S from Mumbai, India, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_WW1_armoured_car._(31371368675).jpg
+- 1930 Rolls-Royce Phantom II Two-Seater Open Sports by Hooper, rear right (Hershey 2019).jpg by Mr.choppers, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:1930_Rolls-Royce_Phantom_II_Two-Seater_Open_Sports_by_Hooper,_rear_right_(Hershey_2019).jpg
+- John Lennon’s 1965 Rolls-Royce Phantom V at Pointe-à-Callière (loan from the Royal BC Museum in Victoria) - The Beatles in Montréal - Pointe-à-Callière (2013-06-23 14.12.58 by Patrick Grace).jpg by Patrick Grace from Montreal, Canada, CC BY 2.0, https://commons.wikimedia.org/wiki/File:John_Lennon%E2%80%99s_1965_Rolls-Royce_Phantom_V_at_Pointe-%C3%A0-Calli%C3%A8re_(loan_from_the_Royal_BC_Museum_in_Victoria)_-_The_Beatles_in_Montr%C3%A9al_-_Pointe-%C3%A0-Calli%C3%A8re_(2013-06-23_14.12.58_by_Patrick_Grace).jpg
+- Rolls-Royce Silver Cloud III, Bj. 1964 (ret).jpg by Spurzem - Lothar Spurzem, CC BY-SA 2.0 de, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Silver_Cloud_III,_Bj._1964_(ret).jpg
+- Dülmen, Rolls-Royce Phantom II -- 2024 -- 5862.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Rolls-Royce_Phantom_II_--_2024_--_5862.jpg
+- Dülmen, Rolls-Royce Phantom II -- 2024 -- 5887.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Rolls-Royce_Phantom_II_--_2024_--_5887.jpg
+- Rolls-Royce Silver Seraph (20170430 200011).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Silver_Seraph_(20170430_200011).jpg
+- Motor Rolls-Royce Avon A74172820240329.jpg by Rjcastillo, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Motor_Rolls-Royce_Avon_A74172820240329.jpg
+- Rolls-Royce Corniche, TC 24, Essen (TCE43295-RR).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Corniche,_TC_24,_Essen_(TCE43295-RR).jpg
+- Rolls-Royce Phantom VIII Black (18).jpg by Damian B Oh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_VIII_Black_(18).jpg
+- Rolls-Royce Phantom VIII Black (20).jpg by Damian B Oh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_VIII_Black_(20).jpg
+- Rolls-Royce Phantom VIII Black (2).jpg by Damian B Oh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_VIII_Black_(2).jpg
+- Rolls-Royce Phantom VIII Black (44).jpg by Damian B Oh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rolls-Royce_Phantom_VIII_Black_(44).jpg
