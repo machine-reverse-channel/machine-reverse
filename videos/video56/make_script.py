@@ -95,7 +95,7 @@ part(8, "The tunnels inside the dam", "WHY ARE THERE TUNNELS INSIDE THIS DAM?", 
 sc("""Water seeping under a dam can push upward on it, like the dam is trying to float. This is called uplift, and it reduces the dam's grip on the ground. So drains are drilled from the galleries into the rock below, letting that water escape and lowering the pressure.""",
    "dam inspection gallery", "THE DAM TRIES TO FLOAT")
 sc("""Inside many dams, there are also hanging wires called plumb lines, which show if the dam leans a few millimeters more in summer or under a full lake. Big dams bend a little with the water level and the temperature, and engineers have records of those movements going back decades.""",
-   "dam", "PLUMB LINES")
+   "concrete dam", "PLUMB LINES")
 
 # ---------- 9. FISH LADDER ----------
 part(9, "The fish ladder", "WHY DOES THIS DAM HAVE STAIRS FOR FISH?", "Why Do Some Dams Have Stairs for Fish?",
