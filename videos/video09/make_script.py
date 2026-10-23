@@ -128,7 +128,7 @@ PICKS = {
     4: ("File:N414FE cargo hold.jpg", 0.5, 0.4),
     5: ("File:Antonov An-124 (Antonov Airlines) (6098824435).jpg", 0.27, 0.88),
     6: ("File:C-130 Air Drop 110411-F-RH591-224.jpg", 0.5, 0.55),
-    7: ("File:Boeing 747-400LCF Dreamlifter.jpg", 0.75, 0.45),
+    7: ("File:Boeing 747-400LCF Dreamlifter.jpg", 0.2, 0.42),
     8: ("File:Airbus Beluga, ILA 2024, Schoenefeld (ILA43968).jpg", 0.6, 0.3),
     9: ("File:CARGO HOLD OF BOEING 747-230 D-ABYM ON DISPLAY AT THE TECHNIK MUSEUM SPEYER GERMANY APRIL 2013 (9377073884).jpg", 0.3, 0.4),
     10: ("File:JASDF C-2(78-1205) loadmaster station at Komaki Air Base March 3, 2018.jpg", 0.5, 0.5),
