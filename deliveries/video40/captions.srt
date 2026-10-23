@@ -1,0 +1,1323 @@
+1
+00:00:00,000 --> 00:00:03,739
+Most people imagine an icebreaker smashing through
+
+2
+00:00:03,739 --> 00:00:05,085
+ice like a hammer,
+
+3
+00:00:05,085 --> 00:00:07,105
+or cutting it like a knife.
+
+4
+00:00:07,285 --> 00:00:08,376
+It does neither.
+
+5
+00:00:08,556 --> 00:00:11,516
+An icebreaker drives up onto the ice,
+
+6
+00:00:11,516 --> 00:00:14,076
+and then crushes it with its own
+
+7
+00:00:14,076 --> 00:00:15,995
+weight, again and again,
+
+8
+00:00:15,995 --> 00:00:17,995
+thousands of times a day.
+
+9
+00:00:18,175 --> 00:00:21,687
+Today, ten parts of an icebreaker,
+
+10
+00:00:21,687 --> 00:00:24,166
+and why each one exists.
+
+11
+00:00:24,516 --> 00:00:26,548
+Sea ice can be more than a
+
+12
+00:00:26,548 --> 00:00:28,893
+metre thick, and it can trap a
+
+13
+00:00:28,893 --> 00:00:30,612
+normal ship for weeks,
+
+14
+00:00:30,612 --> 00:00:32,410
+or even crush its hull.
+
+15
+00:00:32,590 --> 00:00:35,227
+In places like the Arctic and the
+
+16
+00:00:35,227 --> 00:00:38,982
+Baltic Sea, icebreakers keep ports and shipping
+
+17
+00:00:38,982 --> 00:00:41,379
+lanes open through the winter.
+
+18
+00:00:41,559 --> 00:00:44,073
+They are some of the toughest ships
+
+19
+00:00:44,073 --> 00:00:46,659
+ever built, and almost every part of
+
+20
+00:00:46,659 --> 00:00:48,455
+them is designed for ice.
+
+21
+00:00:48,806 --> 00:00:51,868
+As always, every fact here comes from
+
+22
+00:00:51,868 --> 00:00:53,109
+a named source,
+
+23
+00:00:53,109 --> 00:00:54,434
+ice class rules,
+
+24
+00:00:54,434 --> 00:00:57,248
+shipbuilders and naval references,
+
+25
+00:00:57,248 --> 00:00:59,731
+all listed in the description.
+
+26
+00:00:59,911 --> 00:01:01,327
+Let's start with the bow.
+
+27
+00:01:01,677 --> 00:01:04,643
+Why does an icebreaker have a long,
+
+28
+00:01:04,643 --> 00:01:06,762
+sloped bow, like a spoon?
+
+29
+00:01:06,942 --> 00:01:09,220
+So it can climb on top of
+
+30
+00:01:09,220 --> 00:01:09,949
+the ice.
+
+31
+00:01:10,129 --> 00:01:12,453
+A normal ship's bow is steep,
+
+32
+00:01:12,453 --> 00:01:14,937
+and it would hit thick ice head
+
+33
+00:01:14,937 --> 00:01:15,899
+on and stop.
+
+34
+00:01:16,079 --> 00:01:19,331
+An icebreaker's bow is shallow and angled,
+
+35
+00:01:19,331 --> 00:01:21,267
+so when it meets the ice,
+
+36
+00:01:21,267 --> 00:01:23,358
+the ship slides up onto it.
+
+37
+00:01:23,709 --> 00:01:25,411
+Once the bow is on top,
+
+38
+00:01:25,411 --> 00:01:28,076
+the weight of thousands of tonnes of
+
+39
+00:01:28,076 --> 00:01:29,409
+ship presses down.
+
+40
+00:01:29,589 --> 00:01:31,788
+Ice is strong when you push it
+
+41
+00:01:31,788 --> 00:01:32,814
+from the side,
+
+42
+00:01:32,814 --> 00:01:35,012
+but weak when you bend it from
+
+43
+00:01:35,012 --> 00:01:35,452
+above.
+
+44
+00:01:35,632 --> 00:01:38,222
+The ice sheet cracks under the weight,
+
+45
+00:01:38,222 --> 00:01:40,745
+and the broken pieces are pushed down
+
+46
+00:01:40,745 --> 00:01:42,517
+and aside, under the hull.
+
+47
+00:01:42,867 --> 00:01:44,988
+If the ice is too thick to
+
+48
+00:01:44,988 --> 00:01:46,294
+break in one go,
+
+49
+00:01:46,294 --> 00:01:49,231
+the icebreaker backs up and rams it,
+
+50
+00:01:49,231 --> 00:01:51,597
+sliding further up each time.
+
+51
+00:01:51,777 --> 00:01:53,335
+This is called ramming,
+
+52
+00:01:53,335 --> 00:01:55,502
+and it can take many attempts to
+
+53
+00:01:55,502 --> 00:01:57,602
+get through a ridge of piled up
+
+54
+00:01:57,602 --> 00:01:57,873
+ice.
+
+55
+00:01:58,053 --> 00:01:59,039
+It is slow,
+
+56
+00:01:59,039 --> 00:02:01,102
+noisy and violent work,
+
+57
+00:02:01,102 --> 00:02:03,703
+but it opens a path for other
+
+58
+00:02:03,703 --> 00:02:04,241
+ships.
+
+59
+00:02:04,591 --> 00:02:06,745
+Why is the hull of an icebreaker
+
+60
+00:02:06,745 --> 00:02:08,968
+much thicker in a band around the
+
+61
+00:02:08,968 --> 00:02:09,641
+waterline?
+
+62
+00:02:09,821 --> 00:02:12,294
+That band is called the ice belt.
+
+63
+00:02:12,474 --> 00:02:14,371
+It is the part of the hull
+
+64
+00:02:14,371 --> 00:02:15,685
+that hits the ice,
+
+65
+00:02:15,685 --> 00:02:18,385
+scrapes along it and gets squeezed by
+
+66
+00:02:18,385 --> 00:02:18,604
+it.
+
+67
+00:02:18,784 --> 00:02:20,226
+On a large icebreaker,
+
+68
+00:02:20,226 --> 00:02:22,980
+the steel there can be several centimetres
+
+69
+00:02:22,980 --> 00:02:25,341
+thick, much thicker than on a normal
+
+70
+00:02:25,341 --> 00:02:25,669
+ship.
+
+71
+00:02:26,019 --> 00:02:29,366
+Inside, the ice belt is also supported
+
+72
+00:02:29,366 --> 00:02:32,713
+by extra frames placed close together,
+
+73
+00:02:32,713 --> 00:02:35,620
+like the ribs of a strong animal.
+
+74
+00:02:35,800 --> 00:02:37,658
+Ice does not push evenly.
+
+75
+00:02:37,838 --> 00:02:39,150
+It hits in sharp,
+
+76
+00:02:39,150 --> 00:02:42,934
+concentrated points, which can dent normal steel.
+
+77
+00:02:43,114 --> 00:02:46,023
+The thick plates and dense frames spread
+
+78
+00:02:46,023 --> 00:02:47,259
+those forces out.
+
+79
+00:02:47,610 --> 00:02:50,129
+The steel itself is special.
+
+80
+00:02:50,309 --> 00:02:54,205
+Normal steel becomes brittle in extreme cold,
+
+81
+00:02:54,205 --> 00:02:56,369
+and can crack like glass.
+
+82
+00:02:56,549 --> 00:03:00,005
+Icebreakers use steel that stays tough at
+
+83
+00:03:00,005 --> 00:03:01,860
+very low temperatures,
+
+84
+00:03:01,860 --> 00:03:04,978
+often far below minus thirty degrees.
+
+85
+00:03:05,158 --> 00:03:06,241
+In the Arctic,
+
+86
+00:03:06,241 --> 00:03:08,484
+even the choice of metal is a
+
+87
+00:03:08,484 --> 00:03:09,953
+matter of survival.
+
+88
+00:03:10,303 --> 00:03:13,026
+Why are icebreaker hulls rounded at the
+
+89
+00:03:13,026 --> 00:03:14,912
+sides, instead of straight?
+
+90
+00:03:15,092 --> 00:03:17,404
+So that ice pushes the ship up,
+
+91
+00:03:17,404 --> 00:03:19,120
+instead of crushing it.
+
+92
+00:03:19,300 --> 00:03:22,561
+When floating ice is pressed together by
+
+93
+00:03:22,561 --> 00:03:24,028
+wind and currents,
+
+94
+00:03:24,028 --> 00:03:26,065
+it can close in on a ship
+
+95
+00:03:26,065 --> 00:03:27,369
+from both sides.
+
+96
+00:03:27,549 --> 00:03:30,104
+A straight sided hull takes the full
+
+97
+00:03:30,104 --> 00:03:32,658
+squeeze, like a nut in a nutcracker.
+
+98
+00:03:33,008 --> 00:03:36,661
+A rounded hull turns that sideways squeeze
+
+99
+00:03:36,661 --> 00:03:39,010
+partly into an upward push.
+
+100
+00:03:39,190 --> 00:03:41,834
+The ice slides down along the curve
+
+101
+00:03:41,834 --> 00:03:43,269
+and lifts the ship,
+
+102
+00:03:43,269 --> 00:03:45,007
+instead of crushing it.
+
+103
+00:03:45,187 --> 00:03:47,327
+The famous polar ship Fram,
+
+104
+00:03:47,327 --> 00:03:50,578
+built for the explorer Fridtjof Nansen in
+
+105
+00:03:50,578 --> 00:03:52,322
+the eighteen nineties,
+
+106
+00:03:52,322 --> 00:03:53,511
+used this idea.
+
+107
+00:03:53,691 --> 00:03:56,232
+It was frozen into the Arctic ice
+
+108
+00:03:56,232 --> 00:03:58,079
+on purpose and survived.
+
+109
+00:03:58,430 --> 00:04:00,635
+Many ships trapped in ice in the
+
+110
+00:04:00,635 --> 00:04:02,428
+past, with straight sides,
+
+111
+00:04:02,428 --> 00:04:03,944
+were crushed and sank.
+
+112
+00:04:04,124 --> 00:04:06,987
+The rounded shape makes the ship roll
+
+113
+00:04:06,987 --> 00:04:08,456
+more in open water,
+
+114
+00:04:08,456 --> 00:04:11,241
+which is uncomfortable for the crew.
+
+115
+00:04:11,421 --> 00:04:12,580
+But in the ice,
+
+116
+00:04:12,580 --> 00:04:15,670
+comfort is less important than survival.
+
+117
+00:04:16,021 --> 00:04:19,248
+Why does an icebreaker rock itself from
+
+118
+00:04:19,248 --> 00:04:21,233
+side to side on purpose?
+
+119
+00:04:21,413 --> 00:04:23,538
+To avoid getting stuck.
+
+120
+00:04:23,718 --> 00:04:25,605
+Ice can grip the sides of a
+
+121
+00:04:25,605 --> 00:04:27,282
+ship with huge friction.
+
+122
+00:04:27,462 --> 00:04:29,955
+Large tanks on both sides of the
+
+123
+00:04:29,955 --> 00:04:32,838
+hull pump water quickly from one side
+
+124
+00:04:32,838 --> 00:04:33,850
+to the other,
+
+125
+00:04:33,850 --> 00:04:36,499
+making the ship roll a few degrees
+
+126
+00:04:36,499 --> 00:04:37,668
+back and forth.
+
+127
+00:04:38,018 --> 00:04:40,612
+That rolling motion breaks the grip of
+
+128
+00:04:40,612 --> 00:04:41,978
+the ice on the hull,
+
+129
+00:04:41,978 --> 00:04:44,027
+like wiggling a stuck key in a
+
+130
+00:04:44,027 --> 00:04:44,368
+lock.
+
+131
+00:04:44,548 --> 00:04:46,677
+It also helps the ship turn in
+
+132
+00:04:46,677 --> 00:04:48,947
+thick ice and break free when it
+
+133
+00:04:48,947 --> 00:04:49,657
+is pinned.
+
+134
+00:04:49,837 --> 00:04:53,216
+Some icebreakers can also pump water forward
+
+135
+00:04:53,216 --> 00:04:55,596
+and backward to tilt the bow up
+
+136
+00:04:55,596 --> 00:04:56,211
+or down.
+
+137
+00:04:56,561 --> 00:04:58,987
+The heeling system is powerful.
+
+138
+00:04:59,167 --> 00:05:01,168
+Hundreds of tonnes of water can be
+
+139
+00:05:01,168 --> 00:05:02,580
+moved in under a minute.
+
+140
+00:05:02,760 --> 00:05:06,668
+Finnish icebreaker designers were among the pioneers
+
+141
+00:05:06,668 --> 00:05:07,570
+of the idea,
+
+142
+00:05:07,570 --> 00:05:10,877
+because the Baltic Sea freezes every winter,
+
+143
+00:05:10,877 --> 00:05:13,507
+and keeping its ports open is vital
+
+144
+00:05:13,507 --> 00:05:15,311
+for the country's trade.
+
+145
+00:05:15,661 --> 00:05:18,559
+Why do some icebreakers blow air bubbles
+
+146
+00:05:18,559 --> 00:05:19,863
+out of their hull?
+
+147
+00:05:20,043 --> 00:05:21,483
+To reduce friction.
+
+148
+00:05:21,663 --> 00:05:24,500
+Holes along the lower hull release a
+
+149
+00:05:24,500 --> 00:05:26,470
+stream of compressed air.
+
+150
+00:05:26,650 --> 00:05:29,229
+The bubbles rise along the sides of
+
+151
+00:05:29,229 --> 00:05:31,808
+the ship, carrying water with them,
+
+152
+00:05:31,808 --> 00:05:34,534
+and form a slippery layer between the
+
+153
+00:05:34,534 --> 00:05:35,787
+hull and the ice.
+
+154
+00:05:36,137 --> 00:05:39,161
+Ice and snow piled against a hull
+
+155
+00:05:39,161 --> 00:05:40,811
+can act like glue,
+
+156
+00:05:40,811 --> 00:05:43,927
+especially wet snow on top of ice.
+
+157
+00:05:44,107 --> 00:05:46,927
+The bubbling water washes it away and
+
+158
+00:05:46,927 --> 00:05:49,366
+makes the ice slide more easily.
+
+159
+00:05:49,546 --> 00:05:52,289
+The ship needs less power to move,
+
+160
+00:05:52,289 --> 00:05:54,790
+and is less likely to get stuck
+
+161
+00:05:54,790 --> 00:05:55,839
+in heavy ice.
+
+162
+00:05:56,189 --> 00:05:59,140
+Some icebreakers use a very smooth,
+
+163
+00:05:59,140 --> 00:06:01,922
+hard coating on the hull instead,
+
+164
+00:06:01,922 --> 00:06:05,632
+which also reduces friction and protects the
+
+165
+00:06:05,632 --> 00:06:06,138
+steel.
+
+166
+00:06:06,318 --> 00:06:09,151
+Both ideas aim at the same problem.
+
+167
+00:06:09,331 --> 00:06:11,391
+Breaking the ice is only half the
+
+168
+00:06:11,391 --> 00:06:11,827
+battle.
+
+169
+00:06:12,007 --> 00:06:14,098
+The other half is sliding through the
+
+170
+00:06:14,098 --> 00:06:16,245
+broken pieces without being held back.
+
+171
+00:06:16,595 --> 00:06:19,595
+Why do most icebreakers turn their propellers
+
+172
+00:06:19,595 --> 00:06:20,995
+with electric motors?
+
+173
+00:06:21,175 --> 00:06:24,077
+Because the propellers keep hitting ice.
+
+174
+00:06:24,257 --> 00:06:27,032
+A block of ice can suddenly jam
+
+175
+00:06:27,032 --> 00:06:29,807
+a propeller and almost stop it.
+
+176
+00:06:29,987 --> 00:06:32,906
+A diesel engine connected directly to the
+
+177
+00:06:32,906 --> 00:06:35,612
+propeller could stall or be damaged by
+
+178
+00:06:35,612 --> 00:06:36,396
+that shock.
+
+179
+00:06:36,746 --> 00:06:39,258
+In a diesel electric icebreaker,
+
+180
+00:06:39,258 --> 00:06:41,928
+the diesel engines run generators,
+
+181
+00:06:41,928 --> 00:06:45,462
+and the generators power electric motors that
+
+182
+00:06:45,462 --> 00:06:47,032
+turn the propellers.
+
+183
+00:06:47,212 --> 00:06:50,540
+An electric motor can produce full force
+
+184
+00:06:50,540 --> 00:06:52,454
+even at very low speed,
+
+185
+00:06:52,454 --> 00:06:55,117
+so when ice slows the propeller,
+
+186
+00:06:55,117 --> 00:06:58,278
+the motor keeps pushing hard and chews
+
+187
+00:06:58,278 --> 00:06:59,194
+through it.
+
+188
+00:06:59,544 --> 00:07:02,667
+The propellers themselves are made of very
+
+189
+00:07:02,667 --> 00:07:05,046
+strong steel, with thick blades,
+
+190
+00:07:05,046 --> 00:07:07,425
+and they are often designed so a
+
+191
+00:07:07,425 --> 00:07:09,656
+damaged blade can be replaced.
+
+192
+00:07:09,836 --> 00:07:13,054
+Some icebreakers have propellers at the bow
+
+193
+00:07:13,054 --> 00:07:15,525
+too, to wash broken ice away from
+
+194
+00:07:15,525 --> 00:07:16,198
+the hull.
+
+195
+00:07:16,378 --> 00:07:19,010
+Every part of the drive is built
+
+196
+00:07:19,010 --> 00:07:20,244
+to survive ice.
+
+197
+00:07:20,595 --> 00:07:24,291
+Why does Russia operate icebreakers powered by
+
+198
+00:07:24,291 --> 00:07:25,657
+nuclear reactors?
+
+199
+00:07:25,837 --> 00:07:28,414
+Because of distance and power.
+
+200
+00:07:28,594 --> 00:07:31,289
+The Arctic route along the north of
+
+201
+00:07:31,289 --> 00:07:32,829
+Russia is very long,
+
+202
+00:07:32,829 --> 00:07:35,369
+far from ports where a ship could
+
+203
+00:07:35,369 --> 00:07:35,908
+refuel.
+
+204
+00:07:36,088 --> 00:07:39,748
+Breaking thick ice also needs enormous power
+
+205
+00:07:39,748 --> 00:07:41,162
+for long periods.
+
+206
+00:07:41,512 --> 00:07:45,026
+A nuclear reactor provides that power without
+
+207
+00:07:45,026 --> 00:07:46,666
+refuelling for years.
+
+208
+00:07:46,846 --> 00:07:49,693
+The Soviet Union launched the Lenin in
+
+209
+00:07:49,693 --> 00:07:53,814
+nineteen fifty-seven, the world's first nuclear powered
+
+210
+00:07:53,814 --> 00:07:54,788
+surface ship.
+
+211
+00:07:54,968 --> 00:07:57,048
+In nineteen seventy-seven,
+
+212
+00:07:57,048 --> 00:08:00,808
+the nuclear icebreaker Arktika became the first
+
+213
+00:08:00,808 --> 00:08:03,768
+surface ship to reach the North Pole.
+
+214
+00:08:04,118 --> 00:08:07,617
+Russia still builds new nuclear icebreakers,
+
+215
+00:08:07,617 --> 00:08:10,322
+among the most powerful ever made,
+
+216
+00:08:10,322 --> 00:08:13,185
+to keep the Northern Sea Route open.
+
+217
+00:08:13,365 --> 00:08:16,674
+Nuclear power is expensive and complex,
+
+218
+00:08:16,674 --> 00:08:19,814
+and only makes sense for the toughest
+
+219
+00:08:19,814 --> 00:08:20,238
+jobs.
+
+220
+00:08:20,418 --> 00:08:21,462
+In the Arctic,
+
+221
+00:08:21,462 --> 00:08:23,997
+where the ice never stops and fuel
+
+222
+00:08:23,997 --> 00:08:24,892
+is far away,
+
+223
+00:08:24,892 --> 00:08:27,129
+it is the toughest job of all.
+
+224
+00:08:27,479 --> 00:08:30,577
+Why do some ships sail backwards through
+
+225
+00:08:30,577 --> 00:08:31,739
+ice on purpose?
+
+226
+00:08:31,919 --> 00:08:34,381
+They are called double acting ships.
+
+227
+00:08:34,561 --> 00:08:37,221
+The bow is shaped for open water,
+
+228
+00:08:37,221 --> 00:08:39,963
+so the ship is efficient in normal
+
+229
+00:08:39,963 --> 00:08:40,366
+seas.
+
+230
+00:08:40,546 --> 00:08:43,465
+The stern is shaped like an icebreaker,
+
+231
+00:08:43,465 --> 00:08:46,385
+and it has rotating propeller pods that
+
+232
+00:08:46,385 --> 00:08:48,406
+can break and mill the ice.
+
+233
+00:08:48,756 --> 00:08:49,831
+In heavy ice,
+
+234
+00:08:49,831 --> 00:08:52,810
+the ship turns around and goes stern
+
+235
+00:08:52,810 --> 00:08:53,307
+first.
+
+236
+00:08:53,487 --> 00:08:56,019
+The propellers chew up the ice in
+
+237
+00:08:56,019 --> 00:08:58,321
+front of them and wash it away
+
+238
+00:08:58,321 --> 00:08:59,472
+along the hull,
+
+239
+00:08:59,472 --> 00:09:02,312
+which turns out to be very effective,
+
+240
+00:09:02,312 --> 00:09:03,846
+especially in thick,
+
+241
+00:09:03,846 --> 00:09:04,690
+packed ice.
+
+242
+00:09:04,870 --> 00:09:06,108
+In open water,
+
+243
+00:09:06,108 --> 00:09:09,380
+the ship turns around again and sails
+
+244
+00:09:09,380 --> 00:09:10,176
+normally.
+
+245
+00:09:10,526 --> 00:09:13,430
+This idea was developed in Finland,
+
+246
+00:09:13,430 --> 00:09:16,334
+and it allowed some cargo ships and
+
+247
+00:09:16,334 --> 00:09:19,487
+tankers to sail in ice without needing
+
+248
+00:09:19,487 --> 00:09:21,230
+an icebreaker escort.
+
+249
+00:09:21,410 --> 00:09:24,311
+It is a perfect example of engineering
+
+250
+00:09:24,311 --> 00:09:24,998
+thinking.
+
+251
+00:09:25,178 --> 00:09:27,439
+When one end of the ship cannot
+
+252
+00:09:27,439 --> 00:09:28,898
+be good at two jobs,
+
+253
+00:09:28,898 --> 00:09:31,087
+give each end a different job.
+
+254
+00:09:31,437 --> 00:09:33,931
+Why do some icebreakers have a curved
+
+255
+00:09:33,931 --> 00:09:35,953
+notch cut into the back of the
+
+256
+00:09:35,953 --> 00:09:36,290
+hull?
+
+257
+00:09:36,470 --> 00:09:38,060
+It is a towing notch.
+
+258
+00:09:38,240 --> 00:09:40,749
+When a cargo ship gets stuck in
+
+259
+00:09:40,749 --> 00:09:43,743
+heavy ice, the icebreaker can pull it
+
+260
+00:09:43,743 --> 00:09:46,818
+very close, until the cargo ship's bow
+
+261
+00:09:46,818 --> 00:09:49,084
+sits right inside the notch.
+
+262
+00:09:49,434 --> 00:09:51,768
+Then the two ships move together as
+
+263
+00:09:51,768 --> 00:09:52,034
+one.
+
+264
+00:09:52,214 --> 00:09:54,293
+The icebreaker breaks the ice,
+
+265
+00:09:54,293 --> 00:09:56,925
+and the cargo ship pushes from behind,
+
+266
+00:09:56,925 --> 00:09:59,073
+with no gap where the ice could
+
+267
+00:09:59,073 --> 00:10:00,597
+close in between them.
+
+268
+00:10:00,777 --> 00:10:01,802
+In thick ice,
+
+269
+00:10:01,802 --> 00:10:04,484
+a channel can freeze shut quickly,
+
+270
+00:10:04,484 --> 00:10:07,639
+so keeping the ships tightly together is
+
+271
+00:10:07,639 --> 00:10:08,428
+essential.
+
+272
+00:10:08,778 --> 00:10:11,515
+The notch is padded with heavy rubber
+
+273
+00:10:11,515 --> 00:10:13,735
+fenders to protect both ships.
+
+274
+00:10:13,915 --> 00:10:16,374
+It is a simple solution that looks
+
+275
+00:10:16,374 --> 00:10:17,749
+strange in a photo,
+
+276
+00:10:17,749 --> 00:10:19,774
+like a bite taken out of the
+
+277
+00:10:19,774 --> 00:10:20,208
+stern.
+
+278
+00:10:20,388 --> 00:10:21,572
+But in the Arctic,
+
+279
+00:10:21,572 --> 00:10:23,809
+it can be the difference between a
+
+280
+00:10:23,809 --> 00:10:26,506
+cargo ship reaching port and spending the
+
+281
+00:10:26,506 --> 00:10:27,493
+winter trapped.
+
+282
+00:10:27,843 --> 00:10:31,618
+Why does one icebreaker sail sideways through
+
+283
+00:10:31,618 --> 00:10:32,289
+the ice?
+
+284
+00:10:32,469 --> 00:10:33,987
+It is the Baltika,
+
+285
+00:10:33,987 --> 00:10:37,276
+an oblique icebreaker built for Russia.
+
+286
+00:10:37,456 --> 00:10:39,314
+Its hull is asymmetric,
+
+287
+00:10:39,314 --> 00:10:41,496
+not the same on both sides.
+
+288
+00:10:41,676 --> 00:10:44,449
+It can move forward or backward like
+
+289
+00:10:44,449 --> 00:10:45,990
+a normal icebreaker,
+
+290
+00:10:45,990 --> 00:10:47,993
+but it can also move at an
+
+291
+00:10:47,993 --> 00:10:51,074
+angle, pushing its long side against the
+
+292
+00:10:51,074 --> 00:10:51,382
+ice.
+
+293
+00:10:51,732 --> 00:10:54,822
+Moving sideways, the small ship opens a
+
+294
+00:10:54,822 --> 00:10:57,278
+channel much wider than itself,
+
+295
+00:10:57,278 --> 00:10:59,734
+wide enough for a big tanker to
+
+296
+00:10:59,734 --> 00:11:00,288
+follow.
+
+297
+00:11:00,468 --> 00:11:03,221
+Normally, that would need a much larger
+
+298
+00:11:03,221 --> 00:11:03,998
+icebreaker.
+
+299
+00:11:04,178 --> 00:11:06,922
+Its propeller pods can rotate in any
+
+300
+00:11:06,922 --> 00:11:10,734
+direction, letting it slide diagonally through the
+
+301
+00:11:10,734 --> 00:11:11,039
+ice.
+
+302
+00:11:11,389 --> 00:11:14,404
+It was designed by Finnish engineers and
+
+303
+00:11:14,404 --> 00:11:17,043
+entered service in the twenty tens.
+
+304
+00:11:17,223 --> 00:11:18,257
+It shows that,
+
+305
+00:11:18,257 --> 00:11:20,694
+even after more than a century of
+
+306
+00:11:20,694 --> 00:11:23,648
+icebreakers, there are still new ways to
+
+307
+00:11:23,648 --> 00:11:24,386
+break ice.
+
+308
+00:11:24,566 --> 00:11:27,823
+Sometimes the best way forward is to
+
+309
+00:11:27,823 --> 00:11:28,908
+go sideways.
+
+310
+00:11:29,258 --> 00:11:30,581
+So here are the ten.
+
+311
+00:11:30,761 --> 00:11:33,888
+A sloped bow that climbs onto the
+
+312
+00:11:33,888 --> 00:11:34,267
+ice.
+
+313
+00:11:34,447 --> 00:11:36,948
+A thick ice belt with ribs close
+
+314
+00:11:36,948 --> 00:11:37,652
+together.
+
+315
+00:11:37,832 --> 00:11:40,458
+A rounded hull that gets lifted,
+
+316
+00:11:40,458 --> 00:11:41,442
+not crushed.
+
+317
+00:11:41,622 --> 00:11:43,631
+Tanks that rock the ship free.
+
+318
+00:11:43,811 --> 00:11:46,087
+Bubbles that make the ice slippery.
+
+319
+00:11:46,267 --> 00:11:49,378
+Electric motors that chew through ice.
+
+320
+00:11:49,558 --> 00:11:52,298
+Reactors for the longest routes.
+
+321
+00:11:52,478 --> 00:11:55,566
+Ships that sail backwards on purpose.
+
+322
+00:11:55,746 --> 00:11:57,650
+A notch for close towing.
+
+323
+00:11:57,830 --> 00:12:00,884
+And an icebreaker that goes sideways.
+
+324
+00:12:01,234 --> 00:12:04,054
+An icebreaker does not fight the ice
+
+325
+00:12:04,054 --> 00:12:06,560
+with sharpness, but with weight,
+
+326
+00:12:06,560 --> 00:12:08,049
+shape and patience.
+
+327
+00:12:08,229 --> 00:12:11,253
+If you want more machines explained part
+
+328
+00:12:11,253 --> 00:12:14,127
+by part, subscribe to Machine Reverse.
+
+329
+00:12:14,307 --> 00:12:16,245
+And tell us in the comments,
+
+330
+00:12:16,245 --> 00:12:18,736
+would you sail through the Arctic on
+
+331
+00:12:18,736 --> 00:12:19,705
+an icebreaker?
