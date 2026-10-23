@@ -1,0 +1,10 @@
+- Aerial marker balls (placement, 36-inch / 20-inch sizes, orange/white/yellow alternating): FAA Advisory Circular 70/7460-1 "Obstruction Marking and Lighting" https://www.faa.gov/ ; Wikipedia, "Aerial marker spheres" https://en.wikipedia.org/wiki/Aerial_marker_spheres
+- Stockbridge damper and aeolian vibration (George H. Stockbridge, 1920s patent): Wikipedia, "Stockbridge damper" https://en.wikipedia.org/wiki/Stockbridge_damper
+- Bundle conductors, spacers and corona discharge: Wikipedia, "Overhead power line" https://en.wikipedia.org/wiki/Overhead_power_line ; Wikipedia, "Corona discharge" https://en.wikipedia.org/wiki/Corona_discharge
+- Insulator strings (disc count vs voltage, creepage distance, toughened glass shattering): Wikipedia, "Insulator (electricity)" https://en.wikipedia.org/wiki/Insulator_(electricity)
+- Corona / grading rings: Wikipedia, "Corona ring" https://en.wikipedia.org/wiki/Corona_ring
+- Shield wires and OPGW: Wikipedia, "Optical ground wire" https://en.wikipedia.org/wiki/Optical_ground_wire
+- Bird diverters and collision reduction: APLIC (Avian Power Line Interaction Committee), "Reducing Avian Collisions with Power Lines" (2012) https://www.aplic.org/
+- Live-line work from helicopters, bare-hand method, Faraday suits: Wikipedia, "Live-line working" https://en.wikipedia.org/wiki/Live-line_working
+- 2003 Northeast blackout (14 August 2003, sagging lines into trees in Ohio, alarm failure, ~50 million people): US-Canada Power System Outage Task Force Final Report (2004) ; Wikipedia, "Northeast blackout of 2003" https://en.wikipedia.org/wiki/Northeast_blackout_of_2003
+- High voltage transmission losses (I^2 R) and three-phase power: Wikipedia, "Electric power transmission" https://en.wikipedia.org/wiki/Electric_power_transmission
