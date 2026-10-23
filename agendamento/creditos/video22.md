@@ -1,0 +1,95 @@
+# Photo credits: Why Does an F1 Steering Wheel Have So Many Buttons?
+
+All photos from Wikimedia Commons.
+
+- McLaren MP4-23 Steering Wheel at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:McLaren_MP4-23_Steering_Wheel_at_Formula_1_Exhibition,_London.jpg
+- Caterham steering wheel at Goodwood 2012.jpg by Nic Redhead from Birmingham, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Caterham_steering_wheel_at_Goodwood_2012.jpg
+- Brawn BGP 001 Steering Wheel Silverstone Museum.jpg by BWard 1997, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Brawn_BGP_001_Steering_Wheel_Silverstone_Museum.jpg
+- Toyota F1 steering wheel (3649850169).jpg by Ben Sutherland from Crystal Palace, London, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Toyota_F1_steering_wheel_(3649850169).jpg
+- Geneva Motor Show 2011 - Renault RB7 F1 Car Steering Wheel (5577972882).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Geneva_Motor_Show_2011_-_Renault_RB7_F1_Car_Steering_Wheel_(5577972882).jpg
+- Geneva Motor Show 2011 - Renault RB7 F1 Car Steering Wheel (5577393685).jpg by Cedric Ramirez from Gibraltar, Gibraltar, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Geneva_Motor_Show_2011_-_Renault_RB7_F1_Car_Steering_Wheel_(5577393685).jpg
+- Alpine F1 steering wheel.jpg by Declan M Martin, Public domain, https://commons.wikimedia.org/wiki/File:Alpine_F1_steering_wheel.jpg
+- Red Bull Steering Wheel (6708055557).jpg by Tony Hisgett from Birmingham, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Red_Bull_Steering_Wheel_(6708055557).jpg
+- Maserati 250 F, Bj. 1958, Cockpit (2011-08-13 Sp).JPG by Lothar Spurzem, CC BY-SA 2.0 de, https://commons.wikimedia.org/wiki/File:Maserati_250_F,_Bj._1958,_Cockpit_(2011-08-13_Sp).JPG
+- Red Bull Formula One showcar at the 2025 Adelaide Grand Final - 06.jpg by Yu Chu Chin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Red_Bull_Formula_One_showcar_at_the_2025_Adelaide_Grand_Final_-_06.jpg
+- Team Lotus Formula 1 Car - Duxford (5680922169).jpg by Tim Felce (Airwolfhound), CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Team_Lotus_Formula_1_Car_-_Duxford_(5680922169).jpg
+- 1961 Cooper T53 Donington Park 2023 01.jpg by Julian Herzog (Website), CC BY 4.0, https://commons.wikimedia.org/wiki/File:1961_Cooper_T53_Donington_Park_2023_01.jpg
+- Force India VJM06 Steering Wheel.jpg by BWard 1997, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Force_India_VJM06_Steering_Wheel.jpg
+- PACKARD 120 CONVERTIBLE COUPE (1939) (50072477626).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0, https://commons.wikimedia.org/wiki/File:PACKARD_120_CONVERTIBLE_COUPE_(1939)_(50072477626).jpg
+- Equipment Display Cabinet at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Equipment_Display_Cabinet_at_Formula_1_Exhibition,_London.jpg
+- Formule Renault - GTRO RACING - Circuit Los Arcos Navarra Espagne Spain - Image Picture Photography (15685088522).jpg by Grand Parc - Bordeaux, France from France, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Formule_Renault_-_GTRO_RACING_-_Circuit_Los_Arcos_Navarra_Espagne_Spain_-_Image_Picture_Photography_(15685088522).jpg
+- Mobil 1 Formula 1 Racing Simulator (4804894374).jpg by Konstantin Zamkov from Moscow, Russia, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Mobil_1_Formula_1_Racing_Simulator_(4804894374).jpg
+- BMW Sauber F1 Simulator (354426557).jpg by Travis Isaacs from Seattle, WA, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:BMW_Sauber_F1_Simulator_(354426557).jpg
+- Steering wheel of the 1958 Vanwall VW9 (14478998428).jpg by Ben Sutherland from Crystal Palace, London, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Steering_wheel_of_the_1958_Vanwall_VW9_(14478998428).jpg
+- McLaren MP4-26 Steering Wheel (6708041241).jpg by Tony Hisgett from Birmingham, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:McLaren_MP4-26_Steering_Wheel_(6708041241).jpg
+- Vincenzo Sospiri Imola Formula Opel Lotus.jpg by Carlom1961, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Vincenzo_Sospiri_Imola_Formula_Opel_Lotus.jpg
+- Felipe Massa 2014 British GP 001 (cropped).jpg by Jake Archibald, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Felipe_Massa_2014_British_GP_001_(cropped).jpg
+- 25 Cassutt (N-6291N) Formula One Racer 2014 Reno Air Races photo Don Ramey Logan.jpg by Don Ramey Logan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:25_Cassutt_(N-6291N)_Formula_One_Racer_2014_Reno_Air_Races_photo_Don_Ramey_Logan.jpg
+- 2015 Malaysian GP opening lap.jpg by Morio, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2015_Malaysian_GP_opening_lap.jpg
+- Toyota 86 GT - Paddle shifter.jpg by Cllackr, CC0, https://commons.wikimedia.org/wiki/File:Toyota_86_GT_-_Paddle_shifter.jpg
+- 2012 Italian GP - Lotus wheel.jpg by Francesco Crippa, CC BY 2.0, https://commons.wikimedia.org/wiki/File:2012_Italian_GP_-_Lotus_wheel.jpg
+- 1955 Maserati 250F at Coventry Motor Museum (4).jpg by Ben Sutherland from Forest Hill, London, European Union, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1955_Maserati_250F_at_Coventry_Motor_Museum_(4).jpg
+- Suspended starting grid 2012 Malaysia.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Suspended_starting_grid_2012_Malaysia.jpg
+- Spa 2008 before start.jpg by Mark McArdle, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Spa_2008_before_start.jpg
+- 2010 IZOD IndyCar Series - São Paulo Indy 300 Largada - Race start (27051310476).jpg by Deni Williams from São Paulo, Brasil / Brazil, CC BY 2.0, https://commons.wikimedia.org/wiki/File:2010_IZOD_IndyCar_Series_-_S%C3%A3o_Paulo_Indy_300_Largada_-_Race_start_(27051310476).jpg
+- 2010 IZOD IndyCar Series - São Paulo Indy 300 Largada - Race start (26810040790).jpg by Deni Williams from São Paulo, Brasil / Brazil, CC BY 2.0, https://commons.wikimedia.org/wiki/File:2010_IZOD_IndyCar_Series_-_S%C3%A3o_Paulo_Indy_300_Largada_-_Race_start_(26810040790).jpg
+- Lotus Europa (29970237816).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Lotus_Europa_(29970237816).jpg
+- Renault F1 Team garage, 2010 Brno WSR (10).jpg by I would appreciate being notified if you use my work outside Wikimedia.
+Do not copy this image illegally by ignoring the terms of the license below, as it is not in the public domain. If you would like special permission to use, license, or purchase the image please contact me to negotiate terms.
+
+More of my work can be found in my personal gallery., CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Renault_F1_Team_garage,_2010_Brno_WSR_(10).jpg
+- New Year address by President of Ukraine Volodymyr Zelenskyy (31-12-2023).jpg by President.gov.ua, CC0, https://commons.wikimedia.org/wiki/File:New_Year_address_by_President_of_Ukraine_Volodymyr_Zelenskyy_(31-12-2023).jpg
+- Timmy Hansen in Formula BMW Europe 2009.jpg by Nick Holland from UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Timmy_Hansen_in_Formula_BMW_Europe_2009.jpg
+- Monza Track Marshals (21256884228).jpg by pedrik, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Monza_Track_Marshals_(21256884228).jpg
+- Lance Stroll crash 2017 Catalonia test (27 Feb-2 Mar) Day 3.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Lance_Stroll_crash_2017_Catalonia_test_(27_Feb-2_Mar)_Day_3.jpg
+- Formule Renault - GTRO RACING - Ecole de pilotage - Circuit Los Arcos Navarra Spain Espagne - Image Picture Photography (15498442020).jpg by Grand Parc - Bordeaux, France from France, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Formule_Renault_-_GTRO_RACING_-_Ecole_de_pilotage_-_Circuit_Los_Arcos_Navarra_Spain_Espagne_-_Image_Picture_Photography_(15498442020).jpg
+- Red Bull RB7 of David Coulthard at the 2025 Adelaide Grand Final Parade - 09.jpg by Yu Chu Chin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Red_Bull_RB7_of_David_Coulthard_at_the_2025_Adelaide_Grand_Final_Parade_-_09.jpg
+- Daniel Ricciardo (7455594874).jpg by Nic Redhead from Birmingham, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Daniel_Ricciardo_(7455594874).jpg
+- Fatal accident at 1973 Dutch Grand Prix (4).jpg by Anefo / Mieremet, R.. / neg. stroken, 1945-1989, 2.24.01.05, item number 926-5791, CC BY-SA 3.0 nl, https://commons.wikimedia.org/wiki/File:Fatal_accident_at_1973_Dutch_Grand_Prix_(4).jpg
+- BRM P25 Cockpit Silverstone Museum.jpg by BWard 1997, CC BY 4.0, https://commons.wikimedia.org/wiki/File:BRM_P25_Cockpit_Silverstone_Museum.jpg
+- Goodwood FOS 2008 (2660969105).jpg by Mark Woodbury from London, England, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Goodwood_FOS_2008_(2660969105).jpg
+- Toyota steering wheel 1.jpg by Mark Woodbury, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Toyota_steering_wheel_1.jpg
+- Assorted Helmets Right at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Assorted_Helmets_Right_at_Formula_1_Exhibition,_London.jpg
+- Assorted Helmets Left at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Assorted_Helmets_Left_at_Formula_1_Exhibition,_London.jpg
+- 1 singapore f1 night race 2012 city skyline.jpg by chensiyuan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1_singapore_f1_night_race_2012_city_skyline.jpg
+- Extreme sports - F1 night racing now in Singapore (54833150001).jpg by Walk around the RED DOT from Singapore, CC0, https://commons.wikimedia.org/wiki/File:Extreme_sports_-_F1_night_racing_now_in_Singapore_(54833150001).jpg
+- 2019 Formula 1 Hungarian GP podium.jpg by Michał Obrochta, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2019_Formula_1_Hungarian_GP_podium.jpg
+- FIA F1 Austria 2022 Podium Race (1).jpg by Lukas Raich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2022_Podium_Race_(1).jpg
+- Ferrari F1 (5356124552).jpg by Tino Rossini from Toronto, Canada, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Ferrari_F1_(5356124552).jpg
+- Hamilton - 2016 Monaco GP 03.jpg by Andrew Locking, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Hamilton_-_2016_Monaco_GP_03.jpg
+- Manoir De l'Automobile's Formula One Room.jpg by George Davies, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Manoir_De_l%27Automobile%27s_Formula_One_Room.jpg
+- Formula 1 Medical Car Mercedes GLE.jpg by Michał Obrochta, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Formula_1_Medical_Car_Mercedes_GLE.jpg
+- 2026 Chinese GP - Safety Car & Medical Car.jpg by Liauzh, CC BY 4.0, https://commons.wikimedia.org/wiki/File:2026_Chinese_GP_-_Safety_Car_%26_Medical_Car.jpg
+- Kimi Räikkönen autogrammot ad – Várkert Bazár, 2015.05.01 (3).jpg by Derzsi Elekes Andor, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Kimi_R%C3%A4ikk%C3%B6nen_autogrammot_ad_%E2%80%93_V%C3%A1rkert_Baz%C3%A1r,_2015.05.01_(3).jpg
+- Ferrari 156 85.jpg by Jitesh Jagadish from Dubai, United Arab Emirates, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Ferrari_156_85.jpg
+- Ken SchraderHANSdevice.jpg by Bo Nash, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Ken_SchraderHANSdevice.jpg
+- Racers Helmet (6234927568).jpg by Bryce Walker from Perth, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Racers_Helmet_(6234927568).jpg
+- Josh bilicki (47701299672).jpg by Zach Catanzareti Photo, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Josh_bilicki_(47701299672).jpg
+- Tragic racing accident at the Izod IndyCar finale (9).jpg by Airman 1st Class George Goslin, Public domain, https://commons.wikimedia.org/wiki/File:Tragic_racing_accident_at_the_Izod_IndyCar_finale_(9).jpg
+- 2017 Freedom 100 - Santiago Urrutia helmet.jpg by NaBUru38, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2017_Freedom_100_-_Santiago_Urrutia_helmet.jpg
+- President Trump and the First Lady at the NASCAR Daytona 500 Race (49553102542).jpg by The Trump White House Archived, Public domain, https://commons.wikimedia.org/wiki/File:President_Trump_and_the_First_Lady_at_the_NASCAR_Daytona_500_Race_(49553102542).jpg
+- 2012 Daytona 500 opening ceremony (2).jpg by Miriam S. Gallet, Public domain, https://commons.wikimedia.org/wiki/File:2012_Daytona_500_opening_ceremony_(2).jpg
+- Andy Priaulx 2007 Curitiba qualify.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Andy_Priaulx_2007_Curitiba_qualify.jpg
+- Ferrari 156 at Formula 1 Exhibition, London 01.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ferrari_156_at_Formula_1_Exhibition,_London_01.jpg
+- Ferrari 156 at Formula 1 Exhibition, London 02.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ferrari_156_at_Formula_1_Exhibition,_London_02.jpg
+- Romain Grosjean-Haas VF-20 (1).jpg by Alberto-g-rovi, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Romain_Grosjean-Haas_VF-20_(1).jpg
+- Romain Grosjean - Haas (32724327660).jpg by Jake Archibald from London, England, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Romain_Grosjean_-_Haas_(32724327660).jpg
+- Ferrari 156 at Formula 1 Exhibition, London 03.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ferrari_156_at_Formula_1_Exhibition,_London_03.jpg
+- PikiWiki Israel 35716 Formula 1 driver.jpg by Asaf Livne, CC BY 2.5, https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_35716_Formula_1_driver.jpg
+- Puma Furio Nomex Racing Gloves.JPG by F1fans, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Puma_Furio_Nomex_Racing_Gloves.JPG
+- Exhibition of F1 Driver Seating Positions (52848833957).jpg by Steve, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Exhibition_of_F1_Driver_Seating_Positions_(52848833957).jpg
+- Formula 1 Hungarian Grand Prix 2019 drivers' parade.jpg by Michał Obrochta, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Formula_1_Hungarian_Grand_Prix_2019_drivers%27_parade.jpg
+- Safety car and medical car 2011 Malaysia.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Safety_car_and_medical_car_2011_Malaysia.jpg
+- Medical Car 2015 Malaysia.jpg by Morio, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Medical_Car_2015_Malaysia.jpg
+- Lotus 72 at Formula 1 Exhibition, London 01.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lotus_72_at_Formula_1_Exhibition,_London_01.jpg
+- Lotus 72 at Formula 1 Exhibition, London 02.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lotus_72_at_Formula_1_Exhibition,_London_02.jpg
+- Aston Martin DBR4 cockpit Donington.jpg by John Chapman (Pyrope), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Aston_Martin_DBR4_cockpit_Donington.jpg
+- Lando Norris McLaren MCL34 Cockpit Silverstone Museum.jpg by BWard 1997, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Lando_Norris_McLaren_MCL34_Cockpit_Silverstone_Museum.jpg
+- Cockpit of Alain Prosts F1 McLaren TAG-Porsche turbo, from his first Championship year (6283362892).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Cockpit_of_Alain_Prosts_F1_McLaren_TAG-Porsche_turbo,_from_his_first_Championship_year_(6283362892).jpg
+- Williams FW18 cockpit Donington Grand Prix Collection.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Williams_FW18_cockpit_Donington_Grand_Prix_Collection.jpg
+- Red Bull RB7 of David Coulthard at the 2025 Adelaide Grand Final Parade - 07.jpg by Yu Chu Chin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Red_Bull_RB7_of_David_Coulthard_at_the_2025_Adelaide_Grand_Final_Parade_-_07.jpg
+- Peter Revson McLaren M19C Cockpit.jpg by BWard 1997, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Peter_Revson_McLaren_M19C_Cockpit.jpg
+- Formula 1 race cars on display.jpg by Andromeda2064, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Formula_1_race_cars_on_display.jpg
+- 1965 Sam Tingle Formula 1 LDS Race Car-1 (29891690293).jpg by naeem mayet, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1965_Sam_Tingle_Formula_1_LDS_Race_Car-1_(29891690293).jpg
+- Mercedes F1 car 06.jpg by Ank kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mercedes_F1_car_06.jpg
+- Mercedes F1 car 09.jpg by Ank kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mercedes_F1_car_09.jpg
