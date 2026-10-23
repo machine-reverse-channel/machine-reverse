@@ -1,0 +1,515 @@
+{
+ "Bugatti Veyron radiator": [],
+ "Bugatti Veyron side": [
+  {
+   "title": "File:Bugatti-veyron-1zu18.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Bugatti-veyron-1zu18.jpg/960px-Bugatti-veyron-1zu18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "2560x1920"
+  },
+  {
+   "title": "File:Bugatti Veyron Super Sport side view.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Bugatti_Veyron_Super_Sport_side_view.jpg/960px-Bugatti_Veyron_Super_Sport_side_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "2592x1944"
+  },
+  {
+   "title": "File:Bugatti Veyron-salzburg (9).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Bugatti_Veyron-salzburg_%289%29.jpg/960px-Bugatti_Veyron-salzburg_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.5",
+   "size": "1200x468"
+  },
+  {
+   "title": "File:Bugatti Veyron EB 16.4 (2008) (52569212082).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Bugatti_Veyron_EB_16.4_%282008%29_%2852569212082%29.jpg/960px-Bugatti_Veyron_EB_16.4_%282008%29_%2852569212082%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "6000x4000"
+  },
+  {
+   "title": "File:Bugatti Veyron EB 16.4 Grand Sport (side).JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Bugatti_Veyron_EB_16.4_Grand_Sport_%28side%29.JPG/960px-Bugatti_Veyron_EB_16.4_Grand_Sport_%28side%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3539x2654"
+  },
+  {
+   "title": "File:Blue Bugatti Veyron right side.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Blue_Bugatti_Veyron_right_side.JPG/960px-Blue_Bugatti_Veyron_right_side.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "2272x1704"
+  },
+  {
+   "title": "File:Bugatti Veyron Grand Sport L\u2019Or Blanc - Flickr - J.Smith831 (3).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Bugatti_Veyron_Grand_Sport_L%E2%80%99Or_Blanc_-_Flickr_-_J.Smith831_%283%29.jpg/960px-Bugatti_Veyron_Grand_Sport_L%E2%80%99Or_Blanc_-_Flickr_-_J.Smith831_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "1010x595"
+  },
+  {
+   "title": "File:Bugatti Veyron 16.4 \u2013 Seitenansicht, 5. April 2012, D\u00fcsseldorf.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Bugatti_Veyron_16.4_%E2%80%93_Seitenansicht%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg/960px-Bugatti_Veyron_16.4_%E2%80%93_Seitenansicht%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0 de",
+   "size": "3448x1171"
+  }
+ ],
+ "Bugatti W16 engine": [
+  {
+   "title": "File:Bugatti W16, Berlin (1X7A3942).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Bugatti_W16%2C_Berlin_%281X7A3942%29.jpg/960px-Bugatti_W16%2C_Berlin_%281X7A3942%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "6720x4480"
+  },
+  {
+   "title": "File:W16 Engine Bugatti Chiron-P1010490.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/W16_Engine_Bugatti_Chiron-P1010490.jpg/960px-W16_Engine_Bugatti_Chiron-P1010490.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3600x2700"
+  },
+  {
+   "title": "File:W16 Engine Bugatti Chiron-P1010489.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/W16_Engine_Bugatti_Chiron-P1010489.jpg/960px-W16_Engine_Bugatti_Chiron-P1010489.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4608x3456"
+  },
+  {
+   "title": "File:W16 Engine Bugatti Chiron-P1010487.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/W16_Engine_Bugatti_Chiron-P1010487.jpg/960px-W16_Engine_Bugatti_Chiron-P1010487.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3600x2700"
+  },
+  {
+   "title": "File:W16 Engine Bugatti Chiron-P1010491.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/W16_Engine_Bugatti_Chiron-P1010491.jpg/960px-W16_Engine_Bugatti_Chiron-P1010491.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3600x2700"
+  },
+  {
+   "title": "File:Bugatti W16 Engine (53248015612).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Bugatti_W16_Engine_%2853248015612%29.jpg/960px-Bugatti_W16_Engine_%2853248015612%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "4032x3024"
+  },
+  {
+   "title": "File:Bugatti W16 Engine (53253994589).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Bugatti_W16_Engine_%2853253994589%29.jpg/960px-Bugatti_W16_Engine_%2853253994589%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "5466x5467"
+  },
+  {
+   "title": "File:Bugatti W16 Engine (53249253709).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Bugatti_W16_Engine_%2853249253709%29.jpg/960px-Bugatti_W16_Engine_%2853249253709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "7366x4920"
+  }
+ ],
+ "Bugatti Veyron engine": [
+  {
+   "title": "File:Bugatti Veyron Engine 1X7A7930.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Bugatti_Veyron_Engine_1X7A7930.jpg/960px-Bugatti_Veyron_Engine_1X7A7930.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5762x3850"
+  },
+  {
+   "title": "File:Bugatti Veyron at Top Gear Live 2012 (Ank Kumar) 03.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Bugatti_Veyron_at_Top_Gear_Live_2012_%28Ank_Kumar%29_03.jpg/960px-Bugatti_Veyron_at_Top_Gear_Live_2012_%28Ank_Kumar%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3456x4608"
+  },
+  {
+   "title": "File:Bugatti Veyron 2008 - 005.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Bugatti_Veyron_2008_-_005.JPG/960px-Bugatti_Veyron_2008_-_005.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "2048x1536"
+  },
+  {
+   "title": "File:Bijan Bugatti Veyron 02.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Bijan_Bugatti_Veyron_02.jpg/960px-Bijan_Bugatti_Veyron_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "1980x1115"
+  },
+  {
+   "title": "File:Bijan Bugatti Veyron 01.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Bijan_Bugatti_Veyron_01.jpg/960px-Bijan_Bugatti_Veyron_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "1980x1115"
+  },
+  {
+   "title": "File:Bugatti Veyron-salzburg.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Bugatti_Veyron-salzburg.jpg/960px-Bugatti_Veyron-salzburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.5",
+   "size": "1000x552"
+  },
+  {
+   "title": "File:Bugatti Veyron 8.0-litre W16-cylinder engine - Flickr - exfordy.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Bugatti_Veyron_8.0-litre_W16-cylinder_engine_-_Flickr_-_exfordy.jpg/960px-Bugatti_Veyron_8.0-litre_W16-cylinder_engine_-_Flickr_-_exfordy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "3570x2235"
+  },
+  {
+   "title": "File:Bugatti Veyron 16.4 blue h TCE.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Bugatti_Veyron_16.4_blue_h_TCE.jpg/960px-Bugatti_Veyron_16.4_blue_h_TCE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "2580x1867"
+  }
+ ],
+ "Bugatti Chiron engine": [
+  {
+   "title": "File:Bugatti W16, Berlin (1X7A3942).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Bugatti_W16%2C_Berlin_%281X7A3942%29.jpg/960px-Bugatti_W16%2C_Berlin_%281X7A3942%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "6720x4480"
+  },
+  {
+   "title": "File:Full blue 2017 Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 03.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Full_blue_2017_Bugatti_Chiron_at_Grand_Basel_2018_%28Ank_Kumar%29_03.jpg/960px-Full_blue_2017_Bugatti_Chiron_at_Grand_Basel_2018_%28Ank_Kumar%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3413x2560"
+  },
+  {
+   "title": "File:Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 02.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Bugatti_Chiron_at_Grand_Basel_2018_%28Ank_Kumar%29_02.jpg/960px-Bugatti_Chiron_at_Grand_Basel_2018_%28Ank_Kumar%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3024x4032"
+  },
+  {
+   "title": "File:Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 05.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Bugatti_Chiron_at_Grand_Basel_2018_%28Ank_Kumar%29_05.jpg/960px-Bugatti_Chiron_at_Grand_Basel_2018_%28Ank_Kumar%29_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3656x2742"
+  },
+  {
+   "title": "File:Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 07.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Bugatti_Chiron_at_Grand_Basel_2018_%28Ank_Kumar%29_07.jpg/960px-Bugatti_Chiron_at_Grand_Basel_2018_%28Ank_Kumar%29_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3902x2926"
+  },
+  {
+   "title": "File:Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 04.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Bugatti_Chiron_at_Grand_Basel_2018_%28Ank_Kumar%29_04.jpg/960px-Bugatti_Chiron_at_Grand_Basel_2018_%28Ank_Kumar%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3181x2484"
+  },
+  {
+   "title": "File:Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 06.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Bugatti_Chiron_at_Grand_Basel_2018_%28Ank_Kumar%29_06.jpg/960px-Bugatti_Chiron_at_Grand_Basel_2018_%28Ank_Kumar%29_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3625x2719"
+  },
+  {
+   "title": "File:Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 03.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Bugatti_Chiron_at_Grand_Basel_2018_%28Ank_Kumar%29_03.jpg/960px-Bugatti_Chiron_at_Grand_Basel_2018_%28Ank_Kumar%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4032x3024"
+  }
+ ],
+ "Bugatti turbo": [
+  {
+   "title": "File:Bugatti Veyron 2008 - 005.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Bugatti_Veyron_2008_-_005.JPG/960px-Bugatti_Veyron_2008_-_005.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "2048x1536"
+  },
+  {
+   "title": "File:Twin Turbos on one side of a Bugatti W16 engine (53249394775).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Twin_Turbos_on_one_side_of_a_Bugatti_W16_engine_%2853249394775%29.jpg/960px-Twin_Turbos_on_one_side_of_a_Bugatti_W16_engine_%2853249394775%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "7366x4920"
+  },
+  {
+   "title": "File:Bugatti Veyron EB 16.4 (2008) (52570116555).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Bugatti_Veyron_EB_16.4_%282008%29_%2852570116555%29.jpg/960px-Bugatti_Veyron_EB_16.4_%282008%29_%2852570116555%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "5833x3888"
+  },
+  {
+   "title": "File:Bugatti Veyron EB 16.4 (2008) (52569212082).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Bugatti_Veyron_EB_16.4_%282008%29_%2852569212082%29.jpg/960px-Bugatti_Veyron_EB_16.4_%282008%29_%2852569212082%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "6000x4000"
+  },
+  {
+   "title": "File:Bugatti EB110 GT 1991.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Bugatti_EB110_GT_1991.jpg/960px-Bugatti_EB110_GT_1991.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "3456x2592"
+  },
+  {
+   "title": "File:Bugatti Veyron EB 16.4 (2008) (52569946394).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Bugatti_Veyron_EB_16.4_%282008%29_%2852569946394%29.jpg/960px-Bugatti_Veyron_EB_16.4_%282008%29_%2852569946394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "5785x3856"
+  },
+  {
+   "title": "File:Bugatti Mistral (2025) (55215210255).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Bugatti_Mistral_%282025%29_%2855215210255%29.jpg/960px-Bugatti_Mistral_%282025%29_%2855215210255%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "6000x4000"
+  },
+  {
+   "title": "File:Bugatti Mistral W16 \"La Perle Rare\" (55110274678).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Bugatti_Mistral_W16_%22La_Perle_Rare%22_%2855110274678%29.jpg/960px-Bugatti_Mistral_W16_%22La_Perle_Rare%22_%2855110274678%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "6016x4016"
+  }
+ ],
+ "Bugatti Veyron roof": [
+  {
+   "title": "File:Roof down (17160807946).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Roof_down_%2817160807946%29.jpg/960px-Roof_down_%2817160807946%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "5276x3064"
+  }
+ ],
+ "Bugatti Veyron rear wing": [],
+ "Bugatti Veyron airbrake": [],
+ "Bugatti Veyron fuel": [],
+ "Bugatti Chiron front": [
+  {
+   "title": "File:Bugatti Chiron, Auto 2025, Zurich (20251029-P1074241).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Bugatti_Chiron%2C_Auto_2025%2C_Zurich_%2820251029-P1074241%29.jpg/960px-Bugatti_Chiron%2C_Auto_2025%2C_Zurich_%2820251029-P1074241%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5184x3888"
+  },
+  {
+   "title": "File:2020 Bugatti Chiron Super Sport 300+ Prototype Front.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/2020_Bugatti_Chiron_Super_Sport_300%2B_Prototype_Front.jpg/960px-2020_Bugatti_Chiron_Super_Sport_300%2B_Prototype_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "2605x1315"
+  },
+  {
+   "title": "File:2018 Bugatti Chiron in Exposed Blue Carbon, front right.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/2018_Bugatti_Chiron_in_Exposed_Blue_Carbon%2C_front_right.jpg/960px-2018_Bugatti_Chiron_in_Exposed_Blue_Carbon%2C_front_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "4707x3036"
+  },
+  {
+   "title": "File:2022 Bugatti Chiron Profil\u00e9e.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/2022_Bugatti_Chiron_Profil%C3%A9e.jpg/960px-2022_Bugatti_Chiron_Profil%C3%A9e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4032x3024"
+  },
+  {
+   "title": "File:2021 Bugatti Chiron Super Sport 8.0 Front.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/2021_Bugatti_Chiron_Super_Sport_8.0_Front.jpg/960px-2021_Bugatti_Chiron_Super_Sport_8.0_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3330x1586"
+  },
+  {
+   "title": "File:2021 Bugatti Chiron Pur Sport in Atlantic Blue, front left.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2021_Bugatti_Chiron_Pur_Sport_in_Atlantic_Blue%2C_front_left.jpg/960px-2021_Bugatti_Chiron_Pur_Sport_in_Atlantic_Blue%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "5306x3344"
+  },
+  {
+   "title": "File:2020 Bugatti Chiron Sport in Nocturne and Atlantic Blue, front left.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/2020_Bugatti_Chiron_Sport_in_Nocturne_and_Atlantic_Blue%2C_front_left.jpg/960px-2020_Bugatti_Chiron_Sport_in_Nocturne_and_Atlantic_Blue%2C_front_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "5312x3137"
+  },
+  {
+   "title": "File:2022 Bugatti Chiron Super Sport 300+, front left (Miller).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/2022_Bugatti_Chiron_Super_Sport_300%2B%2C_front_left_%28Miller%29.jpg/960px-2022_Bugatti_Chiron_Super_Sport_300%2B%2C_front_left_%28Miller%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "4951x3419"
+  }
+ ],
+ "Bugatti Type 35": [
+  {
+   "title": "File:Bugatti Type 35.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Bugatti_Type_35.jpg/960px-Bugatti_Type_35.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "2581x1728"
+  },
+  {
+   "title": "File:Bugatti 35 B, Bj. 1925, Cockpit (2008-06-28).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Bugatti_35_B%2C_Bj._1925%2C_Cockpit_%282008-06-28%29.jpg/960px-Bugatti_35_B%2C_Bj._1925%2C_Cockpit_%282008-06-28%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0 de",
+   "size": "3255x2301"
+  },
+  {
+   "title": "File:Bugatti 35 B, Bj. 1925, S\u00fcdschleife (2008-06-28).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Bugatti_35_B%2C_Bj._1925%2C_S%C3%BCdschleife_%282008-06-28%29.jpg/960px-Bugatti_35_B%2C_Bj._1925%2C_S%C3%BCdschleife_%282008-06-28%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0 de",
+   "size": "2953x1970"
+  },
+  {
+   "title": "File:Mille Miglia 2020 partenza N 19 Bugatti T 35 in Viale Venezia a Brescia.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Mille_Miglia_2020_partenza_N_19_Bugatti_T_35_in_Viale_Venezia_a_Brescia.jpg/960px-Mille_Miglia_2020_partenza_N_19_Bugatti_T_35_in_Viale_Venezia_a_Brescia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "8272x6200"
+  },
+  {
+   "title": "File:Bugatti 35 B, Bj. 1925 (2008-06-28).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Bugatti_35_B%2C_Bj._1925_%282008-06-28%29.jpg/960px-Bugatti_35_B%2C_Bj._1925_%282008-06-28%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0 de",
+   "size": "3185x2120"
+  },
+  {
+   "title": "File:Bugatti 35, Bj 1924, M Nicolosi - 1976.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Bugatti_35%2C_Bj_1924%2C_M_Nicolosi_-_1976.jpg/960px-Bugatti_35%2C_Bj_1924%2C_M_Nicolosi_-_1976.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0 de",
+   "size": "3637x2425"
+  },
+  {
+   "title": "File:Bugatti 35, Bj. 1924 - Marc Nicolosi (Spu 16.08.1975).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Bugatti_35%2C_Bj._1924_-_Marc_Nicolosi_%28Spu_16.08.1975%29.jpg/960px-Bugatti_35%2C_Bj._1924_-_Marc_Nicolosi_%28Spu_16.08.1975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0 de",
+   "size": "1718x1144"
+  },
+  {
+   "title": "File:Bugatti Type 35, Pau 2015.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Bugatti_Type_35%2C_Pau_2015.jpg/960px-Bugatti_Type_35%2C_Pau_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4288x2864"
+  }
+ ],
+ "Bugatti Chiron side": [],
+ "Bugatti Veyron gearbox": [
+  {
+   "title": "File:Bugatti Veyron EB 16.4 (2008) (52570116555).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Bugatti_Veyron_EB_16.4_%282008%29_%2852570116555%29.jpg/960px-Bugatti_Veyron_EB_16.4_%282008%29_%2852570116555%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "5833x3888"
+  },
+  {
+   "title": "File:Bugatti Veyron EB 16.4 (2008) (52569946394).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Bugatti_Veyron_EB_16.4_%282008%29_%2852569946394%29.jpg/960px-Bugatti_Veyron_EB_16.4_%282008%29_%2852569946394%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "5785x3856"
+  },
+  {
+   "title": "File:Bugatti Veyron EB 16.4 (2008) (52569212082).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Bugatti_Veyron_EB_16.4_%282008%29_%2852569212082%29.jpg/960px-Bugatti_Veyron_EB_16.4_%282008%29_%2852569212082%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "6000x4000"
+  },
+  {
+   "title": "File:Bugatti Veyron EB 16.4 (2007) (55079223190).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Bugatti_Veyron_EB_16.4_%282007%29_%2855079223190%29.jpg/960px-Bugatti_Veyron_EB_16.4_%282007%29_%2855079223190%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "6000x3668"
+  },
+  {
+   "title": "File:Bugatti Veyron EB 16.4 (2006) (55217087912).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Bugatti_Veyron_EB_16.4_%282006%29_%2855217087912%29.jpg/960px-Bugatti_Veyron_EB_16.4_%282006%29_%2855217087912%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "6000x4000"
+  },
+  {
+   "title": "File:Bugatti Veyron EB 16.4 Grand Sport (2010) (52129289255).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Bugatti_Veyron_EB_16.4_Grand_Sport_%282010%29_%2852129289255%29.jpg/960px-Bugatti_Veyron_EB_16.4_Grand_Sport_%282010%29_%2852129289255%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "6000x4000"
+  },
+  {
+   "title": "File:Bugatti Veyron EB 16.4 (2008) (54868849009).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Bugatti_Veyron_EB_16.4_%282008%29_%2854868849009%29.jpg/960px-Bugatti_Veyron_EB_16.4_%282008%29_%2854868849009%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "5959x3795"
+  },
+  {
+   "title": "File:Bugatti Veyron EB 16.4 (2006) (52451881189).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Bugatti_Veyron_EB_16.4_%282006%29_%2852451881189%29.jpg/960px-Bugatti_Veyron_EB_16.4_%282006%29_%2852451881189%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "5653x3228"
+  }
+ ],
+ "Ehra-Lessien": [
+  {
+   "title": "File:Ehra-Lessien - Zunftbaum.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Ehra-Lessien_-_Zunftbaum.jpg/960px-Ehra-Lessien_-_Zunftbaum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "3543x1993"
+  },
+  {
+   "title": "File:Ehra.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Ehra.JPG/960px-Ehra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "2592x1944"
+  },
+  {
+   "title": "File:Ehra-Lessien Kiebitzm\u00fchle NLD 33925267.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Ehra-Lessien_Kiebitzm%C3%BChle_NLD_33925267.jpg/960px-Ehra-Lessien_Kiebitzm%C3%BChle_NLD_33925267.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "2000x1500"
+  },
+  {
+   "title": "File:Ehra-Lessien Platzstra\u00dfe 03 NLD 33925315.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Ehra-Lessien_Platzstra%C3%9Fe_03_NLD_33925315.jpg/960px-Ehra-Lessien_Platzstra%C3%9Fe_03_NLD_33925315.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "2000x1500"
+  },
+  {
+   "title": "File:Ehra-Lessien Gifhorner Stra\u00dfe 12 NLD 33925193.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Ehra-Lessien_Gifhorner_Stra%C3%9Fe_12_NLD_33925193.jpg/960px-Ehra-Lessien_Gifhorner_Stra%C3%9Fe_12_NLD_33925193.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "2000x1960"
+  },
+  {
+   "title": "File:Ehra-Lessien Kiebitzm\u00fchle NLD 33925242.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Ehra-Lessien_Kiebitzm%C3%BChle_NLD_33925242.jpg/960px-Ehra-Lessien_Kiebitzm%C3%BChle_NLD_33925242.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "2000x1500"
+  },
+  {
+   "title": "File:Ehra-Lessien Am Dorfring 07 NLD 33925017.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Ehra-Lessien_Am_Dorfring_07_NLD_33925017.jpg/960px-Ehra-Lessien_Am_Dorfring_07_NLD_33925017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "2000x1500"
+  },
+  {
+   "title": "File:Ehra Ortspartie.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Ehra_Ortspartie.jpg/960px-Ehra_Ortspartie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "4896x3672"
+  }
+ ],
+ "Bugatti Chiron Super Sport 300+": [
+  {
+   "title": "File:Bugatti Chiron, GIMS 2018, Le Grand-Saconnex (1X7A1765).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Bugatti_Chiron%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1765%29.jpg/960px-Bugatti_Chiron%2C_GIMS_2018%2C_Le_Grand-Saconnex_%281X7A1765%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5727x3818"
+  },
+  {
+   "title": "File:Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2855).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Bugatti_Chiron%2C_IAA_2017%2C_Frankfurt_%281Y7A2855%29.jpg/960px-Bugatti_Chiron%2C_IAA_2017%2C_Frankfurt_%281Y7A2855%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5162x3441"
+  },
+  {
+   "title": "File:Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2857).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Bugatti_Chiron%2C_IAA_2017%2C_Frankfurt_%281Y7A2857%29.jpg/960px-Bugatti_Chiron%2C_IAA_2017%2C_Frankfurt_%281Y7A2857%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5760x3840"
+  },
+  {
+   "title": "File:2020 Bugatti Chiron Super Sport 300+ Prototype Front.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/2020_Bugatti_Chiron_Super_Sport_300%2B_Prototype_Front.jpg/960px-2020_Bugatti_Chiron_Super_Sport_300%2B_Prototype_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "2605x1315"
+  },
+  {
+   "title": "File:2022 Bugatti Chiron Super Sport 300+.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/2022_Bugatti_Chiron_Super_Sport_300%2B.jpg/960px-2022_Bugatti_Chiron_Super_Sport_300%2B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3126x2630"
+  },
+  {
+   "title": "File:2020 Bugatti Chiron Super Sport 300+ Rear.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/2020_Bugatti_Chiron_Super_Sport_300%2B_Rear.jpg/960px-2020_Bugatti_Chiron_Super_Sport_300%2B_Rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "2926x1279"
+  },
+  {
+   "title": "File:2020 Bugatti Chiron Super Sport 300+ Prototype.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/2020_Bugatti_Chiron_Super_Sport_300%2B_Prototype.jpg/960px-2020_Bugatti_Chiron_Super_Sport_300%2B_Prototype.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3019x1858"
+  },
+  {
+   "title": "File:2022 Bugatti Chiron Super Sport WRE.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/2022_Bugatti_Chiron_Super_Sport_WRE.jpg/960px-2022_Bugatti_Chiron_Super_Sport_WRE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "15072x9108"
+  }
+ ]
+}
