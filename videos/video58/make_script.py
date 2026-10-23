@@ -132,6 +132,17 @@ sc("""Next time you drive under a power line, look up, and you will know what ev
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Flugwarnkugel.jpg", 0.55, 0.5),
+    2: ("File:Stockbridge damper on 150kV power line Maarheeze - Eindhoven Oost.jpg", 0.35, 0.6),
+    3: ("File:Spacer Electric Line Chandigre West Garo Oct24 A7CR 03547.jpg", 0.45, 0.55),
+    4: ("File:Insulator on an overhead powerline.jpg", 0.5, 0.55),
+    5: ("File:Corona discharge 1.JPG", 0.72, 0.35),
+    6: ("File:Raitersaich SK DSC 0028.jpg", 0.57, 0.12),
+    7: ("File:Power line bird flight diverter - geograph.org.uk - 6065689.jpg", 0.45, 0.72),
+    8: ("File:Transmission towers at sunset in East Texas.jpg", 0.36, 0.75),
+    9: ("File:New overhead transmission line construction - Flickr - brewbooks.jpg", 0.53, 0.22),
+    10: ("File:Wire marker signals danger for helicopters 20090320 001.JPG", 0.5, 0.55),
+    11: ("File:Raitersaich SK DSC 0028.jpg", 0.55, 0.4),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
