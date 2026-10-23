@@ -128,6 +128,16 @@ sc("""Fighter jets look strange because every part is the answer to a fight, aga
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Saab JAS 39 Gripen Canard.jpg", 0.62, 0.35),
+    2: ("File:FA18 LEX.jpg", 0.48, 0.5),
+    3: ("File:6th Weapons Squadron F-35 tail.jpg", 0.4, 0.5),
+    4: ("File:F-22 thrust vectoring nozzles at SIAF-2022.jpg", 0.3, 0.35),
+    5: ("File:F-22 Raptor, head on view - 030709-F-6911G-005.jpg", 0.5, 0.25),
+    6: ("File:F-35 Lighting II Nose.jpg", 0.72, 0.42),
+    7: ("File:F-15B ACTIVE with Thrust Vectoring Nozzles - GPN-2000-000372.jpg", 0.5, 0.5),
+    8: ("File:Aces 2 ejection seat.jpg", 0.82, 0.35),
+    9: ("File:F-16 Fighting Falcon egress maintenance 140731-F-SI704-681.jpg", 0.5, 0.3),
+    10: ("File:T-45 C Arresting Hook Close Up (4600970468).jpg", 0.55, 0.72),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
