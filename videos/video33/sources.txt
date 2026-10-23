@@ -1,0 +1,7 @@
+- Rimac Nevera: four motors, torque vectoring, H-shaped structural battery, weight, power, acceleration: Wikipedia, "Rimac Nevera" https://en.wikipedia.org/wiki/Rimac_Nevera
+- Electric motor torque characteristics: Wikipedia, "Electric motor" https://en.wikipedia.org/wiki/Electric_motor
+- Porsche Taycan two-speed transmission: Wikipedia, "Porsche Taycan" https://en.wikipedia.org/wiki/Porsche_Taycan
+- Inverters and silicon carbide (Tesla Model 3): Wikipedia, "Silicon carbide" https://en.wikipedia.org/wiki/Silicon_carbide and "Power inverter" https://en.wikipedia.org/wiki/Power_inverter
+- Axial flux motors, Ferrari SF90: Wikipedia, "Axial flux motor" https://en.wikipedia.org/wiki/Axial_flux_motor and "Ferrari SF90 Stradale" https://en.wikipedia.org/wiki/Ferrari_SF90_Stradale
+- Battery energy density and solid-state batteries: Wikipedia, "Solid-state battery" https://en.wikipedia.org/wiki/Solid-state_battery and "Lithium-ion battery" https://en.wikipedia.org/wiki/Lithium-ion_battery
+- Torque vectoring: Wikipedia, "Torque vectoring" https://en.wikipedia.org/wiki/Torque_vectoring
