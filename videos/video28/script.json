@@ -25,8 +25,8 @@
    "query": "Bugatti Veyron radiator",
    "caption": "WHY DOES THIS CAR NEED 10 RADIATORS?",
    "arrow": {
-    "x": 0.63,
-    "y": 0.72
+    "x": 0.45,
+    "y": 0.8
    },
    "chapter": "1. The ten radiators",
    "short": "Why Does a Bugatti Need 10 Radiators?",
@@ -117,8 +117,8 @@
    "query": "Bugatti Veyron rear wing airbrake",
    "caption": "WHY DOES THIS WING STAND UP?",
    "arrow": {
-    "x": 0.27,
-    "y": 0.27
+    "x": 0.16,
+    "y": 0.3
    },
    "chapter": "5. The airbrake wing",
    "short": "Why Does a Bugatti Wing Stand Up When Braking?",
@@ -140,8 +140,8 @@
    "query": "Bugatti Veyron fuel cap",
    "caption": "WHY WOULD THIS TANK BE EMPTY IN 12 MINUTES?",
    "arrow": {
-    "x": 0.62,
-    "y": 0.45
+    "x": 0.68,
+    "y": 0.42
    },
    "chapter": "6. The fuel tank",
    "short": "Why Would a Bugatti Run Out of Fuel in 12 Minutes?",

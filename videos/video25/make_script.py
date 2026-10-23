@@ -122,7 +122,7 @@ sc("""A rally car looks like a normal car with stickers. Underneath, almost ever
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
     1: ("File:Cersanitrallyteam01 (cropped).JPG", 0.72, 0.6),
-    2: ("File:Flickr - bjmullan - Colin McRae's Subaru Legacy Rally car (12).jpg", 0.3, 0.4),
+    2: ("File:Flickr - bjmullan - Colin McRae's Subaru Legacy Rally car (12).jpg", 0.3, 0.62),
     3: ("File:Subaru Impreza WRC at Goodwood 2014 002 (cropped).jpg", 0.2, 0.78),
     4: ("File:2014 Rally Italia Sardegna 20 Paddon-Kennard.jpg", 0.42, 0.75),
     5: ("File:2014 Rally Italia-Sardegna 3 K.Meeke-P.Nagle.jpg", 0.1, 0.43),
