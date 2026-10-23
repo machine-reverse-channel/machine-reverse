@@ -1,0 +1,9 @@
+- Ship stability, centre of gravity, metacentric height: Wikipedia, "Ship stability" https://en.wikipedia.org/wiki/Ship_stability and "Metacentric height" https://en.wikipedia.org/wiki/Metacentric_height
+- Oasis-class dimensions: Wikipedia, "Oasis-class cruise ship" https://en.wikipedia.org/wiki/Oasis-class_cruise_ship
+- Stabiliser fins: Wikipedia, "Stabilizer (ship)" https://en.wikipedia.org/wiki/Stabilizer_(ship)
+- Anti-heeling and ballast tanks: Wikipedia, "Ballast tank" https://en.wikipedia.org/wiki/Ballast_tank
+- Watertight compartments, Titanic and SOLAS: Wikipedia, "Compartment (ship)" https://en.wikipedia.org/wiki/Compartment_(ship) and "SOLAS Convention" https://en.wikipedia.org/wiki/SOLAS_Convention
+- Azipods: Wikipedia, "Azipod" https://en.wikipedia.org/wiki/Azipod
+- Safe Return to Port (SOLAS, ships built from 2010): IMO https://www.imo.org/
+- Lifeboats and international orange: Wikipedia, "Lifeboat (shipboard)" https://en.wikipedia.org/wiki/Lifeboat_(shipboard) and "International orange" https://en.wikipedia.org/wiki/International_orange
+- Inclining experiment: Wikipedia, "Inclining test" https://en.wikipedia.org/wiki/Inclining_test
