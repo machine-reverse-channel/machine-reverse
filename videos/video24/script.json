@@ -25,8 +25,8 @@
    "query": "Le Mans prototype shark fin",
    "caption": "WHY IS THERE A FIN ON THE BACK?",
    "arrow": {
-    "x": 0.3,
-    "y": 0.37
+    "x": 0.22,
+    "y": 0.34
    },
    "chapter": "1. The shark fin",
    "short": "Why Do Le Mans Cars Have a Fin on Their Back?",
@@ -49,7 +49,7 @@
    "caption": "WHY ARE THERE HOLES ABOVE THE WHEELS?",
    "arrow": {
     "x": 0.47,
-    "y": 0.55
+    "y": 0.47
    },
    "chapter": "2. The holes above the wheels",
    "short": "Why Do Race Cars Have Holes Above the Wheels?",
@@ -140,8 +140,8 @@
    "query": "Le Mans car number panel night",
    "caption": "WHY DO THESE NUMBERS LIGHT UP?",
    "arrow": {
-    "x": 0.71,
-    "y": 0.6
+    "x": 0.55,
+    "y": 0.68
    },
    "chapter": "6. The glowing panels",
    "short": "Why Do Le Mans Cars Have Glowing Numbers?",
