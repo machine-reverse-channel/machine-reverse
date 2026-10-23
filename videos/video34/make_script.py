@@ -121,6 +121,16 @@ sc("""Pop up headlights did not die because people stopped loving them. They die
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ('File:Toyota Sprinter Trueno AE86 2 door.jpg', 0.52, 0.6),
+    2: ('File:Chevrolet Corvette C5 Haynes.jpg', 0.75, 0.48),
+    3: ('File:Headlight lens optics.jpg', 0.4, 0.45),
+    4: ('File:H4 halogen car lamp.jpg', 0.35, 0.55),
+    5: ('File:2014 Proton Suprima S Premium - Headlights.jpg', 0.55, 0.45),
+    6: ('File:1957 Panhard Dyna Z (France Domestic) (8391189016).jpg', 0.3, 0.45),
+    7: ('File:BMW M4 (G83) 1X7A7098.jpg', 0.4, 0.53),
+    8: ('File:2015 Audi A4 B9 S line Tangorot LED-Matrix-Scheinwerfer Detail.jpg', 0.55, 0.6),
+    9: ('File:Audi A8 L 55 TFSI Quattro D5 Floret Silver Metallic (6).jpg', 0.8, 0.8),
+    10: ('File:LED DaytimeRunningLights.jpg', 0.45, 0.65),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
