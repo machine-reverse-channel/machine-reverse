@@ -1,0 +1,1663 @@
+1
+00:00:00,000 --> 00:00:02,749
+Under the sea between England and France,
+
+2
+00:00:02,749 --> 00:00:05,029
+there is a machine that will never
+
+3
+00:00:05,029 --> 00:00:06,304
+see daylight again.
+
+4
+00:00:06,484 --> 00:00:08,894
+It dug part of the Channel Tunnel,
+
+5
+00:00:08,894 --> 00:00:10,737
+and when the job was done,
+
+6
+00:00:10,737 --> 00:00:13,148
+the workers did not bring it back.
+
+7
+00:00:13,328 --> 00:00:15,646
+They steered it down into the rock,
+
+8
+00:00:15,646 --> 00:00:16,640
+out of the way,
+
+9
+00:00:16,640 --> 00:00:17,833
+and left it there.
+
+10
+00:00:18,013 --> 00:00:21,078
+Today, eleven parts of a tunnel boring
+
+11
+00:00:21,078 --> 00:00:23,740
+machine, and why each one exists,
+
+12
+00:00:23,740 --> 00:00:26,967
+starting with the strange reason so many
+
+13
+00:00:26,967 --> 00:00:28,984
+of them stay underground.
+
+14
+00:00:29,334 --> 00:00:32,181
+A tunnel boring machine is a factory
+
+15
+00:00:32,181 --> 00:00:33,130
+on the move.
+
+16
+00:00:33,310 --> 00:00:35,963
+The front is a spinning wheel of
+
+17
+00:00:35,963 --> 00:00:39,196
+steel that grinds through rock or soil.
+
+18
+00:00:39,376 --> 00:00:42,417
+Behind it, the machine builds the tunnel
+
+19
+00:00:42,417 --> 00:00:43,710
+walls as it goes,
+
+20
+00:00:43,710 --> 00:00:44,926
+and behind that,
+
+21
+00:00:44,926 --> 00:00:47,511
+a train of trailers up to hundreds
+
+22
+00:00:47,511 --> 00:00:50,704
+of meters long carries everything the crew
+
+23
+00:00:50,704 --> 00:00:51,160
+needs.
+
+24
+00:00:51,340 --> 00:00:54,129
+Some of these machines are wider than
+
+25
+00:00:54,129 --> 00:00:56,391
+a four story building is tall.
+
+26
+00:00:56,740 --> 00:00:59,512
+As always, every fact comes from a
+
+27
+00:00:59,512 --> 00:01:01,957
+named source, tunnel builders,
+
+28
+00:01:01,957 --> 00:01:06,277
+engineering references, and official project reports,
+
+29
+00:01:06,277 --> 00:01:08,722
+all listed in the description.
+
+30
+00:01:08,902 --> 00:01:10,882
+Let's start with the question in the
+
+31
+00:01:10,882 --> 00:01:11,212
+title.
+
+32
+00:01:11,562 --> 00:01:14,597
+Why would anyone bury a machine worth
+
+33
+00:01:14,597 --> 00:01:15,336
+millions?
+
+34
+00:01:15,516 --> 00:01:17,674
+Because it cannot go back the way
+
+35
+00:01:17,674 --> 00:01:18,198
+it came.
+
+36
+00:01:18,378 --> 00:01:20,896
+The front of a tunnel boring machine,
+
+37
+00:01:20,896 --> 00:01:22,121
+called the shield,
+
+38
+00:01:22,121 --> 00:01:24,502
+is a little wider than the finished
+
+39
+00:01:24,502 --> 00:01:25,659
+tunnel behind it,
+
+40
+00:01:25,659 --> 00:01:28,450
+because the tunnel walls are built inside
+
+41
+00:01:28,450 --> 00:01:29,198
+the shield.
+
+42
+00:01:29,378 --> 00:01:31,798
+So the machine cannot reverse through the
+
+43
+00:01:31,798 --> 00:01:32,919
+tunnel it just dug.
+
+44
+00:01:33,099 --> 00:01:34,919
+It can only go forward,
+
+45
+00:01:34,919 --> 00:01:37,294
+or be cut into pieces where it
+
+46
+00:01:37,294 --> 00:01:37,848
+stands.
+
+47
+00:01:38,198 --> 00:01:41,058
+Cutting it up underground is slow and
+
+48
+00:01:41,058 --> 00:01:41,831
+expensive.
+
+49
+00:01:42,011 --> 00:01:44,748
+Workers need weeks or months to take
+
+50
+00:01:44,748 --> 00:01:47,484
+the machine apart in a narrow tunnel
+
+51
+00:01:47,484 --> 00:01:49,384
+and carry the pieces out.
+
+52
+00:01:49,564 --> 00:01:52,383
+Often the used machine is worth less
+
+53
+00:01:52,383 --> 00:01:53,558
+than that work.
+
+54
+00:01:53,738 --> 00:01:55,822
+So when the end of the tunnel
+
+55
+00:01:55,822 --> 00:01:57,260
+is not near a shaft,
+
+56
+00:01:57,260 --> 00:02:00,135
+builders sometimes do the cheaper thing.
+
+57
+00:02:00,315 --> 00:02:02,654
+They strip out the useful parts,
+
+58
+00:02:02,654 --> 00:02:05,287
+drive the shield into a side pocket,
+
+59
+00:02:05,287 --> 00:02:07,188
+and fill it with concrete.
+
+60
+00:02:07,538 --> 00:02:09,830
+That is what happened under the English
+
+61
+00:02:09,830 --> 00:02:10,301
+Channel.
+
+62
+00:02:10,481 --> 00:02:13,111
+The British and French machines met in
+
+63
+00:02:13,111 --> 00:02:14,219
+nineteen ninety.
+
+64
+00:02:14,399 --> 00:02:16,855
+The British ones turned down into the
+
+65
+00:02:16,855 --> 00:02:18,249
+rock and were buried,
+
+66
+00:02:18,249 --> 00:02:20,771
+so the French ones could break through
+
+67
+00:02:20,771 --> 00:02:21,899
+and be taken out.
+
+68
+00:02:22,079 --> 00:02:25,426
+Years later, one Channel Tunnel machine was
+
+69
+00:02:25,426 --> 00:02:27,605
+even put up for sale online.
+
+70
+00:02:27,785 --> 00:02:31,169
+Many machines today are refurbished and reused,
+
+71
+00:02:31,169 --> 00:02:33,544
+but some still end their lives as
+
+72
+00:02:33,544 --> 00:02:35,703
+part of the tunnel they built.
+
+73
+00:02:36,054 --> 00:02:38,000
+Why is the front of a tunnel
+
+74
+00:02:38,000 --> 00:02:41,197
+boring machine covered in little steel wheels?
+
+75
+00:02:41,377 --> 00:02:43,502
+Because they do not cut the rock
+
+76
+00:02:43,502 --> 00:02:44,233
+like a saw.
+
+77
+00:02:44,413 --> 00:02:46,581
+Each disc rolls in a circle on
+
+78
+00:02:46,581 --> 00:02:47,593
+the rock face,
+
+79
+00:02:47,593 --> 00:02:50,485
+pressed against it with tonnes of force.
+
+80
+00:02:50,665 --> 00:02:53,698
+The pressure crushes the rock under the
+
+81
+00:02:53,698 --> 00:02:55,876
+disc and cracks it sideways,
+
+82
+00:02:55,876 --> 00:02:59,454
+so chips flake off between neighboring tracks.
+
+83
+00:02:59,634 --> 00:03:01,305
+The rock breaks itself.
+
+84
+00:03:01,656 --> 00:03:04,438
+A big hard rock machine can carry
+
+85
+00:03:04,438 --> 00:03:06,294
+dozens of these discs,
+
+86
+00:03:06,294 --> 00:03:09,330
+each about forty centimeters across.
+
+87
+00:03:09,510 --> 00:03:12,137
+The cutterhead turns a few times per
+
+88
+00:03:12,137 --> 00:03:15,129
+minute, pushed forward by hydraulic rams.
+
+89
+00:03:15,309 --> 00:03:16,824
+In very hard rock,
+
+90
+00:03:16,824 --> 00:03:20,021
+like granite, the discs wear out fast,
+
+91
+00:03:20,021 --> 00:03:23,303
+and the crew stops regularly to inspect
+
+92
+00:03:23,303 --> 00:03:25,828
+them and change the worn ones.
+
+93
+00:03:26,178 --> 00:03:28,562
+Changing them is one of the hardest
+
+94
+00:03:28,562 --> 00:03:29,788
+jobs in tunneling.
+
+95
+00:03:29,968 --> 00:03:32,593
+Workers climb through the cutterhead to the
+
+96
+00:03:32,593 --> 00:03:33,753
+face of the tunnel.
+
+97
+00:03:33,933 --> 00:03:36,017
+In soft ground under water,
+
+98
+00:03:36,017 --> 00:03:39,260
+the chamber behind the cutterhead is under
+
+99
+00:03:39,260 --> 00:03:42,888
+pressure, so the workers breathe compressed air
+
+100
+00:03:42,888 --> 00:03:45,512
+and need decompression afterwards,
+
+101
+00:03:45,512 --> 00:03:47,134
+like deep sea divers.
+
+102
+00:03:47,314 --> 00:03:50,446
+Some new machines change discs with robots
+
+103
+00:03:50,446 --> 00:03:52,236
+for exactly that reason.
+
+104
+00:03:52,586 --> 00:03:54,494
+Why is the wall of the tunnel
+
+105
+00:03:54,494 --> 00:03:56,534
+made of curved concrete pieces?
+
+106
+00:03:56,714 --> 00:03:59,878
+Because the machine builds the tunnel as
+
+107
+00:03:59,878 --> 00:04:00,510
+it digs.
+
+108
+00:04:00,690 --> 00:04:02,988
+The pieces, called segments,
+
+109
+00:04:02,988 --> 00:04:05,696
+are made in a factory and brought
+
+110
+00:04:05,696 --> 00:04:06,681
+in by train.
+
+111
+00:04:06,861 --> 00:04:08,490
+Inside the shield,
+
+112
+00:04:08,490 --> 00:04:12,019
+a rotating arm called the erector picks
+
+113
+00:04:12,019 --> 00:04:14,734
+up each segment and places it,
+
+114
+00:04:14,734 --> 00:04:16,091
+forming a ring.
+
+115
+00:04:16,271 --> 00:04:19,315
+Usually six or seven segments plus a
+
+116
+00:04:19,315 --> 00:04:21,937
+small key piece close one ring.
+
+117
+00:04:22,286 --> 00:04:25,172
+The rings are bolted together and sealed
+
+118
+00:04:25,172 --> 00:04:26,615
+with rubber gaskets,
+
+119
+00:04:26,615 --> 00:04:29,141
+so water from the ground cannot get
+
+120
+00:04:29,141 --> 00:04:29,357
+in.
+
+121
+00:04:29,537 --> 00:04:32,571
+The machine digs a little more than
+
+122
+00:04:32,571 --> 00:04:33,958
+one ring length,
+
+123
+00:04:33,958 --> 00:04:36,386
+stops, builds the next ring,
+
+124
+00:04:36,386 --> 00:04:37,513
+and moves on.
+
+125
+00:04:37,693 --> 00:04:38,931
+Ring after ring,
+
+126
+00:04:38,931 --> 00:04:41,870
+the tunnel appears behind the machine,
+
+127
+00:04:41,870 --> 00:04:43,185
+already finished.
+
+128
+00:04:43,534 --> 00:04:44,920
+The last segment,
+
+129
+00:04:44,920 --> 00:04:47,528
+the key, is shaped like a wedge.
+
+130
+00:04:47,708 --> 00:04:50,015
+It slides in last and locks the
+
+131
+00:04:50,015 --> 00:04:52,544
+whole ring, like the keystone of a
+
+132
+00:04:52,544 --> 00:04:53,362
+stone arch.
+
+133
+00:04:53,542 --> 00:04:55,606
+Without it, the ring is just a
+
+134
+00:04:55,606 --> 00:04:57,258
+pile of curved concrete.
+
+135
+00:04:57,438 --> 00:04:59,381
+With it, the ring can hold back
+
+136
+00:04:59,381 --> 00:05:01,387
+the weight of the ground and the
+
+137
+00:05:01,387 --> 00:05:03,456
+pressure of water for more than a
+
+138
+00:05:03,456 --> 00:05:04,334
+hundred years.
+
+139
+00:05:04,683 --> 00:05:07,229
+How does a machine without wheels move
+
+140
+00:05:07,229 --> 00:05:09,037
+forward through solid rock?
+
+141
+00:05:09,217 --> 00:05:11,785
+It pushes against the tunnel it just
+
+142
+00:05:11,785 --> 00:05:12,213
+built.
+
+143
+00:05:12,393 --> 00:05:14,787
+Around the back of the shield,
+
+144
+00:05:14,787 --> 00:05:18,138
+a ring of powerful hydraulic jacks presses
+
+145
+00:05:18,138 --> 00:05:20,612
+against the last concrete ring.
+
+146
+00:05:20,792 --> 00:05:22,034
+When they extend,
+
+147
+00:05:22,034 --> 00:05:24,955
+the whole machine slides forward and the
+
+148
+00:05:24,955 --> 00:05:27,584
+cutterhead is pressed into the face.
+
+149
+00:05:27,764 --> 00:05:29,732
+Then the jacks pull back,
+
+150
+00:05:29,732 --> 00:05:31,305
+a new ring is built,
+
+151
+00:05:31,305 --> 00:05:33,430
+and the cycle starts again.
+
+152
+00:05:33,779 --> 00:05:35,693
+The force can be enormous,
+
+153
+00:05:35,693 --> 00:05:38,194
+tens of thousands of tonnes on the
+
+154
+00:05:38,194 --> 00:05:39,445
+biggest machines.
+
+155
+00:05:39,625 --> 00:05:41,680
+And the jacks also steer.
+
+156
+00:05:41,860 --> 00:05:43,845
+Push harder on the left side,
+
+157
+00:05:43,845 --> 00:05:45,761
+and the machine turns right.
+
+158
+00:05:45,941 --> 00:05:48,107
+Push harder at the bottom,
+
+159
+00:05:48,107 --> 00:05:49,273
+and it climbs.
+
+160
+00:05:49,453 --> 00:05:51,892
+The operator does this constantly,
+
+161
+00:05:51,892 --> 00:05:54,761
+guided by lasers and computers that know
+
+162
+00:05:54,761 --> 00:05:57,415
+where the machine should be to within
+
+163
+00:05:57,415 --> 00:05:58,706
+a few millimeters.
+
+164
+00:05:59,056 --> 00:06:00,014
+In hard rock,
+
+165
+00:06:00,014 --> 00:06:02,667
+some machines use a different trick.
+
+166
+00:06:02,847 --> 00:06:05,207
+Instead of pushing on segments,
+
+167
+00:06:05,207 --> 00:06:08,479
+they press big pads called grippers against
+
+168
+00:06:08,479 --> 00:06:10,686
+the rock walls on both sides,
+
+169
+00:06:10,686 --> 00:06:12,589
+lock themselves in place,
+
+170
+00:06:12,589 --> 00:06:15,862
+and push the cutterhead forward from there.
+
+171
+00:06:16,042 --> 00:06:18,375
+Then they release the grippers,
+
+172
+00:06:18,375 --> 00:06:20,031
+pull the body forward,
+
+173
+00:06:20,031 --> 00:06:21,160
+and grip again,
+
+174
+00:06:21,160 --> 00:06:22,439
+like an inchworm.
+
+175
+00:06:22,789 --> 00:06:25,155
+Why does a tunnel boring machine pump
+
+176
+00:06:25,155 --> 00:06:27,712
+liquid grout behind the walls it builds?
+
+177
+00:06:27,892 --> 00:06:29,610
+Because there is a gap.
+
+178
+00:06:29,790 --> 00:06:32,689
+The cutterhead digs a hole slightly wider
+
+179
+00:06:32,689 --> 00:06:33,820
+than the shield,
+
+180
+00:06:33,820 --> 00:06:36,436
+and the segments are built inside the
+
+181
+00:06:36,436 --> 00:06:36,931
+shield.
+
+182
+00:06:37,111 --> 00:06:39,007
+When the shield moves on,
+
+183
+00:06:39,007 --> 00:06:41,207
+a ring of empty space is left
+
+184
+00:06:41,207 --> 00:06:43,937
+between the concrete and the ground.
+
+185
+00:06:44,117 --> 00:06:45,586
+If nothing fills it,
+
+186
+00:06:45,586 --> 00:06:48,378
+the ground above slowly sinks into it.
+
+187
+00:06:48,727 --> 00:06:49,520
+In a city,
+
+188
+00:06:49,520 --> 00:06:51,026
+that matters a lot.
+
+189
+00:06:51,206 --> 00:06:54,804
+A few centimeters of settlement can crack
+
+190
+00:06:54,804 --> 00:06:56,559
+the buildings above,
+
+191
+00:06:56,559 --> 00:06:58,139
+break water pipes,
+
+192
+00:06:58,139 --> 00:07:00,158
+or tilt railway tracks.
+
+193
+00:07:00,338 --> 00:07:02,988
+So the machine injects grout through the
+
+194
+00:07:02,988 --> 00:07:04,247
+tail of the shield,
+
+195
+00:07:04,247 --> 00:07:06,633
+at the same moment it moves forward,
+
+196
+00:07:06,633 --> 00:07:09,085
+filling the gap before the ground can
+
+197
+00:07:09,085 --> 00:07:09,417
+move.
+
+198
+00:07:09,766 --> 00:07:12,739
+Engineers watch the surface the whole time.
+
+199
+00:07:12,919 --> 00:07:16,283
+Under London, during the Crossrail project,
+
+200
+00:07:16,283 --> 00:07:20,118
+thousands of sensors measured buildings above the
+
+201
+00:07:20,118 --> 00:07:20,744
+tunnels.
+
+202
+00:07:20,924 --> 00:07:22,997
+Under some historic buildings,
+
+203
+00:07:22,997 --> 00:07:25,623
+they even pumped grout into the ground
+
+204
+00:07:25,623 --> 00:07:28,111
+beforehand, ready to push it back up
+
+205
+00:07:28,111 --> 00:07:29,631
+if it started to sink.
+
+206
+00:07:29,981 --> 00:07:32,720
+Why do soft ground tunnel machines keep
+
+207
+00:07:32,720 --> 00:07:34,968
+a chamber full of mud behind the
+
+208
+00:07:34,968 --> 00:07:35,740
+cutterhead?
+
+209
+00:07:35,920 --> 00:07:38,675
+Because in soft soil under water,
+
+210
+00:07:38,675 --> 00:07:41,264
+the face of the tunnel wants to
+
+211
+00:07:41,264 --> 00:07:42,015
+collapse.
+
+212
+00:07:42,195 --> 00:07:44,696
+The soil and water push into the
+
+213
+00:07:44,696 --> 00:07:45,086
+hole.
+
+214
+00:07:45,266 --> 00:07:48,462
+An earth pressure balance machine fills the
+
+215
+00:07:48,462 --> 00:07:51,584
+chamber behind the cutterhead with the dug
+
+216
+00:07:51,584 --> 00:07:54,483
+soil itself, turned into a thick paste,
+
+217
+00:07:54,483 --> 00:07:57,307
+and keeps it pressed against the face,
+
+218
+00:07:57,307 --> 00:07:59,834
+at the same pressure as the ground
+
+219
+00:07:59,834 --> 00:08:00,429
+outside.
+
+220
+00:08:00,779 --> 00:08:03,384
+A long screw conveyor takes the paste
+
+221
+00:08:03,384 --> 00:08:04,722
+out of the chamber,
+
+222
+00:08:04,722 --> 00:08:07,257
+and its speed controls the pressure.
+
+223
+00:08:07,437 --> 00:08:08,692
+Turn it faster,
+
+224
+00:08:08,692 --> 00:08:10,281
+and pressure drops.
+
+225
+00:08:10,461 --> 00:08:11,906
+Turn it slower,
+
+226
+00:08:11,906 --> 00:08:13,735
+and pressure rises.
+
+227
+00:08:13,915 --> 00:08:15,787
+If the pressure is too low,
+
+228
+00:08:15,787 --> 00:08:18,422
+the ground above can collapse into the
+
+229
+00:08:18,422 --> 00:08:18,908
+tunnel.
+
+230
+00:08:19,088 --> 00:08:20,543
+If it is too high,
+
+231
+00:08:20,543 --> 00:08:23,374
+the machine can push the ground up,
+
+232
+00:08:23,374 --> 00:08:25,639
+and even blow mud out at the
+
+233
+00:08:25,639 --> 00:08:26,286
+surface.
+
+234
+00:08:26,636 --> 00:08:29,810
+Other machines, called slurry shields,
+
+235
+00:08:29,810 --> 00:08:33,485
+use bentonite clay mixed with water instead.
+
+236
+00:08:33,665 --> 00:08:35,911
+The slurry holds the face and is
+
+237
+00:08:35,911 --> 00:08:38,297
+pumped through pipes to a plant on
+
+238
+00:08:38,297 --> 00:08:41,104
+the surface, where the soil is separated
+
+239
+00:08:41,104 --> 00:08:43,139
+out and the slurry is reused.
+
+240
+00:08:43,319 --> 00:08:46,326
+Either way, the idea is the same.
+
+241
+00:08:46,506 --> 00:08:49,341
+Hold the ground with pressure until the
+
+242
+00:08:49,341 --> 00:08:51,231
+concrete ring is in place.
+
+243
+00:08:51,581 --> 00:08:54,141
+Why does a tunnel boring machine drag
+
+244
+00:08:54,141 --> 00:08:56,562
+a long chain of trailers behind it?
+
+245
+00:08:56,742 --> 00:08:59,505
+Because the cutterhead is only the tip.
+
+246
+00:08:59,685 --> 00:09:02,326
+Behind it, on what is called the
+
+247
+00:09:02,326 --> 00:09:05,462
+backup, are the electric transformers,
+
+248
+00:09:05,462 --> 00:09:07,855
+hydraulic pumps, grout tanks,
+
+249
+00:09:07,855 --> 00:09:10,248
+ventilation, a control cabin,
+
+250
+00:09:10,248 --> 00:09:12,889
+toilets and a place for the crew
+
+251
+00:09:12,889 --> 00:09:13,466
+to eat.
+
+252
+00:09:13,646 --> 00:09:15,456
+The whole thing can be more than
+
+253
+00:09:15,456 --> 00:09:16,700
+a hundred meters long.
+
+254
+00:09:17,049 --> 00:09:19,766
+The dug material has to leave too.
+
+255
+00:09:19,946 --> 00:09:21,219
+On many machines,
+
+256
+00:09:21,219 --> 00:09:24,140
+a conveyor belt carries the broken rock
+
+257
+00:09:24,140 --> 00:09:25,937
+back through the tunnel,
+
+258
+00:09:25,937 --> 00:09:27,809
+sometimes for kilometers,
+
+259
+00:09:27,809 --> 00:09:28,932
+to the surface.
+
+260
+00:09:29,112 --> 00:09:31,938
+On others, small trains carry it out
+
+261
+00:09:31,938 --> 00:09:34,842
+in wagons, and bring segments back in
+
+262
+00:09:34,842 --> 00:09:36,334
+on the return trip.
+
+263
+00:09:36,683 --> 00:09:39,992
+The crew lives inside this moving factory.
+
+264
+00:09:40,172 --> 00:09:42,432
+Work goes on day and night,
+
+265
+00:09:42,432 --> 00:09:44,189
+in shifts, for years.
+
+266
+00:09:44,369 --> 00:09:45,541
+On a good day,
+
+267
+00:09:45,541 --> 00:09:48,555
+a modern machine can advance tens of
+
+268
+00:09:48,555 --> 00:09:49,141
+meters.
+
+269
+00:09:49,321 --> 00:09:50,481
+On a bad day,
+
+270
+00:09:50,481 --> 00:09:52,443
+in broken rock or mud,
+
+271
+00:09:52,443 --> 00:09:54,940
+it might not advance at all.
+
+272
+00:09:55,290 --> 00:09:57,774
+Why did one of the biggest tunnel
+
+273
+00:09:57,774 --> 00:10:00,935
+machines ever built stop under Seattle for
+
+274
+00:10:00,935 --> 00:10:01,688
+two years?
+
+275
+00:10:01,868 --> 00:10:04,075
+The machine, named Bertha,
+
+276
+00:10:04,075 --> 00:10:07,301
+was more than seventeen meters across.
+
+277
+00:10:07,481 --> 00:10:10,005
+In December two thousand thirteen,
+
+278
+00:10:10,005 --> 00:10:12,900
+after about a thousand feet of digging,
+
+279
+00:10:12,900 --> 00:10:14,830
+it overheated and stopped.
+
+280
+00:10:15,010 --> 00:10:18,704
+Investigators later found damaged seals around the
+
+281
+00:10:18,704 --> 00:10:21,363
+main bearing, the part that lets the
+
+282
+00:10:21,363 --> 00:10:22,545
+cutterhead turn.
+
+283
+00:10:22,894 --> 00:10:24,866
+There was no way to reach the
+
+284
+00:10:24,866 --> 00:10:27,109
+front of the machine from inside.
+
+285
+00:10:27,289 --> 00:10:29,574
+So the builders dug a huge rescue
+
+286
+00:10:29,574 --> 00:10:31,028
+pit from the surface,
+
+287
+00:10:31,028 --> 00:10:32,621
+down to the cutterhead,
+
+288
+00:10:32,621 --> 00:10:34,767
+and lifted the front end of the
+
+289
+00:10:34,767 --> 00:10:36,914
+machine out with a giant crane.
+
+290
+00:10:37,094 --> 00:10:38,358
+It was repaired,
+
+291
+00:10:38,358 --> 00:10:41,045
+put back, and in late two thousand
+
+292
+00:10:41,045 --> 00:10:43,653
+fifteen it started digging again.
+
+293
+00:10:44,003 --> 00:10:47,014
+Bertha finished the tunnel in two thousand
+
+294
+00:10:47,014 --> 00:10:49,881
+seventeen, and the new highway opened in
+
+295
+00:10:49,881 --> 00:10:51,458
+two thousand nineteen,
+
+296
+00:10:51,458 --> 00:10:52,247
+years late.
+
+297
+00:10:52,427 --> 00:10:55,505
+Who was responsible became a long legal
+
+298
+00:10:55,505 --> 00:10:55,979
+fight.
+
+299
+00:10:56,159 --> 00:10:58,558
+The main bearing and its seals are
+
+300
+00:10:58,558 --> 00:11:00,323
+the heart of the machine,
+
+301
+00:11:00,323 --> 00:11:02,934
+and when the heart fails underground,
+
+302
+00:11:02,934 --> 00:11:04,980
+there is no easy way to reach
+
+303
+00:11:04,980 --> 00:11:05,192
+it.
+
+304
+00:11:05,541 --> 00:11:08,585
+Why do tunnel boring machines have names
+
+305
+00:11:08,585 --> 00:11:11,172
+like Bertha, Phyllis or Elizabeth?
+
+306
+00:11:11,352 --> 00:11:12,571
+It is a tradition.
+
+307
+00:11:12,751 --> 00:11:15,645
+Miners and tunnelers have long believed a
+
+308
+00:11:15,645 --> 00:11:18,610
+machine should not start digging without a
+
+309
+00:11:18,610 --> 00:11:18,963
+name.
+
+310
+00:11:19,143 --> 00:11:21,458
+The names are usually female,
+
+311
+00:11:21,458 --> 00:11:24,012
+often in honor of Saint Barbara,
+
+312
+00:11:24,012 --> 00:11:27,285
+the patron saint of miners and tunnelers,
+
+313
+00:11:27,285 --> 00:11:29,840
+who is said to protect them from
+
+314
+00:11:29,840 --> 00:11:31,356
+danger underground.
+
+315
+00:11:31,706 --> 00:11:32,997
+On many projects,
+
+316
+00:11:32,997 --> 00:11:35,577
+a small statue of Saint Barbara is
+
+317
+00:11:35,577 --> 00:11:38,385
+placed at the entrance of the tunnel,
+
+318
+00:11:38,385 --> 00:11:41,421
+and the machines are blessed before they
+
+319
+00:11:41,421 --> 00:11:41,877
+start.
+
+320
+00:11:42,057 --> 00:11:43,966
+On Crossrail in London,
+
+321
+00:11:43,966 --> 00:11:47,452
+the eight machines were named after famous
+
+322
+00:11:47,452 --> 00:11:49,776
+women from London's history,
+
+323
+00:11:49,776 --> 00:11:51,519
+chosen by the public.
+
+324
+00:11:51,868 --> 00:11:54,058
+It sounds like superstition,
+
+325
+00:11:54,058 --> 00:11:54,841
+and it is.
+
+326
+00:11:55,021 --> 00:11:57,243
+But tunneling was one of the most
+
+327
+00:11:57,243 --> 00:12:00,071
+dangerous jobs in the world for centuries.
+
+328
+00:12:00,251 --> 00:12:04,907
+Collapses, floods and gas killed many workers.
+
+329
+00:12:05,087 --> 00:12:06,949
+A name and a saint at the
+
+330
+00:12:06,949 --> 00:12:09,854
+entrance are a reminder that the people
+
+331
+00:12:09,854 --> 00:12:12,610
+inside are the most important part of
+
+332
+00:12:12,610 --> 00:12:13,504
+the machine.
+
+333
+00:12:13,853 --> 00:12:16,561
+How does a machine deep underground,
+
+334
+00:12:16,561 --> 00:12:17,464
+with no GPS,
+
+335
+00:12:17,464 --> 00:12:19,194
+know where it is going?
+
+336
+00:12:19,374 --> 00:12:20,965
+It follows a laser.
+
+337
+00:12:21,145 --> 00:12:23,819
+A survey station fixed to the tunnel
+
+338
+00:12:23,819 --> 00:12:26,641
+wall behind the machine shoots a laser
+
+339
+00:12:26,641 --> 00:12:29,167
+beam onto a target on the machine.
+
+340
+00:12:29,347 --> 00:12:32,888
+Computers read the target and calculate the
+
+341
+00:12:32,888 --> 00:12:36,759
+exact position and direction of the cutterhead,
+
+342
+00:12:36,759 --> 00:12:39,970
+so the operator can correct the course.
+
+343
+00:12:40,320 --> 00:12:43,164
+The survey station itself must be moved
+
+344
+00:12:43,164 --> 00:12:45,205
+forward as the tunnel grows,
+
+345
+00:12:45,205 --> 00:12:47,611
+and every move adds a tiny error.
+
+346
+00:12:47,791 --> 00:12:51,109
+Surveyors check the line again and again,
+
+347
+00:12:51,109 --> 00:12:54,589
+using points measured from the surface down
+
+348
+00:12:54,589 --> 00:12:55,802
+through shafts.
+
+349
+00:12:55,982 --> 00:12:58,105
+In a tunnel kilometers long,
+
+350
+00:12:58,105 --> 00:13:00,228
+being off by a fraction of a
+
+351
+00:13:00,228 --> 00:13:03,184
+degree would mean missing the target by
+
+352
+00:13:03,184 --> 00:13:03,715
+meters.
+
+353
+00:13:04,064 --> 00:13:05,309
+Under the Channel,
+
+354
+00:13:05,309 --> 00:13:08,282
+the British and French tunnels started more
+
+355
+00:13:08,282 --> 00:13:10,287
+than thirty kilometers apart.
+
+356
+00:13:10,467 --> 00:13:13,567
+When they met in December nineteen ninety,
+
+357
+00:13:13,567 --> 00:13:17,110
+the difference was about thirty five centimeters
+
+358
+00:13:17,110 --> 00:13:20,136
+sideways and less than six centimeters up
+
+359
+00:13:20,136 --> 00:13:20,800
+and down.
+
+360
+00:13:20,980 --> 00:13:23,987
+Two tunnels dug from two countries,
+
+361
+00:13:23,987 --> 00:13:25,190
+under the sea,
+
+362
+00:13:25,190 --> 00:13:26,994
+met almost perfectly.
+
+363
+00:13:27,344 --> 00:13:29,884
+Why did the Gotthard Base Tunnel in
+
+364
+00:13:29,884 --> 00:13:33,295
+Switzerland need four giant machines working at
+
+365
+00:13:33,295 --> 00:13:34,310
+the same time?
+
+366
+00:13:34,490 --> 00:13:37,737
+Because it is fifty seven kilometers long,
+
+367
+00:13:37,737 --> 00:13:40,829
+the longest railway tunnel in the world.
+
+368
+00:13:41,009 --> 00:13:43,670
+One machine would have taken far too
+
+369
+00:13:43,670 --> 00:13:44,040
+long.
+
+370
+00:13:44,220 --> 00:13:46,785
+So the builders dug access shafts and
+
+371
+00:13:46,785 --> 00:13:48,588
+tunnels into the mountain,
+
+372
+00:13:48,588 --> 00:13:51,638
+and the machines started from several points
+
+373
+00:13:51,638 --> 00:13:54,065
+at once, digging toward each other.
+
+374
+00:13:54,414 --> 00:13:55,493
+Under the Alps,
+
+375
+00:13:55,493 --> 00:13:58,297
+up to two thousand three hundred meters
+
+376
+00:13:58,297 --> 00:14:00,382
+of rock sit above the tunnel.
+
+377
+00:14:00,562 --> 00:14:02,252
+The rock there is hot,
+
+378
+00:14:02,252 --> 00:14:04,557
+sometimes above forty degrees,
+
+379
+00:14:04,557 --> 00:14:06,708
+and it can squeeze in on the
+
+380
+00:14:06,708 --> 00:14:09,397
+tunnel or burst out from the walls.
+
+381
+00:14:09,577 --> 00:14:12,218
+The machines had to dig through granite
+
+382
+00:14:12,218 --> 00:14:14,790
+and gneiss, and some sections were dug
+
+383
+00:14:14,790 --> 00:14:16,415
+with explosives instead.
+
+384
+00:14:16,765 --> 00:14:20,148
+The tunnel opened in two thousand sixteen,
+
+385
+00:14:20,148 --> 00:14:23,209
+after seventeen years of construction.
+
+386
+00:14:23,389 --> 00:14:26,413
+Freight trains now cross the Alps almost
+
+387
+00:14:26,413 --> 00:14:29,589
+flat, without climbing over the mountains.
+
+388
+00:14:29,769 --> 00:14:30,814
+And the machines?
+
+389
+00:14:30,994 --> 00:14:33,717
+They were taken apart and carried out,
+
+390
+00:14:33,717 --> 00:14:34,792
+piece by piece,
+
+391
+00:14:34,792 --> 00:14:36,799
+to dig again somewhere else.
+
+392
+00:14:37,148 --> 00:14:39,296
+So here are the eleven.
+
+393
+00:14:39,476 --> 00:14:41,914
+A machine that cannot reverse,
+
+394
+00:14:41,914 --> 00:14:44,027
+so it is sometimes buried.
+
+395
+00:14:44,207 --> 00:14:46,800
+Steel discs that let the rock break
+
+396
+00:14:46,800 --> 00:14:47,319
+itself.
+
+397
+00:14:47,499 --> 00:14:50,660
+Concrete puzzle pieces locked by a key,
+
+398
+00:14:50,660 --> 00:14:53,173
+jacks that push off the tunnel,
+
+399
+00:14:53,173 --> 00:14:55,766
+and grout that holds up the city
+
+400
+00:14:55,766 --> 00:14:56,253
+above.
+
+401
+00:14:56,433 --> 00:14:59,288
+A chamber of mud that balances the
+
+402
+00:14:59,288 --> 00:15:02,479
+ground, a train of trailers behind the
+
+403
+00:15:02,479 --> 00:15:05,670
+cutter, a bearing that stopped Bertha,
+
+404
+00:15:05,670 --> 00:15:07,266
+a name and a saint,
+
+405
+00:15:07,266 --> 00:15:08,946
+a laser that steers,
+
+406
+00:15:08,946 --> 00:15:11,549
+and four giants under the Alps.
+
+407
+00:15:11,898 --> 00:15:14,134
+Next time you ride a subway or
+
+408
+00:15:14,134 --> 00:15:15,847
+drive through a tunnel,
+
+409
+00:15:15,847 --> 00:15:18,753
+remember that a machine like this built
+
+410
+00:15:18,753 --> 00:15:20,019
+it, ring by ring,
+
+411
+00:15:20,019 --> 00:15:22,255
+and might still be down there.
+
+412
+00:15:22,435 --> 00:15:25,400
+If you want more machines explained part
+
+413
+00:15:25,400 --> 00:15:28,216
+by part, subscribe to Machine Reverse.
+
+414
+00:15:28,396 --> 00:15:30,425
+And tell us in the comments which
+
+415
+00:15:30,425 --> 00:15:32,454
+machine you want us to take apart
+
+416
+00:15:32,454 --> 00:15:32,762
+next.
