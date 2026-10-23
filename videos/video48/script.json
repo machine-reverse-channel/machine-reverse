@@ -210,7 +210,7 @@
    "caption": "WHY IS THERE A GAP HERE?",
    "arrow": {
     "x": 0.45,
-    "y": 0.15
+    "y": 0.3
    },
    "chapter": "9. The gap",
    "short": "Why Do Subways Say Mind the Gap?",
@@ -252,7 +252,7 @@
    "caption": "WHY IS THERE A WIND IN THE SUBWAY?",
    "arrow": {
     "x": 0.47,
-    "y": 0.6
+    "y": 0.45
    },
    "chapter": "11. The vent shaft",
    "short": "Why Is There Always Wind in the Subway?",

@@ -138,8 +138,8 @@ PICKS = {
     6: ("File:Tactile Ground Surface Indicators at Corinda railway station along platform edge.jpg", 0.45, 0.6),
     7: ("File:Gummibereifung der metro.JPG", 0.42, 0.55),
     8: ("File:Southgate station southbound look north tunnel.JPG", 0.52, 0.45),
-    9: ("File:Bournemouth (9453245033).jpg", 0.45, 0.15),
-    11: ("File:Novatorskaya - south-east ventilation shaft 2.jpg", 0.47, 0.6),
+    9: ("File:Bournemouth (9453245033).jpg", 0.45, 0.3),
+    11: ("File:Novatorskaya - south-east ventilation shaft 2.jpg", 0.47, 0.45),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
