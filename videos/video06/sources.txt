@@ -1,0 +1,7 @@
+- Japan Air Lines food poisoning (3 Feb 1975, 144 sick, crew ate steak, different-cook recommendation): Wikipedia, "Japan Air Lines food poisoning incident" https://en.wikipedia.org/wiki/Japan_Air_Lines_food_poisoning_incident
+- Sterile cockpit rule (FAA 1981, Eastern 212, below 10,000 ft): Wikipedia, "Sterile flight deck rule" https://en.wikipedia.org/wiki/Sterile_flight_deck_rule
+- Flight crew mask on with one hand within five seconds: 14 CFR 25.1447(c)(2) https://www.law.cornell.edu/cfr/text/14/25.1447
+- Oxygen use by pilots at high altitude: 14 CFR 121.333 https://www.law.cornell.edu/cfr/text/14/121.333
+- Crash axe on airplanes with more than 19 passenger seats: Gulf News, "Why aircraft carry crash axes" https://gulfnews.com/business/aviation/why-aircraft-carry-crash-axes-cockpit-equipment-explained-after-flydubai-flight-fz1073-incident-1.500697686
+- Bird strike standards (windshield 4 lb at VC, empennage 8 lb): Federal Register 2015-17404 https://regulations.justia.com/regulations/fedreg/2015/07/20/2015-17404.html
+- 25-hour cockpit voice recorder standard: AVweb https://avweb.com/aviation-news/faa-25-hour-cockpit-voice-recorder-rule
