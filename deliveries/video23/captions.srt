@@ -1,0 +1,1575 @@
+1
+00:00:00,000 --> 00:00:02,470
+In less time than it takes you
+
+2
+00:00:02,470 --> 00:00:04,282
+to read this sentence,
+
+3
+00:00:04,282 --> 00:00:06,671
+a Formula One team can lift a
+
+4
+00:00:06,671 --> 00:00:09,554
+car, change all four tyres and send
+
+5
+00:00:09,554 --> 00:00:11,366
+it back into the race.
+
+6
+00:00:11,546 --> 00:00:14,437
+The record is one point eight seconds.
+
+7
+00:00:14,617 --> 00:00:15,696
+That is not luck.
+
+8
+00:00:15,876 --> 00:00:17,942
+Every tool in the pit box was
+
+9
+00:00:17,942 --> 00:00:19,723
+designed for that number,
+
+10
+00:00:19,723 --> 00:00:21,647
+from a gun that spins a nut
+
+11
+00:00:21,647 --> 00:00:23,713
+in a blink to the lights that
+
+12
+00:00:23,713 --> 00:00:25,280
+tell the driver to go.
+
+13
+00:00:25,460 --> 00:00:28,671
+Today, ten parts of the F1 pit
+
+14
+00:00:28,671 --> 00:00:31,881
+stop, and why each one exists.
+
+15
+00:00:32,231 --> 00:00:34,498
+A pit stop is the only moment
+
+16
+00:00:34,498 --> 00:00:36,765
+in a race when the car stands
+
+17
+00:00:36,765 --> 00:00:39,423
+still, and every tenth of a second
+
+18
+00:00:39,423 --> 00:00:41,925
+lost there is lost on the track.
+
+19
+00:00:42,105 --> 00:00:44,093
+Gain one second in the pits,
+
+20
+00:00:44,093 --> 00:00:46,508
+and you might jump a rival without
+
+21
+00:00:46,508 --> 00:00:47,573
+overtaking him.
+
+22
+00:00:47,753 --> 00:00:50,288
+So teams treat the stop like a
+
+23
+00:00:50,288 --> 00:00:52,232
+sport inside the sport,
+
+24
+00:00:52,232 --> 00:00:56,372
+with athletes, training and equipment that exists
+
+25
+00:00:56,372 --> 00:00:57,471
+nowhere else.
+
+26
+00:00:57,821 --> 00:01:00,950
+As always, every fact here comes from
+
+27
+00:01:00,950 --> 00:01:02,218
+a named source,
+
+28
+00:01:02,218 --> 00:01:03,995
+the FIA, Formula One,
+
+29
+00:01:03,995 --> 00:01:06,870
+Pirelli and motorsport references,
+
+30
+00:01:06,870 --> 00:01:09,407
+all listed in the description.
+
+31
+00:01:09,587 --> 00:01:11,916
+Let's start with the loudest tool in
+
+32
+00:01:11,916 --> 00:01:12,757
+the pit lane.
+
+33
+00:01:13,107 --> 00:01:15,714
+Why can an F1 pit stop take
+
+34
+00:01:15,714 --> 00:01:17,356
+only two seconds?
+
+35
+00:01:17,536 --> 00:01:19,324
+Start with the wheel gun.
+
+36
+00:01:19,504 --> 00:01:21,792
+It is a powerful air tool driven
+
+37
+00:01:21,792 --> 00:01:23,293
+by high pressure gas,
+
+38
+00:01:23,293 --> 00:01:26,725
+spinning at thousands of revolutions per minute.
+
+39
+00:01:26,905 --> 00:01:29,173
+It removes the wheel nut in a
+
+40
+00:01:29,173 --> 00:01:30,815
+fraction of a second,
+
+41
+00:01:30,815 --> 00:01:33,318
+and tightens the new one just as
+
+42
+00:01:33,318 --> 00:01:33,709
+fast.
+
+43
+00:01:33,889 --> 00:01:36,102
+The gunner presses the trigger,
+
+44
+00:01:36,102 --> 00:01:38,173
+and a switch on the gun tells
+
+45
+00:01:38,173 --> 00:01:40,529
+the system when the nut is tight.
+
+46
+00:01:40,880 --> 00:01:43,026
+Each gun is a precision tool,
+
+47
+00:01:43,026 --> 00:01:45,247
+built specially for the teams,
+
+48
+00:01:45,247 --> 00:01:47,542
+and every corner of the car has
+
+49
+00:01:47,542 --> 00:01:48,356
+its gunner.
+
+50
+00:01:48,536 --> 00:01:50,803
+They hold the gun against the nut
+
+51
+00:01:50,803 --> 00:01:53,413
+before the car has even fully stopped.
+
+52
+00:01:53,593 --> 00:01:57,507
+The gun switches direction automatically between loosening
+
+53
+00:01:57,507 --> 00:02:00,140
+and tightening, so the gunner never has
+
+54
+00:02:00,140 --> 00:02:01,557
+to look for a button.
+
+55
+00:02:01,737 --> 00:02:03,773
+The whole job of the gunner is
+
+56
+00:02:03,773 --> 00:02:05,742
+about two tenths of a second,
+
+57
+00:02:05,742 --> 00:02:07,031
+repeated perfectly.
+
+58
+00:02:07,382 --> 00:02:09,126
+When something goes wrong,
+
+59
+00:02:09,126 --> 00:02:10,400
+it is usually here.
+
+60
+00:02:10,580 --> 00:02:13,042
+A nut that does not engage,
+
+61
+00:02:13,042 --> 00:02:15,230
+a cross threaded thread,
+
+62
+00:02:15,230 --> 00:02:16,780
+a gun that fails.
+
+63
+00:02:16,960 --> 00:02:19,653
+Then the stop goes from two seconds
+
+64
+00:02:19,653 --> 00:02:21,730
+to ten, and the race can be
+
+65
+00:02:21,730 --> 00:02:22,115
+lost.
+
+66
+00:02:22,295 --> 00:02:24,146
+That is why every crew has a
+
+67
+00:02:24,146 --> 00:02:26,196
+spare gun ready at each corner,
+
+68
+00:02:26,196 --> 00:02:28,840
+and why the gunners practise hundreds of
+
+69
+00:02:28,840 --> 00:02:30,097
+stops every season.
+
+70
+00:02:30,447 --> 00:02:33,369
+Why does an F1 wheel have only
+
+71
+00:02:33,369 --> 00:02:36,389
+one nut, when your car has four
+
+72
+00:02:36,389 --> 00:02:37,169
+or five?
+
+73
+00:02:37,349 --> 00:02:40,487
+Because removing five nuts would take five
+
+74
+00:02:40,487 --> 00:02:41,459
+times longer.
+
+75
+00:02:41,639 --> 00:02:44,331
+Racing cars use a centre lock wheel,
+
+76
+00:02:44,331 --> 00:02:46,949
+one large nut in the middle holding
+
+77
+00:02:46,949 --> 00:02:49,267
+the whole wheel onto a hub with
+
+78
+00:02:49,267 --> 00:02:51,287
+pins that carry the torque.
+
+79
+00:02:51,467 --> 00:02:54,172
+One nut means one movement of the
+
+80
+00:02:54,172 --> 00:02:55,484
+gun, on and off.
+
+81
+00:02:55,834 --> 00:02:58,097
+The nut stays inside the wheel.
+
+82
+00:02:58,277 --> 00:02:59,736
+It is a captive nut,
+
+83
+00:02:59,736 --> 00:03:01,779
+so it does not fall onto the
+
+84
+00:03:01,779 --> 00:03:04,040
+floor when the wheel comes off,
+
+85
+00:03:04,040 --> 00:03:06,520
+and the new wheel arrives with its
+
+86
+00:03:06,520 --> 00:03:08,343
+own nut already in place.
+
+87
+00:03:08,523 --> 00:03:10,714
+There is also a safety latch that
+
+88
+00:03:10,714 --> 00:03:12,440
+holds the nut if it is not
+
+89
+00:03:12,440 --> 00:03:13,237
+fully tight.
+
+90
+00:03:13,417 --> 00:03:16,327
+A lost wheel at three hundred kilometres
+
+91
+00:03:16,327 --> 00:03:18,291
+per hour is one of the most
+
+92
+00:03:18,291 --> 00:03:20,545
+dangerous things in motorsport.
+
+93
+00:03:20,896 --> 00:03:23,580
+That danger is also why the wheels
+
+94
+00:03:23,580 --> 00:03:26,027
+are tied to the car with strong
+
+95
+00:03:26,027 --> 00:03:28,632
+tethers, made of the same type of
+
+96
+00:03:28,632 --> 00:03:31,159
+fibre used in bulletproof vests.
+
+97
+00:03:31,339 --> 00:03:33,908
+If a crash breaks the suspension,
+
+98
+00:03:33,908 --> 00:03:36,867
+the tethers keep the wheel from flying
+
+99
+00:03:36,867 --> 00:03:39,826
+into the crowd or into another driver.
+
+100
+00:03:40,006 --> 00:03:42,014
+The one nut is the speed.
+
+101
+00:03:42,194 --> 00:03:44,718
+The tethers are the safety net behind
+
+102
+00:03:44,718 --> 00:03:44,922
+it.
+
+103
+00:03:45,273 --> 00:03:47,541
+Why does the front jack of an
+
+104
+00:03:47,541 --> 00:03:49,731
+F1 pit crew look so strange?
+
+105
+00:03:49,911 --> 00:03:53,233
+The car arrives at around eighty kilometres
+
+106
+00:03:53,233 --> 00:03:55,396
+per hour in the pit lane and
+
+107
+00:03:55,396 --> 00:03:57,868
+stops right in front of the jack
+
+108
+00:03:57,868 --> 00:03:58,177
+man.
+
+109
+00:03:58,357 --> 00:04:00,805
+He slides the jack under the nose,
+
+110
+00:04:00,805 --> 00:04:03,181
+and pulls the long handle down to
+
+111
+00:04:03,181 --> 00:04:05,197
+lift the front of the car in
+
+112
+00:04:05,197 --> 00:04:05,845
+one move.
+
+113
+00:04:06,025 --> 00:04:08,479
+Then the front of the jack swivels,
+
+114
+00:04:08,479 --> 00:04:10,301
+so he can step to the side
+
+115
+00:04:10,301 --> 00:04:11,703
+when the car leaves.
+
+116
+00:04:12,053 --> 00:04:15,045
+The jack man is the bravest person
+
+117
+00:04:15,045 --> 00:04:16,453
+in the pit crew.
+
+118
+00:04:16,633 --> 00:04:18,969
+He stands directly in front of a
+
+119
+00:04:18,969 --> 00:04:21,305
+car that is braking towards him,
+
+120
+00:04:21,305 --> 00:04:23,788
+trusting the driver to stop on his
+
+121
+00:04:23,788 --> 00:04:24,226
+marks.
+
+122
+00:04:24,406 --> 00:04:26,374
+The jack is shaped to fit a
+
+123
+00:04:26,374 --> 00:04:28,341
+specific point on the nose,
+
+124
+00:04:28,341 --> 00:04:29,653
+so it cannot slip.
+
+125
+00:04:29,833 --> 00:04:31,615
+At the back of the car,
+
+126
+00:04:31,615 --> 00:04:34,327
+another jack man does the same with
+
+127
+00:04:34,327 --> 00:04:35,257
+a rear jack,
+
+128
+00:04:35,257 --> 00:04:37,426
+lifting the car from behind.
+
+129
+00:04:37,777 --> 00:04:41,012
+Teams have also built quick release systems
+
+130
+00:04:41,012 --> 00:04:42,140
+into the jacks,
+
+131
+00:04:42,140 --> 00:04:44,247
+so that the car drops to the
+
+132
+00:04:44,247 --> 00:04:46,955
+ground the instant the last wheel is
+
+133
+00:04:46,955 --> 00:04:47,181
+on.
+
+134
+00:04:47,361 --> 00:04:50,303
+Some even have a spare jack waiting
+
+135
+00:04:50,303 --> 00:04:51,311
+at the side,
+
+136
+00:04:51,311 --> 00:04:53,665
+in case the first one fails.
+
+137
+00:04:53,845 --> 00:04:56,274
+Two seconds leaves no time to fix
+
+138
+00:04:56,274 --> 00:04:57,305
+a broken tool.
+
+139
+00:04:57,485 --> 00:04:59,563
+You simply grab the next one.
+
+140
+00:04:59,913 --> 00:05:02,697
+Why are F1 tyres wrapped in blankets
+
+141
+00:05:02,697 --> 00:05:04,707
+before they go on the car?
+
+142
+00:05:04,887 --> 00:05:08,169
+Because cold racing tyres have almost no
+
+143
+00:05:08,169 --> 00:05:08,579
+grip.
+
+144
+00:05:08,759 --> 00:05:11,358
+These are electric heating blankets,
+
+145
+00:05:11,358 --> 00:05:13,740
+and they warm the tyres for hours
+
+146
+00:05:13,740 --> 00:05:15,400
+before they are fitted.
+
+147
+00:05:15,580 --> 00:05:18,470
+A Formula One tyre only works in
+
+148
+00:05:18,470 --> 00:05:21,269
+a narrow window of temperature.
+
+149
+00:05:21,449 --> 00:05:23,934
+Cold, it slides like plastic.
+
+150
+00:05:24,114 --> 00:05:27,474
+Warm, the rubber becomes sticky and grips
+
+151
+00:05:27,474 --> 00:05:28,293
+the track.
+
+152
+00:05:28,644 --> 00:05:31,790
+For years, teams heated tyres to around
+
+153
+00:05:31,790 --> 00:05:33,404
+one hundred degrees.
+
+154
+00:05:33,584 --> 00:05:36,731
+Pirelli and the FIA have been reducing
+
+155
+00:05:36,731 --> 00:05:39,879
+that limit, to around seventy degrees,
+
+156
+00:05:39,879 --> 00:05:42,778
+to save energy and push tyre design
+
+157
+00:05:42,778 --> 00:05:43,440
+forward.
+
+158
+00:05:43,620 --> 00:05:46,523
+The blankets come off seconds before the
+
+159
+00:05:46,523 --> 00:05:48,918
+car arrives, so the heat stays in
+
+160
+00:05:48,918 --> 00:05:49,716
+the rubber.
+
+161
+00:05:49,896 --> 00:05:52,305
+The driver leaves the pits with tyres
+
+162
+00:05:52,305 --> 00:05:54,193
+that are ready to grip in the
+
+163
+00:05:54,193 --> 00:05:55,039
+first corner.
+
+164
+00:05:55,389 --> 00:05:58,689
+Without blankets, the first lap after a
+
+165
+00:05:58,689 --> 00:06:01,481
+stop would be slow and dangerous,
+
+166
+00:06:01,481 --> 00:06:03,597
+especially on a cold day.
+
+167
+00:06:03,777 --> 00:06:06,578
+In other series that ban blankets,
+
+168
+00:06:06,578 --> 00:06:09,543
+drivers often slide off the track on
+
+169
+00:06:09,543 --> 00:06:10,696
+their out lap.
+
+170
+00:06:10,876 --> 00:06:13,213
+That is why you see drivers weaving
+
+171
+00:06:13,213 --> 00:06:15,683
+left and right behind the safety car.
+
+172
+00:06:15,863 --> 00:06:18,077
+They are trying to put heat into
+
+173
+00:06:18,077 --> 00:06:20,430
+the tyres when there is no blanket
+
+174
+00:06:20,430 --> 00:06:21,053
+to do it.
+
+175
+00:06:21,403 --> 00:06:23,818
+Why do F1 tyres have red,
+
+176
+00:06:23,818 --> 00:06:27,393
+yellow or white markings on the side?
+
+177
+00:06:27,573 --> 00:06:30,139
+They tell everyone which rubber the car
+
+178
+00:06:30,139 --> 00:06:30,731
+is using.
+
+179
+00:06:30,911 --> 00:06:34,551
+Pirelli brings three dry compounds to every
+
+180
+00:06:34,551 --> 00:06:34,975
+race.
+
+181
+00:06:35,155 --> 00:06:36,339
+Red is the soft,
+
+182
+00:06:36,339 --> 00:06:39,003
+the fastest but the quickest to wear
+
+183
+00:06:39,003 --> 00:06:39,299
+out.
+
+184
+00:06:39,479 --> 00:06:41,233
+Yellow is the medium.
+
+185
+00:06:41,413 --> 00:06:42,973
+White is the hard,
+
+186
+00:06:42,973 --> 00:06:45,314
+slower but longest lasting.
+
+187
+00:06:45,494 --> 00:06:47,457
+For rain there are two more,
+
+188
+00:06:47,457 --> 00:06:50,333
+green for intermediates and blue for full
+
+189
+00:06:50,333 --> 00:06:50,683
+wets.
+
+190
+00:06:51,034 --> 00:06:53,223
+The colours are there for the fans
+
+191
+00:06:53,223 --> 00:06:54,447
+and for the rivals.
+
+192
+00:06:54,627 --> 00:06:55,868
+Under the rules,
+
+193
+00:06:55,868 --> 00:06:58,194
+each car must use at least two
+
+194
+00:06:58,194 --> 00:07:01,140
+different dry compounds in a dry race.
+
+195
+00:07:01,320 --> 00:07:04,277
+So every team watches the colours on
+
+196
+00:07:04,277 --> 00:07:07,891
+its rivals' cars and guesses their strategy.
+
+197
+00:07:08,071 --> 00:07:10,835
+A car on red tyres will stop
+
+198
+00:07:10,835 --> 00:07:11,624
+earlier.
+
+199
+00:07:11,804 --> 00:07:14,022
+A car on white will go longer
+
+200
+00:07:14,022 --> 00:07:15,705
+and attack at the end.
+
+201
+00:07:16,055 --> 00:07:18,968
+That rule is the hidden reason pit
+
+202
+00:07:18,968 --> 00:07:22,053
+stops exist at all in modern Formula
+
+203
+00:07:22,053 --> 00:07:25,052
+One, now that refuelling is banned.
+
+204
+00:07:25,232 --> 00:07:27,849
+The car could perhaps finish on one
+
+205
+00:07:27,849 --> 00:07:29,195
+set of hard tyres,
+
+206
+00:07:29,195 --> 00:07:31,363
+but the rules make it stop at
+
+207
+00:07:31,363 --> 00:07:33,232
+least once in a dry race.
+
+208
+00:07:33,412 --> 00:07:36,230
+So the stop is not only about
+
+209
+00:07:36,230 --> 00:07:36,813
+tyres.
+
+210
+00:07:36,993 --> 00:07:38,249
+It is a chess move,
+
+211
+00:07:38,249 --> 00:07:40,431
+and the colours are the pieces on
+
+212
+00:07:40,431 --> 00:07:41,092
+the board.
+
+213
+00:07:41,442 --> 00:07:44,236
+Why do F1 cars drive so slowly
+
+214
+00:07:44,236 --> 00:07:45,726
+in the pit lane?
+
+215
+00:07:45,906 --> 00:07:47,700
+There is a speed limit,
+
+216
+00:07:47,700 --> 00:07:50,430
+usually eighty kilometres per hour,
+
+217
+00:07:50,430 --> 00:07:52,848
+and lower on some tight tracks.
+
+218
+00:07:53,028 --> 00:07:55,605
+Mechanics are standing in the lane,
+
+219
+00:07:55,605 --> 00:07:58,256
+with no barrier between them and the
+
+220
+00:07:58,256 --> 00:07:58,624
+cars.
+
+221
+00:07:58,804 --> 00:08:01,453
+At the white line at the entrance,
+
+222
+00:08:01,453 --> 00:08:04,102
+the driver presses a button on the
+
+223
+00:08:04,102 --> 00:08:07,140
+steering wheel, and a limiter holds the
+
+224
+00:08:07,140 --> 00:08:09,555
+car exactly at the speed limit.
+
+225
+00:08:09,906 --> 00:08:12,725
+The limit is checked electronically,
+
+226
+00:08:12,725 --> 00:08:15,622
+and going even one kilometre per hour
+
+227
+00:08:15,622 --> 00:08:17,580
+too fast earns a penalty.
+
+228
+00:08:17,760 --> 00:08:20,198
+That is why drivers brake very late
+
+229
+00:08:20,198 --> 00:08:23,124
+before the line and accelerate the instant
+
+230
+00:08:23,124 --> 00:08:24,865
+they cross the exit line.
+
+231
+00:08:25,045 --> 00:08:27,261
+Every metre of the pit lane is
+
+232
+00:08:27,261 --> 00:08:27,704
+timed.
+
+233
+00:08:27,884 --> 00:08:30,542
+Some tracks have long pit lanes,
+
+234
+00:08:30,542 --> 00:08:33,366
+and a stop there costs twenty five
+
+235
+00:08:33,366 --> 00:08:35,442
+seconds or more in total,
+
+236
+00:08:35,442 --> 00:08:38,100
+even if the tyres change in two.
+
+237
+00:08:38,451 --> 00:08:41,543
+Speed limits in the pit lane exist
+
+238
+00:08:41,543 --> 00:08:43,907
+because of real accidents.
+
+239
+00:08:44,087 --> 00:08:45,017
+In the past,
+
+240
+00:08:45,017 --> 00:08:47,731
+cars entered at full speed and crew
+
+241
+00:08:47,731 --> 00:08:49,126
+members were hurt.
+
+242
+00:08:49,306 --> 00:08:51,356
+Today the pit lane is one of
+
+243
+00:08:51,356 --> 00:08:53,773
+the safest places on the circuit,
+
+244
+00:08:53,773 --> 00:08:55,970
+and the limiter is the reason.
+
+245
+00:08:56,150 --> 00:08:59,695
+A machine built for three hundred kilometres
+
+246
+00:08:59,695 --> 00:09:02,515
+per hour, crawling past people at a
+
+247
+00:09:02,515 --> 00:09:04,207
+fixed speed, by rule.
+
+248
+00:09:04,558 --> 00:09:06,900
+Why is there a traffic light hanging
+
+249
+00:09:06,900 --> 00:09:08,006
+over the pit box?
+
+250
+00:09:08,186 --> 00:09:10,194
+It tells the driver when to go.
+
+251
+00:09:10,374 --> 00:09:13,264
+Each wheel crew presses a button when
+
+252
+00:09:13,264 --> 00:09:14,670
+its wheel is done.
+
+253
+00:09:14,850 --> 00:09:17,430
+When all four signals are in and
+
+254
+00:09:17,430 --> 00:09:18,881
+the lane is clear,
+
+255
+00:09:18,881 --> 00:09:20,655
+the light turns green.
+
+256
+00:09:20,835 --> 00:09:22,425
+Before these systems,
+
+257
+00:09:22,425 --> 00:09:24,091
+a man held a sign on a
+
+258
+00:09:24,091 --> 00:09:26,287
+stick in front of the driver,
+
+259
+00:09:26,287 --> 00:09:27,802
+called the lollipop,
+
+260
+00:09:27,802 --> 00:09:30,150
+and lifted it when the stop was
+
+261
+00:09:30,150 --> 00:09:30,831
+finished.
+
+262
+00:09:31,180 --> 00:09:34,564
+Lights are faster than any human reaction,
+
+263
+00:09:34,564 --> 00:09:37,705
+and every hundredth of a second counts.
+
+264
+00:09:37,885 --> 00:09:39,720
+But they made a famous mistake.
+
+265
+00:09:39,900 --> 00:09:42,503
+At the Singapore Grand Prix of two
+
+266
+00:09:42,503 --> 00:09:46,025
+thousand eight, Felipe Massa's Ferrari got the
+
+267
+00:09:46,025 --> 00:09:48,476
+signal to go while the fuel hose
+
+268
+00:09:48,476 --> 00:09:49,931
+was still attached.
+
+269
+00:09:50,111 --> 00:09:52,746
+He drove off dragging the hose down
+
+270
+00:09:52,746 --> 00:09:53,725
+the pit lane,
+
+271
+00:09:53,725 --> 00:09:55,533
+and his race was ruined.
+
+272
+00:09:55,882 --> 00:09:58,518
+Releasing a car into the path of
+
+273
+00:09:58,518 --> 00:10:01,812
+another one is called an unsafe release,
+
+274
+00:10:01,812 --> 00:10:03,789
+and it brings a penalty.
+
+275
+00:10:03,969 --> 00:10:06,596
+Some teams have a person who watches
+
+276
+00:10:06,596 --> 00:10:09,077
+the lane and can stop the release.
+
+277
+00:10:09,257 --> 00:10:11,114
+The traffic light is fast,
+
+278
+00:10:11,114 --> 00:10:14,113
+but the final decision often still depends
+
+279
+00:10:14,113 --> 00:10:16,399
+on one person looking at the pit
+
+280
+00:10:16,399 --> 00:10:19,184
+lane, ready to keep the driver waiting.
+
+281
+00:10:19,534 --> 00:10:22,124
+Why don't F1 cars refuel during the
+
+282
+00:10:22,124 --> 00:10:23,086
+race anymore?
+
+283
+00:10:23,266 --> 00:10:25,902
+Refuelling was banned from twenty ten.
+
+284
+00:10:26,082 --> 00:10:29,805
+Before that, from nineteen ninety-four to two
+
+285
+00:10:29,805 --> 00:10:33,198
+thousand nine, pit stops included a giant
+
+286
+00:10:33,198 --> 00:10:36,756
+fuel hose, pushing around twelve litres per
+
+287
+00:10:36,756 --> 00:10:38,411
+second into the car.
+
+288
+00:10:38,591 --> 00:10:41,424
+A stop took seven or eight seconds,
+
+289
+00:10:41,424 --> 00:10:44,176
+and the fuel decided the strategy.
+
+290
+00:10:44,526 --> 00:10:45,814
+It was dangerous.
+
+291
+00:10:45,994 --> 00:10:47,892
+In nineteen ninety-four,
+
+292
+00:10:47,892 --> 00:10:51,768
+at Hockenheim, fuel sprayed over Jos Verstappen's
+
+293
+00:10:51,768 --> 00:10:54,853
+Benetton during a stop and caught fire.
+
+294
+00:10:55,033 --> 00:10:57,491
+The car and crew were engulfed in
+
+295
+00:10:57,491 --> 00:10:59,502
+flames for several seconds.
+
+296
+00:10:59,682 --> 00:11:01,145
+The crew survived,
+
+297
+00:11:01,145 --> 00:11:02,527
+with minor burns.
+
+298
+00:11:02,707 --> 00:11:05,680
+There were other fires over the years,
+
+299
+00:11:05,680 --> 00:11:08,184
+and hoses that stayed connected,
+
+300
+00:11:08,184 --> 00:11:10,219
+like Massa's in Singapore.
+
+301
+00:11:10,569 --> 00:11:13,543
+The ban was also about cost and
+
+302
+00:11:13,543 --> 00:11:14,214
+racing.
+
+303
+00:11:14,394 --> 00:11:18,369
+Carrying heavy equipment around the world was
+
+304
+00:11:18,369 --> 00:11:22,344
+expensive, and many overtakes happened in the
+
+305
+00:11:22,344 --> 00:11:24,553
+pits instead of on track.
+
+306
+00:11:24,733 --> 00:11:27,461
+Today, F1 cars start the race with
+
+307
+00:11:27,461 --> 00:11:29,868
+all the fuel they need for the
+
+308
+00:11:29,868 --> 00:11:31,072
+whole distance.
+
+309
+00:11:31,252 --> 00:11:34,521
+That is why tyre changes became so
+
+310
+00:11:34,521 --> 00:11:35,002
+fast.
+
+311
+00:11:35,182 --> 00:11:37,540
+There is nothing else left to wait
+
+312
+00:11:37,540 --> 00:11:37,817
+for.
+
+313
+00:11:38,168 --> 00:11:40,346
+Why does one F1 pit stop need
+
+314
+00:11:40,346 --> 00:11:41,848
+about twenty people?
+
+315
+00:11:42,028 --> 00:11:45,316
+Because each person does only one tiny
+
+316
+00:11:45,316 --> 00:11:45,662
+job.
+
+317
+00:11:45,842 --> 00:11:48,182
+At each wheel there are three,
+
+318
+00:11:48,182 --> 00:11:50,445
+a gunner, one to pull the old
+
+319
+00:11:50,445 --> 00:11:52,629
+wheel off and one to put the
+
+320
+00:11:52,629 --> 00:11:53,644
+new wheel on.
+
+321
+00:11:53,824 --> 00:11:55,256
+Then two jack men,
+
+322
+00:11:55,256 --> 00:11:57,644
+people holding the car steady,
+
+323
+00:11:57,644 --> 00:11:59,793
+someone for the front wing,
+
+324
+00:11:59,793 --> 00:12:02,659
+and the person watching the release.
+
+325
+00:12:02,839 --> 00:12:04,801
+Nobody does two things.
+
+326
+00:12:05,151 --> 00:12:07,231
+Most of them are not full time
+
+327
+00:12:07,231 --> 00:12:07,856
+pit crew.
+
+328
+00:12:08,036 --> 00:12:10,737
+They are mechanics who build and fix
+
+329
+00:12:10,737 --> 00:12:12,237
+the car all weekend,
+
+330
+00:12:12,237 --> 00:12:14,788
+and switch to their pit stop roles
+
+331
+00:12:14,788 --> 00:12:15,988
+during the race.
+
+332
+00:12:16,168 --> 00:12:18,172
+They train like athletes,
+
+333
+00:12:18,172 --> 00:12:21,859
+with fitness programs and hundreds of practice
+
+334
+00:12:21,859 --> 00:12:23,542
+stops at the factory,
+
+335
+00:12:23,542 --> 00:12:26,107
+measured with sensors and video.
+
+336
+00:12:26,287 --> 00:12:28,568
+A tenth of a second is found
+
+337
+00:12:28,568 --> 00:12:30,687
+in the position of a foot.
+
+338
+00:12:31,037 --> 00:12:34,197
+The fastest stop ever recorded in Formula
+
+339
+00:12:34,197 --> 00:12:36,664
+One was one point eight seconds,
+
+340
+00:12:36,664 --> 00:12:39,284
+by McLaren for Lando Norris at the
+
+341
+00:12:39,284 --> 00:12:42,368
+Qatar Grand Prix of twenty twenty-three.
+
+342
+00:12:42,548 --> 00:12:45,328
+Before that, Red Bull held the record
+
+343
+00:12:45,328 --> 00:12:47,807
+with one point eight two seconds.
+
+344
+00:12:47,987 --> 00:12:49,798
+These are not lucky stops.
+
+345
+00:12:49,978 --> 00:12:52,457
+They are the result of twenty people
+
+346
+00:12:52,457 --> 00:12:53,972
+moving as one machine.
+
+347
+00:12:54,322 --> 00:12:56,888
+Why do F1 teams still hold out
+
+348
+00:12:56,888 --> 00:12:59,367
+a sign board on the pit wall,
+
+349
+00:12:59,367 --> 00:13:01,590
+when drivers have a radio?
+
+350
+00:13:01,770 --> 00:13:03,698
+Because radios fail.
+
+351
+00:13:03,878 --> 00:13:06,372
+The pit board shows the driver his
+
+352
+00:13:06,372 --> 00:13:09,014
+position, the gap to the cars around
+
+353
+00:13:09,014 --> 00:13:10,995
+him and the laps remaining.
+
+354
+00:13:11,175 --> 00:13:13,977
+It is the oldest communication tool in
+
+355
+00:13:13,977 --> 00:13:17,001
+racing, and it works when everything else
+
+356
+00:13:17,001 --> 00:13:17,664
+does not.
+
+357
+00:13:18,015 --> 00:13:21,672
+Radio problems are common in Formula One.
+
+358
+00:13:21,852 --> 00:13:24,307
+Interference, broken connectors,
+
+359
+00:13:24,307 --> 00:13:26,916
+or simply a driver who cannot hear
+
+360
+00:13:26,916 --> 00:13:28,144
+over the engine.
+
+361
+00:13:28,324 --> 00:13:29,594
+When that happens,
+
+362
+00:13:29,594 --> 00:13:31,640
+the pit board is the only way
+
+363
+00:13:31,640 --> 00:13:33,474
+to tell him to come in for
+
+364
+00:13:33,474 --> 00:13:33,897
+tyres.
+
+365
+00:13:34,247 --> 00:13:36,294
+Think about it the next time you
+
+366
+00:13:36,294 --> 00:13:36,998
+see a stop.
+
+367
+00:13:37,178 --> 00:13:39,883
+A board from the nineteen fifties,
+
+368
+00:13:39,883 --> 00:13:43,304
+a gun spinning at thousands of revolutions,
+
+369
+00:13:43,304 --> 00:13:47,361
+electric blankets, traffic lights and twenty people
+
+370
+00:13:47,361 --> 00:13:48,475
+moving as one.
+
+371
+00:13:48,655 --> 00:13:51,093
+A two second pit stop is the
+
+372
+00:13:51,093 --> 00:13:54,227
+most practised two seconds in all of
+
+373
+00:13:54,227 --> 00:13:54,750
+sport.
+
+374
+00:13:55,100 --> 00:13:56,411
+So here are the ten.
+
+375
+00:13:56,591 --> 00:13:58,871
+A wheel gun that works in a
+
+376
+00:13:58,871 --> 00:13:59,378
+blink.
+
+377
+00:13:59,558 --> 00:14:01,485
+One nut instead of five.
+
+378
+00:14:01,665 --> 00:14:03,813
+A jack that swivels away.
+
+379
+00:14:03,993 --> 00:14:06,319
+Blankets that heat the tyres,
+
+380
+00:14:06,319 --> 00:14:08,806
+colours that show the strategy,
+
+381
+00:14:08,806 --> 00:14:11,935
+a speed limiter that protects the crew,
+
+382
+00:14:11,935 --> 00:14:14,181
+lights that release the car,
+
+383
+00:14:14,181 --> 00:14:16,428
+a fuel hose that was banned,
+
+384
+00:14:16,428 --> 00:14:18,995
+twenty people with one job each,
+
+385
+00:14:18,995 --> 00:14:21,482
+and a board that works when the
+
+386
+00:14:21,482 --> 00:14:22,685
+radio does not.
+
+387
+00:14:23,035 --> 00:14:25,191
+A pit stop looks like chaos,
+
+388
+00:14:25,191 --> 00:14:27,116
+but it is one of the most
+
+389
+00:14:27,116 --> 00:14:29,118
+designed moments in sport.
+
+390
+00:14:29,298 --> 00:14:32,329
+If you want more machines explained part
+
+391
+00:14:32,329 --> 00:14:35,208
+by part, subscribe to Machine Reverse.
+
+392
+00:14:35,388 --> 00:14:37,287
+And tell us in the comments which
+
+393
+00:14:37,287 --> 00:14:39,187
+machine you want us to take apart
+
+394
+00:14:39,187 --> 00:14:39,474
+next.
