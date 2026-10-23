@@ -1,0 +1,1871 @@
+1
+00:00:00,000 --> 00:00:03,485
+The Titanic was the largest moving object
+
+2
+00:00:03,485 --> 00:00:05,270
+ever built by humans.
+
+3
+00:00:05,450 --> 00:00:08,748
+It had sixteen watertight compartments,
+
+4
+00:00:08,748 --> 00:00:12,299
+electric doors that closed with one switch
+
+5
+00:00:12,299 --> 00:00:13,483
+on the bridge,
+
+6
+00:00:13,483 --> 00:00:17,711
+and a reputation for being practically unsinkable.
+
+7
+00:00:17,891 --> 00:00:20,173
+It hit an iceberg at eleven forty
+
+8
+00:00:20,173 --> 00:00:22,455
+at night, and two hours and forty
+
+9
+00:00:22,455 --> 00:00:24,322
+minutes later, it was gone.
+
+10
+00:00:24,502 --> 00:00:26,604
+The hole was not even big.
+
+11
+00:00:26,784 --> 00:00:29,628
+Today, ten parts of the Titanic,
+
+12
+00:00:29,628 --> 00:00:32,382
+and how each one helped a giant
+
+13
+00:00:32,382 --> 00:00:33,982
+ship sink so fast.
+
+14
+00:00:34,333 --> 00:00:38,225
+The Titanic left Southampton on April tenth,
+
+15
+00:00:38,225 --> 00:00:41,675
+nineteen twelve, on its first voyage to
+
+16
+00:00:41,675 --> 00:00:42,471
+New York.
+
+17
+00:00:42,651 --> 00:00:45,671
+It was two hundred sixty-nine meters long,
+
+18
+00:00:45,671 --> 00:00:48,260
+about eight hundred eighty-two feet,
+
+19
+00:00:48,260 --> 00:00:50,921
+and it carried more than two thousand
+
+20
+00:00:50,921 --> 00:00:52,287
+two hundred people.
+
+21
+00:00:52,467 --> 00:00:55,576
+Its builders, Harland and Wolff in Belfast,
+
+22
+00:00:55,576 --> 00:00:58,396
+were among the best shipbuilders in the
+
+23
+00:00:58,396 --> 00:00:58,830
+world.
+
+24
+00:00:59,010 --> 00:01:01,273
+And that is what makes the story
+
+25
+00:01:01,273 --> 00:01:02,051
+so strange.
+
+26
+00:01:02,231 --> 00:01:04,436
+Almost every part we will look at
+
+27
+00:01:04,436 --> 00:01:05,773
+today was well made.
+
+28
+00:01:05,953 --> 00:01:08,294
+The problem was how the parts worked
+
+29
+00:01:08,294 --> 00:01:10,051
+together on one cold night.
+
+30
+00:01:10,400 --> 00:01:13,132
+As always, every fact comes from a
+
+31
+00:01:13,132 --> 00:01:16,908
+named source, the official British and American
+
+32
+00:01:16,908 --> 00:01:21,166
+inquiries, metallurgy studies of steel recovered from
+
+33
+00:01:21,166 --> 00:01:23,977
+the wreck, and maritime historians,
+
+34
+00:01:23,977 --> 00:01:26,387
+all listed in the description.
+
+35
+00:01:26,567 --> 00:01:28,538
+Let's start with the walls that were
+
+36
+00:01:28,538 --> 00:01:29,632
+supposed to save it.
+
+37
+00:01:29,982 --> 00:01:33,307
+Why didn't the Titanic's watertight walls save
+
+38
+00:01:33,307 --> 00:01:33,524
+it?
+
+39
+00:01:33,704 --> 00:01:36,959
+The hull was divided by fifteen steel
+
+40
+00:01:36,959 --> 00:01:38,982
+walls called bulkheads,
+
+41
+00:01:38,982 --> 00:01:41,622
+creating sixteen compartments.
+
+42
+00:01:41,802 --> 00:01:44,177
+The ship could stay afloat with any
+
+43
+00:01:44,177 --> 00:01:45,873
+two compartments flooded,
+
+44
+00:01:45,873 --> 00:01:48,384
+and even with the first four flooded.
+
+45
+00:01:48,564 --> 00:01:51,393
+But the iceberg opened the first five,
+
+46
+00:01:51,393 --> 00:01:52,732
+and maybe a sixth.
+
+47
+00:01:52,912 --> 00:01:54,886
+And here is the fatal detail.
+
+48
+00:01:55,066 --> 00:01:57,276
+The bulkheads did not go all the
+
+49
+00:01:57,276 --> 00:01:57,760
+way up.
+
+50
+00:01:57,940 --> 00:02:00,237
+Most of them stopped at E deck,
+
+51
+00:02:00,237 --> 00:02:02,978
+only a few decks above the waterline.
+
+52
+00:02:03,328 --> 00:02:06,370
+So the compartments were not sealed boxes.
+
+53
+00:02:06,550 --> 00:02:08,310
+They were more like an ice cube
+
+54
+00:02:08,310 --> 00:02:08,594
+tray.
+
+55
+00:02:08,774 --> 00:02:10,876
+As the bow filled with water and
+
+56
+00:02:10,876 --> 00:02:13,307
+sank lower, the water reached the top
+
+57
+00:02:13,307 --> 00:02:15,738
+of a bulkhead and simply spilled over
+
+58
+00:02:15,738 --> 00:02:17,446
+into the next compartment.
+
+59
+00:02:17,626 --> 00:02:18,485
+Then the next.
+
+60
+00:02:18,665 --> 00:02:19,617
+Then the next.
+
+61
+00:02:19,797 --> 00:02:21,163
+The ship designer,
+
+62
+00:02:21,163 --> 00:02:24,577
+Thomas Andrews, walked through the damage and
+
+63
+00:02:24,577 --> 00:02:27,611
+told the captain the Titanic would sink.
+
+64
+00:02:27,791 --> 00:02:29,876
+He gave it about an hour or
+
+65
+00:02:29,876 --> 00:02:31,344
+an hour and a half.
+
+66
+00:02:31,693 --> 00:02:34,027
+Why build the walls so low?
+
+67
+00:02:34,207 --> 00:02:37,322
+Higher bulkheads would have cut through the
+
+68
+00:02:37,322 --> 00:02:38,699
+first class spaces,
+
+69
+00:02:38,699 --> 00:02:41,524
+the long corridors and the grand public
+
+70
+00:02:41,524 --> 00:02:43,263
+rooms that sold tickets.
+
+71
+00:02:43,443 --> 00:02:45,324
+And the rules of the time did
+
+72
+00:02:45,324 --> 00:02:46,427
+not require more.
+
+73
+00:02:46,607 --> 00:02:48,018
+After the disaster,
+
+74
+00:02:48,018 --> 00:02:51,213
+Titanic's sister ship Olympic was sent back
+
+75
+00:02:51,213 --> 00:02:52,402
+to the shipyard,
+
+76
+00:02:52,402 --> 00:02:55,374
+and several of its bulkheads were raised
+
+77
+00:02:55,374 --> 00:02:55,895
+higher.
+
+78
+00:02:56,075 --> 00:02:57,491
+The fix was easy.
+
+79
+00:02:57,671 --> 00:02:59,447
+It just came too late.
+
+80
+00:02:59,797 --> 00:03:02,202
+Why did the Titanic have a double
+
+81
+00:03:02,202 --> 00:03:02,712
+bottom?
+
+82
+00:03:02,892 --> 00:03:05,574
+Because the most common danger for a
+
+83
+00:03:05,574 --> 00:03:07,735
+big ship was running aground,
+
+84
+00:03:07,735 --> 00:03:10,194
+tearing the bottom open on rocks.
+
+85
+00:03:10,374 --> 00:03:13,105
+So the Titanic had a second steel
+
+86
+00:03:13,105 --> 00:03:16,001
+skin inside the bottom of the hull,
+
+87
+00:03:16,001 --> 00:03:18,236
+with a gap of about one and
+
+88
+00:03:18,236 --> 00:03:19,394
+a half meters,
+
+89
+00:03:19,394 --> 00:03:21,380
+a little over five feet,
+
+90
+00:03:21,380 --> 00:03:22,704
+between the two.
+
+91
+00:03:22,884 --> 00:03:24,910
+If the outer bottom was ripped open,
+
+92
+00:03:24,910 --> 00:03:26,711
+the inner one would keep the sea
+
+93
+00:03:26,711 --> 00:03:26,936
+out.
+
+94
+00:03:27,116 --> 00:03:30,576
+Against rocks, it was excellent protection.
+
+95
+00:03:30,925 --> 00:03:32,659
+But the iceberg did not hit the
+
+96
+00:03:32,659 --> 00:03:33,050
+bottom.
+
+97
+00:03:33,230 --> 00:03:35,433
+It scraped along the side of the
+
+98
+00:03:35,433 --> 00:03:37,154
+bow, below the waterline.
+
+99
+00:03:37,334 --> 00:03:39,968
+And the sides of the Titanic were
+
+100
+00:03:39,968 --> 00:03:41,803
+a single skin of steel,
+
+101
+00:03:41,803 --> 00:03:44,916
+about two and a half centimeters thick,
+
+102
+00:03:44,916 --> 00:03:46,193
+around one inch.
+
+103
+00:03:46,373 --> 00:03:49,581
+Interestingly, the idea of a double skin
+
+104
+00:03:49,581 --> 00:03:51,586
+on the sides was not new.
+
+105
+00:03:51,766 --> 00:03:54,680
+The giant steamship Great Eastern had a
+
+106
+00:03:54,680 --> 00:03:57,745
+double hull back in eighteen fifty-eight.
+
+107
+00:03:57,925 --> 00:03:59,267
+It was expensive,
+
+108
+00:03:59,267 --> 00:04:00,294
+it was heavy,
+
+109
+00:04:00,294 --> 00:04:02,743
+and most liners did not use it.
+
+110
+00:04:03,092 --> 00:04:04,697
+After the Titanic,
+
+111
+00:04:04,697 --> 00:04:05,856
+that changed.
+
+112
+00:04:06,036 --> 00:04:08,843
+Olympic was refitted with an inner skin
+
+113
+00:04:08,843 --> 00:04:11,218
+along the sides of its boiler and
+
+114
+00:04:11,218 --> 00:04:12,154
+engine rooms.
+
+115
+00:04:12,334 --> 00:04:16,089
+Today, oil tankers must have double hulls
+
+116
+00:04:16,089 --> 00:04:19,569
+by law, after other disasters like the
+
+117
+00:04:19,569 --> 00:04:21,309
+Exxon Valdez spill.
+
+118
+00:04:21,489 --> 00:04:23,933
+The lesson took decades to spread,
+
+119
+00:04:23,933 --> 00:04:25,227
+but it was simple.
+
+120
+00:04:25,407 --> 00:04:27,514
+Protect the ship from the side it
+
+121
+00:04:27,514 --> 00:04:28,855
+actually gets hit on.
+
+122
+00:04:29,205 --> 00:04:32,262
+Why do some researchers blame tiny rivets
+
+123
+00:04:32,262 --> 00:04:33,977
+for the Titanic's fate?
+
+124
+00:04:34,157 --> 00:04:36,902
+The hull plates were held together by
+
+125
+00:04:36,902 --> 00:04:38,906
+about three million rivets.
+
+126
+00:04:39,086 --> 00:04:41,170
+In the middle of the ship,
+
+127
+00:04:41,170 --> 00:04:42,453
+they were steel,
+
+128
+00:04:42,453 --> 00:04:45,100
+driven by big hydraulic machines.
+
+129
+00:04:45,280 --> 00:04:47,369
+But at the bow and the stern,
+
+130
+00:04:47,369 --> 00:04:50,108
+where the hull curves and the machines
+
+131
+00:04:50,108 --> 00:04:51,116
+could not fit,
+
+132
+00:04:51,116 --> 00:04:53,494
+workers hammered them in by hand,
+
+133
+00:04:53,494 --> 00:04:56,088
+and many of those were wrought iron.
+
+134
+00:04:56,268 --> 00:04:58,405
+And the bow is exactly where the
+
+135
+00:04:58,405 --> 00:04:59,206
+iceberg hit.
+
+136
+00:04:59,555 --> 00:05:01,258
+In two thousand eight,
+
+137
+00:05:01,258 --> 00:05:05,283
+metallurgists Jennifer Hooper McCarty and Tim Foecke
+
+138
+00:05:05,283 --> 00:05:08,379
+studied rivets recovered from the wreck.
+
+139
+00:05:08,559 --> 00:05:10,921
+Some had high amounts of slag,
+
+140
+00:05:10,921 --> 00:05:14,701
+glassy impurities that make wrought iron weaker.
+
+141
+00:05:14,881 --> 00:05:17,719
+Their theory is that the iceberg pushed
+
+142
+00:05:17,719 --> 00:05:19,102
+against the plates,
+
+143
+00:05:19,102 --> 00:05:21,140
+the rivet heads snapped off,
+
+144
+00:05:21,140 --> 00:05:24,051
+and the seams between plates opened like
+
+145
+00:05:24,051 --> 00:05:24,633
+zippers.
+
+146
+00:05:24,813 --> 00:05:27,565
+That would explain why the damage was
+
+147
+00:05:27,565 --> 00:05:30,243
+a series of thin openings instead of
+
+148
+00:05:30,243 --> 00:05:31,210
+one big gash.
+
+149
+00:05:31,560 --> 00:05:33,332
+Not every expert agrees,
+
+150
+00:05:33,332 --> 00:05:35,915
+and the rivets were not unusual for
+
+151
+00:05:35,915 --> 00:05:36,727
+their time.
+
+152
+00:05:36,907 --> 00:05:39,514
+But the wreck supports one part of
+
+153
+00:05:39,514 --> 00:05:40,204
+the idea.
+
+154
+00:05:40,384 --> 00:05:43,128
+When the bow was surveyed with sonar
+
+155
+00:05:43,128 --> 00:05:45,033
+in the nineteen nineties,
+
+156
+00:05:45,033 --> 00:05:48,692
+investigators found the damage was mostly narrow
+
+157
+00:05:48,692 --> 00:05:50,369
+slits along the seams.
+
+158
+00:05:50,549 --> 00:05:52,403
+At the British inquiry,
+
+159
+00:05:52,403 --> 00:05:56,675
+the shipbuilder's naval architect estimated the total
+
+160
+00:05:56,675 --> 00:06:00,061
+opening at only around twelve square feet,
+
+161
+00:06:00,061 --> 00:06:01,915
+about one square meter.
+
+162
+00:06:02,095 --> 00:06:04,951
+A ship of forty-six thousand tons,
+
+163
+00:06:04,951 --> 00:06:07,556
+sunk through a hole the size of
+
+164
+00:06:07,556 --> 00:06:08,144
+a door.
+
+165
+00:06:08,493 --> 00:06:11,485
+Why might the Titanic's steel have cracked
+
+166
+00:06:11,485 --> 00:06:12,197
+so easily?
+
+167
+00:06:12,377 --> 00:06:16,615
+Because steel changes its personality with temperature.
+
+168
+00:06:16,795 --> 00:06:19,581
+Warm steel bends before it breaks.
+
+169
+00:06:19,761 --> 00:06:21,654
+Cold steel can shatter.
+
+170
+00:06:21,834 --> 00:06:24,220
+The sea that night was about minus
+
+171
+00:06:24,220 --> 00:06:25,624
+two degrees Celsius,
+
+172
+00:06:25,624 --> 00:06:27,870
+twenty-eight degrees Fahrenheit,
+
+173
+00:06:27,870 --> 00:06:30,677
+colder than freezing because it was salt
+
+174
+00:06:30,677 --> 00:06:31,098
+water.
+
+175
+00:06:31,278 --> 00:06:33,016
+In the nineteen nineties,
+
+176
+00:06:33,016 --> 00:06:36,421
+scientists tested steel recovered from the wreck,
+
+177
+00:06:36,421 --> 00:06:39,062
+and at that temperature it was brittle
+
+178
+00:06:39,062 --> 00:06:41,286
+compared with modern ship steel.
+
+179
+00:06:41,636 --> 00:06:43,471
+The reason was the chemistry.
+
+180
+00:06:43,651 --> 00:06:45,660
+The steel had a lot of sulfur
+
+181
+00:06:45,660 --> 00:06:47,877
+and relatively little manganese,
+
+182
+00:06:47,877 --> 00:06:49,540
+and it was made in a way
+
+183
+00:06:49,540 --> 00:06:51,757
+that left it more brittle in the
+
+184
+00:06:51,757 --> 00:06:52,103
+cold.
+
+185
+00:06:52,283 --> 00:06:54,605
+That was normal for nineteen twelve.
+
+186
+00:06:54,785 --> 00:06:58,582
+Nobody understood brittle fracture well until the
+
+187
+00:06:58,582 --> 00:06:59,900
+Second World War,
+
+188
+00:06:59,900 --> 00:07:02,922
+when some Liberty ships cracked in half
+
+189
+00:07:02,922 --> 00:07:04,007
+in cold water,
+
+190
+00:07:04,007 --> 00:07:06,332
+a few of them while sitting in
+
+191
+00:07:06,332 --> 00:07:06,720
+port.
+
+192
+00:07:07,070 --> 00:07:10,970
+Today, ship steel is tested for exactly
+
+193
+00:07:10,970 --> 00:07:11,470
+this.
+
+194
+00:07:11,650 --> 00:07:14,892
+Engineers hit a small notched sample with
+
+195
+00:07:14,892 --> 00:07:17,739
+a heavy pendulum at low temperature,
+
+196
+00:07:17,739 --> 00:07:19,400
+called a Charpy test,
+
+197
+00:07:19,400 --> 00:07:21,931
+to prove it will bend instead of
+
+198
+00:07:21,931 --> 00:07:22,563
+shatter.
+
+199
+00:07:22,743 --> 00:07:25,719
+Ships built for icy waters must pass
+
+200
+00:07:25,719 --> 00:07:27,620
+at colder temperatures.
+
+201
+00:07:27,800 --> 00:07:30,705
+The Titanic was built with the best
+
+202
+00:07:30,705 --> 00:07:32,200
+steel of its time.
+
+203
+00:07:32,380 --> 00:07:34,656
+It was just tested by the coldest
+
+204
+00:07:34,656 --> 00:07:35,898
+water of its life.
+
+205
+00:07:36,248 --> 00:07:38,982
+Why couldn't the Titanic turn away from
+
+206
+00:07:38,982 --> 00:07:39,824
+the iceberg?
+
+207
+00:07:40,004 --> 00:07:42,341
+This is its identical twin,
+
+208
+00:07:42,341 --> 00:07:45,112
+Olympic, built right next to it.
+
+209
+00:07:45,292 --> 00:07:46,440
+Look at the tall,
+
+210
+00:07:46,440 --> 00:07:48,195
+thin rudder in the middle.
+
+211
+00:07:48,375 --> 00:07:51,119
+It was about seventy-eight feet tall,
+
+212
+00:07:51,119 --> 00:07:54,457
+twenty-four meters, and weighed more than one
+
+213
+00:07:54,457 --> 00:07:55,422
+hundred tons.
+
+214
+00:07:55,602 --> 00:07:56,859
+That sounds huge,
+
+215
+00:07:56,859 --> 00:07:59,300
+but compared with the size of the
+
+216
+00:07:59,300 --> 00:08:00,780
+ship, it was narrow.
+
+217
+00:08:00,960 --> 00:08:03,059
+It met the rules of the time,
+
+218
+00:08:03,059 --> 00:08:05,230
+and it was designed for a ship
+
+219
+00:08:05,230 --> 00:08:07,980
+that would cross the ocean in straight
+
+220
+00:08:07,980 --> 00:08:09,934
+lines, not dodge obstacles.
+
+221
+00:08:10,114 --> 00:08:12,497
+A big liner was built to be
+
+222
+00:08:12,497 --> 00:08:14,085
+stable, not agile.
+
+223
+00:08:14,435 --> 00:08:17,192
+The lookouts saw the iceberg only about
+
+224
+00:08:17,192 --> 00:08:19,950
+thirty-seven seconds before the impact.
+
+225
+00:08:20,130 --> 00:08:23,385
+First Officer William Murdoch ordered the helm
+
+226
+00:08:23,385 --> 00:08:25,579
+hard over, and the bow began to
+
+227
+00:08:25,579 --> 00:08:26,004
+swing.
+
+228
+00:08:26,184 --> 00:08:27,183
+In that time,
+
+229
+00:08:27,183 --> 00:08:30,949
+the Titanic, traveling at about twenty-two knots,
+
+230
+00:08:30,949 --> 00:08:33,869
+covered more than four hundred meters,
+
+231
+00:08:33,869 --> 00:08:35,867
+about a quarter of a mile.
+
+232
+00:08:36,047 --> 00:08:38,336
+The ship had started to turn,
+
+233
+00:08:38,336 --> 00:08:40,705
+and that is exactly why it did
+
+234
+00:08:40,705 --> 00:08:41,968
+not hit head-on.
+
+235
+00:08:42,148 --> 00:08:44,191
+It scraped along the side.
+
+236
+00:08:44,541 --> 00:08:47,290
+And here is one of the cruelest
+
+237
+00:08:47,290 --> 00:08:48,976
+ideas in the story.
+
+238
+00:08:49,156 --> 00:08:52,149
+Many naval architects believe that a head-on
+
+239
+00:08:52,149 --> 00:08:54,870
+collision would have crushed the bow and
+
+240
+00:08:54,870 --> 00:08:57,318
+flooded maybe the first two or three
+
+241
+00:08:57,318 --> 00:09:00,243
+compartments, which the ship could survive.
+
+242
+00:09:00,423 --> 00:09:04,572
+By turning, the Titanic opened more compartments
+
+243
+00:09:04,572 --> 00:09:05,868
+along its side.
+
+244
+00:09:06,048 --> 00:09:08,661
+The turn was the correct reaction.
+
+245
+00:09:08,841 --> 00:09:10,693
+It just happened to be the worst
+
+246
+00:09:10,693 --> 00:09:12,660
+possible way to meet that iceberg.
+
+247
+00:09:13,010 --> 00:09:16,252
+Why couldn't the Titanic's middle propeller go
+
+248
+00:09:16,252 --> 00:09:17,027
+in reverse?
+
+249
+00:09:17,207 --> 00:09:19,685
+The ship had three propellers,
+
+250
+00:09:19,685 --> 00:09:22,081
+the same as its twin Olympic,
+
+251
+00:09:22,081 --> 00:09:22,907
+seen here.
+
+252
+00:09:23,087 --> 00:09:25,415
+The small one in the middle is
+
+253
+00:09:25,415 --> 00:09:26,036
+the key.
+
+254
+00:09:26,216 --> 00:09:28,731
+The two outer ones were driven by
+
+255
+00:09:28,731 --> 00:09:30,254
+giant steam engines,
+
+256
+00:09:30,254 --> 00:09:32,311
+each as tall as a building.
+
+257
+00:09:32,491 --> 00:09:34,897
+The center one was driven by a
+
+258
+00:09:34,897 --> 00:09:38,023
+turbine that ran on leftover steam from
+
+259
+00:09:38,023 --> 00:09:41,069
+those engines, a clever way to squeeze
+
+260
+00:09:41,069 --> 00:09:43,475
+more power from the same coal.
+
+261
+00:09:43,655 --> 00:09:45,985
+But that turbine could only turn one
+
+262
+00:09:45,985 --> 00:09:46,244
+way.
+
+263
+00:09:46,424 --> 00:09:47,889
+To stop or reverse,
+
+264
+00:09:47,889 --> 00:09:50,975
+the center propeller simply had to stop.
+
+265
+00:09:51,325 --> 00:09:53,834
+And the center propeller sat right in
+
+266
+00:09:53,834 --> 00:09:55,191
+front of the rudder.
+
+267
+00:09:55,371 --> 00:09:58,401
+Its water flow helps a rudder bite.
+
+268
+00:09:58,581 --> 00:10:01,744
+According to testimony from the inquiries,
+
+269
+00:10:01,744 --> 00:10:04,455
+the engines may have been ordered to
+
+270
+00:10:04,455 --> 00:10:07,091
+stop or reverse as the ship turned.
+
+271
+00:10:07,271 --> 00:10:08,375
+If that happened,
+
+272
+00:10:08,375 --> 00:10:11,425
+the center propeller stopped pushing water over
+
+273
+00:10:11,425 --> 00:10:13,437
+the rudder at the worst moment,
+
+274
+00:10:13,437 --> 00:10:15,189
+and the turn became weaker.
+
+275
+00:10:15,369 --> 00:10:18,777
+Historians still debate the exact orders,
+
+276
+00:10:18,777 --> 00:10:21,604
+but the design made this possible.
+
+277
+00:10:21,954 --> 00:10:24,194
+The mixed system was not a mistake.
+
+278
+00:10:24,374 --> 00:10:25,938
+It was more efficient,
+
+279
+00:10:25,938 --> 00:10:28,070
+and it was used on Olympic and
+
+280
+00:10:28,070 --> 00:10:29,065
+Britannic too.
+
+281
+00:10:29,245 --> 00:10:31,733
+Each design choice on a ship has
+
+282
+00:10:31,733 --> 00:10:34,066
+a price, and this one was paid
+
+283
+00:10:34,066 --> 00:10:37,954
+in maneuverability, something a liner almost never
+
+284
+00:10:37,954 --> 00:10:38,498
+needed.
+
+285
+00:10:38,678 --> 00:10:39,793
+Almost never.
+
+286
+00:10:39,973 --> 00:10:43,106
+Engineers today still talk about this when
+
+287
+00:10:43,106 --> 00:10:46,314
+they study how propulsion and steering work
+
+288
+00:10:46,314 --> 00:10:46,985
+together.
+
+289
+00:10:47,335 --> 00:10:50,225
+Why did the Titanic's lookouts have no
+
+290
+00:10:50,225 --> 00:10:51,062
+binoculars?
+
+291
+00:10:51,242 --> 00:10:52,481
+The crow's nest,
+
+292
+00:10:52,481 --> 00:10:54,494
+high up on the front mast,
+
+293
+00:10:54,494 --> 00:10:57,360
+was where two men watched for danger.
+
+294
+00:10:57,540 --> 00:11:00,037
+But the binoculars were locked in a
+
+295
+00:11:00,037 --> 00:11:02,035
+box, and the key was with an
+
+296
+00:11:02,035 --> 00:11:03,534
+officer, David Blair,
+
+297
+00:11:03,534 --> 00:11:05,817
+who was removed from the crew at
+
+298
+00:11:05,817 --> 00:11:08,457
+the last minute before the voyage and
+
+299
+00:11:08,457 --> 00:11:10,741
+left with the key in his pocket.
+
+300
+00:11:10,921 --> 00:11:13,910
+Lookout Frederick Fleet later testified that with
+
+301
+00:11:13,910 --> 00:11:16,594
+binoculars, they could have seen the iceberg
+
+302
+00:11:16,594 --> 00:11:18,119
+in time to get out of the
+
+303
+00:11:18,119 --> 00:11:18,363
+way.
+
+304
+00:11:18,713 --> 00:11:20,729
+That claim is still debated,
+
+305
+00:11:20,729 --> 00:11:24,186
+because binoculars narrow your view and lookouts
+
+306
+00:11:24,186 --> 00:11:26,851
+were trained to scan with their eyes.
+
+307
+00:11:27,031 --> 00:11:29,237
+And the night itself was against them.
+
+308
+00:11:29,417 --> 00:11:30,637
+There was no moon,
+
+309
+00:11:30,637 --> 00:11:32,738
+and the sea was perfectly calm.
+
+310
+00:11:32,918 --> 00:11:35,701
+Normally, small waves break at the base
+
+311
+00:11:35,701 --> 00:11:37,984
+of an iceberg and create a white
+
+312
+00:11:37,984 --> 00:11:39,268
+line you can spot.
+
+313
+00:11:39,448 --> 00:11:41,682
+That night, there were no waves at
+
+314
+00:11:41,682 --> 00:11:41,944
+all.
+
+315
+00:11:42,124 --> 00:11:44,695
+The iceberg was a dark shape on
+
+316
+00:11:44,695 --> 00:11:45,607
+a dark sea.
+
+317
+00:11:45,958 --> 00:11:47,535
+In two thousand seven,
+
+318
+00:11:47,535 --> 00:11:49,900
+the key to that binocular box was
+
+319
+00:11:49,900 --> 00:11:52,982
+sold at auction for ninety thousand pounds.
+
+320
+00:11:53,162 --> 00:11:55,632
+It is sometimes called the key that
+
+321
+00:11:55,632 --> 00:11:57,678
+could have saved the Titanic.
+
+322
+00:11:57,858 --> 00:12:00,644
+The real lesson is less dramatic.
+
+323
+00:12:00,824 --> 00:12:02,840
+Modern ships use radar,
+
+324
+00:12:02,840 --> 00:12:05,996
+which sees through darkness and fog,
+
+325
+00:12:05,996 --> 00:12:08,713
+and no one relies only on human
+
+326
+00:12:08,713 --> 00:12:11,079
+eyes and a small box with a
+
+327
+00:12:11,079 --> 00:12:11,517
+lock.
+
+328
+00:12:11,867 --> 00:12:14,250
+Why didn't the closest ship come to
+
+329
+00:12:14,250 --> 00:12:15,408
+save the Titanic?
+
+330
+00:12:15,588 --> 00:12:18,325
+The Titanic had one of the most
+
+331
+00:12:18,325 --> 00:12:20,356
+powerful radios at sea,
+
+332
+00:12:20,356 --> 00:12:22,916
+run by two Marconi operators,
+
+333
+00:12:22,916 --> 00:12:25,654
+Jack Phillips and Harold Bride.
+
+334
+00:12:25,834 --> 00:12:28,668
+But they worked for the Marconi company,
+
+335
+00:12:28,668 --> 00:12:31,360
+and their main job was sending private
+
+336
+00:12:31,360 --> 00:12:33,415
+messages for rich passengers.
+
+337
+00:12:33,595 --> 00:12:36,843
+That day, the Titanic received several ice
+
+338
+00:12:36,843 --> 00:12:38,854
+warnings from other ships.
+
+339
+00:12:39,034 --> 00:12:41,155
+At least one never made it to
+
+340
+00:12:41,155 --> 00:12:41,960
+the bridge.
+
+341
+00:12:42,310 --> 00:12:45,393
+The ship Californian was stopped in the
+
+342
+00:12:45,393 --> 00:12:48,398
+ice, close enough to see the Titanic's
+
+343
+00:12:48,398 --> 00:12:51,482
+lights, maybe ten to twenty miles away.
+
+344
+00:12:51,662 --> 00:12:54,648
+Its radio operator tried to warn the
+
+345
+00:12:54,648 --> 00:12:56,473
+Titanic about the ice,
+
+346
+00:12:56,473 --> 00:13:00,040
+and Phillips, busy with passenger messages,
+
+347
+00:13:00,040 --> 00:13:02,612
+cut him off with a message that
+
+348
+00:13:02,612 --> 00:13:04,520
+basically said shut up,
+
+349
+00:13:04,520 --> 00:13:05,350
+I am busy.
+
+350
+00:13:05,530 --> 00:13:06,726
+A little later,
+
+351
+00:13:06,726 --> 00:13:10,476
+the Californian's operator turned off his radio
+
+352
+00:13:10,476 --> 00:13:11,753
+and went to bed.
+
+353
+00:13:11,933 --> 00:13:15,660
+Minutes later, the Titanic hit the iceberg.
+
+354
+00:13:15,840 --> 00:13:18,120
+Its distress calls went to a ship
+
+355
+00:13:18,120 --> 00:13:20,124
+that was no longer listening.
+
+356
+00:13:20,474 --> 00:13:23,788
+The Carpathia, about fifty-eight miles away,
+
+357
+00:13:23,788 --> 00:13:26,651
+heard the call and raced north through
+
+358
+00:13:26,651 --> 00:13:27,254
+the ice.
+
+359
+00:13:27,434 --> 00:13:30,048
+It arrived around four in the morning,
+
+360
+00:13:30,048 --> 00:13:31,974
+more than an hour and a half
+
+361
+00:13:31,974 --> 00:13:33,831
+after the Titanic was gone.
+
+362
+00:13:34,011 --> 00:13:35,491
+After the disaster,
+
+363
+00:13:35,491 --> 00:13:38,450
+new rules required ships to keep their
+
+364
+00:13:38,450 --> 00:13:41,488
+radios staffed twenty-four hours a day.
+
+365
+00:13:41,668 --> 00:13:44,102
+A radio is only a safety device
+
+366
+00:13:44,102 --> 00:13:45,987
+if someone is listening.
+
+367
+00:13:46,337 --> 00:13:48,865
+Why did the Titanic have so few
+
+368
+00:13:48,865 --> 00:13:49,680
+lifeboats?
+
+369
+00:13:49,860 --> 00:13:51,495
+It carried twenty boats,
+
+370
+00:13:51,495 --> 00:13:54,288
+enough for about one thousand one hundred
+
+371
+00:13:54,288 --> 00:13:57,625
+seventy-eight people, with more than two thousand
+
+372
+00:13:57,625 --> 00:13:59,055
+two hundred on board.
+
+373
+00:13:59,235 --> 00:14:00,884
+And it was perfectly legal.
+
+374
+00:14:01,064 --> 00:14:04,512
+British rules from the eighteen nineties based
+
+375
+00:14:04,512 --> 00:14:07,285
+the number of lifeboats on the ship's
+
+376
+00:14:07,285 --> 00:14:10,057
+tonnage, and the scale stopped at ten
+
+377
+00:14:10,057 --> 00:14:11,107
+thousand tons.
+
+378
+00:14:11,287 --> 00:14:13,765
+The Titanic was more than four times
+
+379
+00:14:13,765 --> 00:14:16,657
+bigger, and it actually carried more boats
+
+380
+00:14:16,657 --> 00:14:18,171
+than the law required.
+
+381
+00:14:18,522 --> 00:14:21,451
+The davits, the cranes that lowered the
+
+382
+00:14:21,451 --> 00:14:24,305
+boats, were designed so each one could
+
+383
+00:14:24,305 --> 00:14:25,882
+handle several boats.
+
+384
+00:14:26,062 --> 00:14:29,476
+One designer had proposed far more lifeboats.
+
+385
+00:14:29,656 --> 00:14:32,304
+But the deck space was kept open
+
+386
+00:14:32,304 --> 00:14:34,455
+for passengers to walk on,
+
+387
+00:14:34,455 --> 00:14:35,944
+and in those days,
+
+388
+00:14:35,944 --> 00:14:38,510
+lifeboats were seen as ferries,
+
+389
+00:14:38,510 --> 00:14:41,075
+used to move people to a rescue
+
+390
+00:14:41,075 --> 00:14:43,971
+ship, not to hold everyone at once.
+
+391
+00:14:44,151 --> 00:14:45,196
+On the night,
+
+392
+00:14:45,196 --> 00:14:47,367
+some boats left half empty.
+
+393
+00:14:47,547 --> 00:14:49,907
+The first boat lowered had room for
+
+394
+00:14:49,907 --> 00:14:52,672
+sixty-five people, and it left with about
+
+395
+00:14:52,672 --> 00:14:53,549
+twenty-eight.
+
+396
+00:14:53,899 --> 00:14:56,418
+About fifteen hundred people died.
+
+397
+00:14:56,598 --> 00:14:58,374
+In nineteen fourteen,
+
+398
+00:14:58,374 --> 00:15:02,519
+the first International Convention for the Safety
+
+399
+00:15:02,519 --> 00:15:03,787
+of Life at Sea,
+
+400
+00:15:03,787 --> 00:15:08,016
+called SOLAS, required lifeboat space for everyone
+
+401
+00:15:08,016 --> 00:15:11,230
+on board, plus lifeboat drills and the
+
+402
+00:15:11,230 --> 00:15:14,529
+ice patrol that still watches the North
+
+403
+00:15:14,529 --> 00:15:15,290
+Atlantic.
+
+404
+00:15:15,470 --> 00:15:17,757
+The Titanic did not just sink.
+
+405
+00:15:17,937 --> 00:15:20,236
+It rewrote the rules of the sea.
+
+406
+00:15:20,586 --> 00:15:23,604
+Why did the Titanic break in two?
+
+407
+00:15:23,784 --> 00:15:25,035
+As the bow sank,
+
+408
+00:15:25,035 --> 00:15:27,536
+the stern rose out of the water,
+
+409
+00:15:27,536 --> 00:15:29,803
+until a huge part of the ship
+
+410
+00:15:29,803 --> 00:15:31,600
+was hanging in the air,
+
+411
+00:15:31,600 --> 00:15:32,538
+unsupported.
+
+412
+00:15:32,718 --> 00:15:35,208
+The hull was never designed to carry
+
+413
+00:15:35,208 --> 00:15:35,899
+that load.
+
+414
+00:15:36,079 --> 00:15:37,157
+Near the end,
+
+415
+00:15:37,157 --> 00:15:38,897
+the ship broke apart,
+
+416
+00:15:38,897 --> 00:15:42,627
+roughly between the third and fourth funnels.
+
+417
+00:15:42,807 --> 00:15:46,458
+The upper structure even had expansion joints,
+
+418
+00:15:46,458 --> 00:15:49,315
+small built-in gaps that let it flex
+
+419
+00:15:49,315 --> 00:15:50,029
+in waves.
+
+420
+00:15:50,209 --> 00:15:52,403
+Some researchers think one of them was
+
+421
+00:15:52,403 --> 00:15:54,423
+a weak point where the break began.
+
+422
+00:15:54,773 --> 00:15:56,643
+For seventy-three years,
+
+423
+00:15:56,643 --> 00:15:59,760
+many people believed the Titanic sank in
+
+424
+00:15:59,760 --> 00:16:03,268
+one piece, because the official inquiries did
+
+425
+00:16:03,268 --> 00:16:05,839
+not conclude that it broke apart,
+
+426
+00:16:05,839 --> 00:16:08,879
+even though some survivors said it did.
+
+427
+00:16:09,059 --> 00:16:11,284
+Then, in nineteen eighty-five,
+
+428
+00:16:11,284 --> 00:16:14,697
+Robert Ballard's expedition found the wreck at
+
+429
+00:16:14,697 --> 00:16:17,812
+about three thousand eight hundred meters,
+
+430
+00:16:17,812 --> 00:16:20,483
+more than twelve thousand feet deep.
+
+431
+00:16:20,663 --> 00:16:23,138
+The bow and stern were lying about
+
+432
+00:16:23,138 --> 00:16:24,959
+six hundred meters apart.
+
+433
+00:16:25,139 --> 00:16:27,054
+The survivors had been right.
+
+434
+00:16:27,405 --> 00:16:29,675
+The bow sank at an angle and
+
+435
+00:16:29,675 --> 00:16:32,432
+plowed into the mud almost intact.
+
+436
+00:16:32,612 --> 00:16:34,831
+The stern spun as it fell and
+
+437
+00:16:34,831 --> 00:16:35,979
+was torn apart.
+
+438
+00:16:36,159 --> 00:16:38,138
+Once the ship broke,
+
+439
+00:16:38,138 --> 00:16:39,920
+the end came fast.
+
+440
+00:16:40,100 --> 00:16:42,406
+At two twenty in the morning,
+
+441
+00:16:42,406 --> 00:16:44,315
+the Titanic disappeared.
+
+442
+00:16:44,495 --> 00:16:46,933
+Two hours and forty minutes after a
+
+443
+00:16:46,933 --> 00:16:49,441
+scrape, it was resting on the bottom
+
+444
+00:16:49,441 --> 00:16:50,555
+of the Atlantic.
+
+445
+00:16:50,905 --> 00:16:52,414
+So here are the ten.
+
+446
+00:16:52,594 --> 00:16:54,626
+Walls that stopped too low.
+
+447
+00:16:54,806 --> 00:16:56,286
+A double bottom,
+
+448
+00:16:56,286 --> 00:16:57,859
+but single sides.
+
+449
+00:16:58,039 --> 00:16:59,955
+Rivets that may have popped,
+
+450
+00:16:59,955 --> 00:17:02,760
+and steel that turned brittle in freezing
+
+451
+00:17:02,760 --> 00:17:03,171
+water.
+
+452
+00:17:03,351 --> 00:17:05,920
+A narrow rudder and a propeller that
+
+453
+00:17:05,920 --> 00:17:07,205
+could not reverse.
+
+454
+00:17:07,385 --> 00:17:09,537
+Lookouts without binoculars,
+
+455
+00:17:09,537 --> 00:17:11,381
+a radio nobody answered,
+
+456
+00:17:11,381 --> 00:17:13,226
+lifeboats for only half,
+
+457
+00:17:13,226 --> 00:17:15,454
+and a hull that broke in two.
+
+458
+00:17:15,634 --> 00:17:18,177
+No single part sank the Titanic.
+
+459
+00:17:18,357 --> 00:17:19,622
+They did it together.
+
+460
+00:17:19,973 --> 00:17:22,693
+Every ship you board today carries a
+
+461
+00:17:22,693 --> 00:17:25,262
+piece of the Titanic in its rules,
+
+462
+00:17:25,262 --> 00:17:28,435
+from lifeboats for everyone to radios that
+
+463
+00:17:28,435 --> 00:17:29,342
+never sleep.
+
+464
+00:17:29,522 --> 00:17:32,404
+If you want more machines explained part
+
+465
+00:17:32,404 --> 00:17:35,141
+by part, subscribe to Machine Reverse.
+
+466
+00:17:35,321 --> 00:17:37,161
+And tell us in the comments which
+
+467
+00:17:37,161 --> 00:17:39,001
+machine you want us to take apart
+
+468
+00:17:39,001 --> 00:17:39,280
+next.
