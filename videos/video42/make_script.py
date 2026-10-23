@@ -42,7 +42,7 @@ sc("""The reason ships grow is simple economics. One huge ship with one crew and
    "largest container ship", "THE CHEAPEST BOX WINS")
 
 # ---------- 3. SPREADER ----------
-part(3, "The spreader", "WHY DOES THIS FRAME HAVE 4 PINS?", "How a Port Crane Grabs a Container in Seconds",
+part(3, "The spreader", "WHY DOES THIS FRAME HAVE 4 PINS?", "Why Do Port Cranes Use 4 Pins Instead of a Hook?",
      """Why does the crane hold a container with a flat steel frame instead of a hook? That frame is called a spreader. At each corner it has a pin called a twistlock. The spreader lands on top of the box, the four pins drop into four holes, and then each pin rotates ninety degrees. Its head is now crossways inside the hole, and it cannot come out. The box is locked. No ropes, no hooks, no workers on top. It takes seconds.""",
      "container crane spreader")
 sc("""The spreader is also telescopic. In a few seconds, it can stretch from the size of a twenty-foot container to a forty-foot or forty-five-foot one. Many can even lift two twenty-foot boxes at once, and some cranes carry two forty-foot boxes side by side. Sensors tell the operator when all four twistlocks are seated, and a lift is blocked until they are.""",
