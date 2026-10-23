@@ -24,10 +24,14 @@
    "text": "Why do long freight trains have locomotives in the middle? It is called distributed power. If all the locomotives are at the front, the couplers at the front have to pull the weight of the entire train. On a very long, heavy train, that force can break a coupler. Putting some locomotives in the middle or at the end splits the train into sections, and each group of engines pulls or pushes only part of the load.",
    "query": "distributed power locomotive mid train",
    "caption": "WHY IS THERE AN ENGINE IN THE MIDDLE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.65,
+    "y": 0.4
+   },
    "chapter": "1. The engine in the middle",
    "short": "Why Do Freight Trains Have Engines in the Middle?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:CN Freight. Helper Engine in Mid-train 6082 (6775062342).jpg"
   },
   {
    "text": "The remote locomotives have no crew. The engineer at the front controls them by radio, and they copy the commands, or can be set to work independently. Systems like this were developed in the nineteen sixties, and today they are common on long trains. In curves, they help too. A long train pulled only from the front tends to straighten itself across the inside of the curve, which can pull cars off the track.",
@@ -43,10 +47,14 @@
    "text": "Why do you hear a chain of bangs when a freight train starts? Every coupling between two cars has a little slack, a few centimeters of free movement. When the locomotive starts, it first pulls the first car, then the slack runs out, then the second car starts, then the third. With more than one hundred cars, those few centimeters add up to several meters, and you hear a wave of bangs running down the train.",
    "query": "freight train coupler slack",
    "caption": "WHY DO FREIGHT CARS CRASH INTO EACH OTHER?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.83,
+    "y": 0.6
+   },
    "chapter": "2. The slack between cars",
    "short": "Why Do Freight Train Cars Bang Into Each Other?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Long freight train in Newport station - geograph.org.uk - 6254833.jpg"
   },
   {
    "text": "The slack is not a mistake. It actually helps a locomotive start a heavy train, because it does not have to move all the cars at the same instant. Behind each coupler there is a spring and friction system called draft gear, which cushions those impacts. Without it, every start and stop would hammer the cars and the cargo.",
@@ -62,10 +70,14 @@
    "text": "Why is one part of a freight train coupler designed to be the weak point? It is the knuckle, the curled piece that locks two couplers together. If the force on a train becomes too high, something has to give. Railways would much rather that it be a small, cheap, replaceable part than the frame of a car or the coupler shank itself. So the knuckle is often the part that breaks.",
    "query": "knuckle coupler",
    "caption": "WHY IS THIS PART DESIGNED TO BREAK?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "3. The weak link",
    "short": "Why Is This Train Part Designed to Break?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:AAR knuckle coupler connection.jpg"
   },
   {
    "text": "When a knuckle breaks, the train separates. The air brake hose pulls apart, the pressure drops, and every car brakes automatically, so both halves stop. Then a crew member has to walk back, sometimes a long way, carrying a spare knuckle. A spare knuckle weighs about eighty pounds, around thirty-six kilograms, and locomotives often carry one for exactly this reason.",
@@ -81,10 +93,14 @@
    "text": "Why is there a small box with a blinking red light on the last car of many freight trains? It is an end of train device, nicknamed FRED, flashing rear end device. It hangs on the rear coupler and connects to the brake pipe. It measures the air pressure at the back of the train and sends it by radio to the locomotive, and its light marks the end of the train for anyone behind it.",
    "query": "end of train device",
    "caption": "WHY IS THERE A BLINKING BOX ON THE LAST CAR?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.49,
+    "y": 0.69
+   },
    "chapter": "4. The box at the end",
    "short": "Why Is There a Blinking Box at the End of Freight Trains?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Rear of CSX train L005 awaiting departure from Framingham October 2025.jpg"
   },
   {
    "text": "Many of these devices also work in the other direction. If the engineer needs an emergency stop, the rear device can open the brake pipe at the back too, so the emergency brake starts from both ends of the train. That matters if something blocks the air in the middle. In the United States, rules require two-way devices on many heavy freight trains.",
@@ -100,10 +116,14 @@
    "text": "Why did the caboose disappear from freight trains? The caboose was the crew's car at the end of the train. Conductors and brakemen rode in it, did paperwork, ate and even slept on long trips. Many had a raised window on the roof, called a cupola, so the crew could watch the whole train for smoke from overheated bearings, shifting loads, or dragging equipment.",
    "query": "caboose",
    "caption": "WHY DID THE CABOOSE DISAPPEAR?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.62,
+    "y": 0.22
+   },
    "chapter": "5. The caboose",
    "short": "Why Did the Caboose Disappear?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Antique Caboose at La Crosse, Virginia.jpg"
   },
   {
    "text": "Then technology took over its jobs. Detectors beside the tracks started to check bearings and dragging equipment. End of train devices replaced the lights and the brake monitoring. Radios replaced hand signals. In the nineteen eighties, railways and unions in North America agreed to run most trains without cabooses, and they disappeared from most main lines.",
@@ -119,10 +139,14 @@
    "text": "Why do many diesel locomotives have big fans and grids on the roof? They are for braking. A diesel locomotive is actually electric. The diesel engine drives a generator, and electric motors turn the wheels. When going downhill, those motors can be switched to work as generators, which slows the train. But the electricity has to go somewhere. It is sent to big resistor grids on the roof, which turn it into heat, and fans blow the heat away.",
    "query": "dynamic brake grid locomotive",
    "caption": "WHY DOES THIS LOCOMOTIVE HAVE A HEATER ON TOP?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.3
+   },
    "chapter": "6. The grids on the roof",
    "short": "Why Do Locomotives Have Giant Heaters on Their Roofs?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:DGVR40 Staunton WJGrimes.JPG"
   },
   {
    "text": "This is called dynamic braking, and it is essential on long hills. If a heavy train used only its air brakes on a long downhill grade, the brake shoes could overheat and lose their grip, a dangerous condition called brake fade. Dynamic braking holds the train back without wearing the brakes at all, so the air brakes stay cool and ready.",
@@ -138,10 +162,14 @@
    "text": "Why are containers on many North American trains stacked two high? Because it almost doubles the cargo per train, using the same locomotives and the same crew. To make it possible, the cars have a low floor between the wheels, called a well. The bottom container sits in the well, almost touching the rails, and the second one sits on top, locked with fittings at the corners.",
    "query": "double stack container train",
    "caption": "WHY ARE THESE CONTAINERS STACKED TWO HIGH?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "7. The double stack",
    "short": "Why Are Train Containers Stacked Two High?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:DTTX 724681 20050529 IL Rochelle.jpg"
   },
   {
    "text": "Double stack trains became popular in the United States in the nineteen eighties. But they created a new problem. They are tall. Many old tunnels and bridges were too low. So railways spent large amounts of money raising tunnel roofs and lowering tracks to clear the way. Some lines were rebuilt only to make room for that second box.",
@@ -157,10 +185,14 @@
    "text": "Why do some railway yards have a small hill in the middle? It is a hump yard, a giant sorting machine that runs on gravity. A locomotive slowly pushes a long line of cars up the hump. At the top, cars are uncoupled one by one, and each rolls down the other side on its own. Switches send each car onto the right track, where it joins other cars going to the same destination.",
    "query": "hump yard",
    "caption": "WHY DO RAILWAYS BUILD A HILL IN THE YARD?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.6
+   },
    "chapter": "8. The hill in the yard",
    "short": "Why Do Train Yards Have a Hill in the Middle?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Tinsley Hump Marshalling Yard 1981 - geograph.org.uk - 2308273.jpg"
   },
   {
    "text": "Each car rolls at a different speed, depending on its weight, its bearings, and the wind. So the tracks have retarders, big steel jaws next to the rails that squeeze the wheels to slow the cars down. That loud screeching sound you hear near a hump yard is the retarders at work. Computers measure each car and decide how hard to squeeze it.",
@@ -176,10 +208,14 @@
    "text": "Why does one railway in California make a full loop and pass over itself? It is the Tehachapi Loop, built in the eighteen seventies to climb a steep mountain pass. Instead of going straight up a slope too steep for trains, the track spirals around a hill and gains height gradually. A long freight train crossing it passes over its own end, in one of the most famous sights in railroading.",
    "query": "Tehachapi Loop",
    "caption": "WHY DOES THIS TRAIN CROSS OVER ITSELF?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "9. The loop",
    "short": "Why Does This Train Track Cross Over Itself?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Tehachapi Loop Aerial.jpg"
   },
   {
    "text": "Even with the loop, the climb is hard, so heavy trains often need extra power. In the past, railways added helper locomotives, often at the back, to push trains up the grade, and then sent them back down to help the next train. Today, distributed power locomotives often do the same job, already placed in the middle and at the end.",
@@ -195,10 +231,14 @@
    "text": "Why do many locomotives have lights arranged in a triangle? The headlight is on top, and two extra lights, called ditch lights, are lower down on each side. The triangle helps drivers at a crossing judge how far away the train is and how fast it is coming, because the lights seem to spread apart as the train gets closer. A single light is very hard to judge in the dark.",
    "query": "ditch lights locomotive",
    "caption": "WHY DO LOCOMOTIVES HAVE 3 LIGHTS LIKE THIS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.42,
+    "y": 0.62
+   },
    "chapter": "10. The triangle of lights",
    "short": "Why Do Train Lights Form a Triangle?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Illinois Central 101 (4593757527).jpg"
   },
   {
    "text": "In the United States, rules adopted in the nineteen nineties require these auxiliary lights on lead locomotives on many main lines. At crossings, the ditch lights often flash, along with the horn, to grab attention. Many accidents at crossings happen because drivers underestimate the speed of the train, so making speed visible saves lives.",

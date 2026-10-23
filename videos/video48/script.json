@@ -24,10 +24,14 @@
    "text": "Why is there a deep pit between the rails at many subway stations? Officially, it is mostly a drainage pit. Water collects in tunnels, and the pit carries it away. It also gives maintenance workers access to the underside of trains. But it has a famous nickname in London, the suicide pit. If a person falls or jumps onto the track, they can sometimes drop into the pit, and the train passes over them.",
    "query": "tube station track pit",
    "caption": "WHY IS THERE A PIT UNDER THE TRACK?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.62,
+    "y": 0.75
+   },
    "chapter": "1. The pit under the track",
    "short": "Why Is There a Pit Under Subway Tracks?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Bounds Green Underground Station (Piccadilly Line) - 52809713604.jpg"
   },
   {
    "text": "Does it work? A study published in the British Medical Journal in nineteen ninety-nine looked at people hit by trains on the London Underground. At stations with pits, about forty-four percent died. At stations without pits, about sixty-six percent died. The pit does not prevent the accident. But it gives a person a place to survive it.",
@@ -43,10 +47,14 @@
    "text": "Why does one rail in the New York subway have a little roof over it? That is the third rail, and it carries the electricity that powers the trains, around six hundred volts. Trains collect the power with a metal shoe that slides along it. The cover board on top protects people and workers from touching it by accident, and it also keeps snow and ice off in outdoor sections.",
    "query": "NYC subway third rail",
    "caption": "WHY DOES THIS RAIL HAVE A ROOF?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.42
+   },
    "chapter": "2. The covered rail",
    "short": "Why Does the Subway Third Rail Have a Cover?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:NYC subway third rail.agr.jpg"
   },
   {
    "text": "Touching the third rail can kill. That is why subway workers are trained to never step on it, and why the rail is mounted on insulators slightly to the side of the running rails. Six hundred volts does not sound like much compared with the twenty-five thousand volts of some overhead wires, but the current available is enormous. Every year, people are killed on third rails around the world.",
@@ -62,10 +70,14 @@
    "text": "Why does the London Underground have four rails instead of three? On most electric railways, the current comes in through a power rail, and returns through the running rails, the ones the wheels roll on. London's tube lines have a separate return rail in the middle, between the running rails. The power rail on the outside is positive, and the center rail is negative.",
    "query": "fourth rail London Underground",
    "caption": "WHY DOES LONDON NEED A 4TH RAIL?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.72,
+    "y": 0.62
+   },
    "chapter": "3. The fourth rail",
    "short": "Why Does the London Underground Have Four Rails?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Cockfosters station centre track platform 2 and 3 look west.JPG"
   },
   {
    "text": "One important reason is the tunnels. Many old London tunnels are lined with cast iron rings. If the return current flowed through the running rails, some of it could leak into the ground and into those iron linings and pipes, and slowly eat them away by electrolytic corrosion. A separate insulated return rail keeps the current where it belongs.",
@@ -81,10 +93,14 @@
    "text": "Why is there a small arm beside the track next to subway signals? It is a train stop. When the signal is red, the arm rises. If a train tries to pass the red signal, the arm hits a valve under the train, called a trip cock, which opens the brake pipe and puts the train into emergency braking. When the signal turns green, the arm drops down out of the way.",
    "query": "train stop arm signal",
    "caption": "WHY DOES THIS ARM POP UP NEXT TO THE TRACK?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.6
+   },
    "chapter": "4. The arm that stops trains",
    "short": "Why Does This Arm Pop Up Beside Subway Tracks?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Train stop.jpg"
   },
   {
    "text": "This system is very old, but very effective. It was used on the New York subway and the London Underground in the early nineteen hundreds. It does not depend on the driver seeing the signal, or even being awake. It is purely mechanical. If the train passes a red light, it stops.",
@@ -100,10 +116,14 @@
    "text": "Why do some subway platforms have a wall of glass doors? They are platform screen doors. The doors line up exactly with the train doors and only open when the train is stopped. Nobody can fall onto the track, nobody can be pushed, and nobody can jump. They also stop litter from reaching the rails, which can start fires.",
    "query": "platform screen doors",
    "caption": "WHY IS THERE A GLASS WALL ON THIS PLATFORM?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.3,
+    "y": 0.55
+   },
    "chapter": "5. The glass wall",
    "short": "Why Do Some Subway Platforms Have Glass Walls?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Metro SPB Line2 Park Pobedy.jpg"
   },
   {
    "text": "One of the earliest versions opened in nineteen sixty-one, at Park Pobedy station in Leningrad, now Saint Petersburg. Its platform has a solid wall with doors, and passengers see the train only when the doors open. Today, platform doors are standard on many new lines, especially driverless ones, because no driver is watching the platform.",
@@ -119,10 +139,14 @@
    "text": "Why are there bumpy yellow tiles near the edge of many train platforms? They are tactile paving, designed for people who are blind or have low vision. Feet and canes can feel the bumps. Rows of dots mean stop, danger ahead, like the edge of a platform. Long raised lines mean this is the path, follow it. The bright color helps people with partial sight.",
    "query": "tactile paving platform edge",
    "caption": "WHY ARE THESE TILES BUMPY?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.6
+   },
    "chapter": "6. The bumpy tiles",
    "short": "Why Are There Bumpy Tiles at the Platform Edge?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Tactile Ground Surface Indicators at Corinda railway station along platform edge.jpg"
   },
   {
    "text": "Tactile paving was invented in Japan by Seiichi Miyake, who created it to help a friend who was losing his sight. The first tiles were installed in nineteen sixty-seven near a school for the blind in Okayama. Today, they are used all over the world, in train stations, at crosswalks, and at the top of stairs.",
@@ -138,10 +162,14 @@
    "text": "Why do some Paris Metro trains run on rubber tyres, like a bus? Rubber grips much better than steel. That means trains can accelerate and brake faster, climb steeper slopes, and run more quietly. On a metro line where stations are close together, faster acceleration and braking save time on every trip. Paris began using rubber tyred trains on line eleven in nineteen fifty-six.",
    "query": "Paris Metro rubber tyres",
    "caption": "WHY DOES THIS SUBWAY HAVE RUBBER TYRES?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.42,
+    "y": 0.55
+   },
    "chapter": "7. The rubber tyres",
    "short": "Why Do Paris Metro Trains Have Rubber Tyres?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Gummibereifung der metro.JPG"
   },
   {
    "text": "The trains run on concrete or steel tracks under the tyres, and small horizontal wheels press against guide bars on the sides to steer them. And hidden behind the rubber tyres are normal steel wheels with flanges. If a tyre goes flat, the steel wheel drops onto a normal rail and the train can continue. The French system was copied by Montreal, Mexico City, Santiago, and others.",
@@ -157,10 +185,14 @@
    "text": "Why are some subway stations built higher than the tunnels around them? It saves energy. On several London lines, including the Central line and the Victoria line, the track climbs slightly into each station and slopes down when leaving it. A train arriving uses the uphill to help it slow down, and when it leaves, the downhill helps it speed up.",
    "query": "Central line platform",
    "caption": "WHY IS THIS STATION HIGHER THAN THE TUNNEL?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.52,
+    "y": 0.45
+   },
    "chapter": "8. The station on a hill",
    "short": "Why Are Some Subway Stations Built on a Hill?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Southgate station southbound look north tunnel.JPG"
   },
   {
    "text": "It sounds small, but a metro train stops and starts dozens of times on every trip. Gravity doing part of the braking and part of the acceleration adds up to real savings in energy and brake wear. The Central line opened in nineteen hundred with this design, and the Victoria line, opened in the late nineteen sixties, used it again.",
@@ -176,10 +208,14 @@
    "text": "Why is there a gap between the train and the platform? Because many old platforms are curved, and trains are straight. When a straight train car stops at a curved platform, the middle or the ends of the car are farther from the edge, leaving a gap. Platforms also cannot be too close, or a train swaying slightly would hit them.",
    "query": "mind the gap",
    "caption": "WHY IS THERE A GAP HERE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.15
+   },
    "chapter": "9. The gap",
    "short": "Why Do Subways Say Mind the Gap?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Bournemouth (9453245033).jpg"
   },
   {
    "text": "That is why London made mind the gap one of the most famous phrases in the world. The recorded announcement was introduced in the late nineteen sixties. At Embankment station, an old recording by actor Oswald Laurence played for years. After he died, his widow used to visit the station just to hear his voice. When the recording was replaced, the Underground brought his announcement back at that station for her.",
@@ -214,10 +250,14 @@
    "text": "Why do you feel a strong wind on the platform just before the train arrives? It is the piston effect. A train in a tunnel works like a piston in a cylinder. It pushes a column of air ahead of it and pulls air behind it. That moving air is the wind you feel, and it can be strong enough to blow hats away. Vent shafts to the surface let the pushed air escape.",
    "query": "metro ventilation shaft",
    "caption": "WHY IS THERE A WIND IN THE SUBWAY?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.47,
+    "y": 0.6
+   },
    "chapter": "11. The vent shaft",
    "short": "Why Is There Always Wind in the Subway?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Novatorskaya - south-east ventilation shaft 2.jpg"
   },
   {
    "text": "Ventilation is also about heat and smoke. Trains, brakes and passengers produce enormous heat, and some old tunnels have warmed up over the decades. Big fans and shafts move air through the system. In a fire, the fans are used to push smoke away from people and toward the shafts, giving passengers clean air to escape.",

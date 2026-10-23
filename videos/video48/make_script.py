@@ -130,6 +130,16 @@ sc("""A subway station looks like a simple room with a train passing through. It
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Bounds Green Underground Station (Piccadilly Line) - 52809713604.jpg", 0.62, 0.75),
+    2: ("File:NYC subway third rail.agr.jpg", 0.5, 0.42),
+    3: ("File:Cockfosters station centre track platform 2 and 3 look west.JPG", 0.72, 0.62),
+    4: ("File:Train stop.jpg", 0.5, 0.6),
+    5: ("File:Metro SPB Line2 Park Pobedy.jpg", 0.3, 0.55),
+    6: ("File:Tactile Ground Surface Indicators at Corinda railway station along platform edge.jpg", 0.45, 0.6),
+    7: ("File:Gummibereifung der metro.JPG", 0.42, 0.55),
+    8: ("File:Southgate station southbound look north tunnel.JPG", 0.52, 0.45),
+    9: ("File:Bournemouth (9453245033).jpg", 0.45, 0.15),
+    11: ("File:Novatorskaya - south-east ventilation shaft 2.jpg", 0.47, 0.6),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None

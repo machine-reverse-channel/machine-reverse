@@ -121,6 +121,16 @@ sc("""A freight train looks like the simplest machine on Earth. It is actually a
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:CN Freight. Helper Engine in Mid-train 6082 (6775062342).jpg", 0.65, 0.4),
+    2: ("File:Long freight train in Newport station - geograph.org.uk - 6254833.jpg", 0.83, 0.6),
+    3: ("File:AAR knuckle coupler connection.jpg", 0.5, 0.5),
+    4: ("File:Rear of CSX train L005 awaiting departure from Framingham October 2025.jpg", 0.49, 0.69),
+    5: ("File:Antique Caboose at La Crosse, Virginia.jpg", 0.62, 0.22),
+    6: ("File:DGVR40 Staunton WJGrimes.JPG", 0.55, 0.3),
+    7: ("File:DTTX 724681 20050529 IL Rochelle.jpg", 0.5, 0.5),
+    8: ("File:Tinsley Hump Marshalling Yard 1981 - geograph.org.uk - 2308273.jpg", 0.45, 0.6),
+    9: ("File:Tehachapi Loop Aerial.jpg", 0.5, 0.5),
+    10: ("File:Illinois Central 101 (4593757527).jpg", 0.42, 0.62),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
