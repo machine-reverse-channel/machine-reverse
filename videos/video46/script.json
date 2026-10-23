@@ -24,10 +24,14 @@
    "text": "Why are there rocks under railway tracks? They are called ballast, and they do three jobs at once. First, they spread the weight of the train over the soft ground below, like snowshoes. Second, they lock the sleepers in place, so the track cannot slide sideways or along its length. And third, they let rain drain away instantly. Water is the enemy of a railway, because wet ground turns soft and the track sinks.",
    "query": "railway ballast",
    "caption": "WHY ARE THERE ROCKS UNDER RAILWAY TRACKS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.62,
+    "y": 0.62
+   },
    "chapter": "1. The rocks",
    "short": "Why Are There Rocks Under Railway Tracks?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Bauende eines neuen Streckenabschnittes mit Betonschwellen.jpg"
   },
   {
    "text": "The stones are not random. They are crushed rock, usually hard stone like granite or basalt, broken into pieces of a few centimeters with sharp edges. Sharp edges matter. Angular stones lock together like a puzzle when they are pressed. Round river pebbles would roll like marbles, and the track would move every time a train passed.",
@@ -43,10 +47,14 @@
    "text": "Why are there blocks across the track under the rails? They are called sleepers in Britain and ties in America. Their job is to hold the two rails at exactly the right distance apart, called the gauge, and to pass the load from the rails into the ballast. A main line has well over a thousand of them in every kilometer. If the gauge opens even a few centimeters, a wheel can drop between the rails.",
    "query": "concrete sleepers",
    "caption": "WHY ARE THERE BLOCKS UNDER THE RAILS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.75
+   },
    "chapter": "2. The sleepers",
    "short": "Why Do Railway Tracks Need Sleepers?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Concrete to wooden tie transition.JPG"
   },
   {
    "text": "For more than a century, sleepers were mostly wood, often soaked in creosote, a dark tar-like preservative that protects against rot and insects. That smell of a railway on a hot day is often creosote. Many modern main lines use concrete sleepers instead. They are heavier, around a quarter of a ton or more each, so they hold the track more firmly, and they can last for decades.",
@@ -62,10 +70,14 @@
    "text": "Why are modern rails held down by small curled pieces of steel instead of big nails? Those clips are springs. On wooden sleepers, rails were traditionally held by spikes, like giant nails. But spikes slowly loosen as trains shake them. A spring clip presses down on the rail with a constant force, and if the rail moves or vibrates, the clip moves with it and keeps pushing.",
    "query": "Pandrol clip",
    "caption": "WHY IS THE RAIL HELD BY THIS CLIP?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.38,
+    "y": 0.6
+   },
    "chapter": "3. The rail clip",
    "short": "Why Are Rails Held Down by Springs?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Pandrol-on-concrete.jpg"
   },
   {
    "text": "One of the most famous designs is the Pandrol clip, developed in the nineteen fifties from an idea by a Norwegian engineer, Per Pande-Rolfsen. The name combines parts of his name. It became one of the most widely used rail fastenings in the world. Workers can install and remove these clips quickly, which matters on a railway that has millions of them.",
@@ -81,10 +93,14 @@
    "text": "Why does a rail have that strange shape when you cut it? Look at the end of a rail. It has a rounded head on top, a thin vertical web in the middle, and a wide flat foot at the bottom. It is like a steel beam. The head is thick because the wheels wear it away. The tall web makes the rail very stiff, so it can bridge the gap between sleepers. And the wide foot sits flat and stable on the sleepers.",
    "query": "rail profile cross section",
    "caption": "WHY IS A RAIL SHAPED LIKE THIS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.32,
+    "y": 0.45
+   },
    "chapter": "4. The rail's shape",
    "short": "Why Are Rails Shaped Like an Upside Down T?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:DB Museum rail and concrete sleeper cross section 1.jpg"
   },
   {
    "text": "This flat-bottom design was promoted in Britain by the engineer Charles Vignoles in the eighteen thirties, and something similar was developed in America by Robert Stevens around the same time. Earlier rails came in many shapes, and some broke easily. The flat-bottom rail won because it puts the steel exactly where it does the most work.",
@@ -100,10 +116,14 @@
    "text": "Why do giant yellow machines drive along tracks shaking the rocks? They are tampers. Over time, trains push the ballast around, and the track sinks a little more in some places than others. The tamper measures the track, lifts it to the correct height, and then drives vibrating steel fingers into the ballast on each side of a sleeper. They squeeze the stones together under the sleeper, so it stays at the new height.",
    "query": "tamping machine",
    "caption": "WHY DOES THIS MACHINE SHAKE THE ROCKS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.3,
+    "y": 0.6
+   },
    "chapter": "5. The tamping machine",
    "short": "Why Do Machines Shake the Rocks Under Railway Tracks?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Plasser & Theurer Ballast Tamping Train.jpg"
   },
   {
    "text": "This is the big advantage of ballast. A track on stones can be adjusted. Raise it a little here, shift it a little there, then pack the stones tightly. A modern tamping machine uses lasers and computers, and it can work through hundreds of sleepers in an hour. The Austrian company Plasser and Theurer has been building these machines since the nineteen fifties.",
@@ -119,10 +139,14 @@
    "text": "Why do some railway machines dig up all the stones under a track? Because ballast slowly dies. Every train crushes the stones a little. Sharp edges become round, small pieces become dust, and dirt from the ground and from trains fills the gaps. Railway engineers call this fouling. Fouled ballast cannot drain water, and it no longer locks the sleepers in place.",
    "query": "ballast cleaning machine",
    "caption": "WHY DOES THIS MACHINE EAT THE ROCKS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.4,
+    "y": 0.62
+   },
    "chapter": "6. The stone washing machine",
    "short": "Why Do Railways Dig Up and Wash Their Rocks?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Ballast cleaning machine BCM343.jpg"
   },
   {
    "text": "A ballast cleaner digs the stones out from under the track with a moving chain, without removing the rails. It shakes them through screens, keeps the good stones, throws away the dust and small pieces, and puts the clean stones back, with fresh stone added. It is like a giant sieve rolling along the railway.",
@@ -138,10 +162,14 @@
    "text": "Why do some railway bridges have extra rails inside the normal ones? They are guard rails. They do nothing when the train runs normally. But if a wheel derails on the bridge, the guard rail catches it and keeps the train running in a straight line along the track, instead of veering sideways and falling off the bridge or hitting the structure.",
    "query": "guard rail railway bridge",
    "caption": "WHY DOES THIS BRIDGE HAVE EXTRA RAILS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.7
+   },
    "chapter": "7. The extra rails on bridges",
    "short": "Why Do Railway Bridges Have Extra Rails?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Railroad bridge across the Willimantic River, Ellington CT.jpg"
   },
   {
    "text": "The same idea is used in other risky places, like sharp curves and next to important structures. On switches, short check rails help guide the wheels through the gap where two rails cross. These extra rails are a backup for the moment something has already gone wrong. They turn a derailment into a controlled slide.",
@@ -157,10 +185,14 @@
    "text": "Why are there small boxes bolted to the side of railway rails? Many of them are axle counters. Each one counts the wheels entering and leaving a section of track. If the same number goes out as came in, the section is empty and the signal can turn green. If not, it stays red. Signals do not see trains. They count them.",
    "query": "axle counter",
    "caption": "WHY IS THIS BOX ON THE RAIL?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.35
+   },
    "chapter": "8. The box that counts axles",
    "short": "Why Is There a Box Bolted to the Rail?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Axle counter installed on rail 20260913.jpg"
   },
   {
    "text": "The older method is even more clever. In eighteen seventy-two, the American William Robinson created the closed track circuit. A small electric current runs through the rails. When a train enters, its steel wheels and axles connect the two rails and short the circuit, and the signal turns red. If a wire breaks or the power fails, the signal also turns red. The failure is safe.",
@@ -176,10 +208,14 @@
    "text": "Why are there flat yellow boxes lying between the rails on many modern railways? They are balises, and they talk to trains. When a train passes over one, an antenna under the train sends energy down, and the balise wakes up and sends back data, like the exact location, the speed limit ahead, or the distance to the next signal. The balise has no battery. It is powered by the train itself.",
    "query": "Eurobalise",
    "caption": "WHY IS THIS YELLOW BOX BETWEEN THE RAILS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.47,
+    "y": 0.45
+   },
    "chapter": "9. The yellow box between the rails",
    "short": "Why Is There a Yellow Box Between the Rails?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Eurobalise Toledo.JPG"
   },
   {
    "text": "In Europe, these are part of the European Train Control System, which is replacing dozens of different national systems. The computer on the train uses the information to calculate a safe speed, and if the driver goes too fast, the train brakes automatically. The train does not just obey signals. It knows the rules of the track ahead.",
@@ -195,10 +231,14 @@
    "text": "Why do some railways have sensors beside the track pointing at the wheels? They are hot box detectors. As a train passes, infrared sensors measure the temperature of every wheel bearing. A bearing that is failing gets very hot, and if nothing is done, it can seize, the axle can break, and the train can derail. The detector finds it minutes or hours before it fails.",
    "query": "hot box detector",
    "caption": "WHY DOES THIS SENSOR WATCH WHEELS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.4,
+    "y": 0.6
+   },
    "chapter": "10. The heat detector",
    "short": "Why Do Railways Measure the Temperature of Every Wheel?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Defect Detector.JPG"
   },
   {
    "text": "On many North American railways, these detectors talk to the crew by radio. After the train passes, a robotic voice announces the result, often something like no defects. If there is a problem, it tells the crew which axle, counted from the front, so they can stop and inspect it. Other detectors along the line check for dragging equipment, high loads, and flat spots on wheels.",

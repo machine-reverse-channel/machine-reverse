@@ -121,6 +121,16 @@ sc("""Next time you see rocks under a railway, you will know they are doing thre
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Bauende eines neuen Streckenabschnittes mit Betonschwellen.jpg", 0.62, 0.62),
+    2: ("File:Concrete to wooden tie transition.JPG", 0.5, 0.75),
+    3: ("File:Pandrol-on-concrete.jpg", 0.38, 0.6),
+    4: ("File:DB Museum rail and concrete sleeper cross section 1.jpg", 0.32, 0.45),
+    5: ("File:Plasser & Theurer Ballast Tamping Train.jpg", 0.3, 0.6),
+    6: ("File:Ballast cleaning machine BCM343.jpg", 0.4, 0.62),
+    7: ("File:Railroad bridge across the Willimantic River, Ellington CT.jpg", 0.5, 0.7),
+    8: ("File:Axle counter installed on rail 20260913.jpg", 0.55, 0.35),
+    9: ("File:Eurobalise Toledo.JPG", 0.47, 0.45),
+    10: ("File:Defect Detector.JPG", 0.4, 0.6),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
