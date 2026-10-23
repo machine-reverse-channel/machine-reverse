@@ -37,11 +37,11 @@ sc("""The Germans learned fast. Their Panther tank, built from nineteen forty th
 # ---------- 2. WEDGES ----------
 part(2, "The wedge on the turret", "WHY DOES THIS TURRET HAVE A WEDGE?", "Why Do Modern Tank Turrets Have Wedges?",
      """Why do some modern tanks, like later versions of the Leopard two, have pointed wedges on the front of the turret? Because they are extra armor, mounted in front of the main armor with a gap behind them. A shell or missile hits the wedge first, at a steep angle, and part of its energy is spent or deflected before it reaches the real armor.""",
-     "Leopard 2")
+     "Leopard 2 tank")
 sc("""Modern tank shells are long, thin darts of very dense metal, fired at more than a kilometer and a half per second. Against these, slope helps less than it did in the nineteen forties, because a dart tends to turn into the plate instead of bouncing off. So designers combine slope with spaced layers and special materials.""",
-   "Leopard 2", "DARTS AT 1.5 KM/S")
+   "Leopard 2 tank", "DARTS AT 1.5 KM/S")
 sc("""The wedge is also a modular part. When better armor is developed, the wedge can be removed and replaced without rebuilding the whole tank. Modern armor is designed to be upgraded, like software, one module at a time.""",
-   "Leopard 2", "ARMOR YOU CAN UPGRADE")
+   "Leopard 2 tank", "ARMOR YOU CAN UPGRADE")
 
 # ---------- 3. COMPOSITE ----------
 part(3, "The secret layers inside", "WHY IS THIS ARMOR KEPT SECRET?", "Why Is Modern Tank Armor Kept Secret?",
@@ -82,11 +82,11 @@ sc("""Tanks that store ammunition around the crew, without this separation, have
 # ---------- 7. ENGINE IN FRONT ----------
 part(7, "The engine in the front", "WHY IS THIS TANK'S ENGINE IN THE FRONT?", "Why Does the Merkava Tank Put Its Engine in Front?",
      """Why does Israel's Merkava tank have its engine in the front, when most tanks have it at the back? Because the engine is a big block of steel that can stop shells too. Israel designed the Merkava with one priority above all, survival of the crew. Putting the engine in front means anything that hits the front must go through the engine before it can reach the people.""",
-     "Merkava")
+     "Merkava tank")
 sc("""It also frees the back of the tank. The Merkava has a door at the rear, so the crew can get in and out under cover, away from enemy fire. That space can even carry wounded soldiers or extra infantry in an emergency, something few other battle tanks can do.""",
-   "Merkava", "A DOOR AT THE BACK")
+   "Merkava tank", "A DOOR AT THE BACK")
 sc("""The engine is not perfect armor, and a damaged engine leaves the tank stuck. But a tank can be repaired, and a trained crew is much harder to replace. In the Merkava, the whole layout of the machine says one thing. The people matter most.""",
-   "Merkava", "THE PEOPLE MATTER MOST")
+   "Merkava tank", "THE PEOPLE MATTER MOST")
 
 # ---------- 8. PERISCOPES ----------
 part(8, "The periscopes", "WHY DOES THE CREW LOOK THROUGH THESE?", "Why Do Tank Crews See Through Periscopes?",
@@ -118,9 +118,9 @@ sc("""The price is wear and maintenance. Tracks are heavy, they can break or be 
 # ---------- 11. ACTIVE PROTECTION ----------
 part(11, "The radar that shoots back", "WHY DOES THIS TANK SHOOT DOWN MISSILES?", "Why Can Some Tanks Shoot Down Missiles?",
      """Why do some tanks carry small radar panels on their turret? Because they can shoot down incoming missiles. They are part of an active protection system. The radar detects a rocket or missile flying toward the tank, a computer calculates its path, and a launcher fires a burst that destroys or deflects it a few meters before it hits.""",
-     "Merkava")
+     "Merkava tank")
 sc("""Israel's Trophy system, mounted on the Merkava, made the first combat interception in two thousand eleven, near Gaza, stopping an anti tank missile. Since then, it has been fitted to some American Abrams and German Leopard tanks too. The whole sequence takes a fraction of a second.""",
-   "Merkava", "TROPHY, 2011")
+   "Merkava tank", "TROPHY, 2011")
 sc("""It is a big change in thinking. For a century, tanks survived by being hard to break. Now they also survive by not being hit at all. Slope, layers, bricks, cages and radar, every generation added a new layer of defense, and each one exists because the weapons got better too.""",
    "tank", "NOT BEING HIT AT ALL")
 
@@ -132,6 +132,17 @@ sc("""A tank looks like a simple block of steel, but every angle on it is a calc
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:T-34-85 Tank at the Imperial War Museum.jpg", 0.25, 0.58),
+    2: ("File:Leopard 2 A7.JPG", 0.42, 0.32),
+    3: ("File:M1 Abrams Turret Bustle Side Special Armor.png", 0.88, 0.6),
+    4: ("File:IDET2007 reactive armor DYNA.jpg", 0.3, 0.4),
+    5: ("File:Slat armour on the Stridsvagn 103C at the Swedish Army Museum September 2015.jpg", 0.5, 0.4),
+    6: ("File:M1 Abrams noBG.jpg", 0.68, 0.3),
+    7: ("File:Merkava-1-batey-haosef-1.jpg", 0.5, 0.7),
+    8: ("File:JGSDF Type 61 Tank periscope at Camp Imazu November 9, 2014.jpg", 0.45, 0.5),
+    9: ("File:Leopard 2A6 Kokonaisturvallisuus 2015 03 smoke grenade launchers.JPG", 0.62, 0.4),
+    10: ("File:Kette T-34 85 IWM.jpg", 0.75, 0.45),
+    11: ("File:NGP 6692.jpg", 0.65, 0.47),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
