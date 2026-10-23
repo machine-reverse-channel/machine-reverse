@@ -1,0 +1,246 @@
+{
+ "id": "video57",
+ "title": "Why Do Skyscrapers Hide a Giant Ball Inside?",
+ "length_scale": 1.6,
+ "scenes": [
+  {
+   "text": "Near the top of Taipei one oh one, one of the tallest buildings in the world, hangs a golden steel ball weighing about six hundred and sixty tonnes. It is not decoration. It swings. When a typhoon hits Taiwan, the ball moves against the building's sway and calms it down. Today, eleven parts of a skyscraper, and why each one exists, starting with that giant ball.",
+   "query": "Taipei 101 tuned mass damper",
+   "caption": "A GIANT BALL INSIDE",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Skyscrapers look rigid, but they are not. They bend in the wind, they shake in earthquakes, and their tops move back and forth every day by centimeters, sometimes by much more. The real enemy of a tall building is usually not its own weight. It is the wind.",
+   "query": "Taipei 101",
+   "caption": "THE ENEMY IS THE WIND"
+  },
+  {
+   "text": "As always, every fact comes from a named source, building owners, engineering firms, and official reports, all listed in the description. Let's start with the ball.",
+   "query": "tuned mass damper",
+   "caption": "WHY DOES THIS EXIST?"
+  },
+  {
+   "text": "Why does Taipei one oh one have a six hundred and sixty tonne steel ball hanging inside it? Because it fights the sway. The ball hangs from cables, between the eighty seventh and ninety second floors, like a giant pendulum. It is tuned so that when the wind pushes the building one way, the ball's inertia makes it lag behind and pull the other way, taking energy out of the motion.",
+   "query": "Taipei 101 tuned mass damper",
+   "caption": "WHY IS THERE A GIANT BALL IN THIS BUILDING?",
+   "arrow": true,
+   "chapter": "1. The giant steel ball",
+   "short": "Why Do Skyscrapers Hide a Giant Ball Inside?",
+   "cuts": 3
+  },
+  {
+   "text": "Hydraulic dampers under the ball absorb that energy and turn it into heat. Engineers say the ball can reduce the building's sway by up to about forty percent. In two thousand fifteen, during Typhoon Soudelor, it swung about a meter, the biggest movement ever recorded for it.",
+   "query": "Taipei 101 tuned mass damper",
+   "caption": "IT SWUNG ONE METER"
+  },
+  {
+   "text": "Most buildings hide their dampers. Taipei one oh one turned its damper into a tourist attraction, painted gold, with its own cartoon mascots. Visitors can walk around it and watch the counterweight that keeps the tower calm.",
+   "query": "Taipei 101",
+   "caption": "A TOURIST ATTRACTION"
+  },
+  {
+   "text": "Why are skyscrapers allowed to sway at all? Because a building that cannot bend would break. Steel and concrete flex a little under the wind, and that flexibility lets the building absorb gusts safely. The top of a very tall tower can move by tens of centimeters in a storm, and the structure is designed for it.",
+   "query": "skyscraper sway",
+   "caption": "WHY DOES THIS BUILDING SWAY?",
+   "arrow": true,
+   "chapter": "2. The top that moves",
+   "short": "Why Are Skyscrapers Designed to Sway?",
+   "cuts": 3
+  },
+  {
+   "text": "The real limit is not strength, it is comfort. People feel motion long before the building is in any danger. Water in toilets sloshes, lamps swing, and some people feel seasick. So engineers set limits on how much the top floors may accelerate, especially in apartments where people sleep.",
+   "query": "skyscraper",
+   "caption": "THE LIMIT IS COMFORT"
+  },
+  {
+   "text": "Tall buildings are tested as models in wind tunnels before they are built, often in a model of the whole city around them, because neighboring towers change how the wind hits. The design is then adjusted until the motion at the top feels calm.",
+   "query": "skyscraper wind tunnel",
+   "caption": "TESTED IN A WIND TUNNEL"
+  },
+  {
+   "text": "Why does the Burj Khalifa get narrower in steps as it rises, like a spiral staircase? Because it confuses the wind. When wind flows around a tall building, it sheds swirls of air on alternate sides, called vortices. If those swirls form in a steady rhythm, they push the tower side to side, and the building can start to rock.",
+   "query": "Burj Khalifa",
+   "caption": "WHY DOES THIS TOWER GET THINNER IN STEPS?",
+   "arrow": true,
+   "chapter": "3. The steps that confuse the wind",
+   "short": "Why Does the Burj Khalifa Get Thinner in Steps?",
+   "cuts": 3
+  },
+  {
+   "text": "The Burj Khalifa's shape changes every few floors. Its Y shaped plan steps back in a spiral, so the width of the building is different at each height. The swirls cannot organize into one strong rhythm. Engineers called it confusing the wind, and they tested many versions in wind tunnels.",
+   "query": "Burj Khalifa",
+   "caption": "CONFUSING THE WIND"
+  },
+  {
+   "text": "The building was also turned on its site to face the strongest winds in the best direction. At eight hundred and twenty eight meters, the tallest building on Earth is shaped less by architecture than by air.",
+   "query": "Burj Khalifa",
+   "caption": "SHAPED BY AIR"
+  },
+  {
+   "text": "Why does the Shanghai Tower twist as it rises? Because the twist cuts the wind load. The tower rotates by about a hundred and twenty degrees from bottom to top, with a rounded triangle shape. Wind tunnel tests showed that this twist reduces the wind loads on the building by about a quarter compared to a plain rectangular tower.",
+   "query": "Shanghai Tower",
+   "caption": "WHY IS THIS SKYSCRAPER TWISTED?",
+   "arrow": true,
+   "chapter": "4. The twisting tower",
+   "short": "Why Is the Shanghai Tower Twisted?",
+   "cuts": 3
+  },
+  {
+   "text": "Less wind load means less steel and concrete. The designers said it saved tens of millions of dollars in structure. At six hundred and thirty two meters, it is the tallest building in China, and the twist also gives it a glass skin with spaces between the inner and outer walls, used as sky gardens.",
+   "query": "Shanghai Tower",
+   "caption": "LESS STEEL"
+  },
+  {
+   "text": "Twisting, tapering, and cutting holes through the top are now common tricks in supertall design. They all do the same thing. They stop the wind from finding a steady rhythm to push against.",
+   "query": "skyscraper",
+   "caption": "NO STEADY RHYTHM"
+  },
+  {
+   "text": "Why was a New York skyscraper secretly repaired at night in nineteen seventy eight? The building was the Citicorp Center, famous for standing on four tall columns at the middle of each side, not at the corners. After it opened, a question from a student led the structural engineer, William LeMessurier, to recheck his design for winds hitting the building diagonally, at its corners.",
+   "query": "Citicorp Center",
+   "caption": "WHY WAS THIS TOWER FIXED IN SECRET?",
+   "arrow": true,
+   "chapter": "5. The building fixed in secret",
+   "short": "Why Was This Skyscraper Secretly Repaired at Night?",
+   "cuts": 3
+  },
+  {
+   "text": "He found a serious problem. The diagonal braces had been joined with bolts instead of welds, and under certain winds those joints were too weak. His calculations suggested that a strong storm could bring the building down. Hurricane season was coming. So, at night, welders covered the joints with thick steel plates while offices worked normally during the day.",
+   "query": "Citicorp Center",
+   "caption": "WELDING AT NIGHT"
+  },
+  {
+   "text": "Emergency plans were made to evacuate the neighborhood if a hurricane approached. The repairs were finished before any storm tested them, and the public did not learn the full story until nineteen ninety five. The building also has a tuned mass damper on top, a block of concrete of about four hundred tonnes, sliding on oil.",
+   "query": "Citicorp Center",
+   "caption": "SECRET FOR 17 YEARS"
+  },
+  {
+   "text": "Why do most skyscrapers have a massive concrete tube running up their middle? It is the core, the building's spine. It holds the elevators, stairs, pipes and cables, and it is the main structure that stops the tower from bending in the wind. Thick concrete walls on all sides of the core make it very stiff.",
+   "query": "skyscraper core",
+   "caption": "WHY DOES EVERY TOWER HAVE A CONCRETE SPINE?",
+   "arrow": true,
+   "chapter": "6. The concrete core",
+   "short": "Why Do Skyscrapers Have a Concrete Spine?",
+   "cuts": 3
+  },
+  {
+   "text": "On a construction site, the core usually rises first, several floors ahead of everything else. Special climbing forms are pushed up a few meters at a time, and concrete is poured around steel bars. The floors and outer columns follow behind.",
+   "query": "skyscraper",
+   "caption": "THE CORE RISES FIRST"
+  },
+  {
+   "text": "The core is also the safe zone. Stairs inside it are protected by fire resistant walls and pressurized with fresh air to keep smoke out. Some towers in Asia also have refuge floors every so many levels, open floors where people can wait safely during a fire.",
+   "query": "skyscraper",
+   "caption": "THE SAFE ZONE"
+  },
+  {
+   "text": "Why do some skyscrapers have entire floors filled with giant steel trusses? They are outriggers. A core alone would bend like a fishing rod in the wind. Outriggers are huge braces that connect the core to the columns on the outside of the building, so the whole width of the tower works together.",
+   "query": "skyscraper outrigger",
+   "caption": "WHY ARE THERE GIANT TRUSSES UP HERE?",
+   "arrow": true,
+   "chapter": "7. The giant arms at the top",
+   "short": "Why Do Skyscrapers Have Giant Steel Arms Inside?",
+   "cuts": 3
+  },
+  {
+   "text": "When the wind pushes the tower, the core tries to bend. The outriggers turn that bending into pushing and pulling on the outer columns, which are far apart and very effective at resisting it. It is like a person spreading their arms to keep their balance.",
+   "query": "skyscraper",
+   "caption": "SPREADING ITS ARMS"
+  },
+  {
+   "text": "Outrigger floors are usually used for machinery, because the trusses get in the way of offices. If you see a tower with dark bands every few dozen floors, those bands often hide outriggers and mechanical rooms.",
+   "query": "skyscraper",
+   "caption": "THE DARK BANDS"
+  },
+  {
+   "text": "Why do you have to change elevators halfway up a very tall building? Because elevators take up space, and space is money. If every elevator went from the ground to every floor, the bottom of the building would be almost all elevator shafts. So supertall towers use express elevators to sky lobbies, where you change to local elevators that serve only a group of floors.",
+   "query": "skyscraper elevator",
+   "caption": "WHY DO YOU CHANGE ELEVATORS HALFWAY UP?",
+   "arrow": true,
+   "chapter": "8. The sky lobby",
+   "short": "Why Do You Change Elevators in Tall Buildings?",
+   "cuts": 3
+  },
+  {
+   "text": "There is another limit. Steel elevator ropes get heavier the longer they are, and at some point they mostly carry their own weight. That limited a single elevator rise to around five hundred meters. Newer carbon fiber ropes are much lighter, and could allow elevators to rise twice as far.",
+   "query": "skyscraper elevator",
+   "caption": "ROPES THAT CARRY THEMSELVES"
+  },
+  {
+   "text": "Some buildings use double deck elevators, two cabins stacked on top of each other, serving two floors at once. Fast elevators also control air pressure in the cabin, so passengers' ears do not hurt as they climb hundreds of meters in under a minute.",
+   "query": "skyscraper elevator",
+   "caption": "DOUBLE DECK"
+  },
+  {
+   "text": "Why do skyscrapers have red or white lights blinking on their tops? They are aircraft warning lights. Any structure tall enough to be a hazard for planes and helicopters must be marked, so pilots can see it at night and in bad weather. Aviation authorities set the rules for color, brightness and flash rate.",
+   "query": "aircraft warning light skyscraper",
+   "caption": "WHY DO SKYSCRAPERS HAVE RED LIGHTS?",
+   "arrow": true,
+   "chapter": "9. The red lights on top",
+   "short": "Why Do Skyscrapers Have Blinking Red Lights?",
+   "cuts": 3
+  },
+  {
+   "text": "Very tall structures often use bright white flashing lights during the day and red lights at night. The lights are placed at the top and at levels along the height, so the whole outline of the structure can be seen, not just one point.",
+   "query": "skyscraper",
+   "caption": "WHITE BY DAY, RED BY NIGHT"
+  },
+  {
+   "text": "Changing a bulb at the top of a skyscraper can be a climbing job of its own, which is why modern lights use long life LEDs. And in some cities, people use the blinking red lights to tell the time of night, the weather, or simply as a sign of home.",
+   "query": "skyscraper",
+   "caption": "A SIGN OF HOME"
+  },
+  {
+   "text": "Why is there a small crane on the roof of many skyscrapers? It is a building maintenance unit. It moves around the roof on rails and lowers a platform, called a gondola, down the face of the building. Workers ride it to clean windows, replace broken glass and inspect the outer skin.",
+   "query": "skyscraper window cleaning gondola",
+   "caption": "WHY IS THERE A CRANE ON THE ROOF?",
+   "arrow": true,
+   "chapter": "10. The machine that cleans the windows",
+   "short": "Why Is There a Crane on Top of Skyscrapers?",
+   "cuts": 3
+  },
+  {
+   "text": "On a supertall tower, cleaning all the windows once can take months. The Burj Khalifa has several of these machines, some hidden inside the building and rolled out when needed. Window cleaners there work hundreds of meters above the ground, often in strong wind and heat.",
+   "query": "Burj Khalifa",
+   "caption": "MONTHS PER CLEANING"
+  },
+  {
+   "text": "The roof machine is part of the design from the start, because every shape on the facade must be reachable. Fancy curves and sloping glass may look great, but somebody has to clean them, and the gondola must be able to follow.",
+   "query": "skyscraper",
+   "caption": "DESIGNED TO BE CLEANED"
+  },
+  {
+   "text": "What holds up a building weighing hundreds of thousands of tonnes? Foundations that reach deep underground. The Burj Khalifa stands on a thick concrete raft supported by about two hundred concrete piles, each about one and a half meters wide and more than forty meters long. The ground under Dubai is not hard rock, so the piles hold the building mostly by friction along their length.",
+   "query": "skyscraper foundation piles",
+   "caption": "WHY DOES THIS TOWER NEED DEEP PILES?",
+   "arrow": true,
+   "chapter": "11. The piles under the tower",
+   "short": "Why Do Skyscrapers Need Foundations Deep Underground?",
+   "cuts": 3
+  },
+  {
+   "text": "The groundwater in Dubai is also salty and aggressive to concrete and steel. So the foundation used special dense concrete and a system that protects the steel inside from corrosion, the same way ships protect their hulls.",
+   "query": "Burj Khalifa",
+   "caption": "SALTY GROUNDWATER"
+  },
+  {
+   "text": "Foundations are the least glamorous part of a skyscraper. Nobody visits them, and nobody photographs them once they are buried. But every meter of height above ground depends on what was done below it, before the tower even began to rise.",
+   "query": "skyscraper",
+   "caption": "WHAT IS BELOW"
+  },
+  {
+   "text": "So here are the eleven. A giant ball that fights the sway, and a top that is allowed to move. Steps that confuse the wind, a twist that cuts the load, and a tower fixed in secret. A concrete spine, steel arms reaching out to the edges, elevators you change halfway up, red lights for pilots, a crane that cleans the windows, and piles deep in the ground.",
+   "query": "skyscraper",
+   "caption": "11 PARTS. 1 GIANT BALL.",
+   "chapter": "The verdict",
+   "cuts": 6
+  },
+  {
+   "text": "Next time you stand at the top of a tall building, remember that it is moving with you, exactly as planned. If you want more machines and structures explained part by part, subscribe to Machine Reverse. And tell us in the comments what you want us to take apart next.",
+   "query": "skyscraper",
+   "caption": "SUBSCRIBE: MACHINE REVERSE",
+   "cuts": 4
+  }
+ ]
+}

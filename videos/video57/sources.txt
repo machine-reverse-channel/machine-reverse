@@ -1,0 +1,9 @@
+- Taipei 101 tuned mass damper (660 t, floors 87-92, ~1 m movement in Typhoon Soudelor 2015): Wikipedia, "Taipei 101" https://en.wikipedia.org/wiki/Taipei_101 ; Wikipedia, "Tuned mass damper" https://en.wikipedia.org/wiki/Tuned_mass_damper
+- Building sway, occupant comfort criteria, wind tunnel testing: CTBUH (Council on Tall Buildings and Urban Habitat) https://www.ctbuh.org/ ; RWDI wind engineering
+- Burj Khalifa ("confusing the wind", Y-shaped plan, 828 m, 192 piles 1.5 m x 43 m, cathodic protection, BMUs): Skidmore, Owings & Merrill; Wikipedia, "Burj Khalifa" https://en.wikipedia.org/wiki/Burj_Khalifa ; Baker, Korista et al., "Engineering the World's Tallest - Burj Dubai" (CTBUH 2008)
+- Shanghai Tower (632 m, 120° twist, ~24% lower wind loads): Gensler; Wikipedia, "Shanghai Tower" https://en.wikipedia.org/wiki/Shanghai_Tower
+- Citicorp Center 1978 crisis (bolted joints, quartering winds, night welding, revealed 1995; 400 t tuned mass damper): Joe Morgenstern, "The Fifty-Nine-Story Crisis", The New Yorker, 29 May 1995 ; Wikipedia, "Citigroup Center" https://en.wikipedia.org/wiki/Citigroup_Center
+- Cores, outriggers, refuge floors: CTBUH technical guides ; Wikipedia, "Outrigger (architecture)"
+- Sky lobbies, rope length limit and KONE UltraRope: KONE https://www.kone.com/en/ultrarope ; Wikipedia, "Sky lobby" https://en.wikipedia.org/wiki/Sky_lobby
+- Aircraft warning lights: FAA Advisory Circular 70/7460-1 "Obstruction Marking and Lighting" https://www.faa.gov/
+- Building maintenance units: Wikipedia, "Building maintenance unit" https://en.wikipedia.org/wiki/Building_maintenance_unit
