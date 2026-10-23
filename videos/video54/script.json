@@ -1,0 +1,246 @@
+{
+ "id": "video54",
+ "title": "Why Is Tank Armor Slanted?",
+ "length_scale": 1.6,
+ "scenes": [
+  {
+   "text": "In nineteen forty one, German soldiers met a Soviet tank their guns could barely hurt. Its armor was not especially thick. But it was tilted, slanted back at a steep angle, and shells that should have gone through bounced off. That tank was the T thirty four, and its sloped armor changed tank design for decades. Today, eleven parts of a tank, and why each one exists, starting with that angle.",
+   "query": "T-34 tank",
+   "caption": "WHY IS IT SLANTED?",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "A tank is a balance of three things that fight each other. Protection, firepower and mobility. More armor means more weight, and more weight means slower speed, more fuel, and bridges that cannot carry it. So every part of a tank is a trick to get more protection without carrying more steel.",
+   "query": "M1 Abrams",
+   "caption": "THE IRON TRIANGLE"
+  },
+  {
+   "text": "As always, every fact comes from a named source, military history references, army publications, and museum archives, all listed in the description. Let's start with the slanted plate on the front.",
+   "query": "tank glacis plate",
+   "caption": "WHY DOES THIS EXIST?"
+  },
+  {
+   "text": "Why is the front armor of a tank tilted back? Because a shell hitting a slanted plate has to travel through more steel. Imagine a plate tilted at sixty degrees. A shell flying straight at it crosses a path about twice as long as the plate is thick. So a plate forty five millimeters thick can act like one of about ninety, without weighing more.",
+   "query": "T-34 tank",
+   "caption": "WHY IS THIS ARMOR SLANTED?",
+   "arrow": true,
+   "chapter": "1. The slanted front plate",
+   "short": "Why Is Tank Armor Slanted?",
+   "cuts": 3
+  },
+  {
+   "text": "There is a second effect. A shell that hits at a steep angle may not bite into the steel at all. It can skid along the surface and fly off, which tankers call a ricochet. The T thirty four's front plate was slanted at sixty degrees from vertical, and many early German shells simply bounced.",
+   "query": "T-34 tank",
+   "caption": "THE RICOCHET"
+  },
+  {
+   "text": "The Germans learned fast. Their Panther tank, built from nineteen forty three, copied the idea with a thick front plate sloped at fifty five degrees. After the war, almost every tank in the world had a slanted front. The angle was free protection, paid for only with a little interior space.",
+   "query": "Panther tank glacis",
+   "caption": "COPIED BY EVERYONE"
+  },
+  {
+   "text": "Why do some modern tanks, like later versions of the Leopard two, have pointed wedges on the front of the turret? Because they are extra armor, mounted in front of the main armor with a gap behind them. A shell or missile hits the wedge first, at a steep angle, and part of its energy is spent or deflected before it reaches the real armor.",
+   "query": "Leopard 2",
+   "caption": "WHY DOES THIS TURRET HAVE A WEDGE?",
+   "arrow": true,
+   "chapter": "2. The wedge on the turret",
+   "short": "Why Do Modern Tank Turrets Have Wedges?",
+   "cuts": 3
+  },
+  {
+   "text": "Modern tank shells are long, thin darts of very dense metal, fired at more than a kilometer and a half per second. Against these, slope helps less than it did in the nineteen forties, because a dart tends to turn into the plate instead of bouncing off. So designers combine slope with spaced layers and special materials.",
+   "query": "Leopard 2",
+   "caption": "DARTS AT 1.5 KM/S"
+  },
+  {
+   "text": "The wedge is also a modular part. When better armor is developed, the wedge can be removed and replaced without rebuilding the whole tank. Modern armor is designed to be upgraded, like software, one module at a time.",
+   "query": "Leopard 2",
+   "caption": "ARMOR YOU CAN UPGRADE"
+  },
+  {
+   "text": "Why can no one tell you exactly what is inside the armor of a modern tank? Because it is not just steel. In the nineteen sixties and seventies, British researchers developed a new kind of armor, later known as Chobham armor. It uses layers of different materials, such as ceramics and metals, packed together. Each layer breaks or slows the attacker in a different way.",
+   "query": "M1 Abrams",
+   "caption": "WHY IS THIS ARMOR KEPT SECRET?",
+   "arrow": true,
+   "chapter": "3. The secret layers inside",
+   "short": "Why Is Modern Tank Armor Kept Secret?",
+   "cuts": 3
+  },
+  {
+   "text": "Ceramics are very hard. They shatter the tip of an incoming dart or disrupt the jet of a missile warhead. The metal layers behind catch the fragments. Together, they stop much more than the same weight of plain steel. The American M one Abrams and the British Challenger were built around this idea.",
+   "query": "Chobham armour",
+   "caption": "HARDER THAN STEEL"
+  },
+  {
+   "text": "The exact recipe is still classified. Later versions of the Abrams were reported to add depleted uranium, a very dense metal, inside the armor. The boxy, flat-sided look of modern tanks comes from this. Composite armor works best in thick flat packs, so the turret became a big box.",
+   "query": "M1 Abrams",
+   "caption": "STILL CLASSIFIED"
+  },
+  {
+   "text": "Why are some tanks covered in boxes full of explosive? Because these boxes destroy the weapon before it reaches the tank. They are called explosive reactive armor. Many anti tank missiles use a shaped charge, which turns a metal cone into a jet of metal moving at several kilometers per second, able to punch through thick steel.",
+   "query": "explosive reactive armour",
+   "caption": "WHY ARE THERE EXPLODING BRICKS ON THIS TANK?",
+   "arrow": true,
+   "chapter": "4. The bricks that explode",
+   "short": "Why Do Tanks Wear Bricks That Explode?",
+   "cuts": 3
+  },
+  {
+   "text": "When that jet hits a reactive armor brick, the explosive inside goes off and throws a steel plate outward, across the path of the jet. The moving plate keeps cutting into the jet and breaks it up, so much less of it reaches the main armor. Israel first used it in combat in Lebanon in nineteen eighty two, and the Soviet Union soon followed.",
+   "query": "reactive armour",
+   "caption": "BREAKING THE JET"
+  },
+  {
+   "text": "It comes with a cost. A brick that explodes is gone, leaving a gap, and the blast is dangerous to soldiers walking next to the tank. Newer types are also designed to work against the darts fired by enemy tanks, not only against missiles.",
+   "query": "explosive reactive armour",
+   "caption": "ONE USE ONLY"
+  },
+  {
+   "text": "Why do some armored vehicles have a cage of metal bars around them? Because it is a cheap shield against rocket propelled grenades. The bars are spaced so that the warhead of an RPG gets caught between them. Its nose can be crushed or its fuze short circuited, so it fails to go off properly, or it explodes far enough away from the armor to do less damage.",
+   "query": "slat armour",
+   "caption": "WHY IS THIS TANK IN A CAGE?",
+   "arrow": true,
+   "chapter": "5. The cage around the tank",
+   "short": "Why Do Some Tanks Wear Metal Cages?",
+   "cuts": 3
+  },
+  {
+   "text": "Slat armor does not stop every hit. Studies and military reports suggest it defeats roughly half of the grenades that strike it. But it is light, cheap, and quick to bolt on, so armies used it widely in Iraq and Afghanistan, on trucks and armored vehicles that could not carry heavy armor.",
+   "query": "slat armour",
+   "caption": "ABOUT HALF"
+  },
+  {
+   "text": "In recent wars, soldiers have added cages on top of turrets too, against drones that drop explosives from above. People sometimes laugh at them. But the logic is the same as the slanted plate in nineteen forty one. Find a cheap trick that makes the attacker fail.",
+   "query": "tank turret",
+   "caption": "CAGES AGAINST DRONES"
+  },
+  {
+   "text": "Why does the M one Abrams have panels on its turret roof designed to blow off? Because the most dangerous thing in a tank is its own ammunition. If a hit sets the shells on fire, they can explode inside. On the Abrams, the main ammunition sits in a compartment at the back of the turret, behind sliding armored doors, separated from the crew.",
+   "query": "M1 Abrams",
+   "caption": "WHY DOES THIS ROOF BLOW OFF ON PURPOSE?",
+   "arrow": true,
+   "chapter": "6. The roof panels that blow off",
+   "short": "Why Are Tank Roofs Designed to Blow Off?",
+   "cuts": 3
+  },
+  {
+   "text": "If that ammunition explodes, the blast takes the easiest way out. The roof panels above it are made weaker on purpose, so they blow off and send the explosion and fire upward, away from the crew. The tank may be destroyed, but the people inside have a chance to get out alive.",
+   "query": "M1 Abrams",
+   "caption": "BLOW OUT, NOT IN"
+  },
+  {
+   "text": "Tanks that store ammunition around the crew, without this separation, have suffered badly. Photos from recent wars show turrets thrown meters into the air when the ammunition below them exploded. The blowout panel is a simple idea: if something must explode, choose where.",
+   "query": "tank turret",
+   "caption": "CHOOSE WHERE IT EXPLODES"
+  },
+  {
+   "text": "Why does Israel's Merkava tank have its engine in the front, when most tanks have it at the back? Because the engine is a big block of steel that can stop shells too. Israel designed the Merkava with one priority above all, survival of the crew. Putting the engine in front means anything that hits the front must go through the engine before it can reach the people.",
+   "query": "Merkava",
+   "caption": "WHY IS THIS TANK'S ENGINE IN THE FRONT?",
+   "arrow": true,
+   "chapter": "7. The engine in the front",
+   "short": "Why Does the Merkava Tank Put Its Engine in Front?",
+   "cuts": 3
+  },
+  {
+   "text": "It also frees the back of the tank. The Merkava has a door at the rear, so the crew can get in and out under cover, away from enemy fire. That space can even carry wounded soldiers or extra infantry in an emergency, something few other battle tanks can do.",
+   "query": "Merkava",
+   "caption": "A DOOR AT THE BACK"
+  },
+  {
+   "text": "The engine is not perfect armor, and a damaged engine leaves the tank stuck. But a tank can be repaired, and a trained crew is much harder to replace. In the Merkava, the whole layout of the machine says one thing. The people matter most.",
+   "query": "Merkava",
+   "caption": "THE PEOPLE MATTER MOST"
+  },
+  {
+   "text": "Why do tank crews look out through small periscopes instead of windows? Because a window is a hole in the armor. Periscopes bend the light with mirrors or prisms, so the glass that the enemy can hit is outside, and the crew's eyes stay below the armor. If the outer glass is shattered, the periscope can be swapped, and no bullet comes straight in.",
+   "query": "tank periscope",
+   "caption": "WHY DOES THE CREW LOOK THROUGH THESE?",
+   "arrow": true,
+   "chapter": "8. The periscopes",
+   "short": "Why Do Tank Crews See Through Periscopes?",
+   "cuts": 3
+  },
+  {
+   "text": "The weakness is that a tank crew sees very little. Old tanks had narrow vision slits, and commanders often stood up with their head out of the hatch to see better, which made them targets. Modern tanks use thermal cameras and sights that show the world on screens, even at night or through smoke.",
+   "query": "tank turret",
+   "caption": "HEAD OUT OF THE HATCH"
+  },
+  {
+   "text": "Some new designs even use cameras around the whole tank, letting the crew look through the armor in any direction on a headset. But even the most modern tanks still keep simple periscopes as backup. When the electronics fail, glass and mirrors still work.",
+   "query": "tank periscope",
+   "caption": "GLASS STILL WORKS"
+  },
+  {
+   "text": "What are those small tubes on the sides of a tank's turret? They are smoke grenade launchers. When the crew sees a threat, like a missile being fired or a laser pointing at the tank, they can fire a wall of smoke in front of the tank in seconds. Then the tank can back away or move, hidden behind the cloud.",
+   "query": "tank smoke grenade launcher",
+   "caption": "WHY ARE THERE TUBES ON THIS TURRET?",
+   "arrow": true,
+   "chapter": "9. The tubes on the turret",
+   "short": "Why Do Tanks Have Tubes on the Turret?",
+   "cuts": 3
+  },
+  {
+   "text": "Modern smoke does more than block normal sight. Some types also block infrared and thermal cameras, and the lasers that guide some missiles. Many tanks carry laser warning sensors that can fire the smoke automatically, faster than a human could react.",
+   "query": "tank smoke grenade launcher",
+   "caption": "AUTOMATIC SMOKE"
+  },
+  {
+   "text": "It is the oldest form of defense on the battlefield, if they cannot see you, they cannot hit you, done in a modern way. A few kilograms of smoke can protect a tank of sixty tonnes as well as a meter of steel, for a few precious seconds.",
+   "query": "tank",
+   "caption": "IF THEY CANNOT SEE YOU"
+  },
+  {
+   "text": "Why do tanks run on wide tracks instead of wheels? Because a tank weighs as much as forty cars, and wheels would sink into mud, sand or snow. A track spreads that weight over a long, wide strip of ground. A modern main battle tank presses on the ground with about the same pressure as a person walking, despite weighing sixty tonnes.",
+   "query": "tank track",
+   "caption": "WHY ARE THESE TRACKS SO WIDE?",
+   "arrow": true,
+   "chapter": "10. The wide tracks",
+   "short": "Why Do Tanks Use Tracks Instead of Wheels?",
+   "cuts": 3
+  },
+  {
+   "text": "The T thirty four had unusually wide tracks for its time, and in the mud of the Russian autumn, that gave it a big advantage over tanks with narrow tracks. Tracks also let a tank turn on the spot, by moving one side forward and the other side backward.",
+   "query": "T-34 tank",
+   "caption": "BUILT FOR MUD"
+  },
+  {
+   "text": "The price is wear and maintenance. Tracks are heavy, they can break or be thrown off in tight turns, and crews spend hours fixing them. But no wheeled vehicle can carry that much armor across that much bad ground.",
+   "query": "tank track",
+   "caption": "HOURS OF REPAIRS"
+  },
+  {
+   "text": "Why do some tanks carry small radar panels on their turret? Because they can shoot down incoming missiles. They are part of an active protection system. The radar detects a rocket or missile flying toward the tank, a computer calculates its path, and a launcher fires a burst that destroys or deflects it a few meters before it hits.",
+   "query": "Merkava",
+   "caption": "WHY DOES THIS TANK SHOOT DOWN MISSILES?",
+   "arrow": true,
+   "chapter": "11. The radar that shoots back",
+   "short": "Why Can Some Tanks Shoot Down Missiles?",
+   "cuts": 3
+  },
+  {
+   "text": "Israel's Trophy system, mounted on the Merkava, made the first combat interception in two thousand eleven, near Gaza, stopping an anti tank missile. Since then, it has been fitted to some American Abrams and German Leopard tanks too. The whole sequence takes a fraction of a second.",
+   "query": "Merkava",
+   "caption": "TROPHY, 2011"
+  },
+  {
+   "text": "It is a big change in thinking. For a century, tanks survived by being hard to break. Now they also survive by not being hit at all. Slope, layers, bricks, cages and radar, every generation added a new layer of defense, and each one exists because the weapons got better too.",
+   "query": "tank",
+   "caption": "NOT BEING HIT AT ALL"
+  },
+  {
+   "text": "So here are the eleven. A slanted front plate, a wedge on the turret, and secret layers inside. Bricks that explode, a cage of bars, and roof panels that blow off on purpose. An engine in the front, periscopes instead of windows, tubes that fire smoke, wide tracks for the mud, and a radar that shoots back.",
+   "query": "tank",
+   "caption": "11 PARTS. 60 TONNES.",
+   "chapter": "The verdict",
+   "cuts": 6
+  },
+  {
+   "text": "A tank looks like a simple block of steel, but every angle on it is a calculation. If you want more machines explained part by part, subscribe to Machine Reverse. And tell us in the comments which machine you want us to take apart next.",
+   "query": "tank",
+   "caption": "SUBSCRIBE: MACHINE REVERSE",
+   "cuts": 4
+  }
+ ]
+}

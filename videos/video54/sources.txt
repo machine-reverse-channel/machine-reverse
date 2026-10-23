@@ -1,0 +1,12 @@
+- Sloped armour (effective thickness, ricochet, T-34 45 mm at 60°, Panther glacis 80 mm at 55°): Wikipedia, "Sloped armour" https://en.wikipedia.org/wiki/Sloped_armour ; Wikipedia, "T-34" https://en.wikipedia.org/wiki/T-34 ; Wikipedia, "Panther tank" https://en.wikipedia.org/wiki/Panther_tank
+- Leopard 2A5 wedge-shaped add-on armour: Wikipedia, "Leopard 2" https://en.wikipedia.org/wiki/Leopard_2
+- Long-rod APFSDS penetrators: Wikipedia, "Armour-piercing fin-stabilized discarding sabot" https://en.wikipedia.org/wiki/Armour-piercing_fin-stabilized_discarding_sabot
+- Chobham / composite armour, depleted uranium in M1A1HA: Wikipedia, "Chobham armour" https://en.wikipedia.org/wiki/Chobham_armour ; Wikipedia, "M1 Abrams" https://en.wikipedia.org/wiki/M1_Abrams
+- Explosive reactive armour (Blazer, Lebanon 1982; Kontakt): Wikipedia, "Reactive armour" https://en.wikipedia.org/wiki/Reactive_armour
+- Slat armour (~50% effectiveness against RPGs), anti-drone cages: Wikipedia, "Slat armor" https://en.wikipedia.org/wiki/Slat_armor
+- Abrams ammunition compartment and blowout panels: Wikipedia, "M1 Abrams"; Wikipedia, "Blow-off panel" https://en.wikipedia.org/wiki/Blow-off_panel
+- Merkava front engine and rear door: Wikipedia, "Merkava" https://en.wikipedia.org/wiki/Merkava
+- Periscopes and vision devices: Wikipedia, "Periscope" (military use) https://en.wikipedia.org/wiki/Periscope
+- Smoke grenade dischargers, multispectral smoke, laser warning: Wikipedia, "Smoke grenade" https://en.wikipedia.org/wiki/Smoke_grenade
+- Tracks and ground pressure: Wikipedia, "Continuous track" https://en.wikipedia.org/wiki/Continuous_track ; Wikipedia, "Ground pressure" https://en.wikipedia.org/wiki/Ground_pressure
+- Trophy active protection (first combat interception March 2011 near Gaza; fitted to M1A2 and Leopard 2A8): Wikipedia, "Trophy (countermeasure)" https://en.wikipedia.org/wiki/Trophy_(countermeasure)
