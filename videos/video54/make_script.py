@@ -133,7 +133,7 @@ sc("""A tank looks like a simple block of steel, but every angle on it is a calc
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
     1: ("File:T-34-85 Tank at the Imperial War Museum.jpg", 0.25, 0.58),
-    2: ("File:Leopard 2 A7.JPG", 0.42, 0.32),
+    2: ("File:Leopard 2 A7.JPG", 0.38, 0.5),
     3: ("File:M1 Abrams Turret Bustle Side Special Armor.png", 0.88, 0.6),
     4: ("File:IDET2007 reactive armor DYNA.jpg", 0.3, 0.4),
     5: ("File:Slat armour on the Stridsvagn 103C at the Swedish Army Museum September 2015.jpg", 0.5, 0.4),
@@ -142,7 +142,7 @@ PICKS = {
     8: ("File:JGSDF Type 61 Tank periscope at Camp Imazu November 9, 2014.jpg", 0.45, 0.5),
     9: ("File:Leopard 2A6 Kokonaisturvallisuus 2015 03 smoke grenade launchers.JPG", 0.62, 0.4),
     10: ("File:Kette T-34 85 IWM.jpg", 0.75, 0.45),
-    11: ("File:NGP 6692.jpg", 0.65, 0.47),
+    11: ("File:NGP 6692.jpg", 0.47, 0.38),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None

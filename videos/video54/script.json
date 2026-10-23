@@ -48,8 +48,8 @@
    "query": "Leopard 2 tank",
    "caption": "WHY DOES THIS TURRET HAVE A WEDGE?",
    "arrow": {
-    "x": 0.42,
-    "y": 0.32
+    "x": 0.38,
+    "y": 0.5
    },
    "chapter": "2. The wedge on the turret",
    "short": "Why Do Modern Tank Turrets Have Wedges?",
@@ -255,8 +255,8 @@
    "query": "Merkava tank",
    "caption": "WHY DOES THIS TANK SHOOT DOWN MISSILES?",
    "arrow": {
-    "x": 0.65,
-    "y": 0.47
+    "x": 0.47,
+    "y": 0.38
    },
    "chapter": "11. The radar that shoots back",
    "short": "Why Can Some Tanks Shoot Down Missiles?",
