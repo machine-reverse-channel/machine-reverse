@@ -1,0 +1,72 @@
+{
+ "title": "Why Does a Maglev Train Float?",
+ "description": "In Japan, a train has carried people at six hundred three kilometers an hour, faster than the takeoff speed of an airliner. And it did it without touching the ground. Maglev trains have no wheels on the rails at full speed. They float, held up by magnets, a few millimeters or a few centimeters above the track. Today, eleven parts of a floating train, and why each one exists.\n\nMachine Reverse takes apart the machines you see every day and explains, part by part, why each one exists. This video covers 11 parts.\n\nChapters:\n0:00 Intro\n1:15 1. The arms that hug the track\n2:38 2. The 10 millimeter gap\n4:00 3. The motor in the track\n5:18 4. The frozen magnets\n6:46 5. The wheels it still needs\n8:08 6. The figure 8 coils\n9:22 7. The track that bends\n10:44 8. The guideway in the air\n12:03 9. The line under the mountains\n13:25 10. The lesson of Lathen\n14:44 11. The shielded cabin\n16:03 The verdict\n\nSources:\n- Magnetic levitation basics, EMS vs EDS: Wikipedia, \"Maglev\" https://en.wikipedia.org/wiki/Maglev\n- Transrapid (electromagnetic suspension, ~10 mm gap, bending switches, Emsland test facility): Wikipedia, \"Transrapid\" https://en.wikipedia.org/wiki/Transrapid\n- Shanghai Maglev (2004, 30 km, 431 km/h): Wikipedia, \"Shanghai maglev train\" https://en.wikipedia.org/wiki/Shanghai_maglev_train\n- SCMaglev (superconducting magnets, ~10 cm levitation, wheels below ~150 km/h, null-flux coils): Wikipedia, \"SCMaglev\" https://en.wikipedia.org/wiki/SCMaglev and JR Central, \"Superconducting Maglev\" https://global.jr-central.co.jp/en/company/ir/annualreport/\n- 603 km/h world record (21 April 2015): Guinness World Records, \"Fastest maglev train\" https://www.guinnessworldrecords.com/world-records/fastest-maglev-train\n- Linear motors and Linimo: Wikipedia, \"Linimo\" https://en.wikipedia.org/wiki/Linimo\n- Chuo Shinkansen (Tokyo-Nagoya, delays, Shizuoka water dispute): Wikipedia, \"Chūō Shinkansen\" https://en.wikipedia.org/wiki/Ch%C5%AB%C5%8D_Shinkansen\n- Lathen train collision (22 September 2006, 23 deaths): Wikipedia, \"Lathen train collision\" https://en.wikipedia.org/wiki/Lathen_train_collision\n\nPhotos from Wikimedia Commons. Full credits and licenses: https://github.com/viniciushoscher-ctrl/machine-reverse/blob/main/agendamento/creditos/video49.md\n\n#engineering #machines #whydoesthisexist",
+ "tags": [
+  "maglev train float",
+  "maglev",
+  "train",
+  "float",
+  "engineering",
+  "how it works",
+  "why does this exist",
+  "machine reverse",
+  "engineering explained"
+ ],
+ "shorts": [
+  {
+   "file": "short1.mp4",
+   "title": "Why Does a Maglev Train Wrap Around Its Track? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Does a Maglev Train Float?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short2.mp4",
+   "title": "Why Does This Train Float Only 1 Centimeter Up? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Does a Maglev Train Float?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short3.mp4",
+   "title": "Why Is a Maglev's Motor Built Into the Track? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Does a Maglev Train Float?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short4.mp4",
+   "title": "Why Are Japan's Maglev Magnets Colder Than Space? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Does a Maglev Train Float?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short5.mp4",
+   "title": "Why Does a Floating Train Still Have Wheels? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Does a Maglev Train Float?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short6.mp4",
+   "title": "Why Do Maglev Tracks Have Figure 8 Coils? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Does a Maglev Train Float?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short7.mp4",
+   "title": "Why Does a Maglev Track Bend to Switch? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Does a Maglev Train Float?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short8.mp4",
+   "title": "Why Are Maglev Tracks Built Up in the Air? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Does a Maglev Train Float?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short9.mp4",
+   "title": "Why Will Japan's Maglev Run Mostly Underground? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Does a Maglev Train Float?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short10.mp4",
+   "title": "Why Did Germany's Maglev Dream End? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Does a Maglev Train Float?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short11.mp4",
+   "title": "Why Are Maglev Passengers Shielded From the Magnets? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Does a Maglev Train Float?\" on Machine Reverse.\n#shorts #engineering"
+  }
+ ]
+}

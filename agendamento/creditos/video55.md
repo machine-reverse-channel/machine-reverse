@@ -1,0 +1,96 @@
+# Photo credits: Why Do Bridges Have Metal Teeth?
+
+All photos from Wikimedia Commons.
+
+- Roman Finger Ring (FindID 488242).jpg by Derby Museums Trust, Charlotte Burrill, 2012-02-13 10:51:26, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Roman_Finger_Ring_(FindID_488242).jpg
+- Geneva, New York - 10 - Finger Lakes Welcome Center - 20220810.jpg by Andre Carrotflower, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Geneva,_New_York_-_10_-_Finger_Lakes_Welcome_Center_-_20220810.jpg
+- Geneva, New York - 16 - Finger Lakes Welcome Center - 20220810 - terrace.jpg by Andre Carrotflower, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Geneva,_New_York_-_16_-_Finger_Lakes_Welcome_Center_-_20220810_-_terrace.jpg
+- Geneva, New York - 11 - Finger Lakes Welcome Center - 20220810 - entrance.jpg by Andre Carrotflower, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Geneva,_New_York_-_11_-_Finger_Lakes_Welcome_Center_-_20220810_-_entrance.jpg
+- Geneva, New York - 19 - Finger Lakes Welcome Center - 20220810 - terrace and lakeshore.jpg by Andre Carrotflower, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Geneva,_New_York_-_19_-_Finger_Lakes_Welcome_Center_-_20220810_-_terrace_and_lakeshore.jpg
+- Geneva, New York - 12 - Finger Lakes Welcome Center - 20220810 - interior.jpg by Andre Carrotflower, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Geneva,_New_York_-_12_-_Finger_Lakes_Welcome_Center_-_20220810_-_interior.jpg
+- Geneva, New York - 13 - Finger Lakes Welcome Center - 20220810 - Taste NY Market.jpg by Andre Carrotflower, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Geneva,_New_York_-_13_-_Finger_Lakes_Welcome_Center_-_20220810_-_Taste_NY_Market.jpg
+- Geneva, New York - 17 - Finger Lakes Welcome Center - 20220810 - I Heart NY.jpg by Andre Carrotflower, Public domain, https://commons.wikimedia.org/wiki/File:Geneva,_New_York_-_17_-_Finger_Lakes_Welcome_Center_-_20220810_-_I_Heart_NY.jpg
+- 2018-10-22 (835) Bridge expansion joint at Donaubrücke in Krems an der Donau, Austria.jpg by GT1976, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2018-10-22_(835)_Bridge_expansion_joint_at_Donaubr%C3%BCcke_in_Krems_an_der_Donau,_Austria.jpg
+- Cornelis van Beverenbrug - IJsselmonde - Rotterdam - Steel expansion joint.jpg by AgainErick, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cornelis_van_Beverenbrug_-_IJsselmonde_-_Rotterdam_-_Steel_expansion_joint.jpg
+- Gold Roman finger ring (FindID 543492).jpg by Salisbury and South Wiltshire Museum, Richard Henry, 2013-02-07 16:22:01, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Gold_Roman_finger_ring_(FindID_543492).jpg
+- Peruvian brass casting depicting the traditional way of aiding birth by Birth Canal Widening using 4 fingers of both hands pulling away from the centre.jpg by Museum brass casting which appears in Ina May Gaskin's video., CC0, https://commons.wikimedia.org/wiki/File:Peruvian_brass_casting_depicting_the_traditional_way_of_aiding_birth_by_Birth_Canal_Widening_using_4_fingers_of_both_hands_pulling_away_from_the_centre.jpg
+- 20250801 082601 Bridge expansion joints 02.jpg by Ramsch, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:20250801_082601_Bridge_expansion_joints_02.jpg
+- Peruvian brass casting - demonstrating traditional birth aiding technique, using 4 fingers of both hands pulling away from the centre.jpg by Ina May Gaskin displayed it in her talk, a brass casting from museum., CC0, https://commons.wikimedia.org/wiki/File:Peruvian_brass_casting_-_demonstrating_traditional_birth_aiding_technique,_using_4_fingers_of_both_hands_pulling_away_from_the_centre.jpg
+- Expanded Polystyrene (EPS) foam pellets.jpg by Swoolverton, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Expanded_Polystyrene_(EPS)_foam_pellets.jpg
+- Detail of the Magdalen bridge, rivets & expansion gap.jpg by Lewis Collard, CC0, https://commons.wikimedia.org/wiki/File:Detail_of_the_Magdalen_bridge,_rivets_%26_expansion_gap.jpg
+- Expansion joint Golden Gate Bridge.jpg by Michiel1972, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Expansion_joint_Golden_Gate_Bridge.jpg
+- Kruunuvuorensilta bridge expansion joint before renovation (Helsinki, Finland) Aug 24, 2026.jpg by Lasse Keskinen, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Kruunuvuorensilta_bridge_expansion_joint_before_renovation_(Helsinki,_Finland)_Aug_24,_2026.jpg
+- Kruunuvuorensilta bridge expansion joint after renovation (Helsinki, Finland) Aug 27, 2026.jpg by Lasse Keskinen, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Kruunuvuorensilta_bridge_expansion_joint_after_renovation_(Helsinki,_Finland)_Aug_27,_2026.jpg
+- Bridge expansion joint with joint material removed.jpg by NCDOTcommunications, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bridge_expansion_joint_with_joint_material_removed.jpg
+- Expansion joints on Beatus Rhenanus Bridge.jpg by Smiley.toerist, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Expansion_joints_on_Beatus_Rhenanus_Bridge.jpg
+- Warje Bridge expansion construction in progress over Mutha River.jpg by DesiBoy101, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Warje_Bridge_expansion_construction_in_progress_over_Mutha_River.jpg
+- Warje Bridge expansion construction in progress over Mutha River (56931).jpg by DesiBoy101, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Warje_Bridge_expansion_construction_in_progress_over_Mutha_River_(56931).jpg
+- Elastomeric Bearing Pads-1 GA (8423158069).jpg by Federal Highway Administration, Public domain, https://commons.wikimedia.org/wiki/File:Elastomeric_Bearing_Pads-1_GA_(8423158069).jpg
+- Elastomeric Bearing Pads-3 GA (8424249570).jpg by Federal Highway Administration, Public domain, https://commons.wikimedia.org/wiki/File:Elastomeric_Bearing_Pads-3_GA_(8424249570).jpg
+- Elastomeric Bearing Pads-2 GA (8424246150).jpg by Federal Highway Administration, Public domain, https://commons.wikimedia.org/wiki/File:Elastomeric_Bearing_Pads-2_GA_(8424246150).jpg
+- Alignment of Elastomeric Bearing Pads MD (8468556470).jpg by Federal Highway Administration, Public domain, https://commons.wikimedia.org/wiki/File:Alignment_of_Elastomeric_Bearing_Pads_MD_(8468556470).jpg
+- Completion of Slab Placement-1 MD (8467463011).jpg by Federal Highway Administration, Public domain, https://commons.wikimedia.org/wiki/File:Completion_of_Slab_Placement-1_MD_(8467463011).jpg
+- USS George Washington operations 150520-N-YD641-009.jpg by May 20, 2015, Public domain, https://commons.wikimedia.org/wiki/File:USS_George_Washington_operations_150520-N-YD641-009.jpg
+- Rocker Bearings P9030222.JPG by Chris Light, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rocker_Bearings_P9030222.JPG
+- Rocker Bearing, Jensen Drive (Hill Street) Bridge over Buffalo Bayou, Houston, Texas 1310261114 (10577358904).jpg by Patrick Feller from Humble, Texas, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rocker_Bearing,_Jensen_Drive_(Hill_Street)_Bridge_over_Buffalo_Bayou,_Houston,_Texas_1310261114_(10577358904).jpg
+- Rocker Bearing, Jensen Drive (Hill Street) Bridge over Buffalo Bayou, Houston, Texas 1310261115 (10577359824).jpg by Patrick Feller from Humble, Texas, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Rocker_Bearing,_Jensen_Drive_(Hill_Street)_Bridge_over_Buffalo_Bayou,_Houston,_Texas_1310261115_(10577359824).jpg
+- Rocker Bearings P9030223.JPG by Chris Light, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rocker_Bearings_P9030223.JPG
+- HPIM1461.jpg by Chris.urs-o, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:HPIM1461.jpg
+- Hydrodemolitioned deck surface, screed rail, plugged deck drains.jpg by NCDOTcommunications, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Hydrodemolitioned_deck_surface,_screed_rail,_plugged_deck_drains.jpg
+- Pass Creek Covered Bridge (14038119622).jpg by Sandy Horvath-Dori from Grand Junction, CO, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Pass_Creek_Covered_Bridge_(14038119622).jpg
+- Completed Bridge-2 VT (8495188573).jpg by Federal Highway Administration, Public domain, https://commons.wikimedia.org/wiki/File:Completed_Bridge-2_VT_(8495188573).jpg
+- Class I and II repair areas.jpg by NCDOTcommunications, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Class_I_and_II_repair_areas.jpg
+- Horseshoe Falls from Hornblower Niagara Cruises, Niagara Falls, Ontario (29357648034).jpg by Ken Lund from Reno, Nevada, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Horseshoe_Falls_from_Hornblower_Niagara_Cruises,_Niagara_Falls,_Ontario_(29357648034).jpg
+- FEMA - 28203 - Photograph by Marvin Nauman taken on 02-07-2007 in Washington.jpg by Marvin Nauman, Public domain, https://commons.wikimedia.org/wiki/File:FEMA_-_28203_-_Photograph_by_Marvin_Nauman_taken_on_02-07-2007_in_Washington.jpg
+- WaspHeadFm 0017.jpg by Rygel, M.C., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:WaspHeadFm_0017.jpg
+- Rail bridge scour protection Lower Gledfield - geograph.org.uk - 2176381.jpg by Michael Dennis Stagg, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Rail_bridge_scour_protection_Lower_Gledfield_-_geograph.org.uk_-_2176381.jpg
+- 4Feb06EastNOICanalScourC.jpg by Infrogmation, CC BY 2.5, https://commons.wikimedia.org/wiki/File:4Feb06EastNOICanalScourC.jpg
+- 4Feb06EastNOICanalScourD.jpg by Infrogmation, CC BY 2.5, https://commons.wikimedia.org/wiki/File:4Feb06EastNOICanalScourD.jpg
+- 1910 railroad bridge over Schoharie Creek 1.jpg by Beyond My Ken, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1910_railroad_bridge_over_Schoharie_Creek_1.jpg
+- 1910 railroad bridge over Schoharie Creek 2.jpg by Beyond My Ken, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1910_railroad_bridge_over_Schoharie_Creek_2.jpg
+- Scoured out cliff face at the end of Truman Track near Punakaiki.jpg by Pseudopanax at English Wikipedia, Public domain, https://commons.wikimedia.org/wiki/File:Scoured_out_cliff_face_at_the_end_of_Truman_Track_near_Punakaiki.jpg
+- PontchartrainJettyScour25Jan06.jpg by Infrogmation, CC BY 2.5, https://commons.wikimedia.org/wiki/File:PontchartrainJettyScour25Jan06.jpg
+- Hovenring - trillingsdempers.jpg by Alex P. Kok, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hovenring_-_trillingsdempers.jpg
+- Kampen, Molenbrug. 28-02-2022. (actm.) 01.jpg by Agnes Monkelbaan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Kampen,_Molenbrug._28-02-2022._(actm.)_01.jpg
+- 002 2013 04 13 Kabel und Draehte.jpg by Friedrich Haag, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:002_2013_04_13_Kabel_und_Draehte.jpg
+- Pylon cable riggers dismantling reel.JPG by User:Sandpiper, Public domain, https://commons.wikimedia.org/wiki/File:Pylon_cable_riggers_dismantling_reel.JPG
+- Steel wire rope on a drum.jpg by W.carter, CC0, https://commons.wikimedia.org/wiki/File:Steel_wire_rope_on_a_drum.jpg
+- Cable-stayed bridge in Galați.jpg by SqueekRO, CC0, https://commons.wikimedia.org/wiki/File:Cable-stayed_bridge_in_Gala%C8%9Bi.jpg
+- 020260303 cable-styed new bridge.jpg by Auctor quaerendae, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:020260303_cable-styed_new_bridge.jpg
+- Regency suspension bridge, west suspension cable and Colorado River below.jpg by Messcenger, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Regency_suspension_bridge,_west_suspension_cable_and_Colorado_River_below.jpg
+- Ezhattumugham-Thumboormuzhi Cable Suspension Bridge IMG20231023144213.jpg by Ranjithsiji, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ezhattumugham-Thumboormuzhi_Cable_Suspension_Bridge_IMG20231023144213.jpg
+- Ezhattumugham-Thumboormuzhi Cable Suspension Bridge IMG20231023150148.jpg by Ranjithsiji, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ezhattumugham-Thumboormuzhi_Cable_Suspension_Bridge_IMG20231023150148.jpg
+- Akashi Bridge.JPG by Tysto, Public domain, https://commons.wikimedia.org/wiki/File:Akashi_Bridge.JPG
+- DSC01488 Akashi-Kaikyo Bridge interfior.jpg by Anonymous, CC BY-SA 2.5, https://commons.wikimedia.org/wiki/File:DSC01488_Akashi-Kaikyo_Bridge_interfior.jpg
+- Ezhattumugham-Thumboormuzhi Cable Suspension Bridge IMG20231023143823.jpg by Ranjithsiji, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ezhattumugham-Thumboormuzhi_Cable_Suspension_Bridge_IMG20231023143823.jpg
+- Ezhattumugham-Thumboormuzhi Cable Suspension Bridge IMG20231023145831.jpg by Ranjithsiji, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ezhattumugham-Thumboormuzhi_Cable_Suspension_Bridge_IMG20231023145831.jpg
+- Tacoma Narrows Bridge (117561803).jpeg by Sounderbruce, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_Bridge_(117561803).jpeg
+- Galloping Gertie fragment 01.jpg by Joe Mabel, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Galloping_Gertie_fragment_01.jpg
+- Tacoma Narrows Bridge (117561801).jpeg by Sounderbruce, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_Bridge_(117561801).jpeg
+- Cincinnati-roebling-suspension-bridge.jpg by Derek Jensen (Tysto), Public domain, https://commons.wikimedia.org/wiki/File:Cincinnati-roebling-suspension-bridge.jpg
+- Dumfries Suspension Bridge.jpg by DeFacto, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Dumfries_Suspension_Bridge.jpg
+- Menai Suspension Bridge Gwynedd 2019 Day.jpg by Julian Herzog (Website), CC BY 4.0, https://commons.wikimedia.org/wiki/File:Menai_Suspension_Bridge_Gwynedd_2019_Day.jpg
+- Menai Suspension Bridge Gwynedd 2019 Night.jpg by Julian Herzog (Website), CC BY 4.0, https://commons.wikimedia.org/wiki/File:Menai_Suspension_Bridge_Gwynedd_2019_Night.jpg
+- WB US 84 Bridge ices before road Brooks County dashcam.jpg by Michael Rivera, CC BY 4.0, https://commons.wikimedia.org/wiki/File:WB_US_84_Bridge_ices_before_road_Brooks_County_dashcam.jpg
+- NB GA 135 Bridge ices before road, Atkinson County dashcam.jpg by Michael Rivera, CC0, https://commons.wikimedia.org/wiki/File:NB_GA_135_Bridge_ices_before_road,_Atkinson_County_dashcam.jpg
+- NB I-95; Effingham County Bridge Ices Before Road.jpg by DanTD, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:NB_I-95;_Effingham_County_Bridge_Ices_Before_Road.jpg
+- Olustee Creek bridge on EB CR18.jpg by The Bushranger, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Olustee_Creek_bridge_on_EB_CR18.jpg
+- Unteroberndorf-ICE-Baustelle-3068650.jpg by ermell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Unteroberndorf-ICE-Baustelle-3068650.jpg
+- Vasco da Gama Bridge B&W (crop2).jpg by File:Vasco da Gama Bridge B&W.jpg: William Warby
+derivative work: Bruce1ee, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Vasco_da_Gama_Bridge_B%26W_(crop2).jpg
+- Bridge and deck of Gullbritt.jpg by W.carter, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bridge_and_deck_of_Gullbritt.jpg
+- Forth Bridge (geograph 6549767).jpg by Graeme Yuill, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Forth_Bridge_(geograph_6549767).jpg
+- ScotRail Class 170 Forth Bridge.jpg by Kabelleger / David Gubler, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:ScotRail_Class_170_Forth_Bridge.jpg
+- +2015 wurde die Forth Bridge in die Liste des Welterbes eingetragen. 04.jpg by Holger Uwe Schmitt, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%2B2015_wurde_die_Forth_Bridge_in_die_Liste_des_Welterbes_eingetragen._04.jpg
+- Forth Bridge 20140319.jpg by Suicasmo, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Forth_Bridge_20140319.jpg
+- Forth Bridge 2022.jpg by MrMasterKeyboard, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Forth_Bridge_2022.jpg
+- Bridge inspection Shangr-La, China.jpg by Pieceofmetalwork, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Bridge_inspection_Shangr-La,_China.jpg
+- Steel Bridge Inspection - Portland bridges.jpg by Oregon Department of Transportation, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Steel_Bridge_Inspection_-_Portland_bridges.jpg
+- Kizil Hauzen Bridge 2013.jpg by Sj.jamali, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Kizil_Hauzen_Bridge_2013.jpg
+- General Rafael Urdaneta Bridge view from the lake to Cabimas side.jpg by Wilfredor, CC0, https://commons.wikimedia.org/wiki/File:General_Rafael_Urdaneta_Bridge_view_from_the_lake_to_Cabimas_side.jpg
+- Manhattan Bridge Construction 1909.jpg by Irving Underhill, Public domain, https://commons.wikimedia.org/wiki/File:Manhattan_Bridge_Construction_1909.jpg
+- Rose Garden - NATO Vista Bridge 3 NBG LR.jpg by PumpkinSky, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rose_Garden_-_NATO_Vista_Bridge_3_NBG_LR.jpg
+- University of North Texas September 2015 40 (pedestrian bridge).jpg by Michael Barera, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:University_of_North_Texas_September_2015_40_(pedestrian_bridge).jpg
+- Anjarle Bridge and Cows-fix.jpg by Photographer: Dey.sandip Additional Credit: User Atention for water spot removal., CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Anjarle_Bridge_and_Cows-fix.jpg
+- Warje Bridge expansion construction in progress over Mutha River (21276).jpg by DesiBoy101, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Warje_Bridge_expansion_construction_in_progress_over_Mutha_River_(21276).jpg
+- Finnevik bridge 09.JPG by Htm, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Finnevik_bridge_09.JPG

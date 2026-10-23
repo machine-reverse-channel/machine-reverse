@@ -1,0 +1,92 @@
+# Photo credits: Why Do Nuclear Plants Have Those Giant Towers?
+
+All photos from Wikimedia Commons.
+
+- Inside of a Natural Draft Cooling Tower 3.jpg by Harald the Bard, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Inside_of_a_Natural_Draft_Cooling_Tower_3.jpg
+- Chimney and two hiperboloide cooling towers on Kharkov-CN.jpg by Chimney_and_two_hiperboloide_cooling_towers_on_Kharkov.JPG: Victor Vizu
+derivative work: kaʁstn Disk/Cat, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Chimney_and_two_hiperboloide_cooling_towers_on_Kharkov-CN.jpg
+- Stacks (front) and cooling tower (behind) of a combined cycle power plant.jpg by Harald the Bard, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Stacks_(front)_and_cooling_tower_(behind)_of_a_combined_cycle_power_plant.jpg
+- Zimmer cooling tower 2026-08-09.jpg by User:Visviva, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Zimmer_cooling_tower_2026-08-09.jpg
+- Stanton Energy Center Cooling Towers.jpg by Rusty Clark, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Stanton_Energy_Center_Cooling_Towers.jpg
+- Factory water cooling tower in Brno.JPG by Mark Ahsmann, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Factory_water_cooling_tower_in_Brno.JPG
+- Tinsley Cooling Tower.jpg by Andy Wright from Sheffield, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Tinsley_Cooling_Tower.jpg
+- Graminheet Natural Draft Biomass Cook Stove.jpg by Graminheet, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Graminheet_Natural_Draft_Biomass_Cook_Stove.jpg
+- De Molen (windmill) and the nuclear power plant cooling tower in Doel, Belgium (DSCF3859).jpg by Trougnouf, CC BY 4.0, https://commons.wikimedia.org/wiki/File:De_Molen_(windmill)_and_the_nuclear_power_plant_cooling_tower_in_Doel,_Belgium_(DSCF3859).jpg
+- Ruppur Nuclear Power Plant , Ruppur, Pabna.jpg by Sanvi Ahmed Saim, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ruppur_Nuclear_Power_Plant_,_Ruppur,_Pabna.jpg
+- Лаврики, брошеная градирня сверху (2).jpg by Nikolai Bulykin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B0%D0%B2%D1%80%D0%B8%D0%BA%D0%B8,_%D0%B1%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D1%80%D0%BD%D1%8F_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83_(2).jpg
+- Cooling Tower Algal Mat.jpg by SAF, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cooling_Tower_Algal_Mat.jpg
+- Cooling Tower Fill Material.jpg by SAF, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cooling_Tower_Fill_Material.jpg
+- Replica of a Cooling Tower in Tiwi Albay.jpg by Sheena Aloner, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Replica_of_a_Cooling_Tower_in_Tiwi_Albay.jpg
+- Evaporative Cooling Tower.jpg by Saud, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Evaporative_Cooling_Tower.jpg
+- Data center cooling tower.jpg by Rsparks3, CC0, https://commons.wikimedia.org/wiki/File:Data_center_cooling_tower.jpg
+- Godorf Cologne Rhineland-Refinery-Cooling-Towers-during-demolition-02.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Godorf_Cologne_Rhineland-Refinery-Cooling-Towers-during-demolition-02.jpg
+- Open loop Cooling Tower for DG Set.jpg by Aloofmanish, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Open_loop_Cooling_Tower_for_DG_Set.jpg
+- Neckarwestheim-1 with cooling tower.jpg by Felix König, Public domain, https://commons.wikimedia.org/wiki/File:Neckarwestheim-1_with_cooling_tower.jpg
+- Foucault pendulum at EC1 Łódź cooling tower.jpg by Marta Malina Moraczewska, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Foucault_pendulum_at_EC1_%C5%81%C3%B3d%C5%BA_cooling_tower.jpg
+- Inside an Incomplete Satsop Cooling Tower - Mercator Projection.jpg by Farwestern Photo by Gregg M. Erickson, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Inside_an_Incomplete_Satsop_Cooling_Tower_-_Mercator_Projection.jpg
+- Neckarwestheim Nuclear Power Plant September 2013.jpg by Felix König, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Neckarwestheim_Nuclear_Power_Plant_September_2013.jpg
+- KKP Einlauf.jpg by Michael Kauffmann, CC BY 2.0 de, https://commons.wikimedia.org/wiki/File:KKP_Einlauf.jpg
+- KKP Gleis.jpg by Ikar.us, CC BY 2.0 de, https://commons.wikimedia.org/wiki/File:KKP_Gleis.jpg
+- Waste block turbine and generator in Iru Thermal Power Plant.jpg by Lauri Veerde, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Waste_block_turbine_and_generator_in_Iru_Thermal_Power_Plant.jpg
+- Railway and the Doel nuclear power station cooling tower during sunset civil twilight in Kieldrecht, Belgium (DSCF3913).jpg by Trougnouf, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Railway_and_the_Doel_nuclear_power_station_cooling_tower_during_sunset_civil_twilight_in_Kieldrecht,_Belgium_(DSCF3913).jpg
+- NRC Staff at Diablo Canyon Unit 1 (53338269641).jpg by Nuclear Regulatory Commission from US, CC BY 2.0, https://commons.wikimedia.org/wiki/File:NRC_Staff_at_Diablo_Canyon_Unit_1_(53338269641).jpg
+- Diagram of a nuclear power plant with a boiling water reactor.jpg by Siarhei Besarab, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Diagram_of_a_nuclear_power_plant_with_a_boiling_water_reactor.jpg
+- NPP containment building construction.jpg by Nuclear Regulatory Commission, Public domain, https://commons.wikimedia.org/wiki/File:NPP_containment_building_construction.jpg
+- Chooz Nuclear Power Plant-9362.jpg by Raimond Spekking, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Chooz_Nuclear_Power_Plant-9362.jpg
+- Top of Primary Containment Vessel, Unit 4 (02813323).jpg by IAEA Imagebank, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Top_of_Primary_Containment_Vessel,_Unit_4_(02813323).jpg
+- Pueblo Chemical Agent-Destruction Pilot Plant Enhanced Reconfiguration Building Vapor Containment Room (4479727336).jpg by PEO ACWA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Pueblo_Chemical_Agent-Destruction_Pilot_Plant_Enhanced_Reconfiguration_Building_Vapor_Containment_Room_(4479727336).jpg
+- Blue Grass Chemical Agent-Destruction Pilot Plant Munitions Demilitarization Building Blast Containment Area (4479707320).jpg by PEO ACWA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Blue_Grass_Chemical_Agent-Destruction_Pilot_Plant_Munitions_Demilitarization_Building_Blast_Containment_Area_(4479707320).jpg
+- Three Mile Island Nuclear Generating Station (51142893665).jpg by formulanone, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Three_Mile_Island_Nuclear_Generating_Station_(51142893665).jpg
+- Three Mile Island Nuclear Generating Station.jpg by Z22, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Three_Mile_Island_Nuclear_Generating_Station.jpg
+- Reactor Vessel head.jpg by NRC, Public domain, https://commons.wikimedia.org/wiki/File:Reactor_Vessel_head.jpg
+- Núcleo del reactor nuclear RA-3, «Ciencia ficción», by Luis Gauna Pereira.jpg by Gaunper, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:N%C3%BAcleo_del_reactor_nuclear_RA-3,_%C2%ABCiencia_ficci%C3%B3n%C2%BB,_by_Luis_Gauna_Pereira.jpg
+- Plum Brook Reactor Facility Control Room during Facility Startup (GRC-1961-C-55813).jpg by NASA Glenn Research Center, Public domain, https://commons.wikimedia.org/wiki/File:Plum_Brook_Reactor_Facility_Control_Room_during_Facility_Startup_(GRC-1961-C-55813).jpg
+- TREAT Control Rod Drive Mechanisms.JPG by Rsb8382, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:TREAT_Control_Rod_Drive_Mechanisms.JPG
+- SRS P Reactor Sealing (5885628500).jpg by Savannah River Site, Public domain, https://commons.wikimedia.org/wiki/File:SRS_P_Reactor_Sealing_(5885628500).jpg
+- Organic Moderated Reactor Experiment layout.jpg by C. T. ARMENOFF, Public domain, https://commons.wikimedia.org/wiki/File:Organic_Moderated_Reactor_Experiment_layout.jpg
+- 816 Nuclear Military Plant reactor hall.jpg by Pierre Marshall, CC BY 4.0, https://commons.wikimedia.org/wiki/File:816_Nuclear_Military_Plant_reactor_hall.jpg
+- Nuclear fuel pellets at the Greifswald Nuclear Power Plant information center.jpg by Siarhei Besarab, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Nuclear_fuel_pellets_at_the_Greifswald_Nuclear_Power_Plant_information_center.jpg
+- Spent Fuel Pool of Unit 2 at Brunswick Nuclear Power Plant (14676549844).jpg by Nuclear Regulatory Commission from US, Public domain, https://commons.wikimedia.org/wiki/File:Spent_Fuel_Pool_of_Unit_2_at_Brunswick_Nuclear_Power_Plant_(14676549844).jpg
+- Alexey Likhachev hands fuel assembly model to Yeafesh Osman, Rooppur Nuclear Power Plant, 2023-10-05 (PID-0013293).jpg by Press Information Department, Public domain, https://commons.wikimedia.org/wiki/File:Alexey_Likhachev_hands_fuel_assembly_model_to_Yeafesh_Osman,_Rooppur_Nuclear_Power_Plant,_2023-10-05_(PID-0013293).jpg
+- Fuel Assembly Removal Process (02813602).jpg by IAEA Imagebank, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Fuel_Assembly_Removal_Process_(02813602).jpg
+- Materials Testing Reactor fuel assembly.jpg by US Atomic Energy Commission, Public domain, https://commons.wikimedia.org/wiki/File:Materials_Testing_Reactor_fuel_assembly.jpg
+- Checking Fuel Assembly (03210032) (4644621910).jpg by IAEA Imagebank, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Checking_Fuel_Assembly_(03210032)_(4644621910).jpg
+- "Cobwebs" in underwater spent nuclear fuel basin? (6554866961).jpg by Savannah River Site, Public domain, https://commons.wikimedia.org/wiki/File:%22Cobwebs%22_in_underwater_spent_nuclear_fuel_basin%3F_(6554866961).jpg
+- Cerenkov Effect.jpg by United States Nuclear Regulatory Commission, Public domain, https://commons.wikimedia.org/wiki/File:Cerenkov_Effect.jpg
+- 17 mCi Ac-225(NO3)3 at ORNL by Dr Andrew R Burgoyne.jpg by Dr Andrew R. Burgoyne, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:17_mCi_Ac-225(NO3)3_at_ORNL_by_Dr_Andrew_R_Burgoyne.jpg
+- Radiasi Cherenkov.jpg by Ariefmotomoto, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Radiasi_Cherenkov.jpg
+- Caorso fuel pool.jpg by Simone Ramella from Rome, Italy, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Caorso_fuel_pool.jpg
+- San Onofre Nuclear Generating Station spent fuel pool, 2014.jpg by Nuclear Regulatory Commission from US, CC BY 2.0, https://commons.wikimedia.org/wiki/File:San_Onofre_Nuclear_Generating_Station_spent_fuel_pool,_2014.jpg
+- Spent Fuel Pool (02813601).jpg by IAEA Imagebank, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Spent_Fuel_Pool_(02813601).jpg
+- Fukushima Daiichi nuclear plant Spent Fuel Pool, Unit 4 (02813317).jpg by IAEA Imagebank, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Fukushima_Daiichi_nuclear_plant_Spent_Fuel_Pool,_Unit_4_(02813317).jpg
+- Interior of the VVER-440 reactor pressure vessel at Greifswald NPP.jpg by Siarhei Besarab, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Interior_of_the_VVER-440_reactor_pressure_vessel_at_Greifswald_NPP.jpg
+- Reactor Pressure Vessel at the Davis-Besse Nuclear Power Station (14678591802).jpg by Nuclear Regulatory Commission from US, Public domain, https://commons.wikimedia.org/wiki/File:Reactor_Pressure_Vessel_at_the_Davis-Besse_Nuclear_Power_Station_(14678591802).jpg
+- Reactor Vessel and Vessel Head Arrive at V.C. Summer - June 20, 2013 (14492254368).jpg by Nuclear Regulatory Commission from US, Public domain, https://commons.wikimedia.org/wiki/File:Reactor_Vessel_and_Vessel_Head_Arrive_at_V.C._Summer_-_June_20,_2013_(14492254368).jpg
+- HWCTR steam generator (7448034446).jpg by ENERGY.GOV, Public domain, https://commons.wikimedia.org/wiki/File:HWCTR_steam_generator_(7448034446).jpg
+- HWCTR steam generator (7448034188).jpg by ENERGY.GOV, Public domain, https://commons.wikimedia.org/wiki/File:HWCTR_steam_generator_(7448034188).jpg
+- NS Savannah Reactor Pressure Vessel Arrives at Low-Level Radioactive Waste Facility (52646920341).jpg by Nuclear Regulatory Commission from US, CC BY 2.0, https://commons.wikimedia.org/wiki/File:NS_Savannah_Reactor_Pressure_Vessel_Arrives_at_Low-Level_Radioactive_Waste_Facility_(52646920341).jpg
+- Truck, with reactor vessel, breakdown on I-540.jpg by Washuotaku, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Truck,_with_reactor_vessel,_breakdown_on_I-540.jpg
+- Shearon Harris Nuclear Power Plant control room.jpg by RadioFan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shearon_Harris_Nuclear_Power_Plant_control_room.jpg
+- Nuclear power plant control room (15856397259).jpg by Nuclear Regulatory Commission from US, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Nuclear_power_plant_control_room_(15856397259).jpg
+- Control Room of Chernobyl Nuclear Power Plant Unit 3.jpg by IAEA Imagebank, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Control_Room_of_Chernobyl_Nuclear_Power_Plant_Unit_3.jpg
+- Control room of Commonwealth Edison Company's Dresden nuclear power station.jpg by ENERGY.GOV, Public domain, https://commons.wikimedia.org/wiki/File:Control_room_of_Commonwealth_Edison_Company%27s_Dresden_nuclear_power_station.jpg
+- Hallam-control-room.jpg by United States Atomic Energy Commission, Public domain, https://commons.wikimedia.org/wiki/File:Hallam-control-room.jpg
+- Control Room Tarapur Atomic Power Station.jpg by IAEA Imagebank, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Control_Room_Tarapur_Atomic_Power_Station.jpg
+- San Onofre Nuclear Generating Station control room, 1968.jpg by ENERGY.GOV, Public domain, https://commons.wikimedia.org/wiki/File:San_Onofre_Nuclear_Generating_Station_control_room,_1968.jpg
+- Emergency power system in water purification plant Germany.jpg by Chianti, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Emergency_power_system_in_water_purification_plant_Germany.jpg
+- Diesel generator, Raigmore Emergency Bunker - geograph.org.uk - 6256020.jpg by Craig Wallace, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Diesel_generator,_Raigmore_Emergency_Bunker_-_geograph.org.uk_-_6256020.jpg
+- BSPS backup power system.jpg by Cantons-de-l'Est, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:BSPS_backup_power_system.jpg
+- EmergencyPowerGenerator.jpg by Raysonho @ Open Grid Scheduler / Grid Engine, CC0, https://commons.wikimedia.org/wiki/File:EmergencyPowerGenerator.jpg
+- Дизель-генератор у телефонной станции, Коряжма.jpg by Georg Pik, CC0, https://commons.wikimedia.org/wiki/File:%D0%94%D0%B8%D0%B7%D0%B5%D0%BB%D1%8C-%D0%B3%D0%B5%D0%BD%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D1%83_%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8,_%D0%9A%D0%BE%D1%80%D1%8F%D0%B6%D0%BC%D0%B0.jpg
+- Hartsville Nuclear Power Plant Site Map.jpg by Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:Hartsville_Nuclear_Power_Plant_Site_Map.jpg
+- Hallam-nuclear-power-facility-site.jpg by United States Atomic Energy Commission, Public domain, https://commons.wikimedia.org/wiki/File:Hallam-nuclear-power-facility-site.jpg
+- Cooling towers of a nuclear power plant.jpg by Vsatinet, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cooling_towers_of_a_nuclear_power_plant.jpg
+- Лаврики, брошеная градирня сверху (1).jpg by Nikolai Bulykin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B0%D0%B2%D1%80%D0%B8%D0%BA%D0%B8,_%D0%B1%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D1%80%D0%BD%D1%8F_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83_(1).jpg
+- Turbine near the Gösgen Nuclear Power Plant, Däniken, Solothurn.jpg by Christian David, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Turbine_near_the_G%C3%B6sgen_Nuclear_Power_Plant,_D%C3%A4niken,_Solothurn.jpg
+- Kalinin nuclear power plant.jpg by SergioBS, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Kalinin_nuclear_power_plant.jpg
+- Rooppur Nuclear Power Plant at night.jpg by ROCKY, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rooppur_Nuclear_Power_Plant_at_night.jpg
+- Tricastin Nuclear Power Plant.jpg by MeneerTijn, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Tricastin_Nuclear_Power_Plant.jpg
+- Nuclear Power Plant Cattenom.jpg by Stefan Kühn, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Nuclear_Power_Plant_Cattenom.jpg
+- Kalinin nuclear power plant's facade.jpg by SergioBS, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Kalinin_nuclear_power_plant%27s_facade.jpg
+- Cooling towers of Zaton CHP (Ufa CHP No5).jpg by Vasily Astanin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cooling_towers_of_Zaton_CHP_(Ufa_CHP_No5).jpg
+- Induced Draft Cooling Tower for HVAC.jpg by Aloofmanish, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Induced_Draft_Cooling_Tower_for_HVAC.jpg

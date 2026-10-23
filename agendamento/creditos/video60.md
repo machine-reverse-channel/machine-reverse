@@ -1,0 +1,65 @@
+# Photo credits: Why Do Bulldozers Have a Claw on the Back?
+
+All photos from Wikimedia Commons.
+
+- Komatsu bulldozer pushing coal in Power plant Ljubljana (winter 2017).jpg by Petar Milošević, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Komatsu_bulldozer_pushing_coal_in_Power_plant_Ljubljana_(winter_2017).jpg
+- Caterpillar 950k Wheel Loader.jpg by Matthew T Rader, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Caterpillar_950k_Wheel_Loader.jpg
+- Liebherr bulldozer-20240815-RM-171920.jpg by Reinhold Möller Ermell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Liebherr_bulldozer-20240815-RM-171920.jpg
+- Liebherr bulldozer-20240815-RM-171945.jpg by Reinhold Möller Ermell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Liebherr_bulldozer-20240815-RM-171945.jpg
+- Liebherr bulldozer-20240815-RM-171958.jpg by Reinhold Möller Ermell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Liebherr_bulldozer-20240815-RM-171958.jpg
+- CAT-D10N-pic001.jpg by MathKnight, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:CAT-D10N-pic001.jpg
+- Narva mine bulldozer 2.jpg by Siim Roov, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Narva_mine_bulldozer_2.jpg
+- Toy bulldozer (AM 1996.165.203-13).jpg by Fun Ho! Toy Company, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Toy_bulldozer_(AM_1996.165.203-13).jpg
+- CatD11T.jpg by Shaun Greiner from Creve Coeur, United States of America, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:CatD11T.jpg
+- CatD11T part.jpg by Shaun Greiner from Creve Coeur, United States of America, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:CatD11T_part.jpg
+- John Deere 850K LGP Bulldozer Overhead View.jpg by WindBorneListener, CC0, https://commons.wikimedia.org/wiki/File:John_Deere_850K_LGP_Bulldozer_Overhead_View.jpg
+- Tractor with bulldozer blade.jpg by Wikideas1, CC0, https://commons.wikimedia.org/wiki/File:Tractor_with_bulldozer_blade.jpg
+- Toy bulldozer (AM 1996.165.203-3).jpg by Fun Ho! Toy Company, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Toy_bulldozer_(AM_1996.165.203-3).jpg
+- Toy bulldozer (AM 1996.165.365-8).jpg by Fun Ho! Toy Company, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Toy_bulldozer_(AM_1996.165.365-8).jpg
+- Бульдозеры пту смиловичи.jpg by Denis Blisch, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%BB%D1%8C%D0%B4%D0%BE%D0%B7%D0%B5%D1%80%D1%8B_%D0%BF%D1%82%D1%83_%D1%81%D0%BC%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%87%D0%B8.jpg
+- Toy bulldozer (AM 1996.165.203-5).jpg by Fun Ho! Toy Company, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Toy_bulldozer_(AM_1996.165.203-5).jpg
+- Toy bulldozer (AM 1996.165.200-8).jpg by Fun Ho! Toy Company, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Toy_bulldozer_(AM_1996.165.200-8).jpg
+- Toy bulldozer (AM 1996.165.364-8).jpg by Fun Ho! Toy Company, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Toy_bulldozer_(AM_1996.165.364-8).jpg
+- IDF CAT D9R - tracks - Flickr - Zachi Evenor.jpg by Zachi Evenor from Israel, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:IDF_CAT_D9R_-_tracks_-_Flickr_-_Zachi_Evenor.jpg
+- Sd8n Big bulldozer.jpg by Dozerindia, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sd8n_Big_bulldozer.jpg
+- D9-IDF-2018-Zachi-Evenor-2.jpg by Dr. Zachi Evenor and User:MathKnight, CC BY 2.0, https://commons.wikimedia.org/wiki/File:D9-IDF-2018-Zachi-Evenor-2.jpg
+- D9-models011.jpg by MathKnight, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D9-models011.jpg
+- Cat D11 View 2.jpg by David Drew at English Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Cat_D11_View_2.jpg
+- Bulldozer - Tuska 2011 - 06.jpg by Cecil, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Bulldozer_-_Tuska_2011_-_06.jpg
+- John Deere 850K LGP bulldozer.jpg by WindBorneListener, CC0, https://commons.wikimedia.org/wiki/File:John_Deere_850K_LGP_bulldozer.jpg
+- Caterpillar track shingle.JPG by JMiall, Public domain, https://commons.wikimedia.org/wiki/File:Caterpillar_track_shingle.JPG
+- Caterpillar D9.JPG by Hans-Peter Scholz Ulenspiegel, CC BY-SA 2.0 de, https://commons.wikimedia.org/wiki/File:Caterpillar_D9.JPG
+- 3-IDF-D9-bulldozers-Zachi-Evenor-cropped01.jpg by Zachi Evenor and User:MathKnight, CC BY 4.0, https://commons.wikimedia.org/wiki/File:3-IDF-D9-bulldozers-Zachi-Evenor-cropped01.jpg
+- Norderney, Strandaufspülung -- 2025 -- 9631.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Norderney,_Strandaufsp%C3%BClung_--_2025_--_9631.jpg
+- Caterpillar D9 (38135714366).jpg by Triple-green, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Caterpillar_D9_(38135714366).jpg
+- IDF Caterpillar D9 in the Golan Heights.jpg by שי אבידן, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:IDF_Caterpillar_D9_in_the_Golan_Heights.jpg
+- Biķernieki RX track (30390091406).jpg by Kārlis Dambrāns from Latvia, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bi%C4%B7ernieki_RX_track_(30390091406).jpg
+- Ford Tractor with ROPS bar fitted.JPG by BulldozerD11, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Ford_Tractor_with_ROPS_bar_fitted.JPG
+- Ford Tractor with ROPS bar fitted crop.jpg by BulldozerD11, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Ford_Tractor_with_ROPS_bar_fitted_crop.jpg
+- Bouteur sur un porte-char-1.jpg by François GOGLINS, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bouteur_sur_un_porte-char-1.jpg
+- Tornado - Pleasant Grove, Ala. , May 27, 2011 -- The April tornado's produced tons of debris, and work on the removal is seen here as trucks get loaded for the trip to an approved l - DPLA - 4f2ce6cfb6064942fe42efc19a3af00b.jpg by Department of Homeland Security. Federal Emergency Management Agency. Public Affairs Division. 3/1/2003, Public domain, https://commons.wikimedia.org/wiki/File:Tornado_-_Pleasant_Grove,_Ala._,_May_27,_2011_--_The_April_tornado%27s_produced_tons_of_debris,_and_work_on_the_removal_is_seen_here_as_trucks_get_loaded_for_the_trip_to_an_approved_l_-_DPLA_-_4f2ce6cfb6064942fe42efc19a3af00b.jpg
+- JCB 535 telescopic handler.jpg by BulldozerD11, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:JCB_535_telescopic_handler.jpg
+- Claas Xerion 3300 Trac VC reversible tractor - IMG 4726.jpg by BulldozerD11, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Claas_Xerion_3300_Trac_VC_reversible_tractor_-_IMG_4726.jpg
+- Holt 75 (Caterpillar) serial number 3580 at GDSF 2008 - IMG 0743.jpg by User:BulldozerD11 (as User:BulldozerD11 on tractors.wikia.com), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Holt_75_(Caterpillar)_serial_number_3580_at_GDSF_2008_-_IMG_0743.jpg
+- Narva mine bulldozer.jpg by Siim Roov, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Narva_mine_bulldozer.jpg
+- Leading a Scraper Unit - DPLA - b327ad8ba9e71ee28d31460cab0814d1.jpg by Department of Commerce. Bureau of Public Roads. 8/20/1949-4/1/1967, Public domain, https://commons.wikimedia.org/wiki/File:Leading_a_Scraper_Unit_-_DPLA_-_b327ad8ba9e71ee28d31460cab0814d1.jpg
+- US Navy 070308-N-4740L-002 Equipment Operator 2nd Class Owen Brownfield, assigned to Naval Mobile Construction Battalion (NMCB) 26, operates a bulldozer pushing piles of soil into place to create a protective berm.jpg by U.S. Navy photo by Mass Communication Specialist 1st Class Nicholas Lingo, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_070308-N-4740L-002_Equipment_Operator_2nd_Class_Owen_Brownfield,_assigned_to_Naval_Mobile_Construction_Battalion_(NMCB)_26,_operates_a_bulldozer_pushing_piles_of_soil_into_place_to_create_a_protective_berm.jpg
+- Pushing Brush - Flickr - USDAgov.jpg by U.S. Department of Agriculture, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Pushing_Brush_-_Flickr_-_USDAgov.jpg
+- US Navy 110705-N-WL435-062 Equipment Operator Constructionman Jacob Osburn uses a bulldozer to push sand to reinforce a berm at a joint forces weap.jpg by U.S. Navy photo by Mass Communication Specialist 1st Class Peter D. Lawlor, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_110705-N-WL435-062_Equipment_Operator_Constructionman_Jacob_Osburn_uses_a_bulldozer_to_push_sand_to_reinforce_a_berm_at_a_joint_forces_weap.jpg
+- US Navy 110705-N-WL435-178 Master Chief Equipment Operator Charles Boris pushes sand with a bulldozer to reinforce an existing berm at a joint forc.jpg by U.S. Navy photo by Mass Communication Specialist 1st Class Peter D. Lawlor, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_110705-N-WL435-178_Master_Chief_Equipment_Operator_Charles_Boris_pushes_sand_with_a_bulldozer_to_reinforce_an_existing_berm_at_a_joint_forc.jpg
+- IDF-D9-Zachi-Evenor-001.jpg by Zachi Evenor, Israel, CC BY 2.0, https://commons.wikimedia.org/wiki/File:IDF-D9-Zachi-Evenor-001.jpg
+- Armored bulldozer in Paktika.jpg by U.S. Army photo by Spc. Micah E. Clare, Public domain, https://commons.wikimedia.org/wiki/File:Armored_bulldozer_in_Paktika.jpg
+- Elephant Pass armored bulldozer.JPG by AntanO, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Elephant_Pass_armored_bulldozer.JPG
+- 66-IDF-D9-profile-white-Zachi-Evenor.jpg by Zachi Evenor, CC BY 2.0, https://commons.wikimedia.org/wiki/File:66-IDF-D9-profile-white-Zachi-Evenor.jpg
+- IDF D9 Bulldozer - Swords of Iron 01.jpg by IDF Spokesperson's Unit photographer, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:IDF_D9_Bulldozer_-_Swords_of_Iron_01.jpg
+- D9-models010.jpg by MathKnight and the above mentioned, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D9-models010.jpg
+- D9-Protective-Edge-(14569537040).jpg by Israel Defense Forces Spokesperson Unit, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D9-Protective-Edge-(14569537040).jpg
+- Landfill compactor.jpg by Ropable, Public domain, https://commons.wikimedia.org/wiki/File:Landfill_compactor.jpg
+- Landfill face.JPG by Ashley Felton, Public domain, https://commons.wikimedia.org/wiki/File:Landfill_face.JPG
+- Knott Landfill - Deschutes County, Oregon.jpg by Tequask, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Knott_Landfill_-_Deschutes_County,_Oregon.jpg
+- COVERING GARBAGE WITH ONE FOOT OF EARTH AT WESTCHESTER COUNTY'S CROTON LANDFILL OPERATION - NARA - 549946.jpg by Wil Blanche, Public domain, https://commons.wikimedia.org/wiki/File:COVERING_GARBAGE_WITH_ONE_FOOT_OF_EARTH_AT_WESTCHESTER_COUNTY%27S_CROTON_LANDFILL_OPERATION_-_NARA_-_549946.jpg
+- GARBAGE IS COVERED BY ONE FOOT OF EARTH IN CROTON LANDFILL OPERATION ALONG THE HUDSON RIVER - NARA - 549937.jpg by Wil Blanche, Public domain, https://commons.wikimedia.org/wiki/File:GARBAGE_IS_COVERED_BY_ONE_FOOT_OF_EARTH_IN_CROTON_LANDFILL_OPERATION_ALONG_THE_HUDSON_RIVER_-_NARA_-_549937.jpg
+- DUMPING LANDFILL AT FRESH KILLS, ON THE WEST SHORE OF STATEN ISLAND - NARA - 548348.jpg by Chester Higgins, Jr., Public domain, https://commons.wikimedia.org/wiki/File:DUMPING_LANDFILL_AT_FRESH_KILLS,_ON_THE_WEST_SHORE_OF_STATEN_ISLAND_-_NARA_-_548348.jpg
+- HACKENSACK DUMP IS FEEDING GROUND FOR GULLS. IN TIME THIS LANDFILL WILL PROVIDE RECREATION FOR THE BERGEN COUNTY... - NARA - 549741.jpg by Gary Miller, Public domain, https://commons.wikimedia.org/wiki/File:HACKENSACK_DUMP_IS_FEEDING_GROUND_FOR_GULLS._IN_TIME_THIS_LANDFILL_WILL_PROVIDE_RECREATION_FOR_THE_BERGEN_COUNTY..._-_NARA_-_549741.jpg
+- IDF Caterpillar D9 in the Golan Heights (retouched).jpg by שי אבידן, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:IDF_Caterpillar_D9_in_the_Golan_Heights_(retouched).jpg
+- D9-models009.jpg by MathKnight and the above mentioned, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D9-models009.jpg

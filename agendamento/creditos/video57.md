@@ -1,0 +1,92 @@
+# Photo credits: Why Do Skyscrapers Hide a Giant Ball Inside?
+
+All photos from Wikimedia Commons.
+
+- Taipei 101 Tuned Mass Damper 2010.jpg by Armand du Plessis, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Taipei_101_Tuned_Mass_Damper_2010.jpg
+- Taipei 101 tuned mass damper 06.jpg by Johan Jönsson (Julle), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Taipei_101_tuned_mass_damper_06.jpg
+- Taipei 101 tuned mass damper 07.jpg by Johan Jönsson (Julle), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Taipei_101_tuned_mass_damper_07.jpg
+- Taipei 101 tuned mass damper 03.jpg by Johan Jönsson (Julle), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Taipei_101_tuned_mass_damper_03.jpg
+- Taipei 101 tuned mass damper 02.jpg by Johan Jönsson (Julle), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Taipei_101_tuned_mass_damper_02.jpg
+- Taipei 101 tuned mass damper 08.jpg by Johan Jönsson (Julle), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Taipei_101_tuned_mass_damper_08.jpg
+- Taipei 101 tuned mass damper 01.jpg by Johan Jönsson (Julle), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Taipei_101_tuned_mass_damper_01.jpg
+- Taipei 101 tuned mass damper 04.jpg by Johan Jönsson (Julle), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Taipei_101_tuned_mass_damper_04.jpg
+- Taipei Taiwan Taipei-101-Tower-01.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Taipei-101-Tower-01.jpg
+- 1 taipei sunrise panorama dxr edit pangen 141215 1.jpg by Chensiyuan, edit by DXR, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1_taipei_sunrise_panorama_dxr_edit_pangen_141215_1.jpg
+- Tuned mass damper - Taipei 101 - Wikimania 2007 0224.jpg by guillom, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Tuned_mass_damper_-_Taipei_101_-_Wikimania_2007_0224.jpg
+- Tuned Mass Damper atop Taipei 101 - 27 March 2008.jpg by DJ Anderson from Nagoya, Japan, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Tuned_Mass_Damper_atop_Taipei_101_-_27_March_2008.jpg
+- Detail of the Tuned Mass Damper atop Taipei 101 - 2 Feb. 2007.jpg by Erik Charlton from Menlo Park, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Detail_of_the_Tuned_Mass_Damper_atop_Taipei_101_-_2_Feb._2007.jpg
+- Detail of the Tuned Mass Damper atop Taipei 101 - 3 June 2013.jpg by Rodrigo Ghedin from Maringá, Brasil, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Detail_of_the_Tuned_Mass_Damper_atop_Taipei_101_-_3_June_2013.jpg
+- Detail of the Tuned Mass Damper atop Taipei 101 - 19 Oct. 2008.jpg by Craig Wyzik from Olympia, WA, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Detail_of_the_Tuned_Mass_Damper_atop_Taipei_101_-_19_Oct._2008.jpg
+- Detail of the Tuned Mass Damper atop Taipei 101 - 4 March 2009.jpg by Richard Bitting from Madison, Alabama, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Detail_of_the_Tuned_Mass_Damper_atop_Taipei_101_-_4_March_2009.jpg
+- Taipei 101 20230401.jpg by Xiaoanan1207, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Taipei_101_20230401.jpg
+- Taipei, November 25, 2024 - 008.jpg by Another Believer, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Taipei,_November_25,_2024_-_008.jpg
+- Suria KLCC (18970002942).jpg by Jorge Láscar from Melbourne, Australia, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Suria_KLCC_(18970002942).jpg
+- Petronas Towers (18355939864).jpg by Jorge Láscar from Melbourne, Australia, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Petronas_Towers_(18355939864).jpg
+- Skyscraper Los Angeles Downtown 2013.jpg by Tuxyso, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Skyscraper_Los_Angeles_Downtown_2013.jpg
+- Hong Kong skyscrapers in a night of typhoon.jpg by Wilfredor, CC0, https://commons.wikimedia.org/wiki/File:Hong_Kong_skyscrapers_in_a_night_of_typhoon.jpg
+- Wind Point Lighthouse 071104.jpg by User:JeremyA, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wind_Point_Lighthouse_071104.jpg
+- Wind Lift I, Emder Hafen WhiteBalanced.jpg by kaʁstn (photographer)
+
+derivative work: IdLoveOne, CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:Wind_Lift_I,_Emder_Hafen_WhiteBalanced.jpg
+- Burj Khalifa (16260269606).jpg by Laika ac, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Burj_Khalifa_(16260269606).jpg
+- Burj Khalifa Dubai, UAE at Sunset 001 by Eric Chamchoum.jpg by ECWiki1, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Burj_Khalifa_Dubai,_UAE_at_Sunset_001_by_Eric_Chamchoum.jpg
+- The making of Burj Khalifa, Dubai (Ank Kumar) 09.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:The_making_of_Burj_Khalifa,_Dubai_(Ank_Kumar)_09.jpg
+- Burj Khalifa Image.jpg by Meandmybrix, CC0, https://commons.wikimedia.org/wiki/File:Burj_Khalifa_Image.jpg
+- Burj Khalifa from a ferry, Dubai.jpg by Jpbowen, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Burj_Khalifa_from_a_ferry,_Dubai.jpg
+- The making of Burj Khalifa, Dubai (Ank Kumar) 11.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:The_making_of_Burj_Khalifa,_Dubai_(Ank_Kumar)_11.jpg
+- Front view from Burj Khalifa Metro Station.jpg by Aspere, CC0, https://commons.wikimedia.org/wiki/File:Front_view_from_Burj_Khalifa_Metro_Station.jpg
+- Shanghai - Shanghai Tower - 0003.jpg by Stefan Fussan, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Shanghai_-_Shanghai_Tower_-_0003.jpg
+- Shanghai - Yu Garden - 0035.jpg by Stefan Fussan, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Shanghai_-_Yu_Garden_-_0035.jpg
+- Shanghai - Shanghai Tower - 0002.jpg by Stefan Fussan, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Shanghai_-_Shanghai_Tower_-_0002.jpg
+- Pudong Shanghai November 2017 panorama.jpg by King of Hearts, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Pudong_Shanghai_November_2017_panorama.jpg
+- Shanghai tower 2021 summer.jpg by Benjamin Ceci, CC0, https://commons.wikimedia.org/wiki/File:Shanghai_tower_2021_summer.jpg
+- Victoria Harbour skyscrapers.jpg by Wilfredor, CC0, https://commons.wikimedia.org/wiki/File:Victoria_Harbour_skyscrapers.jpg
+- ArtScience Museum, Marina Bay Sands, Singapore.jpg by Basile Morin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:ArtScience_Museum,_Marina_Bay_Sands,_Singapore.jpg
+- Citicorp Center - panoramio.jpg by Pablo Costa Tirado (…, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Citicorp_Center_-_panoramio.jpg
+- Citicorp Center Oct 2020 04.jpg by Epicgenius, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Citicorp_Center_Oct_2020_04.jpg
+- Citicorp Center Apr 2021 13.jpg by Epicgenius, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Citicorp_Center_Apr_2021_13.jpg
+- Citicorp Center Apr 2021 14.jpg by Epicgenius, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Citicorp_Center_Apr_2021_14.jpg
+- Citicorp Center Oct 2020 20.jpg by Epicgenius, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Citicorp_Center_Oct_2020_20.jpg
+- Citicorp Center Apr 2021 21.jpg by Epicgenius, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Citicorp_Center_Apr_2021_21.jpg
+- Citicorp Center Oct 2020 19.jpg by Epicgenius, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Citicorp_Center_Oct_2020_19.jpg
+- 3rd and Lenora tower core under construction, May 2018.jpg by SounderBruce, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:3rd_and_Lenora_tower_core_under_construction,_May_2018.jpg
+- Foggy Core (263296071).jpeg by Kevin F, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Foggy_Core_(263296071).jpeg
+- AIA Central Skyscraper, Central, Hong Kong SAR, China (Ank Kumar, Infosys Limited) 04.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:AIA_Central_Skyscraper,_Central,_Hong_Kong_SAR,_China_(Ank_Kumar,_Infosys_Limited)_04.jpg
+- Price Building illuminated at night in Quebec City.jpg by Wilfredor, CC0, https://commons.wikimedia.org/wiki/File:Price_Building_illuminated_at_night_in_Quebec_City.jpg
+- Skyline Frankfurt am Main 2015.jpg by Christian Wolf (www.c-w-design.de), CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:Skyline_Frankfurt_am_Main_2015.jpg
+- Light painting gnangarra-1.jpg by Gnangarra, CC BY 2.5 au, https://commons.wikimedia.org/wiki/File:Light_painting_gnangarra-1.jpg
+- St Louis night expblend.jpg by Daniel Schwen, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:St_Louis_night_expblend.jpg
+- Shanghai Shanghai Tower 5166304.jpg by Ermell, CC0, https://commons.wikimedia.org/wiki/File:Shanghai_Shanghai_Tower_5166304.jpg
+- Bangkok Night Wikimedia Commons.jpg by Benh LIEU SONG, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Bangkok_Night_Wikimedia_Commons.jpg
+- Lighted polyhedral building Louis Vuitton in Singapore.jpg by Basile Morin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lighted_polyhedral_building_Louis_Vuitton_in_Singapore.jpg
+- Skyline of the Central Business District of Singapore with Esplanade Bridge in the evening.jpg by Basile Morin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge_in_the_evening.jpg
+- Montreal Twilight Panorama 2006.jpg by Diliff, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Montreal_Twilight_Panorama_2006.jpg
+- Vysotsky skyscraper interiors 14.jpg by MBH, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Vysotsky_skyscraper_interiors_14.jpg
+- Restaurant at the top of Vysotsky skyscraper 31.jpg by MBH, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Restaurant_at_the_top_of_Vysotsky_skyscraper_31.jpg
+- Zlín - Třída Tomáše Bati 21 - Baťův mrakodrap - Baťa's Skyscraper 1936-38 by Vladimír Karfík - 16th Floor - View ENE at the Elevators.jpg by Txllxt TxllxT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Zl%C3%ADn_-_T%C5%99%C3%ADda_Tom%C3%A1%C5%A1e_Bati_21_-_Ba%C5%A5%C5%AFv_mrakodrap_-_Ba%C5%A5a%27s_Skyscraper_1936-38_by_Vladim%C3%ADr_Karf%C3%ADk_-_16th_Floor_-_View_ENE_at_the_Elevators.jpg
+- Baťa's Skyscraper, a.k.a. Building No. 24 in Zlín, Czech Republic.jpg by NearEMPTiness, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ba%C5%A5a%27s_Skyscraper,_a.k.a._Building_No._24_in_Zl%C3%ADn,_Czech_Republic.jpg
+- Baťa's Skyscraper, a.k.a. Building No. 23 in Zlín, Czech Republic.jpg by NearEMPTiness, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ba%C5%A5a%27s_Skyscraper,_a.k.a._Building_No._23_in_Zl%C3%ADn,_Czech_Republic.jpg
+- Zlín - Třída Tomáše Bati 21 - Baťův mrakodrap - Baťa's Skyscraper 1936-38 by Vladimír Karfík - 16th Floor - View WSW at the Elevators.jpg by Txllxt TxllxT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Zl%C3%ADn_-_T%C5%99%C3%ADda_Tom%C3%A1%C5%A1e_Bati_21_-_Ba%C5%A5%C5%AFv_mrakodrap_-_Ba%C5%A5a%27s_Skyscraper_1936-38_by_Vladim%C3%ADr_Karf%C3%ADk_-_16th_Floor_-_View_WSW_at_the_Elevators.jpg
+- Zlín - Třída Tomáše Bati 21 - Baťův mrakodrap - Baťa's Skyscraper 1936-38 by Vladimír Karfík - 17th Floor - View WSW at the Elevators.jpg by Txllxt TxllxT, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Zl%C3%ADn_-_T%C5%99%C3%ADda_Tom%C3%A1%C5%A1e_Bati_21_-_Ba%C5%A5%C5%AFv_mrakodrap_-_Ba%C5%A5a%27s_Skyscraper_1936-38_by_Vladim%C3%ADr_Karf%C3%ADk_-_17th_Floor_-_View_WSW_at_the_Elevators.jpg
+- Lower Manhattan from Jersey City November 2014 panorama 3.jpg by King of Hearts, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Lower_Manhattan_from_Jersey_City_November_2014_panorama_3.jpg
+- Windpark Neudorf - Bei Nacht.JPG by Windradfreak at German Wikipedia, CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:Windpark_Neudorf_-_Bei_Nacht.JPG
+- El. Pątnów.jpg by Jakub "Flyz1" Maciejewski, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:El._P%C4%85tn%C3%B3w.jpg
+- Lago Nam Van, Macao, 2013-08-08, DD 04.jpg by Diego Delso, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Lago_Nam_Van,_Macao,_2013-08-08,_DD_04.jpg
+- Vista de Baku, Azerbaiyán, 2016-09-26, DD 138.jpg by Diego Delso, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Vista_de_Baku,_Azerbaiy%C3%A1n,_2016-09-26,_DD_138.jpg
+- Los Angeles (California, USA), South Olive Street -- 2012 -- 4847.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Los_Angeles_(California,_USA),_South_Olive_Street_--_2012_--_4847.jpg
+- Sunset Toronto Skyline Panorama Crop from Snake Island.jpg by Jchmrt, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sunset_Toronto_Skyline_Panorama_Crop_from_Snake_Island.jpg
+- One World Trade Center, Financial District, Manhattan, New York.jpg by Christian David, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:One_World_Trade_Center,_Financial_District,_Manhattan,_New_York.jpg
+- Cleaning windows skyscrapers 02.jpg by Buiobuione, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cleaning_windows_skyscrapers_02.jpg
+- Staff in charge of cleaning windows in skyscrapers.jpg by Buiobuione, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Staff_in_charge_of_cleaning_windows_in_skyscrapers.jpg
+- Burj Khalifa Sign.jpg by Nepenthes, CC BY-SA 2.5, https://commons.wikimedia.org/wiki/File:Burj_Khalifa_Sign.jpg
+- Dubai Skyline mit Burj Khalifa (cropped).jpg by Tim Reckmann from Hamm, Deutschland, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Dubai_Skyline_mit_Burj_Khalifa_(cropped).jpg
+- Skyscraper film premiere in Hong Kong 201807.jpg by Wpcpey, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Skyscraper_film_premiere_in_Hong_Kong_201807.jpg
+- Floating Platform and illuminated East Coast Parkway seen from the sky observation deck of Marina Bay Sands Singapore.jpg by Basile Morin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Floating_Platform_and_illuminated_East_Coast_Parkway_seen_from_the_sky_observation_deck_of_Marina_Bay_Sands_Singapore.jpg
+- View from the Petronas Towers (18356083923).jpg by Jorge Láscar from Melbourne, Australia, CC BY 2.0, https://commons.wikimedia.org/wiki/File:View_from_the_Petronas_Towers_(18356083923).jpg
+- KotaKinabalu Malaysia Tun-Mustapha-Tower-02.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:KotaKinabalu_Malaysia_Tun-Mustapha-Tower-02.jpg
+- KotaKinabalu Malaysia Tun-Mustapha-Tower-04.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:KotaKinabalu_Malaysia_Tun-Mustapha-Tower-04.jpg
+- Dubai Skyline mit Burj Khalifa (18241030269).jpg by Tim Reckmann from Hamm, Deutschland, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dubai_Skyline_mit_Burj_Khalifa_(18241030269).jpg
+- View from burj khalifa.jpg by Oiva Eskola, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:View_from_burj_khalifa.jpg
+- Philadelphia from South Street Bridge July 2016 panorama 3.jpg by King of Hearts, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Philadelphia_from_South_Street_Bridge_July_2016_panorama_3.jpg
+- Tower Crane on Austin High Rise 2020.jpg by Larry D. Moore, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Tower_Crane_on_Austin_High_Rise_2020.jpg
+- Philadelphia from South Street Bridge July 2016 panorama 1.jpg by King of Hearts, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Philadelphia_from_South_Street_Bridge_July_2016_panorama_1.jpg

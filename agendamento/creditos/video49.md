@@ -1,0 +1,72 @@
+# Photo credits: Why Does a Maglev Train Float?
+
+All photos from Wikimedia Commons.
+
+- Series L0.JPG by Saruno Hirobano, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Series_L0.JPG
+- SC Maglev Test Ride (18278623709).jpg by Maryland GovPics, CC BY 2.0, https://commons.wikimedia.org/wiki/File:SC_Maglev_Test_Ride_(18278623709).jpg
+- Series L0（20141108）.JPG by Saruno Hirobano, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Series_L0%EF%BC%8820141108%EF%BC%89.JPG
+- L0-M10.jpg by ひろばのさるの, CC BY 4.0, https://commons.wikimedia.org/wiki/File:L0-M10.jpg
+- SC Maglev Test Ride (18464832625).jpg by Maryland GovPics, CC BY 2.0, https://commons.wikimedia.org/wiki/File:SC_Maglev_Test_Ride_(18464832625).jpg
+- SC Maglev Test Ride (17844163173).jpg by Maryland GovPics
+ This photo was taken with Canon EOS 6D, CC BY 2.0, https://commons.wikimedia.org/wiki/File:SC_Maglev_Test_Ride_(17844163173).jpg
+- Edge of the World.jpg by S0lL0 TRAVELER, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Edge_of_the_World.jpg
+- Transrapid 04 p1.jpg by Sebastian Wendel, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Transrapid_04_p1.jpg
+- Transrapid 04 p2.jpg by Sebastian Wendel, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Transrapid_04_p2.jpg
+- Shanghai Maglev 2.jpg by kallerna, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shanghai_Maglev_2.jpg
+- A maglev train coming out, Pudong International Airport, Shanghai.jpg by User Alex Needham (own photography) on en.wikipedia, Public domain, https://commons.wikimedia.org/wiki/File:A_maglev_train_coming_out,_Pudong_International_Airport,_Shanghai.jpg
+- Transrapid 09.jpg by Állatka, Public domain, https://commons.wikimedia.org/wiki/File:Transrapid_09.jpg
+- Transrapid 04 p3.jpg by Sebastian Wendel, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Transrapid_04_p3.jpg
+- Transrapid 07 in Lathen 2020.jpg by Alex  Hoekerd, CC0, https://commons.wikimedia.org/wiki/File:Transrapid_07_in_Lathen_2020.jpg
+- China-Shanghai (2024) Maglev train - img 01.jpg by Chainwit., CC BY 4.0, https://commons.wikimedia.org/wiki/File:China-Shanghai_(2024)_Maglev_train_-_img_01.jpg
+- China-Shanghai (2024) Maglev train - img 04.jpg by Chainwit., CC BY 4.0, https://commons.wikimedia.org/wiki/File:China-Shanghai_(2024)_Maglev_train_-_img_04.jpg
+- Transrapid 07 model at Technik-Museum Kassel.jpg by Thomas Vogt, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Transrapid_07_model_at_Technik-Museum_Kassel.jpg
+- Transrapid 07 2.jpg by MPW57, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Transrapid_07_2.jpg
+- ODU Maglev Guideway.jpg by StreetcarEnjoyer, CC0, https://commons.wikimedia.org/wiki/File:ODU_Maglev_Guideway.jpg
+- Section of Trees Next To ODU Convocation Center Parking Garage.jpg by StreetcarEnjoyer, CC0, https://commons.wikimedia.org/wiki/File:Section_of_Trees_Next_To_ODU_Convocation_Center_Parking_Garage.jpg
+- 2013-05-03 Fotoflug Leer Papenburg DSCF6962.jpg by Martina Nolte, CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:2013-05-03_Fotoflug_Leer_Papenburg_DSCF6962.jpg
+- Transrapid Emsland IMG 7795 transrapid transrapid.JPG by Bjoertvedt, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Transrapid_Emsland_IMG_7795_transrapid_transrapid.JPG
+- The Rail of Linimo.jpg by unknown, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:The_Rail_of_Linimo.jpg
+- Linimo Fujigaoka station exit 1.jpg by Niiryoku2910, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Linimo_Fujigaoka_station_exit_1.jpg
+- Linimo-L01-Fujigaoka-station-entrance-2-20100317.jpg by LERK, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Linimo-L01-Fujigaoka-station-entrance-2-20100317.jpg
+- Expo&Linimo-2005-7-22.jpg by Photo by Syohei Arai(talk), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Expo%26Linimo-2005-7-22.jpg
+- Linimo-2005-7-22.jpg by Photo by Syohei Arai(talk), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Linimo-2005-7-22.jpg
+- Shanghai maglev train.jpg by Andreas Krebs., CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Shanghai_maglev_train.jpg
+- China-Shanghai (2024) Maglev train - img 02.jpg by Chainwit., CC BY 4.0, https://commons.wikimedia.org/wiki/File:China-Shanghai_(2024)_Maglev_train_-_img_02.jpg
+- JR Maglev-Model-truck.JPG by No machine-readable author provided. Yosemite~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:JR_Maglev-Model-truck.JPG
+- Liquid helium.jpg by Vitaliy Holovin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Liquid_helium.jpg
+- SC Maglev Test Ride (17842237104).jpg by Maryland GovPics, CC BY 2.0, https://commons.wikimedia.org/wiki/File:SC_Maglev_Test_Ride_(17842237104).jpg
+- Maglev And Railway Park - panoramio.jpg by ::::=UT=::::, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Maglev_And_Railway_Park_-_panoramio.jpg
+- Transrapid-09-Modell im Technik-Museum Kassel.jpg by Thomas Vogt, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Transrapid-09-Modell_im_Technik-Museum_Kassel.jpg
+- Lathen - Hermann-Kemper-Straße - Transrapid-Versuchszentrum - Intis 02 ies.jpg by Frank Vincentz, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Lathen_-_Hermann-Kemper-Stra%C3%9Fe_-_Transrapid-Versuchszentrum_-_Intis_02_ies.jpg
+- JR Maglev-Guide.png by No machine-readable author provided. Yosemite~commonswiki assumed (based on copyright claims)., CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:JR_Maglev-Guide.png
+- The Route of Yamanashi Linear Experiment Line.jpg by Genppy, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:The_Route_of_Yamanashi_Linear_Experiment_Line.jpg
+- Rahm Emanuel and Shin Kaneko at Yamanashi Maglev Test Track 2024-09-05 2.jpg by United States Embassy in Japan, Public domain, https://commons.wikimedia.org/wiki/File:Rahm_Emanuel_and_Shin_Kaneko_at_Yamanashi_Maglev_Test_Track_2024-09-05_2.jpg
+- Transrapid01wissel.jpg by Pimvantend, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Transrapid01wissel.jpg
+- Construction of Koyama Viaduct Bridge.A.JPG by Sakaori (talk), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Construction_of_Koyama_Viaduct_Bridge.A.JPG
+- Chuo Shinkansen Yamanashi test track west end viaducts.Sept.2013.JPG by Sakaori (talk), CC BY 3.0, https://commons.wikimedia.org/wiki/File:Chuo_Shinkansen_Yamanashi_test_track_west_end_viaducts.Sept.2013.JPG
+- 1999 Transrapid Test Facility Emsland 03.jpg by Hans Rasp, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1999_Transrapid_Test_Facility_Emsland_03.jpg
+- Eisenbahnmuseum Bochum. Magnetschwebebahn-Fahrzeug Transrapid 07 (Sektion I).jpg by wwwuppertal, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Eisenbahnmuseum_Bochum._Magnetschwebebahn-Fahrzeug_Transrapid_07_(Sektion_I).jpg
+- Transrapid Emsland IMG 7790 transrapid.JPG by Bjoertvedt, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Transrapid_Emsland_IMG_7790_transrapid.JPG
+- Transrapid Emsland IMG 7793 transrapid.JPG by Bjoertvedt, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Transrapid_Emsland_IMG_7793_transrapid.JPG
+- Buttenheim DBAG Class 412-20230407-RM-162955.jpg by Ermell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Buttenheim_DBAG_Class_412-20230407-RM-162955.jpg
+- Fulda Bahnhof DBAG Class 412-20230716-RM-162420.jpg by Ermell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Fulda_Bahnhof_DBAG_Class_412-20230716-RM-162420.jpg
+- Chuo Shinkansen construction at Shinagawa Station, August 2024.jpg by Benlisquare, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Chuo_Shinkansen_construction_at_Shinagawa_Station,_August_2024.jpg
+- Construction of Chuo Shinkansen Gifu Station 05.jpeg by Dr.yellow, CC0, https://commons.wikimedia.org/wiki/File:Construction_of_Chuo_Shinkansen_Gifu_Station_05.jpeg
+- Construction of Chuo Shinkansen Gifu Station 03.jpeg by Dr.yellow, CC0, https://commons.wikimedia.org/wiki/File:Construction_of_Chuo_Shinkansen_Gifu_Station_03.jpeg
+- Japanese Alps 2024.jpg by Qian2007, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Japanese_Alps_2024.jpg
+- Japanese Alps (51831654271).jpg by Raita Futo from Tokyo, Japan, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Japanese_Alps_(51831654271).jpg
+- Series-N700a-Mt.Fuji.jpg by MaedaAkihiko, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Series-N700a-Mt.Fuji.jpg
+- Shinkansen 20140810 102504.jpg by Ka23 13, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shinkansen_20140810_102504.jpg
+- Transrapid 07 in Lathen (2023).jpg by MagnetBahn, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Transrapid_07_in_Lathen_(2023).jpg
+- Lathen - Transrapid + Hümmlinger Kreisbahn 07 ies.jpg by Frank Vincentz, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Lathen_-_Transrapid_%2B_H%C3%BCmmlinger_Kreisbahn_07_ies.jpg
+- Lathen - Hermann-Kemper-Straße - Transrapid-Besucherzentrum 01 ies.jpg by Frank Vincentz, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Lathen_-_Hermann-Kemper-Stra%C3%9Fe_-_Transrapid-Besucherzentrum_01_ies.jpg
+- Shanghai Maglev Line from platform of Longyang Road Station (Shanghai Maglev) 2.jpg by そらみみ, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shanghai_Maglev_Line_from_platform_of_Longyang_Road_Station_(Shanghai_Maglev)_2.jpg
+- Longyang Road Station (Shanghai Maglev) 20181003-2.jpg by そらみみ, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Longyang_Road_Station_(Shanghai_Maglev)_20181003-2.jpg
+- (リニア・鉄道館) モハ52形.jpg by nubobo, CC BY 2.0, https://commons.wikimedia.org/wiki/File:(%E3%83%AA%E3%83%8B%E3%82%A2%E3%83%BB%E9%89%84%E9%81%93%E9%A4%A8)_%E3%83%A2%E3%83%8F52%E5%BD%A2.jpg
+- MOHA52004 004.jpg by Daylight9899, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:MOHA52004_004.jpg
+- 2014.11.15.135714 Maglev train interior Pudong International Airport Shanghai.jpg by Hermann Luyken, CC0, https://commons.wikimedia.org/wiki/File:2014.11.15.135714_Maglev_train_interior_Pudong_International_Airport_Shanghai.jpg
+- Interior of QY03A, Qingyuan Maglev 20240206.jpg by Tim Wu, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Interior_of_QY03A,_Qingyuan_Maglev_20240206.jpg
+- China-Shanghai (2024) Maglev train - img 03.jpg by Chainwit., CC BY 4.0, https://commons.wikimedia.org/wiki/File:China-Shanghai_(2024)_Maglev_train_-_img_03.jpg
+- THE SHANGHAI TO PUDONG AIRPORT MAGLEV LINK SHANGHAI LONGYANG STATION CHINA OCT 2012 (8154535080).jpg by calflier001, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:THE_SHANGHAI_TO_PUDONG_AIRPORT_MAGLEV_LINK_SHANGHAI_LONGYANG_STATION_CHINA_OCT_2012_(8154535080).jpg
+- Ticket of Shanghai Maglev Train.jpg by そらみみ, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ticket_of_Shanghai_Maglev_Train.jpg
+- Headquarters of Shanghai Maglev 20181003.jpg by そらみみ, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Headquarters_of_Shanghai_Maglev_20181003.jpg
