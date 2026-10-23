@@ -1,0 +1,97 @@
+# Photo credits: Why Is the Floor of an F1 Car Worth Millions?
+
+All photos from Wikimedia Commons.
+
+- 070616 Ferrari F1 2007 01.JPG by Xavigivax, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:070616_Ferrari_F1_2007_01.JPG
+- 1969 Piers Courage, Brabham-Ford.jpg by Lothar Spurzem, CC BY-SA 2.0 de, https://commons.wikimedia.org/wiki/File:1969_Piers_Courage,_Brabham-Ford.jpg
+- At London 2025 901 - Formula One car.jpg by Photograph by Mike Peel (www.mikepeel.net)., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:At_London_2025_901_-_Formula_One_car.jpg
+- Formula 1 race cars on display.jpg by Andromeda2064, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Formula_1_race_cars_on_display.jpg
+- 2022 Formula One car at the 2021 British Grand Prix (51350002179).jpg by Jen Ross, CC BY 2.0, https://commons.wikimedia.org/wiki/File:2022_Formula_One_car_at_the_2021_British_Grand_Prix_(51350002179).jpg
+- Manoir De l'Automobile's Formula One Room.jpg by George Davies, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Manoir_De_l%27Automobile%27s_Formula_One_Room.jpg
+- 2015 Malaysian GP opening lap.jpg by Morio, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2015_Malaysian_GP_opening_lap.jpg
+- Cosworth four-wheel-drive F1 car (14662199881).jpg by Ben Sutherland from Crystal Palace, London, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Cosworth_four-wheel-drive_F1_car_(14662199881).jpg
+- Vincenzo Sospiri Imola Formula Opel Lotus.jpg by Carlom1961, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Vincenzo_Sospiri_Imola_Formula_Opel_Lotus.jpg
+- Felipe Massa 2014 British GP 001 (cropped).jpg by Jake Archibald, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Felipe_Massa_2014_British_GP_001_(cropped).jpg
+- Formula One garage Silverstone 2007.jpg by John Chapman (Pyrope), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Formula_One_garage_Silverstone_2007.jpg
+- F1 Safty Car out of Garage.jpg by Chris J. Moffett, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:F1_Safty_Car_out_of_Garage.jpg
+- Honda RC-F1 2.0X bottom Honda Collection Hall.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Honda_RC-F1_2.0X_bottom_Honda_Collection_Hall.jpg
+- Hawker Hurricane Mk. IIC - DPLA - 89d4a57c7bab92f452f19ca23d906797 (page 1).jpg by Hawker Aircraft Ltd, CC0, https://commons.wikimedia.org/wiki/File:Hawker_Hurricane_Mk._IIC_-_DPLA_-_89d4a57c7bab92f452f19ca23d906797_(page_1).jpg
+- Hawker Hurricane Mk. IIC - DPLA - 89d4a57c7bab92f452f19ca23d906797 (page 2).jpg by Hawker Aircraft Ltd, CC0, https://commons.wikimedia.org/wiki/File:Hawker_Hurricane_Mk._IIC_-_DPLA_-_89d4a57c7bab92f452f19ca23d906797_(page_2).jpg
+- Renault Formula One racing car (49667991997).jpg by Ivan Radic, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Renault_Formula_One_racing_car_(49667991997).jpg
+- The rearview of Mercedes-AMG GT R Formula One Safety Car model cars.jpg by Tokumeigakarinoaoshima, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:The_rearview_of_Mercedes-AMG_GT_R_Formula_One_Safety_Car_model_cars.jpg
+- Williams Acidentada no GP Brasil de formula 1 em 2006.jpg by MARCO AURÉLIO ESPARZ…, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Williams_Acidentada_no_GP_Brasil_de_formula_1_em_2006.jpg
+- Romain Grosjean 2017 Malaysia FP2 crashed car.jpg by Morio, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Romain_Grosjean_2017_Malaysia_FP2_crashed_car.jpg
+- Benetton B194 bottom2 2019 Michael Schumacher Private Collection.jpg by Morio, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Benetton_B194_bottom2_2019_Michael_Schumacher_Private_Collection.jpg
+- 25 Cassutt (N-6291N) Formula One Racer 2014 Reno Air Races photo Don Ramey Logan.jpg by Don Ramey Logan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:25_Cassutt_(N-6291N)_Formula_One_Racer_2014_Reno_Air_Races_photo_Don_Ramey_Logan.jpg
+- 2013 FIA Formula One Constructors Championship Trophy, Geneva 2014 (Ank Kumar) 04.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2013_FIA_Formula_One_Constructors_Championship_Trophy,_Geneva_2014_(Ank_Kumar)_04.jpg
+- Michael Schumacher Jos Verstappen JJ Lehto Benetton 1994.jpg by Carlo Marzetti, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Michael_Schumacher_Jos_Verstappen_JJ_Lehto_Benetton_1994.jpg
+- Michael Schumacher - Benetton 194 at the 1994 British Grand Prix.jpg by Martin Lee from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Michael_Schumacher_-_Benetton_194_at_the_1994_British_Grand_Prix.jpg
+- Lewis Hamilton- Mercedes F1 W04 Japan 2013.jpg by nhayashida, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Lewis_Hamilton-_Mercedes_F1_W04_Japan_2013.jpg
+- 2023 Mercedes-AMG W14 SCD 24.jpg by MrWalkr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2023_Mercedes-AMG_W14_SCD_24.jpg
+- Toyota TF110 diffuser 2019 Prototyp Museum.jpg by Morio, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Toyota_TF110_diffuser_2019_Prototyp_Museum.jpg
+- Diffuser Toyota.jpg by iMorpheus, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Diffuser_Toyota.jpg
+- Benetton B190 diffuser 2010 Pavilion Pit Stop.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Benetton_B190_diffuser_2010_Pavilion_Pit_Stop.jpg
+- Brawn-GP 001 (4086073125).jpg by John Willis from Dudley, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Brawn-GP_001_(4086073125).jpg
+- Brawn GP (4087405122).jpg by Chris Worden from UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Brawn_GP_(4087405122).jpg
+- Safety Car rear 2015 Malaysia.jpg by Morio, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Safety_Car_rear_2015_Malaysia.jpg
+- Kojima KE007 rear 2013 Yurakucho.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Kojima_KE007_rear_2013_Yurakucho.jpg
+- McLaren MCL36A Front Wing at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:McLaren_MCL36A_Front_Wing_at_Formula_1_Exhibition,_London.jpg
+- McLaren MP4-23A Front Wing at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:McLaren_MP4-23A_Front_Wing_at_Formula_1_Exhibition,_London.jpg
+- McLaren MP4-9 Front Wing at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:McLaren_MP4-9_Front_Wing_at_Formula_1_Exhibition,_London.jpg
+- Dallara 191 front wing 2010 Pavilion Pit Stop.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Dallara_191_front_wing_2010_Pavilion_Pit_Stop.jpg
+- Benetton B192 front nose and wing 2010 Pavilion Pit Stop.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Benetton_B192_front_nose_and_wing_2010_Pavilion_Pit_Stop.jpg
+- Medieval seal matrix (front, reverse, seal image) (FindID 210291).jpg by Birmingham Museums Trust, Duncan, 2008-02-25 13:33:17, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Medieval_seal_matrix_(front,_reverse,_seal_image)_(FindID_210291).jpg
+- 2010 IZOD IndyCar Series - São Paulo Indy 300 Pódio em frente a linha de chegada - Podium in front of start finish line (26810913590).jpg by Deni Williams from São Paulo, Brasil / Brazil, CC BY 2.0, https://commons.wikimedia.org/wiki/File:2010_IZOD_IndyCar_Series_-_S%C3%A3o_Paulo_Indy_300_P%C3%B3dio_em_frente_a_linha_de_chegada_-_Podium_in_front_of_start_finish_line_(26810913590).jpg
+- Mercedes AMG F1 W09 EQ Power+ DRS Rear Wing at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mercedes_AMG_F1_W09_EQ_Power%2B_DRS_Rear_Wing_at_Formula_1_Exhibition,_London.jpg
+- Paul di Resta 2011 Malaysia FP2 2.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Paul_di_Resta_2011_Malaysia_FP2_2.jpg
+- Caterham DRS Testing Bench at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Caterham_DRS_Testing_Bench_at_Formula_1_Exhibition,_London.jpg
+- McLaren MP4-9 Rear Wing 02 at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:McLaren_MP4-9_Rear_Wing_02_at_Formula_1_Exhibition,_London.jpg
+- Rear Wings Display at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rear_Wings_Display_at_Formula_1_Exhibition,_London.jpg
+- McLaren M7C Donington.jpg by John Chapman (Pyrope), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:McLaren_M7C_Donington.jpg
+- Lotus Europa (29970237816).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Lotus_Europa_(29970237816).jpg
+- McLaren MP4-22 bargeboard 2017 Museo Fernando Alonso.jpg by Morio, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:McLaren_MP4-22_bargeboard_2017_Museo_Fernando_Alonso.jpg
+- Ferrari F399 bargeboard Museo Ferrari.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Ferrari_F399_bargeboard_Museo_Ferrari.jpg
+- Red Bull Racing RB8 Webber Faces-For-Charity-Edition (Bargeboard).jpg by Lukas Raich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Red_Bull_Racing_RB8_Webber_Faces-For-Charity-Edition_(Bargeboard).jpg
+- 2019 Formula One Test Days - Charles Leclerc's Ferrari SF90.jpg by Artes Max from Spain, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:2019_Formula_One_Test_Days_-_Charles_Leclerc%27s_Ferrari_SF90.jpg
+- Red Bull Formula One car at Legendy 2019 in Prague.jpg by Jiří Sedláček, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Red_Bull_Formula_One_car_at_Legendy_2019_in_Prague.jpg
+- Ferrari F1-75 in Melbourne.jpg by EJ Mina, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Ferrari_F1-75_in_Melbourne.jpg
+- Aston Martin AMR22.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Aston_Martin_AMR22.jpg
+- Max Verstappen Red Bull RB19 Petersen Automotive Museum.jpg by TaurusEmerald, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Max_Verstappen_Red_Bull_RB19_Petersen_Automotive_Museum.jpg
+- Williams FW14B Sidepod 02 at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Williams_FW14B_Sidepod_02_at_Formula_1_Exhibition,_London.jpg
+- Lotus 79 Skirted Sidepod at Formula 1 Exhibition, London.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lotus_79_Skirted_Sidepod_at_Formula_1_Exhibition,_London.jpg
+- Replica of Red Bull Racing RB19 (24021012233).jpg by 先従隗始, CC0, https://commons.wikimedia.org/wiki/File:Replica_of_Red_Bull_Racing_RB19_(24021012233).jpg
+- Replica of Red Bull Racing RB19 (24021012224).jpg by 先従隗始, CC0, https://commons.wikimedia.org/wiki/File:Replica_of_Red_Bull_Racing_RB19_(24021012224).jpg
+- Spodumene (Bob Ingersoll Mine, Black Hills, South Dakota, USA) 1.jpg by James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Spodumene_(Bob_Ingersoll_Mine,_Black_Hills,_South_Dakota,_USA)_1.jpg
+- Spodumene (Bob Ingersoll Mine, Black Hills, South Dakota, USA) 2.jpg by James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Spodumene_(Bob_Ingersoll_Mine,_Black_Hills,_South_Dakota,_USA)_2.jpg
+- Lotus 79 JPS (51861707041).jpg by Tony Hisgett from Birmingham, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Lotus_79_JPS_(51861707041).jpg
+- Lotus 79 2009 Lime Rock.jpg by Mike Powell from United States, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Lotus_79_2009_Lime_Rock.jpg
+- Lotus 79, R. Peterson (1978).jpg by Milan Tošnar, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Lotus_79,_R._Peterson_(1978).jpg
+- Mario Andretti - Lotus 79 at the 1978 British Grand Prix (50049698533).jpg by Martin Lee from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Mario_Andretti_-_Lotus_79_at_the_1978_British_Grand_Prix_(50049698533).jpg
+- Mario Andretti - Lotus 79 exits Druids at the 1978 British Grand Prix (50049698168).jpg by Martin Lee from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Mario_Andretti_-_Lotus_79_exits_Druids_at_the_1978_British_Grand_Prix_(50049698168).jpg
+- 1982 Williams FW08.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1982_Williams_FW08.jpg
+- 1982 Williams FW08 (19698911944).jpg by David Merrett from Daventry, England, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1982_Williams_FW08_(19698911944).jpg
+- 1978 Alfa Romeo Brabham BT46B Fan Car - Flickr - edvvc.jpg by edvvc from London, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1978_Alfa_Romeo_Brabham_BT46B_Fan_Car_-_Flickr_-_edvvc.jpg
+- 1978 Brabham-Alfa Romeo BT46B Fan Car.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1978_Brabham-Alfa_Romeo_BT46B_Fan_Car.jpg
+- 1978 Brabham-Alfa Romeo BT46B Fan Car mod.jpg by Quelle: 	Calreyn88       /   Bildbearbeitung & Retusche von Auge=mit, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1978_Brabham-Alfa_Romeo_BT46B_Fan_Car_mod.jpg
+- Monaco 1978 - Niki Lauda - 02.jpg by Lapin74jp, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Monaco_1978_-_Niki_Lauda_-_02.jpg
+- Niki Lauda leaves the drivers briefing at the 1978 Monaco GP (50047323031).jpg by Martin Lee from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Niki_Lauda_leaves_the_drivers_briefing_at_the_1978_Monaco_GP_(50047323031).jpg
+- 2024 Gordon Murray T50.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2024_Gordon_Murray_T50.jpg
+- Gordon Murray Automotive T50 14.jpg by Calreyn88, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Gordon_Murray_Automotive_T50_14.jpg
+- 2017 Manor MRT06 60% model.jpg by Unknown authorUnknown author, CC0, https://commons.wikimedia.org/wiki/File:2017_Manor_MRT06_60%25_model.jpg
+- Formula one.jpg by Rick Dikeman, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Formula_one.jpg
+- F1 2011 AUS - 5CROP.jpg by F1_2011_AUS_-_5.jpg: Tom Merkli
+derivative work: Tipthejust (talk), CC BY 2.0, https://commons.wikimedia.org/wiki/File:F1_2011_AUS_-_5CROP.jpg
+- Wind tunel fsi ujep.jpg by Mkozakovic, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wind_tunel_fsi_ujep.jpg
+- Motocorsa 24 0078 - Ducati V4R.jpg by Patrickhaas, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Motocorsa_24_0078_-_Ducati_V4R.jpg
+- Red Bull Racing factory entrance.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Red_Bull_Racing_factory_entrance.jpg
+- Red Bull Racing factory south-west.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Red_Bull_Racing_factory_south-west.jpg
+- 2010 Malaysian GP opening lap.jpg by Morio, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2010_Malaysian_GP_opening_lap.jpg
+- 2010 Canadian GP race start.jpg by Mark McArdle, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:2010_Canadian_GP_race_start.jpg
+- Start of 2000 United States Grand Prix at Indianapolis from Tower Terrace grandstand.jpg by RickADikeman, CC0, https://commons.wikimedia.org/wiki/File:Start_of_2000_United_States_Grand_Prix_at_Indianapolis_from_Tower_Terrace_grandstand.jpg
+- Start 2008 Belgium.jpg by Mark McArdle from Canada, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Start_2008_Belgium.jpg
+- 2014 Formula 1 Gulf Air Bahrain Grand Prix (13712824774).jpg by Habeed Hameed, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:2014_Formula_1_Gulf_Air_Bahrain_Grand_Prix_(13712824774).jpg
+- 2014 Formula 1 Gulf Air Bahrain Grand Prix (13712608815).jpg by Habeed Hameed, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:2014_Formula_1_Gulf_Air_Bahrain_Grand_Prix_(13712608815).jpg
+- Red Bull Formula One Night, Belfast, March 2010 (11).JPG by Ardfern, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Red_Bull_Formula_One_Night,_Belfast,_March_2010_(11).JPG
+- Red Bull Formula One Night, Belfast, March 2010 (12).JPG by Ardfern, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Red_Bull_Formula_One_Night,_Belfast,_March_2010_(12).JPG
+- Red Bull Formula One Night, Belfast, March 2010 (14).JPG by Ardfern, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Red_Bull_Formula_One_Night,_Belfast,_March_2010_(14).JPG
+- Red Bull Formula One Night, Belfast, March 2010 (13).JPG by Ardfern, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Red_Bull_Formula_One_Night,_Belfast,_March_2010_(13).JPG
