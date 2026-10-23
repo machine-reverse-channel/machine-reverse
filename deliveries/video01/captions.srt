@@ -1,0 +1,2295 @@
+1
+00:00:00,000 --> 00:00:02,152
+There is a hole in your airplane
+
+2
+00:00:02,152 --> 00:00:02,623
+window.
+
+3
+00:00:02,803 --> 00:00:04,949
+There are tiny fins on the wing,
+
+4
+00:00:04,949 --> 00:00:06,692
+little sticks on the tail,
+
+5
+00:00:06,692 --> 00:00:09,038
+and a spiral painted on the engine.
+
+6
+00:00:09,218 --> 00:00:11,542
+There is an ashtray in a bathroom
+
+7
+00:00:11,542 --> 00:00:14,500
+where smoking has been banned for decades.
+
+8
+00:00:14,680 --> 00:00:16,155
+You have seen all of them.
+
+9
+00:00:16,335 --> 00:00:18,436
+Almost nobody can explain them.
+
+10
+00:00:18,616 --> 00:00:21,101
+Today we are going to explain twelve
+
+11
+00:00:21,101 --> 00:00:23,241
+of them, and one of these parts
+
+12
+00:00:23,241 --> 00:00:25,726
+was the reason a whole generation of
+
+13
+00:00:25,726 --> 00:00:27,452
+jets fell out of the sky.
+
+14
+00:00:27,801 --> 00:00:30,110
+Every part on an airliner has to
+
+15
+00:00:30,110 --> 00:00:31,192
+earn its place.
+
+16
+00:00:31,372 --> 00:00:32,366
+It adds weight,
+
+17
+00:00:32,366 --> 00:00:33,228
+it adds cost,
+
+18
+00:00:33,228 --> 00:00:35,017
+and it has to be inspected.
+
+19
+00:00:35,197 --> 00:00:37,480
+So when something looks strange,
+
+20
+00:00:37,480 --> 00:00:39,263
+pointless, or even silly,
+
+21
+00:00:39,263 --> 00:00:41,903
+there is almost always a story behind
+
+22
+00:00:41,903 --> 00:00:42,117
+it.
+
+23
+00:00:42,297 --> 00:00:44,328
+Sometimes it is physics.
+
+24
+00:00:44,508 --> 00:00:46,238
+Sometimes it is money.
+
+25
+00:00:46,418 --> 00:00:48,699
+And sometimes it is a lesson that
+
+26
+00:00:48,699 --> 00:00:50,150
+was written in blood,
+
+27
+00:00:50,150 --> 00:00:52,431
+and turned into a rule that every
+
+28
+00:00:52,431 --> 00:00:54,642
+airplane in the world now has to
+
+29
+00:00:54,642 --> 00:00:55,126
+follow.
+
+30
+00:00:55,476 --> 00:00:57,205
+Here is how this works.
+
+31
+00:00:57,385 --> 00:00:58,452
+For every part,
+
+32
+00:00:58,452 --> 00:01:00,658
+we start with a picture and one
+
+33
+00:01:00,658 --> 00:01:01,298
+question.
+
+34
+00:01:01,478 --> 00:01:03,010
+Why does this exist?
+
+35
+00:01:03,190 --> 00:01:05,342
+Then we give you the real answer,
+
+36
+00:01:05,342 --> 00:01:06,386
+with the source,
+
+37
+00:01:06,386 --> 00:01:07,951
+and the story behind it.
+
+38
+00:01:08,131 --> 00:01:11,126
+Every number in this video comes from
+
+39
+00:01:11,126 --> 00:01:12,340
+a named source,
+
+40
+00:01:12,340 --> 00:01:16,145
+like NASA, the Federal Aviation Administration,
+
+41
+00:01:16,145 --> 00:01:19,221
+or an official accident investigation,
+
+42
+00:01:19,221 --> 00:01:21,892
+and every source is listed in the
+
+43
+00:01:21,892 --> 00:01:22,864
+description.
+
+44
+00:01:23,044 --> 00:01:24,803
+Let's start with the one you can
+
+45
+00:01:24,803 --> 00:01:25,133
+touch.
+
+46
+00:01:25,483 --> 00:01:27,286
+Why is there a tiny hole in
+
+47
+00:01:27,286 --> 00:01:28,688
+your airplane window?
+
+48
+00:01:28,868 --> 00:01:30,311
+It looks like a mistake,
+
+49
+00:01:30,311 --> 00:01:32,537
+but it is keeping the window working.
+
+50
+00:01:32,717 --> 00:01:35,515
+An airplane window is not one pane.
+
+51
+00:01:35,695 --> 00:01:36,763
+It is three.
+
+52
+00:01:36,943 --> 00:01:39,209
+The inner one is just a scratch
+
+53
+00:01:39,209 --> 00:01:39,648
+guard.
+
+54
+00:01:39,828 --> 00:01:42,025
+The middle and outer panes are the
+
+55
+00:01:42,025 --> 00:01:42,800
+real window.
+
+56
+00:01:42,980 --> 00:01:44,096
+The tiny hole,
+
+57
+00:01:44,096 --> 00:01:47,044
+called a breather hole or bleed hole,
+
+58
+00:01:47,044 --> 00:01:48,797
+is in the middle pane.
+
+59
+00:01:48,977 --> 00:01:51,521
+It lets the air pressure between the
+
+60
+00:01:51,521 --> 00:01:53,075
+panes match the cabin,
+
+61
+00:01:53,075 --> 00:01:54,559
+so during the flight,
+
+62
+00:01:54,559 --> 00:01:57,174
+the cabin pressure pushes only on the
+
+63
+00:01:57,174 --> 00:01:57,951
+outer pane.
+
+64
+00:01:58,131 --> 00:02:00,790
+The middle pane carries almost nothing.
+
+65
+00:02:00,970 --> 00:02:02,111
+It is a spare,
+
+66
+00:02:02,111 --> 00:02:04,881
+waiting in case the outer one ever
+
+67
+00:02:04,881 --> 00:02:05,370
+fails.
+
+68
+00:02:05,719 --> 00:02:07,310
+Think about what that means.
+
+69
+00:02:07,490 --> 00:02:09,780
+At cruise, the air outside is thin
+
+70
+00:02:09,780 --> 00:02:12,338
+and cold, and the cabin is pressurized
+
+71
+00:02:12,338 --> 00:02:14,561
+so that you can breathe normally.
+
+72
+00:02:14,741 --> 00:02:17,827
+That difference in pressure pushes outward on
+
+73
+00:02:17,827 --> 00:02:19,679
+every window, every flight,
+
+74
+00:02:19,679 --> 00:02:22,080
+thousands of times over the life of
+
+75
+00:02:22,080 --> 00:02:22,972
+the airplane.
+
+76
+00:02:23,152 --> 00:02:25,810
+By loading only one pane and keeping
+
+77
+00:02:25,810 --> 00:02:27,582
+a second one in reserve,
+
+78
+00:02:27,582 --> 00:02:30,241
+the designers built a backup that is
+
+79
+00:02:30,241 --> 00:02:32,382
+always there and never tired.
+
+80
+00:02:32,562 --> 00:02:34,309
+If the outer pane cracks,
+
+81
+00:02:34,309 --> 00:02:36,196
+the middle pane takes over.
+
+82
+00:02:36,545 --> 00:02:38,217
+And the hole has a second job.
+
+83
+00:02:38,397 --> 00:02:40,856
+Air between two panes of glass can
+
+84
+00:02:40,856 --> 00:02:44,254
+hold moisture, and when the outside temperature
+
+85
+00:02:44,254 --> 00:02:46,062
+drops far below freezing,
+
+86
+00:02:46,062 --> 00:02:48,665
+that moisture would fog or frost the
+
+87
+00:02:48,665 --> 00:02:49,171
+window.
+
+88
+00:02:49,351 --> 00:02:52,047
+The breather hole lets that moist air
+
+89
+00:02:52,047 --> 00:02:53,285
+move and dry out,
+
+90
+00:02:53,285 --> 00:02:55,180
+so the window stays clear.
+
+91
+00:02:55,360 --> 00:02:56,893
+One tiny hole,
+
+92
+00:02:56,893 --> 00:02:57,879
+two jobs.
+
+93
+00:02:58,059 --> 00:03:00,684
+A spare pane that is never stressed,
+
+94
+00:03:00,684 --> 00:03:02,726
+and a clear view of the sky.
+
+95
+00:03:03,077 --> 00:03:05,879
+Why are airplane windows always rounded,
+
+96
+00:03:05,879 --> 00:03:07,070
+and never square?
+
+97
+00:03:07,250 --> 00:03:09,864
+The answer starts with the first jet
+
+98
+00:03:09,864 --> 00:03:11,316
+airliner in history,
+
+99
+00:03:11,316 --> 00:03:12,986
+the de Havilland Comet.
+
+100
+00:03:13,166 --> 00:03:16,614
+It entered passenger service on the second
+
+101
+00:03:16,614 --> 00:03:18,831
+of May, nineteen fifty-two.
+
+102
+00:03:19,011 --> 00:03:20,997
+Less than two years later,
+
+103
+00:03:20,997 --> 00:03:22,830
+on the tenth of January,
+
+104
+00:03:22,830 --> 00:03:26,114
+nineteen fifty-four, a Comet broke apart in
+
+105
+00:03:26,114 --> 00:03:28,558
+the air near the island of Elba,
+
+106
+00:03:28,558 --> 00:03:31,689
+and all thirty-five people on board died.
+
+107
+00:03:31,869 --> 00:03:33,333
+Three months later,
+
+108
+00:03:33,333 --> 00:03:36,029
+another Comet broke up near Naples,
+
+109
+00:03:36,029 --> 00:03:39,033
+killing all twenty-one people on board.
+
+110
+00:03:39,213 --> 00:03:41,115
+The cause was metal fatigue,
+
+111
+00:03:41,115 --> 00:03:43,358
+and it started at a sharp corner.
+
+112
+00:03:43,708 --> 00:03:46,703
+Engineers put a Comet fuselage in a
+
+113
+00:03:46,703 --> 00:03:50,213
+giant water tank and pressurized it again
+
+114
+00:03:50,213 --> 00:03:53,808
+and again, simulating flight after flight.
+
+115
+00:03:53,988 --> 00:03:57,264
+After three thousand and fifty-seven cycles,
+
+116
+00:03:57,264 --> 00:03:59,050
+the fuselage burst open.
+
+117
+00:03:59,230 --> 00:04:01,075
+On the crashed airplane,
+
+118
+00:04:01,075 --> 00:04:04,150
+investigators traced the crack to a tiny
+
+119
+00:04:04,150 --> 00:04:06,379
+rivet hole at the corner of a
+
+120
+00:04:06,379 --> 00:04:08,378
+square cutout in the roof,
+
+121
+00:04:08,378 --> 00:04:10,991
+a window for a navigation antenna.
+
+122
+00:04:11,171 --> 00:04:14,083
+Every flight, the pressure flexed that corner
+
+123
+00:04:14,083 --> 00:04:14,666
+a little.
+
+124
+00:04:14,846 --> 00:04:17,214
+Eventually, the metal simply gave up.
+
+125
+00:04:17,564 --> 00:04:19,514
+Now here is the twist.
+
+126
+00:04:19,694 --> 00:04:22,477
+Most people say the square passenger windows
+
+127
+00:04:22,477 --> 00:04:23,932
+brought the Comet down.
+
+128
+00:04:24,112 --> 00:04:25,598
+That is not quite true.
+
+129
+00:04:25,778 --> 00:04:28,088
+According to the investigation,
+
+130
+00:04:28,088 --> 00:04:30,771
+the crack began at that roof cutout,
+
+131
+00:04:30,771 --> 00:04:32,709
+not at a passenger window.
+
+132
+00:04:32,889 --> 00:04:34,744
+But the lesson was the same for
+
+133
+00:04:34,744 --> 00:04:35,582
+every opening.
+
+134
+00:04:35,762 --> 00:04:38,758
+A sharp corner concentrates stress in one
+
+135
+00:04:38,758 --> 00:04:41,461
+point, and a rounded shape spreads it
+
+136
+00:04:41,461 --> 00:04:41,753
+out.
+
+137
+00:04:41,933 --> 00:04:42,819
+That is why,
+
+138
+00:04:42,819 --> 00:04:45,106
+on every pressurized jet today,
+
+139
+00:04:45,106 --> 00:04:47,984
+every window and every door has rounded
+
+140
+00:04:47,984 --> 00:04:48,574
+corners.
+
+141
+00:04:48,924 --> 00:04:51,158
+Why are there tiny fins sticking out
+
+142
+00:04:51,158 --> 00:04:51,965
+of this wing?
+
+143
+00:04:52,145 --> 00:04:54,185
+They look like a factory forgot to
+
+144
+00:04:54,185 --> 00:04:55,025
+sand them off.
+
+145
+00:04:55,205 --> 00:04:57,714
+They are called vortex generators,
+
+146
+00:04:57,714 --> 00:05:00,150
+and each one is a miniature wing.
+
+147
+00:05:00,330 --> 00:05:01,889
+As the air passes,
+
+148
+00:05:01,889 --> 00:05:04,659
+each fin spins off a small swirl
+
+149
+00:05:04,659 --> 00:05:05,265
+of air.
+
+150
+00:05:05,445 --> 00:05:08,295
+That swirl grabs fast moving air from
+
+151
+00:05:08,295 --> 00:05:10,837
+above and mixes it into the slow,
+
+152
+00:05:10,837 --> 00:05:13,611
+tired layer of air right against the
+
+153
+00:05:13,611 --> 00:05:14,535
+wing's skin.
+
+154
+00:05:14,715 --> 00:05:17,454
+That energized layer stays attached to the
+
+155
+00:05:17,454 --> 00:05:18,498
+wing for longer,
+
+156
+00:05:18,498 --> 00:05:20,585
+so the wing keeps making lift at
+
+157
+00:05:20,585 --> 00:05:23,063
+angles where it would otherwise stall.
+
+158
+00:05:23,243 --> 00:05:25,297
+A row of fins the size of
+
+159
+00:05:25,297 --> 00:05:28,502
+your thumb, buying safety at low speed.
+
+160
+00:05:28,853 --> 00:05:31,186
+The thin layer of air touching the
+
+161
+00:05:31,186 --> 00:05:33,520
+wing is called the boundary layer.
+
+162
+00:05:33,700 --> 00:05:36,016
+It is slowed down by friction with
+
+163
+00:05:36,016 --> 00:05:38,263
+the skin, and when the wing tilts
+
+164
+00:05:38,263 --> 00:05:41,464
+up, it struggles against rising pressure toward
+
+165
+00:05:41,464 --> 00:05:42,895
+the back of the wing.
+
+166
+00:05:43,075 --> 00:05:44,789
+If it slows too much,
+
+167
+00:05:44,789 --> 00:05:48,054
+it separates, and the smooth flow breaks
+
+168
+00:05:48,054 --> 00:05:48,462
+down.
+
+169
+00:05:48,642 --> 00:05:49,629
+That is a stall.
+
+170
+00:05:49,809 --> 00:05:53,588
+Vortex generators fight that separation by constantly
+
+171
+00:05:53,588 --> 00:05:56,368
+feeding energy into the boundary layer.
+
+172
+00:05:56,719 --> 00:05:59,349
+On airliners, you often find them right
+
+173
+00:05:59,349 --> 00:06:00,833
+in front of the flaps,
+
+174
+00:06:00,833 --> 00:06:02,182
+or near the engines,
+
+175
+00:06:02,182 --> 00:06:04,745
+because those are the places where the
+
+176
+00:06:04,745 --> 00:06:06,633
+airflow has the hardest job.
+
+177
+00:06:06,813 --> 00:06:08,363
+On high speed jets,
+
+178
+00:06:08,363 --> 00:06:11,951
+they also help keep control surfaces working
+
+179
+00:06:11,951 --> 00:06:13,501
+behind shock waves.
+
+180
+00:06:13,681 --> 00:06:15,933
+Small airplanes use them too.
+
+181
+00:06:16,113 --> 00:06:18,562
+Kits with dozens of tiny fins are
+
+182
+00:06:18,562 --> 00:06:21,086
+sold to let bush planes fly slower
+
+183
+00:06:21,086 --> 00:06:22,348
+and land shorter.
+
+184
+00:06:22,528 --> 00:06:25,016
+It is one of the cheapest upgrades
+
+185
+00:06:25,016 --> 00:06:25,895
+in aviation.
+
+186
+00:06:26,244 --> 00:06:28,348
+Why are there little sticks hanging off
+
+187
+00:06:28,348 --> 00:06:30,398
+the back of every airliner's wings and
+
+188
+00:06:30,398 --> 00:06:30,668
+tail?
+
+189
+00:06:30,848 --> 00:06:32,258
+They are not antennas,
+
+190
+00:06:32,258 --> 00:06:34,052
+and they are not decoration.
+
+191
+00:06:34,232 --> 00:06:36,213
+They are static wicks,
+
+192
+00:06:36,213 --> 00:06:39,004
+also called static dischargers.
+
+193
+00:06:39,184 --> 00:06:41,664
+When a jet flies through rain,
+
+194
+00:06:41,664 --> 00:06:43,896
+snow, ice crystals or dust,
+
+195
+00:06:43,896 --> 00:06:47,782
+friction charges the whole airplane with static
+
+196
+00:06:47,782 --> 00:06:48,774
+electricity.
+
+197
+00:06:48,954 --> 00:06:51,811
+More than five hundred thousand volts have
+
+198
+00:06:51,811 --> 00:06:54,736
+been measured on small airplanes in flight.
+
+199
+00:06:54,916 --> 00:06:58,271
+If that charge leaks off in uncontrolled
+
+200
+00:06:58,271 --> 00:07:01,123
+sparks, it creates a roar of radio
+
+201
+00:07:01,123 --> 00:07:01,626
+noise.
+
+202
+00:07:01,806 --> 00:07:04,154
+The wicks bleed it off quietly,
+
+203
+00:07:04,154 --> 00:07:05,744
+through sharp points,
+
+204
+00:07:05,744 --> 00:07:08,167
+so the pilots can still hear the
+
+205
+00:07:08,167 --> 00:07:08,621
+radio.
+
+206
+00:07:08,971 --> 00:07:12,385
+Pilots call this problem precipitation static.
+
+207
+00:07:12,565 --> 00:07:16,310
+Without dischargers, the charge escapes from the
+
+208
+00:07:16,310 --> 00:07:18,573
+wing tips and tail edges in a
+
+209
+00:07:18,573 --> 00:07:20,680
+crackling corona discharge.
+
+210
+00:07:20,860 --> 00:07:21,888
+In the headset,
+
+211
+00:07:21,888 --> 00:07:23,739
+it sounds like a loud hiss.
+
+212
+00:07:23,919 --> 00:07:25,940
+It can drown out voice radio,
+
+213
+00:07:25,940 --> 00:07:27,960
+confuse navigation receivers,
+
+214
+00:07:27,960 --> 00:07:31,443
+and even make some instruments behave erratically.
+
+215
+00:07:31,623 --> 00:07:33,520
+In the middle of a storm,
+
+216
+00:07:33,520 --> 00:07:36,024
+that is exactly when you need the
+
+217
+00:07:36,024 --> 00:07:36,859
+radio most.
+
+218
+00:07:37,208 --> 00:07:39,623
+Static wicks have a long history.
+
+219
+00:07:39,803 --> 00:07:42,986
+An early patent for a static discharger
+
+220
+00:07:42,986 --> 00:07:45,353
+was filed in nineteen twenty.
+
+221
+00:07:45,533 --> 00:07:48,775
+Modern carbon wicks were patented in the
+
+222
+00:07:48,775 --> 00:07:51,613
+early nineteen fifties by a team of
+
+223
+00:07:51,613 --> 00:07:54,693
+engineers that included Mary Sullivan.
+
+224
+00:07:54,873 --> 00:07:56,580
+Today, they are simple,
+
+225
+00:07:56,580 --> 00:07:57,842
+light, and cheap,
+
+226
+00:07:57,842 --> 00:08:00,587
+and they are on almost every airliner
+
+227
+00:08:00,587 --> 00:08:02,071
+you will ever board.
+
+228
+00:08:02,251 --> 00:08:03,971
+Next time you look out at the
+
+229
+00:08:03,971 --> 00:08:04,980
+wing, count them.
+
+230
+00:08:05,329 --> 00:08:07,064
+Why does the tip of this wing
+
+231
+00:08:07,064 --> 00:08:08,081
+bend straight up?
+
+232
+00:08:08,261 --> 00:08:10,050
+It is called a winglet,
+
+233
+00:08:10,050 --> 00:08:12,150
+and it exists to save fuel.
+
+234
+00:08:12,330 --> 00:08:14,982
+A wing works because the pressure under
+
+235
+00:08:14,982 --> 00:08:17,225
+it is higher than the pressure on
+
+236
+00:08:17,225 --> 00:08:17,497
+top.
+
+237
+00:08:17,677 --> 00:08:18,806
+But at the tip,
+
+238
+00:08:18,806 --> 00:08:21,665
+that high pressure air tries to escape
+
+239
+00:08:21,665 --> 00:08:22,869
+around the edge,
+
+240
+00:08:22,869 --> 00:08:25,202
+and it rolls up into a spinning
+
+241
+00:08:25,202 --> 00:08:28,137
+tornado of air called a wingtip vortex.
+
+242
+00:08:28,317 --> 00:08:30,692
+That vortex costs energy,
+
+243
+00:08:30,692 --> 00:08:33,542
+a penalty called induced drag.
+
+244
+00:08:33,722 --> 00:08:36,404
+A winglet weakens that vortex.
+
+245
+00:08:36,584 --> 00:08:38,172
+According to NASA,
+
+246
+00:08:38,172 --> 00:08:42,231
+winglet technology generally saves four to six
+
+247
+00:08:42,231 --> 00:08:43,643
+percent of fuel.
+
+248
+00:08:43,823 --> 00:08:45,064
+On a big airline,
+
+249
+00:08:45,064 --> 00:08:47,108
+that is millions of dollars.
+
+250
+00:08:47,458 --> 00:08:49,815
+The modern winglet came from NASA.
+
+251
+00:08:49,995 --> 00:08:51,898
+In nineteen seventy-six,
+
+252
+00:08:51,898 --> 00:08:53,564
+after the oil crisis,
+
+253
+00:08:53,564 --> 00:08:58,322
+NASA engineer Richard Whitcomb published research predicting
+
+254
+00:08:58,322 --> 00:09:01,414
+that winglets could cut induced drag by
+
+255
+00:09:01,414 --> 00:09:03,080
+about twenty percent.
+
+256
+00:09:03,260 --> 00:09:05,801
+NASA, the US Air Force and Boeing
+
+257
+00:09:05,801 --> 00:09:08,189
+then flight tested them on a KC
+
+258
+00:09:08,189 --> 00:09:12,117
+one thirty-five tanker in nineteen seventy-nine and
+
+259
+00:09:12,117 --> 00:09:13,349
+nineteen eighty.
+
+260
+00:09:13,529 --> 00:09:15,723
+The results matched the prediction.
+
+261
+00:09:16,073 --> 00:09:18,198
+Then the numbers became enormous.
+
+262
+00:09:18,378 --> 00:09:19,752
+According to NASA,
+
+263
+00:09:19,752 --> 00:09:23,873
+a typical Southwest Airlines Boeing seven thirty-seven
+
+264
+00:09:23,873 --> 00:09:27,460
+seven hundred with blended winglets saves about
+
+265
+00:09:27,460 --> 00:09:30,512
+one hundred thousand gallons of fuel per
+
+266
+00:09:30,512 --> 00:09:30,894
+year.
+
+267
+00:09:31,074 --> 00:09:32,495
+And by twenty ten,
+
+268
+00:09:32,495 --> 00:09:36,129
+blended winglets had saved roughly two billion
+
+269
+00:09:36,129 --> 00:09:38,498
+gallons of jet fuel worldwide,
+
+270
+00:09:38,498 --> 00:09:41,105
+worth about four billion dollars.
+
+271
+00:09:41,285 --> 00:09:42,978
+A bent piece of wing,
+
+272
+00:09:42,978 --> 00:09:45,801
+paying for itself every single day.
+
+273
+00:09:46,150 --> 00:09:47,894
+Why are there long pods,
+
+274
+00:09:47,894 --> 00:09:49,274
+shaped like canoes,
+
+275
+00:09:49,274 --> 00:09:50,945
+hanging under the wing?
+
+276
+00:09:51,125 --> 00:09:53,449
+They are called flap track fairings,
+
+277
+00:09:53,449 --> 00:09:54,933
+and they have two jobs.
+
+278
+00:09:55,113 --> 00:09:57,151
+The first is obvious once you know
+
+279
+00:09:57,151 --> 00:09:57,331
+it.
+
+280
+00:09:57,511 --> 00:10:00,523
+Inside each canoe is the heavy mechanism
+
+281
+00:10:00,523 --> 00:10:03,459
+that slides the flaps backward and down
+
+282
+00:10:03,459 --> 00:10:05,266
+for takeoff and landing.
+
+283
+00:10:05,446 --> 00:10:07,339
+The second job is hidden.
+
+284
+00:10:07,519 --> 00:10:09,938
+Their long shape sticks out past the
+
+285
+00:10:09,938 --> 00:10:11,819
+back of the wing on purpose,
+
+286
+00:10:11,819 --> 00:10:14,372
+and it actually reduces drag at cruise
+
+287
+00:10:14,372 --> 00:10:14,775
+speed.
+
+288
+00:10:14,955 --> 00:10:16,383
+They are not just covers.
+
+289
+00:10:16,563 --> 00:10:18,463
+They are shaped to make the whole
+
+290
+00:10:18,463 --> 00:10:20,882
+airplane slip through the air more easily.
+
+291
+00:10:21,231 --> 00:10:23,982
+That shape comes from a famous rule
+
+292
+00:10:23,982 --> 00:10:26,419
+in aerodynamics, the area rule,
+
+293
+00:10:26,419 --> 00:10:29,799
+developed by NASA's Richard Whitcomb in the
+
+294
+00:10:29,799 --> 00:10:31,135
+nineteen fifties.
+
+295
+00:10:31,315 --> 00:10:33,207
+Near the speed of sound,
+
+296
+00:10:33,207 --> 00:10:34,705
+drag rises sharply.
+
+297
+00:10:34,885 --> 00:10:37,192
+But if the cross section of the
+
+298
+00:10:37,192 --> 00:10:40,467
+airplane changes smoothly from nose to tail,
+
+299
+00:10:40,467 --> 00:10:42,029
+without sudden jumps,
+
+300
+00:10:42,029 --> 00:10:43,592
+that drag is reduced.
+
+301
+00:10:43,772 --> 00:10:47,066
+Airliners cruise at around eighty to eighty-five
+
+302
+00:10:47,066 --> 00:10:49,125
+percent of the speed of sound,
+
+303
+00:10:49,125 --> 00:10:51,321
+which is right in the zone where
+
+304
+00:10:51,321 --> 00:10:52,213
+this matters.
+
+305
+00:10:52,562 --> 00:10:55,453
+Whitcomb even proposed pods on the back
+
+306
+00:10:55,453 --> 00:10:57,603
+of the wing for this purpose,
+
+307
+00:10:57,603 --> 00:10:58,715
+and in Britain,
+
+308
+00:10:58,715 --> 00:11:02,792
+the aerodynamicist Dietrich Küchemann reached a similar
+
+309
+00:11:02,792 --> 00:11:03,162
+idea.
+
+310
+00:11:03,342 --> 00:11:06,721
+His pods became known as Küchemann carrots.
+
+311
+00:11:06,901 --> 00:11:08,851
+So when you look at those canoes
+
+312
+00:11:08,851 --> 00:11:09,766
+under the wing,
+
+313
+00:11:09,766 --> 00:11:11,716
+you are looking at two things at
+
+314
+00:11:11,716 --> 00:11:12,021
+once.
+
+315
+00:11:12,201 --> 00:11:14,096
+A cover for heavy machinery,
+
+316
+00:11:14,096 --> 00:11:16,533
+and a carefully shaped trick to beat
+
+317
+00:11:16,533 --> 00:11:18,563
+the drag of near sonic flight.
+
+318
+00:11:18,914 --> 00:11:20,826
+Why does the back of this jet
+
+319
+00:11:20,826 --> 00:11:22,013
+engine have teeth?
+
+320
+00:11:22,193 --> 00:11:25,197
+These sawtooth edges are called chevrons,
+
+321
+00:11:25,197 --> 00:11:27,395
+and they exist for one reason.
+
+322
+00:11:27,575 --> 00:11:28,190
+Noise.
+
+323
+00:11:28,370 --> 00:11:30,601
+The hot, fast exhaust of a jet
+
+324
+00:11:30,601 --> 00:11:33,500
+engine slams into the slower air around
+
+325
+00:11:33,500 --> 00:11:36,400
+it, and that violent mixing creates the
+
+326
+00:11:36,400 --> 00:11:38,482
+roar you hear on the ground.
+
+327
+00:11:38,662 --> 00:11:41,518
+The chevrons make the two streams blend
+
+328
+00:11:41,518 --> 00:11:44,154
+more gently, so the roar is smaller.
+
+329
+00:11:44,334 --> 00:11:45,659
+According to NASA,
+
+330
+00:11:45,659 --> 00:11:48,088
+on the Boeing seven eighty-seven,
+
+331
+00:11:48,088 --> 00:11:51,696
+its industry partner Boeing reported a sixty-nine
+
+332
+00:11:51,696 --> 00:11:54,051
+percent smaller noise footprint.
+
+333
+00:11:54,231 --> 00:11:56,639
+That is why the Dreamliner sounds so
+
+334
+00:11:56,639 --> 00:11:57,308
+different.
+
+335
+00:11:57,658 --> 00:12:00,853
+NASA spent the nineteen nineties and early
+
+336
+00:12:00,853 --> 00:12:04,733
+two thousands refining chevron shapes with computer
+
+337
+00:12:04,733 --> 00:12:08,385
+simulations, then ground tests and flight tests.
+
+338
+00:12:08,565 --> 00:12:11,598
+Those tests showed lower noise both on
+
+339
+00:12:11,598 --> 00:12:14,951
+the ground and inside the passenger cabin.
+
+340
+00:12:15,131 --> 00:12:17,468
+For people living near airports,
+
+341
+00:12:17,468 --> 00:12:20,608
+a smaller noise footprint means fewer homes
+
+342
+00:12:20,608 --> 00:12:23,676
+inside the loudest zone around the runway.
+
+343
+00:12:24,025 --> 00:12:27,107
+The Boeing seven forty-seven eight also uses
+
+344
+00:12:27,107 --> 00:12:30,678
+chevrons, and Boeing reported a twenty-nine percent
+
+345
+00:12:30,678 --> 00:12:32,849
+smaller noise footprint for it.
+
+346
+00:12:33,029 --> 00:12:34,724
+But chevrons are not free.
+
+347
+00:12:34,904 --> 00:12:38,253
+Sticking teeth into the exhaust stream costs
+
+348
+00:12:38,253 --> 00:12:39,775
+a little efficiency,
+
+349
+00:12:39,775 --> 00:12:42,971
+and some newer engine designs reduce noise
+
+350
+00:12:42,971 --> 00:12:44,645
+in other ways instead.
+
+351
+00:12:44,825 --> 00:12:48,122
+So engineers keep weighing the same trade-off.
+
+352
+00:12:48,302 --> 00:12:49,968
+A quieter neighborhood,
+
+353
+00:12:49,968 --> 00:12:51,924
+against a little more fuel.
+
+354
+00:12:52,274 --> 00:12:54,497
+Why is there a white spiral painted
+
+355
+00:12:54,497 --> 00:12:56,338
+on the center of this engine?
+
+356
+00:12:56,518 --> 00:12:59,014
+Many people think it scares birds away.
+
+357
+00:12:59,194 --> 00:13:02,050
+Boeing engineers say it does not reduce
+
+358
+00:13:02,050 --> 00:13:03,002
+bird strikes.
+
+359
+00:13:03,182 --> 00:13:05,799
+Its real job is to protect people
+
+360
+00:13:05,799 --> 00:13:06,909
+on the ground.
+
+361
+00:13:07,089 --> 00:13:10,007
+A turning fan can look almost still,
+
+362
+00:13:10,007 --> 00:13:11,628
+especially at night.
+
+363
+00:13:11,808 --> 00:13:14,283
+The spiral turns into a flickering blur
+
+364
+00:13:14,283 --> 00:13:16,059
+the moment the engine moves,
+
+365
+00:13:16,059 --> 00:13:17,962
+so the ground crew can tell at
+
+366
+00:13:17,962 --> 00:13:19,738
+a glance that it is running.
+
+367
+00:13:19,918 --> 00:13:21,122
+And that matters,
+
+368
+00:13:21,122 --> 00:13:23,246
+because the area in front of a
+
+369
+00:13:23,246 --> 00:13:25,583
+running engine is one of the most
+
+370
+00:13:25,583 --> 00:13:27,778
+dangerous places at an airport.
+
+371
+00:13:28,127 --> 00:13:29,172
+How dangerous?
+
+372
+00:13:29,352 --> 00:13:31,629
+For a Boeing seven thirty-seven,
+
+373
+00:13:31,629 --> 00:13:33,834
+the hazard zone in front of and
+
+374
+00:13:33,834 --> 00:13:36,751
+beside the engine extends about nine feet
+
+375
+00:13:36,751 --> 00:13:39,170
+at idle, and fourteen feet or more
+
+376
+00:13:39,170 --> 00:13:39,952
+above idle.
+
+377
+00:13:40,132 --> 00:13:43,448
+Bigger jets, like the seven seventy-seven,
+
+378
+00:13:43,448 --> 00:13:45,264
+have much bigger zones.
+
+379
+00:13:45,444 --> 00:13:47,718
+A person who walks into that area
+
+380
+00:13:47,718 --> 00:13:49,786
+can be pulled into the engine.
+
+381
+00:13:49,966 --> 00:13:51,655
+The spiral is a simple,
+
+382
+00:13:51,655 --> 00:13:54,886
+cheap warning sign painted where everyone is
+
+383
+00:13:54,886 --> 00:13:56,061
+already looking.
+
+384
+00:13:56,411 --> 00:13:57,491
+And the bird theory?
+
+385
+00:13:57,671 --> 00:13:59,598
+It is not completely crazy.
+
+386
+00:13:59,778 --> 00:14:01,634
+In nineteen eighty-six,
+
+387
+00:14:01,634 --> 00:14:05,346
+the Japanese airline All Nippon Airways tested
+
+388
+00:14:05,346 --> 00:14:08,411
+eye-like markings on its engines for a
+
+389
+00:14:08,411 --> 00:14:11,477
+year and reported a small reduction in
+
+390
+00:14:11,477 --> 00:14:12,526
+bird strikes.
+
+391
+00:14:12,706 --> 00:14:15,346
+But other studies were inconclusive,
+
+392
+00:14:15,346 --> 00:14:18,719
+and a Rolls-Royce representative noted that in
+
+393
+00:14:18,719 --> 00:14:21,432
+flight, the engine spins far too fast
+
+394
+00:14:21,432 --> 00:14:23,559
+for a bird to see any pattern
+
+395
+00:14:23,559 --> 00:14:24,072
+at all.
+
+396
+00:14:24,252 --> 00:14:26,296
+The spiral is for people.
+
+397
+00:14:26,645 --> 00:14:28,780
+Why is this small tube on the
+
+398
+00:14:28,780 --> 00:14:31,208
+nose of an airliner so important?
+
+399
+00:14:31,388 --> 00:14:32,583
+It is a pitot tube,
+
+400
+00:14:32,583 --> 00:14:34,909
+and it measures how fast the airplane
+
+401
+00:14:34,909 --> 00:14:36,543
+is moving through the air.
+
+402
+00:14:36,723 --> 00:14:38,325
+Air rams into the opening,
+
+403
+00:14:38,325 --> 00:14:40,789
+and the pressure tells the computers the
+
+404
+00:14:40,789 --> 00:14:41,344
+airspeed.
+
+405
+00:14:41,524 --> 00:14:44,449
+Without it, the pilots are flying blind
+
+406
+00:14:44,449 --> 00:14:47,149
+on one of the most important numbers
+
+407
+00:14:47,149 --> 00:14:48,049
+in aviation.
+
+408
+00:14:48,229 --> 00:14:50,013
+That is why the tubes are heated,
+
+409
+00:14:50,013 --> 00:14:51,906
+and why there are always several of
+
+410
+00:14:51,906 --> 00:14:52,176
+them.
+
+411
+00:14:52,356 --> 00:14:53,493
+On the ground,
+
+412
+00:14:53,493 --> 00:14:56,415
+you will often see them covered with
+
+413
+00:14:56,415 --> 00:14:59,582
+red tags that say remove before flight,
+
+414
+00:14:59,582 --> 00:15:02,667
+because even an insect nest inside one
+
+415
+00:15:02,667 --> 00:15:03,803
+can be deadly.
+
+416
+00:15:04,153 --> 00:15:06,510
+The most famous pitot tube story is
+
+417
+00:15:06,510 --> 00:15:08,867
+Air France flight four forty-seven.
+
+418
+00:15:09,047 --> 00:15:10,495
+On the first of June,
+
+419
+00:15:10,495 --> 00:15:11,736
+two thousand nine,
+
+420
+00:15:11,736 --> 00:15:14,218
+an Airbus A three thirty flying from
+
+421
+00:15:14,218 --> 00:15:16,700
+Rio de Janeiro to Paris was cruising
+
+422
+00:15:16,700 --> 00:15:19,665
+at about thirty-five thousand feet over the
+
+423
+00:15:19,665 --> 00:15:20,286
+Atlantic.
+
+424
+00:15:20,466 --> 00:15:23,245
+Ice crystals blocked the pitot tubes,
+
+425
+00:15:23,245 --> 00:15:26,700
+and the airspeed readings became inconsistent.
+
+426
+00:15:26,880 --> 00:15:28,891
+The autopilot disconnected,
+
+427
+00:15:28,891 --> 00:15:30,827
+and the crew had to fly by
+
+428
+00:15:30,827 --> 00:15:31,199
+hand.
+
+429
+00:15:31,548 --> 00:15:33,487
+The blockage was temporary.
+
+430
+00:15:33,667 --> 00:15:36,370
+But according to the final report from
+
+431
+00:15:36,370 --> 00:15:38,646
+the French investigation agency,
+
+432
+00:15:38,646 --> 00:15:40,993
+the BEA, the crew lost control of
+
+433
+00:15:40,993 --> 00:15:42,131
+the flight path,
+
+434
+00:15:42,131 --> 00:15:44,620
+and the airplane entered a stall it
+
+435
+00:15:44,620 --> 00:15:46,113
+never recovered from.
+
+436
+00:15:46,293 --> 00:15:47,967
+It fell for about three and a
+
+437
+00:15:47,967 --> 00:15:50,159
+half minutes before hitting the ocean.
+
+438
+00:15:50,339 --> 00:15:53,415
+All two hundred twenty-eight people on board
+
+439
+00:15:53,415 --> 00:15:53,764
+died.
+
+440
+00:15:53,944 --> 00:15:55,374
+After the accident,
+
+441
+00:15:55,374 --> 00:15:59,136
+European regulators ordered the older pitot probes
+
+442
+00:15:59,136 --> 00:16:00,942
+replaced on Airbus jets,
+
+443
+00:16:00,942 --> 00:16:04,705
+and pilot training for unreliable airspeed changed
+
+444
+00:16:04,705 --> 00:16:05,984
+around the world.
+
+445
+00:16:06,333 --> 00:16:08,984
+Why does a modern jet airliner carry
+
+446
+00:16:08,984 --> 00:16:11,709
+a tiny propeller hidden in its belly?
+
+447
+00:16:11,889 --> 00:16:14,379
+It is called a ram air turbine,
+
+448
+00:16:14,379 --> 00:16:16,467
+or RAT, and it is the last
+
+449
+00:16:16,467 --> 00:16:17,752
+line of defense.
+
+450
+00:16:17,932 --> 00:16:21,071
+If an airliner loses all its engine
+
+451
+00:16:21,071 --> 00:16:24,031
+power, the RAT drops out into the
+
+452
+00:16:24,031 --> 00:16:24,480
+wind.
+
+453
+00:16:24,660 --> 00:16:27,144
+The air spins it like a windmill,
+
+454
+00:16:27,144 --> 00:16:29,477
+and it drives a hydraulic pump,
+
+455
+00:16:29,477 --> 00:16:31,057
+a generator, or both.
+
+456
+00:16:31,237 --> 00:16:33,218
+That powers the essentials,
+
+457
+00:16:33,218 --> 00:16:36,520
+the flight controls and the core instruments,
+
+458
+00:16:36,520 --> 00:16:38,575
+so the pilots can still fly.
+
+459
+00:16:38,755 --> 00:16:41,243
+It works without electricity to deploy,
+
+460
+00:16:41,243 --> 00:16:43,412
+because it is built for the moment
+
+461
+00:16:43,412 --> 00:16:45,454
+when everything else has failed.
+
+462
+00:16:45,803 --> 00:16:47,338
+In two thousand one,
+
+463
+00:16:47,338 --> 00:16:49,946
+Air Transat flight two thirty-six,
+
+464
+00:16:49,946 --> 00:16:52,554
+an Airbus A three thirty with more
+
+465
+00:16:52,554 --> 00:16:55,240
+than three hundred people on board,
+
+466
+00:16:55,240 --> 00:16:58,538
+lost both engines over the Atlantic because
+
+467
+00:16:58,538 --> 00:16:59,689
+of a fuel leak.
+
+468
+00:16:59,869 --> 00:17:01,622
+The RAT deployed.
+
+469
+00:17:01,802 --> 00:17:04,754
+Its pump kept the flight controls alive,
+
+470
+00:17:04,754 --> 00:17:07,485
+and the airplane glided for more than
+
+471
+00:17:07,485 --> 00:17:11,323
+fifteen minutes, covering roughly one hundred twenty
+
+472
+00:17:11,323 --> 00:17:14,202
+kilometers, to a landing in the Azores.
+
+473
+00:17:14,382 --> 00:17:15,879
+Everyone survived.
+
+474
+00:17:16,229 --> 00:17:18,067
+And in two thousand nine,
+
+475
+00:17:18,067 --> 00:17:21,447
+when US Airways flight fifteen forty-nine lost
+
+476
+00:17:21,447 --> 00:17:24,459
+both engines after hitting birds over New
+
+477
+00:17:24,459 --> 00:17:27,105
+York, the RAT deployed on the Airbus
+
+478
+00:17:27,105 --> 00:17:29,677
+A three twenty and helped power its
+
+479
+00:17:29,677 --> 00:17:32,616
+fly by wire controls during the ditching
+
+480
+00:17:32,616 --> 00:17:34,086
+in the Hudson River.
+
+481
+00:17:34,266 --> 00:17:35,961
+All on board survived.
+
+482
+00:17:36,141 --> 00:17:39,136
+Most passengers will never see a RAT.
+
+483
+00:17:39,316 --> 00:17:40,569
+On most flights,
+
+484
+00:17:40,569 --> 00:17:42,214
+it stays folded away,
+
+485
+00:17:42,214 --> 00:17:44,250
+waiting for the worst day.
+
+486
+00:17:44,600 --> 00:17:47,006
+Why is there a small triangle sticker
+
+487
+00:17:47,006 --> 00:17:48,827
+above some airplane windows?
+
+488
+00:17:49,007 --> 00:17:50,983
+It marks the window with the best
+
+489
+00:17:50,983 --> 00:17:52,002
+view of the wing.
+
+490
+00:17:52,182 --> 00:17:54,669
+If the crew needs to check the
+
+491
+00:17:54,669 --> 00:17:56,078
+flaps, the slats,
+
+492
+00:17:56,078 --> 00:17:58,649
+the engine, or ice on the wing,
+
+493
+00:17:58,649 --> 00:18:01,799
+they know exactly which window to walk
+
+494
+00:18:01,799 --> 00:18:04,535
+to, without searching row by row.
+
+495
+00:18:04,715 --> 00:18:06,809
+There is usually at least one on
+
+496
+00:18:06,809 --> 00:18:08,314
+each side of the cabin.
+
+497
+00:18:08,494 --> 00:18:10,455
+You are not expected to do anything
+
+498
+00:18:10,455 --> 00:18:11,408
+if you sit there.
+
+499
+00:18:11,588 --> 00:18:13,512
+But if you want the best photo
+
+500
+00:18:13,512 --> 00:18:14,282
+of the wing,
+
+501
+00:18:14,282 --> 00:18:15,821
+or to watch the deicing,
+
+502
+00:18:15,821 --> 00:18:16,975
+that is your seat.
+
+503
+00:18:17,325 --> 00:18:19,169
+A former airline pilot,
+
+504
+00:18:19,169 --> 00:18:22,537
+Daniel Bubb, told Reader's Digest that the
+
+505
+00:18:22,537 --> 00:18:25,102
+main purpose is to help the crew
+
+506
+00:18:25,102 --> 00:18:28,469
+locate problems quickly in an emergency or
+
+507
+00:18:28,469 --> 00:18:31,035
+a malfunction of the wing flaps,
+
+508
+00:18:31,035 --> 00:18:33,440
+slats, engine and other parts.
+
+509
+00:18:33,620 --> 00:18:36,332
+The triangles are more common on larger
+
+510
+00:18:36,332 --> 00:18:37,932
+Airbus and Boeing jets,
+
+511
+00:18:37,932 --> 00:18:40,505
+and some airlines skip them entirely.
+
+512
+00:18:40,685 --> 00:18:43,558
+Fans have even nicknamed it the William
+
+513
+00:18:43,558 --> 00:18:46,652
+Shatner seat, after a famous Twilight Zone
+
+514
+00:18:46,652 --> 00:18:49,230
+episode with a monster on the wing.
+
+515
+00:18:49,580 --> 00:18:51,593
+Why is there an ashtray in an
+
+516
+00:18:51,593 --> 00:18:54,856
+airplane bathroom, when smoking has been banned
+
+517
+00:18:54,856 --> 00:18:56,453
+on flights for decades?
+
+518
+00:18:56,633 --> 00:18:58,537
+Because the law requires it.
+
+519
+00:18:58,717 --> 00:19:02,514
+US federal regulations say that lavatories must
+
+520
+00:19:02,514 --> 00:19:05,745
+have self-contained, removable ashtrays,
+
+521
+00:19:05,745 --> 00:19:08,492
+even though smoking is prohibited.
+
+522
+00:19:08,672 --> 00:19:10,228
+The logic is simple.
+
+523
+00:19:10,408 --> 00:19:12,324
+Some people break the rules.
+
+524
+00:19:12,504 --> 00:19:15,047
+If someone lights a cigarette anyway,
+
+525
+00:19:15,047 --> 00:19:17,109
+the worst thing they can do is
+
+526
+00:19:17,109 --> 00:19:19,171
+throw it in the trash bin full
+
+527
+00:19:19,171 --> 00:19:20,271
+of paper towels.
+
+528
+00:19:20,451 --> 00:19:22,640
+The ashtray gives them a safe place
+
+529
+00:19:22,640 --> 00:19:23,516
+to put it out.
+
+530
+00:19:23,696 --> 00:19:25,799
+It is a part designed for people
+
+531
+00:19:25,799 --> 00:19:27,573
+who are breaking the rules.
+
+532
+00:19:27,923 --> 00:19:30,905
+The rule is written in Title fourteen
+
+533
+00:19:30,905 --> 00:19:33,724
+of the Code of Federal Regulations,
+
+534
+00:19:33,724 --> 00:19:37,270
+part twenty-five, section eight fifty-three.
+
+535
+00:19:37,450 --> 00:19:40,287
+Smoking was banned on all US domestic
+
+536
+00:19:40,287 --> 00:19:43,048
+flights in February nineteen ninety,
+
+537
+00:19:43,048 --> 00:19:45,808
+except a few flights over six hours,
+
+538
+00:19:45,808 --> 00:19:47,572
+and since two thousand,
+
+539
+00:19:47,572 --> 00:19:50,103
+it has been banned on all flights
+
+540
+00:19:50,103 --> 00:19:52,403
+to and from the United States.
+
+541
+00:19:52,583 --> 00:19:54,408
+Yet the ashtrays remain,
+
+542
+00:19:54,408 --> 00:19:56,462
+and if more than half of an
+
+543
+00:19:56,462 --> 00:19:59,504
+airplane's lavatory ashtrays are broken,
+
+544
+00:19:59,504 --> 00:20:03,079
+they must be repaired within seventy-two hours.
+
+545
+00:20:03,428 --> 00:20:05,031
+So here are the twelve.
+
+546
+00:20:05,211 --> 00:20:07,528
+A hole that keeps a spare window
+
+547
+00:20:07,528 --> 00:20:07,962
+ready.
+
+548
+00:20:08,142 --> 00:20:11,010
+Rounded corners born from a disaster.
+
+549
+00:20:11,190 --> 00:20:13,041
+Fins that delay a stall,
+
+550
+00:20:13,041 --> 00:20:15,355
+sticks that silence the radio,
+
+551
+00:20:15,355 --> 00:20:18,595
+and wingtips that save billions of gallons
+
+552
+00:20:18,595 --> 00:20:19,212
+of fuel.
+
+553
+00:20:19,392 --> 00:20:21,060
+Canoes that beat drag,
+
+554
+00:20:21,060 --> 00:20:22,879
+teeth that quiet a city,
+
+555
+00:20:22,879 --> 00:20:25,457
+and a spiral that saves the ground
+
+556
+00:20:25,457 --> 00:20:25,836
+crew.
+
+557
+00:20:26,016 --> 00:20:28,827
+A tube that cost two hundred twenty-eight
+
+558
+00:20:28,827 --> 00:20:30,198
+lives when it froze,
+
+559
+00:20:30,198 --> 00:20:32,255
+a propeller for the worst day,
+
+560
+00:20:32,255 --> 00:20:33,901
+a triangle for the crew,
+
+561
+00:20:33,901 --> 00:20:36,163
+and an ashtray for rule breakers.
+
+562
+00:20:36,512 --> 00:20:38,637
+The pattern is always the same.
+
+563
+00:20:38,817 --> 00:20:41,396
+Every strange part on an airplane is
+
+564
+00:20:41,396 --> 00:20:44,046
+the answer to a question somebody had
+
+565
+00:20:44,046 --> 00:20:45,980
+to ask, often the hard way.
+
+566
+00:20:46,160 --> 00:20:49,662
+If you want more machines explained part
+
+567
+00:20:49,662 --> 00:20:51,150
+by part, rockets,
+
+568
+00:20:51,150 --> 00:20:52,638
+Formula One cars,
+
+569
+00:20:52,638 --> 00:20:54,651
+ships and giant trains,
+
+570
+00:20:54,651 --> 00:20:57,190
+subscribe to Machine Reverse.
+
+571
+00:20:57,370 --> 00:20:59,216
+And tell us in the comments which
+
+572
+00:20:59,216 --> 00:21:01,175
+part on an airplane you have always
+
+573
+00:21:01,175 --> 00:21:02,014
+wondered about.
+
+574
+00:21:02,194 --> 00:21:03,657
+We might explain it next.
