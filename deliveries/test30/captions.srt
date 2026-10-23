@@ -1,0 +1,143 @@
+1
+00:00:00,000 --> 00:00:01,795
+Why is there a tiny hole in
+
+2
+00:00:01,795 --> 00:00:03,192
+your airplane window?
+
+3
+00:00:03,372 --> 00:00:04,743
+It looks like a mistake,
+
+4
+00:00:04,743 --> 00:00:06,855
+but it is keeping the window working.
+
+5
+00:00:07,035 --> 00:00:09,938
+An airplane window is not one pane.
+
+6
+00:00:10,118 --> 00:00:11,000
+It is three.
+
+7
+00:00:11,180 --> 00:00:13,398
+The inner one is just a scratch
+
+8
+00:00:13,398 --> 00:00:13,827
+guard.
+
+9
+00:00:14,007 --> 00:00:16,007
+The middle and outer panes are the
+
+10
+00:00:16,007 --> 00:00:16,712
+real window.
+
+11
+00:00:16,892 --> 00:00:17,930
+The tiny hole,
+
+12
+00:00:17,930 --> 00:00:20,672
+called a breather hole or bleed hole,
+
+13
+00:00:20,672 --> 00:00:22,303
+is in the middle pane.
+
+14
+00:00:22,483 --> 00:00:25,165
+It lets the air pressure between the
+
+15
+00:00:25,165 --> 00:00:26,804
+panes match the cabin,
+
+16
+00:00:26,804 --> 00:00:28,368
+so during the flight,
+
+17
+00:00:28,368 --> 00:00:31,125
+the cabin pressure pushes only on the
+
+18
+00:00:31,125 --> 00:00:31,945
+outer pane.
+
+19
+00:00:32,125 --> 00:00:34,876
+The middle pane carries almost nothing.
+
+20
+00:00:35,056 --> 00:00:36,260
+It is a spare,
+
+21
+00:00:36,260 --> 00:00:39,184
+waiting in case the outer one ever
+
+22
+00:00:39,184 --> 00:00:39,700
+fails.
+
+23
+00:00:40,051 --> 00:00:41,734
+Think about what that means.
+
+24
+00:00:41,914 --> 00:00:44,350
+At cruise, the air outside is thin
+
+25
+00:00:44,350 --> 00:00:47,073
+and cold, and the cabin is pressurized
+
+26
+00:00:47,073 --> 00:00:49,437
+so that you can breathe normally.
+
+27
+00:00:49,617 --> 00:00:52,752
+That difference in pressure pushes outward on
+
+28
+00:00:52,752 --> 00:00:54,633
+every window, every flight,
+
+29
+00:00:54,633 --> 00:00:57,071
+thousands of times over the life of
+
+30
+00:00:57,071 --> 00:00:57,976
+the airplane.
+
+31
+00:00:58,156 --> 00:01:00,731
+By loading only one pane and keeping
+
+32
+00:01:00,731 --> 00:01:02,447
+a second one in reserve,
+
+33
+00:01:02,447 --> 00:01:05,022
+the designers built a backup that is
+
+34
+00:01:05,022 --> 00:01:07,096
+always there and never tired.
+
+35
+00:01:07,276 --> 00:01:09,073
+If the outer pane cracks,
+
+36
+00:01:09,073 --> 00:01:11,015
+the middle pane takes over.
