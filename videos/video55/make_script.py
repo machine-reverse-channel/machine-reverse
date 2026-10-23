@@ -37,9 +37,9 @@ sc("""Look closely on a hot day and the fingers are pushed deep together. On a c
 # ---------- 2. MODULAR JOINT ----------
 part(2, "The joint with many beams", "WHY DOES THIS JOINT HAVE SO MANY BEAMS?", "Why Do Big Bridges Have Joints With Many Steel Beams?",
      """Why do the biggest bridges have joints made of many steel beams side by side, instead of fingers? Because their movements are too large for teeth. On a very long bridge, the deck can move by more than a meter between extremes. A single gap that wide would swallow a motorcycle wheel. So a modular joint splits the movement into many small gaps.""",
-     "modular expansion joint")
+     "bridge expansion joint")
 sc("""Each steel beam sits on its own supports, with rubber seals between them. A control system of springs or linkages keeps the gaps equal, so each one only opens a few centimeters. Ten small gaps can add up to a huge total movement, while each one stays narrow enough to drive over safely.""",
-   "modular expansion joint", "MANY SMALL GAPS")
+   "bridge expansion joint", "MANY SMALL GAPS")
 sc("""That rhythmic thump thump you hear when you drive onto a long bridge often comes from these joints. They take a beating from every truck, and they are among the parts of a bridge that wear out and need to be replaced most often, sometimes while traffic keeps flowing on the other lanes.""",
    "bridge expansion joint", "THUMP THUMP")
 
@@ -48,9 +48,9 @@ part(3, "The rubber pads under the deck", "WHY DOES THIS BRIDGE SIT ON RUBBER?",
      """Why does a heavy concrete bridge sit on blocks of rubber? Because the deck must be allowed to move and tilt on top of its supports. These bearings are made of layers of rubber with thin steel plates inside. The steel stops the rubber from bulging out under the weight, so it can carry hundreds of tonnes. But the rubber can still lean sideways, letting the deck slide as it grows and shrinks.""",
      "elastomeric bearing")
 sc("""The pads also let the deck rotate a little at the ends, as it bends under heavy trucks. Without them, the corners of the concrete would crack. They are simple, cheap and need almost no maintenance, which is why you can find them under thousands of highway bridges.""",
-   "bridge bearing", "LETTING IT LEAN")
+   "elastomeric bearing", "LETTING IT LEAN")
 sc("""For bigger loads and movements, engineers use other bearings. Pot bearings hold a rubber disc inside a steel pot. Sliding bearings use plates of very slippery plastic against polished steel. Some bearings in earthquake zones are even designed to isolate the bridge, so the ground can shake while the deck moves much less.""",
-   "bridge pot bearing", "ISOLATING EARTHQUAKES")
+   "elastomeric bearing", "ISOLATING EARTHQUAKES")
 
 # ---------- 4. ROCKER ----------
 part(4, "The old rocker bearing", "WHY DOES THIS OLD BRIDGE STAND ON ROCKERS?", "Why Do Old Bridges Stand on Rockers?",
@@ -59,7 +59,7 @@ part(4, "The old rocker bearing", "WHY DOES THIS OLD BRIDGE STAND ON ROCKERS?", 
 sc("""Inspectors use them like a thermometer. They know which way a rocker should lean on a hot or cold day. If a rocker is tilted too far, or stuck, it means something is wrong. Dirt and rust can freeze a rocker in place, and then the bridge pushes on its supports instead of moving freely.""",
    "bridge rocker bearing", "A STEEL THERMOMETER")
 sc("""Rockers can also tip over in an earthquake. In several earthquakes, decks slid off their bearings and fell. So many old bridges have been retrofitted with steel cables or blocks that tie the deck to its supports, so it can move, but not fall off.""",
-   "bridge bearing", "TIED SO IT CANNOT FALL")
+   "elastomeric bearing", "TIED SO IT CANNOT FALL")
 
 # ---------- 5. DRAINS ----------
 part(5, "The holes in the deck", "WHY ARE THERE HOLES IN THIS BRIDGE?", "Why Do Bridges Have Holes in the Deck?",
@@ -68,16 +68,16 @@ part(5, "The holes in the deck", "WHY ARE THERE HOLES IN THIS BRIDGE?", "Why Do 
 sc("""Road salt is especially destructive. It soaks into the concrete and reaches the steel bars inside, which start to rust. Rust takes up more space than steel, so it cracks the concrete from the inside, and pieces fall off. Much of the damage on older bridges starts with water that drained in the wrong place.""",
    "bridge deck drain", "SALT AND RUST")
 sc("""So bridge drains are carefully placed, piped away from the supports, and inspected. A blocked drain can quietly destroy a bridge over decades. On a bridge, keeping water moving is as important as holding up the weight.""",
-   "bridge pier", "KEEP THE WATER MOVING")
+   "bridge scour", "KEEP THE WATER MOVING")
 
 # ---------- 6. SCOUR ----------
 part(6, "The riverbed around the pier", "WHY IS THE RIVER THE BRIDGE'S ENEMY?", "Why Do Rivers Knock Down Bridges?",
      """Why is the riverbed around a bridge pier so dangerous? Because the water is digging it away. When a river flows around a pier, the water speeds up and forms swirls at the front and the sides. Those swirls lift sand and gravel and carry them off, leaving a hole around the base of the pier. This is called scour, and in a flood, it can happen fast.""",
-     "bridge pier")
+     "bridge scour")
 sc("""In April nineteen eighty seven, in New York State, the Schoharie Creek bridge on the Thruway collapsed during a flood. Scour had removed the soil under one of its piers, and the pier dropped. Cars and a truck fell into the river, and ten people were killed. Scour is one of the leading causes of bridge failure in the United States.""",
    "Schoharie Creek bridge collapse", "SCHOHARIE CREEK, 1987")
 sc("""So piers are now built deeper, on piles driven far below the riverbed, and protected with heavy rock placed around them. Divers and sonar inspect the riverbed around bridges, especially after floods. The most dangerous part of a bridge may be the part you can never see.""",
-   "bridge pier", "THE PART YOU NEVER SEE")
+   "bridge scour", "THE PART YOU NEVER SEE")
 
 # ---------- 7. STAY CABLES ----------
 part(7, "The spiral on the cables", "WHY DO THESE CABLES HAVE A SPIRAL?", "Why Do Bridge Cables Have a Spiral on Them?",

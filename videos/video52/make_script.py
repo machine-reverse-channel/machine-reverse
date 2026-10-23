@@ -139,7 +139,7 @@ PICKS = {
     5: ("File:Liebherr tower crane at reconstruction of the GES-2 in Moscow.jpg", 0.38, 0.4),
     6: ("File:Electric motor on the slewing bearing of a remote controlled yellow Liebherr tower crane.jpg", 0.5, 0.35),
     7: ("File:Potain tower crane4 - Cabin.jpg", 0.48, 0.3),
-    8: ("File:Red Crane (16014404989).jpg", 0.62, 0.3),
+    8: ("File:Red Crane (16014404989).jpg", 0.48, 0.27),
     9: ("File:Seymour Flats Lisburn Comedil self erecting tower cran.jpg", 0.72, 0.45),
     10: ("File:Crane collapse (day after the crane fell down) - Bellevue, Washington.jpg", 0.6, 0.6),
     11: ("File:Tower cranes Edinburgh in 2019.jpg", 0.42, 0.3),

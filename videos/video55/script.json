@@ -41,7 +41,7 @@
   },
   {
    "text": "Why do the biggest bridges have joints made of many steel beams side by side, instead of fingers? Because their movements are too large for teeth. On a very long bridge, the deck can move by more than a meter between extremes. A single gap that wide would swallow a motorcycle wheel. So a modular joint splits the movement into many small gaps.",
-   "query": "modular expansion joint",
+   "query": "bridge expansion joint",
    "caption": "WHY DOES THIS JOINT HAVE SO MANY BEAMS?",
    "arrow": true,
    "chapter": "2. The joint with many beams",
@@ -50,7 +50,7 @@
   },
   {
    "text": "Each steel beam sits on its own supports, with rubber seals between them. A control system of springs or linkages keeps the gaps equal, so each one only opens a few centimeters. Ten small gaps can add up to a huge total movement, while each one stays narrow enough to drive over safely.",
-   "query": "modular expansion joint",
+   "query": "bridge expansion joint",
    "caption": "MANY SMALL GAPS"
   },
   {
@@ -69,12 +69,12 @@
   },
   {
    "text": "The pads also let the deck rotate a little at the ends, as it bends under heavy trucks. Without them, the corners of the concrete would crack. They are simple, cheap and need almost no maintenance, which is why you can find them under thousands of highway bridges.",
-   "query": "bridge bearing",
+   "query": "elastomeric bearing",
    "caption": "LETTING IT LEAN"
   },
   {
    "text": "For bigger loads and movements, engineers use other bearings. Pot bearings hold a rubber disc inside a steel pot. Sliding bearings use plates of very slippery plastic against polished steel. Some bearings in earthquake zones are even designed to isolate the bridge, so the ground can shake while the deck moves much less.",
-   "query": "bridge pot bearing",
+   "query": "elastomeric bearing",
    "caption": "ISOLATING EARTHQUAKES"
   },
   {
@@ -93,7 +93,7 @@
   },
   {
    "text": "Rockers can also tip over in an earthquake. In several earthquakes, decks slid off their bearings and fell. So many old bridges have been retrofitted with steel cables or blocks that tie the deck to its supports, so it can move, but not fall off.",
-   "query": "bridge bearing",
+   "query": "elastomeric bearing",
    "caption": "TIED SO IT CANNOT FALL"
   },
   {
@@ -112,12 +112,12 @@
   },
   {
    "text": "So bridge drains are carefully placed, piped away from the supports, and inspected. A blocked drain can quietly destroy a bridge over decades. On a bridge, keeping water moving is as important as holding up the weight.",
-   "query": "bridge pier",
+   "query": "bridge scour",
    "caption": "KEEP THE WATER MOVING"
   },
   {
    "text": "Why is the riverbed around a bridge pier so dangerous? Because the water is digging it away. When a river flows around a pier, the water speeds up and forms swirls at the front and the sides. Those swirls lift sand and gravel and carry them off, leaving a hole around the base of the pier. This is called scour, and in a flood, it can happen fast.",
-   "query": "bridge pier",
+   "query": "bridge scour",
    "caption": "WHY IS THE RIVER THE BRIDGE'S ENEMY?",
    "arrow": true,
    "chapter": "6. The riverbed around the pier",
@@ -131,7 +131,7 @@
   },
   {
    "text": "So piers are now built deeper, on piles driven far below the riverbed, and protected with heavy rock placed around them. Divers and sonar inspect the riverbed around bridges, especially after floods. The most dangerous part of a bridge may be the part you can never see.",
-   "query": "bridge pier",
+   "query": "bridge scour",
    "caption": "THE PART YOU NEVER SEE"
   },
   {
