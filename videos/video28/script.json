@@ -1,0 +1,227 @@
+{
+ "id": "video28",
+ "title": "Why Does a Bugatti Need 10 Radiators?",
+ "length_scale": 1.6,
+ "scenes": [
+  {
+   "text": "Your car has one radiator. The Bugatti Veyron has ten. Not because Bugatti wanted to show off, but because a car that makes more than one thousand horsepower turns a huge amount of fuel into heat, and that heat has to go somewhere, or the car destroys itself in minutes. Today, ten parts of a Bugatti that exist because of one crazy goal, and why each one exists.",
+   "query": "Bugatti Veyron",
+   "caption": "WHY 10 RADIATORS?",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "The goal came from Ferdinand Piech, the head of the Volkswagen Group at the end of the nineteen nineties. He wanted a car with more than one thousand metric horsepower, a top speed above four hundred kilometres per hour, and the comfort to drive it to the opera. Engineers said it was nearly impossible. The Veyron arrived in two thousand five, and every strange part on it is a solution to that goal.",
+   "query": "Bugatti Veyron front",
+   "caption": "1001 HORSEPOWER"
+  },
+  {
+   "text": "As always, every fact here comes from a named source, Bugatti, Volkswagen and automotive references, all listed in the description. Let's start with the heat.",
+   "query": "Bugatti Veyron rear",
+   "caption": "WHY DOES THIS EXIST?"
+  },
+  {
+   "text": "Why does a Bugatti Veyron need ten radiators? Because of a basic rule of engines. Only part of the energy in the fuel becomes motion. Most of it becomes heat. For every horsepower that pushes the car forward, an engine produces even more energy as heat. At full power, the Veyron's engine is producing a huge amount of heat, and a normal radiator would be overwhelmed in seconds.",
+   "query": "Bugatti Veyron radiator",
+   "caption": "WHY DOES THIS CAR NEED 10 RADIATORS?",
+   "arrow": true,
+   "chapter": "1. The ten radiators",
+   "short": "Why Does a Bugatti Need 10 Radiators?",
+   "cuts": 3
+  },
+  {
+   "text": "So the heat is split into separate systems. Three radiators cool the engine. One heat exchanger cools the air coming from the turbochargers. Two serve the air conditioning. And separate coolers handle the engine oil, the gearbox oil, the differential oil, and the hydraulic oil that moves the rear wing. Ten in total, each one sized for its own job.",
+   "query": "Bugatti Veyron side intake",
+   "caption": "TEN JOBS, TEN RADIATORS"
+  },
+  {
+   "text": "That is why the Veyron is covered in openings. The big horseshoe grille, the intakes in the front, the openings on the sides and on the roof. They are not decoration. They are the mouths that feed air to the radiators. A Bugatti at full speed is as much a cooling machine as it is a car.",
+   "query": "Bugatti Veyron air intakes",
+   "caption": "A COOLING MACHINE"
+  },
+  {
+   "text": "Why does a Bugatti have an engine shaped like a W? To fit sixteen cylinders into a short space. A V sixteen would have been very long, and a long engine makes a long, heavy car. Instead, the W sixteen is like two narrow V eight engines joined together at an angle. Seen from the front, the four rows of cylinders form a W.",
+   "query": "Bugatti W16 engine",
+   "caption": "WHY IS THIS ENGINE SHAPED LIKE A W?",
+   "arrow": true,
+   "chapter": "2. The W16 engine",
+   "short": "Why Does a Bugatti Have a W16 Engine?",
+   "cuts": 3
+  },
+  {
+   "text": "The idea came from Volkswagen's VR six engine, which put six cylinders in a very narrow V so they could share one cylinder head. Bugatti's engineers took two of those narrow blocks and joined them on one crankshaft. The result is an eight litre engine with sixteen cylinders and sixty-four valves, about as long as a normal V eight.",
+   "query": "Volkswagen VR6 engine",
+   "caption": "TWO NARROW ENGINES IN ONE"
+  },
+  {
+   "text": "More cylinders means more power from the same engine speed, and smoother running. The W sixteen gave the Veyron its thousand horsepower, and later versions in the Chiron produced around fifteen hundred and more. It is one of the most complex production engines ever made, and it is also one of the reasons the car needs so many radiators.",
+   "query": "Bugatti Chiron engine",
+   "caption": "SIXTEEN CYLINDERS"
+  },
+  {
+   "text": "Why does the Bugatti engine have four turbochargers? A turbo uses the exhaust gas to spin a turbine that pushes more air into the engine. More air means more fuel can burn, and more power. But one huge turbo would be slow to react. Four smaller turbos respond faster, and they can be shared among the sixteen cylinders.",
+   "query": "Bugatti turbocharger",
+   "caption": "WHY DOES THIS ENGINE HAVE 4 TURBOS?",
+   "arrow": true,
+   "chapter": "3. The four turbochargers",
+   "short": "Why Does a Bugatti Engine Have 4 Turbos?",
+   "cuts": 3
+  },
+  {
+   "text": "On the Chiron, Bugatti made the turbos work in stages. At low engine speed, only two turbos are active, so they spin up quickly and the car responds immediately. At higher speed, the other two join in, and all four deliver full power. The driver feels a smooth, endless push, instead of a sudden kick.",
+   "query": "Bugatti Chiron rear",
+   "caption": "TWO, THEN FOUR"
+  },
+  {
+   "text": "Turbos also add heat, because compressing air makes it hot. Hot air is less dense and makes less power. That is why the Bugatti has a system to cool the compressed air before it enters the engine, with its own heat exchanger. One more radiator. Every part that adds power also adds heat.",
+   "query": "intercooler",
+   "caption": "POWER MEANS HEAT"
+  },
+  {
+   "text": "Why does the Bugatti Veyron have two scoops behind the roof? They feed air to the engine. The W sixteen breathes an enormous amount of air at full power. The air on the roof is clean and fast, away from the hot air and dirt around the wheels. The scoops catch it and send it straight down to the engine's air intake.",
+   "query": "Bugatti Veyron roof intake",
+   "caption": "WHY ARE THERE SCOOPS BEHIND THE ROOF?",
+   "arrow": true,
+   "chapter": "4. The roof intakes",
+   "short": "Why Does a Bugatti Veyron Have Scoops on the Roof?",
+   "cuts": 3
+  },
+  {
+   "text": "On a mid engined car, the engine sits right behind the passengers, and air has to find a way in. Many supercars use side intakes, but the roof scoops on the Veyron give a direct, short path to the engine. At high speed, the moving air even pushes itself in, like a gentle supercharger called ram air.",
+   "query": "Bugatti Veyron top view",
+   "caption": "CLEAN, FAST AIR"
+  },
+  {
+   "text": "Bugatti says that at full power, its W sixteen engines swallow tens of thousands of litres of air every minute. That is more air than a person breathes in several days. The scoops on the roof are the open mouth of that giant set of lungs.",
+   "query": "Bugatti Veyron engine bay",
+   "caption": "GIANT LUNGS"
+  },
+  {
+   "text": "Why does the rear wing of a Bugatti stand up when it brakes? It is an airbrake. Under hard braking at high speed, the wing tilts steeply, like a wall against the wind. The air pushes on it, adding a lot of braking force, and it pushes the rear of the car down, so the rear tyres can brake harder too.",
+   "query": "Bugatti Veyron rear wing airbrake",
+   "caption": "WHY DOES THIS WING STAND UP?",
+   "arrow": true,
+   "chapter": "5. The airbrake wing",
+   "short": "Why Does a Bugatti Wing Stand Up When Braking?",
+   "cuts": 3
+  },
+  {
+   "text": "Stopping from more than four hundred kilometres per hour is one of the hardest jobs on the car. The brakes turn the car's energy into heat, and at that speed the amount of energy is enormous. The airbrake shares the work. It also stabilises the car, because heavy braking normally makes the rear go light and nervous.",
+   "query": "Bugatti Chiron rear wing",
+   "caption": "SHARING THE WORK"
+  },
+  {
+   "text": "The wing moves with hydraulics, and it changes its angle for different jobs. Low for top speed, higher for handling, and steep for braking. The hydraulic oil gets its own radiator, of course. On a Bugatti, even the wing has a cooling system.",
+   "query": "Bugatti Veyron Super Sport",
+   "caption": "EVEN THE WING IS COOLED"
+  },
+  {
+   "text": "Why would a Bugatti Veyron run out of fuel in about twelve minutes at top speed? Because at full power, the engine burns fuel at an incredible rate. The Veyron's tank holds about one hundred litres. At top speed, the engine would use all of it in roughly twelve minutes, according to Bugatti's own figures.",
+   "query": "Bugatti Veyron fuel cap",
+   "caption": "WHY WOULD THIS TANK BE EMPTY IN 12 MINUTES?",
+   "arrow": true,
+   "chapter": "6. The fuel tank",
+   "short": "Why Would a Bugatti Run Out of Fuel in 12 Minutes?",
+   "cuts": 3
+  },
+  {
+   "text": "That is the price of power. Every horsepower needs fuel, and a thousand horsepower needs a fire hose of it. In normal driving, the Veyron is much more reasonable, but still thirsty. The fuel system has multiple pumps to keep the engine fed, even under strong acceleration and cornering forces.",
+   "query": "Bugatti Veyron driving",
+   "caption": "A FIRE HOSE OF FUEL"
+  },
+  {
+   "text": "Twelve minutes at top speed sounds dramatic, but in reality it is almost impossible to stay at top speed that long. No public road and very few test tracks are long enough. The tyres are also designed for limited time at maximum speed. The fuel tank, the tyres and the cooling were all designed around the same few minutes of extreme speed.",
+   "query": "Bugatti Chiron road",
+   "caption": "A FEW MINUTES OF EXTREME"
+  },
+  {
+   "text": "Why is the Bugatti grille shaped like a horseshoe? It is a tradition from the original Bugatti company, founded by Ettore Bugatti in Molsheim, France, in nineteen o nine. His classic cars carried a radiator shaped like a horseshoe, and it became the face of the brand. Ettore was a lover of horses, and the shape became part of the legend.",
+   "query": "Bugatti Type 35",
+   "caption": "WHY IS THE GRILLE SHAPED LIKE A HORSESHOE?",
+   "arrow": true,
+   "chapter": "7. The horseshoe grille",
+   "short": "Why Is the Bugatti Grille Shaped Like a Horseshoe?",
+   "cuts": 3
+  },
+  {
+   "text": "On the modern Bugatti, the horseshoe is not just a logo. It is a real air intake, feeding cooling air to the radiators behind it. The designers had to make the brand's most famous shape work as an engineering part. Its size and position were tuned with the rest of the front intakes to feed the cooling system at four hundred kilometres per hour.",
+   "query": "Bugatti Chiron front grille",
+   "caption": "A LOGO THAT BREATHES"
+  },
+  {
+   "text": "The Bugatti Type thirty-five of the nineteen twenties, with its horseshoe radiator, was one of the most successful racing cars in history, winning more than a thousand races. When Volkswagen revived the brand, keeping that shape was a way of connecting the new hypercar to the old champion. One shape, a hundred years apart.",
+   "query": "Bugatti Type 35 racing",
+   "caption": "A HUNDRED YEARS APART"
+  },
+  {
+   "text": "Why does the Bugatti Chiron have a giant curved line on its side? It is called the Bugatti line, or the C line. It looks like a pure design signature, sweeping around the door. But it is also an air channel. The curve guides air into the intakes that feed the engine and the coolers.",
+   "query": "Bugatti Chiron side",
+   "caption": "WHY IS THERE A GIANT C ON THE SIDE?",
+   "arrow": true,
+   "chapter": "8. The C line",
+   "short": "Why Does a Bugatti Chiron Have a Giant C on the Side?",
+   "cuts": 3
+  },
+  {
+   "text": "The Chiron makes about fifteen hundred horsepower, half again as much as the original Veyron. More power meant even more heat, so the designers needed more air. Instead of adding more holes, they built a giant intake into the most visible line of the car. The style and the cooling are the same thing.",
+   "query": "Bugatti Chiron",
+   "caption": "STYLE IS COOLING"
+  },
+  {
+   "text": "This is a theme across all Bugatti design. Almost every surface has to do a job for the air, whether it is pushing the car down, feeding a radiator, or cooling the brakes. The designers like to say that form follows performance. On a car this fast, there is no space for a line that does nothing.",
+   "query": "Bugatti Chiron rear lights",
+   "caption": "FORM FOLLOWS PERFORMANCE"
+  },
+  {
+   "text": "Why does a Bugatti need such a special gearbox? Because no normal gearbox could handle the force. The W sixteen produces a huge twisting force, called torque, well over one thousand newton metres. A normal car gearbox would break. The Veyron uses a seven speed dual clutch gearbox, developed with the British engineering company Ricardo, built to survive that torque.",
+   "query": "Bugatti Veyron gearbox",
+   "caption": "WHY IS THIS GEARBOX SO SPECIAL?",
+   "arrow": true,
+   "chapter": "9. The gearbox",
+   "short": "Why Does a Bugatti Need a Special Gearbox?",
+   "cuts": 3
+  },
+  {
+   "text": "It changes gear in a fraction of a second, without interrupting the power, using the same dual clutch idea as in racing cars. The gearbox also has to send power to all four wheels, because no two tyres could put a thousand horsepower onto the road. Four wheel drive is the only way the Bugatti can use its power from a standing start.",
+   "query": "Bugatti Veyron launch",
+   "caption": "ALL FOUR WHEELS"
+  },
+  {
+   "text": "And of course, the gearbox gets hot too. It has its own oil cooler, and so does the rear differential. If you count the radiators again, you will find them for the gearbox and the differential. The ten radiators are a list of everything the Bugatti's power touches.",
+   "query": "Bugatti Veyron underside",
+   "caption": "EVERYTHING THE POWER TOUCHES"
+  },
+  {
+   "text": "Why does Bugatti test its cars on a track with a straight about nine kilometres long? Because there are almost no places on Earth where a car can reach four hundred kilometres per hour. Volkswagen's test track at Ehra-Lessien, in Germany, has one of the longest straights of any test track in the world, and it is closed to the public.",
+   "query": "Ehra-Lessien test track",
+   "caption": "WHY DOES THIS TRACK HAVE A 9 KM STRAIGHT?",
+   "arrow": true,
+   "chapter": "10. The test track",
+   "short": "Why Does Bugatti Test on a Secret 9 km Straight?",
+   "cuts": 3
+  },
+  {
+   "text": "In twenty ten, the Veyron Super Sport set a production car record there of more than four hundred thirty-one kilometres per hour. In twenty nineteen, a modified Chiron, driven by Andy Wallace, became the first car to pass three hundred miles per hour, reaching about four hundred ninety kilometres per hour, at the same track.",
+   "query": "Bugatti Chiron Super Sport 300+",
+   "caption": "300 MILES PER HOUR"
+  },
+  {
+   "text": "At those speeds, the cooling, the tyres, the wing and the fuel are all at their very limit, and the straight must be long enough to accelerate and then stop safely. The ten radiators, the W sixteen, the airbrake and the special tyres all meet on that straight. It is the one place where the whole crazy design finally makes sense.",
+   "query": "Bugatti Veyron Super Sport",
+   "caption": "WHERE IT ALL MAKES SENSE"
+  },
+  {
+   "text": "So here are the ten. Ten radiators for ten kinds of heat. A W sixteen engine to fit sixteen cylinders. Four turbos that work in stages. Scoops on the roof, a wing that becomes a brake, a tank that empties in twelve minutes, a horseshoe that breathes, a C that feeds air, a gearbox built for crazy torque, and a nine kilometre straight to use it all.",
+   "query": "Bugatti Chiron and Veyron",
+   "caption": "10 PARTS. 10 REASONS.",
+   "chapter": "The verdict",
+   "cuts": 6
+  },
+  {
+   "text": "A Bugatti is what happens when engineers are told that the impossible is the target. If you want more machines explained part by part, subscribe to Machine Reverse. And tell us in the comments which machine you want us to take apart next.",
+   "query": "Bugatti night",
+   "caption": "SUBSCRIBE: MACHINE REVERSE",
+   "cuts": 4
+  }
+ ]
+}
