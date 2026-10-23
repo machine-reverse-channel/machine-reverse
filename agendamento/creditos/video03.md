@@ -1,0 +1,94 @@
+# Photo credits: Why Do Engineers Blow Up Jet Engines on Purpose?
+
+All photos from Wikimedia Commons.
+
+- Honeywell HTF7000 turbofan engine (EBACE 2023).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Honeywell_HTF7000_turbofan_engine_(EBACE_2023).jpg
+- Air intake, fan and compressor of sectioned Rolls-Royce Turboméca Adour turbofan 01.jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Air_intake,_fan_and_compressor_of_sectioned_Rolls-Royce_Turbom%C3%A9ca_Adour_turbofan_01.jpg
+- Snecma Silvercrest business jet engine PAS 2013 02.jpg by Julian Herzog (Website), CC BY 4.0, https://commons.wikimedia.org/wiki/File:Snecma_Silvercrest_business_jet_engine_PAS_2013_02.jpg
+- Snecma Silvercrest business jet engine PAS 2013 01.jpg by Julian Herzog (Website), CC BY 4.0, https://commons.wikimedia.org/wiki/File:Snecma_Silvercrest_business_jet_engine_PAS_2013_01.jpg
+- Core section of a sectioned Rolls-Royce Turboméca Adour turbofan.jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Core_section_of_a_sectioned_Rolls-Royce_Turbom%C3%A9ca_Adour_turbofan.jpg
+- A Braathens employee working on a turbofan engine.jpg by J-C G, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:A_Braathens_employee_working_on_a_turbofan_engine.jpg
+- 100th AMXS Jet Shop ‘engine doctors’ keep KC-135s healthy (6239072).jpg by U.S. Air Force photo by Airman 1st Class Joseph Barron, Public domain, https://commons.wikimedia.org/wiki/File:100th_AMXS_Jet_Shop_%E2%80%98engine_doctors%E2%80%99_keep_KC-135s_healthy_(6239072).jpg
+- F15Epowerplant.jpg by Segregator236, Public domain, https://commons.wikimedia.org/wiki/File:F15Epowerplant.jpg
+- General Electric GE90-115B.jpg by Alston argodi, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:General_Electric_GE90-115B.jpg
+- GE90 - The Most Powerful Engine In The World (16459901371).jpg by Melv_L - MACASR, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:GE90_-_The_Most_Powerful_Engine_In_The_World_(16459901371).jpg
+- Jet engine no fan blades 1.JPG by CMitchell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Jet_engine_no_fan_blades_1.JPG
+- Jet engine no fan blades 2.JPG by CMitchell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Jet_engine_no_fan_blades_2.JPG
+- Engine of Jet Airways Boeing 777-300ER.jpg by Cory Barnes from Vancouver, WA, United States, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Engine_of_Jet_Airways_Boeing_777-300ER.jpg
+- 777X Roll-Out (46649681164) (blurred).jpg by Dan Nevill from Seattle, WA, United States, CC BY 2.0, https://commons.wikimedia.org/wiki/File:777X_Roll-Out_(46649681164)_(blurred).jpg
+- 777X Roll-Out (46457914075).jpg by Dan Nevill from Seattle, WA, United States, CC BY 2.0, https://commons.wikimedia.org/wiki/File:777X_Roll-Out_(46457914075).jpg
+- 777X Roll-Out (40407364223).jpg by Dan Nevill from Seattle, WA, United States, CC BY 2.0, https://commons.wikimedia.org/wiki/File:777X_Roll-Out_(40407364223).jpg
+- 777X Roll-Out (46649681164).jpg by Dan Nevill from Seattle, WA, United States, CC BY 2.0, https://commons.wikimedia.org/wiki/File:777X_Roll-Out_(46649681164).jpg
+- Ishikawajima-Harima F3-IHI-30B turbofan engine(cutaway model) at Niconico chokaigi April 28, 2018 04.jpg by Hunini, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ishikawajima-Harima_F3-IHI-30B_turbofan_engine(cutaway_model)_at_Niconico_chokaigi_April_28,_2018_04.jpg
+- Ishikawajima-Harima F3-IHI-30B turbofan engine(cutaway model) at Niconico chokaigi April 28, 2018 07.jpg by Hunini, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ishikawajima-Harima_F3-IHI-30B_turbofan_engine(cutaway_model)_at_Niconico_chokaigi_April_28,_2018_07.jpg
+- GE90 dsc04644.jpg by David Monniaux, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:GE90_dsc04644.jpg
+- Sony Playstation 2 SCPH-5001 V9 - Ventoinha, chave liga desliga e conectores traseiros Fan, power on off switch and back connectors (19290810088).jpg by Deni Williams from São Paulo, Brasil / Brazil, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Sony_Playstation_2_SCPH-5001_V9_-_Ventoinha,_chave_liga_desliga_e_conectores_traseiros_Fan,_power_on_off_switch_and_back_connectors_(19290810088).jpg
+- E-Fan.jpg by Droop, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:E-Fan.jpg
+- Fan blades and inlet guide vanes of GEnx-2B (2).jpg by Olivier Cleynen, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Fan_blades_and_inlet_guide_vanes_of_GEnx-2B_(2).jpg
+- Fan blades and inlet guide vanes of GEnx-2B.jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Fan_blades_and_inlet_guide_vanes_of_GEnx-2B.jpg
+- Fan & nacelle Airbus A300's CF-6.JPG by Duch.seb, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Fan_%26_nacelle_Airbus_A300%27s_CF-6.JPG
+- Sonic Inlet for the Quiet Engine Program (GRC-1974-C-00255).jpg by NASA Glenn Research Center, Public domain, https://commons.wikimedia.org/wiki/File:Sonic_Inlet_for_the_Quiet_Engine_Program_(GRC-1974-C-00255).jpg
+- Concorde Intake Udvar-Hazy.jpg by Alpacaaviator, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Concorde_Intake_Udvar-Hazy.jpg
+- Starboard engine inlet of a Lockheed F-104 Starfighter.jpg by I Like B-17s, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Starboard_engine_inlet_of_a_Lockheed_F-104_Starfighter.jpg
+- Close-up view of nacelle of TP400.jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Close-up_view_of_nacelle_of_TP400.jpg
+- Fokker 50 OO-VLQ IMG 7971 (9563188565).jpg by Ronnie Robertson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Fokker_50_OO-VLQ_IMG_7971_(9563188565).jpg
+- Fokker 50 OO-VLQ IMG 7972 (9563194067).jpg by Ronnie Robertson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Fokker_50_OO-VLQ_IMG_7972_(9563194067).jpg
+- PW4077 Fan.jpg by Ian Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:PW4077_Fan.jpg
+- 52d MXS engine flight revs up morale, wins awards (6116542).jpg by U.S. Air Force photo by Airman 1st Class Valerie Seelye, Public domain, https://commons.wikimedia.org/wiki/File:52d_MXS_engine_flight_revs_up_morale,_wins_awards_(6116542).jpg
+- Fan of a PowerJet SaM146.jpg by Olivier Cleynen, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Fan_of_a_PowerJet_SaM146.jpg
+- Munich - Deutsches Museum - 07-0149.jpg by Jorge Royan, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Munich_-_Deutsches_Museum_-_07-0149.jpg
+- Munich - Deutsches Museum - 07-0153.jpg by Jorge Royan, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Munich_-_Deutsches_Museum_-_07-0153.jpg
+- DAST in Flight just after Structural Failure of Right Wing DVIDS744339.jpg by NASA/Dryden Flight Research Center, Public domain, https://commons.wikimedia.org/wiki/File:DAST_in_Flight_just_after_Structural_Failure_of_Right_Wing_DVIDS744339.jpg
+- P1070900 fig 1.jpg by National Transportation Safety Board, Public domain, https://commons.wikimedia.org/wiki/File:P1070900_fig_1.jpg
+- JT8D Engine after Bird Strike.jpg by Plenumchamber, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:JT8D_Engine_after_Bird_Strike.jpg
+- Operation Atlantic Resolve 160725-Z-QD622-463.jpg by Senior Master Sgt. John Rohrer, Public domain, https://commons.wikimedia.org/wiki/File:Operation_Atlantic_Resolve_160725-Z-QD622-463.jpg
+- APHIS-Integrated Wildlife Damage Management at JBSA Randolph (20200423-APHIS-LSC-0880).jpg by USDAgov, Public domain, https://commons.wikimedia.org/wiki/File:APHIS-Integrated_Wildlife_Damage_Management_at_JBSA_Randolph_(20200423-APHIS-LSC-0880).jpg
+- Canada Goose Flock in Huntsville 11.jpg by Fabian Roudra Baroi, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Canada_Goose_Flock_in_Huntsville_11.jpg
+- Canada Goose Flock in Huntsville 03.jpg by Fabian Roudra Baroi, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Canada_Goose_Flock_in_Huntsville_03.jpg
+- US Airways Flight 1549 in Hudson.JPG by Izno, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:US_Airways_Flight_1549_in_Hudson.JPG
+- US Airways Flight 1549 in Hudson circled.jpg by derivative work: Deathgleaner (talk)
+US_Airways_Flight_1549_in_Hudson.JPG: Izno, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:US_Airways_Flight_1549_in_Hudson_circled.jpg
+- Repair process for a V2500 high-pressure turbine guide vane (9).jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Repair_process_for_a_V2500_high-pressure_turbine_guide_vane_(9).jpg
+- 2013-09-18 TrentTurbineBlades.jpg by Michael32710, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2013-09-18_TrentTurbineBlades.jpg
+- Repair process for a V2500 high-pressure turbine guide vane (5).jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Repair_process_for_a_V2500_high-pressure_turbine_guide_vane_(5).jpg
+- Jet Flap Stator Blade Test in the High Reaction Turbine Blade Cascade Tunnel (GRC-1970-C-00626).jpg by NASA Glenn Research Center, Public domain, https://commons.wikimedia.org/wiki/File:Jet_Flap_Stator_Blade_Test_in_the_High_Reaction_Turbine_Blade_Cascade_Tunnel_(GRC-1970-C-00626).jpg
+- Turbine disc and blades of sectioned Rolls-Royce Dart turboprop.jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Turbine_disc_and_blades_of_sectioned_Rolls-Royce_Dart_turboprop.jpg
+- Dassault Rafale (16405083097).jpg by Bikash Das from bangalore, india, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dassault_Rafale_(16405083097).jpg
+- Dassault Rafale (16426632609).jpg by Bikash Das from bangalore, india, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Dassault_Rafale_(16426632609).jpg
+- Stator Blade with Thermal Barrier Testing on Hot Gas Rig (GRC-1975-C-01372).jpg by NASA Glenn Research Center, Public domain, https://commons.wikimedia.org/wiki/File:Stator_Blade_with_Thermal_Barrier_Testing_on_Hot_Gas_Rig_(GRC-1975-C-01372).jpg
+- IGT Blades.jpg by Nabonaco, Public domain, https://commons.wikimedia.org/wiki/File:IGT_Blades.jpg
+- Repair process for a V2500 high-pressure turbine guide vane (8).jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Repair_process_for_a_V2500_high-pressure_turbine_guide_vane_(8).jpg
+- Thrust reversers arp, G-EZIO, Airbus A319 of EasyJet at Bristol International Airport, 2006.jpg by Adrian Pingstone, Public domain, https://commons.wikimedia.org/wiki/File:Thrust_reversers_arp,_G-EZIO,_Airbus_A319_of_EasyJet_at_Bristol_International_Airport,_2006.jpg
+- IAE V2500 during reverse.jpg by Olivier Cleynen, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:IAE_V2500_during_reverse.jpg
+- Gulfstream G650 N657FX FDK MD1.jpg by Acroterion, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Gulfstream_G650_N657FX_FDK_MD1.jpg
+- Air Canada Boeing 767-300ER with CF6-80 engines.jpg by Kristoferb, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Air_Canada_Boeing_767-300ER_with_CF6-80_engines.jpg
+- Absa Cargo Boeing 767 (13942677483).jpg by Joao Carlos Medau from Campinas, Brazil, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Absa_Cargo_Boeing_767_(13942677483).jpg
+- Detail of GEnx turbofan engine core.jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Detail_of_GEnx_turbofan_engine_core.jpg
+- The Soviet Airliner Yakovlev Yak-40. Советский авиалайнер Як-40.jpg by Andrey Korchagin, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:The_Soviet_Airliner_Yakovlev_Yak-40._%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D0%B2%D0%B8%D0%B0%D0%BB%D0%B0%D0%B9%D0%BD%D0%B5%D1%80_%D0%AF%D0%BA-40.jpg
+- Streaks on the nacelle of an IAE V2500 turbofan.jpg by Olivier Cleynen, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Streaks_on_the_nacelle_of_an_IAE_V2500_turbofan.jpg
+- Qatar Airways Boeing 787-8 Dreamliner A7-BCO MUC 2015 02.jpg by Julian Herzog (Website), CC BY 4.0, https://commons.wikimedia.org/wiki/File:Qatar_Airways_Boeing_787-8_Dreamliner_A7-BCO_MUC_2015_02.jpg
+- N1015X Air Tahiti Nui Boeing 787-9 Dreamliner 26.jpg by New York-air, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:N1015X_Air_Tahiti_Nui_Boeing_787-9_Dreamliner_26.jpg
+- Qatar Airways Boeing 787-8 Dreamliner A7-BCA MUC 2015 06.jpg by Julian Herzog (Website), CC BY 4.0, https://commons.wikimedia.org/wiki/File:Qatar_Airways_Boeing_787-8_Dreamliner_A7-BCA_MUC_2015_06.jpg
+- Boeing 787 Engine Rolls-Royce Trent 1000.JPG by Chihaya Sta, CC0, https://commons.wikimedia.org/wiki/File:Boeing_787_Engine_Rolls-Royce_Trent_1000.JPG
+- JASDF C-2(78-1205) engine pylon left side view at Komaki Air Base March 3, 2018.jpg by Hunini, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:JASDF_C-2(78-1205)_engine_pylon_left_side_view_at_Komaki_Air_Base_March_3,_2018.jpg
+- Boeing 737-300, top aft end of the port engine pylon swa DSC 0333 733 (14664174191).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Boeing_737-300,_top_aft_end_of_the_port_engine_pylon_swa_DSC_0333_733_(14664174191).jpg
+- JASDF C-2(78-1205) engine pylon left front view at Komaki Air Base March 3, 2018.jpg by Hunini, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:JASDF_C-2(78-1205)_engine_pylon_left_front_view_at_Komaki_Air_Base_March_3,_2018.jpg
+- The mighty Boeing 747-400. Queen of the skies. (44561161270).jpg by Mike McBey, CC BY 2.0, https://commons.wikimedia.org/wiki/File:The_mighty_Boeing_747-400._Queen_of_the_skies._(44561161270).jpg
+- Boeing 747-400LCF Dreamlifter (N747BC).jpg by Quintin Soloviev, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Boeing_747-400LCF_Dreamlifter_(N747BC).jpg
+- LH 747 (7491755130).jpg by clipperarctic, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:LH_747_(7491755130).jpg
+- AirBridgeCargo B747-8F General Electric Genx-2B engines (right wing).jpg by Artem Katranzhi from Bakashikha, Russia, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:AirBridgeCargo_B747-8F_General_Electric_Genx-2B_engines_(right_wing).jpg
+- Pratt & Whitney Canada JT15D-5F turbofan engine accessory gearbox left front view at JASDF Hamamatsu Air Base October 23, 2022.jpg by Hunini, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Pratt_%26_Whitney_Canada_JT15D-5F_turbofan_engine_accessory_gearbox_left_front_view_at_JASDF_Hamamatsu_Air_Base_October_23,_2022.jpg
+- Combustors and accessory gearbox of sectioned Rolls-Royce Dart turboprop.jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Combustors_and_accessory_gearbox_of_sectioned_Rolls-Royce_Dart_turboprop.jpg
+- US Navy 070704-N-1513W-067 Aviation Machinist's Mate 3rd Class Joy Kim removes low pressure turbine (LPT) bolts from an aircraft engine in aircraft intermediate maintenance department's jet engine shop aboard Nimitz-class aircr.jpg by U.S. Navy photo by Mass Communication Specialist 3rd Class Richard R. Waite, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_070704-N-1513W-067_Aviation_Machinist%27s_Mate_3rd_Class_Joy_Kim_removes_low_pressure_turbine_(LPT)_bolts_from_an_aircraft_engine_in_aircraft_intermediate_maintenance_department%27s_jet_engine_shop_aboard_Nimitz-class_aircr.jpg
+- N253AE Saab 340B American Eagle Tail Line Up (8970351162).jpg by Aeroprints.com, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:N253AE_Saab_340B_American_Eagle_Tail_Line_Up_(8970351162).jpg
+- DFC 5893 A vintage airliner on display at Khao Chi Chan its blue-and-white tail and rear engine framed by a visitor stairway under a clear sky.jpg by PattayaPatrol, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:DFC_5893_A_vintage_airliner_on_display_at_Khao_Chi_Chan_its_blue-and-white_tail_and_rear_engine_framed_by_a_visitor_stairway_under_a_clear_sky.jpg
+- US Navy 060308-N-7842G-021 Aviation Machinist's Mate Airman Hsminig Chang, prepares a J-52 jet engine for a test run aboard the Nimitz-class aircraft carrier USS Abraham Lincoln (CVN 72).jpg by U.S. Navy photo by Photographer's Mate Airman Mary E. Guiney, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_060308-N-7842G-021_Aviation_Machinist%27s_Mate_Airman_Hsminig_Chang,_prepares_a_J-52_jet_engine_for_a_test_run_aboard_the_Nimitz-class_aircraft_carrier_USS_Abraham_Lincoln_(CVN_72).jpg
+- George Washington conducts engine test for test cell run (8254506).jpg by U.S. Navy photo by Seaman Wadelon Presley, Public domain, https://commons.wikimedia.org/wiki/File:George_Washington_conducts_engine_test_for_test_cell_run_(8254506).jpg
+- George Washington conducts engine test for test cell run (8254507).jpg by U.S. Navy photo by Seaman Wadelon Presley, Public domain, https://commons.wikimedia.org/wiki/File:George_Washington_conducts_engine_test_for_test_cell_run_(8254507).jpg
+- 011113-N-9746C-001 Engine Test at Sea.jpg by U.S. Navy Photo by Photographer's Mate 3rd Class Daniel R. Carrasco., Public domain, https://commons.wikimedia.org/wiki/File:011113-N-9746C-001_Engine_Test_at_Sea.jpg
+- US Navy 090718-N-9132C-110 Aviation Machinist's Mate Airman Jesus Lopez watches the blast from a jet engine during an engine test cell run on the fantail of the aircraft carrier USS Ronald Reagan (CVN 76).jpg by U.S. Navy photo by Mass Communication Specialist Seaman Oliver Cole, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_090718-N-9132C-110_Aviation_Machinist%27s_Mate_Airman_Jesus_Lopez_watches_the_blast_from_a_jet_engine_during_an_engine_test_cell_run_on_the_fantail_of_the_aircraft_carrier_USS_Ronald_Reagan_(CVN_76).jpg
+- Afterburner blasts from GE F110 jet engine during test at Hill Air Force Base - Utah - June 2025.jpg by Micah Garbarino, USAF, Public domain, https://commons.wikimedia.org/wiki/File:Afterburner_blasts_from_GE_F110_jet_engine_during_test_at_Hill_Air_Force_Base_-_Utah_-_June_2025.jpg
+- Pre-fight, Oil for the engine of an airliner preparatory to takeoff. Municipal airport, Washington, D.C. July 1941. - Flickr - polkbritton.jpg by Jack Delano, Public domain, https://commons.wikimedia.org/wiki/File:Pre-fight,_Oil_for_the_engine_of_an_airliner_preparatory_to_takeoff._Municipal_airport,_Washington,_D.C._July_1941._-_Flickr_-_polkbritton.jpg
+- Long Range Soviet Airliner Tu-114.jpg by Peer.Gynt, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Long_Range_Soviet_Airliner_Tu-114.jpg
+- Russian Tu-144LL SST Flying Laboratory Takeoff at Zhukovsky Air Development Center.jpg by NASA/IBP, Public domain, https://commons.wikimedia.org/wiki/File:Russian_Tu-144LL_SST_Flying_Laboratory_Takeoff_at_Zhukovsky_Air_Development_Center.jpg
+- Fan Noise Test Facility (GRC-1969-C-00189).jpg by NASA Glenn Research Center, Public domain, https://commons.wikimedia.org/wiki/File:Fan_Noise_Test_Facility_(GRC-1969-C-00189).jpg

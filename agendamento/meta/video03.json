@@ -1,0 +1,75 @@
+{
+ "title": "Why Do Engineers Blow Up Jet Engines on Purpose?",
+ "description": "To certify a new jet engine, engineers run it at full power and then blow one of its own blades off with a small explosive. They fire birds into it with a cannon. They let gas flow through it that is hotter than the melting point of the metal inside. And it has to survive all of it. Today, eleven parts of a jet engine that almost nobody understands, and why each one exists. Number ten is the reason an engine is designed to fall off the wing.\n\nMachine Reverse takes apart the machines you see every day and explains, part by part, why each one exists. This video covers 11 parts.\n\nChapters:\n0:00 Intro\n1:35 1. The giant fan\n3:05 2. The curved blades\n4:43 3. The holes inside the intake\n6:31 4. The containment case\n8:16 5. The bird test\n10:06 6. The holes in the turbine blades\n11:58 7. The ceramic armor\n13:05 8. The thrust reversers\n14:22 9. The air you breathe\n15:58 10. The pins that are meant to break\n17:40 11. The generators\n18:51 The verdict\n\nSources:\n- GE9X fan diameter, bypass ratio, thrust record, composite blades, CMC parts, fuel burn: GE Aerospace, \"GE9X\" https://www.geaerospace.com/commercial/engines/ge9x\n- Bypass air share of thrust: Flying Magazine, \"How It Works: Turbofan Engine\" https://www.flyingmag.com/how-it-works-turbofan-engine\n- Acoustic liners: Wikipedia, \"Acoustic liner\" https://en.wikipedia.org/wiki/Acoustic_liner\n- Blade-off containment (14 CFR 33.94, CS-E): Wikipedia, \"Blade off testing\" https://en.wikipedia.org/wiki/Blade_off_testing\n- Bird ingestion requirements: 14 CFR 33.76 (eCFR) https://www.ecfr.gov/current/title-14/chapter-I/subchapter-C/part-33/subpart-E/section-33.76 ; Airways Magazine, \"Testing jet engines: bird strike\" https://airwaysmag.com/new-post/testing-jet-engines-bird-strike\n- Turbine temperatures, film cooling, thermal barrier coatings: The Naked Scientists, \"How do you stop a jet engine melting?\" https://www.thenakedscientists.com/node/173794\n- Single crystal blades: Foundry Trade Journal, \"Flying High: the sky's the limit for single crystal technology\" https://www.foundrytradejournal.com/features/flying-high-the-skys-the-limit-for-single-crystal-technology\n- Thrust reversers and Lauda Air 004: Pilot Institute, \"Thrust Reversal Explained\" https://pilotinstitute.com/thrust-reversal/\n- Bleed air and 787 no-bleed architecture, generators: PlaneFYI, \"No-Bleed Electrical Architecture\" https://planefyi.com/systems/no-bleed-architecture/\n- El Al 1862 and fuse pins: Wikipedia, \"El Al Flight 1862\" (citing the Netherlands Aviation Safety Board) https://en.wikipedia.org/wiki/El_Al_Flight_1862\n\nPhotos from Wikimedia Commons. Full credits and licenses: https://github.com/viniciushoscher-ctrl/machine-reverse/blob/main/agendamento/creditos/video03.md\n\n#engineering #machines #whydoesthisexist",
+ "tags": [
+  "engineers blow up jet engines purpose",
+  "engineers",
+  "blow",
+  "up",
+  "jet",
+  "engines",
+  "purpose",
+  "engineering",
+  "how it works",
+  "why does this exist",
+  "machine reverse",
+  "engineering explained"
+ ],
+ "shorts": [
+  {
+   "file": "short1.mp4",
+   "title": "Why Are Jet Engine Fans So Huge? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Engineers Blow Up Jet Engines on Purpose?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short2.mp4",
+   "title": "Why Are Jet Engine Blades Curved Like This? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Engineers Blow Up Jet Engines on Purpose?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short3.mp4",
+   "title": "Why Is the Inside of a Jet Engine Full of Holes? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Engineers Blow Up Jet Engines on Purpose?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short4.mp4",
+   "title": "Why Do Engineers Blow Up Jet Engines? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Engineers Blow Up Jet Engines on Purpose?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short5.mp4",
+   "title": "Why Do Engineers Fire Birds Into Jet Engines? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Engineers Blow Up Jet Engines on Purpose?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short6.mp4",
+   "title": "Why Don't Turbine Blades Melt? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Engineers Blow Up Jet Engines on Purpose?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short7.mp4",
+   "title": "Why Do Jet Engines Wear Ceramic Armor? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Engineers Blow Up Jet Engines on Purpose?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short8.mp4",
+   "title": "Why Do Jet Engines Open Up When They Land? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Engineers Blow Up Jet Engines on Purpose?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short9.mp4",
+   "title": "Why Does Cabin Air Come From the Engines? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Engineers Blow Up Jet Engines on Purpose?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short10.mp4",
+   "title": "Why Are Jet Engines Designed to Fall Off? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Engineers Blow Up Jet Engines on Purpose?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short11.mp4",
+   "title": "Why Does a Jet Engine Make Electricity? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Engineers Blow Up Jet Engines on Purpose?\" on Machine Reverse.\n#shorts #engineering"
+  }
+ ]
+}
