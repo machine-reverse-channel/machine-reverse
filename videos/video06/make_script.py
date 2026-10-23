@@ -128,9 +128,9 @@ sc("""The cockpit is where aviation keeps its memory. Almost every rule in it wa
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
     1: ("File:Approaching ORY, in the cockpit.jpg", 0.5, 0.55),
-    2: ("File:Boeing 737-300 Cockpit.jpg", 0.2, 0.6),
+    2: ("File:Boeing 737-300 Cockpit.jpg", 0.17, 0.68),
     3: ("File:B737-original crew in cockpit during final approach.jpg", 0.5, 0.5),
-    4: ("File:U.S. Air Force Tech. Sgt. Vidal Hill, with the 18th Aeromedical Evacuation Squadron, wears a quick don oxygen mask while preparing for a mission aboard a C-130H Hercules aircraft during Air Mobility Rodeo 2011 110725-F-RM405-010.jpg", 0.6, 0.28),
+    4: ("File:U.S. Air Force Tech. Sgt. Vidal Hill, with the 18th Aeromedical Evacuation Squadron, wears a quick don oxygen mask while preparing for a mission aboard a C-130H Hercules aircraft during Air Mobility Rodeo 2011 110725-F-RM405-010.jpg", 0.56, 0.4),
     5: ("File:Boeing 737 S7 VQ-BKW cockpit May 2011.jpg", 0.12, 0.32),
     6: ("File:Airbus A320-211 Vueling EC-FNR cockpit (6503776229).jpg", 0.28, 0.62),
     7: ("File:Cockpit windows of a Boeing 787 (1).jpg", 0.35, 0.38),

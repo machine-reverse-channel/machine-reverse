@@ -48,8 +48,8 @@
    "query": "airliner cockpit captain seat",
    "caption": "WHY DOES THE CAPTAIN SIT ON THE LEFT?",
    "arrow": {
-    "x": 0.2,
-    "y": 0.6
+    "x": 0.17,
+    "y": 0.68
    },
    "chapter": "2. The captain's seat",
    "short": "Why Does the Captain Always Sit on the Left?",
@@ -94,8 +94,8 @@
    "query": "pilot quick donning oxygen mask",
    "caption": "WHY MUST THIS MASK GO ON IN 5 SECONDS?",
    "arrow": {
-    "x": 0.6,
-    "y": 0.28
+    "x": 0.56,
+    "y": 0.4
    },
    "chapter": "4. The five second mask",
    "short": "Why Pilots Must Put On Their Mask in 5 Seconds",
