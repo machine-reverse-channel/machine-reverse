@@ -121,6 +121,16 @@ sc("""Electric hypercars are fast because the rules of the motor changed. If you
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ('File:Vitesco Technologies EMR3.jpg', 0.45, 0.45),
+    2: ('File:Rimac - Nevera 01.jpg', 0.8, 0.55),
+    3: ('File:2016-03-01 Geneva Motor Show 0975.JPG', 0.55, 0.68),
+    4: ('File:YASA EDU Concept.jpg', 0.8, 0.5),
+    5: ('File:Electric motor Toyota bZ4X Expo 2022 CRI 4894.jpg', 0.42, 0.22),
+    6: ('File:Lithium Energy Japan LEV50 Rechargeable Li-ion battery cell in Tokyo Motor Show 2011.jpg', 0.35, 0.45),
+    7: ('File:Rimac - Nevera 06.jpg', 0.6, 0.55),
+    8: ('File:Tamagawa Seiki TS3118N8 - disc motor with controller - axial flux motor-8277.jpg', 0.35, 0.45),
+    9: ('File:Dodge Viper Wheel Michelin Pilot Sport Cup.jpg', 0.75, 0.6),
+    10: ('File:Rimac Nevera in Bridgehampton, rear left.jpg', 0.5, 0.55),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
