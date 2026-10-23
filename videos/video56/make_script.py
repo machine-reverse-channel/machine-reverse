@@ -132,6 +132,17 @@ sc("""Next time you see a dam, look at its shape, and you will know which trick 
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Contra-Staumauer.jpg", 0.6, 0.35),
+    2: ("File:Face of the Dam.jpg", 0.5, 0.6),
+    3: ('File:"Ready for a concrete pour in block 14G, showing cleaned bedrock and form work on which are mounted the metal... - NARA - 294147.jpg', 0.4, 0.45),
+    4: ("File:Oroville Dam main spillway 30 March 2011.jpg", 0.45, 0.45),
+    5: ("File:Oroville dam spillway 2017-02-11.jpg", 0.63, 0.3),
+    6: ("File:Water intake towers and Hoover Dam.jpg", 0.27, 0.5),
+    7: ("File:Ohakuri Dam Blue Penstocks.jpg", 0.55, 0.5),
+    8: ("File:Inspection gallery beneath Roadford Dam - geograph.org.uk - 3653589.jpg", 0.55, 0.5),
+    9: ("File:Fish ladder at Kerkhove weir, Avelgem, 2026.jpg", 0.5, 0.45),
+    10: ("File:Diga del Vajont vista da Erto.jpg", 0.5, 0.25),
+    11: ("File:Itaipu geral.jpg", 0.45, 0.4),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None

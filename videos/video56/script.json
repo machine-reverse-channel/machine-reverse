@@ -24,10 +24,14 @@
    "text": "Why are so many dams curved, with the bulge pointing toward the lake? Because the curve turns the push of the water into squeezing. A straight wall would be bent by the water like a ruler. An arch, curved upstream, sends that force sideways along the curve into the rock walls of the canyon. Concrete is very strong when squeezed, so the arch can be surprisingly thin.",
    "query": "arch dam",
    "caption": "WHY IS THIS DAM CURVED?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.6,
+    "y": 0.35
+   },
    "chapter": "1. The curve",
    "short": "Why Are Dams Curved?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Contra-Staumauer.jpg"
   },
   {
    "text": "It is the same idea as a stone arch in an old bridge or church. Push on the outside of an arch, and every block is pressed against its neighbors, holding the whole shape together. An arch dam is just an arch lying on its side, with the canyon walls as its supports.",
@@ -43,10 +47,14 @@
    "text": "Why are some dams straight and enormously thick instead of curved and thin? Because they use a different trick, weight. A gravity dam simply stands in the way of the water and is so heavy that the water cannot push it over or slide it along the ground. It is shaped like a triangle, thin at the top and very wide at the base, where the water pressure is greatest.",
    "query": "gravity dam",
    "caption": "WHY IS THIS DAM SO THICK?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.6
+   },
    "chapter": "2. The thick wall",
    "short": "Why Are Some Dams So Thick?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Face of the Dam.jpg"
   },
   {
    "text": "Gravity dams work in wide valleys where an arch would not fit. China's Three Gorges Dam is one, more than two kilometers long and about one hundred and eighty meters tall, built with tens of millions of cubic meters of concrete. It is also the largest power station on Earth.",
@@ -62,10 +70,14 @@
    "text": "Why is Hoover Dam full of pipes buried in its concrete? Because concrete gets hot as it hardens. The chemical reaction between cement and water releases heat. In a small slab, that heat escapes quickly. But engineers calculated that if Hoover Dam had been poured as one solid block, it would have taken more than a hundred years to cool down, and it would have cracked as it shrank.",
    "query": "Hoover Dam",
    "caption": "WHY ARE THERE PIPES INSIDE THIS DAM?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.4,
+    "y": 0.45
+   },
    "chapter": "3. The pipes hidden in the concrete",
    "short": "Why Was Hoover Dam Built With Pipes Inside?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:\"Ready for a concrete pour in block 14G, showing cleaned bedrock and form work on which are mounted the metal... - NARA - 294147.jpg"
   },
   {
    "text": "So the dam was built as many separate columns, poured in blocks, with about a thousand kilometers of steel pipes inside. River water and then chilled water from a refrigeration plant was pumped through the pipes, cooling the concrete in months instead of a century. Afterwards, the pipes were filled with grout.",
@@ -81,10 +93,14 @@
    "text": "Why does a dam have a huge concrete channel down its side, like a water slide? Because the most dangerous thing for a dam is water going over the top where it should not. In a big flood, the lake fills faster than the turbines can use it. The spillway lets the extra water out safely, around or over the dam, without washing away its foundations.",
    "query": "dam spillway",
    "caption": "WHY DOES THIS DAM HAVE A GIANT SLIDE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.45
+   },
    "chapter": "4. The spillway",
    "short": "Why Do Dams Have a Giant Concrete Slide?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Oroville Dam main spillway 30 March 2011.jpg"
   },
   {
    "text": "For an earth dam, made of soil and rock, water flowing over the top is fatal. It erodes the dam from the top down within hours. So spillways are designed for floods far bigger than any recorded, sometimes the largest flood thought possible at that river.",
@@ -100,10 +116,14 @@
    "text": "Why do some spillway tunnels have slots that suck air into the water? Because fast water can eat concrete. When water flows very fast over a small bump, the pressure drops so low that tiny bubbles of vapor form, and then collapse violently. This is called cavitation. Each collapse is a tiny hammer blow, and millions of them can tear holes in solid concrete.",
    "query": "Glen Canyon Dam spillway",
    "caption": "WHY DOES THIS SPILLWAY NEED AIR?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.63,
+    "y": 0.3
+   },
    "chapter": "5. The air slots in the tunnel",
    "short": "Why Do Dam Spillways Need Air Holes?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Oroville dam spillway 2017-02-11.jpg"
   },
   {
    "text": "In nineteen eighty three, a huge snowmelt flood forced Glen Canyon Dam, in Arizona, to use its spillway tunnels for weeks. Cavitation tore out concrete, steel and even rock, and the tunnels shook and spat out debris. Workers even added plywood boards on top of the spillway gates to hold back a little more water.",
@@ -119,10 +139,14 @@
    "text": "Why are there tall towers standing in the lake in front of Hoover Dam? They are intake towers. They let water into the dam's power plant, through gates at different heights. Taking water from the right depth matters. Water near the bottom may be colder and carry more silt, while water near the surface may be warmer.",
    "query": "Hoover Dam intake towers",
    "caption": "WHY ARE THERE TOWERS IN THIS LAKE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.27,
+    "y": 0.5
+   },
    "chapter": "6. The towers in the lake",
    "short": "Why Are There Towers Standing in Front of Hoover Dam?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Water intake towers and Hoover Dam.jpg"
   },
   {
    "text": "Hoover Dam has four of these towers, each one taller than a twenty five story building, with huge cylinder gates that can be opened or closed. Water flows from them through tunnels in the canyon walls to the turbines below. Screens on the towers stop logs and debris from going in.",
@@ -138,10 +162,14 @@
    "text": "Why are the pipes that carry water to a dam's turbines so huge? They are called penstocks, and they have to carry enormous amounts of water under high pressure. At Hoover Dam, the main penstocks are about nine meters across, big enough to drive a truck through. The bigger the pipe, the slower the water flows for the same amount, and the less energy is lost to friction.",
    "query": "dam penstock",
    "caption": "WHY ARE THESE PIPES SO HUGE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.5
+   },
    "chapter": "7. The giant pipes",
    "short": "Why Are Dam Pipes Big Enough to Drive Through?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Ohakuri Dam Blue Penstocks.jpg"
   },
   {
    "text": "The weight of the lake behind the dam is what makes the electricity. The deeper the turbines sit below the surface, the more pressure pushes the water through them. At the bottom, the water spins the turbines, which turn generators, and then flows out into the river below.",
@@ -157,10 +185,14 @@
    "text": "Why are there tunnels running through the inside of a concrete dam? They are inspection galleries. Engineers walk through them to check the dam from the inside. They measure cracks, temperature, movement, and especially water that seeps through the concrete and the rock below. A dam is not supposed to be perfectly watertight, but leaks must be watched.",
    "query": "dam inspection gallery",
    "caption": "WHY ARE THERE TUNNELS INSIDE THIS DAM?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.5
+   },
    "chapter": "8. The tunnels inside the dam",
    "short": "Why Are There Tunnels Inside a Dam?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Inspection gallery beneath Roadford Dam - geograph.org.uk - 3653589.jpg"
   },
   {
    "text": "Water seeping under a dam can push upward on it, like the dam is trying to float. This is called uplift, and it reduces the dam's grip on the ground. So drains are drilled from the galleries into the rock below, letting that water escape and lowering the pressure.",
@@ -176,10 +208,14 @@
    "text": "Why do some dams have a staircase of small pools beside them? It is a fish ladder. Salmon and other fish swim upstream to lay their eggs where they were born. A dam blocks their path completely. A fish ladder gives them a route of small steps, each one a pool, that they can jump or swim up, one level at a time.",
    "query": "fish ladder",
    "caption": "WHY DOES THIS DAM HAVE STAIRS FOR FISH?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.45
+   },
    "chapter": "9. The fish ladder",
    "short": "Why Do Some Dams Have Stairs for Fish?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Fish ladder at Kerkhove weir, Avelgem, 2026.jpg"
   },
   {
    "text": "On the Columbia River, in the United States, big dams like Bonneville have fish ladders with windows where visitors can watch salmon pass and staff count them. Some dams even use fish elevators, or trucks, to carry fish over the wall.",
@@ -195,10 +231,14 @@
    "text": "Why is the Vajont Dam in Italy still standing, even though nearly two thousand people died below it? Because the dam did not fail. In October nineteen sixty three, a huge landslide, more than two hundred and fifty million cubic meters of rock, slid from a mountain into the lake behind it. It pushed a wave of water over the top of the dam.",
    "query": "Vajont Dam",
    "caption": "WHY DID THIS DAM SURVIVE BUT THE TOWN DIE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.25
+   },
    "chapter": "10. The mountain that fell into the lake",
    "short": "Why Did This Dam Survive but the Town Below Didn't?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Diga del Vajont vista da Erto.jpg"
   },
   {
    "text": "The wave rose far above the dam and fell into the narrow valley below, destroying the town of Longarone and nearby villages in minutes. The dam, a thin arch, was barely damaged. Warning signs of the moving mountain had been seen for years, and the investigation found that the risk had been underestimated.",
@@ -214,10 +254,14 @@
    "text": "Why is the Itaipu Dam split exactly between Brazil and Paraguay? Because it sits on the Parana River, the border between them. The two countries built it together and own it fifty fifty. It has twenty generating units, half of them running on Brazil's electrical frequency and half on Paraguay's.",
    "query": "Itaipu Dam",
    "caption": "WHY IS THIS DAM SPLIT BETWEEN 2 COUNTRIES?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.4
+   },
    "chapter": "11. The dam shared by two countries",
    "short": "Why Is This Giant Dam Split Between Two Countries?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Itaipu geral.jpg"
   },
   {
    "text": "Brazil uses sixty hertz electricity and Paraguay uses fifty, so the two halves of the plant produce power at different frequencies. Paraguay uses only a part of its share and sells most of the rest to Brazil. For years, Itaipu produced more electricity in a single year than any other plant on Earth.",
