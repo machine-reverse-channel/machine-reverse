@@ -1,0 +1,1643 @@
+1
+00:00:00,000 --> 00:00:03,324
+Some freight trains in North America are
+
+2
+00:00:03,324 --> 00:00:05,734
+longer than three kilometers,
+
+3
+00:00:05,734 --> 00:00:08,394
+almost two miles of steel boxes.
+
+4
+00:00:08,574 --> 00:00:10,576
+And if you watch one pass,
+
+5
+00:00:10,576 --> 00:00:12,579
+something strange happens.
+
+6
+00:00:12,759 --> 00:00:16,242
+Halfway through, there is another locomotive.
+
+7
+00:00:16,422 --> 00:00:18,976
+Sometimes there is one at the very
+
+8
+00:00:18,976 --> 00:00:20,253
+end too, pushing.
+
+9
+00:00:20,433 --> 00:00:22,256
+No crew inside.
+
+10
+00:00:22,436 --> 00:00:24,541
+It is being driven by radio from
+
+11
+00:00:24,541 --> 00:00:25,199
+the front.
+
+12
+00:00:25,379 --> 00:00:28,630
+Today, ten parts of a giant freight
+
+13
+00:00:28,630 --> 00:00:31,509
+train, and why each one exists.
+
+14
+00:00:31,859 --> 00:00:34,801
+Freight trains are the quiet giants of
+
+15
+00:00:34,801 --> 00:00:35,575
+transport.
+
+16
+00:00:35,755 --> 00:00:38,253
+One train can carry the load of
+
+17
+00:00:38,253 --> 00:00:39,784
+hundreds of trucks,
+
+18
+00:00:39,784 --> 00:00:42,363
+using a fraction of the fuel per
+
+19
+00:00:42,363 --> 00:00:42,686
+ton.
+
+20
+00:00:42,866 --> 00:00:45,246
+But the longer and heavier a train
+
+21
+00:00:45,246 --> 00:00:47,487
+gets, the more it fights itself.
+
+22
+00:00:47,667 --> 00:00:48,898
+The front pulls,
+
+23
+00:00:48,898 --> 00:00:50,130
+the back pushes,
+
+24
+00:00:50,130 --> 00:00:53,055
+every coupling stretches and squeezes,
+
+25
+00:00:53,055 --> 00:00:55,518
+and a mistake can tear the train
+
+26
+00:00:55,518 --> 00:00:55,979
+apart.
+
+27
+00:00:56,159 --> 00:00:59,136
+Almost every strange part of a freight
+
+28
+00:00:59,136 --> 00:01:02,034
+train exists to control those forces.
+
+29
+00:01:02,383 --> 00:01:05,025
+As always, every fact comes from a
+
+30
+00:01:05,025 --> 00:01:08,911
+named source, the Federal Railroad Administration,
+
+31
+00:01:08,911 --> 00:01:11,941
+railway companies, and railway history,
+
+32
+00:01:11,941 --> 00:01:14,272
+all listed in the description.
+
+33
+00:01:14,452 --> 00:01:16,455
+Let's start with that engine in the
+
+34
+00:01:16,455 --> 00:01:16,855
+middle.
+
+35
+00:01:17,205 --> 00:01:20,008
+Why do long freight trains have locomotives
+
+36
+00:01:20,008 --> 00:01:20,921
+in the middle?
+
+37
+00:01:21,101 --> 00:01:23,632
+It is called distributed power.
+
+38
+00:01:23,812 --> 00:01:26,015
+If all the locomotives are at the
+
+39
+00:01:26,015 --> 00:01:28,485
+front, the couplers at the front have
+
+40
+00:01:28,485 --> 00:01:30,621
+to pull the weight of the entire
+
+41
+00:01:30,621 --> 00:01:31,021
+train.
+
+42
+00:01:31,201 --> 00:01:32,273
+On a very long,
+
+43
+00:01:32,273 --> 00:01:34,775
+heavy train, that force can break a
+
+44
+00:01:34,775 --> 00:01:35,346
+coupler.
+
+45
+00:01:35,526 --> 00:01:38,685
+Putting some locomotives in the middle or
+
+46
+00:01:38,685 --> 00:01:41,151
+at the end splits the train into
+
+47
+00:01:41,151 --> 00:01:44,311
+sections, and each group of engines pulls
+
+48
+00:01:44,311 --> 00:01:46,776
+or pushes only part of the load.
+
+49
+00:01:47,126 --> 00:01:49,530
+The remote locomotives have no crew.
+
+50
+00:01:49,710 --> 00:01:52,928
+The engineer at the front controls them
+
+51
+00:01:52,928 --> 00:01:55,981
+by radio, and they copy the commands,
+
+52
+00:01:55,981 --> 00:01:58,951
+or can be set to work independently.
+
+53
+00:01:59,131 --> 00:02:02,053
+Systems like this were developed in the
+
+54
+00:02:02,053 --> 00:02:05,275
+nineteen sixties, and today they are common
+
+55
+00:02:05,275 --> 00:02:06,399
+on long trains.
+
+56
+00:02:06,579 --> 00:02:08,634
+In curves, they help too.
+
+57
+00:02:08,814 --> 00:02:11,104
+A long train pulled only from the
+
+58
+00:02:11,104 --> 00:02:14,088
+front tends to straighten itself across the
+
+59
+00:02:14,088 --> 00:02:15,476
+inside of the curve,
+
+60
+00:02:15,476 --> 00:02:17,835
+which can pull cars off the track.
+
+61
+00:02:18,184 --> 00:02:20,170
+Braking is also better.
+
+62
+00:02:20,350 --> 00:02:21,520
+On a long train,
+
+63
+00:02:21,520 --> 00:02:24,300
+the air brake signal travels along the
+
+64
+00:02:24,300 --> 00:02:25,763
+pipe from the front,
+
+65
+00:02:25,763 --> 00:02:27,958
+and it takes time to reach the
+
+66
+00:02:27,958 --> 00:02:28,616
+last car.
+
+67
+00:02:28,796 --> 00:02:31,702
+With locomotives in the middle and at
+
+68
+00:02:31,702 --> 00:02:34,372
+the end, the brakes can be applied
+
+69
+00:02:34,372 --> 00:02:36,571
+from several points at once,
+
+70
+00:02:36,571 --> 00:02:39,241
+so the whole train slows down more
+
+71
+00:02:39,241 --> 00:02:39,791
+evenly.
+
+72
+00:02:39,971 --> 00:02:42,951
+More engines in more places means a
+
+73
+00:02:42,951 --> 00:02:44,057
+calmer train.
+
+74
+00:02:44,407 --> 00:02:46,032
+Why do you hear a chain of
+
+75
+00:02:46,032 --> 00:02:48,158
+bangs when a freight train starts?
+
+76
+00:02:48,338 --> 00:02:51,087
+Every coupling between two cars has a
+
+77
+00:02:51,087 --> 00:02:53,985
+little slack, a few centimeters of free
+
+78
+00:02:53,985 --> 00:02:54,653
+movement.
+
+79
+00:02:54,833 --> 00:02:56,994
+When the locomotive starts,
+
+80
+00:02:56,994 --> 00:02:59,315
+it first pulls the first car,
+
+81
+00:02:59,315 --> 00:03:01,236
+then the slack runs out,
+
+82
+00:03:01,236 --> 00:03:03,397
+then the second car starts,
+
+83
+00:03:03,397 --> 00:03:04,597
+then the third.
+
+84
+00:03:04,777 --> 00:03:07,246
+With more than one hundred cars,
+
+85
+00:03:07,246 --> 00:03:10,256
+those few centimeters add up to several
+
+86
+00:03:10,256 --> 00:03:12,571
+meters, and you hear a wave of
+
+87
+00:03:12,571 --> 00:03:14,808
+bangs running down the train.
+
+88
+00:03:15,159 --> 00:03:17,179
+The slack is not a mistake.
+
+89
+00:03:17,359 --> 00:03:20,190
+It actually helps a locomotive start a
+
+90
+00:03:20,190 --> 00:03:22,947
+heavy train, because it does not have
+
+91
+00:03:22,947 --> 00:03:24,958
+to move all the cars at the
+
+92
+00:03:24,958 --> 00:03:25,927
+same instant.
+
+93
+00:03:26,107 --> 00:03:28,754
+Behind each coupler there is a spring
+
+94
+00:03:28,754 --> 00:03:31,474
+and friction system called draft gear,
+
+95
+00:03:31,474 --> 00:03:33,549
+which cushions those impacts.
+
+96
+00:03:33,729 --> 00:03:36,564
+Without it, every start and stop would
+
+97
+00:03:36,564 --> 00:03:38,802
+hammer the cars and the cargo.
+
+98
+00:03:39,153 --> 00:03:41,730
+But slack can also be dangerous.
+
+99
+00:03:41,910 --> 00:03:44,167
+If the front of a train slows
+
+100
+00:03:44,167 --> 00:03:47,046
+down while the back is still pushing,
+
+101
+00:03:47,046 --> 00:03:48,447
+the slack runs in,
+
+102
+00:03:48,447 --> 00:03:50,548
+and the cars slam together.
+
+103
+00:03:50,728 --> 00:03:52,946
+Then if the front speeds up,
+
+104
+00:03:52,946 --> 00:03:55,719
+the slack runs out and the couplers
+
+105
+00:03:55,719 --> 00:03:56,591
+snap tight.
+
+106
+00:03:56,771 --> 00:04:00,284
+Engineers on long freight trains are trained
+
+107
+00:04:00,284 --> 00:04:02,360
+to manage slack carefully,
+
+108
+00:04:02,360 --> 00:04:03,957
+especially on hills.
+
+109
+00:04:04,137 --> 00:04:06,601
+Driving a two mile train is a
+
+110
+00:04:06,601 --> 00:04:09,234
+lot like managing an accordion.
+
+111
+00:04:09,585 --> 00:04:11,512
+Why is one part of a freight
+
+112
+00:04:11,512 --> 00:04:14,059
+train coupler designed to be the weak
+
+113
+00:04:14,059 --> 00:04:14,472
+point?
+
+114
+00:04:14,652 --> 00:04:15,897
+It is the knuckle,
+
+115
+00:04:15,897 --> 00:04:18,662
+the curled piece that locks two couplers
+
+116
+00:04:18,662 --> 00:04:19,285
+together.
+
+117
+00:04:19,465 --> 00:04:21,796
+If the force on a train becomes
+
+118
+00:04:21,796 --> 00:04:24,202
+too high, something has to give.
+
+119
+00:04:24,382 --> 00:04:27,163
+Railways would much rather that it be
+
+120
+00:04:27,163 --> 00:04:28,291
+a small, cheap,
+
+121
+00:04:28,291 --> 00:04:30,997
+replaceable part than the frame of a
+
+122
+00:04:30,997 --> 00:04:33,403
+car or the coupler shank itself.
+
+123
+00:04:33,583 --> 00:04:35,955
+So the knuckle is often the part
+
+124
+00:04:35,955 --> 00:04:36,845
+that breaks.
+
+125
+00:04:37,195 --> 00:04:38,922
+When a knuckle breaks,
+
+126
+00:04:38,922 --> 00:04:40,492
+the train separates.
+
+127
+00:04:40,672 --> 00:04:43,140
+The air brake hose pulls apart,
+
+128
+00:04:43,140 --> 00:04:44,652
+the pressure drops,
+
+129
+00:04:44,652 --> 00:04:47,439
+and every car brakes automatically,
+
+130
+00:04:47,439 --> 00:04:49,031
+so both halves stop.
+
+131
+00:04:49,211 --> 00:04:51,696
+Then a crew member has to walk
+
+132
+00:04:51,696 --> 00:04:53,932
+back, sometimes a long way,
+
+133
+00:04:53,932 --> 00:04:56,003
+carrying a spare knuckle.
+
+134
+00:04:56,183 --> 00:05:00,054
+A spare knuckle weighs about eighty pounds,
+
+135
+00:05:00,054 --> 00:05:02,574
+around thirty-six kilograms,
+
+136
+00:05:02,574 --> 00:05:06,445
+and locomotives often carry one for exactly
+
+137
+00:05:06,445 --> 00:05:07,526
+this reason.
+
+138
+00:05:07,876 --> 00:05:10,364
+The idea of a planned weak point
+
+139
+00:05:10,364 --> 00:05:13,007
+appears everywhere in engineering.
+
+140
+00:05:13,187 --> 00:05:15,484
+Fuses in electrical systems,
+
+141
+00:05:15,484 --> 00:05:17,370
+shear pins in machines,
+
+142
+00:05:17,370 --> 00:05:19,584
+and the knuckle in a train.
+
+143
+00:05:19,764 --> 00:05:21,777
+When something must fail,
+
+144
+00:05:21,777 --> 00:05:23,549
+you choose what fails.
+
+145
+00:05:23,729 --> 00:05:26,219
+It is better to replace a small
+
+146
+00:05:26,219 --> 00:05:28,870
+piece of steel by the tracks than
+
+147
+00:05:28,870 --> 00:05:31,360
+to repair a broken car or clean
+
+148
+00:05:31,360 --> 00:05:32,646
+up a derailment.
+
+149
+00:05:32,996 --> 00:05:35,111
+Why is there a small box with
+
+150
+00:05:35,111 --> 00:05:37,446
+a blinking red light on the last
+
+151
+00:05:37,446 --> 00:05:39,416
+car of many freight trains?
+
+152
+00:05:39,596 --> 00:05:42,145
+It is an end of train device,
+
+153
+00:05:42,145 --> 00:05:45,749
+nicknamed FRED, flashing rear end device.
+
+154
+00:05:45,929 --> 00:05:47,925
+It hangs on the rear coupler and
+
+155
+00:05:47,925 --> 00:05:49,610
+connects to the brake pipe.
+
+156
+00:05:49,790 --> 00:05:52,193
+It measures the air pressure at the
+
+157
+00:05:52,193 --> 00:05:54,253
+back of the train and sends it
+
+158
+00:05:54,253 --> 00:05:56,107
+by radio to the locomotive,
+
+159
+00:05:56,107 --> 00:05:58,168
+and its light marks the end of
+
+160
+00:05:58,168 --> 00:06:00,297
+the train for anyone behind it.
+
+161
+00:06:00,647 --> 00:06:03,059
+Many of these devices also work in
+
+162
+00:06:03,059 --> 00:06:04,478
+the other direction.
+
+163
+00:06:04,658 --> 00:06:07,976
+If the engineer needs an emergency stop,
+
+164
+00:06:07,976 --> 00:06:10,796
+the rear device can open the brake
+
+165
+00:06:10,796 --> 00:06:12,538
+pipe at the back too,
+
+166
+00:06:12,538 --> 00:06:15,773
+so the emergency brake starts from both
+
+167
+00:06:15,773 --> 00:06:17,266
+ends of the train.
+
+168
+00:06:17,446 --> 00:06:19,777
+That matters if something blocks the air
+
+169
+00:06:19,777 --> 00:06:20,593
+in the middle.
+
+170
+00:06:20,773 --> 00:06:22,436
+In the United States,
+
+171
+00:06:22,436 --> 00:06:25,842
+rules require two-way devices on many heavy
+
+172
+00:06:25,842 --> 00:06:27,030
+freight trains.
+
+173
+00:06:27,381 --> 00:06:30,434
+This little box replaced something much bigger.
+
+174
+00:06:30,614 --> 00:06:32,488
+For more than a century,
+
+175
+00:06:32,488 --> 00:06:34,752
+the end of a train was marked
+
+176
+00:06:34,752 --> 00:06:37,406
+by a whole car with people inside.
+
+177
+00:06:37,586 --> 00:06:39,427
+A box with a battery,
+
+178
+00:06:39,427 --> 00:06:41,970
+a light and a radio took over
+
+179
+00:06:41,970 --> 00:06:42,671
+its job.
+
+180
+00:06:42,851 --> 00:06:44,707
+It is one of the reasons a
+
+181
+00:06:44,707 --> 00:06:47,561
+freight train that once needed five crew
+
+182
+00:06:47,561 --> 00:06:49,631
+members can now run with two.
+
+183
+00:06:49,982 --> 00:06:53,017
+Why did the caboose disappear from freight
+
+184
+00:06:53,017 --> 00:06:53,523
+trains?
+
+185
+00:06:53,703 --> 00:06:56,101
+The caboose was the crew's car at
+
+186
+00:06:56,101 --> 00:06:57,627
+the end of the train.
+
+187
+00:06:57,807 --> 00:07:01,092
+Conductors and brakemen rode in it,
+
+188
+00:07:01,092 --> 00:07:04,472
+did paperwork, ate and even slept on
+
+189
+00:07:04,472 --> 00:07:05,504
+long trips.
+
+190
+00:07:05,684 --> 00:07:08,040
+Many had a raised window on the
+
+191
+00:07:08,040 --> 00:07:09,712
+roof, called a cupola,
+
+192
+00:07:09,712 --> 00:07:12,220
+so the crew could watch the whole
+
+193
+00:07:12,220 --> 00:07:15,335
+train for smoke from overheated bearings,
+
+194
+00:07:15,335 --> 00:07:18,223
+shifting loads, or dragging equipment.
+
+195
+00:07:18,573 --> 00:07:21,765
+Then technology took over its jobs.
+
+196
+00:07:21,945 --> 00:07:24,963
+Detectors beside the tracks started to check
+
+197
+00:07:24,963 --> 00:07:27,158
+bearings and dragging equipment.
+
+198
+00:07:27,338 --> 00:07:29,953
+End of train devices replaced the lights
+
+199
+00:07:29,953 --> 00:07:31,587
+and the brake monitoring.
+
+200
+00:07:31,767 --> 00:07:34,333
+Radios replaced hand signals.
+
+201
+00:07:34,513 --> 00:07:36,493
+In the nineteen eighties,
+
+202
+00:07:36,493 --> 00:07:39,899
+railways and unions in North America agreed
+
+203
+00:07:39,899 --> 00:07:42,750
+to run most trains without cabooses,
+
+204
+00:07:42,750 --> 00:07:46,077
+and they disappeared from most main lines.
+
+205
+00:07:46,427 --> 00:07:49,586
+Cabooses still exist in a few places,
+
+206
+00:07:49,586 --> 00:07:52,745
+for example on some local trains that
+
+207
+00:07:52,745 --> 00:07:55,222
+need a place for crew to ride
+
+208
+00:07:55,222 --> 00:07:57,015
+while switching cars.
+
+209
+00:07:57,195 --> 00:08:00,190
+Many old ones became museums,
+
+210
+00:08:00,190 --> 00:08:03,081
+cafes, or even small hotels.
+
+211
+00:08:03,261 --> 00:08:05,770
+The caboose is a nice example of
+
+212
+00:08:05,770 --> 00:08:08,515
+how one machine can be replaced not
+
+213
+00:08:08,515 --> 00:08:10,004
+by another machine,
+
+214
+00:08:10,004 --> 00:08:12,435
+but by a group of small sensors
+
+215
+00:08:12,435 --> 00:08:14,395
+spread along the railway.
+
+216
+00:08:14,745 --> 00:08:17,935
+Why do many diesel locomotives have big
+
+217
+00:08:17,935 --> 00:08:20,143
+fans and grids on the roof?
+
+218
+00:08:20,323 --> 00:08:21,542
+They are for braking.
+
+219
+00:08:21,722 --> 00:08:25,031
+A diesel locomotive is actually electric.
+
+220
+00:08:25,211 --> 00:08:28,242
+The diesel engine drives a generator,
+
+221
+00:08:28,242 --> 00:08:31,190
+and electric motors turn the wheels.
+
+222
+00:08:31,370 --> 00:08:32,971
+When going downhill,
+
+223
+00:08:32,971 --> 00:08:35,851
+those motors can be switched to work
+
+224
+00:08:35,851 --> 00:08:38,812
+as generators, which slows the train.
+
+225
+00:08:38,992 --> 00:08:41,744
+But the electricity has to go somewhere.
+
+226
+00:08:41,924 --> 00:08:44,389
+It is sent to big resistor grids
+
+227
+00:08:44,389 --> 00:08:45,313
+on the roof,
+
+228
+00:08:45,313 --> 00:08:47,162
+which turn it into heat,
+
+229
+00:08:47,162 --> 00:08:49,319
+and fans blow the heat away.
+
+230
+00:08:49,670 --> 00:08:52,001
+This is called dynamic braking,
+
+231
+00:08:52,001 --> 00:08:54,557
+and it is essential on long hills.
+
+232
+00:08:54,737 --> 00:08:57,120
+If a heavy train used only its
+
+233
+00:08:57,120 --> 00:08:59,978
+air brakes on a long downhill grade,
+
+234
+00:08:59,978 --> 00:09:03,075
+the brake shoes could overheat and lose
+
+235
+00:09:03,075 --> 00:09:06,728
+their grip, a dangerous condition called brake
+
+236
+00:09:06,728 --> 00:09:07,125
+fade.
+
+237
+00:09:07,305 --> 00:09:10,685
+Dynamic braking holds the train back without
+
+238
+00:09:10,685 --> 00:09:12,683
+wearing the brakes at all,
+
+239
+00:09:12,683 --> 00:09:15,064
+so the air brakes stay cool and
+
+240
+00:09:15,064 --> 00:09:15,525
+ready.
+
+241
+00:09:15,875 --> 00:09:19,418
+Electric locomotives can go one step further,
+
+242
+00:09:19,418 --> 00:09:22,647
+sending the energy back into the overhead
+
+243
+00:09:22,647 --> 00:09:24,931
+wire for other trains to use,
+
+244
+00:09:24,931 --> 00:09:27,844
+which is called regenerative braking.
+
+245
+00:09:28,024 --> 00:09:30,645
+Diesel locomotives usually cannot,
+
+246
+00:09:30,645 --> 00:09:32,494
+so they burn it as heat.
+
+247
+00:09:32,674 --> 00:09:34,894
+On a cold winter day in the
+
+248
+00:09:34,894 --> 00:09:38,757
+mountains, a locomotive using dynamic brakes is
+
+249
+00:09:38,757 --> 00:09:40,894
+literally heating the sky.
+
+250
+00:09:41,245 --> 00:09:44,364
+Why are containers on many North American
+
+251
+00:09:44,364 --> 00:09:46,190
+trains stacked two high?
+
+252
+00:09:46,370 --> 00:09:49,605
+Because it almost doubles the cargo per
+
+253
+00:09:49,605 --> 00:09:53,006
+train, using the same locomotives and the
+
+254
+00:09:53,006 --> 00:09:53,836
+same crew.
+
+255
+00:09:54,016 --> 00:09:55,500
+To make it possible,
+
+256
+00:09:55,500 --> 00:09:57,949
+the cars have a low floor between
+
+257
+00:09:57,949 --> 00:09:59,879
+the wheels, called a well.
+
+258
+00:10:00,059 --> 00:10:02,756
+The bottom container sits in the well,
+
+259
+00:10:02,756 --> 00:10:04,602
+almost touching the rails,
+
+260
+00:10:04,602 --> 00:10:06,803
+and the second one sits on top,
+
+261
+00:10:06,803 --> 00:10:09,358
+locked with fittings at the corners.
+
+262
+00:10:09,709 --> 00:10:12,713
+Double stack trains became popular in the
+
+263
+00:10:12,713 --> 00:10:15,572
+United States in the nineteen eighties.
+
+264
+00:10:15,752 --> 00:10:17,702
+But they created a new problem.
+
+265
+00:10:17,882 --> 00:10:18,706
+They are tall.
+
+266
+00:10:18,886 --> 00:10:21,527
+Many old tunnels and bridges were too
+
+267
+00:10:21,527 --> 00:10:21,812
+low.
+
+268
+00:10:21,992 --> 00:10:24,922
+So railways spent large amounts of money
+
+269
+00:10:24,922 --> 00:10:28,072
+raising tunnel roofs and lowering tracks to
+
+270
+00:10:28,072 --> 00:10:29,097
+clear the way.
+
+271
+00:10:29,277 --> 00:10:32,135
+Some lines were rebuilt only to make
+
+272
+00:10:32,135 --> 00:10:34,119
+room for that second box.
+
+273
+00:10:34,469 --> 00:10:37,133
+In Europe and many other places,
+
+274
+00:10:37,133 --> 00:10:39,547
+double stack trains are rare,
+
+275
+00:10:39,547 --> 00:10:43,043
+because of electric wires above the tracks
+
+276
+00:10:43,043 --> 00:10:45,707
+and smaller tunnels and bridges.
+
+277
+00:10:45,887 --> 00:10:48,886
+That is why American freight trains often
+
+278
+00:10:48,886 --> 00:10:51,739
+look so much taller than European ones.
+
+279
+00:10:51,919 --> 00:10:54,171
+The shape of a train is decided
+
+280
+00:10:54,171 --> 00:10:55,914
+not only by engineering,
+
+281
+00:10:55,914 --> 00:10:58,312
+but by the height of every bridge
+
+282
+00:10:58,312 --> 00:10:59,256
+on its route.
+
+283
+00:10:59,606 --> 00:11:01,737
+Why do some railway yards have a
+
+284
+00:11:01,737 --> 00:11:03,402
+small hill in the middle?
+
+285
+00:11:03,582 --> 00:11:04,991
+It is a hump yard,
+
+286
+00:11:04,991 --> 00:11:07,809
+a giant sorting machine that runs on
+
+287
+00:11:07,809 --> 00:11:08,435
+gravity.
+
+288
+00:11:08,615 --> 00:11:11,810
+A locomotive slowly pushes a long line
+
+289
+00:11:11,810 --> 00:11:13,491
+of cars up the hump.
+
+290
+00:11:13,671 --> 00:11:14,565
+At the top,
+
+291
+00:11:14,565 --> 00:11:17,003
+cars are uncoupled one by one,
+
+292
+00:11:17,003 --> 00:11:19,766
+and each rolls down the other side
+
+293
+00:11:19,766 --> 00:11:20,660
+on its own.
+
+294
+00:11:20,840 --> 00:11:23,509
+Switches send each car onto the right
+
+295
+00:11:23,509 --> 00:11:26,250
+track, where it joins other cars going
+
+296
+00:11:26,250 --> 00:11:27,981
+to the same destination.
+
+297
+00:11:28,331 --> 00:11:31,079
+Each car rolls at a different speed,
+
+298
+00:11:31,079 --> 00:11:32,911
+depending on its weight,
+
+299
+00:11:32,911 --> 00:11:34,972
+its bearings, and the wind.
+
+300
+00:11:35,152 --> 00:11:37,343
+So the tracks have retarders,
+
+301
+00:11:37,343 --> 00:11:39,762
+big steel jaws next to the rails
+
+302
+00:11:39,762 --> 00:11:42,407
+that squeeze the wheels to slow the
+
+303
+00:11:42,407 --> 00:11:43,162
+cars down.
+
+304
+00:11:43,342 --> 00:11:46,092
+That loud screeching sound you hear near
+
+305
+00:11:46,092 --> 00:11:48,223
+a hump yard is the retarders at
+
+306
+00:11:48,223 --> 00:11:48,567
+work.
+
+307
+00:11:48,747 --> 00:11:51,849
+Computers measure each car and decide how
+
+308
+00:11:51,849 --> 00:11:53,286
+hard to squeeze it.
+
+309
+00:11:53,637 --> 00:11:55,855
+The goal is for each car to
+
+310
+00:11:55,855 --> 00:11:58,566
+reach the other cars on its track
+
+311
+00:11:58,566 --> 00:12:01,031
+gently, fast enough to couple,
+
+312
+00:12:01,031 --> 00:12:03,578
+but not so fast that it damages
+
+313
+00:12:03,578 --> 00:12:04,318
+anything.
+
+314
+00:12:04,498 --> 00:12:06,961
+Big hump yards can sort thousands of
+
+315
+00:12:06,961 --> 00:12:07,714
+cars a day.
+
+316
+00:12:07,894 --> 00:12:10,345
+Gravity does most of the work,
+
+317
+00:12:10,345 --> 00:12:13,286
+and steel jaws and computers keep it
+
+318
+00:12:13,286 --> 00:12:14,430
+under control.
+
+319
+00:12:14,780 --> 00:12:18,289
+Why does one railway in California make
+
+320
+00:12:18,289 --> 00:12:21,258
+a full loop and pass over itself?
+
+321
+00:12:21,438 --> 00:12:23,490
+It is the Tehachapi Loop,
+
+322
+00:12:23,490 --> 00:12:26,773
+built in the eighteen seventies to climb
+
+323
+00:12:26,773 --> 00:12:28,578
+a steep mountain pass.
+
+324
+00:12:28,758 --> 00:12:31,600
+Instead of going straight up a slope
+
+325
+00:12:31,600 --> 00:12:33,258
+too steep for trains,
+
+326
+00:12:33,258 --> 00:12:36,021
+the track spirals around a hill and
+
+327
+00:12:36,021 --> 00:12:37,837
+gains height gradually.
+
+328
+00:12:38,017 --> 00:12:41,086
+A long freight train crossing it passes
+
+329
+00:12:41,086 --> 00:12:42,423
+over its own end,
+
+330
+00:12:42,423 --> 00:12:44,941
+in one of the most famous sights
+
+331
+00:12:44,941 --> 00:12:46,121
+in railroading.
+
+332
+00:12:46,471 --> 00:12:47,823
+Even with the loop,
+
+333
+00:12:47,823 --> 00:12:49,105
+the climb is hard,
+
+334
+00:12:49,105 --> 00:12:51,881
+so heavy trains often need extra power.
+
+335
+00:12:52,061 --> 00:12:52,959
+In the past,
+
+336
+00:12:52,959 --> 00:12:55,504
+railways added helper locomotives,
+
+337
+00:12:55,504 --> 00:12:56,852
+often at the back,
+
+338
+00:12:56,852 --> 00:12:58,948
+to push trains up the grade,
+
+339
+00:12:58,948 --> 00:13:01,268
+and then sent them back down to
+
+340
+00:13:01,268 --> 00:13:02,765
+help the next train.
+
+341
+00:13:02,945 --> 00:13:06,978
+Today, distributed power locomotives often do the
+
+342
+00:13:06,978 --> 00:13:10,105
+same job, already placed in the middle
+
+343
+00:13:10,105 --> 00:13:11,339
+and at the end.
+
+344
+00:13:11,690 --> 00:13:14,929
+Grades matter enormously for trains.
+
+345
+00:13:15,109 --> 00:13:18,148
+Steel wheels on steel rails have low
+
+346
+00:13:18,148 --> 00:13:22,116
+friction, which makes trains efficient but also
+
+347
+00:13:22,116 --> 00:13:24,733
+limits how steep a line can be.
+
+348
+00:13:24,913 --> 00:13:28,236
+Main lines usually stay very gentle,
+
+349
+00:13:28,236 --> 00:13:31,004
+often a slope of around one or
+
+350
+00:13:31,004 --> 00:13:32,112
+two percent.
+
+351
+00:13:32,292 --> 00:13:34,913
+Climbing a mountain with a train is
+
+352
+00:13:34,913 --> 00:13:36,111
+not about power.
+
+353
+00:13:36,291 --> 00:13:38,892
+It is about patience and distance.
+
+354
+00:13:39,242 --> 00:13:42,729
+Why do many locomotives have lights arranged
+
+355
+00:13:42,729 --> 00:13:43,839
+in a triangle?
+
+356
+00:13:44,019 --> 00:13:45,943
+The headlight is on top,
+
+357
+00:13:45,943 --> 00:13:47,626
+and two extra lights,
+
+358
+00:13:47,626 --> 00:13:49,229
+called ditch lights,
+
+359
+00:13:49,229 --> 00:13:51,473
+are lower down on each side.
+
+360
+00:13:51,653 --> 00:13:54,843
+The triangle helps drivers at a crossing
+
+361
+00:13:54,843 --> 00:13:57,315
+judge how far away the train is
+
+362
+00:13:57,315 --> 00:13:59,389
+and how fast it is coming,
+
+363
+00:13:59,389 --> 00:14:02,500
+because the lights seem to spread apart
+
+364
+00:14:02,500 --> 00:14:04,493
+as the train gets closer.
+
+365
+00:14:04,673 --> 00:14:07,090
+A single light is very hard to
+
+366
+00:14:07,090 --> 00:14:08,540
+judge in the dark.
+
+367
+00:14:08,890 --> 00:14:10,541
+In the United States,
+
+368
+00:14:10,541 --> 00:14:14,158
+rules adopted in the nineteen nineties require
+
+369
+00:14:14,158 --> 00:14:17,697
+these auxiliary lights on lead locomotives on
+
+370
+00:14:17,697 --> 00:14:18,955
+many main lines.
+
+371
+00:14:19,135 --> 00:14:22,236
+At crossings, the ditch lights often flash,
+
+372
+00:14:22,236 --> 00:14:23,678
+along with the horn,
+
+373
+00:14:23,678 --> 00:14:24,975
+to grab attention.
+
+374
+00:14:25,155 --> 00:14:29,242
+Many accidents at crossings happen because drivers
+
+375
+00:14:29,242 --> 00:14:32,267
+underestimate the speed of the train,
+
+376
+00:14:32,267 --> 00:14:35,210
+so making speed visible saves lives.
+
+377
+00:14:35,560 --> 00:14:37,774
+That is also why a freight train
+
+378
+00:14:37,774 --> 00:14:39,159
+cannot stop quickly.
+
+379
+00:14:39,339 --> 00:14:41,858
+A heavy train at full speed can
+
+380
+00:14:41,858 --> 00:14:43,646
+need more than a mile,
+
+381
+00:14:43,646 --> 00:14:46,572
+more than one and a half kilometers,
+
+382
+00:14:46,572 --> 00:14:47,222
+to stop.
+
+383
+00:14:47,402 --> 00:14:49,871
+By the time the engineer sees a
+
+384
+00:14:49,871 --> 00:14:51,305
+car on the tracks,
+
+385
+00:14:51,305 --> 00:14:53,137
+it is usually too late.
+
+386
+00:14:53,317 --> 00:14:55,357
+The lights and the horn are not
+
+387
+00:14:55,357 --> 00:14:56,080
+a courtesy.
+
+388
+00:14:56,260 --> 00:14:58,529
+They are the only brakes that work
+
+389
+00:14:58,529 --> 00:15:00,798
+fast enough, the ones in the minds
+
+390
+00:15:00,798 --> 00:15:02,332
+of the people watching.
+
+391
+00:15:02,683 --> 00:15:03,995
+So here are the ten.
+
+392
+00:15:04,175 --> 00:15:06,138
+Engines in the middle to share the
+
+393
+00:15:06,138 --> 00:15:06,427
+load.
+
+394
+00:15:06,607 --> 00:15:08,924
+Slack that works like an accordion,
+
+395
+00:15:08,924 --> 00:15:11,042
+and a knuckle designed to break.
+
+396
+00:15:11,222 --> 00:15:14,566
+A blinking box that replaced the caboose.
+
+397
+00:15:14,746 --> 00:15:17,550
+Grids that turn braking into heat,
+
+398
+00:15:17,550 --> 00:15:20,107
+cars that carry two boxes high,
+
+399
+00:15:20,107 --> 00:15:23,241
+a hill that sorts trains with gravity,
+
+400
+00:15:23,241 --> 00:15:25,797
+a track that loops over itself,
+
+401
+00:15:25,797 --> 00:15:28,684
+and a triangle of lights that shows
+
+402
+00:15:28,684 --> 00:15:31,406
+you how fast the train is coming.
+
+403
+00:15:31,756 --> 00:15:34,489
+A freight train looks like the simplest
+
+404
+00:15:34,489 --> 00:15:35,680
+machine on Earth.
+
+405
+00:15:35,860 --> 00:15:38,001
+It is actually a two mile long
+
+406
+00:15:38,001 --> 00:15:40,214
+system fighting its own weight.
+
+407
+00:15:40,394 --> 00:15:43,347
+If you want more machines explained part
+
+408
+00:15:43,347 --> 00:15:46,152
+by part, subscribe to Machine Reverse.
+
+409
+00:15:46,332 --> 00:15:48,259
+And tell us in the comments which
+
+410
+00:15:48,259 --> 00:15:50,185
+machine you want us to take apart
+
+411
+00:15:50,185 --> 00:15:50,477
+next.
