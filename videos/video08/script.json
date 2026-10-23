@@ -24,10 +24,14 @@
    "text": "Why did Concorde's nose bend down? Because of its wing. A delta wing like Concorde's has no flaps, so to fly slowly it has to point its nose high into the air. On landing, Concorde came in with its nose so high that, with a straight nose, the pilots would have seen only sky. So the whole nose was hinged. It drooped to about five degrees for takeoff and taxi, and twelve and a half degrees for landing.",
    "query": "Concorde droop nose",
    "caption": "WHY DOES THIS NOSE BEND DOWN?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.17,
+    "y": 0.32
+   },
    "chapter": "1. The nose that bends",
    "short": "Why Did the Concorde Drop Its Nose?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:British Airways Concorde G-BOAC 03.jpg"
   },
   {
    "text": "Why not just give Concorde a short, round nose like a normal airliner? Because at twice the speed of sound, a blunt nose makes a huge amount of drag. A supersonic airplane needs a long, sharp, pointed nose. That is perfect at Mach two, and terrible for seeing the runway. The droop nose was the compromise, sharp in the sky, and bent down near the ground.",
@@ -43,10 +47,14 @@
    "text": "Why did Concorde have a second windshield in front of the first one? It is called the visor. In cruise, it slid up over the real windshield and made the nose one smooth, sharp shape. It protected the windshield from heat and air pressure at Mach two, and it made the cockpit very quiet. Pilots said that the first time they raised it, they thought the engines had stopped.",
    "query": "Concorde visor",
    "caption": "WHY IS THERE A SECOND WINDSHIELD HERE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.73,
+    "y": 0.32
+   },
    "chapter": "2. The glass shield",
    "short": "Why Did the Concorde Have a Second Windshield?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Concorde Air France Musee du Bourget P1020006.JPG"
   },
   {
    "text": "The first prototypes had a metal visor with tiny windows and a periscope. One test pilot said that flying it was like flying inside a letter box. The American Federal Aviation Administration wanted better forward vision, so the engineers developed a glass visor that could survive the heat and the force of Mach two. It was about one and a half inches thick, with a heated gold film to keep it clear.",
@@ -62,10 +70,14 @@
    "text": "Why did Concorde's wing have no flaps? Normal airliners have flaps and slats that slide out to make the wing bigger for landing. Concorde's thin delta wing had none. Instead, at high angles, the sharp front edge of the wing creates two huge spinning vortices of air above the wing. Those swirls create low pressure, and that low pressure keeps the wing lifting at low speed.",
    "query": "Concorde delta wing",
    "caption": "WHY DOES THIS WING HAVE NO FLAPS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.3
+   },
    "chapter": "3. The wing with no flaps",
    "short": "Why Didn't the Concorde Need Flaps?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Concorde - Delta wing and Rolls-Royce-Snecma Olympus 593 engine (7181594822).jpg"
   },
   {
    "text": "This is called vortex lift, and on a humid day you could actually see it, as white swirls of condensation over the wings on takeoff and landing. The wing was not a simple triangle. It had a gentle curve, called an ogee shape, refined over about five thousand hours of wind tunnel testing, so that one wing could work at two hundred miles an hour and at one thousand three hundred fifty.",
@@ -81,10 +93,14 @@
    "text": "Why did Concorde have a small set of wheels under its tail? Because of that high angle again. Concorde lifted off with its nose pointing about eighteen degrees up, far more than a normal airliner. With such a long body, a pilot pulling up a little too much could scrape the tail on the runway. The tail wheels were there to touch first and protect the airplane.",
    "query": "Concorde tail wheel",
    "caption": "WHY IS THERE A WHEEL UNDER THE TAIL?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.58,
+    "y": 0.67
+   },
    "chapter": "4. The wheel under the tail",
    "short": "Why Did the Concorde Have Wheels Under Its Tail?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Concorde - Tail bumper wheel (7181575152).jpg"
   },
   {
    "text": "To reach that angle, Concorde also needed very tall landing gear, so the main legs were long and had to fold into a thin wing. The legs even shortened as they retracted, to fit into the space available. Takeoff speed was about two hundred fifty miles an hour, and landing speed about one hundred eighty-seven, much faster than a normal airliner.",
@@ -100,10 +116,14 @@
    "text": "Why were Concorde's engine intakes so long and rectangular? Because a jet engine cannot swallow air at twice the speed of sound. The air must be slowed down to below the speed of sound before it reaches the fan. Inside each intake there were movable ramps, which created shock waves in exactly the right places, slowing the air down and squeezing it at the same time.",
    "query": "Concorde engine intakes",
    "caption": "WHY ARE THESE INTAKES SO LONG?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.45
+   },
    "chapter": "5. The engine intakes",
    "short": "Why Were the Concorde's Engine Intakes So Long?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Concorde engine intake.jpg"
   },
   {
    "text": "The ramps moved all the time, depending on speed, altitude and temperature, and they were controlled by a digital computer. According to aviation historians, it was the first time a digital computer had full authority over an essential system on a passenger airplane. At Mach two, the intake was doing a huge share of the work of compressing the air.",
@@ -119,10 +139,14 @@
    "text": "Why did a passenger airliner have afterburners like a fighter jet? Afterburners spray extra fuel into the hot exhaust and burn it, for a big boost of thrust. Concorde's four Rolls-Royce Olympus engines used them only twice in a normal flight, for takeoff, and to push through the sound barrier, between about Mach zero point nine five and Mach one point seven.",
    "query": "Concorde afterburner",
    "caption": "WHY DID AN AIRLINER HAVE AFTERBURNERS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.35,
+    "y": 0.5
+   },
    "chapter": "6. The afterburners",
    "short": "Why Did the Concorde Have Afterburners?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Aerospatiale Concorde (42935940412).jpg"
   },
   {
    "text": "The sound barrier is where drag rises the most, and Concorde needed extra push to get through it quickly. Once above Mach one point seven, the afterburners were switched off, and Concorde cruised at twice the speed of sound without them. That is called supercruise, something very few airplanes have ever done, even military ones.",
@@ -138,10 +162,14 @@
    "text": "Why did Concorde pump its fuel from one end of the airplane to the other during flight? Because when an airplane goes supersonic, the point where the wing's lift acts moves backward, by about two meters on Concorde. That would make the nose want to pitch down. Normally you fix that with the tail controls, but on Concorde that would have created too much drag.",
    "query": "Concorde fuel tanks",
    "caption": "WHY DID THE FUEL MOVE IN FLIGHT?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.45
+   },
    "chapter": "7. The fuel that moved",
    "short": "Why Did the Concorde Move Its Fuel Around in Flight?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Concorde Fueling Control (7946110800).jpg"
   },
   {
    "text": "So the flight engineer moved the weight instead. During acceleration, fuel was pumped toward the back of the airplane, moving the center of gravity backward to follow the lift. When slowing down before landing, fuel was pumped forward again. The fuel was not only energy for the engines. It was also a moving weight that balanced the whole airplane.",
@@ -157,10 +185,14 @@
    "text": "Why did Concorde have such tiny passenger windows, about the size of a hand? Because it flew at around sixty thousand feet, almost twice as high as a normal airliner. Up there, if a window broke, the cabin would lose its air very fast, and the air outside is too thin to stay conscious for long. Small windows slow down the rate of pressure loss if the cabin is breached.",
    "query": "Concorde cabin windows",
    "caption": "WHY ARE THESE WINDOWS SO SMALL?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.53,
+    "y": 0.45
+   },
    "chapter": "8. The tiny windows",
    "short": "Why Did the Concorde Have Such Tiny Windows?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Concorde G-BBDG Windows.JPG"
   },
   {
    "text": "From that height, passengers could see the curve of the Earth and a dark blue sky above them. The cabin was pressurized to about six thousand feet, similar to a normal airliner. The cabin itself was narrow, about nine feet wide, with four seats per row. Speed was the luxury, not space.",
@@ -176,10 +208,14 @@
    "text": "Why was Concorde almost always painted white? Because white reflects heat. At Mach two, the skin got so hot that the aluminum airframe expanded, and Concorde grew between six and eight inches longer in flight. A special white paint kept the temperature as low as possible, because aluminum loses strength if it gets too hot for too long.",
    "query": "Concorde Air France",
    "caption": "WHY WAS CONCORDE ALWAYS WHITE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.4,
+    "y": 0.5
+   },
    "chapter": "9. The white paint",
    "short": "Why Was the Concorde Always White?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Air France Concorde at CDG.jpg"
   },
   {
    "text": "In nineteen ninety-six, Air France painted one Concorde in dark blue for a Pepsi promotion. Because dark paint absorbs more heat, that Concorde was allowed to fly at Mach two for no more than twenty minutes at a time. Below Mach one point seven, there was no limit. It is one of the few airplanes where the paint color changed the speed limit.",
@@ -195,10 +231,14 @@
    "text": "Why did Concorde have brakes made of carbon? Because it landed fast and heavy, and steel brakes would have been too heavy for the job. Concorde was the first airliner with carbon brakes, developed by Dunlop. They saved about one thousand two hundred pounds compared with steel brakes, and they could survive temperatures of three hundred to four hundred degrees Celsius after landing.",
    "query": "Concorde brakes",
    "caption": "WHY ARE THESE BRAKES MADE OF CARBON?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.4,
+    "y": 0.45
+   },
    "chapter": "10. The carbon brakes",
    "short": "Why Did the Concorde Have Carbon Brakes?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Concorde brake discs.jpg"
   },
   {
    "text": "Carbon brakes are now standard on most large airliners, from the Boeing seven forty-seven to the Airbus A three fifty. Like many Concorde ideas, they were too early and too expensive at first, and then became normal. Fly-by-wire controls, digital engine computers, carbon brakes, Concorde tested them in airline service before almost anyone else.",
