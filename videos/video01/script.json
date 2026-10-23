@@ -50,8 +50,8 @@
    "query": "de Havilland Comet airliner",
    "caption": "WHY ARE THESE ROUND?",
    "arrow": {
-    "x": 0.3,
-    "y": 0.35
+    "x": 0.25,
+    "y": 0.5
    },
    "chapter": "2. The round windows",
    "short": "Why Are Airplane Windows Never Square?",
@@ -97,8 +97,8 @@
    "query": "static discharger aircraft wing",
    "caption": "WHY ARE THESE STICKS HERE?",
    "arrow": {
-    "x": 0.3,
-    "y": 0.57
+    "x": 0.355,
+    "y": 0.49
    },
    "chapter": "4. The sticks on the wingtips",
    "short": "What Are These Sticks on Airplane Wings?",
