@@ -123,7 +123,7 @@ sc("""The next time you open a package, remember it probably rode in a steel box
 PICKS = {
     1: ("File:Portainers, WPAhoi, Waltershofer Hafen, Hamburg (P1080572).jpg", 0.37, 0.2),
     2: ("File:Hamburg Hafen Containerterminal.jpg", 0.28, 0.25),
-    3: ("File:Lifted container 01.jpg", 0.45, 0.33),
+    3: ("File:Lifted container 01.jpg", 0.45, 0.5),
     4: ("File:Container twistlock connector.agr.jpg", 0.5, 0.35),
     5: ("File:Good view from up here ... ABP Crane Driver's Cabin at Southampton - geograph.org.uk - 3057631.jpg", 0.55, 0.6),
     6: ("File:Ship-to-shore cranes at the Davao International Container Terminal.jpg", 0.38, 0.85),
