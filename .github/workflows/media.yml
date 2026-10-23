@@ -20,7 +20,13 @@ jobs:
       - name: Which job
         run: echo "JOB=${{ inputs.video || '' }}" >> $GITHUB_ENV && [ -n "${{ inputs.video }}" ] || echo "JOB=$(head -1 jobs/media.txt | tr -d '[:space:]')" >> $GITHUB_ENV
       - run: pip install -q requests pillow
-      - run: python pipeline/fetch_media.py "$JOB"
+      - run: set -o pipefail; python pipeline/fetch_media.py "$JOB" 2>&1 | tee /tmp/fetch.log
+      - name: Publish the log when the download fails
+        if: failure()
+        run: |
+          git config user.name "render-bot" && git config user.email "render-bot@users.noreply.github.com"
+          git checkout --orphan lg && git rm -rf -q . && cp /tmp/fetch.log fetch.log
+          git add -f fetch.log && git commit -q -m "media log $JOB" && git push -f origin lg:medialog-$JOB
       - name: Publish previews
         run: |
           V="$JOB"
