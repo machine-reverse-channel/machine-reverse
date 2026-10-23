@@ -1,0 +1,92 @@
+# Photo credits: Why Does a Bugatti Need 10 Radiators?
+
+All photos from Wikimedia Commons.
+
+- Bugatti Veyron 16.4 – Heckansicht (4), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Heckansicht_(4),_5._April_2012,_D%C3%BCsseldorf.jpg
+- Bugatti Veyron 16.4 – Frontansicht (3), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_(3),_5._April_2012,_D%C3%BCsseldorf.jpg
+- Bugatti Veyron 16.4 – Frontansicht (2), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_(2),_5._April_2012,_D%C3%BCsseldorf.jpg
+- Bugatti Veyron 16.4 – Frontansicht (1), 5. April 2012, Düsseldorf.jpg by M 93, CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_(1),_5._April_2012,_D%C3%BCsseldorf.jpg
+- 2009 Bugatti Veyron 16.4.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2009_Bugatti_Veyron_16.4.jpg
+- Bugatti Veyron 12.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_12.jpg
+- Bugatti Veyron 13.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_13.jpg
+- Bugatti Veyron 7.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_7.jpg
+- Bugatti Veyron Super Sport front view.jpg by Daytonaman955, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Super_Sport_front_view.jpg
+- Bugatti Veyron 2008 - 001.JPG by Ammar shaker, Public domain, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_2008_-_001.JPG
+- Bugatti Veyron Rear.jpg by MrWalkr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Rear.jpg
+- 2007 Bugatti Veyron SP24 Rear.jpg by MrWalkr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2007_Bugatti_Veyron_SP24_Rear.jpg
+- Bugatti Veyron EB 16.4 (2008) (52570116555).jpg by Charles from Port Chester, New York, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_EB_16.4_(2008)_(52570116555).jpg
+- Bugatti Veyron 10.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_10.jpg
+- Bugatti Veyron 5.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_5.jpg
+- Bugatti-veyron-1zu18.jpg by Fredy2310, Public domain, https://commons.wikimedia.org/wiki/File:Bugatti-veyron-1zu18.jpg
+- Bugatti Veyron Super Sport side view.jpg by Daytonaman955, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Super_Sport_side_view.jpg
+- Bugatti Veyron 2008 - 007.JPG by Ammar shaker, Public domain, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_2008_-_007.JPG
+- Bugatti Veyron 4.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_4.jpg
+- Bugatti W16, Berlin (1X7A3942).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_W16,_Berlin_(1X7A3942).jpg
+- W16 Engine Bugatti Chiron-P1010490.jpg by Heinz Reutersberg, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:W16_Engine_Bugatti_Chiron-P1010490.jpg
+- W16 Engine Bugatti Chiron-P1010489.jpg by Heinz Reutersberg, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:W16_Engine_Bugatti_Chiron-P1010489.jpg
+- Motor VR6 en un Porsche Cayenne.jpg by Iamjosemom, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Motor_VR6_en_un_Porsche_Cayenne.jpg
+- R32 Engine (36144764970).jpg by James Wigger from Norwich, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:R32_Engine_(36144764970).jpg
+- Full blue 2017 Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Full_blue_2017_Bugatti_Chiron_at_Grand_Basel_2018_(Ank_Kumar)_03.jpg
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 05.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_at_Grand_Basel_2018_(Ank_Kumar)_05.jpg
+- Twin Turbos on one side of a Bugatti W16 engine (53249394775).jpg by Thomas Vogt from Paderborn, Deutschland, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Twin_Turbos_on_one_side_of_a_Bugatti_W16_engine_(53249394775).jpg
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 06.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_at_Grand_Basel_2018_(Ank_Kumar)_06.jpg
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 03.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_at_Grand_Basel_2018_(Ank_Kumar)_03.jpg
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2857).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron,_IAA_2017,_Frankfurt_(1Y7A2857).jpg
+- 2021 Bugatti Chiron Pur Sport SP24 Rear.jpg by MrWalkr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2021_Bugatti_Chiron_Pur_Sport_SP24_Rear.jpg
+- Intercooler.jpg by Created by en:flickr user whiskertickle on June 29, 2007, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Intercooler.jpg
+- Nissan E-DR30 Skyline Hardtop 2000 TURBO INTERCOOLER RS･X (23052112125).jpg by 先従隗始, CC0, https://commons.wikimedia.org/wiki/File:Nissan_E-DR30_Skyline_Hardtop_2000_TURBO_INTERCOOLER_RS%EF%BD%A5X_(23052112125).jpg
+- Bugatti Veyron Engine 1X7A7930.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Engine_1X7A7930.jpg
+- Roof down (17160807946).jpg by Ben, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Roof_down_(17160807946).jpg
+- Bugatti Veyron 9.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_9.jpg
+- Bugatti Veyron EB 16.4 (2006) (55217087912).jpg by Charles from Port Chester, New York, CC0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_EB_16.4_(2006)_(55217087912).jpg
+- Bugatti Veyron at Top Gear Live 2012 (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_at_Top_Gear_Live_2012_(Ank_Kumar)_01.jpg
+- Bugatti Veyron 2008 - 005.JPG by Ammar shaker, Public domain, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_2008_-_005.JPG
+- Bugatti Veyron 8.0-litre W16-cylinder engine - Flickr - exfordy.jpg by Brian Snelson from Hockley, Essex, England, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_8.0-litre_W16-cylinder_engine_-_Flickr_-_exfordy.jpg
+- Bugatti Veyron EB 16.4 (2008) (52569212082).jpg by Charles from Port Chester, New York, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_EB_16.4_(2008)_(52569212082).jpg
+- Bugatti Veyron Super Sport rear view.jpg by Daytonaman955, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Super_Sport_rear_view.jpg
+- Bugatti Veyron 16.4 blue h TCE.jpg by Stahlkocher, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_16.4_blue_h_TCE.jpg
+- 2021 Bugatti Chiron Pur Sport in Atlantic Blue, rear right.jpg by Mr.choppers, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2021_Bugatti_Chiron_Pur_Sport_in_Atlantic_Blue,_rear_right.jpg
+- 2021 Bugatti Chiron Pur Sport in Atlantic Blue, front left.jpg by Mr.choppers, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2021_Bugatti_Chiron_Pur_Sport_in_Atlantic_Blue,_front_left.jpg
+- Classic Gallery, GIMS 2024, Le Grand-Saconnex (GIMS0132-2).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Classic_Gallery,_GIMS_2024,_Le_Grand-Saconnex_(GIMS0132-2).jpg
+- Bugatti Veyron Super Sport (5491917622).jpg by Autoviva, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Super_Sport_(5491917622).jpg
+- Bugatti Veyron scf25.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_scf25.jpg
+- Bugatti Veyron(Ank kumar, INFOSYS Limited) 09.jpg by Ank kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron(Ank_kumar,_INFOSYS_Limited)_09.jpg
+- Bugatti veyron driving (2991971967).jpg by Axion23, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bugatti_veyron_driving_(2991971967).jpg
+- Bugatti veyron orange & black driving (2992255743).jpg by Axion23, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bugatti_veyron_orange_%26_black_driving_(2992255743).jpg
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2855).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron,_IAA_2017,_Frankfurt_(1Y7A2855).jpg
+- Bugatti Chiron at Goodwood Festival of Speed - geograph.org.uk - 5008925.jpg by Oast House Archive, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_at_Goodwood_Festival_of_Speed_-_geograph.org.uk_-_5008925.jpg
+- Bugatti Veyron EB 16.4 Grand Sport (2010) (52129289255).jpg by Charles from Port Chester, New York, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_EB_16.4_Grand_Sport_(2010)_(52129289255).jpg
+- Bugatti Type 35.jpg by Dontpanic (Dogcow on de.wikipedia), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Bugatti_Type_35.jpg
+- Bugatti 35 B, Bj. 1925, Cockpit (2008-06-28).jpg by Spurzem - Lothar Spurzem, CC BY-SA 2.0 de, https://commons.wikimedia.org/wiki/File:Bugatti_35_B,_Bj._1925,_Cockpit_(2008-06-28).jpg
+- Bugatti Chiron, Auto 2025, Zurich (20251029-P1074241).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron,_Auto_2025,_Zurich_(20251029-P1074241).jpg
+- 2020 Bugatti Chiron Super Sport 300+ Prototype Front.jpg by Dylan Johnson, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2020_Bugatti_Chiron_Super_Sport_300%2B_Prototype_Front.jpg
+- Bugatti 35 B, Bj. 1925, Südschleife (2008-06-28).jpg by Spurzem - Lothar Spurzem, CC BY-SA 2.0 de, https://commons.wikimedia.org/wiki/File:Bugatti_35_B,_Bj._1925,_S%C3%BCdschleife_(2008-06-28).jpg
+- Bugatti Type 35 B at Cité de l'Automobile 202.jpg by Zairon, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Type_35_B_at_Cit%C3%A9_de_l%27Automobile_202.jpg
+- Bugatti Chiron, GIMS 2018, Le Grand-Saconnex (1X7A1765).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron,_GIMS_2018,_Le_Grand-Saconnex_(1X7A1765).jpg
+- Bugatti Chiron 110 Ans, GIMS 2019, Le Grand-Saconnex (GIMS9979).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_110_Ans,_GIMS_2019,_Le_Grand-Saconnex_(GIMS9979).jpg
+- Bugatti Chiron 2017.jpg by MrWalkr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_2017.jpg
+- Bugatti Chiron Royal Blue.jpg by MrWalkr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_Royal_Blue.jpg
+- Bugatti Chiron, IAA 2017, Frankfurt (1Y7A2860).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron,_IAA_2017,_Frankfurt_(1Y7A2860).jpg
+- Paris Motor Show 2018, Paris (1Y7A1026).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Paris_Motor_Show_2018,_Paris_(1Y7A1026).jpg
+- Bugatti Veyron EB 16.4 (2008) (52569946394).jpg by Charles from Port Chester, New York, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_EB_16.4_(2008)_(52569946394).jpg
+- Bugatti Veyron EB 16.4 (2007) (55079223190).jpg by Charles from Port Chester, New York, CC0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_EB_16.4_(2007)_(55079223190).jpg
+- Bugatti Veyron Grand Sport Vitesse.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_Grand_Sport_Vitesse.jpg
+- 2005 Bugatti Veyron Prototype 6.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2005_Bugatti_Veyron_Prototype_6.jpg
+- 2005 Bugatti Veyron Prototype 2.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2005_Bugatti_Veyron_Prototype_2.jpg
+- Bugatti Veyron(Ank kumar, INFOSYS Limited) 03.jpg by Ank kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron(Ank_kumar,_INFOSYS_Limited)_03.jpg
+- 2020 Bugatti Chiron Super Sport 300+ Rear.jpg by Joshua Hickey, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2020_Bugatti_Chiron_Super_Sport_300%2B_Rear.jpg
+- Ehra Testgelande.JPG by Vanellus, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Ehra_Testgelande.JPG
+- 2020 Bugatti Chiron Super Sport 300+ Prototype.jpg by Liam Walker, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2020_Bugatti_Chiron_Super_Sport_300%2B_Prototype.jpg
+- 2022 Bugatti Chiron Super Sport WRE.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2022_Bugatti_Chiron_Super_Sport_WRE.jpg
+- BugattiVeyronSuperSport.jpg by Autoviva, CC BY 2.0, https://commons.wikimedia.org/wiki/File:BugattiVeyronSuperSport.jpg
+- Bugatti Veyron F1.jpg by MrWalkr, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_F1.jpg
+- Bugatti cars at Legendy 2019 in Prague.jpg by Jiří Sedláček, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_cars_at_Legendy_2019_in_Prague.jpg
+- FoS20162016 0624 132444AA (27785299372).jpg by Matthew Lamb, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:FoS20162016_0624_132444AA_(27785299372).jpg
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar ) 05.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_at_Grand_Basel_2018_(Ank_Kumar_)_05.jpg
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar) 07.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_at_Grand_Basel_2018_(Ank_Kumar)_07.jpg
+- Bugatti Chiron 1.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_1.jpg
+- Bugatti Chiron at Grand Basel 2018 (Ank Kumar ) 03.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bugatti_Chiron_at_Grand_Basel_2018_(Ank_Kumar_)_03.jpg
+- Bugatti Veyron (35007838772).jpg by Alexandre Prévot from Nancy, France, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Bugatti_Veyron_(35007838772).jpg
+- Ferrari 458 Italia Spider x 2 and Bugatti Veyron (15120052991).jpg by Axion23, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Ferrari_458_Italia_Spider_x_2_and_Bugatti_Veyron_(15120052991).jpg
+- Bug at night (8495695259).jpg by Ben, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Bug_at_night_(8495695259).jpg
+- Miami Concours parking.jpg by Joseph Zadeh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Miami_Concours_parking.jpg
