@@ -24,10 +24,14 @@
    "text": "Why do pilots on many airlines eat different meals? Because if both pilots get food poisoning at the same time, there is nobody left to fly the airplane. On February third, nineteen seventy-five, a Japan Air Lines flight stopped in Anchorage on its way to Copenhagen. The breakfast was ham omelettes, contaminated by a cook with infected cuts on his fingers. About an hour later, one hundred forty-four people on board were sick.",
    "query": "Japan Air Lines Boeing 747 1970s",
    "caption": "WHY CAN'T PILOTS EAT THE SAME MEAL?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.55
+   },
    "chapter": "1. The different meals",
    "short": "Why Do Pilots Never Eat the Same Meal?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Approaching ORY, in the cockpit.jpg"
   },
   {
    "text": "The flight landed safely for one reason. By pure chance, the captain and first officer had eaten steak instead of the omelettes. The airline had no rule about crew meals. An investigator recommended that cockpit crews eat meals prepared by different cooks, and many airlines adopted the idea. Today, it is common for the captain and first officer to get different dishes, and some airlines ask them not to eat at the same time.",
@@ -43,10 +47,14 @@
    "text": "Why does the captain of an airliner always sit in the left seat? There is no single law of physics behind it. One common explanation goes back to early aviation, when pilots usually turned left around airfields and in holding patterns, and sitting on the left gave them the best view in the turn. Over time, the left seat became the command seat, and airliners were designed around it, with the controls and displays arranged for a captain on the left.",
    "query": "airliner cockpit captain seat",
    "caption": "WHY DOES THE CAPTAIN SIT ON THE LEFT?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.2,
+    "y": 0.6
+   },
    "chapter": "2. The captain's seat",
    "short": "Why Does the Captain Always Sit on the Left?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Boeing 737-300 Cockpit.jpg"
   },
   {
    "text": "On many airliners, only the left seat has the tiller, a small wheel used to steer the nose wheel while taxiing. So on the ground, the captain often taxis the airplane. In the air, the two pilots take turns flying, one as pilot flying and the other as pilot monitoring. The four stripes on the captain's sleeve and the left seat both mean the same thing. The final decision is made there.",
@@ -62,10 +70,14 @@
    "text": "Why do pilots stop chatting below ten thousand feet? Because of the sterile cockpit rule. During takeoff, landing, taxi and any flight below ten thousand feet except cruise, pilots are forbidden from non-essential activities. No casual conversation, no eating, no reading unrelated material, and no non-urgent calls from the cabin. The rule was introduced by the Federal Aviation Administration in nineteen eighty-one, after a series of accidents caused by distraction.",
    "query": "cockpit approach pilots",
    "caption": "WHY DO PILOTS STOP TALKING HERE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "3. The silence below ten thousand feet",
    "short": "Why Pilots Stop Talking Below 10,000 Feet",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:B737-original crew in cockpit during final approach.jpg"
   },
   {
    "text": "One of those accidents was Eastern Air Lines Flight two twelve in nineteen seventy-four. It crashed short of the runway at Charlotte in dense fog. Investigators found that the crew had been talking about unrelated topics during the approach, and lost track of their altitude. The idea of the rule is that the most dangerous minutes of a flight deserve one hundred percent of the pilots' attention.",
@@ -81,10 +93,14 @@
    "text": "Why do pilots have special oxygen masks next to their seats? Because if the cabin loses pressure at high altitude, a person can lose useful consciousness in seconds. So the rules say the pilots' mask must be placed on the face from its ready position, sealed and supplying oxygen, with one hand, within five seconds. It is a quick donning mask. You squeeze the harness, it inflates, you pull it over your head, and it tightens on its own.",
    "query": "pilot quick donning oxygen mask",
    "caption": "WHY MUST THIS MASK GO ON IN 5 SECONDS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.6,
+    "y": 0.28
+   },
    "chapter": "4. The five second mask",
    "short": "Why Pilots Must Put On Their Mask in 5 Seconds",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:U.S. Air Force Tech. Sgt. Vidal Hill, with the 18th Aeromedical Evacuation Squadron, wears a quick don oxygen mask while preparing for a mission aboard a C-130H Hercules aircraft during Air Mobility Rodeo 2011 110725-F-RM405-010.jpg"
   },
   {
    "text": "The masks are tested before flight, and pilots practice putting them on in the simulator. Many also include smoke goggles, because the same mask protects against smoke in the cockpit. And at very high altitude, the rules are even stricter. Under US rules, above forty-one thousand feet, one pilot at the controls must wear and use the oxygen mask at all times. Two pilots, two masks, and one always ready.",
@@ -100,10 +116,14 @@
    "text": "Why is there a rope stored above the cockpit side windows on many airliners? Because those side windows can open. On jets like the Airbus A three twenty and many Boeing models, the side windows slide back. If the cockpit door is blocked after an accident, the pilots can open the window, drop the rope outside, and climb down to the ground. It is the pilots' own emergency exit.",
    "query": "airliner cockpit sliding window",
    "caption": "WHY IS THERE A ROPE ABOVE THE WINDOW?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.12,
+    "y": 0.32
+   },
    "chapter": "5. The rope above the window",
    "short": "Why Is There a Rope in the Airplane Cockpit?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Boeing 737 S7 VQ-BKW cockpit May 2011.jpg"
   },
   {
    "text": "The windows are also useful in normal life. Pilots can open them on the ground to talk to ground crew, to clear smoke, or simply to see better. In some cases, pilots have even flown with the window open at low speed to see the runway after a windshield was damaged. A window that opens on an airplane flying at forty thousand feet sounds dangerous. On the ground, it can save your life.",
@@ -119,10 +139,14 @@
    "text": "Why is there an axe in the cockpit of an airliner? Under US rules, airplanes with more than nineteen passenger seats must carry a crash axe. It is not a weapon. It is a tool for fire. A fire can start behind a wall panel, in wiring you cannot reach. The axe lets the crew cut through the panel to find the fire and attack it with an extinguisher. It can also be used to remove barriers or cabin parts after an accident.",
    "query": "aircraft crash axe",
    "caption": "WHY IS THERE AN AXE IN THE COCKPIT?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.28,
+    "y": 0.62
+   },
    "chapter": "6. The axe in the cockpit",
    "short": "Why Is There an Axe in Every Airplane Cockpit?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Airbus A320-211 Vueling EC-FNR cockpit (6503776229).jpg"
   },
   {
    "text": "The crash axe is kept where the crew can reach it, but passengers cannot during normal flight, usually in the cockpit. Its handle is typically insulated, because the panels it cuts through are full of electrical wires. A hidden fire is one of the most dangerous things on an airplane, because by the time you see smoke, it may have been growing for a while. The axe exists to buy time.",
@@ -138,10 +162,14 @@
    "text": "Why is the windshield of an airliner heated, even on a warm day? Two reasons. First, to stop ice and fog from blocking the view. Second, and less obvious, heat makes the layers of the windshield tougher. An airliner windshield is a sandwich of glass and plastic layers, and warm plastic absorbs impacts better than cold, brittle plastic. And it needs to. The rules say a windshield must survive hitting a four pound bird at the airplane's design cruising speed at sea level.",
    "query": "airliner cockpit windshield",
    "caption": "WHY IS THIS WINDSHIELD HEATED?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.35,
+    "y": 0.38
+   },
    "chapter": "7. The heated windshield",
    "short": "Why Are Airplane Windshields Heated?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Cockpit windows of a Boeing 787 (1).jpg"
   },
   {
    "text": "The tail is held to an even higher standard. It must survive an eight pound bird, because a damaged tail could make the airplane uncontrollable. Birds are not a theory. Most bird strikes happen near the ground, during takeoff and landing, which is exactly when a pilot most needs to see out. A windshield that cracks but holds is a successful windshield.",
@@ -157,10 +185,14 @@
    "text": "Why are some cockpit switches hidden under small covers, often red or striped? Because some switches must never be moved by accident. Things like engine fuel cutoff, emergency power, or a system that cannot easily be turned back on. The cover forces the pilot to do two separate actions, lift the guard, then move the switch. That extra step turns an accidental bump into something that almost cannot happen.",
    "query": "cockpit guarded switch",
    "caption": "WHY ARE THESE SWITCHES COVERED?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.19,
+    "y": 0.27
+   },
    "chapter": "8. The covered switches",
    "short": "Why Are Some Cockpit Switches Under Covers?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Overhead panel of an Airbus A320 during cruise.jpg"
   },
   {
    "text": "Cockpit designers use many tricks like this. Some switches must be pulled out before they can move. Some levers have different shapes so they can be identified by touch, even in smoke or darkness. The landing gear lever on many airplanes ends in a small wheel shape, and the flap lever in a wing shape. A pilot's hand can tell them apart without looking.",
@@ -176,10 +208,14 @@
    "text": "Why are there big handles in the middle of the cockpit that can light up red? They are the engine fire handles. If an engine catches fire, its handle lights up and an alarm sounds. On many airliners, pulling the handle shuts off fuel, hydraulic fluid and bleed air to that engine and arms the fire extinguishers. Turning it then fires an extinguisher bottle into the engine. If the fire is still burning, the pilots can fire a second bottle.",
    "query": "engine fire handle cockpit",
    "caption": "WHY DO THESE HANDLES LIGHT UP RED?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.7
+   },
    "chapter": "9. The fire handles",
    "short": "What Happens When a Pilot Pulls the Fire Handle?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Boeing 737-300 Cockpit.jpg"
   },
   {
    "text": "Before pulling a fire handle, pilots confirm which engine they are dealing with, often by both touching the handle and saying it out loud. Shutting down the wrong engine is one of the worst mistakes in aviation, and it has happened. So the procedure is slow on purpose, even in an emergency. Confirm, then act. In the cockpit, speed is less important than being right.",
@@ -194,11 +230,15 @@
   {
    "text": "Why is there a small microphone in the cockpit ceiling, between the pilots? It feeds the cockpit voice recorder, one of the two black boxes. It records the pilots' voices, the radio, and the sounds of the cockpit, like alarms, switches, and even engine noise. After an accident, those sounds can tell investigators what the crew knew, what they did, and when. And despite the name, black boxes are painted bright orange so they can be found.",
    "query": "cockpit voice recorder",
-   "caption": "WHY IS THERE A MICROPHONE HERE?",
-   "arrow": true,
+   "caption": "WHY DOES THIS BOX HEAR THE PILOTS?",
+   "arrow": {
+    "x": 0.5,
+    "y": 0.45
+   },
    "chapter": "10. The microphone above the pilots",
    "short": "Why Is There a Microphone Above the Pilots?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Cockpit voice recorders.JPG"
   },
   {
    "text": "For years, cockpit voice recorders in the United States kept only the last two hours, recording over older audio. That meant important sounds could be erased if an airplane kept running after an incident. In twenty twenty-six, the Federal Aviation Administration set a twenty-five hour standard for newly built airliners. More recording means more chances to understand what went wrong, and to write the next rule before it happens again.",

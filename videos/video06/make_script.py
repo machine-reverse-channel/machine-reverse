@@ -110,7 +110,7 @@ sc("""Fire handles are also checked before every flight. Pilots press a test swi
    "cockpit fire test switch", "TEST BEFORE YOU TRUST")
 
 # ---------- 10. CVR ----------
-part(10, "The microphone above the pilots", "WHY IS THERE A MICROPHONE HERE?", "Why Is There a Microphone Above the Pilots?",
+part(10, "The microphone above the pilots", "WHY DOES THIS BOX HEAR THE PILOTS?", "Why Is There a Microphone Above the Pilots?",
      """Why is there a small microphone in the cockpit ceiling, between the pilots? It feeds the cockpit voice recorder, one of the two black boxes. It records the pilots' voices, the radio, and the sounds of the cockpit, like alarms, switches, and even engine noise. After an accident, those sounds can tell investigators what the crew knew, what they did, and when. And despite the name, black boxes are painted bright orange so they can be found.""",
      "cockpit voice recorder")
 sc("""For years, cockpit voice recorders in the United States kept only the last two hours, recording over older audio. That meant important sounds could be erased if an airplane kept running after an incident. In twenty twenty-six, the Federal Aviation Administration set a twenty-five hour standard for newly built airliners. More recording means more chances to understand what went wrong, and to write the next rule before it happens again.""",
@@ -127,6 +127,16 @@ sc("""The cockpit is where aviation keeps its memory. Almost every rule in it wa
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Approaching ORY, in the cockpit.jpg", 0.5, 0.55),
+    2: ("File:Boeing 737-300 Cockpit.jpg", 0.2, 0.6),
+    3: ("File:B737-original crew in cockpit during final approach.jpg", 0.5, 0.5),
+    4: ("File:U.S. Air Force Tech. Sgt. Vidal Hill, with the 18th Aeromedical Evacuation Squadron, wears a quick don oxygen mask while preparing for a mission aboard a C-130H Hercules aircraft during Air Mobility Rodeo 2011 110725-F-RM405-010.jpg", 0.6, 0.28),
+    5: ("File:Boeing 737 S7 VQ-BKW cockpit May 2011.jpg", 0.12, 0.32),
+    6: ("File:Airbus A320-211 Vueling EC-FNR cockpit (6503776229).jpg", 0.28, 0.62),
+    7: ("File:Cockpit windows of a Boeing 787 (1).jpg", 0.35, 0.38),
+    8: ("File:Overhead panel of an Airbus A320 during cruise.jpg", 0.19, 0.27),
+    9: ("File:Boeing 737-300 Cockpit.jpg", 0.5, 0.7),
+    10: ("File:Cockpit voice recorders.JPG", 0.5, 0.45),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
