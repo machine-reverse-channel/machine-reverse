@@ -1,0 +1,1323 @@
+1
+00:00:00,000 --> 00:00:02,597
+Watch the wheels of a Rolls-Royce as
+
+2
+00:00:02,597 --> 00:00:03,680
+it drives away.
+
+3
+00:00:03,860 --> 00:00:05,200
+The wheels spin,
+
+4
+00:00:05,200 --> 00:00:07,127
+but the R R logo in the
+
+5
+00:00:07,127 --> 00:00:09,724
+middle stays perfectly upright,
+
+6
+00:00:09,724 --> 00:00:12,070
+as if it were painted on the
+
+7
+00:00:12,070 --> 00:00:12,405
+air.
+
+8
+00:00:12,585 --> 00:00:13,807
+It is not magic,
+
+9
+00:00:13,807 --> 00:00:16,021
+and it is not a camera trick.
+
+10
+00:00:16,201 --> 00:00:19,185
+Today, ten parts of a Rolls-Royce that
+
+11
+00:00:19,185 --> 00:00:21,069
+look like luxury tricks,
+
+12
+00:00:21,069 --> 00:00:24,444
+and the engineering reason behind each one.
+
+13
+00:00:24,795 --> 00:00:28,515
+Rolls-Royce has one simple idea behind almost
+
+14
+00:00:28,515 --> 00:00:30,251
+everything it builds.
+
+15
+00:00:30,431 --> 00:00:32,201
+The car should feel calm,
+
+16
+00:00:32,201 --> 00:00:33,687
+quiet and effortless,
+
+17
+00:00:33,687 --> 00:00:35,882
+for the person in the back seat
+
+18
+00:00:35,882 --> 00:00:37,722
+as much as for the driver.
+
+19
+00:00:37,902 --> 00:00:40,817
+Many of its strange parts exist to
+
+20
+00:00:40,817 --> 00:00:42,617
+protect that feeling,
+
+21
+00:00:42,617 --> 00:00:44,074
+by hiding effort,
+
+22
+00:00:44,074 --> 00:00:47,674
+noise and small annoyances that other cars
+
+23
+00:00:47,674 --> 00:00:48,874
+simply accept.
+
+24
+00:00:49,223 --> 00:00:52,141
+As always, every fact here comes from
+
+25
+00:00:52,141 --> 00:00:53,324
+a named source,
+
+26
+00:00:53,324 --> 00:00:56,320
+Rolls-Royce and automotive references,
+
+27
+00:00:56,320 --> 00:00:58,686
+all listed in the description.
+
+28
+00:00:58,866 --> 00:01:00,839
+Let's start with the wheels.
+
+29
+00:01:01,189 --> 00:01:03,238
+Why does the logo in the middle
+
+30
+00:01:03,238 --> 00:01:05,485
+of a Rolls-Royce wheel never spin?
+
+31
+00:01:05,665 --> 00:01:07,797
+Because it is not attached to the
+
+32
+00:01:07,797 --> 00:01:08,185
+wheel.
+
+33
+00:01:08,365 --> 00:01:10,599
+The badge sits on its own small
+
+34
+00:01:10,599 --> 00:01:12,834
+bearing, so it can turn freely.
+
+35
+00:01:13,014 --> 00:01:14,241
+Under the badge,
+
+36
+00:01:14,241 --> 00:01:16,541
+a small weight is fixed at the
+
+37
+00:01:16,541 --> 00:01:17,078
+bottom.
+
+38
+00:01:17,258 --> 00:01:18,658
+As the wheel turns,
+
+39
+00:01:18,658 --> 00:01:21,532
+gravity keeps pulling that weight down,
+
+40
+00:01:21,532 --> 00:01:24,038
+so the badge always stays upright.
+
+41
+00:01:24,388 --> 00:01:26,142
+It works like a pendulum.
+
+42
+00:01:26,322 --> 00:01:28,682
+The wheel rotates around the badge,
+
+43
+00:01:28,682 --> 00:01:31,177
+but the weight keeps the badge level,
+
+44
+00:01:31,177 --> 00:01:33,604
+the same way a hanging picture stays
+
+45
+00:01:33,604 --> 00:01:36,301
+straight while you turn the frame around
+
+46
+00:01:36,301 --> 00:01:36,504
+it.
+
+47
+00:01:36,684 --> 00:01:40,654
+Rolls-Royce calls them self righting wheel centres.
+
+48
+00:01:40,834 --> 00:01:43,154
+They became a feature of its cars
+
+49
+00:01:43,154 --> 00:01:44,631
+in the two thousands.
+
+50
+00:01:44,980 --> 00:01:45,863
+Why bother?
+
+51
+00:01:46,043 --> 00:01:49,417
+Because photos of parked cars always show
+
+52
+00:01:49,417 --> 00:01:51,556
+a perfectly straight logo,
+
+53
+00:01:51,556 --> 00:01:53,449
+and when the car moves,
+
+54
+00:01:53,449 --> 00:01:55,424
+the logo stays readable.
+
+55
+00:01:55,604 --> 00:01:57,168
+It is a small detail,
+
+56
+00:01:57,168 --> 00:01:59,327
+but it says the same thing as
+
+57
+00:01:59,327 --> 00:02:00,817
+the rest of the car.
+
+58
+00:02:00,997 --> 00:02:02,947
+Even the wheels should look calm.
+
+59
+00:02:03,297 --> 00:02:05,875
+Why is there an umbrella hidden inside
+
+60
+00:02:05,875 --> 00:02:07,639
+the door of a Rolls-Royce?
+
+61
+00:02:07,819 --> 00:02:10,117
+Because the moment of getting out of
+
+62
+00:02:10,117 --> 00:02:12,288
+the car is part of the experience.
+
+63
+00:02:12,468 --> 00:02:13,329
+If it rains,
+
+64
+00:02:13,329 --> 00:02:15,981
+the passenger should not step out and
+
+65
+00:02:15,981 --> 00:02:18,418
+get wet while someone looks for an
+
+66
+00:02:18,418 --> 00:02:19,063
+umbrella.
+
+67
+00:02:19,243 --> 00:02:21,157
+So it sits in a tube inside
+
+68
+00:02:21,157 --> 00:02:23,214
+the door, ready to slide out.
+
+69
+00:02:23,563 --> 00:02:26,431
+The engineering problem is the water.
+
+70
+00:02:26,611 --> 00:02:28,919
+A wet umbrella put back into a
+
+71
+00:02:28,919 --> 00:02:31,380
+door would drip into the car and
+
+72
+00:02:31,380 --> 00:02:33,380
+could damage it over time.
+
+73
+00:02:33,560 --> 00:02:35,969
+So the umbrella sits in its own
+
+74
+00:02:35,969 --> 00:02:38,767
+compartment, designed to let it dry,
+
+75
+00:02:38,767 --> 00:02:41,176
+away from the rest of the door.
+
+76
+00:02:41,356 --> 00:02:44,037
+The fabric is also treated to shed
+
+77
+00:02:44,037 --> 00:02:45,141
+water quickly.
+
+78
+00:02:45,490 --> 00:02:47,003
+It is a tiny part,
+
+79
+00:02:47,003 --> 00:02:49,441
+but it became one of the most
+
+80
+00:02:49,441 --> 00:02:51,795
+famous details of the brand.
+
+81
+00:02:51,975 --> 00:02:54,808
+It shows how Rolls-Royce thinks.
+
+82
+00:02:54,988 --> 00:02:57,176
+Not only about how the car drives,
+
+83
+00:02:57,176 --> 00:02:59,494
+but about the full minute before and
+
+84
+00:02:59,494 --> 00:03:00,524
+after the drive,
+
+85
+00:03:00,524 --> 00:03:02,906
+including the walk to the front door.
+
+86
+00:03:03,255 --> 00:03:05,810
+Why does the little silver statue on
+
+87
+00:03:05,810 --> 00:03:08,933
+a Rolls-Royce bonnet disappear into the car?
+
+88
+00:03:09,113 --> 00:03:12,126
+The statue is the Spirit of Ecstasy,
+
+89
+00:03:12,126 --> 00:03:14,720
+and it is a target for thieves.
+
+90
+00:03:14,900 --> 00:03:16,731
+On modern Rolls-Royce cars,
+
+91
+00:03:16,731 --> 00:03:18,832
+it sits on a mechanism that can
+
+92
+00:03:18,832 --> 00:03:20,798
+pull it down into the grille.
+
+93
+00:03:20,978 --> 00:03:22,667
+When the car is locked,
+
+94
+00:03:22,667 --> 00:03:24,870
+or if someone tries to pull it
+
+95
+00:03:24,870 --> 00:03:26,853
+off, it drops out of sight.
+
+96
+00:03:27,202 --> 00:03:30,360
+The mechanism is also about safety.
+
+97
+00:03:30,540 --> 00:03:33,146
+A hard metal statue on the front
+
+98
+00:03:33,146 --> 00:03:35,751
+of a car could hurt a pedestrian
+
+99
+00:03:35,751 --> 00:03:36,972
+in an accident.
+
+100
+00:03:37,152 --> 00:03:39,132
+If the car hits something,
+
+101
+00:03:39,132 --> 00:03:42,331
+the mascot is designed to retract quickly,
+
+102
+00:03:42,331 --> 00:03:44,234
+so it does not stick out.
+
+103
+00:03:44,414 --> 00:03:47,792
+A beautiful ornament becomes a safer part
+
+104
+00:03:47,792 --> 00:03:48,698
+of the car.
+
+105
+00:03:49,048 --> 00:03:52,081
+The statue itself goes back to nineteen
+
+106
+00:03:52,081 --> 00:03:54,726
+eleven, sculpted by Charles Sykes.
+
+107
+00:03:54,906 --> 00:03:56,835
+More than a century later,
+
+108
+00:03:56,835 --> 00:03:58,690
+it is still on every car,
+
+109
+00:03:58,690 --> 00:04:01,435
+now made lower and slightly leaner to
+
+110
+00:04:01,435 --> 00:04:02,696
+help the airflow.
+
+111
+00:04:02,876 --> 00:04:04,526
+On the electric Spectre,
+
+112
+00:04:04,526 --> 00:04:07,414
+Rolls-Royce reshaped it to cut through the
+
+113
+00:04:07,414 --> 00:04:08,170
+air better.
+
+114
+00:04:08,520 --> 00:04:10,525
+Why do the rear doors of a
+
+115
+00:04:10,525 --> 00:04:12,607
+Rolls-Royce open backwards?
+
+116
+00:04:12,787 --> 00:04:14,820
+They are hinged at the rear,
+
+117
+00:04:14,820 --> 00:04:16,999
+like the doors of an old horse
+
+118
+00:04:16,999 --> 00:04:20,121
+drawn coach, which is why Rolls-Royce calls
+
+119
+00:04:20,121 --> 00:04:21,355
+them coach doors.
+
+120
+00:04:21,535 --> 00:04:23,118
+With the door open,
+
+121
+00:04:23,118 --> 00:04:25,700
+there is no door frame in front
+
+122
+00:04:25,700 --> 00:04:27,117
+of the passenger,
+
+123
+00:04:27,117 --> 00:04:30,115
+so they can step out facing forward,
+
+124
+00:04:30,115 --> 00:04:31,532
+upright and calm.
+
+125
+00:04:31,881 --> 00:04:33,731
+With a normal rear door,
+
+126
+00:04:33,731 --> 00:04:36,505
+you twist your body and squeeze past
+
+127
+00:04:36,505 --> 00:04:38,046
+the door to get out.
+
+128
+00:04:38,226 --> 00:04:39,590
+With a coach door,
+
+129
+00:04:39,590 --> 00:04:42,394
+you simply stand up and walk forward.
+
+130
+00:04:42,574 --> 00:04:44,736
+And when the front and rear doors
+
+131
+00:04:44,736 --> 00:04:45,653
+are both open,
+
+132
+00:04:45,653 --> 00:04:47,814
+the whole side of the cabin opens
+
+133
+00:04:47,814 --> 00:04:48,600
+like a gate.
+
+134
+00:04:48,780 --> 00:04:50,988
+It makes getting in and out look
+
+135
+00:04:50,988 --> 00:04:53,609
+elegant, which matters for a car often
+
+136
+00:04:53,609 --> 00:04:54,782
+filmed at events.
+
+137
+00:04:55,132 --> 00:04:57,902
+Rear hinged doors can be dangerous if
+
+138
+00:04:57,902 --> 00:05:00,074
+they swing open while moving,
+
+139
+00:05:00,074 --> 00:05:02,095
+which is why they had a bad
+
+140
+00:05:02,095 --> 00:05:03,817
+reputation in the past.
+
+141
+00:05:03,997 --> 00:05:07,980
+Modern Rolls-Royce doors are locked while driving,
+
+142
+00:05:07,980 --> 00:05:10,848
+and a button inside closes them with
+
+143
+00:05:10,848 --> 00:05:11,485
+a motor.
+
+144
+00:05:11,665 --> 00:05:14,591
+The passenger never has to stretch out
+
+145
+00:05:14,591 --> 00:05:16,669
+and pull a heavy door shut.
+
+146
+00:05:17,019 --> 00:05:19,005
+Why is there a sky full of
+
+147
+00:05:19,005 --> 00:05:21,907
+stars on the ceiling of a Rolls-Royce?
+
+148
+00:05:22,087 --> 00:05:24,572
+It is called the Starlight headliner.
+
+149
+00:05:24,752 --> 00:05:27,028
+Hundreds or even more than a thousand
+
+150
+00:05:27,028 --> 00:05:29,365
+tiny lights are woven into the leather
+
+151
+00:05:29,365 --> 00:05:30,534
+of the roof lining.
+
+152
+00:05:30,714 --> 00:05:33,044
+They are the ends of fibre optic
+
+153
+00:05:33,044 --> 00:05:35,957
+cables, thin strands of glass that carry
+
+154
+00:05:35,957 --> 00:05:37,923
+light from a hidden source.
+
+155
+00:05:38,273 --> 00:05:40,704
+Each point of light is placed by
+
+156
+00:05:40,704 --> 00:05:43,439
+hand, and customers can even ask for
+
+157
+00:05:43,439 --> 00:05:45,034
+a real constellation,
+
+158
+00:05:45,034 --> 00:05:47,313
+like the sky on the night they
+
+159
+00:05:47,313 --> 00:05:48,072
+were born.
+
+160
+00:05:48,252 --> 00:05:51,296
+Because the light comes through fibres,
+
+161
+00:05:51,296 --> 00:05:53,481
+there is no heat and no bulb
+
+162
+00:05:53,481 --> 00:05:54,417
+in the roof.
+
+163
+00:05:54,597 --> 00:05:56,717
+The whole sky is lit from a
+
+164
+00:05:56,717 --> 00:05:59,543
+source far away from the passengers.
+
+165
+00:05:59,892 --> 00:06:02,725
+The reason is the same calm feeling.
+
+166
+00:06:02,905 --> 00:06:06,318
+At night, a dark cabin feels small
+
+167
+00:06:06,318 --> 00:06:07,422
+and closed.
+
+168
+00:06:07,602 --> 00:06:10,105
+A soft starry sky makes it feel
+
+169
+00:06:10,105 --> 00:06:11,478
+open and relaxed,
+
+170
+00:06:11,478 --> 00:06:14,466
+without the glare of a normal reading
+
+171
+00:06:14,466 --> 00:06:14,951
+light.
+
+172
+00:06:15,131 --> 00:06:17,529
+It became one of the most requested
+
+173
+00:06:17,529 --> 00:06:19,995
+options in the history of the brand.
+
+174
+00:06:20,345 --> 00:06:23,117
+Why does a Rolls-Royce have cameras that
+
+175
+00:06:23,117 --> 00:06:24,572
+watch the road ahead?
+
+176
+00:06:24,752 --> 00:06:26,598
+To prepare the suspension.
+
+177
+00:06:26,778 --> 00:06:29,738
+Rolls-Royce calls the system Flagbearer.
+
+178
+00:06:29,918 --> 00:06:32,598
+Cameras in the windscreen look at the
+
+179
+00:06:32,598 --> 00:06:34,409
+road in front of the car,
+
+180
+00:06:34,409 --> 00:06:36,075
+and if they see a bump,
+
+181
+00:06:36,075 --> 00:06:39,407
+the suspension adjusts before the wheels reach
+
+182
+00:06:39,407 --> 00:06:39,624
+it.
+
+183
+00:06:39,973 --> 00:06:41,947
+The name comes from history.
+
+184
+00:06:42,127 --> 00:06:44,307
+In the early days of the car
+
+185
+00:06:44,307 --> 00:06:46,798
+in Britain, a person had to walk
+
+186
+00:06:46,798 --> 00:06:49,600
+in front of a motor vehicle carrying
+
+187
+00:06:49,600 --> 00:06:50,456
+a red flag,
+
+188
+00:06:50,456 --> 00:06:51,624
+to warn others.
+
+189
+00:06:51,804 --> 00:06:55,204
+Rolls-Royce named its camera after that person,
+
+190
+00:06:55,204 --> 00:06:57,880
+because it also walks ahead and warns
+
+191
+00:06:57,880 --> 00:06:59,978
+the car about what is coming.
+
+192
+00:07:00,327 --> 00:07:03,384
+The goal is what Rolls-Royce calls the
+
+193
+00:07:03,384 --> 00:07:04,832
+magic carpet ride.
+
+194
+00:07:05,012 --> 00:07:08,807
+Air springs and electronically controlled dampers soften
+
+195
+00:07:08,807 --> 00:07:11,246
+each bump, and the camera gives them
+
+196
+00:07:11,246 --> 00:07:12,466
+time to get ready.
+
+197
+00:07:12,646 --> 00:07:14,935
+The car should feel like it floats
+
+198
+00:07:14,935 --> 00:07:15,878
+over the road,
+
+199
+00:07:15,878 --> 00:07:17,696
+not like it is fighting it.
+
+200
+00:07:18,046 --> 00:07:20,434
+Why does a Rolls-Royce have no rev
+
+201
+00:07:20,434 --> 00:07:20,995
+counter?
+
+202
+00:07:21,175 --> 00:07:23,860
+A normal sports car shows how fast
+
+203
+00:07:23,860 --> 00:07:25,675
+the engine is spinning,
+
+204
+00:07:25,675 --> 00:07:27,886
+so the driver can push it to
+
+205
+00:07:27,886 --> 00:07:28,675
+the limit.
+
+206
+00:07:28,855 --> 00:07:32,267
+A Rolls-Royce shows a gauge called the
+
+207
+00:07:32,267 --> 00:07:34,242
+power reserve instead.
+
+208
+00:07:34,422 --> 00:07:36,075
+It tells you how much of the
+
+209
+00:07:36,075 --> 00:07:38,022
+engine's power you are not using.
+
+210
+00:07:38,371 --> 00:07:41,492
+The gauge usually shows a large reserve,
+
+211
+00:07:41,492 --> 00:07:44,223
+often close to one hundred percent.
+
+212
+00:07:44,403 --> 00:07:45,715
+That is the point.
+
+213
+00:07:45,895 --> 00:07:48,738
+The six point seven five litre V
+
+214
+00:07:48,738 --> 00:07:52,113
+twelve engine is designed to make huge
+
+215
+00:07:52,113 --> 00:07:55,134
+pulling force at low engine speed,
+
+216
+00:07:55,134 --> 00:07:58,509
+so the car moves smoothly without ever
+
+217
+00:07:58,509 --> 00:07:59,664
+working hard.
+
+218
+00:07:59,844 --> 00:08:02,629
+The gauge reminds the driver how much
+
+219
+00:08:02,629 --> 00:08:04,059
+is still available.
+
+220
+00:08:04,408 --> 00:08:07,012
+It is a dashboard that matches the
+
+221
+00:08:07,012 --> 00:08:08,008
+brand's idea.
+
+222
+00:08:08,188 --> 00:08:10,531
+A sports car tells you how hard
+
+223
+00:08:10,531 --> 00:08:11,589
+it is working.
+
+224
+00:08:11,769 --> 00:08:15,416
+A Rolls-Royce tells you how easy everything
+
+225
+00:08:15,416 --> 00:08:15,670
+is.
+
+226
+00:08:15,850 --> 00:08:18,689
+The name sounds like a fine mechanical
+
+227
+00:08:18,689 --> 00:08:21,528
+watch, where a power reserve shows how
+
+228
+00:08:21,528 --> 00:08:23,919
+long the watch can keep running.
+
+229
+00:08:24,099 --> 00:08:26,084
+The idea is the same.
+
+230
+00:08:26,264 --> 00:08:27,025
+Look at it,
+
+231
+00:08:27,025 --> 00:08:29,170
+and you know you will never run
+
+232
+00:08:29,170 --> 00:08:29,585
+short.
+
+233
+00:08:29,934 --> 00:08:32,287
+Why does the Rolls-Royce grille look like
+
+234
+00:08:32,287 --> 00:08:33,893
+the front of a Greek temple?
+
+235
+00:08:34,073 --> 00:08:36,260
+It is called the Pantheon grille,
+
+236
+00:08:36,260 --> 00:08:38,578
+after the ancient building in Rome.
+
+237
+00:08:38,758 --> 00:08:41,060
+Its vertical bars and straight,
+
+238
+00:08:41,060 --> 00:08:44,921
+proud shape were inspired by classical architecture,
+
+239
+00:08:44,921 --> 00:08:46,926
+and it has been the face of
+
+240
+00:08:46,926 --> 00:08:49,079
+the brand for over a century.
+
+241
+00:08:49,429 --> 00:08:51,659
+It started as a working part.
+
+242
+00:08:51,839 --> 00:08:54,305
+Early cars needed a big radiator at
+
+243
+00:08:54,305 --> 00:08:56,984
+the front, and the grille protected it
+
+244
+00:08:56,984 --> 00:08:58,816
+while letting air through.
+
+245
+00:08:58,996 --> 00:09:01,528
+The vertical bars were simple to make
+
+246
+00:09:01,528 --> 00:09:03,512
+and let air flow straight in.
+
+247
+00:09:03,692 --> 00:09:07,035
+Rolls-Royce shaped that functional part to look
+
+248
+00:09:07,035 --> 00:09:09,950
+dignified, and it never changed the idea.
+
+249
+00:09:10,300 --> 00:09:12,206
+On the electric Spectre,
+
+250
+00:09:12,206 --> 00:09:15,065
+there is no engine radiator to cool,
+
+251
+00:09:15,065 --> 00:09:16,732
+but the grille stays.
+
+252
+00:09:16,912 --> 00:09:18,487
+On some newer models,
+
+253
+00:09:18,487 --> 00:09:20,512
+it is even lit from behind.
+
+254
+00:09:20,692 --> 00:09:23,498
+A part born from cooling became a
+
+255
+00:09:23,498 --> 00:09:24,093
+symbol.
+
+256
+00:09:24,273 --> 00:09:27,596
+That is why every Rolls-Royce is recognisable
+
+257
+00:09:27,596 --> 00:09:29,590
+from a hundred metres away,
+
+258
+00:09:29,590 --> 00:09:30,624
+even at night.
+
+259
+00:09:30,974 --> 00:09:33,038
+Why is the thin line along the
+
+260
+00:09:33,038 --> 00:09:35,652
+side of a Rolls-Royce painted by hand?
+
+261
+00:09:35,832 --> 00:09:37,816
+It is called the coachline,
+
+262
+00:09:37,816 --> 00:09:40,020
+and for many years it has been
+
+263
+00:09:40,020 --> 00:09:42,886
+painted by one craftsman at the factory
+
+264
+00:09:42,886 --> 00:09:45,311
+in Goodwood, with a brush made of
+
+265
+00:09:45,311 --> 00:09:46,339
+squirrel hair.
+
+266
+00:09:46,519 --> 00:09:47,995
+A machine could do it,
+
+267
+00:09:47,995 --> 00:09:50,544
+but Rolls-Royce wants the line to show
+
+268
+00:09:50,544 --> 00:09:51,953
+the hand of a person.
+
+269
+00:09:52,302 --> 00:09:54,357
+The line runs the length of the
+
+270
+00:09:54,357 --> 00:09:56,412
+car and must be perfectly even.
+
+271
+00:09:56,592 --> 00:09:58,596
+The painter works freehand,
+
+272
+00:09:58,596 --> 00:10:00,896
+with a steady hand and years of
+
+273
+00:10:00,896 --> 00:10:03,419
+practice, and the job takes hours.
+
+274
+00:10:03,599 --> 00:10:06,142
+Any mistake means starting again.
+
+275
+00:10:06,322 --> 00:10:09,378
+Customers can ask for their initials or
+
+276
+00:10:09,378 --> 00:10:11,964
+a small design painted at the end
+
+277
+00:10:11,964 --> 00:10:12,905
+of the line.
+
+278
+00:10:13,255 --> 00:10:15,835
+The coachline also goes back to horse
+
+279
+00:10:15,835 --> 00:10:18,835
+drawn carriages, which had painted lines to
+
+280
+00:10:18,835 --> 00:10:21,765
+show off the craftsmanship of the builder.
+
+281
+00:10:21,945 --> 00:10:24,778
+On a Rolls-Royce it is a signature,
+
+282
+00:10:24,778 --> 00:10:27,369
+a reminder that the car is built
+
+283
+00:10:27,369 --> 00:10:28,584
+for one person,
+
+284
+00:10:28,584 --> 00:10:31,256
+not mass produced on a fast line.
+
+285
+00:10:31,606 --> 00:10:34,914
+Why is a Rolls-Royce so quiet inside?
+
+286
+00:10:35,094 --> 00:10:37,912
+Because silence is engineered,
+
+287
+00:10:37,912 --> 00:10:39,320
+piece by piece.
+
+288
+00:10:39,500 --> 00:10:43,101
+Rolls-Royce uses more than a hundred kilograms
+
+289
+00:10:43,101 --> 00:10:45,606
+of sound insulation in its cars,
+
+290
+00:10:45,606 --> 00:10:46,624
+in the floor,
+
+291
+00:10:46,624 --> 00:10:49,285
+the doors, the roof and around the
+
+292
+00:10:49,285 --> 00:10:49,833
+engine.
+
+293
+00:10:50,013 --> 00:10:52,722
+The glass is made with two layers,
+
+294
+00:10:52,722 --> 00:10:55,830
+with a sound blocking layer in between.
+
+295
+00:10:56,180 --> 00:10:58,176
+Even the tyres are special.
+
+296
+00:10:58,356 --> 00:11:00,720
+They have a layer of foam inside,
+
+297
+00:11:00,720 --> 00:11:03,371
+which absorbs the hollow sound that a
+
+298
+00:11:03,371 --> 00:11:05,520
+normal tyre makes as it rolls.
+
+299
+00:11:05,700 --> 00:11:08,810
+The aluminium frame is designed to avoid
+
+300
+00:11:08,810 --> 00:11:11,841
+vibrations that could hum in the cabin.
+
+301
+00:11:12,021 --> 00:11:14,667
+Each source of noise has its own
+
+302
+00:11:14,667 --> 00:11:15,412
+solution.
+
+303
+00:11:15,762 --> 00:11:18,586
+The engineers even found that a cabin
+
+304
+00:11:18,586 --> 00:11:19,883
+can be too quiet.
+
+305
+00:11:20,063 --> 00:11:21,909
+In near total silence,
+
+306
+00:11:21,909 --> 00:11:25,012
+people start to hear small sounds and
+
+307
+00:11:25,012 --> 00:11:26,019
+feel uneasy.
+
+308
+00:11:26,199 --> 00:11:29,079
+So Rolls-Royce tuned the sound of the
+
+309
+00:11:29,079 --> 00:11:30,713
+cabin to keep a soft,
+
+310
+00:11:30,713 --> 00:11:33,281
+low background, like a calm room.
+
+311
+00:11:33,461 --> 00:11:35,688
+Silence, it turns out,
+
+312
+00:11:35,688 --> 00:11:38,117
+also has to be designed.
+
+313
+00:11:38,467 --> 00:11:39,918
+So here are the ten.
+
+314
+00:11:40,098 --> 00:11:42,977
+A floating logo that stays upright.
+
+315
+00:11:43,157 --> 00:11:45,084
+An umbrella in the door.
+
+316
+00:11:45,264 --> 00:11:47,203
+A statue that hides.
+
+317
+00:11:47,383 --> 00:11:49,589
+Doors that open backwards.
+
+318
+00:11:49,769 --> 00:11:51,615
+Stars on the ceiling.
+
+319
+00:11:51,795 --> 00:11:53,838
+A camera that reads the road.
+
+320
+00:11:54,018 --> 00:11:56,288
+A gauge that shows the power you
+
+321
+00:11:56,288 --> 00:11:57,281
+are not using.
+
+322
+00:11:57,461 --> 00:11:59,075
+A temple shaped grille.
+
+323
+00:11:59,255 --> 00:12:01,159
+A line painted by hand.
+
+324
+00:12:01,339 --> 00:12:03,863
+And a cabin where even the silence
+
+325
+00:12:03,863 --> 00:12:04,903
+is engineered.
+
+326
+00:12:05,253 --> 00:12:06,983
+Luxury, at this level,
+
+327
+00:12:06,983 --> 00:12:10,129
+is really engineering that hides effort.
+
+328
+00:12:10,309 --> 00:12:13,375
+If you want more machines explained part
+
+329
+00:12:13,375 --> 00:12:16,288
+by part, subscribe to Machine Reverse.
+
+330
+00:12:16,468 --> 00:12:18,867
+And tell us in the comments which
+
+331
+00:12:18,867 --> 00:12:21,994
+detail of a Rolls-Royce surprised you most.
