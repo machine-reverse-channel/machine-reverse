@@ -32,7 +32,8 @@ def download(url, fatal=True):
         if r.status_code == 200:
             return r.content
         print("download", r.status_code, url)
-        time.sleep(5 * (attempt + 1))
+        wait = r.headers.get("Retry-After", "")  # upload.wikimedia.org answers 429 to bursts
+        time.sleep(int(wait) if wait.isdigit() else 5 * (attempt + 1))
     if fatal:
         raise SystemExit(f"download failed: {url}")
     return None
@@ -71,7 +72,8 @@ def exact(title):
         if not info.get("url"):
             return None
         meta = info.get("extmetadata", {})
-        return {"title": p["title"], "url": info.get("thumburl") or info["url"], "page": info["descriptionurl"],
+        return {"title": p["title"], "url": info.get("thumburl") or info["url"], "original": info["url"],
+                "page": info["descriptionurl"],
                 "license": meta.get("LicenseShortName", {}).get("value", ""),
                 "artist": meta.get("Artist", {}).get("value", "unknown")}
     return None
@@ -90,6 +92,12 @@ def main(video):
                 f.write_bytes(pathlib.Path(s["local"]).read_bytes()); last = f; print(i, k, s["local"]); continue
             m = exact(s["file"]) if k == 0 and s.get("file") else None
             data = download(m["url"], fatal=False) if m else None
+            for retry in range(3):  # the arrow only fits the chosen photo, so try hard before giving up on it
+                if data is not None or not (k == 0 and s.get("file")):
+                    break
+                print(i, k, "exact photo retry", retry); time.sleep(60)
+                m = m or exact(s["file"])
+                data = download(m["url"] if retry % 2 else m["original"], fatal=False) if m else None
             if m and data is None:  # the chosen photo would not download: fall back to a search rather than fail
                 print(i, k, "exact photo failed, searching instead"); m = None
             if m is None:
