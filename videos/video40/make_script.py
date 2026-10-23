@@ -127,7 +127,7 @@ PICKS = {
     4: ('File:Finnish icebreaker Polaris (24 March 2017).jpg', 0.5, 0.65),
     5: ('File:Ship, ice breaking, winter, river, shore Fortepan 75138.jpg', 0.5, 0.55),
     6: ('File:Jääkarhu propellers by P Smit.jpg', 0.5, 0.5),
-    7: ('File:Russian Nuclear Icebreaker Arktika.jpg', 0.6, 0.45),
+    7: ('File:Russian Nuclear Icebreaker Arktika.jpg', 0.55, 0.68),
     8: ('File:Polaris bollardpull 2016-04-26.jpg', 0.65, 0.6),
     9: ('File:Icebreaker SHIRASE - しらせ- the stern of shirase.jpg', 0.5, 0.6),
     10: ('File:Oblique icebreaker Baltika (29 March 2015).jpg', 0.55, 0.63),
