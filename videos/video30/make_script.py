@@ -121,6 +121,16 @@ sc("""Luxury, at this level, is really engineering that hides effort. If you wan
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ('File:2012 alloy wheel of Rolls-Royce Phantom in BMW-Museum in Munich, Bayern.JPG', 0.4, 0.6),
+    2: ('File:2011-03-04 Autosalon Genf 1295.JPG', 0.72, 0.45),
+    3: ('File:Spirit of Ecstasy HMC.jpg', 0.45, 0.35),
+    4: ('File:Geneva MotorShow 2013 - Rolls-Royce Phantom Coupé opened door.jpg', 0.3, 0.45),
+    5: ('File:Rolls-Royce Phantom VIII Series II Scivaro Grey Peony Pink Iceland Moss (12).jpg', 0.35, 0.25),
+    6: ('File:Rolls-Royce Phantom, Geneva International Motor Show 2018, Le Grand-Saconnex (1X7A1220).jpg', 0.4, 0.25),
+    7: ('File:Rolls Royce Phantom Drophead Coupe (Ank Kumar) 01.jpg', 0.2, 0.33),
+    8: ('File:Rolls-Royce Phantom front view at BMW Museum, Munich.jpg', 0.5, 0.5),
+    9: ('File:Rolls-Royce Phantom VIII EWB White (12).jpg', 0.5, 0.32),
+    10: ('File:Rolls Royce Ghost 2015 (23149918661).jpg', 0.45, 0.5),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None

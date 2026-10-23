@@ -121,6 +121,16 @@ sc("""A door that opens upward is not just showing off. It is the answer to a ca
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ('File:Lamborghini Countach LP500 S (52687277904).jpg', 0.25, 0.3),
+    2: ('File:Doors of Mercedes-Benz 300 SL Gullwing at Legendy 2014.JPG', 0.3, 0.35),
+    3: ('File:NEC Birmingham 1992 Car Show Mclaren - 49998978063.jpg', 0.45, 0.25),
+    4: ('File:2012-03-07 Motorshow Geneva 4598.JPG', 0.25, 0.55),
+    5: ('File:Tesla Model X P100DL.jpg', 0.6, 0.28),
+    6: ('File:McLaren 720S-doors open.jpg', 0.62, 0.6),
+    7: ('File:McLaren F1 door mechanism.jpg', 0.47, 0.3),
+    8: ('File:Ford GT40 at London Motor Museum (Ank Kumar) 02.jpg', 0.48, 0.35),
+    9: ('File:1981 DeLorean DMC-12 - 15966569236.jpg', 0.4, 0.3),
+    10: ('File:Mercedes-Benz SLS AMG (C 197) – Frontansicht geöffnet, 10. August 2011, Düsseldorf.jpg', 0.45, 0.3),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
