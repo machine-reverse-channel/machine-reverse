@@ -71,8 +71,8 @@
    "query": "railway wheelset",
    "caption": "WHY CAN'T THESE WHEELS TURN SEPARATELY?",
    "arrow": {
-    "x": 0.5,
-    "y": 0.45
+    "x": 0.8,
+    "y": 0.33
    },
    "chapter": "3. The solid axle",
    "short": "Why Do Train Wheels Turn Together on One Axle?",
@@ -94,7 +94,7 @@
    "query": "rail cant tie plate",
    "caption": "WHY ARE THESE RAILS LEANING INWARD?",
    "arrow": {
-    "x": 0.62,
+    "x": 0.78,
     "y": 0.55
    },
    "chapter": "4. The tilted rail",
@@ -186,8 +186,8 @@
    "query": "wheel tapping hammer",
    "caption": "WHY DID WORKERS HIT TRAIN WHEELS WITH HAMMERS?",
    "arrow": {
-    "x": 0.6,
-    "y": 0.6
+    "x": 0.45,
+    "y": 0.5
    },
    "chapter": "8. The hammer test",
    "short": "Why Did Railway Workers Hit Wheels With Hammers?",

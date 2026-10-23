@@ -123,12 +123,12 @@ sc("""The next time you ride a train, remember that it is steering itself with a
 PICKS = {
     1: ("File:Колёсные пары f001.jpg", 0.6, 0.55),
     2: ("File:Wheelsets of rail vehicles with fitted journals.jpg", 0.43, 0.7),
-    3: ("File:Колёсные пары f003.jpg", 0.5, 0.45),
-    4: ("File:Continuous welded rail track.JPG", 0.62, 0.55),
+    3: ("File:Колёсные пары f003.jpg", 0.8, 0.33),
+    4: ("File:Continuous welded rail track.JPG", 0.78, 0.55),
     5: ("File:Close-up of a bogie of a TRA EMU700 coach at Taichung Station.jpg", 0.45, 0.6),
     6: ("File:Grinding thermite welded track to create smooth continuous rail. 04-12-19 (46729514965).jpg", 0.42, 0.55),
     7: ("File:Sandbox 270.JPG", 0.72, 0.35),
-    8: ("File:Wheel tapper.jpg", 0.6, 0.6),
+    8: ("File:Wheel tapper.jpg", 0.45, 0.5),
     9: ("File:AAR knuckle coupler connection.jpg", 0.5, 0.5),
     10: ("File:Luftleitung-01.jpg", 0.5, 0.53),
 }
