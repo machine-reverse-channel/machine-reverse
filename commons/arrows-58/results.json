@@ -1,0 +1,656 @@
+{
+ "aerial marker ball": [
+  {
+   "title": "File:Flugwarnkugel.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Flugwarnkugel.jpg/960px-Flugwarnkugel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5184x3888"
+  },
+  {
+   "title": "File:Overhead power line clearing in Sweden - grizzlybear.se 497.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Overhead_power_line_clearing_in_Sweden_-_grizzlybear.se_497.jpg/960px-Overhead_power_line_clearing_in_Sweden_-_grizzlybear.se_497.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "3008x2000"
+  },
+  {
+   "title": "File:Electricity pylons and overhead wire markers, 2021 Nagyt\u00e9t\u00e9ny.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Electricity_pylons_and_overhead_wire_markers%2C_2021_Nagyt%C3%A9t%C3%A9ny.jpg/960px-Electricity_pylons_and_overhead_wire_markers%2C_2021_Nagyt%C3%A9t%C3%A9ny.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "2167x1626"
+  },
+  {
+   "title": "File:Egg-over Bregenzer Ache (Tuppenbruecke)-Overhead wire markers-01ASD.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Egg-over_Bregenzer_Ache_%28Tuppenbruecke%29-Overhead_wire_markers-01ASD.jpg/960px-Egg-over_Bregenzer_Ache_%28Tuppenbruecke%29-Overhead_wire_markers-01ASD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4000x3000"
+  },
+  {
+   "title": "File:Overhead Power Line in Tin Wan.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Overhead_Power_Line_in_Tin_Wan.jpg/960px-Overhead_Power_Line_in_Tin_Wan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4736x3552"
+  },
+  {
+   "title": "File:Wire marker near Deest.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Wire_marker_near_Deest.jpg/960px-Wire_marker_near_Deest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4320x3240"
+  },
+  {
+   "title": "File:Wire marker signals danger for helicopters 20090327 011.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Wire_marker_signals_danger_for_helicopters_20090327_011.JPG/960px-Wire_marker_signals_danger_for_helicopters_20090327_011.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "4272x2848"
+  },
+  {
+   "title": "File:Wire marker signals danger for helicopters 20090327 012.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Wire_marker_signals_danger_for_helicopters_20090327_012.JPG/960px-Wire_marker_signals_danger_for_helicopters_20090327_012.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "4272x2848"
+  }
+ ],
+ "power line marker ball": [
+  {
+   "title": "File:Essex v Wales at Bishop's Stortford, Herts, England, National Over 60s County Championship 203.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Essex_v_Wales_at_Bishop%27s_Stortford%2C_Herts%2C_England%2C_National_Over_60s_County_Championship_203.jpg/960px-Essex_v_Wales_at_Bishop%27s_Stortford%2C_Herts%2C_England%2C_National_Over_60s_County_Championship_203.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4608x3072"
+  },
+  {
+   "title": "File:Essex v Wales at Bishop's Stortford, Herts, England, National Over 60s County Championship 240.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Essex_v_Wales_at_Bishop%27s_Stortford%2C_Herts%2C_England%2C_National_Over_60s_County_Championship_240.jpg/960px-Essex_v_Wales_at_Bishop%27s_Stortford%2C_Herts%2C_England%2C_National_Over_60s_County_Championship_240.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4608x3072"
+  },
+  {
+   "title": "File:Essex v Wales at Bishop's Stortford, Herts, England, National Over 60s County Championship 241.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Essex_v_Wales_at_Bishop%27s_Stortford%2C_Herts%2C_England%2C_National_Over_60s_County_Championship_241.jpg/960px-Essex_v_Wales_at_Bishop%27s_Stortford%2C_Herts%2C_England%2C_National_Over_60s_County_Championship_241.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4608x3072"
+  },
+  {
+   "title": "File:Essex v Wales at Bishop's Stortford, Herts, England, National Over 60s County Championship 258.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Essex_v_Wales_at_Bishop%27s_Stortford%2C_Herts%2C_England%2C_National_Over_60s_County_Championship_258.jpg/960px-Essex_v_Wales_at_Bishop%27s_Stortford%2C_Herts%2C_England%2C_National_Over_60s_County_Championship_258.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3272x4363"
+  },
+  {
+   "title": "File:Enclos-des-fusills---ereperk-der-gefusilleerden-1 3612425638 o 24.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Enclos-des-fusills---ereperk-der-gefusilleerden-1_3612425638_o_24.jpg/960px-Enclos-des-fusills---ereperk-der-gefusilleerden-1_3612425638_o_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "1600x1200"
+  },
+  {
+   "title": "File:Enclos-des-fusills---ereperk-der-gefusilleerden-2 3612425632 o 02.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Enclos-des-fusills---ereperk-der-gefusilleerden-2_3612425632_o_02.jpg/960px-Enclos-des-fusills---ereperk-der-gefusilleerden-2_3612425632_o_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "1600x1200"
+  },
+  {
+   "title": "File:Enclos-des-fusills---ereperk-der-gefusilleerden-1 3612425638 o 12.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Enclos-des-fusills---ereperk-der-gefusilleerden-1_3612425638_o_12.jpg/960px-Enclos-des-fusills---ereperk-der-gefusilleerden-1_3612425638_o_12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "1600x1200"
+  },
+  {
+   "title": "File:Enclos-des-fusills---ereperk-der-gefusilleerden-walter-kriss 3611946676 o.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Enclos-des-fusills---ereperk-der-gefusilleerden-walter-kriss_3611946676_o.jpg/960px-Enclos-des-fusills---ereperk-der-gefusilleerden-walter-kriss_3611946676_o.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "1600x1200"
+  }
+ ],
+ "Stockbridge damper": [
+  {
+   "title": "File:Stockbridge damper on 150kV power line Maarheeze - Eindhoven Oost.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Stockbridge_damper_on_150kV_power_line_Maarheeze_-_Eindhoven_Oost.jpg/960px-Stockbridge_damper_on_150kV_power_line_Maarheeze_-_Eindhoven_Oost.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4308x2872"
+  },
+  {
+   "title": "File:Stockbridge damper-closeup.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Stockbridge_damper-closeup.jpg/960px-Stockbridge_damper-closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "1024x714"
+  },
+  {
+   "title": "File:Stockbridge damper new - clamp.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Stockbridge_damper_new_-_clamp.jpg/960px-Stockbridge_damper_new_-_clamp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4291x2861"
+  },
+  {
+   "title": "File:Stockbridge damper new with ruler.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Stockbridge_damper_new_with_ruler.jpg/960px-Stockbridge_damper_new_with_ruler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5098x2868"
+  },
+  {
+   "title": "File:Stockbridge damper new - large weight.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Stockbridge_damper_new_-_large_weight.jpg/960px-Stockbridge_damper_new_-_large_weight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3250x4875"
+  },
+  {
+   "title": "File:Stockbridge damper new small weight.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Stockbridge_damper_new_small_weight.jpg/960px-Stockbridge_damper_new_small_weight.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3587x5380"
+  },
+  {
+   "title": "File:Stockbridge damper (cropped).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Stockbridge_damper_%28cropped%29.jpg/960px-Stockbridge_damper_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "1110x1047"
+  },
+  {
+   "title": "File:Close-up of a stockbridge damper in Svente Parish, Latvia.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Close-up_of_a_stockbridge_damper_in_Svente_Parish%2C_Latvia.jpg/960px-Close-up_of_a_stockbridge_damper_in_Svente_Parish%2C_Latvia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 3.0",
+   "size": "4608x3072"
+  }
+ ],
+ "power line spacer": [
+  {
+   "title": "File:Power Line Bundle Spacer.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Power_Line_Bundle_Spacer.jpg/960px-Power_Line_Bundle_Spacer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "4032x3024"
+  },
+  {
+   "title": "File:Spacer Electric Line Chandigre West Garo Oct24 A7CR 03547.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Spacer_Electric_Line_Chandigre_West_Garo_Oct24_A7CR_03547.jpg/960px-Spacer_Electric_Line_Chandigre_West_Garo_Oct24_A7CR_03547.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5244x3496"
+  },
+  {
+   "title": "File:Kashima Power Line 03.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Kashima_Power_Line_03.jpg/960px-Kashima_Power_Line_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 3.0",
+   "size": "3888x2592"
+  },
+  {
+   "title": "File:Tsurunuma Power Line 01.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Tsurunuma_Power_Line_01.jpg/960px-Tsurunuma_Power_Line_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 3.0",
+   "size": "3358x2239"
+  },
+  {
+   "title": "File:Kashima Power Line 04.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Kashima_Power_Line_04.jpg/960px-Kashima_Power_Line_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 3.0",
+   "size": "2536x3804"
+  },
+  {
+   "title": "File:Kashima Power Line 07.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Kashima_Power_Line_07.jpg/960px-Kashima_Power_Line_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "3777x2517"
+  },
+  {
+   "title": "File:Kashima Power Line 02.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Kashima_Power_Line_02.jpg/960px-Kashima_Power_Line_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 3.0",
+   "size": "3798x2532"
+  },
+  {
+   "title": "File:Kashima Power Line 08.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Kashima_Power_Line_08.jpg/960px-Kashima_Power_Line_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "5946x3964"
+  }
+ ],
+ "transmission tower": [
+  {
+   "title": "File:Transmission towers at sunset in East Texas.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Transmission_towers_at_sunset_in_East_Texas.jpg/960px-Transmission_towers_at_sunset_in_East_Texas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "1832x1222"
+  },
+  {
+   "title": "File:Ada Bridge pylon (Sava river, Belgrade).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Ada_Bridge_pylon_%28Sava_river%2C_Belgrade%29.jpg/960px-Ada_Bridge_pylon_%28Sava_river%2C_Belgrade%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4608x3456"
+  },
+  {
+   "title": "File:Raitersaich SK DSC 0028.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Raitersaich_SK_DSC_0028.jpg/960px-Raitersaich_SK_DSC_0028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0 de",
+   "size": "4193x2785"
+  },
+  {
+   "title": "File:Anchor tower of overhead powerline.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Anchor_tower_of_overhead_powerline.jpg/960px-Anchor_tower_of_overhead_powerline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "1536x2048"
+  },
+  {
+   "title": "File:Pylon Ada Bridge.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Pylon_Ada_Bridge.jpg/960px-Pylon_Ada_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3643x4773"
+  },
+  {
+   "title": "File:Transmission tower in a forest.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Transmission_tower_in_a_forest.jpg/960px-Transmission_tower_in_a_forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3072x4080"
+  },
+  {
+   "title": "File:Electrical Transmission Tower - Norris, Tennessee - March 8, 2015.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Electrical_Transmission_Tower_-_Norris%2C_Tennessee_-_March_8%2C_2015.jpg/960px-Electrical_Transmission_Tower_-_Norris%2C_Tennessee_-_March_8%2C_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "4638x3092"
+  },
+  {
+   "title": "File:A TRANSMISSION TOWER IN SHENZHEN.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/A_TRANSMISSION_TOWER_IN_SHENZHEN.jpg/960px-A_TRANSMISSION_TOWER_IN_SHENZHEN.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "8192x5464"
+  }
+ ],
+ "power line insulator": [
+  {
+   "title": "File:Top of power line pole - west side.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Top_of_power_line_pole_-_west_side.jpg/960px-Top_of_power_line_pole_-_west_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4725x3600"
+  },
+  {
+   "title": "File:Top of power line pole - east side.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Top_of_power_line_pole_-_east_side.jpg/960px-Top_of_power_line_pole_-_east_side.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4725x3600"
+  },
+  {
+   "title": "File:Insulator on an overhead powerline.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Insulator_on_an_overhead_powerline.jpg/960px-Insulator_on_an_overhead_powerline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5108x3405"
+  },
+  {
+   "title": "File:Power line insulators.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Power_line_insulators.jpg/960px-Power_line_insulators.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "3000x4000"
+  },
+  {
+   "title": "File:Insulator Power Off - sign on St. Charles Streetcar line, New Orleans Feb 2025.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Insulator_Power_Off_-_sign_on_St._Charles_Streetcar_line%2C_New_Orleans_Feb_2025.jpg/960px-Insulator_Power_Off_-_sign_on_St._Charles_Streetcar_line%2C_New_Orleans_Feb_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5184x3888"
+  },
+  {
+   "title": "File:Insulator Power Off - sign on St. Charles Streetcar line, New Orleans Feb 2025 B.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Insulator_Power_Off_-_sign_on_St._Charles_Streetcar_line%2C_New_Orleans_Feb_2025_B.jpg/960px-Insulator_Power_Off_-_sign_on_St._Charles_Streetcar_line%2C_New_Orleans_Feb_2025_B.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3888x5184"
+  },
+  {
+   "title": "File:Power line with ceramic insulators.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Power_line_with_ceramic_insulators.jpg/960px-Power_line_with_ceramic_insulators.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "2896x2465"
+  },
+  {
+   "title": "File:Insulators for 66kV Power Line (Ibaraki,Japan) 01.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Insulators_for_66kV_Power_Line_%28Ibaraki%2CJapan%29_01.jpg/960px-Insulators_for_66kV_Power_Line_%28Ibaraki%2CJapan%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 3.0",
+   "size": "6000x4000"
+  }
+ ],
+ "high voltage insulator string": [
+  {
+   "title": "File:High-voltage Transmission Insulator 2005.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/High-voltage_Transmission_Insulator_2005.JPG/960px-High-voltage_Transmission_Insulator_2005.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "2048x3072"
+  },
+  {
+   "title": "File:Pont-l'Abb\u00e9 high-voltage substation 17 - Switches.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Pont-l%27Abb%C3%A9_high-voltage_substation_17_-_Switches.jpg/960px-Pont-l%27Abb%C3%A9_high-voltage_substation_17_-_Switches.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "3649x2662"
+  },
+  {
+   "title": "File:Pont-l'Abb\u00e9 high-voltage substation 14 - Transformer connections.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Pont-l%27Abb%C3%A9_high-voltage_substation_14_-_Transformer_connections.jpg/960px-Pont-l%27Abb%C3%A9_high-voltage_substation_14_-_Transformer_connections.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "3699x2759"
+  },
+  {
+   "title": "File:High voltage insulators, University of Liverpool.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/High_voltage_insulators%2C_University_of_Liverpool.jpg/960px-High_voltage_insulators%2C_University_of_Liverpool.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3456x5184"
+  },
+  {
+   "title": "File:High Voltage Transmission Line Insulator - Howrah 2011-03-19 1874.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/High_Voltage_Transmission_Line_Insulator_-_Howrah_2011-03-19_1874.JPG/960px-High_Voltage_Transmission_Line_Insulator_-_Howrah_2011-03-19_1874.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 3.0",
+   "size": "3000x4000"
+  },
+  {
+   "title": "File:High-voltage Transmission Insulators.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/High-voltage_Transmission_Insulators.JPG/960px-High-voltage_Transmission_Insulators.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "2272x1704"
+  },
+  {
+   "title": "File:HIGH VOLTAGE STANDOFF INSULATOR - NARA - 17425254.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/HIGH_VOLTAGE_STANDOFF_INSULATOR_-_NARA_-_17425254.jpg/960px-HIGH_VOLTAGE_STANDOFF_INSULATOR_-_NARA_-_17425254.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "4900x6213"
+  },
+  {
+   "title": "File:High voltage cables with glass insulators.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/High_voltage_cables_with_glass_insulators.jpg/960px-High_voltage_cables_with_glass_insulators.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4160x3120"
+  }
+ ],
+ "bird diverter power line": [
+  {
+   "title": "File:Power line bird flight diverter - geograph.org.uk - 6065689.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Power_line_bird_flight_diverter_-_geograph.org.uk_-_6065689.jpg/960px-Power_line_bird_flight_diverter_-_geograph.org.uk_-_6065689.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "1024x1024"
+  },
+  {
+   "title": "File:Power line bird diverters at Moss Landing, California.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Power_line_bird_diverters_at_Moss_Landing%2C_California.jpg/960px-Power_line_bird_diverters_at_Moss_Landing%2C_California.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "2656x1768"
+  },
+  {
+   "title": "File:Bird Flight Diverters - geograph.org.uk - 7049973.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Bird_Flight_Diverters_-_geograph.org.uk_-_7049973.jpg/960px-Bird_Flight_Diverters_-_geograph.org.uk_-_7049973.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "1024x576"
+  },
+  {
+   "title": "File:Biodiversity - Pelicans (P-046419-00-53).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Biodiversity_-_Pelicans_%28P-046419-00-53%29.jpg/960px-Biodiversity_-_Pelicans_%28P-046419-00-53%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "4107x2532"
+  },
+  {
+   "title": "File:Biodiversity - Pelicans (P-046419-00-47).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Biodiversity_-_Pelicans_%28P-046419-00-47%29.jpg/960px-Biodiversity_-_Pelicans_%28P-046419-00-47%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "4639x3093"
+  },
+  {
+   "title": "File:Biodiversity - Pelicans (P-046419-00-45).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Biodiversity_-_Pelicans_%28P-046419-00-45%29.jpg/960px-Biodiversity_-_Pelicans_%28P-046419-00-45%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "3483x2322"
+  },
+  {
+   "title": "File:Biodiversity - Pelicans (P-046419-00-52).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Biodiversity_-_Pelicans_%28P-046419-00-52%29.jpg/960px-Biodiversity_-_Pelicans_%28P-046419-00-52%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "3490x2323"
+  },
+  {
+   "title": "File:US Navy 100304-N-6932B-091 The electrical distribution system at Naval Support Facility Indian Head, Md., is retrofitted with flight diverters on utility lines, plastic phase covers and fiberglass cross arms to prevent mortalit.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/US_Navy_100304-N-6932B-091_The_electrical_distribution_system_at_Naval_Support_Facility_Indian_Head%2C_Md.%2C_is_retrofitted_with_flight_diverters_on_utility_lines%2C_plastic_phase_covers_and_fiberglass_cross_arms_to_prevent_mortalit.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "1979x2627"
+  }
+ ],
+ "power line corona ring": [
+  {
+   "title": "File:Anti-corona-ring.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Anti-corona-ring.jpg/960px-Anti-corona-ring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "1740x1740"
+  },
+  {
+   "title": "File:Corona discharge 1.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Corona_discharge_1.JPG/960px-Corona_discharge_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "4912x3264"
+  },
+  {
+   "title": "File:Corona discharge 2.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Corona_discharge_2.jpg/960px-Corona_discharge_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "4920x3268"
+  },
+  {
+   "title": "File:Ligne haute-tension.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Ligne_haute-tension.jpg/960px-Ligne_haute-tension.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "1600x1200"
+  },
+  {
+   "title": "File:Stromleitung Reicheneck, Rommelsbach, Sondelfingen - West - 20090909-04.jpeg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Stromleitung_Reicheneck%2C_Rommelsbach%2C_Sondelfingen_-_West_-_20090909-04.jpeg/960px-Stromleitung_Reicheneck%2C_Rommelsbach%2C_Sondelfingen_-_West_-_20090909-04.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "4007x2323"
+  },
+  {
+   "title": "File:Koronaring.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Koronaring.jpg/960px-Koronaring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "1266x867"
+  },
+  {
+   "title": "File:Jim Creek Naval Radio Station - Antenna feed bus towers (120813-N-XS652-046).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Jim_Creek_Naval_Radio_Station_-_Antenna_feed_bus_towers_%28120813-N-XS652-046%29.jpg/960px-Jim_Creek_Naval_Radio_Station_-_Antenna_feed_bus_towers_%28120813-N-XS652-046%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "2128x1071"
+  }
+ ],
+ "transmission line helicopter": [
+  {
+   "title": "File:New overhead transmission line construction - Flickr - brewbooks.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/New_overhead_transmission_line_construction_-_Flickr_-_brewbooks.jpg/960px-New_overhead_transmission_line_construction_-_Flickr_-_brewbooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "4288x2416"
+  },
+  {
+   "title": "File:National Grid Helicopter doing survey work on power line, E of Averham Park, Nottinghamshire - geograph.org.uk - 4662883.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/National_Grid_Helicopter_doing_survey_work_on_power_line%2C_E_of_Averham_Park%2C_Nottinghamshire_-_geograph.org.uk_-_4662883.jpg/960px-National_Grid_Helicopter_doing_survey_work_on_power_line%2C_E_of_Averham_Park%2C_Nottinghamshire_-_geograph.org.uk_-_4662883.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "1024x768"
+  },
+  {
+   "title": "File:Helicopter surveying power lines, Kilmorack - geograph.org.uk - 7149817.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Helicopter_surveying_power_lines%2C_Kilmorack_-_geograph.org.uk_-_7149817.jpg/960px-Helicopter_surveying_power_lines%2C_Kilmorack_-_geograph.org.uk_-_7149817.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "3230x2442"
+  },
+  {
+   "title": "File:Pylon line installation - geograph.org.uk - 3716461.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Pylon_line_installation_-_geograph.org.uk_-_3716461.jpg/960px-Pylon_line_installation_-_geograph.org.uk_-_3716461.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "1500x727"
+  },
+  {
+   "title": "File:USMC-050815-M-0502A-013.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/USMC-050815-M-0502A-013.jpg/960px-USMC-050815-M-0502A-013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "2250x1500"
+  },
+  {
+   "title": "File:5TH ANGLICO - Fast Rope and Rappelling Mastery (8871186).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/5TH_ANGLICO_-_Fast_Rope_and_Rappelling_Mastery_%288871186%29.jpg/960px-5TH_ANGLICO_-_Fast_Rope_and_Rappelling_Mastery_%288871186%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "2157x1439"
+  },
+  {
+   "title": "File:USMC-14823.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/USMC-14823.jpg/960px-USMC-14823.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "2250x1500"
+  },
+  {
+   "title": "File:USMC-15073.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/USMC-15073.jpg/960px-USMC-15073.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "2250x1500"
+  }
+ ],
+ "power line live line work": [
+  {
+   "title": "File:Our, Bivels, 220 kV overhead power line crossings LU-DE 2018 A.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Our%2C_Bivels%2C_220_kV_overhead_power_line_crossings_LU-DE_2018_A.jpg/960px-Our%2C_Bivels%2C_220_kV_overhead_power_line_crossings_LU-DE_2018_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "4608x3456"
+  },
+  {
+   "title": "File:MBTA Green Line Flood Washout Work, March 18, 2010 (4445228443).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/MBTA_Green_Line_Flood_Washout_Work%2C_March_18%2C_2010_%284445228443%29.jpg/960px-MBTA_Green_Line_Flood_Washout_Work%2C_March_18%2C_2010_%284445228443%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "1600x1200"
+  },
+  {
+   "title": "File:Power line in fog (6967291580).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Power_line_in_fog_%286967291580%29.jpg/960px-Power_line_in_fog_%286967291580%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "1280x853"
+  },
+  {
+   "title": "File:High Line vc.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/High_Line_vc.jpg/960px-High_Line_vc.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "2890x1350"
+  },
+  {
+   "title": "File:Power line IMG 8311-1 (28684359362).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Power_line_IMG_8311-1_%2828684359362%29.jpg/960px-Power_line_IMG_8311-1_%2828684359362%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "3344x4992"
+  },
+  {
+   "title": "File:Power line (6973224489).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Power_line_%286973224489%29.jpg/960px-Power_line_%286973224489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "2927x3902"
+  },
+  {
+   "title": "File:B-roll Power Line fire 7 13 22 (52216459823).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/B-roll_Power_Line_fire_7_13_22_%2852216459823%29.jpg/960px-B-roll_Power_Line_fire_7_13_22_%2852216459823%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "1920x1080"
+  },
+  {
+   "title": "File:State Line, PA Keystone Marker 1.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/State_Line%2C_PA_Keystone_Marker_1.jpg/960px-State_Line%2C_PA_Keystone_Marker_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "1292x969"
+  }
+ ],
+ "overhead ground wire": [
+  {
+   "title": "File:Wire marker signals danger for helicopters 20090320 001.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Wire_marker_signals_danger_for_helicopters_20090320_001.JPG/960px-Wire_marker_signals_danger_for_helicopters_20090320_001.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "4272x2848"
+  },
+  {
+   "title": "File:Wire marker signals danger for helicopters 20090320 003.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Wire_marker_signals_danger_for_helicopters_20090320_003.JPG/960px-Wire_marker_signals_danger_for_helicopters_20090320_003.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "4272x2848"
+  },
+  {
+   "title": "File:Wire marker signals danger for helicopters 20090320 002.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Wire_marker_signals_danger_for_helicopters_20090320_002.JPG/960px-Wire_marker_signals_danger_for_helicopters_20090320_002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "4272x2848"
+  },
+  {
+   "title": "File:Hochspannungsleitung mit Anbauteil 2010 PD 7.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Hochspannungsleitung_mit_Anbauteil_2010_PD_7.JPG/960px-Hochspannungsleitung_mit_Anbauteil_2010_PD_7.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "4272x2848"
+  },
+  {
+   "title": "File:\u041a\u0440\u0456\u043f\u043b\u0435\u043d\u043d\u044f \u0433\u0440\u043e\u0437\u043e\u0442\u0440\u043e\u0441\u0443 \u041b\u0415\u041f 750\u043a\u0412.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/%D0%9A%D1%80%D1%96%D0%BF%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B3%D1%80%D0%BE%D0%B7%D0%BE%D1%82%D1%80%D0%BE%D1%81%D1%83_%D0%9B%D0%95%D0%9F_750%D0%BA%D0%92.jpg/960px-%D0%9A%D1%80%D1%96%D0%BF%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F_%D0%B3%D1%80%D0%BE%D0%B7%D0%BE%D1%82%D1%80%D0%BE%D1%81%D1%83_%D0%9B%D0%95%D0%9F_750%D0%BA%D0%92.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5128x3417"
+  },
+  {
+   "title": "File:Kraai op hoogspanning.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Kraai_op_hoogspanning.jpg/960px-Kraai_op_hoogspanning.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "1024x768"
+  },
+  {
+   "title": "File:PylonIMG 2559 04.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/PylonIMG_2559_04.JPG/960px-PylonIMG_2559_04.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "5472x3648"
+  },
+  {
+   "title": "File:Frisco overhead wires 127549.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Frisco_overhead_wires_127549.jpg/960px-Frisco_overhead_wires_127549.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "1600x1200"
+  }
+ ],
+ "power line jumper": [
+  {
+   "title": "File:Woolly jumper^ - geograph.org.uk - 1746989.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Woolly_jumper%5E_-_geograph.org.uk_-_1746989.jpg/960px-Woolly_jumper%5E_-_geograph.org.uk_-_1746989.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "3264x2448"
+  },
+  {
+   "title": "File:Alternative Line Cord Connection.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Alternative_Line_Cord_Connection.JPG/960px-Alternative_Line_Cord_Connection.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "3648x2736"
+  },
+  {
+   "title": "File:Asus-ROG-Strix-Z390-F-Gaming-Motherboard 20201120 DSC6025.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Asus-ROG-Strix-Z390-F-Gaming-Motherboard_20201120_DSC6025.jpg/960px-Asus-ROG-Strix-Z390-F-Gaming-Motherboard_20201120_DSC6025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "4450x3700"
+  },
+  {
+   "title": "File:GWR 802017 (832017-833017 connection detail).JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/GWR_802017_%28832017-833017_connection_detail%29.JPG/960px-GWR_802017_%28832017-833017_connection_detail%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "1366x910"
+  },
+  {
+   "title": "File:Veterans of the IDF paratroopers units participate in an outstanding display of their young successors serving now in the army (FL45798228).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Veterans_of_the_IDF_paratroopers_units_participate_in_an_outstanding_display_of_their_young_successors_serving_now_in_the_army_%28FL45798228%29.jpg/960px-Veterans_of_the_IDF_paratroopers_units_participate_in_an_outstanding_display_of_their_young_successors_serving_now_in_the_army_%28FL45798228%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "1975x3335"
+  },
+  {
+   "title": "File:Veterans of the IDF paratroopers units participate in an outstanding display of their young successors serving now in the army (FL45798287).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Veterans_of_the_IDF_paratroopers_units_participate_in_an_outstanding_display_of_their_young_successors_serving_now_in_the_army_%28FL45798287%29.jpg/960px-Veterans_of_the_IDF_paratroopers_units_participate_in_an_outstanding_display_of_their_young_successors_serving_now_in_the_army_%28FL45798287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "1316x2031"
+  },
+  {
+   "title": "File:AvDet 21-4- leap of interoperability (6844397).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/AvDet_21-4-_leap_of_interoperability_%286844397%29.jpg/960px-AvDet_21-4-_leap_of_interoperability_%286844397%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "7220x4819"
+  },
+  {
+   "title": "File:Asus-ROG-Strix-Z390-F-Gaming-Motherboard mit Markierungen 20201120 DSC6025.png",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Asus-ROG-Strix-Z390-F-Gaming-Motherboard_mit_Markierungen_20201120_DSC6025.png/960px-Asus-ROG-Strix-Z390-F-Gaming-Motherboard_mit_Markierungen_20201120_DSC6025.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "4450x3700"
+  }
+ ],
+ "transmission tower anti-climbing": [],
+ "bird nest transmission tower": [
+  {
+   "title": "File:Transmission towers of overhead power lines near Skravena, Bulgaria 02.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Transmission_towers_of_overhead_power_lines_near_Skravena%2C_Bulgaria_02.jpg/960px-Transmission_towers_of_overhead_power_lines_near_Skravena%2C_Bulgaria_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "2953x1963"
+  }
+ ],
+ "power line inspection robot": []
+}
