@@ -24,10 +24,14 @@
    "text": "Why are train wheels shaped like cones? Look closely at the surface that touches the rail. It is not flat. It is slightly tapered, wider near the inside of the wheel and narrower toward the outside. When a train enters a curve, the wheelset shifts a little toward the outside of the curve. Now the outer wheel rides on its wider part, and the inner wheel rides on its narrower part.",
    "query": "railway wheel conical tread",
    "caption": "WHY ARE TRAIN WHEELS SHAPED LIKE CONES?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.6,
+    "y": 0.55
+   },
    "chapter": "1. The cone-shaped wheel",
    "short": "Why Are Train Wheels Shaped Like Cones?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:\u041a\u043e\u043b\u0451\u0441\u043d\u044b\u0435 \u043f\u0430\u0440\u044b f001.jpg"
   },
   {
    "text": "A wider circle covers more distance in one turn. So the outer wheel travels farther than the inner wheel, even though both turn at the same speed. That is exactly what you need in a curve, where the outer rail is longer. The wheelset steers itself. The physicist Richard Feynman loved this example, because it is pure geometry doing the work of a steering system.",
@@ -43,10 +47,14 @@
    "text": "Why does every train wheel have a lip on the inside? It is called the flange, and most people think it is what keeps the train on the rails. Actually, in normal running, the flange is a backup. The cone shape does most of the steering, and on a good straight track, the flange rarely touches the rail. It is there for sharp curves, switches, and the moments when the cone is not enough.",
    "query": "train wheel flange",
    "caption": "WHY ISN'T THIS LIP WHAT KEEPS TRAINS ON?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.43,
+    "y": 0.7
+   },
    "chapter": "2. The flange",
    "short": "Why Isn't the Flange What Keeps a Train on the Rails?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Wheelsets of rail vehicles with fitted journals.jpg"
   },
   {
    "text": "When the flange does rub the rail, on very tight curves, you hear it. That high pitched screech of a subway train in a curve is often the flange grinding against the rail, or the wheels slipping because the solid axle cannot adjust enough. Some railways put grease on the rails in tight curves, using machines called flange lubricators, to reduce wear and noise.",
@@ -62,10 +70,14 @@
    "text": "Why are both wheels of a train fixed to one solid axle? A car has a differential, a set of gears that lets the outer wheel spin faster in a curve. Trains do not need one, because the cone shape already solves the problem. A solid axle is simple, very strong, and it keeps the two wheels perfectly aligned. On a machine that carries thousands of tons, simple and strong wins.",
    "query": "railway wheelset",
    "caption": "WHY CAN'T THESE WHEELS TURN SEPARATELY?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.45
+   },
    "chapter": "3. The solid axle",
    "short": "Why Do Train Wheels Turn Together on One Axle?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:\u041a\u043e\u043b\u0451\u0441\u043d\u044b\u0435 \u043f\u0430\u0440\u044b f003.jpg"
   },
   {
    "text": "But the cone has a side effect. At high speed, the self-centering motion can overshoot. The wheelset swings to one side, gets pushed back, overshoots to the other side, and starts swaying left and right in a wave. This is called hunting oscillation, and it was described in the eighteen eighties. At high speed, it can become violent and even damage the track.",
@@ -81,10 +93,14 @@
    "text": "Why are railway rails tilted slightly inward? Look closely and you will see that the rails are not perfectly vertical. They lean toward each other at a small angle, often one in twenty or one in forty. The reason is the cone. A conical wheel touches the rail at an angle, so the rail is tilted to match it, and the contact point sits near the middle of the rail head.",
    "query": "rail cant tie plate",
    "caption": "WHY ARE THESE RAILS LEANING INWARD?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.62,
+    "y": 0.55
+   },
    "chapter": "4. The tilted rail",
    "short": "Why Do Railway Rails Lean Inward?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Continuous welded rail track.JPG"
   },
   {
    "text": "That small tilt matters a lot. It keeps the wheel force pushing down through the center of the rail, instead of on its edge, which would bend and wear the rail faster. The tilt is usually created by the steel plates or the shape of the concrete sleeper under the rail. A tiny angle you can barely see, built into millions of sleepers.",
@@ -100,10 +116,14 @@
    "text": "Why do train cars sit on separate wheel frames that swivel? They are called bogies, or trucks in America. Each car has two of them, and each bogie usually has two wheelsets. Long cars cannot have wheels fixed directly to the body, because in a curve, the wheels would be forced in the wrong direction. The bogie pivots under the car, so the wheels can follow the curve while the long body sweeps around above them.",
    "query": "railway bogie close up",
    "caption": "WHY DOES A TRAIN CAR SIT ON THESE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.6
+   },
    "chapter": "5. The bogie",
    "short": "Why Do Train Cars Sit on Swiveling Bogies?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Close-up of a bogie of a TRA EMU700 coach at Taichung Station.jpg"
   },
   {
    "text": "The bogie was a big step in railway history. In the eighteen thirties, the American engineer John B. Jervis used a swiveling front truck on a locomotive, so it could handle the sharp curves of early American railways. Today, the bogie also holds the springs, the dampers and the brakes. It is the part that decides how smooth your ride is.",
@@ -119,10 +139,14 @@
    "text": "Why don't modern trains make the classic clickety-clack sound? Because the gaps in the rails are gone. Old railways used short rails joined with gaps between them, so the steel could expand in summer heat. Every gap made a click under each wheel. Today, most main lines use continuous welded rail, with rails welded into long strings, often hundreds of meters or even kilometers long.",
    "query": "continuous welded rail",
    "caption": "WHY DID THE CLICKETY-CLACK DISAPPEAR?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.42,
+    "y": 0.55
+   },
    "chapter": "6. The rail without gaps",
    "short": "Why Don't Modern Trains Go Clickety-Clack?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Grinding thermite welded track to create smooth continuous rail. 04-12-19 (46729514965).jpg"
   },
   {
    "text": "But steel still expands in the heat. So how can a rail kilometers long have no gaps? The trick is to stop it from moving. The rail is clamped tightly to heavy sleepers buried in stones, and it is installed at a carefully chosen temperature. In the cold, it pulls in tension. In the heat, it pushes in compression. It wants to grow, but it is not allowed to.",
@@ -176,10 +200,14 @@
    "text": "Why are many train couplers shaped like a curled hand? It is a knuckle coupler, and it was invented to save lives. Before it, many railways used link and pin couplers. A worker had to stand between two moving cars, hold a metal link, and drop a pin in at the right moment. Thousands of workers lost fingers, hands, or their lives doing it.",
    "query": "knuckle coupler",
    "caption": "WHY IS THIS COUPLER SHAPED LIKE A HAND?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "9. The knuckle coupler",
    "short": "Why Are Train Couplers Shaped Like Hands?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:AAR knuckle coupler connection.jpg"
   },
   {
    "text": "In eighteen seventy-three, Eli Janney patented the knuckle coupler. When two cars are pushed together, the knuckles close and lock automatically, like two hands gripping each other. To separate them, a worker pulls a lever from the side of the car, without stepping between them. In eighteen ninety-three, the United States passed the Safety Appliance Act, which required automatic couplers and air brakes on trains.",

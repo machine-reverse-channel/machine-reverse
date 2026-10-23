@@ -121,6 +121,15 @@ sc("""The bullet train does not look like that to look fast. Every curve has a r
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Class E956 ALFA-X Shinkansen EMU.jpg", 0.75, 0.62),
+    2: ("File:Nakayama tunnel north entrance of the Joetsu Shinkansen A.jpg", 0.55, 0.35),
+    3: ("File:JRW Shinkansen Series 500 V3 Pantograph.jpg", 0.62, 0.35),
+    4: ("File:Kyushu Shinkansen N700-8000 series interior 20110315.jpg", 0.9, 0.42),
+    5: ("File:JRCentralSeriesN700Nose.JPG", 0.5, 0.55),
+    6: ("File:Shinkansen snow melting sprinkler water pipe ２.jpg", 0.4, 0.85),
+    7: ("File:Tokaido Shinkansen Tokyo station Slab tracks 01.jpg", 0.55, 0.6),
+    9: ("File:Doctor Yellow inspection running on Tokaido Shinkansen.jpg", 0.42, 0.55),
+    10: ("File:Nakayama tunnel north entrance of the Joetsu Shinkansen C.jpg", 0.48, 0.8),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
