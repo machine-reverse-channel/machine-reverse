@@ -1,0 +1,1591 @@
+1
+00:00:00,000 --> 00:00:02,456
+A tower crane is a thin steel
+
+2
+00:00:02,456 --> 00:00:06,015
+pole, sometimes taller than a thirty story
+
+3
+00:00:06,015 --> 00:00:09,234
+building, with a long arm sticking out
+
+4
+00:00:09,234 --> 00:00:10,251
+to one side.
+
+5
+00:00:10,431 --> 00:00:12,730
+It lifts tonnes of steel over the
+
+6
+00:00:12,730 --> 00:00:13,844
+heads of people,
+
+7
+00:00:13,844 --> 00:00:15,307
+and on a windy night,
+
+8
+00:00:15,307 --> 00:00:16,422
+nobody is in it.
+
+9
+00:00:16,602 --> 00:00:18,197
+By every instinct,
+
+10
+00:00:18,197 --> 00:00:19,969
+it should fall over.
+
+11
+00:00:20,149 --> 00:00:21,995
+It almost never does.
+
+12
+00:00:22,175 --> 00:00:25,675
+Today, eleven parts of a tower crane,
+
+13
+00:00:25,675 --> 00:00:27,945
+and why each one exists.
+
+14
+00:00:28,295 --> 00:00:32,033
+Tower cranes build almost every tall building
+
+15
+00:00:32,033 --> 00:00:33,113
+in the world.
+
+16
+00:00:33,293 --> 00:00:35,085
+They are put up in pieces,
+
+17
+00:00:35,085 --> 00:00:37,014
+they grow with the building,
+
+18
+00:00:37,014 --> 00:00:38,737
+and when the job is done,
+
+19
+00:00:38,737 --> 00:00:39,771
+they disappear.
+
+20
+00:00:39,951 --> 00:00:42,683
+Most people walk past them every day
+
+21
+00:00:42,683 --> 00:00:45,264
+and never ask how a structure that
+
+22
+00:00:45,264 --> 00:00:48,148
+looks this fragile can lift this much.
+
+23
+00:00:48,498 --> 00:00:51,364
+As always, every fact comes from a
+
+24
+00:00:51,364 --> 00:00:53,640
+named source, crane makers,
+
+25
+00:00:53,640 --> 00:00:57,602
+safety agencies, and official accident reports,
+
+26
+00:00:57,602 --> 00:01:00,131
+all listed in the description.
+
+27
+00:01:00,311 --> 00:01:02,864
+Let's start with the most important part,
+
+28
+00:01:02,864 --> 00:01:04,421
+the one on the short arm.
+
+29
+00:01:04,771 --> 00:01:07,381
+Why does a tower crane carry heavy
+
+30
+00:01:07,381 --> 00:01:09,914
+concrete blocks on its short arm?
+
+31
+00:01:10,094 --> 00:01:12,694
+Because it is a giant seesaw.
+
+32
+00:01:12,874 --> 00:01:13,889
+The long arm,
+
+33
+00:01:13,889 --> 00:01:15,059
+called the jib,
+
+34
+00:01:15,059 --> 00:01:17,478
+carries the load on one side of
+
+35
+00:01:17,478 --> 00:01:18,180
+the mast.
+
+36
+00:01:18,360 --> 00:01:19,430
+The short arm,
+
+37
+00:01:19,430 --> 00:01:21,187
+called the counter jib,
+
+38
+00:01:21,187 --> 00:01:24,548
+carries the counterweight on the other side.
+
+39
+00:01:24,728 --> 00:01:27,330
+The blocks balance the weight of the
+
+40
+00:01:27,330 --> 00:01:29,136
+jib and part of the load,
+
+41
+00:01:29,136 --> 00:01:31,810
+so the mast is pushed mostly straight
+
+42
+00:01:31,810 --> 00:01:33,761
+down, not bent to one side.
+
+43
+00:01:34,111 --> 00:01:37,101
+The counterweight can be made of several
+
+44
+00:01:37,101 --> 00:01:39,792
+concrete slabs, adding up to tens of
+
+45
+00:01:39,792 --> 00:01:41,436
+tonnes on a big crane.
+
+46
+00:01:41,616 --> 00:01:43,265
+It is fixed in place,
+
+47
+00:01:43,265 --> 00:01:46,562
+so it cannot balance every load perfectly.
+
+48
+00:01:46,742 --> 00:01:48,148
+When the hook is empty,
+
+49
+00:01:48,148 --> 00:01:50,287
+the crane leans a little toward the
+
+50
+00:01:50,287 --> 00:01:51,142
+counterweight.
+
+51
+00:01:51,322 --> 00:01:53,235
+When it lifts a heavy load,
+
+52
+00:01:53,235 --> 00:01:54,863
+it leans the other way.
+
+53
+00:01:55,043 --> 00:01:57,888
+The mast is designed to handle both.
+
+54
+00:01:58,238 --> 00:02:01,244
+That is also why the counterweight blocks
+
+55
+00:02:01,244 --> 00:02:03,371
+are put on in a precise order
+
+56
+00:02:03,371 --> 00:02:05,424
+when the crane is assembled.
+
+57
+00:02:05,604 --> 00:02:07,956
+If the jib is not installed yet
+
+58
+00:02:07,956 --> 00:02:10,232
+and too many blocks are added,
+
+59
+00:02:10,232 --> 00:02:12,280
+the crane can tip backward.
+
+60
+00:02:12,460 --> 00:02:15,074
+Every step of putting a crane together
+
+61
+00:02:15,074 --> 00:02:17,963
+follows a written sequence from the maker.
+
+62
+00:02:18,313 --> 00:02:20,519
+Why can a tower crane lift a
+
+63
+00:02:20,519 --> 00:02:23,119
+heavy load near the mast but only
+
+64
+00:02:23,119 --> 00:02:25,089
+a small one at the tip of
+
+65
+00:02:25,089 --> 00:02:25,720
+its jib?
+
+66
+00:02:25,900 --> 00:02:28,344
+Because what matters is not just the
+
+67
+00:02:28,344 --> 00:02:30,652
+weight, it is the weight times the
+
+68
+00:02:30,652 --> 00:02:31,263
+distance.
+
+69
+00:02:31,443 --> 00:02:34,168
+Ten tonnes close to the mast twists
+
+70
+00:02:34,168 --> 00:02:36,893
+the crane much less than ten tonnes
+
+71
+00:02:36,893 --> 00:02:38,061
+at the far end.
+
+72
+00:02:38,241 --> 00:02:40,712
+So the farther out the trolley carries
+
+73
+00:02:40,712 --> 00:02:42,857
+the hook, the lighter the load it
+
+74
+00:02:42,857 --> 00:02:44,093
+is allowed to lift.
+
+75
+00:02:44,443 --> 00:02:46,862
+Every crane has a load chart,
+
+76
+00:02:46,862 --> 00:02:49,781
+a table that shows the maximum load
+
+77
+00:02:49,781 --> 00:02:51,200
+at each distance.
+
+78
+00:02:51,380 --> 00:02:53,917
+A crane that can lift around twelve
+
+79
+00:02:53,917 --> 00:02:56,454
+tonnes near the mast may be allowed
+
+80
+00:02:56,454 --> 00:02:58,701
+only two or three tonnes at the
+
+81
+00:02:58,701 --> 00:03:00,006
+tip of a long jib.
+
+82
+00:03:00,186 --> 00:03:02,678
+The operator is trained to read it,
+
+83
+00:03:02,678 --> 00:03:04,957
+but the crane does not trust the
+
+84
+00:03:04,957 --> 00:03:06,026
+operator alone.
+
+85
+00:03:06,376 --> 00:03:09,989
+Inside, devices called limiters measure the load
+
+86
+00:03:09,989 --> 00:03:12,549
+on the hoist rope and the position
+
+87
+00:03:12,549 --> 00:03:13,678
+of the trolley.
+
+88
+00:03:13,858 --> 00:03:16,362
+If a lift goes over the limit,
+
+89
+00:03:16,362 --> 00:03:17,864
+the crane refuses.
+
+90
+00:03:18,044 --> 00:03:20,708
+It stops the hoist from lifting higher
+
+91
+00:03:20,708 --> 00:03:23,373
+and stops the trolley from moving out.
+
+92
+00:03:23,553 --> 00:03:25,455
+It can only move in the safe
+
+93
+00:03:25,455 --> 00:03:28,310
+direction, bringing the load closer to the
+
+94
+00:03:28,310 --> 00:03:28,649
+mast.
+
+95
+00:03:29,000 --> 00:03:31,053
+Why does a tower crane need a
+
+96
+00:03:31,053 --> 00:03:33,320
+huge block of concrete under it,
+
+97
+00:03:33,320 --> 00:03:34,665
+hidden underground?
+
+98
+00:03:34,845 --> 00:03:38,027
+Because the counterweight can only balance part
+
+99
+00:03:38,027 --> 00:03:38,839
+of the load.
+
+100
+00:03:39,019 --> 00:03:41,236
+The rest of the tipping force goes
+
+101
+00:03:41,236 --> 00:03:42,932
+down the mast to the base.
+
+102
+00:03:43,112 --> 00:03:45,422
+The bottom of the mast is bolted
+
+103
+00:03:45,422 --> 00:03:48,527
+to anchors cast into a concrete foundation,
+
+104
+00:03:48,527 --> 00:03:50,765
+often hundreds of tonnes of it,
+
+105
+00:03:50,765 --> 00:03:53,508
+which holds the crane upright like the
+
+106
+00:03:53,508 --> 00:03:54,664
+roots of a tree.
+
+107
+00:03:55,014 --> 00:03:57,861
+The foundation is designed for the worst
+
+108
+00:03:57,861 --> 00:04:00,423
+case, the strongest wind at the site
+
+109
+00:04:00,423 --> 00:04:02,630
+plus the crane's heaviest load.
+
+110
+00:04:02,810 --> 00:04:05,724
+Engineers check the soil under it too.
+
+111
+00:04:05,904 --> 00:04:08,640
+Weak ground can let the foundation tilt,
+
+112
+00:04:08,640 --> 00:04:10,625
+and a crane that leans even a
+
+113
+00:04:10,625 --> 00:04:12,814
+little at the bottom leans a lot
+
+114
+00:04:12,814 --> 00:04:13,566
+at the top.
+
+115
+00:04:13,917 --> 00:04:15,628
+In two thousand six,
+
+116
+00:04:15,628 --> 00:04:17,681
+in Bellevue, Washington,
+
+117
+00:04:17,681 --> 00:04:21,360
+a tower crane fell onto apartment buildings
+
+118
+00:04:21,360 --> 00:04:22,643
+during a storm,
+
+119
+00:04:22,643 --> 00:04:25,039
+and a man inside was killed.
+
+120
+00:04:25,219 --> 00:04:28,238
+Investigators found that the steel base the
+
+121
+00:04:28,238 --> 00:04:31,047
+crane stood on had been poorly designed.
+
+122
+00:04:31,227 --> 00:04:34,973
+Since then, many cities require engineers to
+
+123
+00:04:34,973 --> 00:04:38,464
+approve every crane base before the crane
+
+124
+00:04:38,464 --> 00:04:39,145
+goes up.
+
+125
+00:04:39,495 --> 00:04:41,947
+How does a tower crane get taller
+
+126
+00:04:41,947 --> 00:04:43,581
+as the building rises?
+
+127
+00:04:43,761 --> 00:04:45,247
+It lifts itself.
+
+128
+00:04:45,427 --> 00:04:48,105
+A climbing frame around the mast has
+
+129
+00:04:48,105 --> 00:04:51,005
+hydraulic jacks that push the whole top
+
+130
+00:04:51,005 --> 00:04:52,790
+of the crane up by a few
+
+131
+00:04:52,790 --> 00:04:53,311
+meters.
+
+132
+00:04:53,491 --> 00:04:54,725
+That opens a gap,
+
+133
+00:04:54,725 --> 00:04:56,977
+and the crane uses its own hook
+
+134
+00:04:56,977 --> 00:04:59,229
+to lift a new mast section into
+
+135
+00:04:59,229 --> 00:04:59,446
+it.
+
+136
+00:04:59,626 --> 00:05:01,667
+The section is bolted in,
+
+137
+00:05:01,667 --> 00:05:04,280
+and the crane has grown one step
+
+138
+00:05:04,280 --> 00:05:04,851
+taller.
+
+139
+00:05:05,201 --> 00:05:07,705
+A crane standing on its own can
+
+140
+00:05:07,705 --> 00:05:10,210
+only go so high before the wind
+
+141
+00:05:10,210 --> 00:05:12,715
+and the loads bend the mast too
+
+142
+00:05:12,715 --> 00:05:13,119
+much.
+
+143
+00:05:13,299 --> 00:05:15,683
+So tall cranes are tied to the
+
+144
+00:05:15,683 --> 00:05:19,181
+building with steel collars and braces every
+
+145
+00:05:19,181 --> 00:05:20,056
+few floors.
+
+146
+00:05:20,236 --> 00:05:22,968
+The building that the crane is building
+
+147
+00:05:22,968 --> 00:05:24,369
+becomes its support.
+
+148
+00:05:24,719 --> 00:05:27,235
+Climbing is one of the most dangerous
+
+149
+00:05:27,235 --> 00:05:29,003
+moments in a crane's life.
+
+150
+00:05:29,183 --> 00:05:30,548
+During the jump,
+
+151
+00:05:30,548 --> 00:05:32,938
+the top of the crane is held
+
+152
+00:05:32,938 --> 00:05:35,243
+only by the climbing frame.
+
+153
+00:05:35,423 --> 00:05:37,164
+Wind limits are lower,
+
+154
+00:05:37,164 --> 00:05:39,776
+the jib must be balanced exactly,
+
+155
+00:05:39,776 --> 00:05:42,783
+and nobody is allowed to lift anything
+
+156
+00:05:42,783 --> 00:05:43,179
+else.
+
+157
+00:05:43,359 --> 00:05:44,819
+It is done slowly,
+
+158
+00:05:44,819 --> 00:05:46,441
+by specialist crews,
+
+159
+00:05:46,441 --> 00:05:50,092
+following the maker's procedure step by step.
+
+160
+00:05:50,443 --> 00:05:53,560
+Why do crane operators release the brakes
+
+161
+00:05:53,560 --> 00:05:55,917
+at night, so the crane can spin
+
+162
+00:05:55,917 --> 00:05:57,362
+freely in the wind?
+
+163
+00:05:57,542 --> 00:06:00,174
+Because a crane fighting the wind is
+
+164
+00:06:00,174 --> 00:06:02,732
+in danger, and a crane turning with
+
+165
+00:06:02,732 --> 00:06:03,463
+it is not.
+
+166
+00:06:03,643 --> 00:06:06,189
+When the slewing brake is released,
+
+167
+00:06:06,189 --> 00:06:08,808
+the wind pushes the jib around until
+
+168
+00:06:08,808 --> 00:06:10,191
+it points downwind,
+
+169
+00:06:10,191 --> 00:06:11,573
+like a weathervane.
+
+170
+00:06:11,753 --> 00:06:14,288
+The long jib then shows its narrow
+
+171
+00:06:14,288 --> 00:06:15,481
+end to the wind,
+
+172
+00:06:15,481 --> 00:06:17,941
+and the force on the crane drops.
+
+173
+00:06:18,291 --> 00:06:19,998
+If the brake were locked,
+
+174
+00:06:19,998 --> 00:06:22,115
+a storm hitting the side of the
+
+175
+00:06:22,115 --> 00:06:24,505
+jib could push with enormous force,
+
+176
+00:06:24,505 --> 00:06:26,963
+and the crane might break or topple.
+
+177
+00:06:27,143 --> 00:06:29,456
+So the rule on most sites is
+
+178
+00:06:29,456 --> 00:06:30,034
+simple.
+
+179
+00:06:30,214 --> 00:06:31,444
+When work stops,
+
+180
+00:06:31,444 --> 00:06:32,597
+raise the hook,
+
+181
+00:06:32,597 --> 00:06:33,903
+park the trolley,
+
+182
+00:06:33,903 --> 00:06:36,286
+and set the crane to free slew.
+
+183
+00:06:36,466 --> 00:06:39,071
+People who see cranes turning on their
+
+184
+00:06:39,071 --> 00:06:41,402
+own at night are watching a safety
+
+185
+00:06:41,402 --> 00:06:42,225
+system work.
+
+186
+00:06:42,575 --> 00:06:43,784
+During the day,
+
+187
+00:06:43,784 --> 00:06:46,766
+cranes have an anemometer on top that
+
+188
+00:06:46,766 --> 00:06:48,217
+measures the wind.
+
+189
+00:06:48,397 --> 00:06:50,152
+Above a certain speed,
+
+190
+00:06:50,152 --> 00:06:53,582
+often around seventy kilometers an hour for
+
+191
+00:06:53,582 --> 00:06:56,294
+normal work and lower for big flat
+
+192
+00:06:56,294 --> 00:06:58,289
+loads, lifting must stop.
+
+193
+00:06:58,469 --> 00:07:00,749
+A sheet of plywood or a glass
+
+194
+00:07:00,749 --> 00:07:02,557
+panel acts like a sail,
+
+195
+00:07:02,557 --> 00:07:04,837
+and the wind can swing it out
+
+196
+00:07:04,837 --> 00:07:05,702
+of control.
+
+197
+00:07:06,052 --> 00:07:08,104
+Why does the top of a tower
+
+198
+00:07:08,104 --> 00:07:10,080
+crane sit on a giant ring?
+
+199
+00:07:10,260 --> 00:07:12,538
+Because the whole upper crane,
+
+200
+00:07:12,538 --> 00:07:14,437
+the jib, the counter jib,
+
+201
+00:07:14,437 --> 00:07:16,715
+the counterweight and the cab,
+
+202
+00:07:16,715 --> 00:07:18,842
+has to turn around on top of
+
+203
+00:07:18,842 --> 00:07:21,348
+the mast while carrying the load.
+
+204
+00:07:21,528 --> 00:07:23,850
+The slewing ring is a huge ball
+
+205
+00:07:23,850 --> 00:07:26,472
+or roller bearing that holds all of
+
+206
+00:07:26,472 --> 00:07:29,844
+that weight, while letting it rotate smoothly
+
+207
+00:07:29,844 --> 00:07:31,118
+in a full circle.
+
+208
+00:07:31,468 --> 00:07:34,004
+The ring has gear teeth cut into
+
+209
+00:07:34,004 --> 00:07:34,242
+it.
+
+210
+00:07:34,422 --> 00:07:38,303
+Electric motors with small gears turn against
+
+211
+00:07:38,303 --> 00:07:41,667
+those teeth, slowly rotating the crane.
+
+212
+00:07:41,847 --> 00:07:45,118
+Frequency drives let them start and stop
+
+213
+00:07:45,118 --> 00:07:48,552
+very smoothly, because a sudden stop would
+
+214
+00:07:48,552 --> 00:07:51,496
+make the load swing like a pendulum,
+
+215
+00:07:51,496 --> 00:07:53,213
+tens of meters below.
+
+216
+00:07:53,563 --> 00:07:55,966
+The bolts that hold the slewing ring
+
+217
+00:07:55,966 --> 00:07:58,236
+are among the most critical in the
+
+218
+00:07:58,236 --> 00:07:58,636
+crane.
+
+219
+00:07:58,816 --> 00:08:01,352
+They are tightened to an exact force
+
+220
+00:08:01,352 --> 00:08:03,042
+and inspected regularly.
+
+221
+00:08:03,222 --> 00:08:05,184
+If they loosen or crack,
+
+222
+00:08:05,184 --> 00:08:07,882
+the top of the crane can separate
+
+223
+00:08:07,882 --> 00:08:09,027
+from the mast.
+
+224
+00:08:09,207 --> 00:08:11,681
+A few bolts are all that hold
+
+225
+00:08:11,681 --> 00:08:13,131
+the top in place.
+
+226
+00:08:13,482 --> 00:08:16,366
+Why does the crane operator sit in
+
+227
+00:08:16,366 --> 00:08:18,317
+a small cab at the top,
+
+228
+00:08:18,317 --> 00:08:19,844
+tens of meters up?
+
+229
+00:08:20,024 --> 00:08:21,417
+Because from there,
+
+230
+00:08:21,417 --> 00:08:23,543
+they can see most of the site
+
+231
+00:08:23,543 --> 00:08:25,376
+and the path of the load.
+
+232
+00:08:25,556 --> 00:08:26,942
+On a busy site,
+
+233
+00:08:26,942 --> 00:08:29,713
+the hook travels over workers,
+
+234
+00:08:29,713 --> 00:08:31,837
+roads and other cranes.
+
+235
+00:08:32,017 --> 00:08:33,863
+Being high up and close to the
+
+236
+00:08:33,863 --> 00:08:36,324
+slewing ring also lets the operator feel
+
+237
+00:08:36,324 --> 00:08:37,555
+how the crane moves.
+
+238
+00:08:37,905 --> 00:08:41,542
+Getting there means climbing ladders inside the
+
+239
+00:08:41,542 --> 00:08:44,716
+mast, sometimes for more than ten minutes
+
+240
+00:08:44,716 --> 00:08:46,264
+on very tall cranes.
+
+241
+00:08:46,444 --> 00:08:48,768
+So many operators go up once at
+
+242
+00:08:48,768 --> 00:08:51,093
+the start of the shift and stay
+
+243
+00:08:51,093 --> 00:08:52,142
+there all day,
+
+244
+00:08:52,142 --> 00:08:53,642
+with food and water.
+
+245
+00:08:53,822 --> 00:08:56,075
+Some newer cranes have lifts in the
+
+246
+00:08:56,075 --> 00:08:58,585
+mast, and some are controlled by remote
+
+247
+00:08:58,585 --> 00:08:59,615
+from the ground.
+
+248
+00:08:59,966 --> 00:09:01,389
+Even from the cab,
+
+249
+00:09:01,389 --> 00:09:04,472
+the operator often cannot see the load,
+
+250
+00:09:04,472 --> 00:09:06,924
+for example when it is behind a
+
+251
+00:09:06,924 --> 00:09:09,137
+wall or several floors down.
+
+252
+00:09:09,317 --> 00:09:11,574
+So a signaler on the ground or
+
+253
+00:09:11,574 --> 00:09:14,207
+on the building guides each lift by
+
+254
+00:09:14,207 --> 00:09:14,658
+radio.
+
+255
+00:09:14,838 --> 00:09:17,302
+The operator moves the load blind,
+
+256
+00:09:17,302 --> 00:09:19,621
+trusting the voice in their ear.
+
+257
+00:09:19,972 --> 00:09:22,183
+Why do some tower cranes have a
+
+258
+00:09:22,183 --> 00:09:24,323
+jib that tilts up into the sky
+
+259
+00:09:24,323 --> 00:09:26,392
+instead of sticking out flat?
+
+260
+00:09:26,572 --> 00:09:28,776
+Because in a crowded city,
+
+261
+00:09:28,776 --> 00:09:32,083
+a flat jib would swing over neighboring
+
+262
+00:09:32,083 --> 00:09:34,966
+buildings, roads and other cranes.
+
+263
+00:09:35,146 --> 00:09:38,336
+A luffing jib crane changes its reach
+
+264
+00:09:38,336 --> 00:09:41,009
+by raising or lowering the jib.
+
+265
+00:09:41,189 --> 00:09:43,171
+When it does not need to reach
+
+266
+00:09:43,171 --> 00:09:45,748
+far, the jib points almost straight up,
+
+267
+00:09:45,748 --> 00:09:47,400
+taking very little space.
+
+268
+00:09:47,751 --> 00:09:50,803
+Swinging a load over someone else's property
+
+269
+00:09:50,803 --> 00:09:52,329
+is called oversailing,
+
+270
+00:09:52,329 --> 00:09:54,965
+and in many cities it needs permission
+
+271
+00:09:54,965 --> 00:09:56,005
+from the owner.
+
+272
+00:09:56,185 --> 00:09:58,588
+Luffing cranes avoid most of it.
+
+273
+00:09:58,768 --> 00:10:01,760
+They also let many cranes work close
+
+274
+00:10:01,760 --> 00:10:03,504
+together on one site,
+
+275
+00:10:03,504 --> 00:10:06,163
+each one raising its jib to pass
+
+276
+00:10:06,163 --> 00:10:08,323
+above or below the others.
+
+277
+00:10:08,674 --> 00:10:10,566
+The price is complexity.
+
+278
+00:10:10,746 --> 00:10:13,230
+A luffing crane needs a strong winch
+
+279
+00:10:13,230 --> 00:10:15,369
+to raise and lower the jib with
+
+280
+00:10:15,369 --> 00:10:17,508
+the load, and the jib itself is
+
+281
+00:10:17,508 --> 00:10:18,060
+heavier.
+
+282
+00:10:18,240 --> 00:10:20,430
+But in places like London,
+
+283
+00:10:20,430 --> 00:10:22,284
+New York or Hong Kong,
+
+284
+00:10:22,284 --> 00:10:25,232
+where every meter of sky is shared,
+
+285
+00:10:25,232 --> 00:10:28,517
+the forest of upward pointing cranes is
+
+286
+00:10:28,517 --> 00:10:29,781
+a common sight.
+
+287
+00:10:30,131 --> 00:10:32,507
+Why can this crane arrive on a
+
+288
+00:10:32,507 --> 00:10:34,962
+truck and stand up by itself in
+
+289
+00:10:34,962 --> 00:10:35,912
+a few hours?
+
+290
+00:10:36,092 --> 00:10:39,064
+Because it is a self erecting crane.
+
+291
+00:10:39,244 --> 00:10:41,728
+The mast and jib are folded for
+
+292
+00:10:41,728 --> 00:10:44,932
+transport, and the crane carries its own
+
+293
+00:10:44,932 --> 00:10:46,454
+motors and ballast.
+
+294
+00:10:46,634 --> 00:10:48,651
+On site, it unfolds itself,
+
+295
+00:10:48,651 --> 00:10:51,415
+raising the mast and swinging out the
+
+296
+00:10:51,415 --> 00:10:54,030
+jib, without another crane to help.
+
+297
+00:10:54,379 --> 00:10:57,403
+These cranes are made for smaller jobs,
+
+298
+00:10:57,403 --> 00:11:00,350
+houses, low buildings and renovations,
+
+299
+00:11:00,350 --> 00:11:03,219
+where bringing a big mobile crane for
+
+300
+00:11:03,219 --> 00:11:05,235
+weeks would cost too much.
+
+301
+00:11:05,415 --> 00:11:07,493
+They lift less and reach less,
+
+302
+00:11:07,493 --> 00:11:09,363
+but they are fast to set up
+
+303
+00:11:09,363 --> 00:11:11,303
+and easy to move to the next
+
+304
+00:11:11,303 --> 00:11:11,649
+site.
+
+305
+00:11:12,000 --> 00:11:14,555
+Because they stand on a small base
+
+306
+00:11:14,555 --> 00:11:17,713
+with ballast instead of a deep foundation,
+
+307
+00:11:17,713 --> 00:11:20,344
+they rely on the ground being level
+
+308
+00:11:20,344 --> 00:11:21,020
+and firm.
+
+309
+00:11:21,200 --> 00:11:22,464
+A soft corner,
+
+310
+00:11:22,464 --> 00:11:24,902
+or a missing outrigger pad,
+
+311
+00:11:24,902 --> 00:11:27,249
+is enough to tip one over.
+
+312
+00:11:27,429 --> 00:11:30,396
+Even a small crane follows the same
+
+313
+00:11:30,396 --> 00:11:31,922
+rule as a big one.
+
+314
+00:11:32,102 --> 00:11:33,797
+The ground decides.
+
+315
+00:11:34,147 --> 00:11:36,911
+Why do so many tower crane accidents
+
+316
+00:11:36,911 --> 00:11:38,907
+happen not during lifting,
+
+317
+00:11:38,907 --> 00:11:41,364
+but while the crane is being put
+
+318
+00:11:41,364 --> 00:11:42,669
+up or taken down?
+
+319
+00:11:42,849 --> 00:11:44,958
+Because in those moments,
+
+320
+00:11:44,958 --> 00:11:46,982
+the crane is incomplete.
+
+321
+00:11:47,162 --> 00:11:48,663
+Parts are missing,
+
+322
+00:11:48,663 --> 00:11:50,665
+the balance is changing,
+
+323
+00:11:50,665 --> 00:11:53,417
+and pins or bolts are removed one
+
+324
+00:11:53,417 --> 00:11:54,001
+by one.
+
+325
+00:11:54,181 --> 00:11:56,191
+A step done out of order can
+
+326
+00:11:56,191 --> 00:11:58,488
+leave a section held by nothing.
+
+327
+00:11:58,838 --> 00:12:01,437
+In April two thousand nineteen,
+
+328
+00:12:01,437 --> 00:12:04,540
+in Seattle, a tower crane being taken
+
+329
+00:12:04,540 --> 00:12:07,727
+apart fell onto a street during strong
+
+330
+00:12:07,727 --> 00:12:08,230
+winds.
+
+331
+00:12:08,410 --> 00:12:10,204
+Four people were killed,
+
+332
+00:12:10,204 --> 00:12:12,148
+two of them in cars below.
+
+333
+00:12:12,328 --> 00:12:16,054
+Investigators found that pins holding mast sections
+
+334
+00:12:16,054 --> 00:12:18,391
+together had been removed early,
+
+335
+00:12:18,391 --> 00:12:21,021
+before the sections were ready to be
+
+336
+00:12:21,021 --> 00:12:22,847
+lifted off, to save time.
+
+337
+00:12:23,197 --> 00:12:26,641
+That is why makers publish exact sequences
+
+338
+00:12:26,641 --> 00:12:29,019
+for erection and dismantling,
+
+339
+00:12:29,019 --> 00:12:30,413
+with wind limits,
+
+340
+00:12:30,413 --> 00:12:33,693
+and why many places now require trained,
+
+341
+00:12:33,693 --> 00:12:36,153
+certified crews for this work.
+
+342
+00:12:36,333 --> 00:12:39,038
+The crane is strongest when complete.
+
+343
+00:12:39,218 --> 00:12:41,374
+The moments in between are where it
+
+344
+00:12:41,374 --> 00:12:42,051
+is weakest.
+
+345
+00:12:42,401 --> 00:12:44,482
+How does the last crane get down
+
+346
+00:12:44,482 --> 00:12:46,953
+from the top of a finished skyscraper?
+
+347
+00:12:47,133 --> 00:12:48,723
+It needs another crane.
+
+348
+00:12:48,903 --> 00:12:51,031
+When the building is done,
+
+349
+00:12:51,031 --> 00:12:53,322
+a smaller crane is set up on
+
+350
+00:12:53,322 --> 00:12:54,058
+the roof.
+
+351
+00:12:54,238 --> 00:12:56,489
+It takes the big crane apart and
+
+352
+00:12:56,489 --> 00:12:57,756
+lowers the pieces.
+
+353
+00:12:57,936 --> 00:13:00,834
+Then an even smaller crane takes that
+
+354
+00:13:00,834 --> 00:13:02,479
+one apart, and so on,
+
+355
+00:13:02,479 --> 00:13:05,142
+until the last one is small enough
+
+356
+00:13:05,142 --> 00:13:08,118
+to carry down in the building's lifts.
+
+357
+00:13:08,467 --> 00:13:11,252
+On the tallest towers in the world,
+
+358
+00:13:11,252 --> 00:13:13,320
+this chain can take weeks.
+
+359
+00:13:13,500 --> 00:13:16,857
+Every piece must be lowered carefully past
+
+360
+00:13:16,857 --> 00:13:19,654
+windows that are already installed.
+
+361
+00:13:19,834 --> 00:13:22,472
+The holes in floors and walls where
+
+362
+00:13:22,472 --> 00:13:25,110
+the crane stood are then closed up,
+
+363
+00:13:25,110 --> 00:13:26,617
+and from the street,
+
+364
+00:13:26,617 --> 00:13:29,029
+nobody can tell a crane was ever
+
+365
+00:13:29,029 --> 00:13:29,482
+there.
+
+366
+00:13:29,831 --> 00:13:31,471
+It is the last trick of a
+
+367
+00:13:31,471 --> 00:13:33,767
+machine that is built to disappear.
+
+368
+00:13:33,947 --> 00:13:35,488
+It arrives in pieces,
+
+369
+00:13:35,488 --> 00:13:37,250
+grows with the building,
+
+370
+00:13:37,250 --> 00:13:38,131
+holds it up,
+
+371
+00:13:38,131 --> 00:13:40,112
+and leaves without a trace.
+
+372
+00:13:40,292 --> 00:13:42,309
+All while staying upright,
+
+373
+00:13:42,309 --> 00:13:44,325
+thanks to a counterweight,
+
+374
+00:13:44,325 --> 00:13:46,730
+a foundation and a set of rules
+
+375
+00:13:46,730 --> 00:13:49,522
+written in other people's accidents.
+
+376
+00:13:49,872 --> 00:13:51,823
+So here are the eleven.
+
+377
+00:13:52,003 --> 00:13:54,767
+Concrete blocks on the short arm,
+
+378
+00:13:54,767 --> 00:13:57,196
+and a hook that lifts less at
+
+379
+00:13:57,196 --> 00:13:57,866
+the tip.
+
+380
+00:13:58,046 --> 00:13:59,771
+A hidden foundation,
+
+381
+00:13:59,771 --> 00:14:01,668
+and a mast that grows.
+
+382
+00:14:01,848 --> 00:14:03,942
+A crane set free to spin in
+
+383
+00:14:03,942 --> 00:14:06,812
+the wind, turning on a giant bearing,
+
+384
+00:14:06,812 --> 00:14:09,604
+with an operator sitting at the top.
+
+385
+00:14:09,784 --> 00:14:11,706
+An arm that points up,
+
+386
+00:14:11,706 --> 00:14:14,152
+a crane that unfolds itself,
+
+387
+00:14:14,152 --> 00:14:16,685
+pins that came out too early,
+
+388
+00:14:16,685 --> 00:14:19,306
+and a crane that needs a crane
+
+389
+00:14:19,306 --> 00:14:20,442
+to come down.
+
+390
+00:14:20,791 --> 00:14:22,900
+Next time you see a tower crane
+
+391
+00:14:22,900 --> 00:14:25,348
+turning slowly over a city at night,
+
+392
+00:14:25,348 --> 00:14:27,593
+you will know it is doing exactly
+
+393
+00:14:27,593 --> 00:14:29,429
+what it was designed to do.
+
+394
+00:14:29,609 --> 00:14:32,545
+If you want more machines explained part
+
+395
+00:14:32,545 --> 00:14:35,333
+by part, subscribe to Machine Reverse.
+
+396
+00:14:35,513 --> 00:14:37,558
+And tell us in the comments which
+
+397
+00:14:37,558 --> 00:14:39,603
+machine you want us to take apart
+
+398
+00:14:39,603 --> 00:14:39,913
+next.
