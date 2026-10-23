@@ -24,10 +24,14 @@
    "text": "Why does a rocket get covered in ice on a warm day? Because of what is inside. Liquid oxygen, the part of the fuel that lets it burn, has to be colder than minus one hundred eighty-three degrees Celsius to stay liquid. Liquid hydrogen is even colder, at about minus two hundred fifty-three. The metal skin of the tank gets just as cold, and water vapor in the air turns into solid ice the moment it touches it.",
    "query": "rocket frost ice launch",
    "caption": "WHY IS THIS ROCKET COVERED IN ICE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.5
+   },
    "chapter": "1. The ice on the rocket",
    "short": "Why Does Ice Fall Off Rockets at Launch?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Falcon 9 launches with second Dragon spacecraft.jpg"
   },
   {
    "text": "This is the same thing that happens on a cold glass of water, only much more extreme. The air near Florida's coast is very humid, so there is a lot of water vapor to freeze. The ice grows thicker the longer the rocket sits on the pad full of propellant. When the engines light up, the vibration and the wind shake it loose, and it falls off in plates.",
@@ -43,10 +47,14 @@
    "text": "Why did the giant Saturn V rocket drop ice at liftoff? Because its liquid oxygen tanks were not insulated on the outside. The cold of the tank went straight through the metal wall and iced the surface, and chunks fell off as the rocket began to climb. Ice fragments falling away from the Saturn V at liftoff are one of the best known images of the Apollo program.",
    "query": "Saturn V launch",
    "caption": "WHY IS THIS TANK COVERED IN FROST?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.4
+   },
    "chapter": "2. The bare Saturn V tank",
    "short": "Why Did the Saturn V Drop Ice When It Launched?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Saturn V Rocket -- Johnson Space Center.jpg"
   },
   {
    "text": "The Saturn V stood about one hundred ten meters tall, with its first stage carrying enormous tanks of oxygen and kerosene. At the time, the falling ice was simply a known part of a Saturn V launch, because nothing fragile was riding on the side of the rocket.",
@@ -62,10 +70,14 @@
    "text": "Why was the big tank under the Space Shuttle covered in orange foam? To keep the cold in and the ice out. The external tank held liquid hydrogen and liquid oxygen, and the shuttle sat right beside it. Ice breaking off could hit the orbiter, so engineers sprayed the tank with polyurethane foam, at least about one inch thick, which stops the outside of the tank from getting cold enough to build thick ice.",
    "query": "Space Shuttle external tank foam",
    "caption": "WHY IS THIS TANK COVERED IN ORANGE FOAM?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "3. The orange foam",
    "short": "Why Was the Space Shuttle Tank Covered in Orange Foam?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Space Shuttle external tank foam block.JPG"
   },
   {
    "text": "The foam did its job, but not perfectly. Moisture could get into small cracks and punctures, and then freeze and make pieces of foam pop off. The foam was thicker around the parts that stuck out, and the places where it was applied by hand, like around the supports of the tank, were the ones that shed the most. The orange color is the natural color of the foam.",
@@ -81,10 +93,14 @@
    "text": "Why did a piece of foam destroy a space shuttle? On the first of February, two thousand three, Columbia broke apart while returning from orbit, killing all seven astronauts. The investigation traced the damage to a piece of foam that fell off the tank during launch and hit the wing. Later tests fired a piece of foam weighing about one and two thirds pounds at five hundred thirty miles an hour into a wing panel, and it blew a hole sixteen inches wide.",
    "query": "Space Shuttle Columbia",
    "caption": "WHY DID A PIECE OF FOAM DOWN A SPACE SHUTTLE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.67,
+    "y": 0.55
+   },
    "chapter": "4. The piece of foam",
    "short": "Why Did a Piece of Foam Destroy the Space Shuttle Columbia?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:STS-114 external tank foam missing.jpg"
   },
   {
    "text": "A hole in the wing's heat shield let the hot gases of reentry in. A lot of foam had come off earlier shuttle launches without causing a disaster, which made people think it was safe. The investigation called that a cultural problem. A danger that does not cause a crash the first few times starts to feel normal.",
@@ -100,10 +116,14 @@
    "text": "Why would a rocket full of super cold liquid have heaters on its outside? To stop ice from forming in the worst places. On the shuttle's external tank, the long feedline that carried liquid oxygen, about seventy feet long and seventeen inches wide, had flexible joints with strip heaters of about half an inch wide around them. The heat kept ice from building up where it could break off and hit the orbiter.",
    "query": "external tank feedline heater",
    "caption": "WHY IS THERE A HEATER ON A TANK OF ICE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "5. The heater strips",
    "short": "Why Do Rockets Have Heaters on Their Frozen Tanks?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Space Shuttle (STS) External Tank cladding over foam insulation DSC 0859 (44619311215).jpg"
   },
   {
    "text": "After Columbia, NASA also added heaters at key points of the tank, to keep ice from forming under the foam. It is an odd sight, a machine carrying hundreds of tons of liquid hydrogen at minus two hundred fifty degrees, with small electric heaters stuck onto it. But where ice is dangerous, a little heat is cheaper than a big risk.",
@@ -119,10 +139,14 @@
    "text": "Why did the shuttle tank wear a big cap on top before launch? It was called the beanie cap, a vent hood thirteen feet wide, on an arm of the launch tower. Liquid oxygen in the tank is always boiling off into gas, and the hood collected the gas and carried it away from the shuttle. It was warmed with nitrogen gas so the vented oxygen did not freeze water vapor into ice near the top of the tank.",
    "query": "Space Shuttle beanie cap vent hood",
    "caption": "WHY IS THERE A CAP ON TOP OF THIS TANK?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "6. The beanie cap",
    "short": "Why Did the Space Shuttle Tank Wear a Cap Before Launch?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Beanie cap space shuttle.jpg"
   },
   {
    "text": "The cap lifted off the tank about two and a half minutes before launch, in a process that took twenty-five seconds. The arm then swung back to the tower about one minute forty-five seconds before liftoff. And it was not latched during the countdown, so if there was a hold, the hood could come back down again.",
@@ -138,10 +162,14 @@
    "text": "Why do rockets hiss out big white clouds before liftoff? It is boil-off. The liquid oxygen in the tank warms up a little all the time, and some of it turns to gas. If the gas stayed inside, the pressure would build up, so valves vent it out. The vapor is so cold that it freezes the water in the air into a white cloud, just like your breath on a cold winter morning.",
    "query": "rocket venting vapor pad",
    "caption": "WHY DOES THE ROCKET SMOKE ON THE PAD?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.22,
+    "y": 0.68
+   },
    "chapter": "7. The white clouds",
    "short": "Why Do Rockets Release White Clouds Before Launch?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Space Shuttle Columbia launching.jpg"
   },
   {
    "text": "A Falcon nine does the same, venting liquid oxygen on the pad as the propellant warms. The white cloud is a sign that the rocket is fueled and cold, and that its tanks are doing what they should.",
@@ -157,10 +185,14 @@
    "text": "Why does a launch pad flood with water as the rocket lifts off? The noise. A rocket engine's exhaust can reach around two hundred decibels near liftoff, so loud that the sound waves bounce off the pad and can damage the rocket itself. Water poured into the exhaust absorbs a lot of that acoustic energy. At the Space Shuttle pad, it brought the sound down to about one hundred forty-two decibels.",
    "query": "launch pad water sound suppression",
    "caption": "WHY DO ROCKETS SPRAY WATER AT LAUNCH?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "8. The water tower",
    "short": "Why Do Launch Pads Spray Water at Rockets?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:SpaceX Water Deluge Test at Pad 39A (33023773581).jpg"
   },
   {
    "text": "The shuttle pad's water tower held about three hundred thousand gallons. The water started flowing about six and a half seconds before the main engines lit, and drained in about forty-one seconds. For the huge SLS rocket, the system was upgraded to four hundred thousand gallons, at a peak flow of one point one million gallons a minute. Much of that water boils into the white clouds you see at launch.",
@@ -176,10 +208,14 @@
    "text": "Why is there a giant trench under a launch pad? Because the exhaust of a rocket has nowhere good to go. If it hit flat ground, it would bounce straight back up into the rocket. The trench and the flame deflector guide the exhaust away from the pad. They also redirect the sound energy, which makes the water system's job easier.",
    "query": "launch pad flame trench",
    "caption": "WHY IS THERE A HOLE UNDER THE ROCKET?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.42,
+    "y": 0.5
+   },
    "chapter": "9. The flame trench",
    "short": "Why Do Rockets Launch Over a Giant Trench?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Pad 34 flame deflectors.jpg"
   },
   {
    "text": "The deflector is a huge curved or wedge-shaped surface, built to take the full blast of the engines. The concrete and steel around it are covered in special heat-resistant layers. Even so, a pad can need repairs after a launch, because the exhaust is one of the harshest things a structure can face.",
@@ -195,10 +231,14 @@
    "text": "Why do the arms on a launch tower pull away just before liftoff? They carry the propellant, power and data lines to the rocket, called umbilicals, like the cord of a newborn baby. Until the last moments, the rocket is fed from the ground. Then each line has to disconnect, in the right order, and the arm has to swing out of the way of the rocket.",
    "query": "launch tower umbilical arm",
    "caption": "WHY DOES THIS ARM FALL AWAY?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.42,
+    "y": 0.4
+   },
    "chapter": "10. The arms that let go",
    "short": "Why Do Launch Towers Drop Their Arms Seconds Before Liftoff?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:SLS mobile launch platform and tower.jpg"
   },
   {
    "text": "On the Space Shuttle, the oxygen vent arm with the beanie cap retracted about one minute forty-five seconds before liftoff. But it stayed unlatched until the very end, so it could return if the countdown stopped. That way, a delay meant going back one step, not starting from zero. On a rocket, every system has a plan for when things do not go to plan.",
