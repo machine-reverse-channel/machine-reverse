@@ -1,0 +1,290 @@
+{
+ "id": "video52",
+ "title": "Why Don't Tower Cranes Fall Over?",
+ "length_scale": 1.6,
+ "scenes": [
+  {
+   "text": "A tower crane is a thin steel pole, sometimes taller than a thirty story building, with a long arm sticking out to one side. It lifts tonnes of steel over the heads of people, and on a windy night, nobody is in it. By every instinct, it should fall over. It almost never does. Today, eleven parts of a tower crane, and why each one exists.",
+   "query": "tower crane",
+   "caption": "WHY DOESN'T IT FALL?",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Tower cranes build almost every tall building in the world. They are put up in pieces, they grow with the building, and when the job is done, they disappear. Most people walk past them every day and never ask how a structure that looks this fragile can lift this much.",
+   "query": "tower crane",
+   "caption": "THEY BUILD EVERY CITY"
+  },
+  {
+   "text": "As always, every fact comes from a named source, crane makers, safety agencies, and official accident reports, all listed in the description. Let's start with the most important part, the one on the short arm.",
+   "query": "tower crane counterweight",
+   "caption": "WHY DOES THIS EXIST?"
+  },
+  {
+   "text": "Why does a tower crane carry heavy concrete blocks on its short arm? Because it is a giant seesaw. The long arm, called the jib, carries the load on one side of the mast. The short arm, called the counter jib, carries the counterweight on the other side. The blocks balance the weight of the jib and part of the load, so the mast is pushed mostly straight down, not bent to one side.",
+   "query": "tower crane counterweight",
+   "caption": "WHY ARE THERE CONCRETE BLOCKS UP THERE?",
+   "arrow": {
+    "x": 0.11,
+    "y": 0.25
+   },
+   "chapter": "1. The concrete blocks on the short arm",
+   "short": "Why Do Tower Cranes Have Concrete Blocks on Top?",
+   "cuts": 3,
+   "file": "File:Grue chantier.JPG"
+  },
+  {
+   "text": "The counterweight can be made of several concrete slabs, adding up to tens of tonnes on a big crane. It is fixed in place, so it cannot balance every load perfectly. When the hook is empty, the crane leans a little toward the counterweight. When it lifts a heavy load, it leans the other way. The mast is designed to handle both.",
+   "query": "tower crane",
+   "caption": "A GIANT SEESAW"
+  },
+  {
+   "text": "That is also why the counterweight blocks are put on in a precise order when the crane is assembled. If the jib is not installed yet and too many blocks are added, the crane can tip backward. Every step of putting a crane together follows a written sequence from the maker.",
+   "query": "Potain tower crane",
+   "caption": "IN A PRECISE ORDER"
+  },
+  {
+   "text": "Why can a tower crane lift a heavy load near the mast but only a small one at the tip of its jib? Because what matters is not just the weight, it is the weight times the distance. Ten tonnes close to the mast twists the crane much less than ten tonnes at the far end. So the farther out the trolley carries the hook, the lighter the load it is allowed to lift.",
+   "query": "Potain tower crane",
+   "caption": "WHY CAN'T THIS HOOK LIFT MORE?",
+   "arrow": {
+    "x": 0.12,
+    "y": 0.65
+   },
+   "chapter": "2. The hook that lifts less at the tip",
+   "short": "Why Can a Tower Crane Lift Less at the End of Its Arm?",
+   "cuts": 3,
+   "file": "File:Potain tower crane1bis.jpg"
+  },
+  {
+   "text": "Every crane has a load chart, a table that shows the maximum load at each distance. A crane that can lift around twelve tonnes near the mast may be allowed only two or three tonnes at the tip of a long jib. The operator is trained to read it, but the crane does not trust the operator alone.",
+   "query": "tower crane jib",
+   "caption": "THE LOAD CHART"
+  },
+  {
+   "text": "Inside, devices called limiters measure the load on the hoist rope and the position of the trolley. If a lift goes over the limit, the crane refuses. It stops the hoist from lifting higher and stops the trolley from moving out. It can only move in the safe direction, bringing the load closer to the mast.",
+   "query": "tower crane",
+   "caption": "THE CRANE SAYS NO"
+  },
+  {
+   "text": "Why does a tower crane need a huge block of concrete under it, hidden underground? Because the counterweight can only balance part of the load. The rest of the tipping force goes down the mast to the base. The bottom of the mast is bolted to anchors cast into a concrete foundation, often hundreds of tonnes of it, which holds the crane upright like the roots of a tree.",
+   "query": "tower crane base foundation",
+   "caption": "WHY IS THERE A GIANT BLOCK UNDER THE CRANE?",
+   "arrow": {
+    "x": 0.67,
+    "y": 0.6
+   },
+   "chapter": "3. The hidden foundation",
+   "short": "Why Do Tower Cranes Need a Giant Concrete Block?",
+   "cuts": 3,
+   "file": "File:A shot of the One Rincon Hill construction pit, the base of the crane and advertising banners, SF.JPG"
+  },
+  {
+   "text": "The foundation is designed for the worst case, the strongest wind at the site plus the crane's heaviest load. Engineers check the soil under it too. Weak ground can let the foundation tilt, and a crane that leans even a little at the bottom leans a lot at the top.",
+   "query": "tower crane",
+   "caption": "THE WORST CASE"
+  },
+  {
+   "text": "In two thousand six, in Bellevue, Washington, a tower crane fell onto apartment buildings during a storm, and a man inside was killed. Investigators found that the steel base the crane stood on had been poorly designed. Since then, many cities require engineers to approve every crane base before the crane goes up.",
+   "query": "crane collapse",
+   "caption": "BELLEVUE, 2006"
+  },
+  {
+   "text": "How does a tower crane get taller as the building rises? It lifts itself. A climbing frame around the mast has hydraulic jacks that push the whole top of the crane up by a few meters. That opens a gap, and the crane uses its own hook to lift a new mast section into it. The section is bolted in, and the crane has grown one step taller.",
+   "query": "Liebherr tower cranes",
+   "caption": "WHY DOES THIS CRANE GROW TALLER?",
+   "arrow": {
+    "x": 0.6,
+    "y": 0.5
+   },
+   "chapter": "4. The mast that grows",
+   "short": "Why Do Tower Cranes Grow Taller By Themselves?",
+   "cuts": 3,
+   "file": "File:Liebherr tower cranes dallas texas uptown 2009-08-18.jpg"
+  },
+  {
+   "text": "A crane standing on its own can only go so high before the wind and the loads bend the mast too much. So tall cranes are tied to the building with steel collars and braces every few floors. The building that the crane is building becomes its support.",
+   "query": "tower crane",
+   "caption": "TIED TO THE BUILDING"
+  },
+  {
+   "text": "Climbing is one of the most dangerous moments in a crane's life. During the jump, the top of the crane is held only by the climbing frame. Wind limits are lower, the jib must be balanced exactly, and nobody is allowed to lift anything else. It is done slowly, by specialist crews, following the maker's procedure step by step.",
+   "query": "tower crane mast climbing",
+   "caption": "THE DANGEROUS JUMP"
+  },
+  {
+   "text": "Why do crane operators release the brakes at night, so the crane can spin freely in the wind? Because a crane fighting the wind is in danger, and a crane turning with it is not. When the slewing brake is released, the wind pushes the jib around until it points downwind, like a weathervane. The long jib then shows its narrow end to the wind, and the force on the crane drops.",
+   "query": "Liebherr tower crane",
+   "caption": "WHY IS THIS CRANE LEFT FREE TO SPIN?",
+   "arrow": {
+    "x": 0.38,
+    "y": 0.4
+   },
+   "chapter": "5. The crane that spins in the wind",
+   "short": "Why Are Tower Cranes Left to Spin in the Wind at Night?",
+   "cuts": 3,
+   "file": "File:Liebherr tower crane at reconstruction of the GES-2 in Moscow.jpg"
+  },
+  {
+   "text": "If the brake were locked, a storm hitting the side of the jib could push with enormous force, and the crane might break or topple. So the rule on most sites is simple. When work stops, raise the hook, park the trolley, and set the crane to free slew. People who see cranes turning on their own at night are watching a safety system work.",
+   "query": "tower crane",
+   "caption": "LIKE A WEATHERVANE"
+  },
+  {
+   "text": "During the day, cranes have an anemometer on top that measures the wind. Above a certain speed, often around seventy kilometers an hour for normal work and lower for big flat loads, lifting must stop. A sheet of plywood or a glass panel acts like a sail, and the wind can swing it out of control.",
+   "query": "crane anemometer",
+   "caption": "STOP AT 70 KM/H"
+  },
+  {
+   "text": "Why does the top of a tower crane sit on a giant ring? Because the whole upper crane, the jib, the counter jib, the counterweight and the cab, has to turn around on top of the mast while carrying the load. The slewing ring is a huge ball or roller bearing that holds all of that weight, while letting it rotate smoothly in a full circle.",
+   "query": "tower crane slewing ring",
+   "caption": "WHY DOES THIS CRANE TURN ON A GIANT BEARING?",
+   "arrow": {
+    "x": 0.5,
+    "y": 0.35
+   },
+   "chapter": "6. The giant bearing",
+   "short": "Why Does a Tower Crane Turn on a Giant Bearing?",
+   "cuts": 3,
+   "file": "File:Electric motor on the slewing bearing of a remote controlled yellow Liebherr tower crane.jpg"
+  },
+  {
+   "text": "The ring has gear teeth cut into it. Electric motors with small gears turn against those teeth, slowly rotating the crane. Frequency drives let them start and stop very smoothly, because a sudden stop would make the load swing like a pendulum, tens of meters below.",
+   "query": "tower crane slewing",
+   "caption": "NO SUDDEN STOPS"
+  },
+  {
+   "text": "The bolts that hold the slewing ring are among the most critical in the crane. They are tightened to an exact force and inspected regularly. If they loosen or crack, the top of the crane can separate from the mast. A few bolts are all that hold the top in place.",
+   "query": "tower crane",
+   "caption": "A FEW CRITICAL BOLTS"
+  },
+  {
+   "text": "Why does the crane operator sit in a small cab at the top, tens of meters up? Because from there, they can see most of the site and the path of the load. On a busy site, the hook travels over workers, roads and other cranes. Being high up and close to the slewing ring also lets the operator feel how the crane moves.",
+   "query": "tower crane cab",
+   "caption": "WHY DOES THE OPERATOR SIT UP HERE?",
+   "arrow": {
+    "x": 0.48,
+    "y": 0.3
+   },
+   "chapter": "7. The cab at the top",
+   "short": "Why Do Crane Operators Sit So High Up?",
+   "cuts": 3,
+   "file": "File:Potain tower crane4 - Cabin.jpg"
+  },
+  {
+   "text": "Getting there means climbing ladders inside the mast, sometimes for more than ten minutes on very tall cranes. So many operators go up once at the start of the shift and stay there all day, with food and water. Some newer cranes have lifts in the mast, and some are controlled by remote from the ground.",
+   "query": "Potain crane cab",
+   "caption": "UP ONCE A DAY"
+  },
+  {
+   "text": "Even from the cab, the operator often cannot see the load, for example when it is behind a wall or several floors down. So a signaler on the ground or on the building guides each lift by radio. The operator moves the load blind, trusting the voice in their ear.",
+   "query": "tower crane",
+   "caption": "MOVING BLIND"
+  },
+  {
+   "text": "Why do some tower cranes have a jib that tilts up into the sky instead of sticking out flat? Because in a crowded city, a flat jib would swing over neighboring buildings, roads and other cranes. A luffing jib crane changes its reach by raising or lowering the jib. When it does not need to reach far, the jib points almost straight up, taking very little space.",
+   "query": "luffing jib crane",
+   "caption": "WHY DOES THIS CRANE'S ARM POINT UP?",
+   "arrow": {
+    "x": 0.62,
+    "y": 0.3
+   },
+   "chapter": "8. The arm that points up",
+   "short": "Why Do Some Tower Cranes Have Arms That Point Up?",
+   "cuts": 3,
+   "file": "File:Red Crane (16014404989).jpg"
+  },
+  {
+   "text": "Swinging a load over someone else's property is called oversailing, and in many cities it needs permission from the owner. Luffing cranes avoid most of it. They also let many cranes work close together on one site, each one raising its jib to pass above or below the others.",
+   "query": "luffing jib crane",
+   "caption": "OVERSAILING"
+  },
+  {
+   "text": "The price is complexity. A luffing crane needs a strong winch to raise and lower the jib with the load, and the jib itself is heavier. But in places like London, New York or Hong Kong, where every meter of sky is shared, the forest of upward pointing cranes is a common sight.",
+   "query": "tower crane",
+   "caption": "A FOREST OF ARMS"
+  },
+  {
+   "text": "Why can this crane arrive on a truck and stand up by itself in a few hours? Because it is a self erecting crane. The mast and jib are folded for transport, and the crane carries its own motors and ballast. On site, it unfolds itself, raising the mast and swinging out the jib, without another crane to help.",
+   "query": "self-erecting tower crane",
+   "caption": "WHY CAN THIS CRANE BUILD ITSELF?",
+   "arrow": {
+    "x": 0.72,
+    "y": 0.45
+   },
+   "chapter": "9. The crane that unfolds itself",
+   "short": "Why Can Some Cranes Unfold Themselves in Hours?",
+   "cuts": 3,
+   "file": "File:Seymour Flats Lisburn Comedil self erecting tower cran.jpg"
+  },
+  {
+   "text": "These cranes are made for smaller jobs, houses, low buildings and renovations, where bringing a big mobile crane for weeks would cost too much. They lift less and reach less, but they are fast to set up and easy to move to the next site.",
+   "query": "self-erecting tower crane",
+   "caption": "UP IN HOURS"
+  },
+  {
+   "text": "Because they stand on a small base with ballast instead of a deep foundation, they rely on the ground being level and firm. A soft corner, or a missing outrigger pad, is enough to tip one over. Even a small crane follows the same rule as a big one. The ground decides.",
+   "query": "tower crane",
+   "caption": "THE GROUND DECIDES"
+  },
+  {
+   "text": "Why do so many tower crane accidents happen not during lifting, but while the crane is being put up or taken down? Because in those moments, the crane is incomplete. Parts are missing, the balance is changing, and pins or bolts are removed one by one. A step done out of order can leave a section held by nothing.",
+   "query": "crane collapse",
+   "caption": "WHY DO CRANES FALL WHEN TAKEN APART?",
+   "arrow": {
+    "x": 0.6,
+    "y": 0.6
+   },
+   "chapter": "10. The pins that came out too early",
+   "short": "Why Do Tower Cranes Fall While Being Taken Apart?",
+   "cuts": 3,
+   "file": "File:Crane collapse (day after the crane fell down) - Bellevue, Washington.jpg"
+  },
+  {
+   "text": "In April two thousand nineteen, in Seattle, a tower crane being taken apart fell onto a street during strong winds. Four people were killed, two of them in cars below. Investigators found that pins holding mast sections together had been removed early, before the sections were ready to be lifted off, to save time.",
+   "query": "crane collapse",
+   "caption": "SEATTLE, 2019"
+  },
+  {
+   "text": "That is why makers publish exact sequences for erection and dismantling, with wind limits, and why many places now require trained, certified crews for this work. The crane is strongest when complete. The moments in between are where it is weakest.",
+   "query": "tower crane",
+   "caption": "WEAKEST IN BETWEEN"
+  },
+  {
+   "text": "How does the last crane get down from the top of a finished skyscraper? It needs another crane. When the building is done, a smaller crane is set up on the roof. It takes the big crane apart and lowers the pieces. Then an even smaller crane takes that one apart, and so on, until the last one is small enough to carry down in the building's lifts.",
+   "query": "Tower cranes Edinburgh",
+   "caption": "WHY DOES A CRANE NEED A CRANE?",
+   "arrow": {
+    "x": 0.42,
+    "y": 0.3
+   },
+   "chapter": "11. The crane that takes down the crane",
+   "short": "Why Does a Skyscraper Crane Need Another Crane to Get Down?",
+   "cuts": 3,
+   "file": "File:Tower cranes Edinburgh in 2019.jpg"
+  },
+  {
+   "text": "On the tallest towers in the world, this chain can take weeks. Every piece must be lowered carefully past windows that are already installed. The holes in floors and walls where the crane stood are then closed up, and from the street, nobody can tell a crane was ever there.",
+   "query": "tower crane",
+   "caption": "A CHAIN OF CRANES"
+  },
+  {
+   "text": "It is the last trick of a machine that is built to disappear. It arrives in pieces, grows with the building, holds it up, and leaves without a trace. All while staying upright, thanks to a counterweight, a foundation and a set of rules written in other people's accidents.",
+   "query": "tower crane",
+   "caption": "BUILT TO DISAPPEAR"
+  },
+  {
+   "text": "So here are the eleven. Concrete blocks on the short arm, and a hook that lifts less at the tip. A hidden foundation, and a mast that grows. A crane set free to spin in the wind, turning on a giant bearing, with an operator sitting at the top. An arm that points up, a crane that unfolds itself, pins that came out too early, and a crane that needs a crane to come down.",
+   "query": "tower crane",
+   "caption": "11 PARTS. 0 FALLS (MOSTLY).",
+   "chapter": "The verdict",
+   "cuts": 6
+  },
+  {
+   "text": "Next time you see a tower crane turning slowly over a city at night, you will know it is doing exactly what it was designed to do. If you want more machines explained part by part, subscribe to Machine Reverse. And tell us in the comments which machine you want us to take apart next.",
+   "query": "tower crane",
+   "caption": "SUBSCRIBE: MACHINE REVERSE",
+   "cuts": 4
+  }
+ ]
+}

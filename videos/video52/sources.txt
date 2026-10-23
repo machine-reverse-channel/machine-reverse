@@ -1,0 +1,7 @@
+- Tower crane parts (jib, counter-jib, counterweight, slewing ring, climbing frame, ties, load moment limiters, free slewing/weathervaning): Wikipedia, "Tower crane" https://en.wikipedia.org/wiki/Tower_crane ; Liebherr tower crane documentation https://www.liebherr.com/en/int/products/tower-cranes/
+- Load charts and limiters, wind limits for operation: OSHA 29 CFR 1926 Subpart CC "Cranes and Derricks in Construction" https://www.osha.gov/cranes-derricks ; UK HSE, "Tower cranes" https://www.hse.gov.uk/construction/
+- Bellevue, Washington crane collapse (16 November 2006, one death, base design): Washington State L&I report; Wikipedia, "2006 Bellevue crane collapse" https://en.wikipedia.org/wiki/2006_Bellevue_crane_collapse
+- Seattle crane collapse (27 April 2019, four deaths, pins removed early during disassembly): Washington State L&I citations; Wikipedia, "2019 Seattle crane collapse" https://en.wikipedia.org/wiki/2019_Seattle_crane_collapse
+- Luffing jib cranes and oversailing: Wikipedia, "Luffing jib crane" ; UK oversail licences
+- Self-erecting cranes: Potain / Liebherr self-erecting crane product pages
+- Dismantling cranes from the top of skyscrapers (derrick cranes, smaller cranes lowered by lift): Wikipedia, "Tower crane" (section on dismantling)
