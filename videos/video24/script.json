@@ -24,10 +24,14 @@
    "text": "Why do Le Mans cars have a fin on their back? To stop them from flying. A modern prototype has a very flat, wide body that works like a wing turned upside down. When the car goes straight, the air pushes it down. But if the car spins and slides sideways or backwards at high speed, the same body can start to work like a real wing, and lift the car off the ground.",
    "query": "Le Mans prototype shark fin",
    "caption": "WHY IS THERE A FIN ON THE BACK?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.3,
+    "y": 0.37
+   },
    "chapter": "1. The shark fin",
    "short": "Why Do Le Mans Cars Have a Fin on Their Back?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:2011 Peugeot 908 Donington Park 2023 01.jpg"
   },
   {
    "text": "The most famous case happened in nineteen ninety-nine. The Mercedes CLR lifted off three times that weekend. Mark Webber's car flipped over twice, in practice and in the warm up. Then in the race, Peter Dumbreck's car took off on a straight, somersaulted and landed in the trees beside the track. Amazingly, every driver survived. Mercedes withdrew its last car and left sports car racing.",
@@ -43,10 +47,14 @@
    "text": "Why do Le Mans cars have holes and slats on top of the wheel arches? Because the spinning wheels pump air into the wheel wells. A tyre turning at high speed drags air around with it, and that air gets trapped inside the bodywork. Trapped air means high pressure, and high pressure under the body pushes the car up, the opposite of what you want.",
    "query": "Le Mans prototype wheel arch louvres",
    "caption": "WHY ARE THERE HOLES ABOVE THE WHEELS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.47,
+    "y": 0.55
+   },
    "chapter": "2. The holes above the wheels",
    "short": "Why Do Race Cars Have Holes Above the Wheels?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Ferrari 499P - Hybrid, 2023.jpg"
   },
   {
    "text": "The louvres, those slats cut in the top of the wheel arch, let that air escape upwards. Less pressure inside, less lift and less drag. You will also see the same trick on some fast road cars and in many racing series. The holes look aggressive, but they are simply a pressure valve shaped by the wind tunnel.",
@@ -62,10 +70,14 @@
    "text": "Why did some old Le Mans cars have such long tails? Because of one straight. The Mulsanne, a public road closed for the race, was almost six kilometres long with no corner. Teams built special long tail versions of their cars, like the Porsche nine one seven LH, short for Langheck, long tail in German. A long, tapering tail lets the air close smoothly behind the car, and cuts drag.",
    "query": "Porsche 917 LH",
    "caption": "WHY IS THIS CAR SO LONG AT THE BACK?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.15,
+    "y": 0.35
+   },
    "chapter": "3. The long tail",
    "short": "Why Did Le Mans Cars Have Such Long Tails?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Porsche 917 LH (1971).jpg"
   },
   {
    "text": "Less drag meant higher top speed on the straight, and the Porsche nine one seven long tails went well over three hundred fifty kilometres per hour in the early nineteen seventies, on tyres and brakes of that time. The price was stability. A long tail with little downforce could become nervous at speed, and drivers described the car as moving around on the straight.",
@@ -81,10 +93,14 @@
    "text": "Why are there two tight chicanes in the middle of the Mulsanne straight? Because the cars became too fast. In nineteen eighty-eight, a WM Peugeot prototype driven by Roger Dorchy was clocked at four hundred five kilometres per hour on the straight. That is still the fastest speed ever recorded at Le Mans.",
    "query": "Mulsanne straight chicane",
    "caption": "WHY ARE THERE CORNERS ON THIS STRAIGHT?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.6,
+    "y": 0.45
+   },
    "chapter": "4. The chicanes on the straight",
    "short": "Why Did Le Mans Add Corners to Its Longest Straight?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:The Mulsanne Straight (5847759679).jpg"
   },
   {
    "text": "At those speeds, a tyre failure or a small mistake could be fatal, and the brakes and tyres of the time were at their limit. In nineteen ninety, two chicanes were added to break the straight into three shorter parts. The governing body would no longer approve circuits with straights that long. Top speeds dropped by dozens of kilometres per hour.",
@@ -100,10 +116,14 @@
    "text": "Why do Le Mans cars lift themselves off the ground in the pit stop? They have air jacks built in. Small pneumatic legs are hidden inside the car. A mechanic plugs a high pressure air lance into a valve on the bodywork, and the legs shoot down and lift the whole car in a second. No separate jack is needed.",
    "query": "racing car air jack",
    "caption": "WHY DOES THIS CAR LIFT ITSELF?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.33,
+    "y": 0.6
+   },
    "chapter": "5. The air jacks",
    "short": "Why Do Le Mans Cars Lift Themselves Up?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:United-autosports-le-mans-race-053.jpg"
   },
   {
    "text": "In endurance racing, the rules allow only a few mechanics to work on the car at the same time, and the car needs fuel, tyres and a driver change in the same stop. Carrying heavy jacks around the car would waste time. With air jacks, one person lifts the car with one movement, and the car drops to the ground the moment the lance is pulled out.",
@@ -119,10 +139,14 @@
    "text": "Why do Le Mans cars have glowing panels on their sides? At night, the track is dark, and more than sixty cars of different classes share it. The lit number panels let the marshals, the timing team and the fans identify every car. The colours show the class. In the World Endurance Championship, red is for the top Hypercars, blue for LMP2, and orange for the GT cars.",
    "query": "Le Mans car number panel night",
    "caption": "WHY DO THESE NUMBERS LIGHT UP?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.71,
+    "y": 0.6
+   },
    "chapter": "6. The glowing panels",
    "short": "Why Do Le Mans Cars Have Glowing Numbers?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:2011 Le Mans 24 Qualifying 03.jpg"
   },
   {
    "text": "Many cars also carry small LED displays that show their current position in the class. The leader carries a one, the second car a two, and so on, updated live during the race. For a driver coming up behind, it is useful information. Is the car in front fighting for a podium, or is it a back marker that will move aside?",
@@ -138,10 +162,14 @@
    "text": "Why do three drivers share one Le Mans car? Because no human can drive at the limit for twenty-four hours. The rules set a maximum time for each driver, and a minimum time too. So during the pit stop, one driver jumps out and the next one jumps in, often in less than a minute, while the car is refuelled.",
    "query": "Le Mans driver change",
    "caption": "WHY DO THREE DRIVERS SHARE ONE SEAT?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.5
+   },
    "chapter": "7. The driver change",
    "short": "Why Do Three Drivers Share One Le Mans Car?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Le Mans 1992 Olindo driver change.jpg"
   },
   {
    "text": "The drivers are often different heights, but there is only one seat. So each driver has a custom foam insert, moulded to his body, that slides into the seat. The pedals are often adjustable, and the belts are set so the outgoing driver can help strap in the next one. Teams practice driver changes as carefully as tyre changes.",
@@ -157,10 +185,14 @@
    "text": "Why can the electric motor of some Le Mans hybrids only push the car above a certain speed? Cars like the Toyota GR zero one zero hybrid have an electric motor on the front wheels. That gives four wheel drive when the motor is working. And four wheel drive is a huge advantage when accelerating out of slow corners, especially in the rain.",
    "query": "Toyota GR010 Hybrid",
    "caption": "WHY CAN THIS MOTOR ONLY WORK AT HIGH SPEED?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.3,
+    "y": 0.68
+   },
    "chapter": "8. The hybrid front axle",
    "short": "Why Can a Le Mans Hybrid Motor Only Work Above 190 km/h?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:2023 6 Hours of Spa-Francorchamps Toyota Gazoo Racing Toyota GR010 Hybrid No.8 (DSC08663).jpg"
   },
   {
    "text": "To keep the racing fair against cars that only drive the rear wheels, the rules say the front motor can only work above a set speed, around one hundred ninety kilometres per hour in the dry. Below that speed, the hybrid car is rear wheel drive like the others. Above it, the electric motor adds its power on the straights.",
@@ -176,10 +208,14 @@
    "text": "Why do Le Mans cars carry extra weight on purpose? It is called balance of performance. Because the cars in the top class are so different, with different engines, hybrid systems and shapes, the organisers adjust them to bring them closer. A car that is too fast may get extra ballast, less power, or less energy per stint.",
    "query": "Le Mans hypercar pit",
    "caption": "WHY DO THESE CARS CARRY EXTRA WEIGHT?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.62
+   },
    "chapter": "9. The hidden ballast",
    "short": "Why Do Le Mans Cars Carry Extra Weight on Purpose?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:51 Ferrari AF Corse Ferrari 499P Lone Star Le Mans.jpg"
   },
   {
    "text": "The ballast is usually heavy metal plates bolted low in the car, where they do the least harm to the handling. The numbers are published before each race and change during the season, based on data from every car. Teams spend a lot of time arguing about it, because a few kilograms can mean tenths of a second per lap.",
@@ -195,10 +231,14 @@
    "text": "Why did Le Mans drivers once run across the track to their cars at the start? This was the famous Le Mans start. The cars were lined up at an angle on one side of the track, and the drivers stood on the other side. When the flag dropped, they ran, jumped in, started the engine and drove away. It was spectacular, and dangerous.",
    "query": "Le Mans start 1960s",
    "caption": "WHY DID DRIVERS RUN TO THEIR CARS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.38,
+    "y": 0.42
+   },
    "chapter": "10. The old Le Mans start",
    "short": "Why Did Le Mans Drivers Run to Their Cars?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Sportwagenraces Zandvoort Le Mans start, Bestanddeelnr 910-4937.jpg"
   },
   {
    "text": "To save time, many drivers did not fasten their seat belts properly, planning to do it later on the straight. In nineteen sixty-nine, Jacky Ickx protested by walking slowly to his Ford, fastening his belts carefully, and starting last. On the first lap, driver John Woolfe crashed and was killed. Ickx went on to win the race.",

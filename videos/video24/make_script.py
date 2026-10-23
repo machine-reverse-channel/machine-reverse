@@ -121,6 +121,16 @@ sc("""Le Mans is not only a race. It is a laboratory that runs for twenty-four h
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:2011 Peugeot 908 Donington Park 2023 01.jpg", 0.3, 0.37),
+    2: ("File:Ferrari 499P - Hybrid, 2023.jpg", 0.47, 0.55),
+    3: ("File:Porsche 917 LH (1971).jpg", 0.15, 0.35),
+    4: ("File:The Mulsanne Straight (5847759679).jpg", 0.6, 0.45),
+    5: ("File:United-autosports-le-mans-race-053.jpg", 0.33, 0.6),
+    6: ("File:2011 Le Mans 24 Qualifying 03.jpg", 0.71, 0.6),
+    7: ("File:Le Mans 1992 Olindo driver change.jpg", 0.55, 0.5),
+    8: ("File:2023 6 Hours of Spa-Francorchamps Toyota Gazoo Racing Toyota GR010 Hybrid No.8 (DSC08663).jpg", 0.3, 0.68),
+    9: ("File:51 Ferrari AF Corse Ferrari 499P Lone Star Le Mans.jpg", 0.5, 0.62),
+    10: ("File:Sportwagenraces Zandvoort Le Mans start, Bestanddeelnr 910-4937.jpg", 0.38, 0.42),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
