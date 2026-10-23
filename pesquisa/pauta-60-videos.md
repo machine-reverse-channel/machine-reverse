@@ -1,6 +1,6 @@
 # Machine Reverse: pauta dos 60 vídeos
 
-Regra do título (decidida com o Vinicius em 23/10/2026): **todo título começa com WHY** e pergunta sobre UMA peça concreta que a pessoa já viu e nunca entendeu. O título é só a pergunta, curta e direta (ex.: "Why Is There a Hole in Airplane Windows?"). O número de peças aparece na thumbnail e na descrição, não no título. A pergunta e é a mesma pergunta da thumbnail com a flecha vermelha.
+Regra do título (decidida com o Vinicius em 23/10/2026): **todo título começa com WHY** e pergunta sobre UMA peça concreta que a pessoa já viu e nunca entendeu. O título é só a pergunta, curta e direta (ex.: "Why Is There a Hole in Airplane Windows?"). O número de peças aparece na thumbnail e na descrição, não no título. É a mesma pergunta da thumbnail com a flecha vermelha.
 
 Formato de cada vídeo longo (20+ min): uma lista de 9 a 12 peças. A peça do título abre o vídeo ou é a primeira grande revelação. Cada peça abre com a foto, a flecha e a pergunta, e vira um Short.
 
