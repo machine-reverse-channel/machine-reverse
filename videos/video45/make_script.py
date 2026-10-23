@@ -88,11 +88,11 @@ sc("""Japan began using slab track widely on the Sanyo Shinkansen in the ninetee
 
 # ---------- 8. EARTHQUAKE ----------
 part(8, "The earthquake detectors", "WHY DO THESE SENSORS STOP THE TRAIN?", "Why Can Bullet Trains Stop Before an Earthquake Hits?",
-     """Why can a bullet train start braking before an earthquake shaking arrives? Japan has seismometers along the coast and along the lines. An earthquake sends two main waves. The fast P wave arrives first and is weaker. The slower S wave carries the strong shaking. When the sensors detect the first wave, the system can cut power to trains automatically, and their emergency brakes start working, sometimes seconds before the strong shaking arrives.""",
+     """Why can a bullet train start braking before an earthquake shaking arrives? Japan has seismometers along the coast and along the lines. An earthquake sends two main waves. The fast P wave arrives first and is weaker. The slower S wave carries the strong shaking. When the sensors detect the first wave, the system can cut power to trains automatically, and their emergency brakes start working, sometimes seconds before the strong shaking arrives. Japan even places seismometers like this one on the ocean floor, to catch offshore earthquakes earlier.""",
      "seismometer")
 sc("""In two thousand four, during the Chuetsu earthquake, a Shinkansen train traveling at about two hundred kilometers an hour derailed. It was the first derailment of a Shinkansen in passenger service. Nobody was killed. After that, railways added devices that keep a derailed train close to the rails, so it slides along them instead of tipping over.""",
-   "Joetsu Shinkansen", "2004: THE FIRST DERAILMENT")
-sc("""In March twenty eleven, the huge Tohoku earthquake struck while Shinkansen trains were running on the Tohoku line. The warning system cut power, and the trains in service stopped without any passenger being hurt in a derailment. A few seconds of warning, used by machines instead of humans, can be the difference between a stop and a disaster.""",
+   "Joetsu Shinkansen", "2004: THE FIRST DERAILMENT", file="File:Joetsu Shinkansen derailed by the 2004 Chuetsu Earthquake 01.jpg")
+sc("""In March twenty eleven, the huge Tohoku earthquake struck while Shinkansen trains were running on the Tohoku line. The warning system cut power, and the trains in service stopped without any passenger being hurt in a derailment. In twenty twenty-two, another strong earthquake derailed a Tohoku Shinkansen near Shiroishi, and again nobody was killed. A few seconds of warning, used by machines instead of humans, can be the difference between a stop and a disaster.""",
    "Tohoku Shinkansen", "SECONDS OF WARNING")
 
 # ---------- 9. DOCTOR YELLOW ----------
@@ -128,6 +128,7 @@ PICKS = {
     5: ("File:JRCentralSeriesN700Nose.JPG", 0.5, 0.55),
     6: ("File:Shinkansen snow melting sprinkler water pipe ２.jpg", 0.4, 0.85),
     7: ("File:Tokaido Shinkansen Tokyo station Slab tracks 01.jpg", 0.55, 0.6),
+    8: ("File:Ocean Bottom Seismometer made by ERI, U-Tokyo.jpg", 0.5, 0.4),
     9: ("File:Doctor Yellow inspection running on Tokaido Shinkansen.jpg", 0.42, 0.55),
     10: ("File:Nakayama tunnel north entrance of the Joetsu Shinkansen C.jpg", 0.48, 0.8),
 }
