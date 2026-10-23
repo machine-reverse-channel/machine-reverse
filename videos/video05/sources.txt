@@ -1,0 +1,8 @@
+- F-16 relaxed static stability, fly-by-wire, side-stick, 30-degree seat, bubble canopy: Wikipedia, "General Dynamics F-16 Fighting Falcon" https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon
+- Canards and unstable delta designs: Wikipedia, "Canard (aeronautics)" https://en.wikipedia.org/wiki/Canard_(aeronautics) ; "Eurofighter Typhoon" https://en.wikipedia.org/wiki/Eurofighter_Typhoon
+- Leading edge extensions and vortex lift: Wikipedia, "Leading-edge extension" https://en.wikipedia.org/wiki/Leading-edge_extension
+- Stealth shaping, edge alignment, sawtooth panels, internal weapons: Wikipedia, "Stealth technology" https://en.wikipedia.org/wiki/Stealth_technology
+- Diverterless supersonic inlet (Lockheed, first flight 11 Dec 1996 on an F-16, ~30% lighter): Wikipedia, "Diverterless supersonic inlet" https://en.wikipedia.org/wiki/Diverterless_supersonic_inlet
+- F119 two-dimensional nozzle, 20 degrees up or down: Pratt & Whitney (RTX), "F119 Engine" https://www.rtx.com/en/prattwhitney/products/military-engines/f119
+- Martin-Baker lives saved (7,827 as of Aug 2026), zero-zero seats: EurAsian Times https://www.eurasiantimes.com/f-35-saab-gripen-jet-crashes-martin-baker-seats-save-two-more-pilots-total-now-at-7827/
+- Carrier arresting gear and bolters: Wikipedia, "Arresting gear" https://en.wikipedia.org/wiki/Arresting_gear

@@ -1,0 +1,232 @@
+{
+ "id": "video05",
+ "title": "Why Do Fighter Jets Look So Weird?",
+ "length_scale": 1.6,
+ "scenes": [
+  {
+   "text": "Some of the most advanced fighter jets in the world are designed to be unstable. Without a computer correcting them many times every second, they would flip out of control. Their tails lean sideways, their doors have teeth, their pilots lie almost on their backs, and some of them have a strange bump right in front of the engine. It all looks wrong. Today, ten fighter jet parts that look wrong, and why every one of them is right.",
+   "query": "fighter jet close up airshow",
+   "caption": "10 PARTS THAT LOOK WRONG",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "A fighter jet is a compromise between things that fight each other. It has to turn hard, fly faster than sound, hide from radar, carry weapons, and bring the pilot home alive. An airliner is designed to be calm and efficient. A fighter is designed to win. And that is why its shape breaks almost every rule you would expect from an airplane.",
+   "query": "F-16 Fighting Falcon flight",
+   "caption": "DESIGNED TO WIN"
+  },
+  {
+   "text": "As always, every fact here comes from a named source, the manufacturers, the air forces, and aviation references, all listed in the description. Let's start with the little wings in front of the big wings, and the idea of a plane that wants to fall out of the sky.",
+   "query": "Eurofighter Typhoon canard",
+   "caption": "WHY DOES THIS EXIST?"
+  },
+  {
+   "text": "Why do jets like the Eurofighter Typhoon, the Rafale and the Gripen have small wings in front of the main wing? They are called canards, and they are there because these jets are built to be unstable. A stable airplane wants to keep flying straight, and it fights you when you try to turn. An unstable airplane wants to change direction all the time. That makes it much more agile. The canards help control that instability and push the nose around very quickly.",
+   "query": "Eurofighter Typhoon canards",
+   "caption": "WHY ARE THERE WINGS IN FRONT?",
+   "arrow": true,
+   "chapter": "1. The little front wings",
+   "short": "Why Do Some Fighter Jets Have Wings in Front?",
+   "cuts": 3
+  },
+  {
+   "text": "The catch is that no human can fly an unstable airplane by hand. So these jets use fly by wire. The pilot's stick does not move the control surfaces directly. It sends a request to flight computers, and the computers move the canards and the other surfaces many times every second to keep the airplane under control. If all the computers failed, the airplane could not be flown. That is why there are several of them, checking each other.",
+   "query": "fighter jet flight control computer cockpit",
+   "caption": "A COMPUTER FLIES IT WITH YOU"
+  },
+  {
+   "text": "Canards also help on takeoff and landing. Because they lift the nose from the front, the airplane can rotate at lower speeds and land shorter. On a delta wing jet without a tail, they also act as the elevator. Small wings, big job. And they are the first clue that a fighter jet is a different kind of machine.",
+   "query": "Dassault Rafale takeoff",
+   "caption": "SMALL WINGS, BIG JOB"
+  },
+  {
+   "text": "There is a reason this matters so much. Older fighters were designed to be stable, like airliners, and they paid for it in agility. Fly by wire changed the rules. The F sixteen was the first production fighter intentionally designed to be slightly unstable, and almost every modern fighter since then has followed that path. The canards are simply the most visible sign of it.",
+   "query": "F-16 banking turn",
+   "caption": "UNSTABLE ON PURPOSE"
+  },
+  {
+   "text": "Why do the wings of jets like the F eighteen Hornet stretch forward almost to the cockpit, in a thin sharp edge? It is called a leading edge extension. At high angles, when the nose points far above the direction of flight, a normal wing stalls. The sharp extension creates a powerful spinning vortex of air that flows over the wing and keeps the air attached to it. That lets the jet keep flying and turning at angles that would make another airplane fall.",
+   "query": "F/A-18 Hornet leading edge extension",
+   "caption": "WHY DOES THE WING STRETCH TO THE NOSE?",
+   "arrow": true,
+   "chapter": "2. The wing extensions",
+   "short": "Why Do Fighter Jet Wings Stretch to the Nose?",
+   "cuts": 3
+  },
+  {
+   "text": "You can actually see these vortices. On a humid day, at an air show, when a Hornet pulls up hard, white spirals of condensation appear along the top of the wings, starting from those extensions. That is the air being spun into a tornado that holds the jet up. It is one of the reasons the Hornet can point its nose almost anywhere at low speed.",
+   "query": "F/A-18 vortex condensation",
+   "caption": "YOU CAN SEE THE TORNADO"
+  },
+  {
+   "text": "The same idea shows up on many modern fighters, sometimes as small strakes on the nose or body. The Su twenty-seven family, the F sixteen and the F eighteen all use sharp extensions where the wing meets the body. Engineers learned that a carefully shaped vortex is like a free extra wing at high angles. It weighs almost nothing and adds lift exactly when the jet needs it most, in a tight, slow turn.",
+   "query": "Su-27 fighter wing root",
+   "caption": "A FREE EXTRA WING"
+  },
+  {
+   "text": "Why do the twin tails on jets like the F twenty-two and the F thirty-five lean outward instead of standing straight up? One big reason is radar. A vertical tail meeting a flat wing or body makes a ninety degree corner. Corners like that bounce radar waves straight back to where they came from, like a mirror. Tilting the tails breaks that corner, so the radar energy is reflected away into the sky instead of back to the enemy.",
+   "query": "F-22 Raptor tails",
+   "caption": "WHY DO THESE TAILS LEAN SIDEWAYS?",
+   "arrow": true,
+   "chapter": "3. The tails that lean",
+   "short": "Why Do Stealth Jets Have Tilted Tails?",
+   "cuts": 3
+  },
+  {
+   "text": "Two tails also help at high angles of attack. When the nose is pointed very high, a single tail in the middle can be hidden behind the body, in turbulent air, and lose its grip. Two tails placed farther apart stay in cleaner air. So the same feature makes the jet harder to see and easier to control, two goals that usually fight each other.",
+   "query": "F-35 Lightning tails",
+   "caption": "HARDER TO SEE, EASIER TO FLY"
+  },
+  {
+   "text": "Stealth designers think of every surface as a mirror. The trick is not to make the airplane invisible, but to make sure that the radar energy that hits it goes almost anywhere except back to the radar. So the edges, angles and surfaces of a stealth jet are aligned with each other, in a few chosen directions. That idea explains the next strange part too.",
+   "query": "stealth fighter angles",
+   "caption": "EVERY SURFACE IS A MIRROR"
+  },
+  {
+   "text": "Why do the doors and panels on stealth jets have zigzag edges, like teeth? Because every edge on an airplane reflects radar, especially an edge that faces the radar straight on. A straight door edge would create a bright flash. The zigzag edges are angled to match the main edges of the wings and tail. That way, all the edges send their reflections in the same few directions, instead of lighting up in every direction.",
+   "query": "F-22 sawtooth panel edges",
+   "caption": "WHY DO THESE DOORS HAVE TEETH?",
+   "arrow": true,
+   "chapter": "4. The teeth on the doors",
+   "short": "Why Do Stealth Jet Doors Have Teeth?",
+   "cuts": 3
+  },
+  {
+   "text": "You can see the teeth on landing gear doors, weapon bay doors, and access panels. Even small gaps and screws matter. On stealth aircraft, maintenance crews treat panel edges and seams carefully, because a badly sealed gap can make the jet more visible to radar. A fighter can be stealthy in the factory and noticeably less stealthy after careless maintenance.",
+   "query": "F-35 weapons bay door",
+   "caption": "EVEN A GAP CAN BETRAY IT"
+  },
+  {
+   "text": "Stealth also changes how a jet carries weapons. Missiles and bombs hanging under the wings are full of edges and corners, so stealth jets carry them inside, in weapon bays with those same toothed doors. The doors snap open, the weapon drops out, and the doors close again in a moment. For that short time, the jet is a little easier to see. Then it disappears again.",
+   "query": "F-35 internal weapons bay open",
+   "caption": "WEAPONS HIDDEN INSIDE"
+  },
+  {
+   "text": "Why do some fighter jets, like the F sixteen and the F twenty-two, have a canopy with a golden tint? Because the cockpit is one of the brightest things on a fighter on radar. Radar waves go straight through clear glass and bounce around inside the cockpit, off the helmet, the seat and the instruments. A very thin metallic coating on the canopy, often based on indium tin oxide, reflects radar away while still letting the pilot see out.",
+   "query": "F-22 gold canopy",
+   "caption": "WHY IS THIS CANOPY GOLD?",
+   "arrow": true,
+   "chapter": "5. The gold canopy",
+   "short": "Why Do Some Fighter Jets Have Gold Canopies?",
+   "cuts": 3
+  },
+  {
+   "text": "The coating also blocks some heat and light from the sun, which helps the pilot in a cockpit that sits under a big bubble of glass. And the bubble itself is a design choice. The F sixteen's frameless bubble canopy gives the pilot a view almost all the way around, including behind. In a dogfight, seeing the enemy first can matter more than any weapon.",
+   "query": "F-16 bubble canopy",
+   "caption": "SEE FIRST, WIN FIRST"
+  },
+  {
+   "text": "The pilot's helmet is part of the system too. On the F thirty-five, the helmet displays flight data and images from cameras around the jet, so the pilot can look down and see through the floor of the airplane. The canopy, the helmet and the sensors work together. The cockpit is not just a seat with a view. It is a sensor station built around one person.",
+   "query": "F-35 pilot helmet",
+   "caption": "SEE THROUGH THE FLOOR"
+  },
+  {
+   "text": "Why do jets like the F thirty-five have a strange bump right in front of the engine intake? It is called a diverterless supersonic inlet. Air flowing along the body of the jet forms a slow, messy layer close to the skin, and engines hate that air. Older jets used a gap and a separate plate to push it away. The bump does the same job with no moving parts. Its shape pushes the slow air to the sides, so only clean air enters the engine.",
+   "query": "F-35 diverterless supersonic inlet",
+   "caption": "WHY IS THERE A BUMP HERE?",
+   "arrow": true,
+   "chapter": "6. The bump in front of the engine",
+   "short": "Why Do New Fighter Jets Have a Bump by the Engine?",
+   "cuts": 3
+  },
+  {
+   "text": "Lockheed Martin developed it in the early nineteen nineties and first flew it on December eleventh, nineteen ninety-six, on a modified F sixteen, which still reached Mach two. In the Joint Strike Fighter studies, the bump design was about thirty percent lighter than the traditional inlet, and it removed the gaps and plates that reflected radar. Today it appears on several new fighters around the world.",
+   "query": "F-16 diverterless inlet test",
+   "caption": "30 PERCENT LIGHTER"
+  },
+  {
+   "text": "The bump also helps hide the engine. The front of a jet engine, with its spinning fan, is one of the brightest radar targets on an airplane. Curved intake ducts and shapes like the bump help keep the fan out of direct view. Stealth is not one trick. It is hundreds of small decisions, and this is one of the most visible.",
+   "query": "fighter jet intake close up",
+   "caption": "HIDE THE FAN"
+  },
+  {
+   "text": "Why can the exhaust nozzles of the F twenty-two move up and down? It is called thrust vectoring. Normally an airplane turns by pushing air with its control surfaces, and at low speed there is not much air to push. The F twenty-two's engines can point their thrust as much as twenty degrees up or down. So even at very low speed, the jet can use the power of its engines to swing its nose around.",
+   "query": "F-22 thrust vectoring nozzle",
+   "caption": "WHY DO THESE NOZZLES MOVE?",
+   "arrow": true,
+   "chapter": "7. The nozzles that move",
+   "short": "Why Do Some Fighter Jet Nozzles Move?",
+   "cuts": 3
+  },
+  {
+   "text": "The nozzles are flat, not round, which also helps reduce the heat and radar signature from behind. The movement is managed automatically by the flight computers, together with the control surfaces. The pilot does not steer the nozzles. He or she just pulls the stick, and the computers decide how much to use the tail and how much to use the engines.",
+   "query": "F-22 Raptor rear view",
+   "caption": "FLAT FOR STEALTH"
+  },
+  {
+   "text": "Russian fighters like the Sukhoi Su thirty-five use round nozzles that can move in more directions, and they are famous for slow, impossible looking maneuvers at air shows. Whether those moves matter in real combat is debated. But at low speed, with the nose pointed where a normal jet cannot point it, thrust vectoring gives the pilot one more way to aim.",
+   "query": "Sukhoi Su-35 airshow",
+   "caption": "ONE MORE WAY TO AIM"
+  },
+  {
+   "text": "Why does the F sixteen pilot sit leaning so far back? The seat is reclined at thirty degrees, about twice as much as in most fighters. The reason is g force. In a hard turn, blood is pulled from the head toward the feet, and the pilot can black out. Leaning back reduces the height between the heart and the eyes, so the heart has an easier job pushing blood up to the brain. It increases the pilot's tolerance to high g.",
+   "query": "F-16 cockpit seat",
+   "caption": "WHY IS THIS PILOT LYING DOWN?",
+   "arrow": true,
+   "chapter": "8. The seat that leans back",
+   "short": "Why Do F-16 Pilots Sit Almost Lying Down?",
+   "cuts": 3
+  },
+  {
+   "text": "The same jet moved the control stick from the middle of the cockpit to the right side, on the armrest. A side stick lets the pilot rest the arm while pulling high g, and make precise inputs with the wrist. Because the F sixteen uses fly by wire, the stick barely moves. It mostly senses how hard the pilot is pushing. In a long, hard turn, those small details are the difference between staying in control and getting tired.",
+   "query": "F-16 side stick",
+   "caption": "THE STICK BARELY MOVES"
+  },
+  {
+   "text": "Even with the seat and the stick, pilots fight g force with their own bodies. They wear a g suit, trousers with air bladders that inflate automatically and squeeze the legs and belly, to keep blood from pooling in the lower body. And they use a breathing and straining technique, tensing the muscles to keep blood in the head. Pulling nine g is hard physical work.",
+   "query": "fighter pilot g suit",
+   "caption": "NINE G IS HARD WORK"
+  },
+  {
+   "text": "Why is there a yellow and black striped handle in front of the pilot's seat? That is the ejection handle. Pull it, and in less than a second the canopy is blown away or shattered, a rocket fires the seat out of the jet, a parachute opens, and the seat falls away from the pilot. The yellow and black stripes are the universal warning. On the ground, the seat is made safe with pins and red remove before flight flags, so nobody can fire it by accident.",
+   "query": "ejection seat handle",
+   "caption": "WHY IS THERE A YELLOW HANDLE HERE?",
+   "arrow": true,
+   "chapter": "9. The yellow handle",
+   "short": "Why Is There a Yellow Handle Between a Pilot's Legs?",
+   "cuts": 3
+  },
+  {
+   "text": "Modern seats are zero zero seats. That means they can save the pilot even at zero altitude and zero speed, sitting still on the runway. The seat is fired high enough for the parachute to open before reaching the ground. According to Martin-Baker, the British company that makes many of them, its seats had saved seven thousand eight hundred twenty-seven lives as of August twenty twenty-six.",
+   "query": "Martin-Baker ejection seat",
+   "caption": "7,827 LIVES"
+  },
+  {
+   "text": "Ejecting is violent. The acceleration can injure the spine, which is one reason pilots are trained to sit in a precise position before pulling the handle. But compared to staying in a doomed jet, it is the best option there is. Every one of those thousands of saved lives began with someone pulling a striped handle.",
+   "query": "pilot parachute descent",
+   "caption": "THE BEST BAD OPTION"
+  },
+  {
+   "text": "Why do navy fighters have a big hook under the tail? Because an aircraft carrier deck is far too short to land on normally. As the jet touches down, the hook catches one of several steel cables stretched across the deck, called arresting wires. The wires are connected to hydraulic engines below the deck that absorb the energy and stop a jet going around one hundred fifty miles an hour in about two seconds.",
+   "query": "F/A-18 tailhook arresting wire",
+   "caption": "WHY IS THERE A HOOK ON THIS JET?",
+   "arrow": true,
+   "chapter": "10. The hook on the tail",
+   "short": "Why Do Navy Jets Have a Hook on the Tail?",
+   "cuts": 3
+  },
+  {
+   "text": "Here is the part that looks crazy. When a navy jet touches down on a carrier, the pilot pushes the throttles to full power instead of pulling them back. If the hook misses all the wires, which is called a bolter, the jet needs enough power to fly off the end of the deck and try again. If the hook catches, the wire stops the jet anyway. Full power on landing is the safe choice.",
+   "query": "aircraft carrier landing full power",
+   "caption": "FULL POWER TO LAND"
+  },
+  {
+   "text": "Navy jets also have stronger landing gear, because carrier landings are hard, controlled crashes onto the deck without a flare. Many have folding wings, so more jets fit on a crowded ship. A navy fighter is basically a land fighter rebuilt to survive the harshest airport in the world.",
+   "query": "carrier fighter folded wings",
+   "caption": "THE HARSHEST AIRPORT"
+  },
+  {
+   "text": "So here are the ten. Little wings in front for an unstable jet that only computers can fly. Wing extensions that make tornadoes. Tails that lean away from radar, doors with teeth, and a golden canopy. A bump that replaces moving parts, nozzles that steer with thrust, a seat that leans back against g force, a striped handle that has saved thousands of lives, and a hook for the shortest runway on earth.",
+   "query": "fighter jet formation flight",
+   "caption": "10 PARTS. 10 REASONS.",
+   "chapter": "The verdict",
+   "cuts": 6
+  },
+  {
+   "text": "Fighter jets look strange because every part is the answer to a fight, against physics, against radar, or against an enemy. If you want more machines explained part by part, subscribe to Machine Reverse. And tell us in the comments which machine you want us to take apart next.",
+   "query": "fighter jet afterburner takeoff",
+   "caption": "SUBSCRIBE: MACHINE REVERSE",
+   "cuts": 4
+  }
+ ]
+}

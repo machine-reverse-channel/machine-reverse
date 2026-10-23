@@ -1,0 +1,20 @@
+Eurofighter Typhoon canard
+Saab Gripen canard
+F/A-18 Hornet leading edge extension
+F/A-18 LEX vortex
+F-22 Raptor vertical tail
+F-35 tail
+F-22 sawtooth
+F-35 landing gear door
+F-22 canopy
+F-16 canopy
+F-35 intake
+diverterless supersonic inlet
+F-22 nozzle
+thrust vectoring nozzle
+F-16 cockpit
+ACES II ejection seat
+ejection seat handle
+Martin-Baker ejection seat
+tailhook
+arresting hook F/A-18
