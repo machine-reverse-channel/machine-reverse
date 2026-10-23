@@ -1,0 +1,90 @@
+# Photo credits: Why Don't Oil Rigs Float Away?
+
+All photos from Wikimedia Commons.
+
+- Oil platform P-51 (Brazil).jpg by Divulgação Petrobras / ABr, CC BY 3.0 br, https://commons.wikimedia.org/wiki/File:Oil_platform_P-51_(Brazil).jpg
+- Oil Platform Crew Transfer.jpg by GuavaTrain, CC0, https://commons.wikimedia.org/wiki/File:Oil_Platform_Crew_Transfer.jpg
+- 00 3783 Oil and gas platform in Norway.jpg by W. Bulach, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:00_3783_Oil_and_gas_platform_in_Norway.jpg
+- Risers going below a offshore oil platform.jpg by FrogsLegs71, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Risers_going_below_a_offshore_oil_platform.jpg
+- North Sea Oil Rig (7573694644).jpg by Gary Bembridge from London, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:North_Sea_Oil_Rig_(7573694644).jpg
+- An oil rig offshore Vungtau.jpg by Genghiskhanviet, Public domain, https://commons.wikimedia.org/wiki/File:An_oil_rig_offshore_Vungtau.jpg
+- Holstein at Dusk.jpg by GuavaTrain, CC0, https://commons.wikimedia.org/wiki/File:Holstein_at_Dusk.jpg
+- Offshore Platform With Accommodation.jpg by Berardo62, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Offshore_Platform_With_Accommodation.jpg
+- 1 North Sea oil platform 240918.jpg by NAC, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1_North_Sea_oil_platform_240918.jpg
+- North Sea oil rig.jpg by Gary Bembridge from London, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:North_Sea_oil_rig.jpg
+- Jack-up next to Tower Bridge.jpg by Jfataar, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Jack-up_next_to_Tower_Bridge.jpg
+- Jack-up-rig-in-the-caspian-sea.JPG by www.dragonoil.com., CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Jack-up-rig-in-the-caspian-sea.JPG
+- Jackup Rig - Galveston TX.jpg by Joshua Doubek, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Jackup_Rig_-_Galveston_TX.jpg
+- Jack-up-rig-in-the-caspian-sea 1.JPG by www.dragonoil.commodifications by Penyulap, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Jack-up-rig-in-the-caspian-sea_1.JPG
+- Maersk Convincer 4.jpg by DeltaSquad833, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Maersk_Convincer_4.jpg
+- Maersk Convincer 01.jpg by Pangalau, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Maersk_Convincer_01.jpg
+- Jackup Rig Neptune R03.jpg by Marc Ryckaert, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Jackup_Rig_Neptune_R03.jpg
+- Bowlus BA-100 Baby Albatross - DPLA - 7726e481325cdabf9c55dd58690d04bd (page 3).jpg by William H. Bowlus, CC0, https://commons.wikimedia.org/wiki/File:Bowlus_BA-100_Baby_Albatross_-_DPLA_-_7726e481325cdabf9c55dd58690d04bd_(page_3).jpg
+- 62M152.jpg by Jan Oelker (upload by Senvion int), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:62M152.jpg
+- Heidrun, Norskehavet (28276260560).jpg by Norsk olje og gass, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Heidrun,_Norskehavet_(28276260560).jpg
+- Maersk Resolute at night in Esbjerg.jpg by Thomas Dahlstrøm Nielsen, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Maersk_Resolute_at_night_in_Esbjerg.jpg
+- Champion Oil Field.jpg by DeltaSquad833, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Champion_Oil_Field.jpg
+- LUN-A.jpg by Russian.dissident, CC0, https://commons.wikimedia.org/wiki/File:LUN-A.jpg
+- Signal Hill, Long Beach, California, circa 1930 - Postcard (4689443338).jpg by Steve Shook from Moscow, Idaho, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Signal_Hill,_Long_Beach,_California,_circa_1930_-_Postcard_(4689443338).jpg
+- Offshore Accommodation Rig Safe Concordia Curacao Jan 2018 8915.jpg by ImagePerson, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Offshore_Accommodation_Rig_Safe_Concordia_Curacao_Jan_2018_8915.jpg
+- Caspian Sea and Oil platform.jpg by Asif Masimov (masimovasif.net), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Caspian_Sea_and_Oil_platform.jpg
+- Shell Perdido deepwater offshore production platform (51115227891).jpg by Bureau of Safety and Environmental Enforcement BSEE, Public domain, https://commons.wikimedia.org/wiki/File:Shell_Perdido_deepwater_offshore_production_platform_(51115227891).jpg
+- A Day in the Life of an Inspector (31560957883).jpg by Bureau of Safety and Environmental Enforcement BSEE, Public domain, https://commons.wikimedia.org/wiki/File:A_Day_in_the_Life_of_an_Inspector_(31560957883).jpg
+- Spar SRV wagen.JPG by Freaky, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Spar_SRV_wagen.JPG
+- Federal Offshore Well Permits Support Safe Energy and Economic Development (35652644446).jpg by Bureau of Safety and Environmental Enforcement BSEE, Public domain, https://commons.wikimedia.org/wiki/File:Federal_Offshore_Well_Permits_Support_Safe_Energy_and_Economic_Development_(35652644446).jpg
+- Single Point Mooring Spm Sokol (173409613).jpeg by Maksim Safiullin, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Single_Point_Mooring_Spm_Sokol_(173409613).jpeg
+- Single Point Mooring Spm Sokol (173409605).jpeg by Maksim Safiullin, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Single_Point_Mooring_Spm_Sokol_(173409605).jpeg
+- Troll A Platform.jpg by Swinsto101, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Troll_A_Platform.jpg
+- Troll A, Nordsjøen (28530306086).jpg by Norsk olje og gass, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Troll_A,_Nordsj%C3%B8en_(28530306086).jpg
+- Troll A, Nordsjøen (28278693570).jpg by Norsk olje og gass, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Troll_A,_Nordsj%C3%B8en_(28278693570).jpg
+- Oncolitic dolostone with galena (Bonneterre Dolomite, Upper Cambrian; St. Joseph's Lead Mine, Flat Rock, Missouri, USA) 2 (26547155937).jpg by James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Oncolitic_dolostone_with_galena_(Bonneterre_Dolomite,_Upper_Cambrian;_St._Joseph%27s_Lead_Mine,_Flat_Rock,_Missouri,_USA)_2_(26547155937).jpg
+- Calcite (Knight Mine, Rosiclare, Illinois, USA) 4.jpg by James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Calcite_(Knight_Mine,_Rosiclare,_Illinois,_USA)_4.jpg
+- Newfoundland Iceberg just off Exploits Island.jpg by Shawn from Airdrie, Canada, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Newfoundland_Iceberg_just_off_Exploits_Island.jpg
+- Iceberg of Salvage, NL.jpg by Ycleymans, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Iceberg_of_Salvage,_NL.jpg
+- Ramnäs bruk AB 5.jpg by Dependability, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ramn%C3%A4s_bruk_AB_5.jpg
+- Scarabeo 8.jpg by Kvitrud, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Scarabeo_8.jpg
+- Work on the drill floor at the semi-submersible rig Polar Pioneer.jpg by Vidar Dons Lindrupsen, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Work_on_the_drill_floor_at_the_semi-submersible_rig_Polar_Pioneer.jpg
+- Alexander L Kielland and Edda 2-7C NOMF-02663-1-650.jpg by Norsk Oljemuseum, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Alexander_L_Kielland_and_Edda_2-7C_NOMF-02663-1-650.jpg
+- Alexander L Kielland Column D drifting in the water NOMF-02697-1-172.jpg by Norsk Oljemuseum, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Alexander_L_Kielland_Column_D_drifting_in_the_water_NOMF-02697-1-172.jpg
+- Ramnäs bruk AB 2.jpg by Dependability, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ramn%C3%A4s_bruk_AB_2.jpg
+- Odin Viking (17968682128).jpg by Alan Jamieson from Aberdeen, Scotland, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Odin_Viking_(17968682128).jpg
+- Siemens Schottel Propulsor.jpg by Siemens AG, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Siemens_Schottel_Propulsor.jpg
+- Kraanwerkschip Thialf en ponton - Calandkanaal - Port of Rotterdam (26112739253).jpg by Frans Berkelaar, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Kraanwerkschip_Thialf_en_ponton_-_Calandkanaal_-_Port_of_Rotterdam_(26112739253).jpg
+- Kraanwerkschip Thialf & diepwaterconstructieschip Balder - Calandkanaal - Port of Rotterdam (25232817582).jpg by Frans Berkelaar, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Kraanwerkschip_Thialf_%26_diepwaterconstructieschip_Balder_-_Calandkanaal_-_Port_of_Rotterdam_(25232817582).jpg
+- Deep Value Driller docked at Nedrevåge.jpg by Christoffer Hjeltnes Støle, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Deep_Value_Driller_docked_at_Nedrev%C3%A5ge.jpg
+- Las Palmas de Gran Canaria - drillships - 2018.jpg by Niels Johannes, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Las_Palmas_de_Gran_Canaria_-_drillships_-_2018.jpg
+- 2025 07 24 Océan Arctique équipage en action David Monmarché plongée Moon Pool P1005493.jpg by Maéva Bardy - Fondation Tara Océan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2025_07_24_Oc%C3%A9an_Arctique_%C3%A9quipage_en_action_David_Monmarch%C3%A9_plong%C3%A9e_Moon_Pool_P1005493.jpg
+- Before Raising the Derrick on the 448.JPG by Joshua Doubek, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Before_Raising_the_Derrick_on_the_448.JPG
+- Pulling Pipe on the Derrick Floor preparing to trip into the hole.JPG by Joshua Doubek, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Pulling_Pipe_on_the_Derrick_Floor_preparing_to_trip_into_the_hole.JPG
+- Development-driller-3.jpg by U.S. Coast Guard photo by Petty Officer 3rd Class Patrick Kelley., Public domain, https://commons.wikimedia.org/wiki/File:Development-driller-3.jpg
+- Blowout Preventer (BOP).jpg by Matthew Colvin de Valle, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Blowout_Preventer_(BOP).jpg
+- Blowout Preventer (BOP) Cut Away.jpg by Ed Schipul, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Blowout_Preventer_(BOP)_Cut_Away.jpg
+- Blow Out Preventer.jpg by Ed Schipul, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Blow_Out_Preventer.jpg
+- Deepwater Horizon oil spill - May 24, 2010.jpg by NASA/GSFC, MODIS Rapid Response, Public domain, https://commons.wikimedia.org/wiki/File:Deepwater_Horizon_oil_spill_-_May_24,_2010.jpg
+- Deepwater Horizon offshore drilling unit on fire 2010.jpg by Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:Deepwater_Horizon_offshore_drilling_unit_on_fire_2010.jpg
+- Ocean Traveler - SAS2009-10-2066.jpg by Creator:Odeco, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Ocean_Traveler_-_SAS2009-10-2066.jpg
+- Ocean Traveler - SAS2009-10-2063.jpg by Creator:Odeco, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Ocean_Traveler_-_SAS2009-10-2063.jpg
+- Gullfaks Alpha.jpg by JanChr, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Gullfaks_Alpha.jpg
+- Plate-forme de production de N'Kossa, au large du Congo (Ifremer 00550-66148 - 13761).jpg by Stephane Lesbats (IFREMER, Pôle Images, Centre Bretagne - ZI de la Pointe du Diable - CS 10070 - 29280 Plouzané, France), CC BY 4.0, https://commons.wikimedia.org/wiki/File:Plate-forme_de_production_de_N%27Kossa,_au_large_du_Congo_(Ifremer_00550-66148_-_13761).jpg
+- Plate-forme de production de N'Kossa, au large du Congo (Ifremer 00550-66148 - 13760).jpg by Stephane Lesbats (IFREMER, Pôle Images, Centre Bretagne - ZI de la Pointe du Diable - CS 10070 - 29280 Plouzané, France), CC BY 4.0, https://commons.wikimedia.org/wiki/File:Plate-forme_de_production_de_N%27Kossa,_au_large_du_Congo_(Ifremer_00550-66148_-_13760).jpg
+- Flare boom 111.jpg by Ciacho5, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Flare_boom_111.jpg
+- Flare boom with burner123.JPG by Ciacho5, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Flare_boom_with_burner123.JPG
+- Kimanis Sabah SOGT-Kimanis-01a.jpg by CEphoto, Uwe Aranas, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Kimanis_Sabah_SOGT-Kimanis-01a.jpg
+- Seria Refinery flare stack in 2025 - 03.jpg by Yu Chu Chin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Seria_Refinery_flare_stack_in_2025_-_03.jpg
+- Freefall lifeboat.JPG by ~riley, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Freefall_lifeboat.JPG
+- Atlantis 2 Free-Fall Lifeboat Port of Tallinn 15 May 2025.jpg by Pjotr Mahhonin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Atlantis_2_Free-Fall_Lifeboat_Port_of_Tallinn_15_May_2025.jpg
+- Atlantis 2 Free-Fall Lifeboat and Lettering Port of Tallinn 15 May 2025.jpg by Pjotr Mahhonin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Atlantis_2_Free-Fall_Lifeboat_and_Lettering_Port_of_Tallinn_15_May_2025.jpg
+- Atlantis 2 Free-Fall Lifeboat Front View Port of Tallinn 15 May 2025.jpg by Pjotr Mahhonin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Atlantis_2_Free-Fall_Lifeboat_Front_View_Port_of_Tallinn_15_May_2025.jpg
+- Atlantis 2 Funnel Free-Fall Lifeboat and Flag Port of Tallinn 15 May 2025.jpg by Pjotr Mahhonin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Atlantis_2_Funnel_Free-Fall_Lifeboat_and_Flag_Port_of_Tallinn_15_May_2025.jpg
+- Memorial in Glasgow to the 167 men who died 6th July 1988 on the Piper Alpha platform RIP.jpg by Bolckow, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Memorial_in_Glasgow_to_the_167_men_who_died_6th_July_1988_on_the_Piper_Alpha_platform_RIP.jpg
+- Piper Alpha Memorial.jpg by Iain Cameron, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Piper_Alpha_Memorial.jpg
+- SUNBATHERS AT HUNTINGTON BEACH, AND AN OIL PLATFORM OFFSHORE. NEARBY A MAJOR HOUSING DEVELOPMENT IS UNDER... - NARA - 557484.jpg by Charles O'Rear, Public domain, https://commons.wikimedia.org/wiki/File:SUNBATHERS_AT_HUNTINGTON_BEACH,_AND_AN_OIL_PLATFORM_OFFSHORE._NEARBY_A_MAJOR_HOUSING_DEVELOPMENT_IS_UNDER..._-_NARA_-_557484.jpg
+- CNOOC headquarters building, Chaoyangmen, Beijing.jpg by Daniel Case, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:CNOOC_headquarters_building,_Chaoyangmen,_Beijing.jpg
+- Off Shore Drilling Rig, Santa Barbara, CA, 6 December, 2011.JPG by TheConduqtor, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Off_Shore_Drilling_Rig,_Santa_Barbara,_CA,_6_December,_2011.JPG
+- Helicopter and offshore support vessel from a oil rig.jpg by FrogsLegs71, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Helicopter_and_offshore_support_vessel_from_a_oil_rig.jpg
+- Helicopter and offshore support vessel from a oil rig2.jpg by FrogsLegs71, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Helicopter_and_offshore_support_vessel_from_a_oil_rig2.jpg
+- CNOOC Building in Potou, Zhanjiang.jpg by DragonSamYU, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:CNOOC_Building_in_Potou,_Zhanjiang.jpg
+- Oil Platforms at Sunset.jpg by Glenn Beltz, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Oil_Platforms_at_Sunset.jpg
+- Sunset, Platform Holly.jpg by Glenn Beltz, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Sunset,_Platform_Holly.jpg
+- Sunset, Platform Holly - 2015.jpg by Glenn Beltz, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Sunset,_Platform_Holly_-_2015.jpg
+- Surfers And Platform Holly At Sunset (56914828).jpeg by Glenn Beltz, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Surfers_And_Platform_Holly_At_Sunset_(56914828).jpeg

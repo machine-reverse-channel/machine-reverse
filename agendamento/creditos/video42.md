@@ -1,0 +1,91 @@
+# Photo credits: Why Are Port Cranes So Gigantic?
+
+All photos from Wikimedia Commons.
+
+- Hamburg Hafen Containerterminal.jpg by Raimond Spekking, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hamburg_Hafen_Containerterminal.jpg
+- Portainers, WPAhoi, Waltershofer Hafen, Hamburg (P1080572).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Portainers,_WPAhoi,_Waltershofer_Hafen,_Hamburg_(P1080572).jpg
+- Container Crane Lyttelton. (12807777564).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0, https://commons.wikimedia.org/wiki/File:Container_Crane_Lyttelton._(12807777564).jpg
+- Ship-to-shore cranes at the Davao International Container Terminal.jpg by ROBINSON NIÑAL/PPD, Public domain, https://commons.wikimedia.org/wiki/File:Ship-to-shore_cranes_at_the_Davao_International_Container_Terminal.jpg
+- Container crane in Gdynia.JPG by Boatbuilder, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Container_crane_in_Gdynia.JPG
+- Container-Terminal Bremerhaven 01.jpg by H. Zell, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Container-Terminal_Bremerhaven_01.jpg
+- J34 586 Hafen Montevideo, Containerkräne.jpg by Falk2, CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:J34_586_Hafen_Montevideo,_Containerkr%C3%A4ne.jpg
+- J34 587 Hafen Montevideo, Containerkräne.jpg by Falk2, CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:J34_587_Hafen_Montevideo,_Containerkr%C3%A4ne.jpg
+- MAERSK HANOI Container Ship (Port Koper SIKOP, 2023).jpg by Petar Milošević, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:MAERSK_HANOI_Container_Ship_(Port_Koper_SIKOP,_2023).jpg
+- MSC HARMONY III (container ship, 2006) in Port Koper (SIKOP, 2024).jpg by Petar Milošević, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:MSC_HARMONY_III_(container_ship,_2006)_in_Port_Koper_(SIKOP,_2024).jpg
+- Container cranes at the MPET- MSC PSA European Terminal in Port of Antwerp (Kieldrecht, Belgium) during the sunset civil twilight (DSCF3919).jpg by Trougnouf, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Container_cranes_at_the_MPET-_MSC_PSA_European_Terminal_in_Port_of_Antwerp_(Kieldrecht,_Belgium)_during_the_sunset_civil_twilight_(DSCF3919).jpg
+- Container cranes at the MPET- MSC PSA European Terminal in Port of Antwerp (Kieldrecht, Belgium) during the sunset civil twilight (DSCF3904).jpg by Trougnouf, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Container_cranes_at_the_MPET-_MSC_PSA_European_Terminal_in_Port_of_Antwerp_(Kieldrecht,_Belgium)_during_the_sunset_civil_twilight_(DSCF3904).jpg
+- Offshore fondable knuckle boom crane and skid inside a 20 ft. container (01).JPG by S.J. de Waard, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Offshore_fondable_knuckle_boom_crane_and_skid_inside_a_20_ft._container_(01).JPG
+- Dörpen - Industriestraße - DUK 09 ies.jpg by Frank Vincentz, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:D%C3%B6rpen_-_Industriestra%C3%9Fe_-_DUK_09_ies.jpg
+- Container cranes in Tokyo Bay.jpg by Syced, CC0, https://commons.wikimedia.org/wiki/File:Container_cranes_in_Tokyo_Bay.jpg
+- Container cranes in Tokyo Bay 2.jpg by Syced, CC0, https://commons.wikimedia.org/wiki/File:Container_cranes_in_Tokyo_Bay_2.jpg
+- Container cranes at the Port of Oakland-.jpg by Yair-haklai, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Container_cranes_at_the_Port_of_Oakland-.jpg
+- Container cranes at the Port of Oakland.jpg by Cullen328, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Container_cranes_at_the_Port_of_Oakland.jpg
+- The Zhen Hua 24 delivers four new Neo-Panamax cranes to Baltimore - 210909-G-XD768-004.jpg by Petty Officer 1st Class Tara Molle-Carr, Public domain, https://commons.wikimedia.org/wiki/File:The_Zhen_Hua_24_delivers_four_new_Neo-Panamax_cranes_to_Baltimore_-_210909-G-XD768-004.jpg
+- The Zhen Hua 24 delivers four new Neo-Panamax cranes to Baltimore - 210909-G-XD768-002.jpg by Petty Officer 1st Class Tara Molle-Carr, Public domain, https://commons.wikimedia.org/wiki/File:The_Zhen_Hua_24_delivers_four_new_Neo-Panamax_cranes_to_Baltimore_-_210909-G-XD768-002.jpg
+- 2017 Paul D. Conley Container Terminal container cranes from Boston Harbor 2.jpg by Beyond My Ken, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2017_Paul_D._Conley_Container_Terminal_container_cranes_from_Boston_Harbor_2.jpg
+- RWG Super-Post containercranes Rotterdam.JPG by Zandcee, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:RWG_Super-Post_containercranes_Rotterdam.JPG
+- HMM ALGECIRAS.jpg by kees torn, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:HMM_ALGECIRAS.jpg
+- Container Ship CMA CGM Theodore Roosevelt in NY Harbor on Sept 7, 2017 (36415318053).jpg by USACE NY, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Container_Ship_CMA_CGM_Theodore_Roosevelt_in_NY_Harbor_on_Sept_7,_2017_(36415318053).jpg
+- Lifted container 01.jpg by Bengt Oberger, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lifted_container_01.jpg
+- Container lift.jpg by Bengt Oberger, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Container_lift.jpg
+- Container grip.jpg by Bengt Oberger, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Container_grip.jpg
+- Port Lyttleton. NZ (31780902976).jpg by Bernard Spragg. NZ from Christchurch, New Zealand, CC0, https://commons.wikimedia.org/wiki/File:Port_Lyttleton._NZ_(31780902976).jpg
+- Vallarpadam Container terminal at night IMG 20260505 191934770.jpg by Ranjithsiji, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Vallarpadam_Container_terminal_at_night_IMG_20260505_191934770.jpg
+- Container terminal in Minneapolis.jpg by Wikideas1, CC0, https://commons.wikimedia.org/wiki/File:Container_terminal_in_Minneapolis.jpg
+- Container twistlock connector.agr.jpg by ArnoldReinhold, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Container_twistlock_connector.agr.jpg
+- Container lock----6005【 Pictures taken in Japan 】.jpg by Gazouya-japan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Container_lock----6005%E3%80%90_Pictures_taken_in_Japan_%E3%80%91.jpg
+- Container twistlock lever.jpg by Gazouya, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Container_twistlock_lever.jpg
+- Shipping container stacks - Port of Rotterdam - 2017 - 5.jpg by AgainErick, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shipping_container_stacks_-_Port_of_Rotterdam_-_2017_-_5.jpg
+- Shipping container stacks - Port of Rotterdam - 2017 - 4.jpg by AgainErick, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Shipping_container_stacks_-_Port_of_Rotterdam_-_2017_-_4.jpg
+- Container stack on Edith Maersk (7098374635).jpg by Maersk Line, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Container_stack_on_Edith_Maersk_(7098374635).jpg
+- Container Ship (2875308472).jpg by Daniel Ramirez from Honolulu, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Container_Ship_(2875308472).jpg
+- Good view from up here ... ABP Crane Driver's Cabin at Southampton - geograph.org.uk - 3057631.jpg by Terry Robinson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Good_view_from_up_here_..._ABP_Crane_Driver%27s_Cabin_at_Southampton_-_geograph.org.uk_-_3057631.jpg
+- Container crane @ Container terminal @ Harbour Tour @ Spido @ Rotterdam (30530491716).jpg by Guilhem Vellut from Annecy, France, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Container_crane_@_Container_terminal_@_Harbour_Tour_@_Spido_@_Rotterdam_(30530491716).jpg
+- Container crane @ Container terminal @ Harbour Tour @ Spido @ Rotterdam (29935413414).jpg by Guilhem Vellut from Annecy, France, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Container_crane_@_Container_terminal_@_Harbour_Tour_@_Spido_@_Rotterdam_(29935413414).jpg
+- Container crane.JPG by FocalPoint, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Container_crane.JPG
+- Crane lifts container from vessel (9551822).jpg by U.S. Army photo by Sgt. Deziree Keay, Public domain, https://commons.wikimedia.org/wiki/File:Crane_lifts_container_from_vessel_(9551822).jpg
+- APM Terminal Maasvlakte Rotterdam.jpg by Spielvogel, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:APM_Terminal_Maasvlakte_Rotterdam.jpg
+- Port Of Rotterdam (108839505).jpeg by Arian, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Port_Of_Rotterdam_(108839505).jpeg
+- Dynon Road rail yards container crane.JPG by Brycewhite, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Dynon_Road_rail_yards_container_crane.JPG
+- Container crane on the outskirts of Cork - geograph.org.uk - 6290017.jpg by Gareth James, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Container_crane_on_the_outskirts_of_Cork_-_geograph.org.uk_-_6290017.jpg
+- Container crane at the Oakland Seaport.jpg by Cullen328, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Container_crane_at_the_Oakland_Seaport.jpg
+- Container crane and electricity pylon.jpg by HighVoltage 5576, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Container_crane_and_electricity_pylon.jpg
+- The port of Long Beach 2 by Don Ramey Logan.jpg by Don Ramey Logan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:The_port_of_Long_Beach_2_by_Don_Ramey_Logan.jpg
+- Greenock cruise ship berth 20211020 Edda Sun.jpg by dave souza, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Greenock_cruise_ship_berth_20211020_Edda_Sun.jpg
+- The Zhen Hua 24 delivers four new Neo-Panamax cranes to Baltimore - 210909-G-XD768-003.jpg by Petty Officer 1st Class Tara Molle-Carr, Public domain, https://commons.wikimedia.org/wiki/File:The_Zhen_Hua_24_delivers_four_new_Neo-Panamax_cranes_to_Baltimore_-_210909-G-XD768-003.jpg
+- Zhen Hua 11 portainer.jpg by ctbolt, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Zhen_Hua_11_portainer.jpg
+- Left Coast Lifter (5652006573).jpg by Eugene Kim from San Francisco, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Left_Coast_Lifter_(5652006573).jpg
+- ABOU KARIM IV (ship, 1978), Sète 01.jpg by Christian Ferrer, CC BY 4.0, https://commons.wikimedia.org/wiki/File:ABOU_KARIM_IV_(ship,_1978),_S%C3%A8te_01.jpg
+- Crane Pontoon IBIS IV.JPG by TeWeBs, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Crane_Pontoon_IBIS_IV.JPG
+- Container cranes at the MPET- MSC PSA European Terminal in Port of Antwerp (Kieldrecht, Belgium) during the sunset civil twilight (DSCF3901).jpg by Trougnouf, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Container_cranes_at_the_MPET-_MSC_PSA_European_Terminal_in_Port_of_Antwerp_(Kieldrecht,_Belgium)_during_the_sunset_civil_twilight_(DSCF3901).jpg
+- Paketzentrum Frauenfeld Container Terminal.jpg by 1-Byte, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Paketzentrum_Frauenfeld_Container_Terminal.jpg
+- Tollerort2007-11-09.jpg by Bahnmoeller, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Tollerort2007-11-09.jpg
+- A Low Cloud Bank Spotlights the Oakland Shoreline While Two Shipyard Cranes Stand Watch – Crane Cove Park, Dogpatch, San Francisco - Flickr - dalecruse.jpg by Dale Cruse - 12M views from San Francisco, CA, USA, CC BY 4.0, https://commons.wikimedia.org/wiki/File:A_Low_Cloud_Bank_Spotlights_the_Oakland_Shoreline_While_Two_Shipyard_Cranes_Stand_Watch_%E2%80%93_Crane_Cove_Park,_Dogpatch,_San_Francisco_-_Flickr_-_dalecruse.jpg
+- Crews remove containers on MV Dali (240408-A-PA223-1006).jpg by Charles Delano / U.S. Army Corps of Engineers, Public domain, https://commons.wikimedia.org/wiki/File:Crews_remove_containers_on_MV_Dali_(240408-A-PA223-1006).jpg
+- Containers being moved from bow of the MV Dali (240408-O-QH057-7662).jpg by Bobby Petty / U.S. Army Corps of Engineers, Public domain, https://commons.wikimedia.org/wiki/File:Containers_being_moved_from_bow_of_the_MV_Dali_(240408-O-QH057-7662).jpg
+- FEMA - 38945 - Cotton bales damaged by Hurricane Ike in Texas.jpg by Jocelyn Augustino, Public domain, https://commons.wikimedia.org/wiki/File:FEMA_-_38945_-_Cotton_bales_damaged_by_Hurricane_Ike_in_Texas.jpg
+- Hurricane Marie Middle Breakwater repair crane.JPG by Greg Fuderer, Public domain, https://commons.wikimedia.org/wiki/File:Hurricane_Marie_Middle_Breakwater_repair_crane.JPG
+- Offenes Containerschiff.jpg by Seebeer at German Wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Offenes_Containerschiff.jpg
+- Rotra Vente 2017-05-27 JDohrn.jpg by Jens Dohrn, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Rotra_Vente_2017-05-27_JDohrn.jpg
+- 2021-11-19 Damaged container ship, MV ZIM KINGSTON - IMO 9389693.jpg by Gordon Leggett, CC BY 4.0, https://commons.wikimedia.org/wiki/File:2021-11-19_Damaged_container_ship,_MV_ZIM_KINGSTON_-_IMO_9389693.jpg
+- 10 MV Pollux containers Torshavn 300918.jpg by NAC, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:10_MV_Pollux_containers_Torshavn_300918.jpg
+- Pinguin im Hafenmuseum 03.jpg by Hinnerk11, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Pinguin_im_Hafenmuseum_03.jpg
+- Stacks of lobster traps in Norra Grundsund 2.jpg by W.carter, CC0, https://commons.wikimedia.org/wiki/File:Stacks_of_lobster_traps_in_Norra_Grundsund_2.jpg
+- Stacks of lobster traps in Norra Grundsund 11.jpg by W.carter, CC0, https://commons.wikimedia.org/wiki/File:Stacks_of_lobster_traps_in_Norra_Grundsund_11.jpg
+- Straddle carrier CT Brhv.jpg by Garitzko, Public domain, https://commons.wikimedia.org/wiki/File:Straddle_carrier_CT_Brhv.jpg
+- Straddle carrier from Port of Chittagong (05).JPG by Moheen Reeyad, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Straddle_carrier_from_Port_of_Chittagong_(05).JPG
+- Haydarpasa, Istanbul (P1100193).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Haydarpasa,_Istanbul_(P1100193).jpg
+- Automatisches Hochregallager mit Regalbediengeräten.jpg by Gilgen Logistics AG, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Automatisches_Hochregallager_mit_Regalbedienger%C3%A4ten.jpg
+- President Ronald Reagan Stacking Wood During His Trip to California to Rancho Del Cielo - DPLA - a81d7759366cbabcb6741a9feebd6ebb.jpg by President (1981-1989 : Reagan). White House Photographic Office. 1981-1989, Public domain, https://commons.wikimedia.org/wiki/File:President_Ronald_Reagan_Stacking_Wood_During_His_Trip_to_California_to_Rancho_Del_Cielo_-_DPLA_-_a81d7759366cbabcb6741a9feebd6ebb.jpg
+- Aerial image of the Bremerhaven container terminal (view from the southeast).jpg by Carsten Steger, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Bremerhaven_container_terminal_(view_from_the_southeast).jpg
+- Container-Terminal Bremehaven (2019).jpg by Olga Ernst, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Container-Terminal_Bremehaven_(2019).jpg
+- Container crane at Antwerp harbour pic3.JPG by Alf van Beem, CC0, https://commons.wikimedia.org/wiki/File:Container_crane_at_Antwerp_harbour_pic3.JPG
+- Container ship 'Uni-Phoenix' (IMO 9202170) entering the Port of Haifa - 2023-11-28 (DSC4935 - DSC4987).guetzli.jpg by DmitTrix, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Container_ship_%27Uni-Phoenix%27_(IMO_9202170)_entering_the_Port_of_Haifa_-_2023-11-28_(DSC4935_-_DSC4987).guetzli.jpg
+- Container ship 'Admiral Mars' (IMO 9360984) at the anchorage of the Port of Haifa, Israel - 2024-02-09 (DSC9626-DSC9636; Hugin align 11 photos, de-vignette; G'MIC Median Blend, shore & ship separately; GIMP manual masking).jpegli-q096.jpg by DmitTrix, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Container_ship_%27Admiral_Mars%27_(IMO_9360984)_at_the_anchorage_of_the_Port_of_Haifa,_Israel_-_2024-02-09_(DSC9626-DSC9636;_Hugin_align_11_photos,_de-vignette;_G%27MIC_Median_Blend,_shore_%26_ship_separately;_GIMP_manual_masking).jpegli-q096.jpg
+- Ship On Shore, Sheerness - geograph.org.uk - 6270986.jpg by Richard Rogerson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Ship_On_Shore,_Sheerness_-_geograph.org.uk_-_6270986.jpg
+- The Ship on Shore, Sheerness - geograph.org.uk - 3603481.jpg by Chris Whippet, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:The_Ship_on_Shore,_Sheerness_-_geograph.org.uk_-_3603481.jpg
+- The Ship on Shore Pub, Sheerness - geograph.org.uk - 1696282.jpg by canalandriversidepubs co uk, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:The_Ship_on_Shore_Pub,_Sheerness_-_geograph.org.uk_-_1696282.jpg
+- Port Jersey container ship sunset 2018.jpg by Eric Kilby, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Port_Jersey_container_ship_sunset_2018.jpg
+- SunSet And Maersk Container Ship - panoramio.jpg by ---=XEON=---, CC BY 3.0, https://commons.wikimedia.org/wiki/File:SunSet_And_Maersk_Container_Ship_-_panoramio.jpg
+- Container Ship Irenes Warwick (26323645199).jpg by Atomic Taco from Seattle, WA, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Container_Ship_Irenes_Warwick_(26323645199).jpg
+- Container Ship passing in the distance. (5292687402).jpg by Daniel Ramirez from Honolulu, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Container_Ship_passing_in_the_distance._(5292687402).jpg

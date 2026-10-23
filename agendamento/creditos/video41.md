@@ -1,0 +1,79 @@
+# Photo credits: Why Did the Titanic Sink So Fast?
+
+All photos from Wikimedia Commons.
+
+- RMS Titanic 3.jpg by Francis Godolphin Osbourne Stuart, Public domain, https://commons.wikimedia.org/wiki/File:RMS_Titanic_3.jpg
+- RMS Titanic 3 (cropped to ship).jpg by Francis Godolphin Osbourne Stuart, Public domain, https://commons.wikimedia.org/wiki/File:RMS_Titanic_3_(cropped_to_ship).jpg
+- Titanic at Cobh.jpg by AnonymousUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:Titanic_at_Cobh.jpg
+- RMS Olympic and Titanic Design Model.jpg by Robert Welch, Public domain, https://commons.wikimedia.org/wiki/File:RMS_Olympic_and_Titanic_Design_Model.jpg
+- Titanic sinking, painting by Willy Stöwer.jpg by Willy Stöwer, Public domain, https://commons.wikimedia.org/wiki/File:Titanic_sinking,_painting_by_Willy_St%C3%B6wer.jpg
+- Walker - An Unsinkable Titanic (1912) page 117.jpg by John Bernard Walker, Public domain, https://commons.wikimedia.org/wiki/File:Walker_-_An_Unsinkable_Titanic_(1912)_page_117.jpg
+- Train leaving Titanic Quarter station - geograph.org.uk - 7882237.jpg by Marathon, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Train_leaving_Titanic_Quarter_station_-_geograph.org.uk_-_7882237.jpg
+- Harland and Wolff crane from Titanic Quarter - geograph.org.uk - 5493569.jpg by Robert Eva, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Harland_and_Wolff_crane_from_Titanic_Quarter_-_geograph.org.uk_-_5493569.jpg
+- Knocking off at Harland & Wolff, Belfast.jpg by The original uploader was Stavros1 at English Wikipedia., Public domain, https://commons.wikimedia.org/wiki/File:Knocking_off_at_Harland_%26_Wolff,_Belfast.jpg
+- Titanic side plan annotated English.png by AnonymousUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:Titanic_side_plan_annotated_English.png
+- Studying bugs in the ice cube tray (8695416809).jpg by U.S. Fish and Wildlife Service Southeast Region, Public domain, https://commons.wikimedia.org/wiki/File:Studying_bugs_in_the_ice_cube_tray_(8695416809).jpg
+- Bottles of water and a tray of ice cubes inside a fridge freezer.jpg by Philsacor, CC0, https://commons.wikimedia.org/wiki/File:Bottles_of_water_and_a_tray_of_ice_cubes_inside_a_fridge_freezer.jpg
+- RMS Olympic and RMS Majestic in Southampton.jpg by AnonymousUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:RMS_Olympic_and_RMS_Majestic_in_Southampton.jpg
+- RMS Olympic arriving Jarrow for scrapping (2).jpg by Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:RMS_Olympic_arriving_Jarrow_for_scrapping_(2).jpg
+- Walker - An Unsinkable Titanic (1912) page 103.jpg by John Bernard Walker, Public domain, https://commons.wikimedia.org/wiki/File:Walker_-_An_Unsinkable_Titanic_(1912)_page_103.jpg
+- Supernova from above (20180422-DJI 0040-CC).jpg by ESO/S. Lowery, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Supernova_from_above_(20180422-DJI_0040-CC).jpg
+- Probable SS Great Eastern Hull remains.jpg by 21Svg3tyhd777, CC0, https://commons.wikimedia.org/wiki/File:Probable_SS_Great_Eastern_Hull_remains.jpg
+- Homeward Bound- "The Great Eastern" MET 256657.jpg by Robert Charles Dudley, CC0, https://commons.wikimedia.org/wiki/File:Homeward_Bound-_%22The_Great_Eastern%22_MET_256657.jpg
+- Three Polynesian double-hulled canoes.jpg by Nurg, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Three_Polynesian_double-hulled_canoes.jpg
+- Polynesian double-hulled and outrigger canoes.jpg by Nurg, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Polynesian_double-hulled_and_outrigger_canoes.jpg
+- Titanic's Rivets.JPG by User 699, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Titanic%27s_Rivets.JPG
+- Titanic (left), Olympic (right).jpg by John Westbeech Kempster (1864–1947), Public domain, https://commons.wikimedia.org/wiki/File:Titanic_(left),_Olympic_(right).jpg
+- Hamilton Graving Dock - hull of some small boat - geograph.org.uk - 3702208.jpg by Joseph Mischyshyn, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Hamilton_Graving_Dock_-_hull_of_some_small_boat_-_geograph.org.uk_-_3702208.jpg
+- Wrought iron toasting fork - DPLA - afeee5c3a25845c8684310d25330849c.jpg by unknown, Public domain, https://commons.wikimedia.org/wiki/File:Wrought_iron_toasting_fork_-_DPLA_-_afeee5c3a25845c8684310d25330849c.jpg
+- Beneath the old riveted train-viaduct, east of Central Station, in Amsterdam 2006.jpg by Fons Heijnsbroek, CC0, https://commons.wikimedia.org/wiki/File:Beneath_the_old_riveted_train-viaduct,_east_of_Central_Station,_in_Amsterdam_2006.jpg
+- Titanic wreck model.jpg by Kirk, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Titanic_wreck_model.jpg
+- Detached rusticles hires.jpg by Lori Johnston, RMS Titanic Expedition 2003, NOAA-OE, Public domain, https://commons.wikimedia.org/wiki/File:Detached_rusticles_hires.jpg
+- Olympic Titanic Belfast.jpg by Robert Welch, Public domain, https://commons.wikimedia.org/wiki/File:Olympic_Titanic_Belfast.jpg
+- Sea Trials of RMS Titanic, 2nd of April 1912.jpg by Teufelbeutel, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Sea_Trials_of_RMS_Titanic,_2nd_of_April_1912.jpg
+- 2022-08-21 01 HORIZON ARCTIC - IMO 9732838.jpg by Gordon Leggett, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2022-08-21_01_HORIZON_ARCTIC_-_IMO_9732838.jpg
+- Liberty Star with SRB after STS-87.jpg by NASA, Public domain, https://commons.wikimedia.org/wiki/File:Liberty_Star_with_SRB_after_STS-87.jpg
+- Liberty Star with SRB after STS-87 (2).jpg by NASA, Public domain, https://commons.wikimedia.org/wiki/File:Liberty_Star_with_SRB_after_STS-87_(2).jpg
+- Proba udarnosci probki 03.jpg by Andrzej Otrębski, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Proba_udarnosci_probki_03.jpg
+- Lorette Charpy - Glasgow 2018 - 03.jpg by TwoWings, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lorette_Charpy_-_Glasgow_2018_-_03.jpg
+- RMS Olympic's propellers.jpg by Harland & Wolff Shipyard, Public domain, https://commons.wikimedia.org/wiki/File:RMS_Olympic%27s_propellers.jpg
+- Titanic Bridge - geograph.org.uk - 2708667.jpg by Jo Turner, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Titanic_Bridge_-_geograph.org.uk_-_2708667.jpg
+- Iceberg A22A, South Atlantic Ocean.jpg by Image provided by the ISS Crew Earth Observations experiment and the Image Science & Analysis Laboratory, NASA - Johnson Space Center., Public domain, https://commons.wikimedia.org/wiki/File:Iceberg_A22A,_South_Atlantic_Ocean.jpg
+- Table iceberg west of Sjuøyane, Arctic ocean.jpg by Andreas Weith, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Table_iceberg_west_of_Sju%C3%B8yane,_Arctic_ocean.jpg
+- Olympic and Titanic Alt.jpg by unknown, Public domain, https://commons.wikimedia.org/wiki/File:Olympic_and_Titanic_Alt.jpg
+- Olympic and Titanic (cropped).jpg by unknown, Public domain, https://commons.wikimedia.org/wiki/File:Olympic_and_Titanic_(cropped).jpg
+- Olympic and Titanic.jpg by unknown, Public domain, https://commons.wikimedia.org/wiki/File:Olympic_and_Titanic.jpg
+- Replica DFS 108-53 Habicht E ‘D-1901’ (49827267351).jpg by Alan Wilson from Peterborough, Cambs, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Replica_DFS_108-53_Habicht_E_%E2%80%98D-1901%E2%80%99_(49827267351).jpg
+- Wielingen old propeller in Drydock p6, Antwerp, Belgium.jpg by AlfvanBeem, CC0, https://commons.wikimedia.org/wiki/File:Wielingen_old_propeller_in_Drydock_p6,_Antwerp,_Belgium.jpg
+- Wielingen propellers in Drydock p6, Antwerp, Belgium.jpg by AlfvanBeem, CC0, https://commons.wikimedia.org/wiki/File:Wielingen_propellers_in_Drydock_p6,_Antwerp,_Belgium.jpg
+- Titanic Bridge and Crow's Nest.jpg by Francis Godolphin Osbourne Stuart, Public domain, https://commons.wikimedia.org/wiki/File:Titanic_Bridge_and_Crow%27s_Nest.jpg
+- Het schip Titanic, dat op 15 april 1912 bij de Noordpool tegen een ijsberg voer en zonk, SFA001004747.jpg by Francis Godolphin Osbourne Stuart, Public domain, https://commons.wikimedia.org/wiki/File:Het_schip_Titanic,_dat_op_15_april_1912_bij_de_Noordpool_tegen_een_ijsberg_voer_en_zonk,_SFA001004747.jpg
+- Scheepvaart, schepen op naam, scheepsrampen, SFA003004220.jpg by Francis Godolphin Osbourne Stuart, Public domain, https://commons.wikimedia.org/wiki/File:Scheepvaart,_schepen_op_naam,_scheepsrampen,_SFA003004220.jpg
+- Glaciers and Icebergs at Cape York.jpg by Brocken Inaglory, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Glaciers_and_Icebergs_at_Cape_York.jpg
+- Iceberg with hole near Sandersons Hope 2007-07-28 2.jpg by Kim Hansen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Iceberg_with_hole_near_Sandersons_Hope_2007-07-28_2.jpg
+- Ship radar, and antennas.jpg by Albarubescens, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ship_radar,_and_antennas.jpg
+- Ship radar of the Scenic Emerald.JPG by High Contrast, CC BY 3.0 de, https://commons.wikimedia.org/wiki/File:Ship_radar_of_the_Scenic_Emerald.JPG
+- Titanic Marconi Wireless Radio Room.jpg by Francis Browne, Public domain, https://commons.wikimedia.org/wiki/File:Titanic_Marconi_Wireless_Radio_Room.jpg
+- Clifden, Ireland 1992 (32531700808).jpg by Mike McBey, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Clifden,_Ireland_1992_(32531700808).jpg
+- Cape Bear Lighthouse (22275375732).jpg by Dennis G. Jarvis, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Cape_Bear_Lighthouse_(22275375732).jpg
+- The SS Californian en route to America.jpg by Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:The_SS_Californian_en_route_to_America.jpg
+- Chevrolet Silverado SS 1.jpg by LukaCali, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Chevrolet_Silverado_SS_1.jpg
+- RMS Carpathia.jpg by Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:RMS_Carpathia.jpg
+- Rms carpathia passengers on deck 1914 blasius zeiser osa group of 1914.JPG by RMS Carpathia official photographer, Public domain, https://commons.wikimedia.org/wiki/File:Rms_carpathia_passengers_on_deck_1914_blasius_zeiser_osa_group_of_1914.JPG
+- Carpathia - Titanic lifeboats.jpg by HO, The New York Times, Public domain, https://commons.wikimedia.org/wiki/File:Carpathia_-_Titanic_lifeboats.jpg
+- Photograph of two lifeboats carying TITANIC survivors. The folowing caption appears on the back of the mat, "Boat No... - NARA - 278336.jpg by Louis Ogden, Public domain, https://commons.wikimedia.org/wiki/File:Photograph_of_two_lifeboats_carying_TITANIC_survivors._The_folowing_caption_appears_on_the_back_of_the_mat,_%22Boat_No..._-_NARA_-_278336.jpg
+- Titanic's lifeboats in New York.jpg by Keystone Press, Public domain, https://commons.wikimedia.org/wiki/File:Titanic%27s_lifeboats_in_New_York.jpg
+- Carpathia Deck.jpg by Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:Carpathia_Deck.jpg
+- Titanic-lifeboat-colorized.jpg by J.W. Barker (Carpathia passenger) credited in The Sphere (London, 4 May 1912),  p. 91. Carpathia was the ship that received the Titanic's distress signal and came to rescue the survivors., Public domain, https://commons.wikimedia.org/wiki/File:Titanic-lifeboat-colorized.jpg
+- Tallink Superfast IX lifeboat drill in Paldiski South Harbour.jpg by KarlShipSpotting / KarlShipSpotting, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Tallink_Superfast_IX_lifeboat_drill_in_Paldiski_South_Harbour.jpg
+- Lifeboat drill (1).jpg by Marwan Mohamad, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lifeboat_drill_(1).jpg
+- Titanic leaving Southampton.png by AnonymousUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:Titanic_leaving_Southampton.png
+- Stöwer Titanic.jpg by Willy Stöwer, Public domain, https://commons.wikimedia.org/wiki/File:St%C3%B6wer_Titanic.jpg
+- Titanic sinking Wikivoyage feature banner.jpg by Willy Stöwer, Public domain, https://commons.wikimedia.org/wiki/File:Titanic_sinking_Wikivoyage_feature_banner.jpg
+- Titanic Safe.jpg by Lindemann97, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Titanic_Safe.jpg
+- Titanic lifeboat.jpg by Louis Ogden, Public domain, https://commons.wikimedia.org/wiki/File:Titanic_lifeboat.jpg
+- Photograph of a lifeboat carrying TITANIC survivors. The following partial caption appears on the back of the... - NARA - 278338.jpg by Louis Ogden, Public domain, https://commons.wikimedia.org/wiki/File:Photograph_of_a_lifeboat_carrying_TITANIC_survivors._The_following_partial_caption_appears_on_the_back_of_the..._-_NARA_-_278338.jpg
+- Cruise ship lifeboats, cabins and portholes.jpg by Mariojan photo, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cruise_ship_lifeboats,_cabins_and_portholes.jpg
+- Lifeboats for cruise ship "Quantum of the Seas".JPG by HenSti, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lifeboats_for_cruise_ship_%22Quantum_of_the_Seas%22.JPG
+- A lifeboat on the cruise ship Scarlet Lady.jpg by The Silver Novice, CC BY 2.0, https://commons.wikimedia.org/wiki/File:A_lifeboat_on_the_cruise_ship_Scarlet_Lady.jpg
+- Lifeboat for cruise ship "Quantum of the Seas".JPG by HenSti, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lifeboat_for_cruise_ship_%22Quantum_of_the_Seas%22.JPG
