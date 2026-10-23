@@ -1,0 +1,717 @@
+{
+ "train wheel profile": [
+  {
+   "title": "File:Laxey Wheel from the Snaefell train - geograph.org.uk - 6188169.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Laxey_Wheel_from_the_Snaefell_train_-_geograph.org.uk_-_6188169.jpg/960px-Laxey_Wheel_from_the_Snaefell_train_-_geograph.org.uk_-_6188169.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "5202x3465"
+  },
+  {
+   "title": "File:Steam Train at Chest Wheel - geograph.org.uk - 6992491.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Steam_Train_at_Chest_Wheel_-_geograph.org.uk_-_6992491.jpg/960px-Steam_Train_at_Chest_Wheel_-_geograph.org.uk_-_6992491.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "1024x768"
+  },
+  {
+   "title": "File:Steam Train at Chest Wheel Crossing - geograph.org.uk - 6997348.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Steam_Train_at_Chest_Wheel_Crossing_-_geograph.org.uk_-_6997348.jpg/960px-Steam_Train_at_Chest_Wheel_Crossing_-_geograph.org.uk_-_6997348.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "1024x768"
+  },
+  {
+   "title": "File:Hopper wagon train (geograph 3229290).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Hopper_wagon_train_%28geograph_3229290%29.jpg/960px-Hopper_wagon_train_%28geograph_3229290%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "4608x3456"
+  },
+  {
+   "title": "File:York Railway Station seen from the Yorkshire Wheel - geograph.org.uk - 7051116.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/York_Railway_Station_seen_from_the_Yorkshire_Wheel_-_geograph.org.uk_-_7051116.jpg/960px-York_Railway_Station_seen_from_the_Yorkshire_Wheel_-_geograph.org.uk_-_7051116.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "2000x1500"
+  },
+  {
+   "title": "File:Drive on the wheel - geograph.org.uk - 2043756.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Drive_on_the_wheel_-_geograph.org.uk_-_2043756.jpg/960px-Drive_on_the_wheel_-_geograph.org.uk_-_2043756.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "1024x768"
+  },
+  {
+   "title": "File:Train at Thurso - geograph.org.uk - 2878388.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Train_at_Thurso_-_geograph.org.uk_-_2878388.jpg/960px-Train_at_Thurso_-_geograph.org.uk_-_2878388.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "1024x768"
+  },
+  {
+   "title": "File:One-coach train from Alne at Easingwold, 1946 (geograph 5212642).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/One-coach_train_from_Alne_at_Easingwold%2C_1946_%28geograph_5212642%29.jpg/960px-One-coach_train_from_Alne_at_Easingwold%2C_1946_%28geograph_5212642%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "2392x1219"
+  }
+ ],
+ "railway wheelset": [
+  {
+   "title": "File:Wheelsets of rail vehicles with fitted journals.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Wheelsets_of_rail_vehicles_with_fitted_journals.jpg/960px-Wheelsets_of_rail_vehicles_with_fitted_journals.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3238x2428"
+  },
+  {
+   "title": "File:\u041a\u043e\u043b\u0451\u0441\u043d\u044b\u0435 \u043f\u0430\u0440\u044b f003.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/%D0%9A%D0%BE%D0%BB%D1%91%D1%81%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B0%D1%80%D1%8B_f003.jpg/960px-%D0%9A%D0%BE%D0%BB%D1%91%D1%81%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B0%D1%80%D1%8B_f003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3889x2593"
+  },
+  {
+   "title": "File:\u041a\u043e\u043b\u0451\u0441\u043d\u044b\u0435 \u043f\u0430\u0440\u044b f001.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/%D0%9A%D0%BE%D0%BB%D1%91%D1%81%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B0%D1%80%D1%8B_f001.jpg/960px-%D0%9A%D0%BE%D0%BB%D1%91%D1%81%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B0%D1%80%D1%8B_f001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4319x2880"
+  },
+  {
+   "title": "File:Old Oak Common - class 42 wheelset and gear box.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Old_Oak_Common_-_class_42_wheelset_and_gear_box.JPG/960px-Old_Oak_Common_-_class_42_wheelset_and_gear_box.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "1366x1024"
+  },
+  {
+   "title": "File:J24 962 Bw Temuco, Dampflokomotivrads\u00e4tze.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/J24_962_Bw_Temuco%2C_Dampflokomotivrads%C3%A4tze.jpg/960px-J24_962_Bw_Temuco%2C_Dampflokomotivrads%C3%A4tze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5604x3736"
+  },
+  {
+   "title": "File:Asse ferrov. \"sala montata\".jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Asse_ferrov._%22sala_montata%22.jpg/960px-Asse_ferrov._%22sala_montata%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4096x1834"
+  },
+  {
+   "title": "File:J24 963 Bw Temuco, Tenderradsatz.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/J24_963_Bw_Temuco%2C_Tenderradsatz.jpg/960px-J24_963_Bw_Temuco%2C_Tenderradsatz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5610x3740"
+  },
+  {
+   "title": "File:Rads\u00e4tze beim SBB CFF FFS Werk in Bellinzona.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Rads%C3%A4tze_beim_SBB_CFF_FFS_Werk_in_Bellinzona.jpg/960px-Rads%C3%A4tze_beim_SBB_CFF_FFS_Werk_in_Bellinzona.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4200x2800"
+  }
+ ],
+ "train wheel flange": [
+  {
+   "title": "File:Wheel flange departure marks from 2021 Montana train derailment.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Wheel_flange_departure_marks_from_2021_Montana_train_derailment.jpg/960px-Wheel_flange_departure_marks_from_2021_Montana_train_derailment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "1056x1206"
+  },
+  {
+   "title": "File:Flange operated rail treadle.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Flange_operated_rail_treadle.jpg/960px-Flange_operated_rail_treadle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "1600x1199"
+  },
+  {
+   "title": "File:Damaged rail ends at site of 2021 Montana train derailment.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Damaged_rail_ends_at_site_of_2021_Montana_train_derailment.jpg/960px-Damaged_rail_ends_at_site_of_2021_Montana_train_derailment.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "1431x1321"
+  },
+  {
+   "title": "File:Pojezd merkur b.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Pojezd_merkur_b.jpg/960px-Pojezd_merkur_b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "2272x1704"
+  },
+  {
+   "title": "File:Entr\u00e9e de la mine de fer de Moyeuvre-Grande (Moselle) vers 1880.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Entr%C3%A9e_de_la_mine_de_fer_de_Moyeuvre-Grande_%28Moselle%29_vers_1880.jpg/960px-Entr%C3%A9e_de_la_mine_de_fer_de_Moyeuvre-Grande_%28Moselle%29_vers_1880.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "1920x1330"
+  },
+  {
+   "title": "File:Image from page 400 of \"Railway mechanical engineer\" (1916).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Image_from_page_400_of_%22Railway_mechanical_engineer%22_%281916%29.jpg/960px-Image_from_page_400_of_%22Railway_mechanical_engineer%22_%281916%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "1840x590"
+  },
+  {
+   "title": "File:Image from page 155 of \"Railway and locomotive engineering - a practical journal of railway motive power and rolling stock\" (1901).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Image_from_page_155_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281901%29.jpg/960px-Image_from_page_155_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "2100x486"
+  },
+  {
+   "title": "File:Image from page 268 of \"Railway and locomotive engineering - a practical journal of railway motive power and rolling stock\" (1901).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Image_from_page_268_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281901%29.jpg/960px-Image_from_page_268_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "2106x996"
+  }
+ ],
+ "railway wheel conical tread": [],
+ "locomotive bogie": [
+  {
+   "title": "File:Freight diesel locomotive TE3-1001 (4).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Freight_diesel_locomotive_TE3-1001_%284%29.jpg/960px-Freight_diesel_locomotive_TE3-1001_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.5",
+   "size": "3888x2592"
+  },
+  {
+   "title": "File:Tender bogie of South Australian Railways 620 class locomotive (GN13090A).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Tender_bogie_of_South_Australian_Railways_620_class_locomotive_%28GN13090A%29.jpg/960px-Tender_bogie_of_South_Australian_Railways_620_class_locomotive_%28GN13090A%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "3264x2448"
+  },
+  {
+   "title": "File:Three-axle bogie of russian passenger diesel locomotive EP2K (EP2K-181).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Three-axle_bogie_of_russian_passenger_diesel_locomotive_EP2K_%28EP2K-181%29.jpg/960px-Three-axle_bogie_of_russian_passenger_diesel_locomotive_EP2K_%28EP2K-181%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4928x3264"
+  },
+  {
+   "title": "File:Bogie of the EP2K electric passenger locomotive of the Russian Railways.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Bogie_of_the_EP2K_electric_passenger_locomotive_of_the_Russian_Railways.jpg/960px-Bogie_of_the_EP2K_electric_passenger_locomotive_of_the_Russian_Railways.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "4928x3264"
+  },
+  {
+   "title": "File:China Railways DF7C 5006 bogie 20191003.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/China_Railways_DF7C_5006_bogie_20191003.jpg/960px-China_Railways_DF7C_5006_bogie_20191003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "2500x1664"
+  },
+  {
+   "title": "File:China Railways DF8 0001 bogie 20191003.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/China_Railways_DF8_0001_bogie_20191003.jpg/960px-China_Railways_DF8_0001_bogie_20191003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "2500x1664"
+  },
+  {
+   "title": "File:China Railways DF4DJ 0001 bogie 20191003.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/China_Railways_DF4DJ_0001_bogie_20191003.jpg/960px-China_Railways_DF4DJ_0001_bogie_20191003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "2500x1406"
+  },
+  {
+   "title": "File:Beijing locomotive bogie 201110.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Beijing_locomotive_bogie_201110.jpg/960px-Beijing_locomotive_bogie_201110.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "1600x1000"
+  }
+ ],
+ "railway bogie close up": [
+  {
+   "title": "File:Close-up of a bogie of a TRA EMU700 coach at Taichung Station.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Close-up_of_a_bogie_of_a_TRA_EMU700_coach_at_Taichung_Station.jpg/960px-Close-up_of_a_bogie_of_a_TRA_EMU700_coach_at_Taichung_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5798x3870"
+  },
+  {
+   "title": "File:Bogie on Commonwealth Railways Budd RDC-1 railcar.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Bogie_on_Commonwealth_Railways_Budd_RDC-1_railcar.jpg/960px-Bogie_on_Commonwealth_Railways_Budd_RDC-1_railcar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "3651x1322"
+  },
+  {
+   "title": "File:China Railways HXN5B 0148's close-up.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/China_Railways_HXN5B_0148%27s_close-up.jpg/960px-China_Railways_HXN5B_0148%27s_close-up.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3200x2400"
+  },
+  {
+   "title": "File:GB Railfreight 59003 bogie detail.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/GB_Railfreight_59003_bogie_detail.JPG/960px-GB_Railfreight_59003_bogie_detail.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "2732x820"
+  },
+  {
+   "title": "File:GBRf 69003 bogie detail.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/GBRf_69003_bogie_detail.JPG/960px-GBRf_69003_bogie_detail.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "2370x1333"
+  },
+  {
+   "title": "File:Colas 56049 bogie detail.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Colas_56049_bogie_detail.JPG/960px-Colas_56049_bogie_detail.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "2732x820"
+  },
+  {
+   "title": "File:GWR 800020 (814020 and 815020) bogies.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/GWR_800020_%28814020_and_815020%29_bogies.JPG/960px-GWR_800020_%28814020_and_815020%29_bogies.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "1366x820"
+  },
+  {
+   "title": "File:Guang-Tong Yunnan China Railway-Car-GC-270-01.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Guang-Tong_Yunnan_China_Railway-Car-GC-270-01.jpg/960px-Guang-Tong_Yunnan_China_Railway-Car-GC-270-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "3028x2019"
+  }
+ ],
+ "rail cant tie plate": [
+  {
+   "title": "File:Anti-Rail-Creeper Tie-Plate - DPLA - 0e1552a92d265dbaf9ebacf0c9d2a250 (page 3).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Anti-Rail-Creeper_Tie-Plate_-_DPLA_-_0e1552a92d265dbaf9ebacf0c9d2a250_%28page_3%29.jpg/960px-Anti-Rail-Creeper_Tie-Plate_-_DPLA_-_0e1552a92d265dbaf9ebacf0c9d2a250_%28page_3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "1500x2250"
+  },
+  {
+   "title": "File:Anti-Rail-Creeper Tie-Plate - DPLA - 0e1552a92d265dbaf9ebacf0c9d2a250 (page 2).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Anti-Rail-Creeper_Tie-Plate_-_DPLA_-_0e1552a92d265dbaf9ebacf0c9d2a250_%28page_2%29.jpg/960px-Anti-Rail-Creeper_Tie-Plate_-_DPLA_-_0e1552a92d265dbaf9ebacf0c9d2a250_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "1500x2250"
+  },
+  {
+   "title": "File:Anti-Rail-Creeper Tie-Plate - DPLA - 0e1552a92d265dbaf9ebacf0c9d2a250 (page 1).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Anti-Rail-Creeper_Tie-Plate_-_DPLA_-_0e1552a92d265dbaf9ebacf0c9d2a250_%28page_1%29.jpg/960px-Anti-Rail-Creeper_Tie-Plate_-_DPLA_-_0e1552a92d265dbaf9ebacf0c9d2a250_%28page_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "1500x2250"
+  }
+ ],
+ "continuous welded rail": [
+  {
+   "title": "File:Baikal Railway, Railway track, Khabartuy Cape, Lake Baikal, Russia.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Baikal_Railway%2C_Railway_track%2C_Khabartuy_Cape%2C_Lake_Baikal%2C_Russia.jpg/960px-Baikal_Railway%2C_Railway_track%2C_Khabartuy_Cape%2C_Lake_Baikal%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "4912x3264"
+  },
+  {
+   "title": "File:Continuous welded rail track.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Continuous_welded_rail_track.JPG/960px-Continuous_welded_rail_track.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "2176x3264"
+  },
+  {
+   "title": "File:Grinding thermite welded track to create smooth continuous rail. 04-12-19 (46729514965).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Grinding_thermite_welded_track_to_create_smooth_continuous_rail._04-12-19_%2846729514965%29.jpg/960px-Grinding_thermite_welded_track_to_create_smooth_continuous_rail._04-12-19_%2846729514965%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "1171x1493"
+  },
+  {
+   "title": "File:Railway Track India.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Railway_Track_India.jpg/960px-Railway_Track_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "1536x2048"
+  },
+  {
+   "title": "File:Baikal Railway, Railway track, Russia.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Baikal_Railway%2C_Railway_track%2C_Russia.jpg/960px-Baikal_Railway%2C_Railway_track%2C_Russia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "4912x3264"
+  },
+  {
+   "title": "File:Railway track Kotka Kymenlaakso Finland 22July2023.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Railway_track_Kotka_Kymenlaakso_Finland_22July2023.jpg/960px-Railway_track_Kotka_Kymenlaakso_Finland_22July2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "2048x1536"
+  },
+  {
+   "title": "File:Railway track 2 Kotka Kymenlaakso Finland 23July2023.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Railway_track_2_Kotka_Kymenlaakso_Finland_23July2023.jpg/960px-Railway_track_2_Kotka_Kymenlaakso_Finland_23July2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "2048x1536"
+  },
+  {
+   "title": "File:Re 482 mit Containerzug bei Oberr\u00fcti.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Re_482_mit_Containerzug_bei_Oberr%C3%BCti.jpg/960px-Re_482_mit_Containerzug_bei_Oberr%C3%BCti.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "3200x2013"
+  }
+ ],
+ "rail expansion joint": [
+  {
+   "title": "File:Expansion joint, Hayle.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Expansion_joint%2C_Hayle.jpg/960px-Expansion_joint%2C_Hayle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "3072x2304"
+  },
+  {
+   "title": "File:Rail Joint of Shinkansen.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Rail_Joint_of_Shinkansen.jpg/960px-Rail_Joint_of_Shinkansen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "2085x1182"
+  },
+  {
+   "title": "File:MODULE 8.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/MODULE_8.jpg/960px-MODULE_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "1273x930"
+  },
+  {
+   "title": "File:Riaza track expansion joint.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Riaza_track_expansion_joint.jpg/960px-Riaza_track_expansion_joint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3962x2645"
+  },
+  {
+   "title": "File:Expansion joints on Beatus Rhenanus Bridge.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Expansion_joints_on_Beatus_Rhenanus_Bridge.jpg/960px-Expansion_joints_on_Beatus_Rhenanus_Bridge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3648x2736"
+  },
+  {
+   "title": "File:Expansion joints, Cottingham.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Expansion_joints%2C_Cottingham.jpg/960px-Expansion_joints%2C_Cottingham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "1024x768"
+  },
+  {
+   "title": "File:Expansion joints, Cottingham 2.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Expansion_joints%2C_Cottingham_2.jpg/960px-Expansion_joints%2C_Cottingham_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "1024x768"
+  },
+  {
+   "title": "File:First day of Soham railway station - rail joint.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/First_day_of_Soham_railway_station_-_rail_joint.jpg/960px-First_day_of_Soham_railway_station_-_rail_joint.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4608x3456"
+  }
+ ],
+ "railway sander locomotive": [
+  {
+   "title": "File:Image from page 156 of \"Railway and locomotive engineering - a practical journal of railway motive power and rolling stock\" (1901) 2278.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Image_from_page_156_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281901%29_2278.jpg/960px-Image_from_page_156_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281901%29_2278.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "2118x862"
+  },
+  {
+   "title": "File:Image from page 41 of \"Railway and locomotive engineering - a practical journal of railway motive power and rolling stock\" (1901) 3011.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Image_from_page_41_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281901%29_3011.jpg/960px-Image_from_page_41_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281901%29_3011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "2112x476"
+  },
+  {
+   "title": "File:Image from page 274 of \"Railway and locomotive engineering - a practical journal of railway motive power and rolling stock\" (1901).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Image_from_page_274_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281901%29.jpg/960px-Image_from_page_274_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "2018x1066"
+  },
+  {
+   "title": "File:Image from page 120 of \"Railway and locomotive engineering - a practical journal of railway motive power and rolling stock\" (1901).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Image_from_page_120_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281901%29.jpg/960px-Image_from_page_120_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "1360x686"
+  },
+  {
+   "title": "File:Image from page 248 of \"Locomotive engineering - a practical journal of railway motive power and rolling stock\" (1892).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Image_from_page_248_of_%22Locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281892%29.jpg/960px-Image_from_page_248_of_%22Locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281892%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "2018x1054"
+  },
+  {
+   "title": "File:Image from page 426 of \"Locomotive engineering - a practical journal of railway motive power and rolling stock\" (1892).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Image_from_page_426_of_%22Locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281892%29.jpg/960px-Image_from_page_426_of_%22Locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281892%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "1794x692"
+  },
+  {
+   "title": "File:Crawl - January 2010.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Crawl_-_January_2010.jpg/960px-Crawl_-_January_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "3888x2592"
+  },
+  {
+   "title": "File:AWW 204 EMD SD9.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/AWW_204_EMD_SD9.jpg/960px-AWW_204_EMD_SD9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "1024x683"
+  }
+ ],
+ "wheel tapping hammer": [
+  {
+   "title": "File:Eingang, Steinbruch, 2026 T\u00e1rnok.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Eingang%2C_Steinbruch%2C_2026_T%C3%A1rnok.jpg/960px-Eingang%2C_Steinbruch%2C_2026_T%C3%A1rnok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "1536x2048"
+  },
+  {
+   "title": "File:Steinbruch, 2026 T\u00e1rnok.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Steinbruch%2C_2026_T%C3%A1rnok.jpg/960px-Steinbruch%2C_2026_T%C3%A1rnok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "2048x1536"
+  },
+  {
+   "title": "File:Steinbruch \u00d6reghegy, 2026 T\u00e1rnok.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Steinbruch_%C3%96reghegy%2C_2026_T%C3%A1rnok.jpg/960px-Steinbruch_%C3%96reghegy%2C_2026_T%C3%A1rnok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "1380x1840"
+  }
+ ],
+ "Janney coupler": [
+  {
+   "title": "File:Janney coupler of TR ED9052 20250120.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Janney_coupler_of_TR_ED9052_20250120.jpg/960px-Janney_coupler_of_TR_ED9052_20250120.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3000x2250"
+  },
+  {
+   "title": "File:J22 794 Janney-Klauenkupplungen.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/J22_794_Janney-Klauenkupplungen.jpg/960px-J22_794_Janney-Klauenkupplungen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5604x3736"
+  },
+  {
+   "title": "File:J24 984 Janney-Kuppelkopf.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/J24_984_Janney-Kuppelkopf.jpg/960px-J24_984_Janney-Kuppelkopf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5766x3844"
+  },
+  {
+   "title": "File:J24 982 Janney-Kuppelkopf, kuppelreif.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/J24_982_Janney-Kuppelkopf%2C_kuppelreif.jpg/960px-J24_982_Janney-Kuppelkopf%2C_kuppelreif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5697x3798"
+  },
+  {
+   "title": "File:J24 983 Janney-Kuppelkopf.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/J24_983_Janney-Kuppelkopf.jpg/960px-J24_983_Janney-Kuppelkopf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5703x3802"
+  },
+  {
+   "title": "File:Janney coupler drawing.png",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Janney_coupler_drawing.png/960px-Janney_coupler_drawing.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "1450x754"
+  },
+  {
+   "title": "File:Yuzhno-Sakhalinsk D51-22 steam locomotive 2024-08 1724066865.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Yuzhno-Sakhalinsk_D51-22_steam_locomotive_2024-08_1724066865.jpg/960px-Yuzhno-Sakhalinsk_D51-22_steam_locomotive_2024-08_1724066865.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "3872x2592"
+  },
+  {
+   "title": "File:Yuzhno-Sakhalinsk D51-22 steam locomotive 2024-08 1724066896.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Yuzhno-Sakhalinsk_D51-22_steam_locomotive_2024-08_1724066896.jpg/960px-Yuzhno-Sakhalinsk_D51-22_steam_locomotive_2024-08_1724066896.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "3872x2592"
+  }
+ ],
+ "knuckle coupler": [
+  {
+   "title": "File:Janney coupler of TR ED9052 20250120.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Janney_coupler_of_TR_ED9052_20250120.jpg/960px-Janney_coupler_of_TR_ED9052_20250120.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "3000x2250"
+  },
+  {
+   "title": "File:AAR knuckle coupler connection.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/AAR_knuckle_coupler_connection.jpg/960px-AAR_knuckle_coupler_connection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "8256x5504"
+  },
+  {
+   "title": "File:AAR knuckle coupler on MBTA work car.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/AAR_knuckle_coupler_on_MBTA_work_car.jpg/960px-AAR_knuckle_coupler_on_MBTA_work_car.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "8256x5504"
+  },
+  {
+   "title": "File:Janney coupler drawing.png",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Janney_coupler_drawing.png/960px-Janney_coupler_drawing.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "1450x754"
+  },
+  {
+   "title": "File:AAR knuckle couplers April 2025.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/AAR_knuckle_couplers_April_2025.jpg/960px-AAR_knuckle_couplers_April_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "8256x5504"
+  },
+  {
+   "title": "File:AAR Type H tightlock knuckle coupler.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/AAR_Type_H_tightlock_knuckle_coupler.jpg/960px-AAR_Type_H_tightlock_knuckle_coupler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "8256x5504"
+  },
+  {
+   "title": "File:Connections between two coupled Amtrak Superliner cars.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Connections_between_two_coupled_Amtrak_Superliner_cars.jpg/960px-Connections_between_two_coupled_Amtrak_Superliner_cars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "3712x5568"
+  },
+  {
+   "title": "File:2020-08-01 Knuckle coupler on carriage at New South Wales Rail Transport Museum 2.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/2020-08-01_Knuckle_coupler_on_carriage_at_New_South_Wales_Rail_Transport_Museum_2.jpg/960px-2020-08-01_Knuckle_coupler_on_carriage_at_New_South_Wales_Rail_Transport_Museum_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4032x3024"
+  }
+ ],
+ "air brake hose train": [
+  {
+   "title": "File:RhB BDt at La Punt-Chamues-ch.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/RhB_BDt_at_La_Punt-Chamues-ch.jpg/960px-RhB_BDt_at_La_Punt-Chamues-ch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "4556x2812"
+  },
+  {
+   "title": "File:2013 04 14 Re 420 213 LION 04 ROK 0625.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2013_04_14_Re_420_213_LION_04_ROK_0625.JPG/960px-2013_04_14_Re_420_213_LION_04_ROK_0625.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "4000x2664"
+  },
+  {
+   "title": "File:Train-Pipe Coupling. - DPLA - 7f499f875d457a0ab3ae0d34211855f8 (page 2).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Train-Pipe_Coupling._-_DPLA_-_7f499f875d457a0ab3ae0d34211855f8_%28page_2%29.jpg/960px-Train-Pipe_Coupling._-_DPLA_-_7f499f875d457a0ab3ae0d34211855f8_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "1500x2349"
+  },
+  {
+   "title": "File:Train-Pipe Coupling. - DPLA - 7f499f875d457a0ab3ae0d34211855f8 (page 3).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Train-Pipe_Coupling._-_DPLA_-_7f499f875d457a0ab3ae0d34211855f8_%28page_3%29.jpg/960px-Train-Pipe_Coupling._-_DPLA_-_7f499f875d457a0ab3ae0d34211855f8_%28page_3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "1500x2349"
+  },
+  {
+   "title": "File:Train-Pipe Coupling. - DPLA - 7f499f875d457a0ab3ae0d34211855f8 (page 1).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Train-Pipe_Coupling._-_DPLA_-_7f499f875d457a0ab3ae0d34211855f8_%28page_1%29.jpg/960px-Train-Pipe_Coupling._-_DPLA_-_7f499f875d457a0ab3ae0d34211855f8_%28page_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "1500x2349"
+  },
+  {
+   "title": "File:Boxcar end.agr589.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Boxcar_end.agr589.jpg/960px-Boxcar_end.agr589.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "1421x936"
+  },
+  {
+   "title": "File:Image from page 376 of \"Railway and locomotive engineering - a practical journal of railway motive power and rolling stock\" (1901) (14758290104).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Image_from_page_376_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281901%29_%2814758290104%29.jpg/960px-Image_from_page_376_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281901%29_%2814758290104%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "2062x706"
+  },
+  {
+   "title": "File:Image from page 422 of \"Railway and locomotive engineering - a practical journal of railway motive power and rolling stock\" (1901).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Image_from_page_422_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281901%29.jpg/960px-Image_from_page_422_of_%22Railway_and_locomotive_engineering_-_a_practical_journal_of_railway_motive_power_and_rolling_stock%22_%281901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "1352x716"
+  }
+ ],
+ "railway brake shoe": [
+  {
+   "title": "File:Seibu Railway brake shoe shiraitodai 20230415- MG 2518.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Seibu_Railway_brake_shoe_shiraitodai_20230415-_MG_2518.jpg/960px-Seibu_Railway_brake_shoe_shiraitodai_20230415-_MG_2518.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5356x3571"
+  },
+  {
+   "title": "File:Seibu Railway brake shoe musashigaoka 20220604- MG 0885.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Seibu_Railway_brake_shoe_musashigaoka_20220604-_MG_0885.jpg/960px-Seibu_Railway_brake_shoe_musashigaoka_20220604-_MG_0885.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "6000x4000"
+  },
+  {
+   "title": "File:Seibu Railway brake shoe shiraitodai N-50(A) 20230415- MG 2522.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Seibu_Railway_brake_shoe_shiraitodai_N-50%28A%29_20230415-_MG_2522.jpg/960px-Seibu_Railway_brake_shoe_shiraitodai_N-50%28A%29_20230415-_MG_2522.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5192x3461"
+  },
+  {
+   "title": "File:Seibu Railway brake shoe shiraitodai NS-50(B) 20230415- MG 2526.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Seibu_Railway_brake_shoe_shiraitodai_NS-50%28B%29_20230415-_MG_2526.jpg/960px-Seibu_Railway_brake_shoe_shiraitodai_NS-50%28B%29_20230415-_MG_2526.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "5582x3721"
+  },
+  {
+   "title": "File:60163 Tornado brake shoe.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/60163_Tornado_brake_shoe.jpg/960px-60163_Tornado_brake_shoe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "Public domain",
+   "size": "3648x2736"
+  },
+  {
+   "title": "File:Depo v Malom\u011b\u0159ic\u00edch (18).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Depo_v_Malom%C4%9B%C5%99ic%C3%ADch_%2818%29.jpg/960px-Depo_v_Malom%C4%9B%C5%99ic%C3%ADch_%2818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 3.0",
+   "size": "3312x4416"
+  },
+  {
+   "title": "File:SNCB 1203 wheelset 01.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/SNCB_1203_wheelset_01.jpg/960px-SNCB_1203_wheelset_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "2272x1704"
+  },
+  {
+   "title": "File:Ropley Shunting Yard Misecellany - 52722929392.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Ropley_Shunting_Yard_Misecellany_-_52722929392.jpg/960px-Ropley_Shunting_Yard_Misecellany_-_52722929392.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "size": "6016x4016"
+  }
+ ],
+ "dead man's switch locomotive": [],
+ "rail gauge measurement": [
+  {
+   "title": "File:Umrisswagen, Schmalspurmuseum Radebeul.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Umrisswagen%2C_Schmalspurmuseum_Radebeul.jpg/960px-Umrisswagen%2C_Schmalspurmuseum_Radebeul.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 3.0",
+   "size": "2144x1424"
+  },
+  {
+   "title": "File:Tunnelmesswagen anagoria.JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Tunnelmesswagen_anagoria.JPG/960px-Tunnelmesswagen_anagoria.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 3.0",
+   "size": "3648x2736"
+  }
+ ],
+ "railway switch points frog": [
+  {
+   "title": "File:2014-0428-IMG 5142-Jct Points, Xing Frog, guide shoe and Switch Arm linkage (1st SW prev pic).JPG",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/2014-0428-IMG_5142-Jct_Points%2C_Xing_Frog%2C_guide_shoe_and_Switch_Arm_linkage_%281st_SW_prev_pic%29.JPG/960px-2014-0428-IMG_5142-Jct_Points%2C_Xing_Frog%2C_guide_shoe_and_Switch_Arm_linkage_%281st_SW_prev_pic%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "2592x1944"
+  },
+  {
+   "title": "File:Railroad switch welded frog.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Railroad_switch_welded_frog.jpg/960px-Railroad_switch_welded_frog.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "size": "2220x3253"
+  },
+  {
+   "title": "File:RailroadSwitch 20200801 014921.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/RailroadSwitch_20200801_014921.jpg/960px-RailroadSwitch_20200801_014921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "4608x2592"
+  },
+  {
+   "title": "File:Rail Switch Heater.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Rail_Switch_Heater.jpg/960px-Rail_Switch_Heater.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "6000x4000"
+  },
+  {
+   "title": "File:Hand-operated railroad switch.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Hand-operated_railroad_switch.jpg/960px-Hand-operated_railroad_switch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "size": "3264x2146"
+  },
+  {
+   "title": "File:Zungenmechanismus Weiche TB.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Zungenmechanismus_Weiche_TB.jpg/960px-Zungenmechanismus_Weiche_TB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 4.0",
+   "size": "4240x2832"
+  },
+  {
+   "title": "File:14-33-29-ouv-schoenenbourg.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/14-33-29-ouv-schoenenbourg.jpg/960px-14-33-29-ouv-schoenenbourg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 3.0",
+   "size": "4242x2766"
+  },
+  {
+   "title": "File:Queralbs 10.08 (2).jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Queralbs_10.08_%282%29.jpg/960px-Queralbs_10.08_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "size": "2351x3076"
+  }
+ ],
+ "wheel flange lubricator": [
+  {
+   "title": "File:Wheel flange lubricator East Lancashire Railway.jpg",
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Wheel_flange_lubricator_East_Lancashire_Railway.jpg/960px-Wheel_flange_lubricator_East_Lancashire_Railway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "size": "1024x768"
+  }
+ ],
+ "train wheels rust tread shiny": []
+}
