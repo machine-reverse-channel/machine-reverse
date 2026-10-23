@@ -121,6 +121,16 @@ sc("""Every time you drive, you are using the results of more than a hundred yea
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Indianapolis Motor Speedway Museum May 2026 29 (Ray Harroun's 1911 Marmon Wasp).jpg", 0.42, 0.28),
+    2: ("File:Disc brakes.jpg", 0.8, 0.35),
+    3: ("File:Mercedes 300 SL Engine EMS.jpg", 0.45, 0.35),
+    4: ("File:Alfa Romeo 1300 Twin Cam engine.jpg", 0.5, 0.4),
+    5: ("File:VW DSG transmission DTMB.jpg", 0.45, 0.45),
+    6: ("File:Ferrari 640 front-left Museo Ferrari.jpg", 0.62, 0.3),
+    7: ("File:McLaren MP4-1 Carbon Fibre-Kevlar Monocoque Chassis at Formula 1 Exhibition, London.jpg", 0.4, 0.6),
+    8: ("File:1973 Porsche 911 Carrera RS 2.7 CHP.jpg", 0.1, 0.45),
+    9: ("File:1992 Williams FW14B (49379465223).jpg", 0.33, 0.68),
+    10: ("File:FIA WEC Porsche 919 hybrid and 911 RSR , GIMS 2014 (Ank Kumar) 02.jpg", 0.5, 0.6),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
