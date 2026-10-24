@@ -1,0 +1,72 @@
+{
+ "title": "Why Are There Balls on Power Lines?",
+ "description": "Drive near an airport or across a big river valley and you may see giant colored balls hanging on power lines, orange, white and yellow, high above the ground. They look like toys someone threw up there. They are not. Each one may be saving a pilot's life. Today, eleven parts of a high voltage power line, and why each one exists, starting with those balls.\n\nMachine Reverse takes apart the machines you see every day and explains, part by part, why each one exists. This video covers 11 parts.\n\nChapters:\n0:00 Intro\n1:09 1. The colored balls\n2:22 2. The little dumbbells\n3:36 3. The spacers between wires\n4:50 4. The stack of discs\n5:58 5. The metal rings at the ends\n7:06 6. The wire on the very top\n8:10 7. The spirals for birds\n9:15 8. The barbed panels on the legs\n10:16 9. The man on the live wire\n11:27 10. The wire that sags\n12:34 11. The giant towers\n13:43 The verdict\n\nSources:\n- Aerial marker balls (placement, 36-inch / 20-inch sizes, orange/white/yellow alternating): FAA Advisory Circular 70/7460-1 \"Obstruction Marking and Lighting\" https://www.faa.gov/ ; Wikipedia, \"Aerial marker spheres\" https://en.wikipedia.org/wiki/Aerial_marker_spheres\n- Stockbridge damper and aeolian vibration (George H. Stockbridge, 1920s patent): Wikipedia, \"Stockbridge damper\" https://en.wikipedia.org/wiki/Stockbridge_damper\n- Bundle conductors, spacers and corona discharge: Wikipedia, \"Overhead power line\" https://en.wikipedia.org/wiki/Overhead_power_line ; Wikipedia, \"Corona discharge\" https://en.wikipedia.org/wiki/Corona_discharge\n- Insulator strings (disc count vs voltage, creepage distance, toughened glass shattering): Wikipedia, \"Insulator (electricity)\" https://en.wikipedia.org/wiki/Insulator_(electricity)\n- Corona / grading rings: Wikipedia, \"Corona ring\" https://en.wikipedia.org/wiki/Corona_ring\n- Shield wires and OPGW: Wikipedia, \"Optical ground wire\" https://en.wikipedia.org/wiki/Optical_ground_wire\n- Bird diverters and collision reduction: APLIC (Avian Power Line Interaction Committee), \"Reducing Avian Collisions with Power Lines\" (2012) https://www.aplic.org/\n- Live-line work from helicopters, bare-hand method, Faraday suits: Wikipedia, \"Live-line working\" https://en.wikipedia.org/wiki/Live-line_working\n- 2003 Northeast blackout (14 August 2003, sagging lines into trees in Ohio, alarm failure, ~50 million people): US-Canada Power System Outage Task Force Final Report (2004) ; Wikipedia, \"Northeast blackout of 2003\" https://en.wikipedia.org/wiki/Northeast_blackout_of_2003\n- High voltage transmission losses (I^2 R) and three-phase power: Wikipedia, \"Electric power transmission\" https://en.wikipedia.org/wiki/Electric_power_transmission\n\nPhotos from Wikimedia Commons. Full credits and licenses: https://github.com/viniciushoscher-ctrl/machine-reverse/blob/main/agendamento/creditos/video58.md\n\n#engineering #machines #whydoesthisexist",
+ "tags": [
+  "balls power lines",
+  "balls",
+  "power",
+  "lines",
+  "engineering",
+  "how it works",
+  "why does this exist",
+  "machine reverse",
+  "engineering explained"
+ ],
+ "shorts": [
+  {
+   "file": "short1.mp4",
+   "title": "Why Are There Balls on Power Lines? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Are There Balls on Power Lines?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short2.mp4",
+   "title": "Why Do Power Lines Have Little Dumbbells on Them? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Are There Balls on Power Lines?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short3.mp4",
+   "title": "Why Do Power Lines Use Bundles of Wires? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Are There Balls on Power Lines?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short4.mp4",
+   "title": "Why Do Power Line Insulators Look Like Stacks of Plates? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Are There Balls on Power Lines?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short5.mp4",
+   "title": "Why Do High Voltage Lines Have Metal Rings? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Are There Balls on Power Lines?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short6.mp4",
+   "title": "Why Is There an Extra Wire on Top of Power Towers? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Are There Balls on Power Lines?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short7.mp4",
+   "title": "Why Do Power Lines Have Spirals for Birds? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Are There Balls on Power Lines?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short8.mp4",
+   "title": "Why Do Power Towers Have Barbed Wire on Their Legs? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Are There Balls on Power Lines?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short9.mp4",
+   "title": "Why Can This Man Touch a Live Power Line? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Are There Balls on Power Lines?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short10.mp4",
+   "title": "Why Do Power Lines Sag More on Hot Days? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Are There Balls on Power Lines?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short11.mp4",
+   "title": "Why Does Electricity Travel at Such High Voltage? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Are There Balls on Power Lines?\" on Machine Reverse.\n#shorts #engineering"
+  }
+ ]
+}

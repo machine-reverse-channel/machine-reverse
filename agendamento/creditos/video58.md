@@ -1,0 +1,79 @@
+# Photo credits: Why Are There Balls on Power Lines?
+
+All photos from Wikimedia Commons.
+
+- Flugwarnkugel.jpg by Adl252, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Flugwarnkugel.jpg
+- Overhead power line clearing in Sweden - grizzlybear.se 497.jpg by Jonathan Petersson/grizzlybear.se, CC0, https://commons.wikimedia.org/wiki/File:Overhead_power_line_clearing_in_Sweden_-_grizzlybear.se_497.jpg
+- Electricity pylons and overhead wire markers, 2021 Nagytétény.jpg by Globetrotter19, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Electricity_pylons_and_overhead_wire_markers,_2021_Nagyt%C3%A9t%C3%A9ny.jpg
+- Egg-over Bregenzer Ache (Tuppenbruecke)-Overhead wire markers-01ASD.jpg by Asurnipal, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Egg-over_Bregenzer_Ache_(Tuppenbruecke)-Overhead_wire_markers-01ASD.jpg
+- Overhead Power Line in Tin Wan.jpg by Ceeseven, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Overhead_Power_Line_in_Tin_Wan.jpg
+- Wire marker near Deest.jpg by PiusImpavidus, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wire_marker_near_Deest.jpg
+- Wire marker signals danger for helicopters 20090327 011.JPG by Politikaner, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wire_marker_signals_danger_for_helicopters_20090327_011.JPG
+- Wire marker signals danger for helicopters 20090327 012.JPG by Politikaner, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wire_marker_signals_danger_for_helicopters_20090327_012.JPG
+- Ada Bridge pylon (Sava river, Belgrade).jpg by Petar Milošević, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ada_Bridge_pylon_(Sava_river,_Belgrade).jpg
+- Raitersaich SK DSC 0028.jpg by Simon Koopmann, CC BY-SA 3.0 de, https://commons.wikimedia.org/wiki/File:Raitersaich_SK_DSC_0028.jpg
+- Essex v Wales at Bishop's Stortford, Herts, England, National Over 60s County Championship 203.jpg by Acabashi, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Essex_v_Wales_at_Bishop%27s_Stortford,_Herts,_England,_National_Over_60s_County_Championship_203.jpg
+- Essex v Wales at Bishop's Stortford, Herts, England, National Over 60s County Championship 240.jpg by Acabashi, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Essex_v_Wales_at_Bishop%27s_Stortford,_Herts,_England,_National_Over_60s_County_Championship_240.jpg
+- Wire marker signals danger for helicopters 20090327 006.JPG by Politikaner, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wire_marker_signals_danger_for_helicopters_20090327_006.JPG
+- Wire marker signals danger for helicopters 20090327 007.JPG by Politikaner, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wire_marker_signals_danger_for_helicopters_20090327_007.JPG
+- Essex v Wales at Bishop's Stortford, Herts, England, National Over 60s County Championship 241.jpg by Acabashi, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Essex_v_Wales_at_Bishop%27s_Stortford,_Herts,_England,_National_Over_60s_County_Championship_241.jpg
+- REN overhead power line maintenance PT 2018 C.jpg by Fernando Moital, CC BY 2.0, https://commons.wikimedia.org/wiki/File:REN_overhead_power_line_maintenance_PT_2018_C.jpg
+- Wire marker signals danger for helicopters 20090327 013.JPG by Politikaner, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wire_marker_signals_danger_for_helicopters_20090327_013.JPG
+- Electricity pylons and overhead wire markers, 2011 Szeged, Infinity - panoramio (1).jpg by p.kocsis, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Electricity_pylons_and_overhead_wire_markers,_2011_Szeged,_Infinity_-_panoramio_(1).jpg
+- Stockbridge damper on 150kV power line Maarheeze - Eindhoven Oost.jpg by Alex P. Kok, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Stockbridge_damper_on_150kV_power_line_Maarheeze_-_Eindhoven_Oost.jpg
+- Stockbridge damper new - clamp.jpg by Alex P. Kok, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Stockbridge_damper_new_-_clamp.jpg
+- Stockbridge damper new with ruler.jpg by Alex P. Kok, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Stockbridge_damper_new_with_ruler.jpg
+- Close-up of a stockbridge damper in Svente Parish, Latvia.jpg by alinco_fan, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Close-up_of_a_stockbridge_damper_in_Svente_Parish,_Latvia.jpg
+- Severn Bridge - Stockbridge dampers.JPG by Bassaar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Severn_Bridge_-_Stockbridge_dampers.JPG
+- Stockbridge dampers on an English 400 KV line arp.jpg by Myself (Adrian Pingstone)., Public domain, https://commons.wikimedia.org/wiki/File:Stockbridge_dampers_on_an_English_400_KV_line_arp.jpg
+- Pylon cable riggers dismantling reel.JPG by User:Sandpiper, Public domain, https://commons.wikimedia.org/wiki/File:Pylon_cable_riggers_dismantling_reel.JPG
+- Spacer Electric Line Chandigre West Garo Oct24 A7CR 03547.jpg by Timothy A. Gonsalves, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Spacer_Electric_Line_Chandigre_West_Garo_Oct24_A7CR_03547.jpg
+- Power Line Bundle Spacer.jpg by Rsparks3, CC0, https://commons.wikimedia.org/wiki/File:Power_Line_Bundle_Spacer.jpg
+- Kashima Power Line 03.jpg by Σ64, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Kashima_Power_Line_03.jpg
+- Tsurunuma Power Line 01.jpg by Σ64, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Tsurunuma_Power_Line_01.jpg
+- Kashima Power Line 07.jpg by Σ64, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Kashima_Power_Line_07.jpg
+- Electrical Transmission Tower - Norris, Tennessee - March 8, 2015.jpg by David Ratledge, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Electrical_Transmission_Tower_-_Norris,_Tennessee_-_March_8,_2015.jpg
+- A TRANSMISSION TOWER IN SHENZHEN.jpg by Dinkun Chen, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:A_TRANSMISSION_TOWER_IN_SHENZHEN.jpg
+- Insulator on an overhead powerline.jpg by Kritzolina, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Insulator_on_an_overhead_powerline.jpg
+- Pont-l'Abbé high-voltage substation 17 - Switches.jpg by PtiBzh, CC0, https://commons.wikimedia.org/wiki/File:Pont-l%27Abb%C3%A9_high-voltage_substation_17_-_Switches.jpg
+- Pont-l'Abbé high-voltage substation 14 - Transformer connections.jpg by PtiBzh, CC0, https://commons.wikimedia.org/wiki/File:Pont-l%27Abb%C3%A9_high-voltage_substation_14_-_Transformer_connections.jpg
+- Top of power line pole - west side.jpg by W.carter, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Top_of_power_line_pole_-_west_side.jpg
+- Top of power line pole - east side.jpg by W.carter, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Top_of_power_line_pole_-_east_side.jpg
+- High-voltage Transmission Insulators.JPG by FearChild, Public domain, https://commons.wikimedia.org/wiki/File:High-voltage_Transmission_Insulators.JPG
+- High voltage cables with glass insulators.jpg by Albarubescens, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:High_voltage_cables_with_glass_insulators.jpg
+- Corona discharge 1.JPG by Nitromethane, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Corona_discharge_1.JPG
+- Corona discharge 2.jpg by Nitromethane, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Corona_discharge_2.jpg
+- Stromleitung Reicheneck, Rommelsbach, Sondelfingen - West - 20090909-04.jpeg by Speifensender, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Stromleitung_Reicheneck,_Rommelsbach,_Sondelfingen_-_West_-_20090909-04.jpeg
+- Jim Creek Naval Radio Station - Antenna feed bus towers (120813-N-XS652-046).jpg by Robin Hicks, Public domain, https://commons.wikimedia.org/wiki/File:Jim_Creek_Naval_Radio_Station_-_Antenna_feed_bus_towers_(120813-N-XS652-046).jpg
+- Коронні розряди на фазах ПЛ 750 кВ.jpg by Glib Lanovenko, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D1%96_%D1%80%D0%BE%D0%B7%D1%80%D1%8F%D0%B4%D0%B8_%D0%BD%D0%B0_%D1%84%D0%B0%D0%B7%D0%B0%D1%85_%D0%9F%D0%9B_750_%D0%BA%D0%92.jpg
+- Koronaentladungen an Hochspannungsleitung.jpg by Schnubo, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Koronaentladungen_an_Hochspannungsleitung.jpg
+- Shea IRT station jeh.JPG by User:Jim.henderson, Public domain, https://commons.wikimedia.org/wiki/File:Shea_IRT_station_jeh.JPG
+- Wire marker signals danger for helicopters 20090320 001.JPG by Politikaner, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wire_marker_signals_danger_for_helicopters_20090320_001.JPG
+- Wire marker signals danger for helicopters 20090320 003.JPG by Politikaner, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wire_marker_signals_danger_for_helicopters_20090320_003.JPG
+- Transmission Tower in Lethbridge, Alberta, Canada.jpg by Kkiefuik
+
+ This photo was taken with Canon EOS Rebel T5i, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Transmission_Tower_in_Lethbridge,_Alberta,_Canada.jpg
+- Anchor pylon of high-voltage overhead power line 750 kV.jpg by Novoklimov, CC0, https://commons.wikimedia.org/wiki/File:Anchor_pylon_of_high-voltage_overhead_power_line_750_kV.jpg
+- Wire marker signals danger for helicopters 20090320 002.JPG by Politikaner, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wire_marker_signals_danger_for_helicopters_20090320_002.JPG
+- Hochspannungsleitung mit Anbauteil 2010 PD 7.JPG by Bin im Garten, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Hochspannungsleitung_mit_Anbauteil_2010_PD_7.JPG
+- Power line bird flight diverter - geograph.org.uk - 6065689.jpg by Robin Webster, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Power_line_bird_flight_diverter_-_geograph.org.uk_-_6065689.jpg
+- Power line bird diverters at Moss Landing, California.jpg by Hydrargyrum, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Power_line_bird_diverters_at_Moss_Landing,_California.jpg
+- Biodiversity - Pelicans (P-046419-00-45).jpg by Europäische Kommission - Audiovisueller Dienst, CE - Service audiovisuel, EC - Audiovisual Service, Nikolay Doychinov, AFP-Services, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Biodiversity_-_Pelicans_(P-046419-00-45).jpg
+- Biodiversity - Pelicans (P-046419-00-53).jpg by Europäische Kommission - Audiovisueller Dienst, CE - Service audiovisuel, EC - Audiovisual Service, Nikolay Doychinov, AFP-Services, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Biodiversity_-_Pelicans_(P-046419-00-53).jpg
+- Biodiversity - Pelicans (P-046419-00-47).jpg by Europäische Kommission - Audiovisueller Dienst, CE - Service audiovisuel, EC - Audiovisual Service, Nikolay Doychinov, AFP-Services, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Biodiversity_-_Pelicans_(P-046419-00-47).jpg
+- Transmission towers of overhead power lines near Skravena, Bulgaria 02.jpg by Dimitǎr Boevski, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Transmission_towers_of_overhead_power_lines_near_Skravena,_Bulgaria_02.jpg
+- Black-headed weaver (Ploceus cucullatus bohndorffi) male nest building.jpg by Charles J. Sharp, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Black-headed_weaver_(Ploceus_cucullatus_bohndorffi)_male_nest_building.jpg
+- Transmission towers at sunset in East Texas.jpg by Matthew T Rader, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Transmission_towers_at_sunset_in_East_Texas.jpg
+- Electricity transmission tower - geograph.org.uk - 4334892.jpg by Stephen Burton, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Electricity_transmission_tower_-_geograph.org.uk_-_4334892.jpg
+- Transmission tower of a high-voltage overhead powerlines File 004.jpg by Novoklimov, CC0, https://commons.wikimedia.org/wiki/File:Transmission_tower_of_a_high-voltage_overhead_powerlines_File_004.jpg
+- Transmission tower of a high-voltage overhead powerlines File 013.jpg by Novoklimov, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Transmission_tower_of_a_high-voltage_overhead_powerlines_File_013.jpg
+- Transmission tower of a high-voltage overhead powerlines File 019.jpg by Novoklimov, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Transmission_tower_of_a_high-voltage_overhead_powerlines_File_019.jpg
+- Lightning Pritzerbe 01 (MK).jpg by Mathias Krumbholz, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Lightning_Pritzerbe_01_(MK).jpg
+- Transmission tower of a high-voltage overhead powerlines File 014.jpg by Novoklimov, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Transmission_tower_of_a_high-voltage_overhead_powerlines_File_014.jpg
+- New overhead transmission line construction - Flickr - brewbooks.jpg by brewbooks from near Seattle, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:New_overhead_transmission_line_construction_-_Flickr_-_brewbooks.jpg
+- Helicopter surveying power lines, Kilmorack - geograph.org.uk - 7149817.jpg by Craig Wallace, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Helicopter_surveying_power_lines,_Kilmorack_-_geograph.org.uk_-_7149817.jpg
+- USMC-050815-M-0502A-013.jpg by unknown, Public domain, https://commons.wikimedia.org/wiki/File:USMC-050815-M-0502A-013.jpg
+- Our, Bivels, 220 kV overhead power line crossings LU-DE 2018 A.jpg by Sergei Tikhomirov, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Our,_Bivels,_220_kV_overhead_power_line_crossings_LU-DE_2018_A.jpg
+- High Line vc.jpg by Kris Arnold from New York, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:High_Line_vc.jpg
+- Power Line fire sawyer 7 13 22 (52216461833).jpg by Hawai‘i Volcanoes NPS, Public domain, https://commons.wikimedia.org/wiki/File:Power_Line_fire_sawyer_7_13_22_(52216461833).jpg
+- Power Line Corridor (29493182476).jpg by Mark Nenadov, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Power_Line_Corridor_(29493182476).jpg
