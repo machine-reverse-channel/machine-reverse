@@ -1,0 +1,1295 @@
+1
+00:00:00,000 --> 00:00:03,530
+The International Space Station weighs about four
+
+2
+00:00:03,530 --> 00:00:05,907
+hundred fifty thousand kilograms,
+
+3
+00:00:05,907 --> 00:00:09,005
+and it floats about four hundred kilometers
+
+4
+00:00:09,005 --> 00:00:10,158
+above your head.
+
+5
+00:00:10,338 --> 00:00:13,100
+It is bigger than a football field,
+
+6
+00:00:13,100 --> 00:00:14,599
+and it never lands.
+
+7
+00:00:14,779 --> 00:00:16,880
+So why doesn't it fall down?
+
+8
+00:00:17,060 --> 00:00:18,227
+It does fall,
+
+9
+00:00:18,227 --> 00:00:19,394
+all the time.
+
+10
+00:00:19,574 --> 00:00:21,408
+It just keeps missing the ground.
+
+11
+00:00:21,588 --> 00:00:24,658
+Today, ten parts of the space station,
+
+12
+00:00:24,658 --> 00:00:27,324
+and the reason each one is there.
+
+13
+00:00:27,674 --> 00:00:29,920
+There is no magic up there,
+
+14
+00:00:29,920 --> 00:00:32,167
+and no escape from gravity.
+
+15
+00:00:32,347 --> 00:00:34,345
+At the height of the station,
+
+16
+00:00:34,345 --> 00:00:36,827
+gravity is still almost as strong as
+
+17
+00:00:36,827 --> 00:00:37,792
+on the ground.
+
+18
+00:00:37,972 --> 00:00:40,561
+What the station has is speed,
+
+19
+00:00:40,561 --> 00:00:43,322
+and a long list of machines that
+
+20
+00:00:43,322 --> 00:00:45,825
+keep it alive in a place with
+
+21
+00:00:45,825 --> 00:00:48,328
+no air, no shade and no help.
+
+22
+00:00:48,678 --> 00:00:51,702
+As always, every fact here comes from
+
+23
+00:00:51,702 --> 00:00:52,928
+a named source,
+
+24
+00:00:52,928 --> 00:00:56,361
+NASA documents and spaceflight references,
+
+25
+00:00:56,361 --> 00:00:58,813
+all listed in the description.
+
+26
+00:00:58,993 --> 00:01:01,568
+Let's start with the biggest question of
+
+27
+00:01:01,568 --> 00:01:01,826
+all.
+
+28
+00:01:02,176 --> 00:01:04,915
+Why doesn't the space station fall down?
+
+29
+00:01:05,095 --> 00:01:08,235
+Because it is moving sideways at about
+
+30
+00:01:08,235 --> 00:01:12,036
+seven point six seven kilometers every second,
+
+31
+00:01:12,036 --> 00:01:16,415
+twenty-seven thousand six hundred kilometers an hour.
+
+32
+00:01:16,595 --> 00:01:18,705
+It does fall toward Earth,
+
+33
+00:01:18,705 --> 00:01:21,788
+but the Earth's surface curves away as
+
+34
+00:01:21,788 --> 00:01:23,898
+fast as the station drops.
+
+35
+00:01:24,078 --> 00:01:26,585
+So it falls around the planet,
+
+36
+00:01:26,585 --> 00:01:27,754
+over and over,
+
+37
+00:01:27,754 --> 00:01:31,681
+completing a lap in about ninety-three minutes,
+
+38
+00:01:31,681 --> 00:01:34,689
+fifteen and a half orbits every day.
+
+39
+00:01:35,040 --> 00:01:36,967
+Think of throwing a ball.
+
+40
+00:01:37,147 --> 00:01:38,888
+The harder you throw,
+
+41
+00:01:38,888 --> 00:01:40,630
+the farther it lands.
+
+42
+00:01:40,810 --> 00:01:42,312
+Throw it hard enough,
+
+43
+00:01:42,312 --> 00:01:44,959
+and the ground curves away beneath it
+
+44
+00:01:44,959 --> 00:01:46,104
+before it lands.
+
+45
+00:01:46,284 --> 00:01:47,468
+That is an orbit.
+
+46
+00:01:47,648 --> 00:01:50,970
+The astronauts feel weightless not because gravity
+
+47
+00:01:50,970 --> 00:01:53,163
+is gone, but because they and the
+
+48
+00:01:53,163 --> 00:01:55,090
+station are falling together.
+
+49
+00:01:55,440 --> 00:01:58,394
+And this was done with an enormous
+
+50
+00:01:58,394 --> 00:02:00,566
+machine, built in pieces,
+
+51
+00:02:00,566 --> 00:02:02,999
+in orbit, by many countries.
+
+52
+00:02:03,179 --> 00:02:06,950
+Humans have lived aboard continuously since the
+
+53
+00:02:06,950 --> 00:02:08,475
+second of November,
+
+54
+00:02:08,475 --> 00:02:09,518
+two thousand.
+
+55
+00:02:09,698 --> 00:02:11,867
+Everything we will look at today is
+
+56
+00:02:11,867 --> 00:02:13,541
+part of keeping that going.
+
+57
+00:02:13,891 --> 00:02:16,648
+Why does the station have such enormous
+
+58
+00:02:16,648 --> 00:02:17,072
+wings?
+
+59
+00:02:17,252 --> 00:02:18,641
+They are solar arrays,
+
+60
+00:02:18,641 --> 00:02:20,410
+and there are eight of them.
+
+61
+00:02:20,590 --> 00:02:23,924
+Each one is thirty-five meters long and
+
+62
+00:02:23,924 --> 00:02:25,548
+twelve meters wide,
+
+63
+00:02:25,548 --> 00:02:29,310
+and each makes close to thirty-one kilowatts
+
+64
+00:02:29,310 --> 00:02:30,934
+in direct sunlight.
+
+65
+00:02:31,114 --> 00:02:34,124
+All eight together make about two hundred
+
+66
+00:02:34,124 --> 00:02:36,106
+forty kilowatts in the sun,
+
+67
+00:02:36,106 --> 00:02:37,207
+and on average,
+
+68
+00:02:37,207 --> 00:02:39,336
+a bit less than half of that,
+
+69
+00:02:39,336 --> 00:02:40,878
+because of the shade.
+
+70
+00:02:41,228 --> 00:02:42,921
+Every ninety minute lap,
+
+71
+00:02:42,921 --> 00:02:46,237
+the station spends about thirty-five minutes in
+
+72
+00:02:46,237 --> 00:02:47,578
+the Earth's shadow.
+
+73
+00:02:47,758 --> 00:02:49,225
+During that time,
+
+74
+00:02:49,225 --> 00:02:50,951
+batteries take over.
+
+75
+00:02:51,131 --> 00:02:54,385
+The battery system goes through sixteen charge
+
+76
+00:02:54,385 --> 00:02:56,578
+and discharge cycles every day,
+
+77
+00:02:56,578 --> 00:02:58,983
+which is why the batteries are one
+
+78
+00:02:58,983 --> 00:03:00,963
+of the parts the crew has to
+
+79
+00:03:00,963 --> 00:03:02,590
+replace over the years.
+
+80
+00:03:02,940 --> 00:03:04,431
+Folded for launch,
+
+81
+00:03:04,431 --> 00:03:06,751
+each wing fits in a box just
+
+82
+00:03:06,751 --> 00:03:08,988
+fifty-one centimeters high.
+
+83
+00:03:09,168 --> 00:03:11,938
+In space, it unfolds into a field
+
+84
+00:03:11,938 --> 00:03:14,876
+of solar cells bigger than a tennis
+
+85
+00:03:14,876 --> 00:03:15,380
+court.
+
+86
+00:03:15,560 --> 00:03:17,317
+It is a power plant,
+
+87
+00:03:17,317 --> 00:03:19,338
+delivered in a shoebox,
+
+88
+00:03:19,338 --> 00:03:21,974
+that has to work in vacuum for
+
+89
+00:03:21,974 --> 00:03:22,677
+decades.
+
+90
+00:03:23,027 --> 00:03:25,697
+Why do the solar wings keep turning?
+
+91
+00:03:25,877 --> 00:03:27,351
+To follow the Sun.
+
+92
+00:03:27,531 --> 00:03:30,882
+The station circles the Earth every ninety
+
+93
+00:03:30,882 --> 00:03:33,675
+minutes, so the Sun appears to move
+
+94
+00:03:33,675 --> 00:03:35,670
+across the sky very fast.
+
+95
+00:03:35,850 --> 00:03:38,835
+A rotating joint called the alpha gimbal
+
+96
+00:03:38,835 --> 00:03:40,924
+turns the arrays to face it,
+
+97
+00:03:40,924 --> 00:03:42,342
+and a second joint,
+
+98
+00:03:42,342 --> 00:03:43,536
+the beta gimbal,
+
+99
+00:03:43,536 --> 00:03:46,148
+adjusts for the angle of the orbit.
+
+100
+00:03:46,328 --> 00:03:48,707
+A solar panel that does not face
+
+101
+00:03:48,707 --> 00:03:50,937
+the Sun makes much less power.
+
+102
+00:03:51,287 --> 00:03:54,064
+The station keeps its body pointed at
+
+103
+00:03:54,064 --> 00:03:56,616
+the Earth, while its wings turn to
+
+104
+00:03:56,616 --> 00:03:57,742
+follow the Sun.
+
+105
+00:03:57,922 --> 00:04:01,163
+Those two jobs need different directions,
+
+106
+00:04:01,163 --> 00:04:03,377
+so the joints do the work of
+
+107
+00:04:03,377 --> 00:04:05,037
+a sunflower, all day,
+
+108
+00:04:05,037 --> 00:04:05,828
+every day.
+
+109
+00:04:06,178 --> 00:04:08,521
+Each of those joints is a moving
+
+110
+00:04:08,521 --> 00:04:10,864
+part in a machine that is almost
+
+111
+00:04:10,864 --> 00:04:12,401
+impossible to repair,
+
+112
+00:04:12,401 --> 00:04:14,671
+which is why they are among the
+
+113
+00:04:14,671 --> 00:04:17,161
+most watched parts of the station.
+
+114
+00:04:17,341 --> 00:04:19,728
+A joint that sticks means a wing
+
+115
+00:04:19,728 --> 00:04:21,892
+that stops making full power.
+
+116
+00:04:22,242 --> 00:04:25,091
+Why does the station have giant white
+
+117
+00:04:25,091 --> 00:04:27,478
+panels next to its solar wings?
+
+118
+00:04:27,658 --> 00:04:28,935
+They are radiators.
+
+119
+00:04:29,115 --> 00:04:32,697
+Every computer, light and astronaut makes heat,
+
+120
+00:04:32,697 --> 00:04:34,831
+and in space there is no air
+
+121
+00:04:34,831 --> 00:04:36,127
+to carry it away.
+
+122
+00:04:36,307 --> 00:04:38,228
+The only way to get rid of
+
+123
+00:04:38,228 --> 00:04:40,445
+heat in a vacuum is to radiate
+
+124
+00:04:40,445 --> 00:04:41,997
+it as infrared light,
+
+125
+00:04:41,997 --> 00:04:45,395
+so the station circulates liquid through pipes
+
+126
+00:04:45,395 --> 00:04:46,430
+to the panels,
+
+127
+00:04:46,430 --> 00:04:49,090
+which shine the heat out into space.
+
+128
+00:04:49,440 --> 00:04:52,369
+The truss that carries the solar arrays
+
+129
+00:04:52,369 --> 00:04:54,397
+also carries the radiators.
+
+130
+00:04:54,577 --> 00:04:57,430
+Together, the two sets of panels are
+
+131
+00:04:57,430 --> 00:05:00,679
+the station's lungs and its power supply,
+
+132
+00:05:00,679 --> 00:05:03,532
+one bringing energy in and the other
+
+133
+00:05:03,532 --> 00:05:05,038
+letting energy out.
+
+134
+00:05:05,388 --> 00:05:07,245
+It is a strange problem.
+
+135
+00:05:07,425 --> 00:05:09,891
+The danger in space is not only
+
+136
+00:05:09,891 --> 00:05:10,606
+the cold.
+
+137
+00:05:10,786 --> 00:05:13,007
+A station full of equipment,
+
+138
+00:05:13,007 --> 00:05:14,514
+parked in sunlight,
+
+139
+00:05:14,514 --> 00:05:16,417
+can get too hot to work.
+
+140
+00:05:16,597 --> 00:05:19,461
+Keeping cool is as hard as keeping
+
+141
+00:05:19,461 --> 00:05:19,883
+warm.
+
+142
+00:05:20,233 --> 00:05:22,650
+Why does the station have a giant
+
+143
+00:05:22,650 --> 00:05:23,530
+metal spine?
+
+144
+00:05:23,710 --> 00:05:27,351
+It is called the Integrated Truss Structure,
+
+145
+00:05:27,351 --> 00:05:29,171
+built of ten segments,
+
+146
+00:05:29,171 --> 00:05:32,150
+about one hundred eight meters long.
+
+147
+00:05:32,330 --> 00:05:34,747
+It is the backbone that holds the
+
+148
+00:05:34,747 --> 00:05:36,724
+solar arrays and radiators,
+
+149
+00:05:36,724 --> 00:05:39,434
+far enough from the living modules so
+
+150
+00:05:39,434 --> 00:05:41,777
+the wings do not shade the crew,
+
+151
+00:05:41,777 --> 00:05:42,802
+or each other.
+
+152
+00:05:43,153 --> 00:05:45,325
+A truss is a very light way
+
+153
+00:05:45,325 --> 00:05:46,612
+to be very long.
+
+154
+00:05:46,792 --> 00:05:48,857
+It is made of simple bars,
+
+155
+00:05:48,857 --> 00:05:51,796
+with mostly empty space between them.
+
+156
+00:05:51,976 --> 00:05:54,775
+That lets the station carry large wings
+
+157
+00:05:54,775 --> 00:05:57,215
+and panels without the weight of a
+
+158
+00:05:57,215 --> 00:06:00,444
+solid beam, which matters when every kilogram
+
+159
+00:06:00,444 --> 00:06:02,669
+has to be launched on a rocket.
+
+160
+00:06:03,019 --> 00:06:06,179
+The truss was assembled piece by piece,
+
+161
+00:06:06,179 --> 00:06:08,610
+over years of shuttle flights,
+
+162
+00:06:08,610 --> 00:06:11,122
+by astronauts doing spacewalks.
+
+163
+00:06:11,302 --> 00:06:13,682
+It is one of the largest structures
+
+164
+00:06:13,682 --> 00:06:16,469
+humans have ever built outside the Earth.
+
+165
+00:06:16,819 --> 00:06:18,924
+Why does the station have a dome
+
+166
+00:06:18,924 --> 00:06:19,976
+made of windows?
+
+167
+00:06:20,156 --> 00:06:21,881
+It is called the Cupola,
+
+168
+00:06:21,881 --> 00:06:23,677
+and it has seven windows,
+
+169
+00:06:23,677 --> 00:06:25,833
+with a round one in the middle
+
+170
+00:06:25,833 --> 00:06:28,132
+about eighty centimeters across.
+
+171
+00:06:28,312 --> 00:06:30,562
+It is the control room for the
+
+172
+00:06:30,562 --> 00:06:33,711
+robotic arm, a place from which astronauts
+
+173
+00:06:33,711 --> 00:06:36,260
+can see the outside of the station
+
+174
+00:06:36,260 --> 00:06:38,959
+and the spacecraft arriving to dock.
+
+175
+00:06:39,309 --> 00:06:40,756
+Moving a robot arm,
+
+176
+00:06:40,756 --> 00:06:43,269
+or catching a cargo ship with it,
+
+177
+00:06:43,269 --> 00:06:45,706
+is much easier when you can look
+
+178
+00:06:45,706 --> 00:06:47,610
+at it with your own eyes.
+
+179
+00:06:47,790 --> 00:06:50,453
+Cameras help, but a window gives the
+
+180
+00:06:50,453 --> 00:06:53,043
+view and the depth that screens can
+
+181
+00:06:53,043 --> 00:06:53,339
+not.
+
+182
+00:06:53,519 --> 00:06:55,893
+It is also where astronauts go to
+
+183
+00:06:55,893 --> 00:06:57,188
+look at the Earth.
+
+184
+00:06:57,538 --> 00:07:00,542
+The windows are protected by shutters,
+
+185
+00:07:00,542 --> 00:07:03,072
+closed when they are not in use,
+
+186
+00:07:03,072 --> 00:07:05,444
+against dust and tiny impacts.
+
+187
+00:07:05,624 --> 00:07:08,554
+A big window on a spacecraft is
+
+188
+00:07:08,554 --> 00:07:11,673
+a risk, so it needs good reasons.
+
+189
+00:07:11,853 --> 00:07:13,793
+The view of the arm and the
+
+190
+00:07:13,793 --> 00:07:14,871
+planet was one.
+
+191
+00:07:15,221 --> 00:07:17,828
+How does the station keep itself pointed
+
+192
+00:07:17,828 --> 00:07:20,109
+the right way without burning fuel?
+
+193
+00:07:20,289 --> 00:07:23,037
+With four giant spinning wheels,
+
+194
+00:07:23,037 --> 00:07:25,870
+called control moment gyroscopes,
+
+195
+00:07:25,870 --> 00:07:27,673
+mounted on the truss.
+
+196
+00:07:27,853 --> 00:07:30,501
+Tilt a spinning wheel and it pushes
+
+197
+00:07:30,501 --> 00:07:32,013
+back on the station,
+
+198
+00:07:32,013 --> 00:07:32,846
+turning it.
+
+199
+00:07:33,026 --> 00:07:35,428
+They keep the station at a steady
+
+200
+00:07:35,428 --> 00:07:36,812
+angle to the Earth,
+
+201
+00:07:36,812 --> 00:07:39,579
+and they use only electricity from the
+
+202
+00:07:39,579 --> 00:07:40,526
+solar arrays.
+
+203
+00:07:40,876 --> 00:07:43,569
+Rocket thrusters can do the same job,
+
+204
+00:07:43,569 --> 00:07:46,190
+but they burn propellant that has to
+
+205
+00:07:46,190 --> 00:07:47,865
+be launched from Earth.
+
+206
+00:07:48,045 --> 00:07:49,375
+Over the years,
+
+207
+00:07:49,375 --> 00:07:52,123
+using the gyroscopes for turns,
+
+208
+00:07:52,123 --> 00:07:56,113
+including turns before Soyuz capsules undock,
+
+209
+00:07:56,113 --> 00:07:58,772
+has saved a lot of propellant.
+
+210
+00:07:59,122 --> 00:08:01,166
+The gyroscopes have a limit.
+
+211
+00:08:01,346 --> 00:08:03,580
+If they keep absorbing push,
+
+212
+00:08:03,580 --> 00:08:05,575
+they eventually saturate,
+
+213
+00:08:05,575 --> 00:08:08,048
+and then the station has to use
+
+214
+00:08:08,048 --> 00:08:10,363
+another way to get rid of the
+
+215
+00:08:10,363 --> 00:08:13,714
+extra momentum, like thrusters or the pull
+
+216
+00:08:13,714 --> 00:08:15,150
+of gravity itself.
+
+217
+00:08:15,330 --> 00:08:17,786
+Even a machine without fuel has a
+
+218
+00:08:17,786 --> 00:08:18,233
+limit.
+
+219
+00:08:18,582 --> 00:08:21,280
+How does the station survive the pieces
+
+220
+00:08:21,280 --> 00:08:23,424
+of space junk flying around it?
+
+221
+00:08:23,604 --> 00:08:24,997
+With shields.
+
+222
+00:08:25,177 --> 00:08:27,728
+The walls of many modules have an
+
+223
+00:08:27,728 --> 00:08:29,428
+aluminum outer bumper,
+
+224
+00:08:29,428 --> 00:08:31,979
+and behind it a blanket of Nextel
+
+225
+00:08:31,979 --> 00:08:33,988
+ceramic fabric and Kevlar,
+
+226
+00:08:33,988 --> 00:08:35,998
+with the real wall behind.
+
+227
+00:08:36,178 --> 00:08:38,609
+The design is meant to stop an
+
+228
+00:08:38,609 --> 00:08:41,852
+aluminum ball about one centimeter wide,
+
+229
+00:08:41,852 --> 00:08:45,175
+at speeds of several kilometers a second.
+
+230
+00:08:45,525 --> 00:08:48,521
+The idea is called a Whipple shield.
+
+231
+00:08:48,701 --> 00:08:51,178
+The outer bumper does not stop the
+
+232
+00:08:51,178 --> 00:08:51,615
+piece.
+
+233
+00:08:51,795 --> 00:08:52,992
+It breaks it up,
+
+234
+00:08:52,992 --> 00:08:55,013
+melts it or turns it into a
+
+235
+00:08:55,013 --> 00:08:56,809
+cloud of fine fragments,
+
+236
+00:08:56,809 --> 00:08:59,727
+and the layers behind spread and absorb
+
+237
+00:08:59,727 --> 00:09:00,700
+what is left.
+
+238
+00:09:00,880 --> 00:09:02,965
+A thin plate with a gap works
+
+239
+00:09:02,965 --> 00:09:04,978
+better than one thick plate.
+
+240
+00:09:05,328 --> 00:09:07,019
+The faster the object,
+
+241
+00:09:07,019 --> 00:09:08,556
+the better it works.
+
+242
+00:09:08,736 --> 00:09:11,180
+At several kilometers a second,
+
+243
+00:09:11,180 --> 00:09:14,254
+a small fragment vaporizes when it hits
+
+244
+00:09:14,254 --> 00:09:15,122
+the bumper.
+
+245
+00:09:15,302 --> 00:09:17,937
+It is a strange rule of space.
+
+246
+00:09:18,117 --> 00:09:20,312
+A fast thing can be easier to
+
+247
+00:09:20,312 --> 00:09:21,902
+stop than a slow one.
+
+248
+00:09:22,251 --> 00:09:24,980
+Why does a station need engines if
+
+249
+00:09:24,980 --> 00:09:26,826
+it is already in orbit?
+
+250
+00:09:27,006 --> 00:09:29,351
+Because there is still a very thin
+
+251
+00:09:29,351 --> 00:09:32,110
+trace of air at four hundred kilometers,
+
+252
+00:09:32,110 --> 00:09:34,041
+and it drags on the station.
+
+253
+00:09:34,221 --> 00:09:37,748
+Without help, the station loses about two
+
+254
+00:09:37,748 --> 00:09:40,758
+kilometers of altitude every month.
+
+255
+00:09:40,938 --> 00:09:43,039
+So, from time to time,
+
+256
+00:09:43,039 --> 00:09:45,140
+a visiting spacecraft,
+
+257
+00:09:45,140 --> 00:09:47,910
+or the station's own engines,
+
+258
+00:09:47,910 --> 00:09:50,203
+fire to lift it back up.
+
+259
+00:09:50,552 --> 00:09:52,190
+Without those pushes,
+
+260
+00:09:52,190 --> 00:09:54,529
+the orbit would slowly shrink,
+
+261
+00:09:54,529 --> 00:09:57,805
+and eventually the station would fall into
+
+262
+00:09:57,805 --> 00:09:59,910
+the atmosphere and burn up.
+
+263
+00:10:00,090 --> 00:10:02,419
+The station is not simply parked up
+
+264
+00:10:02,419 --> 00:10:02,818
+there.
+
+265
+00:10:02,998 --> 00:10:05,124
+It is slowly being held up,
+
+266
+00:10:05,124 --> 00:10:06,542
+month after month,
+
+267
+00:10:06,542 --> 00:10:09,455
+by people on the ground planning each
+
+268
+00:10:09,455 --> 00:10:09,848
+burn.
+
+269
+00:10:10,198 --> 00:10:12,500
+So the answer to our title is
+
+270
+00:10:12,500 --> 00:10:14,564
+a little more complicated.
+
+271
+00:10:14,744 --> 00:10:17,697
+The station does not fall down because
+
+272
+00:10:17,697 --> 00:10:19,951
+it is always moving sideways,
+
+273
+00:10:19,951 --> 00:10:23,370
+very fast, and because someone keeps topping
+
+274
+00:10:23,370 --> 00:10:24,380
+up its speed.
+
+275
+00:10:24,560 --> 00:10:26,685
+Gravity never lets go.
+
+276
+00:10:26,865 --> 00:10:28,061
+We just keep winning.
+
+277
+00:10:28,410 --> 00:10:30,861
+Why does the station have a giant
+
+278
+00:10:30,861 --> 00:10:31,603
+robot arm?
+
+279
+00:10:31,783 --> 00:10:33,300
+It is Canadarm two,
+
+280
+00:10:33,300 --> 00:10:35,696
+and it is the station's crane.
+
+281
+00:10:35,876 --> 00:10:38,239
+It moved the pieces of the station
+
+282
+00:10:38,239 --> 00:10:40,116
+into place during assembly,
+
+283
+00:10:40,116 --> 00:10:42,687
+and since then it has caught visiting
+
+284
+00:10:42,687 --> 00:10:45,537
+cargo ships and moved astronauts to their
+
+285
+00:10:45,537 --> 00:10:46,302
+work sites.
+
+286
+00:10:46,482 --> 00:10:48,762
+The arm walks along the station,
+
+287
+00:10:48,762 --> 00:10:49,832
+hand over hand,
+
+288
+00:10:49,832 --> 00:10:52,112
+changing the end it holds on to.
+
+289
+00:10:52,462 --> 00:10:55,494
+Ships that bring supplies do not dock
+
+290
+00:10:55,494 --> 00:10:58,279
+by themselves, many of them stop a
+
+291
+00:10:58,279 --> 00:10:59,918
+short distance away,
+
+292
+00:10:59,918 --> 00:11:02,294
+and wait to be grabbed by the
+
+293
+00:11:02,294 --> 00:11:02,621
+arm.
+
+294
+00:11:02,801 --> 00:11:05,239
+It is gentler and safer than trying
+
+295
+00:11:05,239 --> 00:11:07,538
+to fly a spaceship into a docking
+
+296
+00:11:07,538 --> 00:11:08,931
+port at that moment.
+
+297
+00:11:09,281 --> 00:11:11,021
+It is a simple idea,
+
+298
+00:11:11,021 --> 00:11:13,457
+a robot arm built to work in
+
+299
+00:11:13,457 --> 00:11:14,587
+zero gravity.
+
+300
+00:11:14,767 --> 00:11:15,751
+And with it,
+
+301
+00:11:15,751 --> 00:11:18,622
+the astronauts built a house in the
+
+302
+00:11:18,622 --> 00:11:20,590
+sky, one room at a time,
+
+303
+00:11:20,590 --> 00:11:23,133
+that has been lived in for more
+
+304
+00:11:23,133 --> 00:11:25,019
+than twenty-five years.
+
+305
+00:11:25,368 --> 00:11:26,738
+So here are the ten.
+
+306
+00:11:26,918 --> 00:11:30,012
+A station that falls around the Earth
+
+307
+00:11:30,012 --> 00:11:33,274
+and misses, solar wings that follow the
+
+308
+00:11:33,274 --> 00:11:36,619
+Sun, radiators that shine away the heat,
+
+309
+00:11:36,619 --> 00:11:38,625
+a spine that holds them,
+
+310
+00:11:38,625 --> 00:11:40,131
+a dome of windows.
+
+311
+00:11:40,311 --> 00:11:43,407
+Spinning wheels that turn the station,
+
+312
+00:11:43,407 --> 00:11:45,607
+shields against space junk,
+
+313
+00:11:45,607 --> 00:11:47,318
+engines that lift it,
+
+314
+00:11:47,318 --> 00:11:49,355
+and an arm that built it.
+
+315
+00:11:49,704 --> 00:11:51,025
+Next time you see the station crossing
+
+316
+00:11:51,025 --> 00:11:51,511
+the night sky,
+
+317
+00:11:51,511 --> 00:11:52,727
+a bright dot that moves faster than
+
+318
+00:11:52,727 --> 00:11:53,839
+any plane, you will know what is
+
+319
+00:11:53,839 --> 00:11:54,325
+holding it up.
+
+320
+00:11:54,505 --> 00:11:57,363
+If you want more machines explained part
+
+321
+00:11:57,363 --> 00:12:00,078
+by part, subscribe to Machine Reverse.
+
+322
+00:12:00,258 --> 00:12:02,298
+And tell us in the comments which
+
+323
+00:12:02,298 --> 00:12:04,338
+machine you want us to take apart
+
+324
+00:12:04,338 --> 00:12:04,647
+next.
