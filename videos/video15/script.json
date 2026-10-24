@@ -1,0 +1,227 @@
+{
+ "id": "video15",
+ "title": "Why Are Spacesuits White?",
+ "length_scale": 1.6,
+ "scenes": [
+  {
+   "text": "A spacesuit is a small spaceship that you wear. It has to keep you alive in a place with no air, no pressure, and temperatures that swing from about minus two hundred fifty degrees Fahrenheit to plus two hundred fifty, depending on whether you are in the Sun or in the shade. And almost every spacesuit you have ever seen is white. A standard flight-rated NASA suit has been put at around twelve million dollars. Today, ten parts of a spacesuit, and why each one exists.",
+   "query": "astronaut spacewalk spacesuit",
+   "caption": "WHY ARE SPACESUITS WHITE?",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Every part of a suit is a solution to a different way space can kill you. Too hot, too cold, too little pressure, tiny fast rocks, and the fact that if you drift away, nobody can come and get you. Let's go through them one by one.",
+   "query": "astronaut spacewalk International Space Station",
+   "caption": "SPACE HAS MANY WAYS TO KILL"
+  },
+  {
+   "text": "As always, every fact here comes from a named source, NASA pages and spaceflight references, all listed in the description. Let's start with the color.",
+   "query": "astronaut spacesuit EMU",
+   "caption": "WHY DOES THIS EXIST?"
+  },
+  {
+   "text": "Why are spacesuits white? To deflect sunlight. In space there is no air to carry heat away, so the Sun can heat the outside of a suit to about two hundred fifty degrees Fahrenheit, one hundred twenty-one Celsius. White reflects most of that light. The outer layer is a fabric that blends three kinds of threads, and its job is to keep the heat from ever reaching the astronaut.",
+   "query": "astronaut white spacesuit EMU",
+   "caption": "WHY IS THE SPACESUIT WHITE?",
+   "arrow": true,
+   "chapter": "1. The white outer layer",
+   "short": "Why Are Spacesuits White?",
+   "cuts": 3
+  },
+  {
+   "text": "In the shadow, the problem reverses. Temperatures on a spacewalk can drop to about minus two hundred fifty degrees Fahrenheit. On the International Space Station, every lap around the Earth, about every ninety minutes, includes a trip through the Earth's shadow. The suit has to handle both.",
+   "query": "spacewalk sunrise International Space Station",
+   "caption": "EVERY LAP: SUN, THEN SHADE"
+  },
+  {
+   "text": "White is a bad color for a work suit on the ground, because it shows every stain. But where the main danger is the Sun's heat, a clean white surface is the best color there is.",
+   "query": "astronaut spacewalk Earth",
+   "caption": "WHITE REFLECTS THE SUN"
+  },
+  {
+   "text": "Why does a spacesuit have so many layers? The flexible parts are made of as many as sixteen layers of material, each one doing a different job. Some hold the pressure in, some stop the heat from passing, and some protect against tiny pieces of space dust and rock moving at huge speeds. On the Apollo suits, five of the layers were thin aluminized insulation, under an outer layer of white fabric.",
+   "query": "spacesuit layers Thermal Micrometeoroid Garment",
+   "caption": "WHY IS THE SUIT MADE OF SO MANY LAYERS?",
+   "arrow": true,
+   "chapter": "2. The many layers",
+   "short": "Why Is a Spacesuit Made of So Many Layers?",
+   "cuts": 3
+  },
+  {
+   "text": "Think of a thermos bottle you wear. The aluminized layers reflect heat back and forth, like the mirror inside a thermos, so very little gets through. And the outer fabric takes the scratches and the tiny impacts, so the layers below stay whole.",
+   "query": "spacesuit insulation layers",
+   "caption": "A THERMOS YOU WEAR"
+  },
+  {
+   "text": "Every layer has a cost. They make the suit stiff, heavy and hard to move in. Designing a suit is a long argument between safety and movement, and the layers are where that argument happens.",
+   "query": "astronaut suit test",
+   "caption": "SAFE OR FLEXIBLE"
+  },
+  {
+   "text": "Why is the visor of an astronaut's helmet gold? It is a special gold coating that works like the astronaut's sunglasses. In space, the sunlight is far brighter than anything on the ground, with no air to soften it, and it carries a lot of heat. The thin layer of gold reflects most of it away, while still letting the astronaut see out.",
+   "query": "astronaut helmet gold visor",
+   "caption": "WHY IS THE VISOR GOLD?",
+   "arrow": true,
+   "chapter": "3. The gold visor",
+   "short": "Why Do Astronaut Helmets Have a Gold Visor?",
+   "cuts": 3
+  },
+  {
+   "text": "There is a clear helmet underneath it, the bubble that holds the air. The gold visor is pulled down over it, like a pair of sunglasses over a pair of glasses. When the astronaut is in the shade, it can be lifted.",
+   "query": "astronaut gold visor reflection",
+   "caption": "SUNGLASSES FOR SPACE"
+  },
+  {
+   "text": "And the gold is not just for show. It also reflects the astronaut, and the whole station, in a mirror, which is why so many famous space photos show the photographer inside the visor.",
+   "query": "astronaut visor reflection Earth",
+   "caption": "A MIRROR TO THE WORLD"
+  },
+  {
+   "text": "Why do astronauts wear a suit full of tubes under their spacesuit? It is called the Liquid Cooling and Ventilation Garment. About three hundred feet of tubing is woven into a tight-fitting piece of clothing, and chilled water flows through it to take heat away from the body. A spacewalk is hard work, and in a sealed suit, an astronaut would quickly overheat without a way to take the heat away.",
+   "query": "astronaut liquid cooling garment",
+   "caption": "WHY IS THERE UNDERWEAR FULL OF TUBES?",
+   "arrow": true,
+   "chapter": "4. The tube underwear",
+   "short": "Why Do Astronauts Wear Underwear Full of Tubes?",
+   "cuts": 3
+  },
+  {
+   "text": "The heat has to go somewhere. It is carried by the water to the backpack, and from there it is released into space. The same idea as a car radiator, but with vacuum on the other side.",
+   "query": "astronaut cooling garment radiator",
+   "caption": "THE BODY'S RADIATOR"
+  },
+  {
+   "text": "The ventilation part takes away the gases the astronaut breathes out. So underwear, in this case, is part of the life support system. And without it, the white suit would just be a very clean oven.",
+   "query": "astronaut suit underwear",
+   "caption": "OTHERWISE, AN OVEN"
+  },
+  {
+   "text": "What is inside an astronaut's backpack? It is the Primary Life Support System, the part that keeps the suit alive. It supplies oxygen, removes the carbon dioxide, circulates the cooling water, and holds a regulator that keeps the suit at the right pressure. Its primary supply lasts about eight hours, with another thirty minutes of backup.",
+   "query": "astronaut life support backpack PLSS",
+   "caption": "WHY DOES THE SUIT HAVE A BACKPACK?",
+   "arrow": true,
+   "chapter": "5. The life support backpack",
+   "short": "What Is Inside an Astronaut's Backpack?",
+   "cuts": 3
+  },
+  {
+   "text": "Eight hours is a long day of work, and the margin matters. A spacewalk is planned like a mountain climb, with a clear turnaround time, and a reserve that nobody wants to use. When a suit runs low, the astronaut heads back to the airlock.",
+   "query": "astronaut spacewalk airlock",
+   "caption": "A CLEAR TURNAROUND TIME"
+  },
+  {
+   "text": "And the backpack is also a good example of how heavy a suit is. On Earth, the full suit for the space station, with its backpack, weighs about three hundred nineteen pounds. In space, nobody feels that weight.",
+   "query": "astronaut suit weightless",
+   "caption": "HEAVY ON EARTH, FREE IN SPACE"
+  },
+  {
+   "text": "Why do some spacesuits have red stripes? So you can tell the astronauts apart. Out on a spacewalk, two white suits with two gold visors look almost identical, and that is a problem for the people watching the cameras on the ground. Some suits have stripes to help tell one spacewalker from another. On the Apollo program, the commander's stripes were introduced on Apollo 13, for exactly that reason.",
+   "query": "astronaut suit red stripes",
+   "caption": "WHY DO SOME SUITS HAVE RED STRIPES?",
+   "arrow": true,
+   "chapter": "6. The red stripes",
+   "short": "Why Do Some Spacesuits Have Red Stripes?",
+   "cuts": 3
+  },
+  {
+   "text": "It sounds like a small thing. But in a spacewalk, mission control has to know who is working on what. If the instructions are meant for one person and the other follows them, the mistake could cost a lot, and a stripe is a very cheap fix.",
+   "query": "two astronauts spacewalk stripes",
+   "caption": "A VERY CHEAP FIX"
+  },
+  {
+   "text": "So the stripes are a safety feature as well as a fashion detail. And in a vehicle built from carefully weighed parts, a stripe of paint is about as light as a safety feature can be.",
+   "query": "astronaut spacewalk suit stripe",
+   "caption": "LIGHT AS PAINT"
+  },
+  {
+   "text": "Why does an astronaut wear a cloth cap under the helmet? It holds the microphones and earphones. It is called a communications carrier assembly, and on Apollo, the cap was nicknamed the Snoopy cap, because the colors looked like the cartoon dog. Inside a sealed helmet, the microphones and earphones have to stay close to the mouth and the ears, and the cap holds them there.",
+   "query": "astronaut Snoopy cap communications",
+   "caption": "WHY DO ASTRONAUTS WEAR A CLOTH CAP UNDER THE HELMET?",
+   "arrow": true,
+   "chapter": "7. The Snoopy cap",
+   "short": "Why Do Astronauts Wear a Cloth Cap Under Their Helmets?",
+   "cuts": 3
+  },
+  {
+   "text": "In space there is no air to carry sound between two people. Outside the station, astronauts can only talk by radio, and all of it goes through the cap. If the cap fails, the astronaut is silent, and a silent astronaut is a problem for everyone.",
+   "query": "astronaut radio spacewalk",
+   "caption": "NO AIR, ONLY RADIO"
+  },
+  {
+   "text": "So the cap is a tiny part with a big job. It is the link between a person in a suit, and everybody who is working to keep them alive.",
+   "query": "astronaut helmet communications cap",
+   "caption": "THE LINK TO EVERYONE"
+  },
+  {
+   "text": "Why do astronaut gloves have heaters? Because hands get the coldest. On the International Space Station, the gloves have built-in heaters, with an extra battery, for the night part of each ninety-five minute orbit. The hands touch cold metal tools and handrails, and fingers are far from the warm core of the body, so they are the first to suffer.",
+   "query": "astronaut spacesuit gloves",
+   "caption": "WHY DO THESE GLOVES HAVE HEATERS?",
+   "arrow": true,
+   "chapter": "8. The heated gloves",
+   "short": "Why Do Astronaut Gloves Have Heaters?",
+   "cuts": 3
+  },
+  {
+   "text": "Gloves are also the hardest part to make. The hand must be able to grip a tool, feel a bolt and turn a screw, inside a pressurized glove that wants to stay straight like a balloon. Astronauts say that squeezing the glove for hours is hard work.",
+   "query": "astronaut glove grip tool",
+   "caption": "A BALLOON ON YOUR HAND"
+  },
+  {
+   "text": "So a tiny heater and a battery on each hand is a part of safety too. A cold hand does not work well, and in space a hand that does not work well can be the end of a job.",
+   "query": "astronaut hand spacewalk",
+   "caption": "A COLD HAND CAN'T WORK"
+  },
+  {
+   "text": "Why does an astronaut wear a small jetpack on a spacewalk? It is called SAFER, which stands for Simplified Aid For EVA Rescue, and it has been used with the space station suits since nineteen ninety-eight. If an astronaut lets go of the station and starts drifting away, the jetpack can fly them back. A spacewalker is normally attached to the station with tethers, and SAFER is the backup if those fail.",
+   "query": "astronaut SAFER jetpack",
+   "caption": "WHY DOES THE SUIT HAVE A TINY JETPACK?",
+   "arrow": true,
+   "chapter": "9. The rescue jetpack",
+   "short": "Why Do Astronauts Wear a Tiny Jetpack?",
+   "cuts": 3
+  },
+  {
+   "text": "There is no one to come and get you in space. A rescue spacecraft takes a long time to arrive, and a drifting astronaut would keep moving away. So the rescue has to be on the astronaut's back, ready to use.",
+   "query": "astronaut free flying SAFER",
+   "caption": "NO ONE CAN COME GET YOU"
+  },
+  {
+   "text": "It is a small, simple machine, small nozzles and a joystick. But it is the last line of defense, worn on station spacewalks since nineteen ninety-eight.",
+   "query": "astronaut joystick jetpack",
+   "caption": "THE LAST LINE OF DEFENSE"
+  },
+  {
+   "text": "Why is a spacesuit so stiff? Because it is full of air. The shuttle-era suit is kept at about four point three pounds per square inch, around thirty kilopascals, of pure oxygen. That is much lower than the air pressure on the ground, but it is enough to make the suit inflate like a balloon, and a balloon does not bend easily at the elbows and knees.",
+   "query": "astronaut spacesuit pressurized",
+   "caption": "WHY IS THE SPACESUIT SO STIFF?",
+   "arrow": true,
+   "chapter": "10. The stiff pressurized suit",
+   "short": "Why Is a Spacesuit So Hard to Move In?",
+   "cuts": 3
+  },
+  {
+   "text": "Why not a lower pressure, to make it softer? Because lower pressure leaves less oxygen to breathe. A suit of pure oxygen needs about four point seven pounds per square inch, and four point three is close to the lowest limit at which astronauts can safely work.",
+   "query": "spacesuit pressure test",
+   "caption": "A BALANCE OF PRESSURE"
+  },
+  {
+   "text": "Without the suit, an astronaut in a vacuum would lose consciousness in about fifteen seconds. The stiffness is the price of being alive. And every new suit design is a new try at making it a little bit softer.",
+   "query": "astronaut spacewalk vacuum",
+   "caption": "STIFF, BUT ALIVE"
+  },
+  {
+   "text": "So here are the ten. White to reflect the Sun, many layers of insulation, a gold visor, underwear full of tubes, and a backpack for life support. Stripes to tell people apart, a cap with microphones, heated gloves, a rescue jetpack, and a suit that is stiff because it is full of air.",
+   "query": "astronaut spacewalk sunrise",
+   "caption": "10 PARTS. 10 REASONS.",
+   "chapter": "The verdict",
+   "cuts": 6
+  },
+  {
+   "text": "Next time you see an astronaut, you will see more than a white suit. It is a spaceship, made for one person. If you want more machines explained part by part, subscribe to Machine Reverse. And tell us in the comments which machine you want us to take apart next.",
+   "query": "astronaut spacesuit museum",
+   "caption": "SUBSCRIBE: MACHINE REVERSE",
+   "cuts": 4
+  }
+ ]
+}
