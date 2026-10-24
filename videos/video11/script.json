@@ -25,8 +25,8 @@
    "query": "rocket frost ice launch",
    "caption": "WHY IS THIS ROCKET COVERED IN ICE?",
    "arrow": {
-    "x": 0.55,
-    "y": 0.5
+    "x": 0.47,
+    "y": 0.3
    },
    "chapter": "1. The ice on the rocket",
    "short": "Why Does Ice Fall Off Rockets at Launch?",
@@ -232,8 +232,8 @@
    "query": "launch tower umbilical arm",
    "caption": "WHY DOES THIS ARM FALL AWAY?",
    "arrow": {
-    "x": 0.42,
-    "y": 0.4
+    "x": 0.38,
+    "y": 0.35
    },
    "chapter": "10. The arms that let go",
    "short": "Why Do Launch Towers Drop Their Arms Seconds Before Liftoff?",

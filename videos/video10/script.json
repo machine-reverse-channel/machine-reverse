@@ -94,7 +94,7 @@
    "query": "deicing pad airport",
    "caption": "WHY IS THERE A PARKING LOT NEAR THE RUNWAY?",
    "arrow": {
-    "x": 0.45,
+    "x": 0.3,
     "y": 0.62
    },
    "chapter": "4. The de-icing pad",
@@ -209,8 +209,8 @@
    "query": "wing inspection light airliner",
    "caption": "WHY IS THERE A LIGHT POINTING AT THE WING?",
    "arrow": {
-    "x": 0.75,
-    "y": 0.42
+    "x": 0.62,
+    "y": 0.5
    },
    "chapter": "9. The light that shines on the wing",
    "short": "Why Do Airplanes Have a Light Pointing at the Wing?",

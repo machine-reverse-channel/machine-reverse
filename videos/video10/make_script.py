@@ -125,12 +125,12 @@ PICKS = {
     1: ("File:Deicing Copenhagen Airport.JPG", 0.3, 0.4),
     2: ("File:WestJet 737-700 getting a spray (4063116066).jpg", 0.17, 0.46),
     3: ("File:Ice on an aircraft wing.jpg", 0.4, 0.6),
-    4: ("File:Deice Pad - Denver Airport (53816863550).jpg", 0.45, 0.62),
+    4: ("File:Deice Pad - Denver Airport (53816863550).jpg", 0.3, 0.62),
     5: ("File:MD-80 wing, landing, focus on leading edge slats (7984780550).jpg", 0.5, 0.3),
     6: ("File:Inlet of jet engine.jpg", 0.5, 0.5),
     7: ("File:Pneumatic deice boot detail.JPG", 0.5, 0.5),
     8: ("File:ILA-Pitotrohr.jpg", 0.7, 0.72),
-    9: ("File:Aircraft element - wing and front left side 2.JPG", 0.75, 0.42),
+    9: ("File:Aircraft element - wing and front left side 2.JPG", 0.62, 0.5),
     10: ("File:Ice detection probe on Global 6000 (1).jpg", 0.43, 0.5),
 }
 for s in S:

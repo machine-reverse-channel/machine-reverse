@@ -122,7 +122,7 @@ sc("""Next time you see ice falling off a rocket, you will know what it is. A ro
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
-    1: ("File:Falcon 9 launches with second Dragon spacecraft.jpg", 0.55, 0.5),
+    1: ("File:Falcon 9 launches with second Dragon spacecraft.jpg", 0.47, 0.3),
     2: ("File:Saturn V Rocket -- Johnson Space Center.jpg", 0.55, 0.4),
     3: ("File:Space Shuttle external tank foam block.JPG", 0.5, 0.5),
     4: ("File:STS-114 external tank foam missing.jpg", 0.67, 0.55),
@@ -131,7 +131,7 @@ PICKS = {
     7: ("File:Space Shuttle Columbia launching.jpg", 0.22, 0.68),
     8: ("File:SpaceX Water Deluge Test at Pad 39A (33023773581).jpg", 0.5, 0.5),
     9: ("File:Pad 34 flame deflectors.jpg", 0.42, 0.5),
-    10: ("File:SLS mobile launch platform and tower.jpg", 0.42, 0.4),
+    10: ("File:SLS mobile launch platform and tower.jpg", 0.38, 0.35),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None
