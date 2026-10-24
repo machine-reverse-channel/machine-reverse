@@ -1,0 +1,1779 @@
+1
+00:00:00,000 --> 00:00:01,161
+On many airlines,
+
+2
+00:00:01,161 --> 00:00:03,689
+the captain and the first officer are
+
+3
+00:00:03,689 --> 00:00:05,944
+not allowed to eat the same meal.
+
+4
+00:00:06,124 --> 00:00:07,534
+Not because of taste,
+
+5
+00:00:07,534 --> 00:00:09,953
+because of what happened on a flight
+
+6
+00:00:09,953 --> 00:00:11,632
+in nineteen seventy-five,
+
+7
+00:00:11,632 --> 00:00:13,983
+when a breakfast made more than one
+
+8
+00:00:13,983 --> 00:00:16,468
+hundred forty people sick in the air.
+
+9
+00:00:16,648 --> 00:00:19,412
+The cockpit is full of rules and
+
+10
+00:00:19,412 --> 00:00:20,967
+objects like that.
+
+11
+00:00:21,147 --> 00:00:21,937
+An axe.
+
+12
+00:00:22,117 --> 00:00:23,707
+A rope above the window.
+
+13
+00:00:23,887 --> 00:00:26,616
+Switches hidden under red covers.
+
+14
+00:00:26,796 --> 00:00:30,837
+Today, ten cockpit details pilots know and
+
+15
+00:00:30,837 --> 00:00:33,147
+passengers never notice,
+
+16
+00:00:33,147 --> 00:00:35,457
+and why each one exists.
+
+17
+00:00:35,806 --> 00:00:38,105
+The cockpit of an airliner is the
+
+18
+00:00:38,105 --> 00:00:41,170
+most carefully designed office in the world.
+
+19
+00:00:41,350 --> 00:00:43,560
+Every switch has a position,
+
+20
+00:00:43,560 --> 00:00:45,375
+every item has a place,
+
+21
+00:00:45,375 --> 00:00:48,058
+and many of the rules were written
+
+22
+00:00:48,058 --> 00:00:50,661
+after an accident or a near miss.
+
+23
+00:00:50,841 --> 00:00:52,364
+From the outside,
+
+24
+00:00:52,364 --> 00:00:55,139
+the pilots seem to just sit and
+
+25
+00:00:55,139 --> 00:00:55,497
+fly.
+
+26
+00:00:55,677 --> 00:00:58,975
+Inside, almost everything they do and use
+
+27
+00:00:58,975 --> 00:01:01,388
+has a reason that goes back to
+
+28
+00:01:01,388 --> 00:01:02,434
+a real event.
+
+29
+00:01:02,784 --> 00:01:05,820
+As always, every fact here comes from
+
+30
+00:01:05,820 --> 00:01:07,051
+a named source,
+
+31
+00:01:07,051 --> 00:01:10,496
+the Federal Aviation Administration rules,
+
+32
+00:01:10,496 --> 00:01:13,942
+official reports, and aviation references,
+
+33
+00:01:13,942 --> 00:01:16,403
+all listed in the description.
+
+34
+00:01:16,583 --> 00:01:18,057
+Let's start with lunch.
+
+35
+00:01:18,407 --> 00:01:21,218
+Why do pilots on many airlines eat
+
+36
+00:01:21,218 --> 00:01:22,541
+different meals?
+
+37
+00:01:22,721 --> 00:01:26,009
+Because if both pilots get food poisoning
+
+38
+00:01:26,009 --> 00:01:27,372
+at the same time,
+
+39
+00:01:27,372 --> 00:01:29,859
+there is nobody left to fly the
+
+40
+00:01:29,859 --> 00:01:30,581
+airplane.
+
+41
+00:01:30,761 --> 00:01:32,265
+On February third,
+
+42
+00:01:32,265 --> 00:01:36,194
+nineteen seventy-five, a Japan Air Lines flight
+
+43
+00:01:36,194 --> 00:01:39,036
+stopped in Anchorage on its way to
+
+44
+00:01:39,036 --> 00:01:39,956
+Copenhagen.
+
+45
+00:01:40,136 --> 00:01:42,517
+The breakfast was ham omelettes,
+
+46
+00:01:42,517 --> 00:01:45,568
+contaminated by a cook with infected cuts
+
+47
+00:01:45,568 --> 00:01:46,684
+on his fingers.
+
+48
+00:01:46,864 --> 00:01:48,318
+About an hour later,
+
+49
+00:01:48,318 --> 00:01:51,446
+one hundred forty-four people on board were
+
+50
+00:01:51,446 --> 00:01:51,810
+sick.
+
+51
+00:01:52,159 --> 00:01:54,899
+The flight landed safely for one reason.
+
+52
+00:01:55,079 --> 00:01:56,231
+By pure chance,
+
+53
+00:01:56,231 --> 00:01:59,225
+the captain and first officer had eaten
+
+54
+00:01:59,225 --> 00:02:01,604
+steak instead of the omelettes.
+
+55
+00:02:01,784 --> 00:02:04,498
+The airline had no rule about crew
+
+56
+00:02:04,498 --> 00:02:04,977
+meals.
+
+57
+00:02:05,157 --> 00:02:09,191
+An investigator recommended that cockpit crews eat
+
+58
+00:02:09,191 --> 00:02:11,935
+meals prepared by different cooks,
+
+59
+00:02:11,935 --> 00:02:14,758
+and many airlines adopted the idea.
+
+60
+00:02:14,938 --> 00:02:17,333
+Today, it is common for the captain
+
+61
+00:02:17,333 --> 00:02:20,207
+and first officer to get different dishes,
+
+62
+00:02:20,207 --> 00:02:22,465
+and some airlines ask them not to
+
+63
+00:02:22,465 --> 00:02:23,901
+eat at the same time.
+
+64
+00:02:24,252 --> 00:02:27,801
+There is no Federal Aviation Administration rule
+
+65
+00:02:27,801 --> 00:02:29,058
+that forces this.
+
+66
+00:02:29,238 --> 00:02:30,757
+It is a company policy,
+
+67
+00:02:30,757 --> 00:02:33,464
+and different airlines do it differently.
+
+68
+00:02:33,644 --> 00:02:36,118
+But the logic is simple and very
+
+69
+00:02:36,118 --> 00:02:36,814
+aviation.
+
+70
+00:02:36,994 --> 00:02:40,091
+Never let one single problem knock out
+
+71
+00:02:40,091 --> 00:02:41,069
+both pilots.
+
+72
+00:02:41,249 --> 00:02:43,724
+You will see that idea again and
+
+73
+00:02:43,724 --> 00:02:45,271
+again in this video,
+
+74
+00:02:45,271 --> 00:02:47,669
+in places you would not expect.
+
+75
+00:02:48,019 --> 00:02:50,534
+Why does the captain of an airliner
+
+76
+00:02:50,534 --> 00:02:52,546
+always sit in the left seat?
+
+77
+00:02:52,726 --> 00:02:55,230
+There is no single law of physics
+
+78
+00:02:55,230 --> 00:02:55,989
+behind it.
+
+79
+00:02:56,169 --> 00:02:59,153
+One common explanation goes back to early
+
+80
+00:02:59,153 --> 00:03:02,647
+aviation, when pilots usually turned left around
+
+81
+00:03:02,647 --> 00:03:05,121
+airfields and in holding patterns,
+
+82
+00:03:05,121 --> 00:03:07,523
+and sitting on the left gave them
+
+83
+00:03:07,523 --> 00:03:09,416
+the best view in the turn.
+
+84
+00:03:09,596 --> 00:03:12,149
+Over time, the left seat became the
+
+85
+00:03:12,149 --> 00:03:15,650
+command seat, and airliners were designed around
+
+86
+00:03:15,650 --> 00:03:18,787
+it, with the controls and displays arranged
+
+87
+00:03:18,787 --> 00:03:20,683
+for a captain on the left.
+
+88
+00:03:21,034 --> 00:03:22,496
+On many airliners,
+
+89
+00:03:22,496 --> 00:03:25,260
+only the left seat has the tiller,
+
+90
+00:03:25,260 --> 00:03:27,779
+a small wheel used to steer the
+
+91
+00:03:27,779 --> 00:03:29,811
+nose wheel while taxiing.
+
+92
+00:03:29,991 --> 00:03:31,427
+So on the ground,
+
+93
+00:03:31,427 --> 00:03:34,553
+the captain often taxis the airplane.
+
+94
+00:03:34,733 --> 00:03:35,714
+In the air,
+
+95
+00:03:35,714 --> 00:03:38,657
+the two pilots take turns flying,
+
+96
+00:03:38,657 --> 00:03:41,599
+one as pilot flying and the other
+
+97
+00:03:41,599 --> 00:03:43,383
+as pilot monitoring.
+
+98
+00:03:43,563 --> 00:03:46,502
+The four stripes on the captain's sleeve
+
+99
+00:03:46,502 --> 00:03:48,780
+and the left seat both mean the
+
+100
+00:03:48,780 --> 00:03:49,588
+same thing.
+
+101
+00:03:49,768 --> 00:03:52,044
+The final decision is made there.
+
+102
+00:03:52,394 --> 00:03:55,203
+Helicopters are often the opposite.
+
+103
+00:03:55,383 --> 00:03:57,025
+In many helicopters,
+
+104
+00:03:57,025 --> 00:03:59,651
+the pilot in command sits on the
+
+105
+00:03:59,651 --> 00:04:00,143
+right.
+
+106
+00:04:00,323 --> 00:04:03,256
+The usual explanation is that the right
+
+107
+00:04:03,256 --> 00:04:05,137
+hand stays on the cyclic,
+
+108
+00:04:05,137 --> 00:04:07,167
+the most important control,
+
+109
+00:04:07,167 --> 00:04:09,800
+while the left hand can briefly let
+
+110
+00:04:09,800 --> 00:04:12,282
+go of the collective to reach the
+
+111
+00:04:12,282 --> 00:04:14,011
+switches in the center.
+
+112
+00:04:14,191 --> 00:04:16,978
+The seat is not about tradition alone.
+
+113
+00:04:17,158 --> 00:04:19,406
+It is about where the hands need
+
+114
+00:04:19,406 --> 00:04:19,828
+to be.
+
+115
+00:04:20,178 --> 00:04:23,100
+Why do pilots stop chatting below ten
+
+116
+00:04:23,100 --> 00:04:24,206
+thousand feet?
+
+117
+00:04:24,386 --> 00:04:26,836
+Because of the sterile cockpit rule.
+
+118
+00:04:27,016 --> 00:04:29,139
+During takeoff, landing,
+
+119
+00:04:29,139 --> 00:04:32,502
+taxi and any flight below ten thousand
+
+120
+00:04:32,502 --> 00:04:34,183
+feet except cruise,
+
+121
+00:04:34,183 --> 00:04:38,696
+pilots are forbidden from non-essential activities.
+
+122
+00:04:38,876 --> 00:04:40,931
+No casual conversation,
+
+123
+00:04:40,931 --> 00:04:44,596
+no eating, no reading unrelated material,
+
+124
+00:04:44,596 --> 00:04:48,082
+and no non-urgent calls from the cabin.
+
+125
+00:04:48,262 --> 00:04:51,192
+The rule was introduced by the Federal
+
+126
+00:04:51,192 --> 00:04:54,817
+Aviation Administration in nineteen eighty-one,
+
+127
+00:04:54,817 --> 00:04:57,670
+after a series of accidents caused by
+
+128
+00:04:57,670 --> 00:04:58,595
+distraction.
+
+129
+00:04:58,945 --> 00:05:01,740
+One of those accidents was Eastern Air
+
+130
+00:05:01,740 --> 00:05:05,343
+Lines Flight two twelve in nineteen seventy-four.
+
+131
+00:05:05,523 --> 00:05:08,184
+It crashed short of the runway at
+
+132
+00:05:08,184 --> 00:05:10,039
+Charlotte in dense fog.
+
+133
+00:05:10,219 --> 00:05:13,087
+Investigators found that the crew had been
+
+134
+00:05:13,087 --> 00:05:16,569
+talking about unrelated topics during the approach,
+
+135
+00:05:16,569 --> 00:05:18,822
+and lost track of their altitude.
+
+136
+00:05:19,002 --> 00:05:21,120
+The idea of the rule is that
+
+137
+00:05:21,120 --> 00:05:23,996
+the most dangerous minutes of a flight
+
+138
+00:05:23,996 --> 00:05:27,173
+deserve one hundred percent of the pilots'
+
+139
+00:05:27,173 --> 00:05:27,930
+attention.
+
+140
+00:05:28,280 --> 00:05:31,046
+That is also why flight attendants are
+
+141
+00:05:31,046 --> 00:05:34,031
+careful about when they call the cockpit,
+
+142
+00:05:34,031 --> 00:05:36,070
+and why you may hear a chime
+
+143
+00:05:36,070 --> 00:05:38,909
+pattern instead of a normal call during
+
+144
+00:05:38,909 --> 00:05:40,365
+takeoff and landing.
+
+145
+00:05:40,545 --> 00:05:42,755
+The cabin and the cockpit have a
+
+146
+00:05:42,755 --> 00:05:45,517
+shared code for what is important enough
+
+147
+00:05:45,517 --> 00:05:47,175
+to interrupt the pilots.
+
+148
+00:05:47,355 --> 00:05:49,140
+In the critical minutes,
+
+149
+00:05:49,140 --> 00:05:51,000
+only safety gets through.
+
+150
+00:05:51,351 --> 00:05:54,374
+Why do pilots have special oxygen masks
+
+151
+00:05:54,374 --> 00:05:55,925
+next to their seats?
+
+152
+00:05:56,105 --> 00:05:59,046
+Because if the cabin loses pressure at
+
+153
+00:05:59,046 --> 00:06:02,065
+high altitude, a person can lose useful
+
+154
+00:06:02,065 --> 00:06:04,000
+consciousness in seconds.
+
+155
+00:06:04,180 --> 00:06:06,838
+So the rules say the pilots' mask
+
+156
+00:06:06,838 --> 00:06:09,335
+must be placed on the face from
+
+157
+00:06:09,335 --> 00:06:10,865
+its ready position,
+
+158
+00:06:10,865 --> 00:06:13,121
+sealed and supplying oxygen,
+
+159
+00:06:13,121 --> 00:06:14,248
+with one hand,
+
+160
+00:06:14,248 --> 00:06:15,859
+within five seconds.
+
+161
+00:06:16,039 --> 00:06:18,129
+It is a quick donning mask.
+
+162
+00:06:18,309 --> 00:06:20,012
+You squeeze the harness,
+
+163
+00:06:20,012 --> 00:06:22,423
+it inflates, you pull it over your
+
+164
+00:06:22,423 --> 00:06:24,764
+head, and it tightens on its own.
+
+165
+00:06:25,115 --> 00:06:27,562
+The masks are tested before flight,
+
+166
+00:06:27,562 --> 00:06:30,219
+and pilots practice putting them on in
+
+167
+00:06:30,219 --> 00:06:31,198
+the simulator.
+
+168
+00:06:31,378 --> 00:06:33,946
+Many also include smoke goggles,
+
+169
+00:06:33,946 --> 00:06:37,477
+because the same mask protects against smoke
+
+170
+00:06:37,477 --> 00:06:38,681
+in the cockpit.
+
+171
+00:06:38,861 --> 00:06:40,907
+And at very high altitude,
+
+172
+00:06:40,907 --> 00:06:43,110
+the rules are even stricter.
+
+173
+00:06:43,290 --> 00:06:44,668
+Under US rules,
+
+174
+00:06:44,668 --> 00:06:47,425
+above forty-one thousand feet,
+
+175
+00:06:47,425 --> 00:06:50,640
+one pilot at the controls must wear
+
+176
+00:06:50,640 --> 00:06:53,397
+and use the oxygen mask at all
+
+177
+00:06:53,397 --> 00:06:53,948
+times.
+
+178
+00:06:54,128 --> 00:06:56,142
+Two pilots, two masks,
+
+179
+00:06:56,142 --> 00:06:58,064
+and one always ready.
+
+180
+00:06:58,414 --> 00:07:00,662
+Passengers have their own masks,
+
+181
+00:07:00,662 --> 00:07:02,489
+but they work differently.
+
+182
+00:07:02,669 --> 00:07:05,105
+The yellow masks in the cabin are
+
+183
+00:07:05,105 --> 00:07:08,279
+fed by chemical oxygen generators that last
+
+184
+00:07:08,279 --> 00:07:09,681
+only a few minutes,
+
+185
+00:07:09,681 --> 00:07:12,265
+enough for the pilots to descend to
+
+186
+00:07:12,265 --> 00:07:15,660
+an altitude where people can breathe normally.
+
+187
+00:07:15,840 --> 00:07:19,285
+The pilots' masks are connected to oxygen
+
+188
+00:07:19,285 --> 00:07:22,058
+bottles and can last much longer,
+
+189
+00:07:22,058 --> 00:07:25,250
+because the pilots must stay sharp for
+
+190
+00:07:25,250 --> 00:07:28,611
+the whole emergency descent and landing.
+
+191
+00:07:28,961 --> 00:07:31,220
+Why is there a rope stored above
+
+192
+00:07:31,220 --> 00:07:34,256
+the cockpit side windows on many airliners?
+
+193
+00:07:34,436 --> 00:07:37,268
+Because those side windows can open.
+
+194
+00:07:37,448 --> 00:07:39,798
+On jets like the Airbus A three
+
+195
+00:07:39,798 --> 00:07:42,072
+twenty and many Boeing models,
+
+196
+00:07:42,072 --> 00:07:44,194
+the side windows slide back.
+
+197
+00:07:44,374 --> 00:07:47,019
+If the cockpit door is blocked after
+
+198
+00:07:47,019 --> 00:07:49,664
+an accident, the pilots can open the
+
+199
+00:07:49,664 --> 00:07:51,868
+window, drop the rope outside,
+
+200
+00:07:51,868 --> 00:07:53,999
+and climb down to the ground.
+
+201
+00:07:54,179 --> 00:07:57,162
+It is the pilots' own emergency exit.
+
+202
+00:07:57,513 --> 00:08:00,775
+The windows are also useful in normal
+
+203
+00:08:00,775 --> 00:08:01,216
+life.
+
+204
+00:08:01,396 --> 00:08:04,180
+Pilots can open them on the ground
+
+205
+00:08:04,180 --> 00:08:06,063
+to talk to ground crew,
+
+206
+00:08:06,063 --> 00:08:07,291
+to clear smoke,
+
+207
+00:08:07,291 --> 00:08:09,256
+or simply to see better.
+
+208
+00:08:09,436 --> 00:08:10,588
+In some cases,
+
+209
+00:08:10,588 --> 00:08:13,713
+pilots have even flown with the window
+
+210
+00:08:13,713 --> 00:08:16,016
+open at low speed to see the
+
+211
+00:08:16,016 --> 00:08:19,142
+runway after a windshield was damaged.
+
+212
+00:08:19,322 --> 00:08:21,890
+A window that opens on an airplane
+
+213
+00:08:21,890 --> 00:08:25,440
+flying at forty thousand feet sounds dangerous.
+
+214
+00:08:25,620 --> 00:08:26,605
+On the ground,
+
+215
+00:08:26,605 --> 00:08:28,151
+it can save your life.
+
+216
+00:08:28,501 --> 00:08:31,056
+The rope is not the only backup
+
+217
+00:08:31,056 --> 00:08:31,880
+exit idea.
+
+218
+00:08:32,060 --> 00:08:33,880
+On some larger airplanes,
+
+219
+00:08:33,880 --> 00:08:37,520
+such as certain Boeing seven forty-seven versions,
+
+220
+00:08:37,520 --> 00:08:40,068
+the flight deck has an escape hatch
+
+221
+00:08:40,068 --> 00:08:42,689
+in the ceiling with descent devices,
+
+222
+00:08:42,689 --> 00:08:45,529
+because the cockpit sits high above the
+
+223
+00:08:45,529 --> 00:08:46,038
+ground.
+
+224
+00:08:46,218 --> 00:08:47,819
+Whatever the design,
+
+225
+00:08:47,819 --> 00:08:49,899
+the principle is the same.
+
+226
+00:08:50,079 --> 00:08:52,186
+The pilots must always have a way
+
+227
+00:08:52,186 --> 00:08:54,165
+out that does not depend on the
+
+228
+00:08:54,165 --> 00:08:54,549
+cabin.
+
+229
+00:08:54,899 --> 00:08:56,673
+Why is there an axe in the
+
+230
+00:08:56,673 --> 00:08:58,242
+cockpit of an airliner?
+
+231
+00:08:58,422 --> 00:08:59,631
+Under US rules,
+
+232
+00:08:59,631 --> 00:09:03,581
+airplanes with more than nineteen passenger seats
+
+233
+00:09:03,581 --> 00:09:05,435
+must carry a crash axe.
+
+234
+00:09:05,615 --> 00:09:06,892
+It is not a weapon.
+
+235
+00:09:07,072 --> 00:09:09,115
+It is a tool for fire.
+
+236
+00:09:09,295 --> 00:09:11,706
+A fire can start behind a wall
+
+237
+00:09:11,706 --> 00:09:14,438
+panel, in wiring you cannot reach.
+
+238
+00:09:14,618 --> 00:09:16,897
+The axe lets the crew cut through
+
+239
+00:09:16,897 --> 00:09:18,968
+the panel to find the fire and
+
+240
+00:09:18,968 --> 00:09:21,108
+attack it with an extinguisher.
+
+241
+00:09:21,288 --> 00:09:23,674
+It can also be used to remove
+
+242
+00:09:23,674 --> 00:09:27,128
+barriers or cabin parts after an accident.
+
+243
+00:09:27,478 --> 00:09:29,922
+The crash axe is kept where the
+
+244
+00:09:29,922 --> 00:09:31,341
+crew can reach it,
+
+245
+00:09:31,341 --> 00:09:34,731
+but passengers cannot during normal flight,
+
+246
+00:09:34,731 --> 00:09:36,545
+usually in the cockpit.
+
+247
+00:09:36,725 --> 00:09:39,264
+Its handle is typically insulated,
+
+248
+00:09:39,264 --> 00:09:42,102
+because the panels it cuts through are
+
+249
+00:09:42,102 --> 00:09:43,970
+full of electrical wires.
+
+250
+00:09:44,150 --> 00:09:45,984
+A hidden fire is one of the
+
+251
+00:09:45,984 --> 00:09:48,497
+most dangerous things on an airplane,
+
+252
+00:09:48,497 --> 00:09:50,806
+because by the time you see smoke,
+
+253
+00:09:50,806 --> 00:09:52,844
+it may have been growing for a
+
+254
+00:09:52,844 --> 00:09:53,252
+while.
+
+255
+00:09:53,432 --> 00:09:56,114
+The axe exists to buy time.
+
+256
+00:09:56,463 --> 00:09:59,203
+The cockpit has other tools for fire.
+
+257
+00:09:59,383 --> 00:10:02,344
+There is a halon fire extinguisher,
+
+258
+00:10:02,344 --> 00:10:06,659
+protective breathing equipment that covers the head
+
+259
+00:10:06,659 --> 00:10:08,351
+and supplies oxygen,
+
+260
+00:10:08,351 --> 00:10:12,073
+and heat resistant gloves on many airplanes.
+
+261
+00:10:12,253 --> 00:10:14,879
+The crew trains to fight fires in
+
+262
+00:10:14,879 --> 00:10:17,187
+the cabin and in the cockpit.
+
+263
+00:10:17,367 --> 00:10:18,430
+On an airplane,
+
+264
+00:10:18,430 --> 00:10:20,768
+you cannot pull over and wait for
+
+265
+00:10:20,768 --> 00:10:22,186
+the fire department.
+
+266
+00:10:22,366 --> 00:10:24,676
+The crew is the fire department.
+
+267
+00:10:25,025 --> 00:10:27,580
+Why is the windshield of an airliner
+
+268
+00:10:27,580 --> 00:10:29,495
+heated, even on a warm day?
+
+269
+00:10:29,675 --> 00:10:30,952
+Two reasons.
+
+270
+00:10:31,132 --> 00:10:33,718
+First, to stop ice and fog from
+
+271
+00:10:33,718 --> 00:10:35,219
+blocking the view.
+
+272
+00:10:35,399 --> 00:10:37,451
+Second, and less obvious,
+
+273
+00:10:37,451 --> 00:10:40,652
+heat makes the layers of the windshield
+
+274
+00:10:40,652 --> 00:10:41,309
+tougher.
+
+275
+00:10:41,489 --> 00:10:45,229
+An airliner windshield is a sandwich of
+
+276
+00:10:45,229 --> 00:10:47,627
+glass and plastic layers,
+
+277
+00:10:47,627 --> 00:10:51,848
+and warm plastic absorbs impacts better than
+
+278
+00:10:51,848 --> 00:10:53,958
+cold, brittle plastic.
+
+279
+00:10:54,138 --> 00:10:55,624
+And it needs to.
+
+280
+00:10:55,804 --> 00:10:58,857
+The rules say a windshield must survive
+
+281
+00:10:58,857 --> 00:11:01,363
+hitting a four pound bird at the
+
+282
+00:11:01,363 --> 00:11:04,964
+airplane's design cruising speed at sea level.
+
+283
+00:11:05,314 --> 00:11:07,363
+The tail is held to an even
+
+284
+00:11:07,363 --> 00:11:08,577
+higher standard.
+
+285
+00:11:08,757 --> 00:11:11,515
+It must survive an eight pound bird,
+
+286
+00:11:11,515 --> 00:11:14,349
+because a damaged tail could make the
+
+287
+00:11:14,349 --> 00:11:16,187
+airplane uncontrollable.
+
+288
+00:11:16,367 --> 00:11:17,993
+Birds are not a theory.
+
+289
+00:11:18,173 --> 00:11:21,341
+Most bird strikes happen near the ground,
+
+290
+00:11:21,341 --> 00:11:23,427
+during takeoff and landing,
+
+291
+00:11:23,427 --> 00:11:26,054
+which is exactly when a pilot most
+
+292
+00:11:26,054 --> 00:11:27,368
+needs to see out.
+
+293
+00:11:27,548 --> 00:11:30,477
+A windshield that cracks but holds is
+
+294
+00:11:30,477 --> 00:11:32,378
+a successful windshield.
+
+295
+00:11:32,727 --> 00:11:35,793
+You may also notice that cockpit windshields
+
+296
+00:11:35,793 --> 00:11:38,300
+have wipers, which surprises people.
+
+297
+00:11:38,480 --> 00:11:39,604
+At high speed,
+
+298
+00:11:39,604 --> 00:11:42,494
+the airflow often clears the rain on
+
+299
+00:11:42,494 --> 00:11:43,136
+its own.
+
+300
+00:11:43,316 --> 00:11:44,933
+But at slow speed,
+
+301
+00:11:44,933 --> 00:11:47,899
+during taxi, takeoff and landing,
+
+302
+00:11:47,899 --> 00:11:50,235
+rain can sit on the glass.
+
+303
+00:11:50,415 --> 00:11:52,773
+So the wipers are used exactly in
+
+304
+00:11:52,773 --> 00:11:55,559
+the moments when the view matters most.
+
+305
+00:11:55,739 --> 00:11:59,586
+Some airliners also use special coatings that
+
+306
+00:11:59,586 --> 00:12:02,066
+make water bead and run away.
+
+307
+00:12:02,416 --> 00:12:06,267
+Why are some cockpit switches hidden under
+
+308
+00:12:06,267 --> 00:12:09,475
+small covers, often red or striped?
+
+309
+00:12:09,655 --> 00:12:12,853
+Because some switches must never be moved
+
+310
+00:12:12,853 --> 00:12:13,788
+by accident.
+
+311
+00:12:13,968 --> 00:12:16,529
+Things like engine fuel cutoff,
+
+312
+00:12:16,529 --> 00:12:19,833
+emergency power, or a system that cannot
+
+313
+00:12:19,833 --> 00:12:21,898
+easily be turned back on.
+
+314
+00:12:22,078 --> 00:12:24,716
+The cover forces the pilot to do
+
+315
+00:12:24,716 --> 00:12:26,448
+two separate actions,
+
+316
+00:12:26,448 --> 00:12:27,684
+lift the guard,
+
+317
+00:12:27,684 --> 00:12:29,416
+then move the switch.
+
+318
+00:12:29,596 --> 00:12:32,749
+That extra step turns an accidental bump
+
+319
+00:12:32,749 --> 00:12:35,981
+into something that almost cannot happen.
+
+320
+00:12:36,331 --> 00:12:39,965
+Cockpit designers use many tricks like this.
+
+321
+00:12:40,145 --> 00:12:42,828
+Some switches must be pulled out before
+
+322
+00:12:42,828 --> 00:12:43,791
+they can move.
+
+323
+00:12:43,971 --> 00:12:47,085
+Some levers have different shapes so they
+
+324
+00:12:47,085 --> 00:12:49,136
+can be identified by touch,
+
+325
+00:12:49,136 --> 00:12:51,111
+even in smoke or darkness.
+
+326
+00:12:51,291 --> 00:12:54,269
+The landing gear lever on many airplanes
+
+327
+00:12:54,269 --> 00:12:56,353
+ends in a small wheel shape,
+
+328
+00:12:56,353 --> 00:12:58,437
+and the flap lever in a wing
+
+329
+00:12:58,437 --> 00:12:58,884
+shape.
+
+330
+00:12:59,064 --> 00:13:01,440
+A pilot's hand can tell them apart
+
+331
+00:13:01,440 --> 00:13:02,559
+without looking.
+
+332
+00:13:02,908 --> 00:13:05,648
+Color is part of the language too.
+
+333
+00:13:05,828 --> 00:13:07,395
+In modern cockpits,
+
+334
+00:13:07,395 --> 00:13:10,527
+red usually means a warning that needs
+
+335
+00:13:10,527 --> 00:13:13,907
+immediate action, amber or yellow means a
+
+336
+00:13:13,907 --> 00:13:17,287
+caution, and green or white means normal.
+
+337
+00:13:17,467 --> 00:13:20,292
+Many airliners are designed with a dark
+
+338
+00:13:20,292 --> 00:13:23,551
+cockpit philosophy, where lights are off when
+
+339
+00:13:23,551 --> 00:13:25,072
+everything is normal.
+
+340
+00:13:25,252 --> 00:13:26,901
+If a light comes on,
+
+341
+00:13:26,901 --> 00:13:29,292
+something deserves attention.
+
+342
+00:13:29,472 --> 00:13:32,967
+Silence and darkness mean all is well.
+
+343
+00:13:33,316 --> 00:13:35,352
+Why are there big handles in the
+
+344
+00:13:35,352 --> 00:13:37,643
+middle of the cockpit that can light
+
+345
+00:13:37,643 --> 00:13:38,088
+up red?
+
+346
+00:13:38,268 --> 00:13:40,660
+They are the engine fire handles.
+
+347
+00:13:40,840 --> 00:13:42,916
+If an engine catches fire,
+
+348
+00:13:42,916 --> 00:13:45,552
+its handle lights up and an alarm
+
+349
+00:13:45,552 --> 00:13:46,111
+sounds.
+
+350
+00:13:46,291 --> 00:13:47,768
+On many airliners,
+
+351
+00:13:47,768 --> 00:13:50,559
+pulling the handle shuts off fuel,
+
+352
+00:13:50,559 --> 00:13:53,596
+hydraulic fluid and bleed air to that
+
+353
+00:13:53,596 --> 00:13:56,798
+engine and arms the fire extinguishers.
+
+354
+00:13:56,978 --> 00:14:00,034
+Turning it then fires an extinguisher bottle
+
+355
+00:14:00,034 --> 00:14:01,146
+into the engine.
+
+356
+00:14:01,326 --> 00:14:03,636
+If the fire is still burning,
+
+357
+00:14:03,636 --> 00:14:06,504
+the pilots can fire a second bottle.
+
+358
+00:14:06,853 --> 00:14:09,021
+Before pulling a fire handle,
+
+359
+00:14:09,021 --> 00:14:12,309
+pilots confirm which engine they are dealing
+
+360
+00:14:12,309 --> 00:14:15,224
+with, often by both touching the handle
+
+361
+00:14:15,224 --> 00:14:16,943
+and saying it out loud.
+
+362
+00:14:17,123 --> 00:14:19,851
+Shutting down the wrong engine is one
+
+363
+00:14:19,851 --> 00:14:22,358
+of the worst mistakes in aviation,
+
+364
+00:14:22,358 --> 00:14:23,833
+and it has happened.
+
+365
+00:14:24,013 --> 00:14:27,379
+So the procedure is slow on purpose,
+
+366
+00:14:27,379 --> 00:14:29,342
+even in an emergency.
+
+367
+00:14:29,522 --> 00:14:31,565
+Confirm, then act.
+
+368
+00:14:31,745 --> 00:14:33,098
+In the cockpit,
+
+369
+00:14:33,098 --> 00:14:36,796
+speed is less important than being right.
+
+370
+00:14:37,145 --> 00:14:40,380
+Fire handles are also checked before every
+
+371
+00:14:40,380 --> 00:14:40,919
+flight.
+
+372
+00:14:41,099 --> 00:14:43,337
+Pilots press a test switch,
+
+373
+00:14:43,337 --> 00:14:46,405
+and every fire warning light and bell
+
+374
+00:14:46,405 --> 00:14:47,483
+must come on,
+
+375
+00:14:47,483 --> 00:14:50,468
+to prove the detection system works.
+
+376
+00:14:50,648 --> 00:14:53,338
+The test sounds alarming the first time
+
+377
+00:14:53,338 --> 00:14:55,200
+you hear it from the cabin,
+
+378
+00:14:55,200 --> 00:14:56,441
+but it is routine.
+
+379
+00:14:56,621 --> 00:14:59,415
+A warning system that cannot be tested
+
+380
+00:14:59,415 --> 00:15:02,136
+is a warning system you cannot trust.
+
+381
+00:15:02,486 --> 00:15:05,093
+Why is there a small microphone in
+
+382
+00:15:05,093 --> 00:15:06,626
+the cockpit ceiling,
+
+383
+00:15:06,626 --> 00:15:08,082
+between the pilots?
+
+384
+00:15:08,262 --> 00:15:10,803
+It feeds the cockpit voice recorder,
+
+385
+00:15:10,803 --> 00:15:12,709
+one of the two black boxes.
+
+386
+00:15:12,889 --> 00:15:15,339
+It records the pilots' voices,
+
+387
+00:15:15,339 --> 00:15:17,953
+the radio, and the sounds of the
+
+388
+00:15:17,953 --> 00:15:19,668
+cockpit, like alarms,
+
+389
+00:15:19,668 --> 00:15:22,282
+switches, and even engine noise.
+
+390
+00:15:22,462 --> 00:15:23,922
+After an accident,
+
+391
+00:15:23,922 --> 00:15:27,493
+those sounds can tell investigators what the
+
+392
+00:15:27,493 --> 00:15:29,522
+crew knew, what they did,
+
+393
+00:15:29,522 --> 00:15:30,252
+and when.
+
+394
+00:15:30,432 --> 00:15:31,990
+And despite the name,
+
+395
+00:15:31,990 --> 00:15:34,959
+black boxes are painted bright orange so
+
+396
+00:15:34,959 --> 00:15:36,295
+they can be found.
+
+397
+00:15:36,644 --> 00:15:39,891
+For years, cockpit voice recorders in the
+
+398
+00:15:39,891 --> 00:15:42,741
+United States kept only the last two
+
+399
+00:15:42,741 --> 00:15:45,433
+hours, recording over older audio.
+
+400
+00:15:45,613 --> 00:15:48,654
+That meant important sounds could be erased
+
+401
+00:15:48,654 --> 00:15:51,200
+if an airplane kept running after an
+
+402
+00:15:51,200 --> 00:15:51,836
+incident.
+
+403
+00:15:52,016 --> 00:15:53,840
+In twenty twenty-six,
+
+404
+00:15:53,840 --> 00:15:58,445
+the Federal Aviation Administration set a twenty-five
+
+405
+00:15:58,445 --> 00:16:01,920
+hour standard for newly built airliners.
+
+406
+00:16:02,100 --> 00:16:05,518
+More recording means more chances to understand
+
+407
+00:16:05,518 --> 00:16:06,682
+what went wrong,
+
+408
+00:16:06,682 --> 00:16:09,083
+and to write the next rule before
+
+409
+00:16:09,083 --> 00:16:10,319
+it happens again.
+
+410
+00:16:10,669 --> 00:16:13,107
+The other black box is the flight
+
+411
+00:16:13,107 --> 00:16:14,141
+data recorder.
+
+412
+00:16:14,321 --> 00:16:17,296
+It stores thousands of measurements,
+
+413
+00:16:17,296 --> 00:16:19,031
+like speed, altitude,
+
+414
+00:16:19,031 --> 00:16:22,172
+control positions and engine settings,
+
+415
+00:16:22,172 --> 00:16:23,411
+for many hours.
+
+416
+00:16:23,591 --> 00:16:26,679
+Both boxes are built to survive extreme
+
+417
+00:16:26,679 --> 00:16:27,946
+impact and fire,
+
+418
+00:16:27,946 --> 00:16:31,587
+and they carry underwater locator beacons that
+
+419
+00:16:31,587 --> 00:16:34,358
+ping for weeks if the airplane goes
+
+420
+00:16:34,358 --> 00:16:35,387
+into the sea.
+
+421
+00:16:35,567 --> 00:16:39,352
+Together, they turn a tragedy into lessons.
+
+422
+00:16:39,702 --> 00:16:41,107
+So here are the ten.
+
+423
+00:16:41,287 --> 00:16:44,521
+Different meals so both pilots never get
+
+424
+00:16:44,521 --> 00:16:45,653
+sick together.
+
+425
+00:16:45,833 --> 00:16:48,491
+A left seat for the final decision.
+
+426
+00:16:48,671 --> 00:16:51,504
+Silence below ten thousand feet.
+
+427
+00:16:51,684 --> 00:16:54,093
+A mask that goes on in five
+
+428
+00:16:54,093 --> 00:16:54,807
+seconds.
+
+429
+00:16:54,987 --> 00:16:57,638
+A rope for climbing out the window,
+
+430
+00:16:57,638 --> 00:16:59,759
+and an axe for hidden fires.
+
+431
+00:16:59,939 --> 00:17:02,165
+A heated windshield for birds,
+
+432
+00:17:02,165 --> 00:17:04,316
+covers on dangerous switches,
+
+433
+00:17:04,316 --> 00:17:07,136
+fire handles that are slow on purpose,
+
+434
+00:17:07,136 --> 00:17:09,881
+and a microphone that listens for the
+
+435
+00:17:09,881 --> 00:17:10,771
+next lesson.
+
+436
+00:17:11,120 --> 00:17:14,211
+The cockpit is where aviation keeps its
+
+437
+00:17:14,211 --> 00:17:14,766
+memory.
+
+438
+00:17:14,946 --> 00:17:17,415
+Almost every rule in it was written
+
+439
+00:17:17,415 --> 00:17:20,165
+by an accident that should never happen
+
+440
+00:17:20,165 --> 00:17:20,588
+again.
+
+441
+00:17:20,768 --> 00:17:23,847
+If you want more machines explained part
+
+442
+00:17:23,847 --> 00:17:26,771
+by part, subscribe to Machine Reverse.
+
+443
+00:17:26,951 --> 00:17:28,964
+And tell us in the comments which
+
+444
+00:17:28,964 --> 00:17:30,976
+machine you want us to take apart
+
+445
+00:17:30,976 --> 00:17:31,281
+next.
