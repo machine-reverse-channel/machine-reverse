@@ -1,0 +1,208 @@
+{
+ "id": "video18",
+ "title": "Why Do Rockets Land on Their Tails Now?",
+ "length_scale": 1.6,
+ "scenes": [
+  {
+   "text": "For sixty years, rockets were thrown away after one flight. Then one day a booster came back down from space, slowed itself with its own engine, and landed upright on a pad, on its tail, like a rocket in an old science fiction movie. The first time it worked was in December two thousand fifteen. A rocket that lands itself is covered in strange parts, and every one has a reason. Today, ten parts of a landing rocket, and why each one exists.",
+   "query": "Falcon 9 booster landing",
+   "caption": "WHY DOES IT LAND ON ITS TAIL?",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "The Falcon nine first stage is about forty-one meters tall, and its nine engines push with about seven thousand six hundred kilonewtons. It has to fly to the edge of space, turn around, fall back through the atmosphere, and touch down on a pad. Nothing on it is there by accident.",
+   "query": "Falcon 9 first stage",
+   "caption": "41 METERS ON A TARGET"
+  },
+  {
+   "text": "As always, every fact here comes from a named source, reference works and company information, all listed in the description. Let's start with the part that looks like a waffle iron.",
+   "query": "Falcon 9 grid fins",
+   "caption": "WHY DOES THIS EXIST?"
+  },
+  {
+   "text": "Why does the booster have fins that look like waffle irons? They are grid fins, and they steer the booster as it falls through the air. They fold against the body during launch, and deploy moments after stage separation. A rocket falling tail first has no wings, so the fins are its only way to guide itself to the landing spot.",
+   "query": "Falcon 9 grid fins",
+   "caption": "WHY DOES THIS ROCKET HAVE WAFFLE IRONS ON TOP?",
+   "arrow": true,
+   "chapter": "1. The grid fins",
+   "short": "Why Does a Falcon 9 Have Waffle-Shaped Fins?",
+   "cuts": 3
+  },
+  {
+   "text": "A grid fin folds flat against the body, which saves space during the climb. And on the way down, the heat is intense. The newer fins are cast and cut from a single piece of titanium, in place of the earlier aluminum ones, so they survive the heat of reentry and can be reused almost indefinitely.",
+   "query": "grid fin titanium Falcon 9",
+   "caption": "ONE PIECE OF TITANIUM"
+  },
+  {
+   "text": "So the strangest-looking part of the booster is also one of the most important. Without the fins, a falling rocket would tumble, and no engine in the world could aim it at a landing pad.",
+   "query": "Falcon 9 booster descent",
+   "caption": "NO FINS, NO LANDING"
+  },
+  {
+   "text": "Why does a rocket have legs? Because it lands on them. A recoverable Falcon nine has four landing legs, made of carbon fiber and aluminum honeycomb, folded against the base during flight and extended just before touchdown. Boosters that are meant to be thrown away have no legs and no fins, because they would only add weight.",
+   "query": "Falcon 9 landing legs",
+   "caption": "WHY DOES A ROCKET HAVE LEGS?",
+   "arrow": true,
+   "chapter": "2. The landing legs",
+   "short": "Why Does a Falcon 9 Have Folding Legs?",
+   "cuts": 3
+  },
+  {
+   "text": "The legs have to be light, since every kilogram on the booster is a kilogram that can't be carried to orbit. But they also have to be strong enough to absorb the final contact of a very tall, nearly empty rocket. The honeycomb design is a way to get both.",
+   "query": "Falcon 9 landing legs deployed",
+   "caption": "LIGHT, BUT STRONG"
+  },
+  {
+   "text": "There is a kind of beauty in them. A part that spends the whole flight folded away and unused, and is needed for the last two seconds. If it fails, the whole mission is lost, even if everything else went right.",
+   "query": "Falcon 9 landing touchdown",
+   "caption": "NEEDED FOR TWO SECONDS"
+  },
+  {
+   "text": "Why does the rocket have tiny gas jets, when it has such big engines? The big engines are off while the booster coasts through the thin air at the edge of space, and it still needs to point the right way. So the booster uses nitrogen gas thrusters, small puffs of cold gas, together with the grid fins, to control its position as it coasts and falls. They also control the roll during the climb.",
+   "query": "Falcon 9 cold gas thrusters",
+   "caption": "WHY DOES THE ROCKET HAVE TINY GAS JETS?",
+   "arrow": true,
+   "chapter": "3. The nitrogen thrusters",
+   "short": "Why Does the Falcon 9 Have Tiny Nitrogen Thrusters?",
+   "cuts": 3
+  },
+  {
+   "text": "There is a famous test of their limits. On the sixth Falcon nine flight, the thrusters could not overcome a spin caused by the airflow, during the final landing burn. The engine shut down early, and the booster hit the water hard. It was a lesson, and later boosters were better.",
+   "query": "Falcon 9 booster spin splashdown",
+   "caption": "THE LIMITS OF A PUFF OF GAS"
+  },
+  {
+   "text": "It is a good reminder that control is not only power. A big engine moves a rocket, but it is the small nozzles that point it in the right direction.",
+   "query": "Falcon 9 attitude control",
+   "caption": "SMALL JETS, BIG CONTROL"
+  },
+  {
+   "text": "Why does the booster have nine engines on the bottom? They are Merlin engines, each making about eight hundred fifty-four kilonewtons, arranged in an octagonal pattern that the company calls Octaweb, with one in the middle. Together, they make about seven thousand six hundred kilonewtons at sea level. The arrangement is meant to simplify and streamline building the rocket.",
+   "query": "Falcon 9 Octaweb engines",
+   "caption": "WHY DOES THE BOTTOM HAVE NINE ENGINES?",
+   "arrow": true,
+   "chapter": "4. The nine engines",
+   "short": "Why Does the Falcon 9 Have Nine Engines?",
+   "cuts": 3
+  },
+  {
+   "text": "Nine small engines give something better than one huge one. The rocket can lose up to two engines during the climb and still complete the mission, by burning the others a bit longer. That kind of backup was not possible with a single engine.",
+   "query": "Falcon 9 engines firing",
+   "caption": "LOSE TWO AND KEEP GOING"
+  },
+  {
+   "text": "The Merlin engine can also swivel its thrust, which is how the rocket steers during the climb. The same machine that lifts a satellite is the one that sets itself down.",
+   "query": "Falcon 9 landing burn",
+   "caption": "THE SAME ENGINES LAND IT"
+  },
+  {
+   "text": "Why was the first rocket landing such a big deal? Because nobody had ever landed an orbital-class booster upright before. It happened in December two thousand fifteen, on the Orbcomm mission, when a Falcon nine came back and landed on a pad on the ground. Until then, a rocket was a machine that was thrown away, and the most expensive part of a launch was lost every time.",
+   "query": "Falcon 9 first landing Landing Zone 1",
+   "caption": "WHY WAS THIS LANDING SUCH A BIG DEAL?",
+   "arrow": true,
+   "chapter": "5. The first landing",
+   "short": "Why Was the First Rocket Landing So Important?",
+   "cuts": 3
+  },
+  {
+   "text": "The booster is one of the biggest and most expensive parts of the rocket. If it can be flown again, the price of each launch falls. Landing it was the first step, and every flight after that was a step toward turning a rocket into something more like an aircraft.",
+   "query": "Falcon 9 landing zone",
+   "caption": "THROWING AWAY A JET EVERY FLIGHT"
+  },
+  {
+   "text": "And the feat looks even stranger on a calm day. A tall white tube comes down out of the sky on a pillar of flame, slows to a stop, and stands still on four legs. It is a sight that still stops people in their tracks.",
+   "query": "Falcon 9 booster touchdown",
+   "caption": "A PILLAR OF FLAME"
+  },
+  {
+   "text": "Why does a rocket land on a ship in the ocean? Because some missions fly too far to come back to land. The first drone ship landing was in April two thousand sixteen, on the ship called Of Course I Still Love You, after the CRS-8 mission. A rocket that carries a heavy satellite to a high orbit has no fuel left to fly back to the coast, so the ship waits for it at sea.",
+   "query": "Of Course I Still Love You drone ship Falcon 9",
+   "caption": "WHY IS THERE A SHIP WITH NO CREW?",
+   "arrow": true,
+   "chapter": "6. The drone ship",
+   "short": "Why Do Rockets Land on a Ship in the Ocean?",
+   "cuts": 3
+  },
+  {
+   "text": "The ship has no crew while the rocket lands. It is a big flat platform that holds its position in the sea with thrusters. The booster aims at the center, and the landing is a precise act, on a deck that moves with the waves.",
+   "query": "SpaceX drone ship landing",
+   "caption": "A PLATFORM THAT HOLDS STILL"
+  },
+  {
+   "text": "So the ocean became part of the launch pad. A rocket launches from the coast, flies across the sea, and lands on a ship that is waiting in the middle of nowhere.",
+   "query": "drone ship at sea Falcon 9",
+   "caption": "THE SEA IS THE LAUNCH PAD"
+  },
+  {
+   "text": "Why is a rocket that flies twice such a big change? The first booster to be flown again was B1021, which first flew in April two thousand sixteen, and flew again in March two thousand seventeen. Both flights ended in a landing. After that, it was retired and put on display. A rocket that is flown again, and not rebuilt, was a new thing.",
+   "query": "Falcon 9 B1021 reused booster",
+   "caption": "WHY CAN THIS ROCKET FLY AGAIN?",
+   "arrow": true,
+   "chapter": "7. The reused booster",
+   "short": "Why Can a Rocket Fly More Than Once?",
+   "cuts": 3
+  },
+  {
+   "text": "Since then, the numbers have grown. One booster has now flown thirty-five times, as of June two thousand twenty-six. Each flight is cheaper than building a new rocket, and the savings change what can be launched, and how often.",
+   "query": "Falcon 9 booster flight record",
+   "caption": "35 FLIGHTS ON ONE BOOSTER"
+  },
+  {
+   "text": "This is the real revolution. Not the landing, but what comes after it. A rocket that can be reused is a machine that can be improved, tested and trusted, like an airplane.",
+   "query": "Falcon 9 booster reuse",
+   "caption": "FROM LANDING TO ROUTINE"
+  },
+  {
+   "text": "Why does only the first stage come back? Because the second stage is going much faster. It carries the satellite all the way to orbit, and to come back it would need a heat shield, landing engines and other equipment. SpaceX concluded that the mass of that equipment was prohibitive, so the second stage is still thrown away.",
+   "query": "Falcon 9 second stage",
+   "caption": "WHY DOESN'T THE UPPER STAGE LAND TOO?",
+   "arrow": true,
+   "chapter": "8. The expendable second stage",
+   "short": "Why Doesn't the Falcon 9's Upper Stage Land Too?",
+   "cuts": 3
+  },
+  {
+   "text": "Every kilogram on the second stage is a kilogram less for the satellite. Adding a heat shield and engines for the landing would take a big share of what the rocket can carry. So it is a trade, and the company chose to save the first stage, where the savings are largest.",
+   "query": "Falcon 9 stage separation",
+   "caption": "EVERY KILO COMES OUT OF THE PAYLOAD"
+  },
+  {
+   "text": "It shows that reuse is not all or nothing. The best machine is the one that saves the most money for the least added weight, and that is the first stage.",
+   "query": "Falcon 9 upper stage",
+   "caption": "SAVE THE EXPENSIVE PART"
+  },
+  {
+   "text": "Why is the nose cone recovered too? It is called the fairing, the two-part shell that protects the satellite during the climb. After the fairing is released, it falls back and re-enters the atmosphere, and since twenty nineteen, these halves have been recovered and reused. It is another expensive part that does not need to be thrown away.",
+   "query": "Falcon 9 fairing recovery",
+   "caption": "WHY DOES THE ROCKET'S NOSE COME BACK TOO?",
+   "arrow": true,
+   "chapter": "9. The recovered nose cone",
+   "short": "Why Does the Falcon 9's Nose Cone Come Back Too?",
+   "cuts": 3
+  },
+  {
+   "text": "The fairing is built to protect something delicate, so it is made of light, strong material, and it is not cheap. Bringing it back, and using it again, saves money in the same way as the booster, one part at a time.",
+   "query": "Falcon 9 fairing halves",
+   "caption": "SAVE EVERY EXPENSIVE PIECE"
+  },
+  {
+   "text": "So the whole idea is simple. Wherever the rocket has something valuable that falls back to Earth, find a way to catch it and fly it again.",
+   "query": "Falcon 9 fairing ship",
+   "caption": "CATCH WHAT FALLS"
+  },
+  {
+   "text": "So here are the nine. Waffle-shaped fins that steer a falling rocket, legs that unfold for two seconds, gas jets for small turns, and nine engines that can lose two. A first landing that changed everything, a ship waiting at sea, a booster that flew again, an upper stage that still gets thrown away, and a nose cone that returns.",
+   "query": "Falcon 9 landing sunrise",
+   "caption": "9 PARTS. 9 REASONS.",
+   "chapter": "The verdict",
+   "cuts": 6
+  },
+  {
+   "text": "Next time you see a rocket land on its tail, you will know what each part is doing. If you want more machines explained part by part, subscribe to Machine Reverse. And tell us in the comments which machine you want us to take apart next.",
+   "query": "Falcon 9 landing night",
+   "caption": "SUBSCRIBE: MACHINE REVERSE",
+   "cuts": 4
+  }
+ ]
+}
