@@ -1,0 +1,1579 @@
+1
+00:00:00,000 --> 00:00:03,175
+Look at almost any modern wind turbine
+
+2
+00:00:03,175 --> 00:00:05,766
+on Earth and you will count the
+
+3
+00:00:05,766 --> 00:00:07,604
+same number of blades.
+
+4
+00:00:07,784 --> 00:00:08,306
+Three.
+
+5
+00:00:08,486 --> 00:00:10,193
+Not two, not four,
+
+6
+00:00:10,193 --> 00:00:13,699
+not twenty like an old farm windmill.
+
+7
+00:00:13,879 --> 00:00:14,530
+Three.
+
+8
+00:00:14,710 --> 00:00:17,773
+Engineers tried everything else,
+
+9
+00:00:17,773 --> 00:00:19,878
+one blade, two blades,
+
+10
+00:00:19,878 --> 00:00:23,229
+many blades, and almost all of them
+
+11
+00:00:23,229 --> 00:00:23,707
+lost.
+
+12
+00:00:23,887 --> 00:00:27,248
+Today, eleven parts of a wind turbine,
+
+13
+00:00:27,248 --> 00:00:29,370
+and why each one exists,
+
+14
+00:00:29,370 --> 00:00:32,200
+starting with that magic number.
+
+15
+00:00:32,550 --> 00:00:35,416
+Modern wind turbines are some of the
+
+16
+00:00:35,416 --> 00:00:37,646
+biggest machines ever built.
+
+17
+00:00:37,826 --> 00:00:40,209
+The tallest ones reach more than two
+
+18
+00:00:40,209 --> 00:00:42,328
+hundred meters to the tip of the
+
+19
+00:00:42,328 --> 00:00:45,373
+blade, taller than most skyscrapers in Europe.
+
+20
+00:00:45,553 --> 00:00:48,210
+A single blade can be longer than
+
+21
+00:00:48,210 --> 00:00:49,579
+a football field,
+
+22
+00:00:49,579 --> 00:00:52,639
+and one turbine can power thousands of
+
+23
+00:00:52,639 --> 00:00:53,122
+homes.
+
+24
+00:00:53,473 --> 00:00:56,384
+As always, every fact comes from a
+
+25
+00:00:56,384 --> 00:00:58,867
+named source, turbine makers,
+
+26
+00:00:58,867 --> 00:01:02,978
+energy laboratories, and engineering references,
+
+27
+00:01:02,978 --> 00:01:05,547
+all listed in the description.
+
+28
+00:01:05,727 --> 00:01:07,737
+Let's start with the question in the
+
+29
+00:01:07,737 --> 00:01:08,072
+title.
+
+30
+00:01:08,423 --> 00:01:11,688
+Why do wind turbines have three blades,
+
+31
+00:01:11,688 --> 00:01:12,776
+and not more?
+
+32
+00:01:12,956 --> 00:01:15,972
+Because more blades do not catch much
+
+33
+00:01:15,972 --> 00:01:16,950
+more energy.
+
+34
+00:01:17,130 --> 00:01:19,439
+A rotor can never take all the
+
+35
+00:01:19,439 --> 00:01:21,055
+energy from the wind,
+
+36
+00:01:21,055 --> 00:01:23,826
+there is a physical limit called the
+
+37
+00:01:23,826 --> 00:01:26,674
+Betz limit, about fifty nine percent.
+
+38
+00:01:26,854 --> 00:01:30,041
+Three slim blades spinning fast already get
+
+39
+00:01:30,041 --> 00:01:32,043
+close to what is practical.
+
+40
+00:01:32,223 --> 00:01:34,641
+A fourth blade would add a lot
+
+41
+00:01:34,641 --> 00:01:36,978
+of cost and weight for only a
+
+42
+00:01:36,978 --> 00:01:37,784
+tiny gain.
+
+43
+00:01:38,135 --> 00:01:39,131
+So why not two,
+
+44
+00:01:39,131 --> 00:01:40,991
+which would be even cheaper?
+
+45
+00:01:41,171 --> 00:01:43,214
+Because two blades wobble.
+
+46
+00:01:43,394 --> 00:01:46,417
+When the turbine turns to face the
+
+47
+00:01:46,417 --> 00:01:49,884
+wind, a two bladed rotor is unbalanced.
+
+48
+00:01:50,064 --> 00:01:52,095
+When its blades are vertical,
+
+49
+00:01:52,095 --> 00:01:53,426
+it resists turning,
+
+50
+00:01:53,426 --> 00:01:55,458
+and when they are horizontal,
+
+51
+00:01:55,458 --> 00:01:56,299
+it does not.
+
+52
+00:01:56,479 --> 00:01:58,829
+That flips twice every rotation,
+
+53
+00:01:58,829 --> 00:02:00,739
+shaking the whole machine.
+
+54
+00:02:00,919 --> 00:02:02,379
+With three blades,
+
+55
+00:02:02,379 --> 00:02:05,703
+the forces stay smooth in every position.
+
+56
+00:02:06,053 --> 00:02:08,892
+Two bladed turbines also have to spin
+
+57
+00:02:08,892 --> 00:02:12,116
+faster, which makes them louder and harder
+
+58
+00:02:12,116 --> 00:02:12,960
+on the eye.
+
+59
+00:02:13,140 --> 00:02:15,379
+Three blades turn at a calm,
+
+60
+00:02:15,379 --> 00:02:18,417
+steady pace that people find easier to
+
+61
+00:02:18,417 --> 00:02:19,456
+live next to.
+
+62
+00:02:19,636 --> 00:02:23,575
+Some designers still build two bladed turbines
+
+63
+00:02:23,575 --> 00:02:25,116
+for special cases,
+
+64
+00:02:25,116 --> 00:02:27,942
+like floating offshore platforms,
+
+65
+00:02:27,942 --> 00:02:28,969
+but on land,
+
+66
+00:02:28,969 --> 00:02:30,596
+three won the race.
+
+67
+00:02:30,946 --> 00:02:32,944
+Why is the end of a wind
+
+68
+00:02:32,944 --> 00:02:35,775
+turbine blade covered in a ring of
+
+69
+00:02:35,775 --> 00:02:36,774
+steel bolts?
+
+70
+00:02:36,954 --> 00:02:39,376
+Because this is where the whole blade
+
+71
+00:02:39,376 --> 00:02:40,750
+hangs on the turbine.
+
+72
+00:02:40,930 --> 00:02:43,975
+Every rotation, the blade is pulled by
+
+73
+00:02:43,975 --> 00:02:45,257
+gravity one way,
+
+74
+00:02:45,257 --> 00:02:46,460
+then the other,
+
+75
+00:02:46,460 --> 00:02:48,303
+and pushed by the wind.
+
+76
+00:02:48,483 --> 00:02:51,224
+All of that force passes through this
+
+77
+00:02:51,224 --> 00:02:51,594
+ring.
+
+78
+00:02:51,774 --> 00:02:54,668
+Large blades are fixed with around a
+
+79
+00:02:54,668 --> 00:02:56,436
+hundred or more bolts,
+
+80
+00:02:56,436 --> 00:02:59,170
+each tightened to a precise force.
+
+81
+00:02:59,520 --> 00:03:02,898
+A blade turns maybe fifteen times a
+
+82
+00:03:02,898 --> 00:03:07,050
+minute, which means millions of load cycles
+
+83
+00:03:07,050 --> 00:03:08,401
+over its life.
+
+84
+00:03:08,581 --> 00:03:11,634
+Bolts that are loose or tightened unevenly
+
+85
+00:03:11,634 --> 00:03:13,306
+can crack from fatigue.
+
+86
+00:03:13,486 --> 00:03:17,281
+So technicians check and re-tighten them during
+
+87
+00:03:17,281 --> 00:03:20,510
+maintenance, often with hydraulic tools,
+
+88
+00:03:20,510 --> 00:03:23,498
+because a human arm cannot reach that
+
+89
+00:03:23,498 --> 00:03:23,982
+force.
+
+90
+00:03:24,332 --> 00:03:26,679
+When a blade does break off,
+
+91
+00:03:26,679 --> 00:03:30,032
+the result is spectacular and dangerous.
+
+92
+00:03:30,212 --> 00:03:33,045
+Pieces can be thrown hundreds of meters.
+
+93
+00:03:33,225 --> 00:03:35,594
+That is why turbines are built away
+
+94
+00:03:35,594 --> 00:03:37,083
+from houses and roads,
+
+95
+00:03:37,083 --> 00:03:39,114
+and why the root of the blade,
+
+96
+00:03:39,114 --> 00:03:40,468
+where the bolts sit,
+
+97
+00:03:40,468 --> 00:03:42,972
+is one of the most carefully designed
+
+98
+00:03:42,972 --> 00:03:44,800
+parts of the whole machine.
+
+99
+00:03:45,150 --> 00:03:48,172
+Why can each wind turbine blade rotate
+
+100
+00:03:48,172 --> 00:03:49,921
+around its own length?
+
+101
+00:03:50,101 --> 00:03:53,213
+Because that is how the turbine controls
+
+102
+00:03:53,213 --> 00:03:53,991
+its power.
+
+103
+00:03:54,171 --> 00:03:55,539
+Inside the hub,
+
+104
+00:03:55,539 --> 00:03:59,736
+motors or hydraulic cylinders turn every blade
+
+105
+00:03:59,736 --> 00:04:01,926
+a few degrees at a time.
+
+106
+00:04:02,106 --> 00:04:03,964
+This is called pitch.
+
+107
+00:04:04,144 --> 00:04:05,126
+In light wind,
+
+108
+00:04:05,126 --> 00:04:07,442
+the blades face the wind to catch
+
+109
+00:04:07,442 --> 00:04:08,846
+as much as possible.
+
+110
+00:04:09,026 --> 00:04:10,349
+In strong wind,
+
+111
+00:04:10,349 --> 00:04:13,261
+they turn away to spill the extra
+
+112
+00:04:13,261 --> 00:04:13,879
+energy.
+
+113
+00:04:14,229 --> 00:04:15,041
+In a storm,
+
+114
+00:04:15,041 --> 00:04:17,921
+the blades turn almost fully edge-on to
+
+115
+00:04:17,921 --> 00:04:19,767
+the wind, like a feather.
+
+116
+00:04:19,947 --> 00:04:21,908
+They stop catching wind,
+
+117
+00:04:21,908 --> 00:04:23,952
+and the rotor slows down.
+
+118
+00:04:24,132 --> 00:04:26,035
+That is the main brake of a
+
+119
+00:04:26,035 --> 00:04:27,093
+modern turbine.
+
+120
+00:04:27,273 --> 00:04:30,008
+Most turbines shut down this way when
+
+121
+00:04:30,008 --> 00:04:32,817
+the wind goes above around twenty five
+
+122
+00:04:32,817 --> 00:04:34,148
+meters per second,
+
+123
+00:04:34,148 --> 00:04:36,514
+about ninety kilometers an hour.
+
+124
+00:04:36,864 --> 00:04:39,781
+Because this brake is so important,
+
+125
+00:04:39,781 --> 00:04:42,698
+each blade has its own pitch system
+
+126
+00:04:42,698 --> 00:04:44,782
+and its own backup power,
+
+127
+00:04:44,782 --> 00:04:47,115
+batteries or pressure tanks.
+
+128
+00:04:47,295 --> 00:04:49,763
+If the grid fails and the turbine
+
+129
+00:04:49,763 --> 00:04:52,754
+loses power, the blades still feather by
+
+130
+00:04:52,754 --> 00:04:53,576
+themselves.
+
+131
+00:04:53,756 --> 00:04:56,812
+One working blade is enough to slow
+
+132
+00:04:56,812 --> 00:04:58,122
+the rotor down.
+
+133
+00:04:58,472 --> 00:05:01,038
+Why do some wind turbine blades have
+
+134
+00:05:01,038 --> 00:05:03,534
+rows of small fins near their base?
+
+135
+00:05:03,714 --> 00:05:06,337
+They are called vortex generators.
+
+136
+00:05:06,517 --> 00:05:09,066
+Each fin creates a tiny swirl of
+
+137
+00:05:09,066 --> 00:05:12,013
+air, which mixes fast moving air into
+
+138
+00:05:12,013 --> 00:05:14,561
+the thin layer right next to the
+
+139
+00:05:14,561 --> 00:05:15,039
+blade.
+
+140
+00:05:15,219 --> 00:05:17,685
+That keeps the airflow stuck to the
+
+141
+00:05:17,685 --> 00:05:20,432
+surface, instead of separating from it.
+
+142
+00:05:20,782 --> 00:05:21,795
+Near the root,
+
+143
+00:05:21,795 --> 00:05:24,401
+the blade is thick and turns slowly,
+
+144
+00:05:24,401 --> 00:05:26,718
+and air tends to break away from
+
+145
+00:05:26,718 --> 00:05:26,935
+it.
+
+146
+00:05:27,115 --> 00:05:29,121
+When the flow separates,
+
+147
+00:05:29,121 --> 00:05:30,542
+the blade stalls,
+
+148
+00:05:30,542 --> 00:05:33,217
+like an airplane wing at a steep
+
+149
+00:05:33,217 --> 00:05:35,056
+angle, and loses lift.
+
+150
+00:05:35,236 --> 00:05:37,553
+The little fins delay that stall,
+
+151
+00:05:37,553 --> 00:05:39,660
+so the inner part of the blade
+
+152
+00:05:39,660 --> 00:05:41,064
+produces more power.
+
+153
+00:05:41,415 --> 00:05:44,035
+The same trick is used on airplane
+
+154
+00:05:44,035 --> 00:05:46,810
+wings, where you can sometimes see a
+
+155
+00:05:46,810 --> 00:05:49,354
+row of tiny tabs from your window
+
+156
+00:05:49,354 --> 00:05:49,739
+seat.
+
+157
+00:05:49,919 --> 00:05:52,491
+On turbines, the fins can even be
+
+158
+00:05:52,491 --> 00:05:55,298
+glued onto older blades years later,
+
+159
+00:05:55,298 --> 00:05:57,792
+and makers report gains of a few
+
+160
+00:05:57,792 --> 00:05:59,195
+percent in energy.
+
+161
+00:05:59,375 --> 00:06:02,162
+For a turbine running for twenty years,
+
+162
+00:06:02,162 --> 00:06:03,091
+that adds up.
+
+163
+00:06:03,441 --> 00:06:06,057
+Why do wind turbine blades have metal
+
+164
+00:06:06,057 --> 00:06:08,108
+points built into their tips?
+
+165
+00:06:08,288 --> 00:06:10,956
+Because a turbine is often the tallest
+
+166
+00:06:10,956 --> 00:06:12,431
+thing for kilometers,
+
+167
+00:06:12,431 --> 00:06:14,046
+and lightning loves it.
+
+168
+00:06:14,226 --> 00:06:17,419
+The blade itself is made of fiberglass
+
+169
+00:06:17,419 --> 00:06:20,949
+or carbon, which cannot carry the current.
+
+170
+00:06:21,129 --> 00:06:23,925
+So metal receptors on the blade surface
+
+171
+00:06:23,925 --> 00:06:25,145
+catch the strike,
+
+172
+00:06:25,145 --> 00:06:27,583
+and a thick cable inside the blade
+
+173
+00:06:27,583 --> 00:06:29,519
+carries it down to the hub,
+
+174
+00:06:29,519 --> 00:06:31,670
+the tower and into the ground.
+
+175
+00:06:32,021 --> 00:06:33,238
+Without that path,
+
+176
+00:06:33,238 --> 00:06:35,942
+lightning would find its own way through
+
+177
+00:06:35,942 --> 00:06:36,618
+the blade.
+
+178
+00:06:36,798 --> 00:06:39,821
+The current heats the air and moisture
+
+179
+00:06:39,821 --> 00:06:42,446
+inside to explosive temperatures,
+
+180
+00:06:42,446 --> 00:06:45,071
+which can crack the blade open or
+
+181
+00:06:45,071 --> 00:06:46,423
+blow off its tip.
+
+182
+00:06:46,603 --> 00:06:49,801
+Lightning is one of the leading causes
+
+183
+00:06:49,801 --> 00:06:51,990
+of blade damage worldwide.
+
+184
+00:06:52,340 --> 00:06:55,270
+Turbines in places with lots of storms
+
+185
+00:06:55,270 --> 00:06:57,506
+can be hit many times a year.
+
+186
+00:06:57,686 --> 00:06:59,063
+After a strike,
+
+187
+00:06:59,063 --> 00:07:01,082
+sensors can record it,
+
+188
+00:07:01,082 --> 00:07:05,488
+and drones or technicians inspect the receptors.
+
+189
+00:07:05,668 --> 00:07:08,756
+A turbine is not just catching wind.
+
+190
+00:07:08,936 --> 00:07:11,703
+It is also catching lightning,
+
+191
+00:07:11,703 --> 00:07:13,917
+safely, again and again.
+
+192
+00:07:14,267 --> 00:07:16,975
+Why do technicians hang from ropes on
+
+193
+00:07:16,975 --> 00:07:18,440
+wind turbine blades,
+
+194
+00:07:18,440 --> 00:07:20,490
+a hundred meters in the air?
+
+195
+00:07:20,670 --> 00:07:22,854
+Because the blades wear out,
+
+196
+00:07:22,854 --> 00:07:25,116
+especially at the front edge.
+
+197
+00:07:25,296 --> 00:07:27,558
+The tip of a big blade moves
+
+198
+00:07:27,558 --> 00:07:31,032
+at around three hundred kilometers an hour.
+
+199
+00:07:31,212 --> 00:07:32,431
+At that speed,
+
+200
+00:07:32,431 --> 00:07:36,004
+raindrops, hail, sand and insects hit the
+
+201
+00:07:36,004 --> 00:07:39,227
+edge like tiny bullets and slowly eat
+
+202
+00:07:39,227 --> 00:07:40,708
+away the surface.
+
+203
+00:07:40,888 --> 00:07:43,443
+This is called leading edge erosion.
+
+204
+00:07:43,793 --> 00:07:46,824
+A rough edge disturbs the airflow and
+
+205
+00:07:46,824 --> 00:07:49,528
+steals power, and if it gets deep
+
+206
+00:07:49,528 --> 00:07:52,314
+enough, water can enter the blade.
+
+207
+00:07:52,494 --> 00:07:55,073
+So rope access technicians,
+
+208
+00:07:55,073 --> 00:07:59,084
+trained climbers, abseil down the blade to
+
+209
+00:07:59,084 --> 00:08:02,618
+sand, fill and coat the damaged edge.
+
+210
+00:08:02,798 --> 00:08:05,651
+Some blades now get protective tapes or
+
+211
+00:08:05,651 --> 00:08:07,553
+shields on the front edge,
+
+212
+00:08:07,553 --> 00:08:09,602
+like a stone guard on a car.
+
+213
+00:08:09,952 --> 00:08:13,151
+The turbine is stopped and locked before
+
+214
+00:08:13,151 --> 00:08:14,990
+anyone goes on a blade.
+
+215
+00:08:15,170 --> 00:08:17,667
+Then the work is done from ropes
+
+216
+00:08:17,667 --> 00:08:20,631
+or platforms hanging from the nacelle,
+
+217
+00:08:20,631 --> 00:08:22,113
+often in cold wind.
+
+218
+00:08:22,293 --> 00:08:24,876
+Drones now help find the damage first,
+
+219
+00:08:24,876 --> 00:08:27,188
+so the climbers only go where they
+
+220
+00:08:27,188 --> 00:08:27,936
+are needed.
+
+221
+00:08:28,286 --> 00:08:31,165
+Why do wind turbines in cold places
+
+222
+00:08:31,165 --> 00:08:33,139
+worry so much about ice?
+
+223
+00:08:33,319 --> 00:08:36,368
+Because ice on a blade changes its
+
+224
+00:08:36,368 --> 00:08:36,906
+shape.
+
+225
+00:08:37,086 --> 00:08:38,698
+It ruins the airfoil,
+
+226
+00:08:38,698 --> 00:08:40,848
+and the turbine loses power.
+
+227
+00:08:41,028 --> 00:08:43,533
+Ice also adds weight unevenly,
+
+228
+00:08:43,533 --> 00:08:47,123
+so the rotor becomes unbalanced and shakes.
+
+229
+00:08:47,303 --> 00:08:49,817
+And when chunks break off a spinning
+
+230
+00:08:49,817 --> 00:08:52,051
+blade, they can be thrown a long
+
+231
+00:08:52,051 --> 00:08:52,330
+way.
+
+232
+00:08:52,680 --> 00:08:56,247
+So turbines in cold regions carry sensors
+
+233
+00:08:56,247 --> 00:08:57,814
+that detect icing,
+
+234
+00:08:57,814 --> 00:09:01,556
+and many stop automatically when ice builds
+
+235
+00:09:01,556 --> 00:09:01,817
+up.
+
+236
+00:09:01,997 --> 00:09:04,954
+Warning signs around them tell walkers to
+
+237
+00:09:04,954 --> 00:09:06,397
+keep away in winter.
+
+238
+00:09:06,577 --> 00:09:09,559
+In places like Scandinavia and Canada,
+
+239
+00:09:09,559 --> 00:09:13,011
+some blades are fitted with heating systems,
+
+240
+00:09:13,011 --> 00:09:15,836
+warm air blown through the inside or
+
+241
+00:09:15,836 --> 00:09:18,268
+heating mats under the surface.
+
+242
+00:09:18,618 --> 00:09:20,991
+Heating costs some energy,
+
+243
+00:09:20,991 --> 00:09:24,185
+but a stopped turbine makes none at
+
+244
+00:09:24,185 --> 00:09:24,550
+all.
+
+245
+00:09:24,730 --> 00:09:26,167
+In cold climates,
+
+246
+00:09:26,167 --> 00:09:29,209
+a turbine that can de-ice itself may
+
+247
+00:09:29,209 --> 00:09:32,335
+produce far more power over a winter.
+
+248
+00:09:32,515 --> 00:09:35,306
+It is the same problem airplanes face,
+
+249
+00:09:35,306 --> 00:09:38,023
+solved on a machine that never leaves
+
+250
+00:09:38,023 --> 00:09:38,831
+the ground.
+
+251
+00:09:39,181 --> 00:09:41,511
+Why does a wind turbine have a
+
+252
+00:09:41,511 --> 00:09:43,375
+box the size of a bus on
+
+253
+00:09:43,375 --> 00:09:44,695
+top of its tower?
+
+254
+00:09:44,875 --> 00:09:47,163
+Because that is the power plant.
+
+255
+00:09:47,343 --> 00:09:50,045
+The nacelle holds the main shaft,
+
+256
+00:09:50,045 --> 00:09:52,338
+the bearings, the generator,
+
+257
+00:09:52,338 --> 00:09:54,058
+and on many turbines,
+
+258
+00:09:54,058 --> 00:09:54,877
+a gearbox.
+
+259
+00:09:55,057 --> 00:09:57,011
+The rotor turns slowly,
+
+260
+00:09:57,011 --> 00:10:00,070
+maybe ten to fifteen times a minute,
+
+261
+00:10:00,070 --> 00:10:03,129
+but a normal generator wants to spin
+
+262
+00:10:03,129 --> 00:10:04,148
+much faster.
+
+263
+00:10:04,328 --> 00:10:06,937
+The gearbox speeds it up about a
+
+264
+00:10:06,937 --> 00:10:08,078
+hundred times.
+
+265
+00:10:08,428 --> 00:10:11,011
+Gearboxes are one of the parts that
+
+266
+00:10:11,011 --> 00:10:12,191
+fail most often,
+
+267
+00:10:12,191 --> 00:10:14,922
+and replacing one at a hundred meters
+
+268
+00:10:14,922 --> 00:10:16,915
+height needs a giant crane.
+
+269
+00:10:17,095 --> 00:10:19,115
+So some makers removed it.
+
+270
+00:10:19,295 --> 00:10:22,756
+Direct drive turbines use a very large
+
+271
+00:10:22,756 --> 00:10:25,762
+generator, several meters across,
+
+272
+00:10:25,762 --> 00:10:28,768
+that turns at the same slow speed
+
+273
+00:10:28,768 --> 00:10:29,953
+as the rotor.
+
+274
+00:10:30,133 --> 00:10:31,730
+Fewer moving parts,
+
+275
+00:10:31,730 --> 00:10:35,345
+but a heavier and more expensive generator.
+
+276
+00:10:35,696 --> 00:10:38,469
+The nacelle also turns to face the
+
+277
+00:10:38,469 --> 00:10:38,877
+wind.
+
+278
+00:10:39,057 --> 00:10:41,451
+A wind vane and an anemometer on
+
+279
+00:10:41,451 --> 00:10:44,370
+its roof measure the wind direction and
+
+280
+00:10:44,370 --> 00:10:47,214
+speed, and yaw motors rotate the whole
+
+281
+00:10:47,214 --> 00:10:49,534
+nacelle on a big bearing at the
+
+282
+00:10:49,534 --> 00:10:50,806
+top of the tower.
+
+283
+00:10:50,986 --> 00:10:53,261
+On the biggest offshore turbines,
+
+284
+00:10:53,261 --> 00:10:56,088
+everything up there can weigh hundreds of
+
+285
+00:10:56,088 --> 00:10:56,570
+tonnes.
+
+286
+00:10:56,921 --> 00:10:59,188
+Why is there a ladder inside a
+
+287
+00:10:59,188 --> 00:11:00,624
+wind turbine tower?
+
+288
+00:11:00,804 --> 00:11:03,677
+Because that is how technicians get to
+
+289
+00:11:03,677 --> 00:11:04,055
+work.
+
+290
+00:11:04,235 --> 00:11:06,948
+The tower is a hollow steel tube,
+
+291
+00:11:06,948 --> 00:11:10,400
+sometimes more than a hundred meters tall.
+
+292
+00:11:10,580 --> 00:11:13,155
+Inside, a ladder runs all the way
+
+293
+00:11:13,155 --> 00:11:15,886
+up, with rest platforms on the way.
+
+294
+00:11:16,066 --> 00:11:18,919
+Many modern turbines also have a small
+
+295
+00:11:18,919 --> 00:11:21,773
+service lift, but the ladder is always
+
+296
+00:11:21,773 --> 00:11:23,124
+there as a backup.
+
+297
+00:11:23,475 --> 00:11:26,391
+Climbing it is like climbing a thirty
+
+298
+00:11:26,391 --> 00:11:27,573
+story building.
+
+299
+00:11:27,753 --> 00:11:31,537
+Technicians wear harnesses clipped to a safety
+
+300
+00:11:31,537 --> 00:11:34,087
+rail, so a slip cannot become a
+
+301
+00:11:34,087 --> 00:11:34,498
+fall.
+
+302
+00:11:34,678 --> 00:11:37,356
+They carry tools and spare parts in
+
+303
+00:11:37,356 --> 00:11:39,574
+bags, or use a small crane in
+
+304
+00:11:39,574 --> 00:11:42,405
+the nacelle to lift heavy pieces from
+
+305
+00:11:42,405 --> 00:11:43,246
+the ground.
+
+306
+00:11:43,597 --> 00:11:46,558
+The tower also hides the power cables,
+
+307
+00:11:46,558 --> 00:11:49,909
+the control cabinets and the transformer on
+
+308
+00:11:49,909 --> 00:11:50,922
+some designs.
+
+309
+00:11:51,102 --> 00:11:52,101
+It is tapered,
+
+310
+00:11:52,101 --> 00:11:54,741
+wider at the bottom where the bending
+
+311
+00:11:54,741 --> 00:11:56,097
+force is strongest,
+
+312
+00:11:56,097 --> 00:11:58,736
+and built in sections that are bolted
+
+313
+00:11:58,736 --> 00:11:59,949
+together on site.
+
+314
+00:12:00,300 --> 00:12:03,179
+Why does moving a single wind turbine
+
+315
+00:12:03,179 --> 00:12:05,280
+blade need a police escort?
+
+316
+00:12:05,460 --> 00:12:07,965
+Because the blade is made in one
+
+317
+00:12:07,965 --> 00:12:10,705
+piece, and it is longer than almost
+
+318
+00:12:10,705 --> 00:12:12,740
+anything else on the road.
+
+319
+00:12:12,920 --> 00:12:15,592
+On land, blades of sixty to eighty
+
+320
+00:12:15,592 --> 00:12:17,006
+meters are common.
+
+321
+00:12:17,186 --> 00:12:18,279
+They cannot bend,
+
+322
+00:12:18,279 --> 00:12:20,142
+and they cannot be cut in two
+
+323
+00:12:20,142 --> 00:12:21,877
+without making them weaker.
+
+324
+00:12:22,057 --> 00:12:23,744
+So they travel whole,
+
+325
+00:12:23,744 --> 00:12:26,155
+on special extending trailers.
+
+326
+00:12:26,506 --> 00:12:29,338
+Every route is planned in advance.
+
+327
+00:12:29,518 --> 00:12:33,126
+Corners, bridges, trees and road signs are
+
+328
+00:12:33,126 --> 00:12:36,132
+checked, and some are removed for a
+
+329
+00:12:36,132 --> 00:12:36,647
+night.
+
+330
+00:12:36,827 --> 00:12:40,054
+In mountains, special trailers can tilt the
+
+331
+00:12:40,054 --> 00:12:41,705
+blade up into the air,
+
+332
+00:12:41,705 --> 00:12:44,106
+so it can pass tight curves with
+
+333
+00:12:44,106 --> 00:12:46,208
+its tip pointing at the sky.
+
+334
+00:12:46,558 --> 00:12:49,721
+This limit on transport is one reason
+
+335
+00:12:49,721 --> 00:12:53,140
+the biggest turbines are built offshore.
+
+336
+00:12:53,320 --> 00:12:55,795
+Blades of more than a hundred meters
+
+337
+00:12:55,795 --> 00:12:58,064
+can be loaded onto ships right at
+
+338
+00:12:58,064 --> 00:12:59,782
+the factory on the coast,
+
+339
+00:12:59,782 --> 00:13:02,394
+and taken to sea without ever touching
+
+340
+00:13:02,394 --> 00:13:02,875
+a road.
+
+341
+00:13:03,226 --> 00:13:06,674
+Why do some offshore wind turbines stand
+
+342
+00:13:06,674 --> 00:13:09,433
+on these steel towers with legs,
+
+343
+00:13:09,433 --> 00:13:10,726
+called jackets?
+
+344
+00:13:10,906 --> 00:13:12,995
+Because the sea gets deep.
+
+345
+00:13:13,175 --> 00:13:14,620
+In shallow water,
+
+346
+00:13:14,620 --> 00:13:17,935
+a turbine usually stands on a monopile,
+
+347
+00:13:17,935 --> 00:13:21,250
+a single giant steel tube hammered into
+
+348
+00:13:21,250 --> 00:13:22,185
+the seabed.
+
+349
+00:13:22,365 --> 00:13:24,102
+But the deeper the water,
+
+350
+00:13:24,102 --> 00:13:26,742
+the thicker and heavier that tube must
+
+351
+00:13:26,742 --> 00:13:26,951
+be.
+
+352
+00:13:27,131 --> 00:13:30,307
+A lattice jacket with four legs spreads
+
+353
+00:13:30,307 --> 00:13:32,669
+the load and uses less steel.
+
+354
+00:13:33,019 --> 00:13:35,574
+The foundation must survive waves,
+
+355
+00:13:35,574 --> 00:13:38,655
+currents, and the huge bending force from
+
+356
+00:13:38,655 --> 00:13:39,857
+the rotor above.
+
+357
+00:13:40,037 --> 00:13:42,824
+Engineers design it for the worst storm
+
+358
+00:13:42,824 --> 00:13:44,539
+expected in fifty years,
+
+359
+00:13:44,539 --> 00:13:47,040
+and for decades of waves hitting it
+
+360
+00:13:47,040 --> 00:13:48,326
+every few seconds.
+
+361
+00:13:48,506 --> 00:13:50,032
+Below the waterline,
+
+362
+00:13:50,032 --> 00:13:53,388
+it is protected from corrosion with coatings
+
+363
+00:13:53,388 --> 00:13:56,439
+and metal anodes that corrode instead of
+
+364
+00:13:56,439 --> 00:13:57,202
+the steel.
+
+365
+00:13:57,553 --> 00:14:00,051
+Where the sea is too deep for
+
+366
+00:14:00,051 --> 00:14:01,861
+any fixed foundation,
+
+367
+00:14:01,861 --> 00:14:03,843
+turbines can now float,
+
+368
+00:14:03,843 --> 00:14:06,945
+held in place by anchors and chains,
+
+369
+00:14:06,945 --> 00:14:08,582
+like oil platforms.
+
+370
+00:14:08,762 --> 00:14:11,022
+It is the same old problem,
+
+371
+00:14:11,022 --> 00:14:14,202
+keeping a tall machine standing in the
+
+372
+00:14:14,202 --> 00:14:16,378
+wind, solved one more way.
+
+373
+00:14:16,729 --> 00:14:18,517
+So here are the eleven.
+
+374
+00:14:18,697 --> 00:14:22,332
+Three blades, because two wobble and four
+
+375
+00:14:22,332 --> 00:14:23,573
+cost too much.
+
+376
+00:14:23,753 --> 00:14:25,904
+A ring of bolts at the root,
+
+377
+00:14:25,904 --> 00:14:28,133
+a hub that twists the blades,
+
+378
+00:14:28,133 --> 00:14:30,668
+little fins that delay the stall,
+
+379
+00:14:30,668 --> 00:14:33,819
+and tips that catch lightning on purpose.
+
+380
+00:14:33,999 --> 00:14:36,724
+Workers on ropes fixing the edges,
+
+381
+00:14:36,724 --> 00:14:39,049
+ice that turns a blade into a
+
+382
+00:14:39,049 --> 00:14:41,454
+danger, a machine room on top,
+
+383
+00:14:41,454 --> 00:14:42,736
+a ladder inside,
+
+384
+00:14:42,736 --> 00:14:45,141
+a blade too long for the road,
+
+385
+00:14:45,141 --> 00:14:47,466
+and steel legs under the sea.
+
+386
+00:14:47,816 --> 00:14:50,022
+Next time you see a wind farm
+
+387
+00:14:50,022 --> 00:14:51,924
+turning slowly on a hill,
+
+388
+00:14:51,924 --> 00:14:53,218
+count the blades,
+
+389
+00:14:53,218 --> 00:14:56,109
+and remember that every number on that
+
+390
+00:14:56,109 --> 00:14:57,707
+machine was a choice.
+
+391
+00:14:57,887 --> 00:15:00,918
+If you want more machines explained part
+
+392
+00:15:00,918 --> 00:15:03,797
+by part, subscribe to Machine Reverse.
+
+393
+00:15:03,977 --> 00:15:05,936
+And tell us in the comments which
+
+394
+00:15:05,936 --> 00:15:07,894
+machine you want us to take apart
+
+395
+00:15:07,894 --> 00:15:08,191
+next.
