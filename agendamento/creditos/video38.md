@@ -1,0 +1,92 @@
+# Photo credits: Why Are Cargo Ships Red Below the Waterline?
+
+All photos from Wikimedia Commons.
+
+- Hunzedijk ship R01.jpg by Marc Ryckaert, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hunzedijk_ship_R01.jpg
+- Hunzedijk ship R09.jpg by Marc Ryckaert, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hunzedijk_ship_R09.jpg
+- Hunzedijk ship R08.jpg by Marc Ryckaert, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hunzedijk_ship_R08.jpg
+- Hunzedijk ship R07.jpg by Marc Ryckaert, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hunzedijk_ship_R07.jpg
+- Hunzedijk ship R02.jpg by Marc Ryckaert, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hunzedijk_ship_R02.jpg
+- Warber ship R06.jpg by Marc Ryckaert, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Warber_ship_R06.jpg
+- Hunzedijk ship R03.jpg by Marc Ryckaert, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hunzedijk_ship_R03.jpg
+- Warber ship R08.jpg by Marc Ryckaert, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Warber_ship_R08.jpg
+- Barnacles on mussel shell (Hulls Cove, Mt. Desert Island, Maine, USA) 1.jpg by James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Barnacles_on_mussel_shell_(Hulls_Cove,_Mt._Desert_Island,_Maine,_USA)_1.jpg
+- Barnacles on beach clast (Hulls Cove, Mt. Desert Island, Maine, USA) 2.jpg by James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Barnacles_on_beach_clast_(Hulls_Cove,_Mt._Desert_Island,_Maine,_USA)_2.jpg
+- Tank Barge GM 11105 in Dry Dock.jpg by GuavaTrain, CC0, https://commons.wikimedia.org/wiki/File:Tank_Barge_GM_11105_in_Dry_Dock.jpg
+- Ship in the dry dock at Falmouth by Kernow Skies.jpg by Kernow Skies, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Ship_in_the_dry_dock_at_Falmouth_by_Kernow_Skies.jpg
+- SD-14 Tina.JPG by SteKrueBe, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:SD-14_Tina.JPG
+- Antifouling écailles toxiques.jpg by F. Lamiot, CC BY-SA 2.5, https://commons.wikimedia.org/wiki/File:Antifouling_%C3%A9cailles_toxiques.jpg
+- US Navy 070912-N-7376A-002 Sailors assigned to deck department aboard amphibious assault ship USS Essex (LHD 2) paint the ship's hull during a selective restrictive availability maintenance.jpg by U.S. Navy photo by Mass Communication Specialist 2nd Class Frank Andrews, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_070912-N-7376A-002_Sailors_assigned_to_deck_department_aboard_amphibious_assault_ship_USS_Essex_(LHD_2)_paint_the_ship%27s_hull_during_a_selective_restrictive_availability_maintenance.jpg
+- US Navy 111031-N-PE825-014 Workers from the Viktor Lenac shipyard apply red paint to the hull of the amphibious command ship USS Mount Whitney (LCC.jpg by U.S. Navy photo by Mass Communication Specialist 2nd Class Collin Turner, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_111031-N-PE825-014_Workers_from_the_Viktor_Lenac_shipyard_apply_red_paint_to_the_hull_of_the_amphibious_command_ship_USS_Mount_Whitney_(LCC.jpg
+- Warber ship R07.jpg by Marc Ryckaert, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Warber_ship_R07.jpg
+- Warber ship R02.jpg by Marc Ryckaert, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Warber_ship_R02.jpg
+- New copper sheathing on USS Constitution (2).jpg by Naval History & Heritage Command Detachment Boston, Public domain, https://commons.wikimedia.org/wiki/File:New_copper_sheathing_on_USS_Constitution_(2).jpg
+- Candlestick (AM 1965.78.418-1).jpg by not researched, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Candlestick_(AM_1965.78.418-1).jpg
+- Cast Silver sheathing of the Banglamukhi shrine of Nepali Patna Museum.jpg by Dolon Prova, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cast_Silver_sheathing_of_the_Banglamukhi_shrine_of_Nepali_Patna_Museum.jpg
+- Beneath the hull of HMS Victory - geograph.org.uk - 7570479.jpg by Gareth James, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Beneath_the_hull_of_HMS_Victory_-_geograph.org.uk_-_7570479.jpg
+- British first-class Battleship HMS Victory 28th August 1945. (49135041612).jpg by tormentor4555, PDM-owner, https://commons.wikimedia.org/wiki/File:British_first-class_Battleship_HMS_Victory_28th_August_1945._(49135041612).jpg
+- Silver sheathing of the Bagalamukhi shrine.jpg by Suraj Belbase, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Silver_sheathing_of_the_Bagalamukhi_shrine.jpg
+- Cast Silver sheathing of the Banglamukhi shrine.jpg by Suraj Belbase, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cast_Silver_sheathing_of_the_Banglamukhi_shrine.jpg
+- Dry Dock Number 3 in snow.agr.JPG by ArnoldReinhold, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Dry_Dock_Number_3_in_snow.agr.JPG
+- MBNMS - Invasive Bryozoan Watersipora (33310174655).jpg by National Marine Sanctuaries, Public domain, https://commons.wikimedia.org/wiki/File:MBNMS_-_Invasive_Bryozoan_Watersipora_(33310174655).jpg
+- A Japanese oyster-farm, illustration from The Encyclopedia of Food by Artemas Ward.jpg by Artemas Ward, Public domain, https://commons.wikimedia.org/wiki/File:A_Japanese_oyster-farm,_illustration_from_The_Encyclopedia_of_Food_by_Artemas_Ward.jpg
+- 南澳島彩虹海生蠔養殖場 Oyster Farms, Nan'ao Island.jpg by Dust Chan 塵寞賢, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%E5%8D%97%E6%BE%B3%E5%B3%B6%E5%BD%A9%E8%99%B9%E6%B5%B7%E7%94%9F%E8%A0%94%E9%A4%8A%E6%AE%96%E5%A0%B4_Oyster_Farms,_Nan%27ao_Island.jpg
+- USS Utah (AG-16) being painted at Puget Sound 1941.jpg by USN, Public domain, https://commons.wikimedia.org/wiki/File:USS_Utah_(AG-16)_being_painted_at_Puget_Sound_1941.jpg
+- Dutch ship painted for "War Zone" LCCN2014698500.jpg by Bain News Service, publisher, Public domain, https://commons.wikimedia.org/wiki/File:Dutch_ship_painted_for_%22War_Zone%22_LCCN2014698500.jpg
+- Invasive quagga mussels (15466012239).jpg by Bureau of  Reclamation, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Invasive_quagga_mussels_(15466012239).jpg
+- Barnacles 2165.jpg by Chris Light, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Barnacles_2165.jpg
+- Barnacles at Sharkham Point.jpg by Partonez, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Barnacles_at_Sharkham_Point.jpg
+- Women Putting Anti-fouling Paint on the Bottom of an Ml Leith Art.IWMART1364.jpg by Charles Pears, Public domain, https://commons.wikimedia.org/wiki/File:Women_Putting_Anti-fouling_Paint_on_the_Bottom_of_an_Ml_Leith_Art.IWMART1364.jpg
+- Operations at the Wreck of HMS Vanguard, towing the Foreyard adrift. - ILN-1875-0925-0008.jpg by Unidentified engraver, Public domain, https://commons.wikimedia.org/wiki/File:Operations_at_the_Wreck_of_HMS_Vanguard,_towing_the_Foreyard_adrift._-_ILN-1875-0925-0008.jpg
+- Village scene - Barnacle - geograph.org.uk - 5236593.jpg by Peter Mackenzie, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Village_scene_-_Barnacle_-_geograph.org.uk_-_5236593.jpg
+- Back to Barnacle for Summer evening shots...4X92 Lawley St-Felixstowe FLT 66 526 Driver Steve Dunn.jpg by kitmasterbloke, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Back_to_Barnacle_for_Summer_evening_shots...4X92_Lawley_St-Felixstowe_FLT_66_526_Driver_Steve_Dunn.jpg
+- 613 Osnatol August 2015 Antifoulingaufbau.jpg by MaBaOsna, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:613_Osnatol_August_2015_Antifoulingaufbau.jpg
+- Dias ferry waterline 2.jpg by HelenOnline, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Dias_ferry_waterline_2.jpg
+- Demolished water line.jpg by Asikironalio, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Demolished_water_line.jpg
+- Cargo ship passing at dusk on the Westerschelde, Vlissingen, Netherlands.jpg by Rémi Viau, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cargo_ship_passing_at_dusk_on_the_Westerschelde,_Vlissingen,_Netherlands.jpg
+- Cargo ships at late night sunset Sønderstrand beach Skagen Denmark 01.jpg by Ciara Ní Riain, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cargo_ships_at_late_night_sunset_S%C3%B8nderstrand_beach_Skagen_Denmark_01.jpg
+- Draft Marks (43785166).jpeg by Hugh Nelson, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Draft_Marks_(43785166).jpeg
+- Plimsoll mark.jpg by Niels Johannes, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Plimsoll_mark.jpg
+- SS Sankt Erik, 2021-09-18, 02.jpg by Axel Pettersson, CC BY 4.0, https://commons.wikimedia.org/wiki/File:SS_Sankt_Erik,_2021-09-18,_02.jpg
+- Draft Marks on the Bow of Kruzenshtern Port of Tallinn 16 July 2011.jpg by Pjotr Mahhonin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Draft_Marks_on_the_Bow_of_Kruzenshtern_Port_of_Tallinn_16_July_2011.jpg
+- Draft Marks and Name Sign on the Bow of Kruzenshtern Port of Tallinn 16 July 2011.jpg by Pjotr Mahhonin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Draft_Marks_and_Name_Sign_on_the_Bow_of_Kruzenshtern_Port_of_Tallinn_16_July_2011.jpg
+- 2024-09-11 HAPPINESS BULKER - IMO 9919515 – Port Angeles WA USA.jpg by Gordon Leggett, CC BY 4.0, https://commons.wikimedia.org/wiki/File:2024-09-11_HAPPINESS_BULKER_-_IMO_9919515_%E2%80%93_Port_Angeles_WA_USA.jpg
+- Bulk carrier Darya Ganga at Alcoa Jetty, November 2022 16.jpg by Calistemon, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bulk_carrier_Darya_Ganga_at_Alcoa_Jetty,_November_2022_16.jpg
+- Cleaning a hull in Ullapool Harbour - geograph.org.uk - 4470881.jpg by John Welford, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Cleaning_a_hull_in_Ullapool_Harbour_-_geograph.org.uk_-_4470881.jpg
+- Foul Mdammis, Tunisie.jpg by Habib M'henni, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Foul_Mdammis,_Tunisie.jpg
+- Beach handball foul 01.jpg by Kuebi = Armin Kübelbeck, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Beach_handball_foul_01.jpg
+- US Navy 090721-N-9520G-068 Hull Maintenance Technician 3rd Class Aaron Thomasson, from Little Rock, Ark. assigned to the amphibious assault ship USS Essex (LHD 2), uses a grinder to smooth out a metal lettering project.jpg by U.S. Navy photo by Mass Communication Specialist 2nd Class Nardelito Gervacio, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_090721-N-9520G-068_Hull_Maintenance_Technician_3rd_Class_Aaron_Thomasson,_from_Little_Rock,_Ark._assigned_to_the_amphibious_assault_ship_USS_Essex_(LHD_2),_uses_a_grinder_to_smooth_out_a_metal_lettering_project.jpg
+- US Navy 061110-N-7130B-181 Hull Maintenance Technician Fireman Sam Delaney from Wellington, Colo., uses a grinder to smooth the weld on a freshly fabricated support stand in the weld booth on board USS Ronald Reagan (CVN 76).jpg by U.S. Navy photo by Mass Communication Specialist 2nd Class Aaron Burden, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_061110-N-7130B-181_Hull_Maintenance_Technician_Fireman_Sam_Delaney_from_Wellington,_Colo.,_uses_a_grinder_to_smooth_the_weld_on_a_freshly_fabricated_support_stand_in_the_weld_booth_on_board_USS_Ronald_Reagan_(CVN_76).jpg
+- Nachet collection; two spy glasses, shagreen body, brass. Wellcome M0000244.jpg by unknown, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Nachet_collection;_two_spy_glasses,_shagreen_body,_brass._Wellcome_M0000244.jpg
+- Nachet collection; two spy glasses, shagreen body, brass. Wellcome M0000245.jpg by unknown, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Nachet_collection;_two_spy_glasses,_shagreen_body,_brass._Wellcome_M0000245.jpg
+- A port bow view of the cargo ship SS MORMAC SEA in a floating dry dock at Norfolk Shipbuilding and Dry Dock Corporation. The MORMAC SEA is undergoing conversion and will become a Mi - DPLA - 121eea5aa674ca4e64c81092791515a0.jpeg by Department of Defense. American Forces Information Service. Defense Visual Information Center. 1994, Public domain, https://commons.wikimedia.org/wiki/File:A_port_bow_view_of_the_cargo_ship_SS_MORMAC_SEA_in_a_floating_dry_dock_at_Norfolk_Shipbuilding_and_Dry_Dock_Corporation._The_MORMAC_SEA_is_undergoing_conversion_and_will_become_a_Mi_-_DPLA_-_121eea5aa674ca4e64c81092791515a0.jpeg
+- Sketch of ship in New York sectional dry dock, 1879 (large version).jpg by Charles A. Vanderhoof, Public domain, https://commons.wikimedia.org/wiki/File:Sketch_of_ship_in_New_York_sectional_dry_dock,_1879_(large_version).jpg
+- Kaskelot (ship, 1948) in dry dock having in Gloucester.JPG by Rodw, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Kaskelot_(ship,_1948)_in_dry_dock_having_in_Gloucester.JPG
+- Icebreaker USCG Northwind (WAGB 282) charges the ice pack at top speed, 1956-57 (22046937172).jpg by National Museum of the U.S. Navy, Public domain, https://commons.wikimedia.org/wiki/File:Icebreaker_USCG_Northwind_(WAGB_282)_charges_the_ice_pack_at_top_speed,_1956-57_(22046937172).jpg
+- IMMH William Keltridge ship hull construction drawing.jpg by Damián Morán Dauchez, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:IMMH_William_Keltridge_ship_hull_construction_drawing.jpg
+- US Navy 090621-N-0000X-001 The Robotic Hull Bio-inspired Underwater Grooming tool, or HULL BUG, is being tested by the Office of Naval Research as a hull-cleaning device.jpg by U.S. Navy Photo, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_090621-N-0000X-001_The_Robotic_Hull_Bio-inspired_Underwater_Grooming_tool,_or_HULL_BUG,_is_being_tested_by_the_Office_of_Naval_Research_as_a_hull-cleaning_device.jpg
+- Hull Maritime Museum Nov23 North Side.jpg by Hullian111, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Hull_Maritime_Museum_Nov23_North_Side.jpg
+- Ballast Alfa1.JPG by Ursula Horn, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Ballast_Alfa1.JPG
+- Micro Station d'Epuration Assainissement Semi Collectif 340eh Nimes BioKlar.jpg by Robert de BioKlar, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Micro_Station_d%27Epuration_Assainissement_Semi_Collectif_340eh_Nimes_BioKlar.jpg
+- Rotterdam Ahoy Europort 2011 (13).JPG by S.J. de Waard, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Rotterdam_Ahoy_Europort_2011_(13).JPG
+- Dreissena polymorpha 01.jpg by H. Zell, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Dreissena_polymorpha_01.jpg
+- Dreissena polymorpha 02.jpg by H. Zell, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Dreissena_polymorpha_02.jpg
+- CSIRO ScienceImage 1006 Discharging ballast water.jpg by division, CSIRO, CC BY 3.0, https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_1006_Discharging_ballast_water.jpg
+- CSIRO ScienceImage 1010 Discharging ballast water.jpg by division, CSIRO, CC BY 3.0, https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_1010_Discharging_ballast_water.jpg
+- Container lock----6005【 Pictures taken in Japan 】.jpg by Gazouya-japan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Container_lock----6005%E3%80%90_Pictures_taken_in_Japan_%E3%80%91.jpg
+- Container twistlock connector.agr.jpg by ArnoldReinhold, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Container_twistlock_connector.agr.jpg
+- Container twistlock lever.jpg by Gazouya, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Container_twistlock_lever.jpg
+- Lashing rail in container----6086【 Pictures taken in Japan 】.jpg by Gazouya-japan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lashing_rail_in_container----6086%E3%80%90_Pictures_taken_in_Japan_%E3%80%91.jpg
+- Lashing rail in container----6085【 Pictures taken in Japan 】.jpg by Gazouya-japan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lashing_rail_in_container----6085%E3%80%90_Pictures_taken_in_Japan_%E3%80%91.jpg
+- Conmar Elbe (IMO 9244180) Tilbury 2017.jpg by Niels Johannes, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Conmar_Elbe_(IMO_9244180)_Tilbury_2017.jpg
+- 2021-11-19 Damaged container ship, MV ZIM KINGSTON - IMO 9389693.jpg by Gordon Leggett, CC BY 4.0, https://commons.wikimedia.org/wiki/File:2021-11-19_Damaged_container_ship,_MV_ZIM_KINGSTON_-_IMO_9389693.jpg
+- Cargo ship RUDAN-D, ENI - MMSI, 02324191. 15-07-2024. (actm.) 02.jpg by Agnes Monkelbaan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cargo_ship_RUDAN-D,_ENI_-_MMSI,_02324191._15-07-2024._(actm.)_02.jpg
+- Cargo ship PONTIAC, ENI 02320416, MMSI 244660959. 15-07-2024. (actm.).jpg by Agnes Monkelbaan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cargo_ship_PONTIAC,_ENI_02320416,_MMSI_244660959._15-07-2024._(actm.).jpg
+- Cargo ship RUDAN-D, ENI - MMSI, 02324191. 15-07-2024. (actm.) 01.jpg by Agnes Monkelbaan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cargo_ship_RUDAN-D,_ENI_-_MMSI,_02324191._15-07-2024._(actm.)_01.jpg
+- ARINA HENDRIKA, Cargo ship, ENI 02203863, MMSI 244131479. 15-07-2024. (actm.) 01.jpg by Agnes Monkelbaan, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:ARINA_HENDRIKA,_Cargo_ship,_ENI_02203863,_MMSI_244131479._15-07-2024._(actm.)_01.jpg
+- Cargo ship Esqurude about to pass under IJzerbrugweg, Avelgem and Mont-de-l'Enclus, 2026.jpg by DimiTalen, CC0, https://commons.wikimedia.org/wiki/File:Cargo_ship_Esqurude_about_to_pass_under_IJzerbrugweg,_Avelgem_and_Mont-de-l%27Enclus,_2026.jpg
+- Cargo ship EXPECTO in de Houtribsluizen. 07-03-2022. (d.j.b) 01.jpg by Dominicus Johannes Bergsma, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cargo_ship_EXPECTO_in_de_Houtribsluizen._07-03-2022._(d.j.b)_01.jpg
+- Cargo ships at late night sunset Sønderstrand beach Skagen Denmark 03.jpg by Ciara Ní Riain, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cargo_ships_at_late_night_sunset_S%C3%B8nderstrand_beach_Skagen_Denmark_03.jpg
+- Cargo ships at late night sunset Sønderstrand beach Skagen Denmark 02.jpg by Ciara Ní Riain, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Cargo_ships_at_late_night_sunset_S%C3%B8nderstrand_beach_Skagen_Denmark_02.jpg
+- Cargo ship at dusk (15953825200).jpg by Ian Gratton from Sutton-n-Craven, North Yorkshire, England, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Cargo_ship_at_dusk_(15953825200).jpg
+- Bike and accessibility walkway at Sønderstrand beach Skagen Denmark.jpg by Ciara Ní Riain, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bike_and_accessibility_walkway_at_S%C3%B8nderstrand_beach_Skagen_Denmark.jpg
