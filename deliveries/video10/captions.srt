@@ -1,0 +1,1527 @@
+1
+00:00:00,000 --> 00:00:01,313
+On a cold morning,
+
+2
+00:00:01,313 --> 00:00:03,867
+before takeoff, a truck with a long
+
+3
+00:00:03,867 --> 00:00:06,348
+arm drives up to your airplane and
+
+4
+00:00:06,348 --> 00:00:08,901
+sprays it with a hot orange liquid,
+
+5
+00:00:08,901 --> 00:00:11,528
+and then sometimes with a green one.
+
+6
+00:00:11,708 --> 00:00:13,508
+It looks like a car wash.
+
+7
+00:00:13,688 --> 00:00:15,937
+It is actually one of the most
+
+8
+00:00:15,937 --> 00:00:18,937
+important safety steps in winter flying,
+
+9
+00:00:18,937 --> 00:00:21,711
+because a layer of frost thinner than
+
+10
+00:00:21,711 --> 00:00:24,636
+sandpaper can stop a wing from lifting.
+
+11
+00:00:24,816 --> 00:00:28,631
+Today, ten parts that keep airplanes free
+
+12
+00:00:28,631 --> 00:00:31,608
+of ice, and why each one exists.
+
+13
+00:00:31,958 --> 00:00:34,626
+Ice is one of the oldest enemies
+
+14
+00:00:34,626 --> 00:00:35,626
+of aviation.
+
+15
+00:00:35,806 --> 00:00:38,508
+It changes the shape of the wing,
+
+16
+00:00:38,508 --> 00:00:41,864
+blocks sensors, and adds weight in places
+
+17
+00:00:41,864 --> 00:00:43,910
+where it does not belong.
+
+18
+00:00:44,090 --> 00:00:45,457
+Over the decades,
+
+19
+00:00:45,457 --> 00:00:49,075
+airplanes and airports have collected a whole
+
+20
+00:00:49,075 --> 00:00:51,005
+set of tools against it,
+
+21
+00:00:51,005 --> 00:00:52,533
+some on the ground,
+
+22
+00:00:52,533 --> 00:00:54,865
+some built into the airplane,
+
+23
+00:00:54,865 --> 00:00:57,518
+and many of them were added after
+
+24
+00:00:57,518 --> 00:00:58,161
+a crash.
+
+25
+00:00:58,512 --> 00:01:01,500
+As always, every fact here comes from
+
+26
+00:01:01,500 --> 00:01:02,711
+a named source,
+
+27
+00:01:02,711 --> 00:01:05,618
+the Federal Aviation Administration,
+
+28
+00:01:05,618 --> 00:01:08,929
+accident reports and aviation references,
+
+29
+00:01:08,929 --> 00:01:11,352
+all listed in the description.
+
+30
+00:01:11,532 --> 00:01:13,970
+Let's start with the orange liquid.
+
+31
+00:01:14,320 --> 00:01:17,270
+Why do airports spray airplanes with hot
+
+32
+00:01:17,270 --> 00:01:18,303
+orange liquid?
+
+33
+00:01:18,483 --> 00:01:20,064
+It is de-icing fluid,
+
+34
+00:01:20,064 --> 00:01:22,398
+mostly glycol mixed with water,
+
+35
+00:01:22,398 --> 00:01:25,034
+the same family of chemicals as the
+
+36
+00:01:25,034 --> 00:01:26,540
+antifreeze in a car.
+
+37
+00:01:26,720 --> 00:01:28,135
+It is sprayed hot,
+
+38
+00:01:28,135 --> 00:01:32,222
+between about fifty-five and eighty degrees Celsius,
+
+39
+00:01:32,222 --> 00:01:33,558
+at high pressure.
+
+40
+00:01:33,738 --> 00:01:36,125
+The heat melts the snow and ice,
+
+41
+00:01:36,125 --> 00:01:38,139
+the pressure blasts it off,
+
+42
+00:01:38,139 --> 00:01:40,899
+and the glycol stops it from freezing
+
+43
+00:01:40,899 --> 00:01:42,690
+again for a few minutes.
+
+44
+00:01:43,040 --> 00:01:45,489
+This is called Type one fluid,
+
+45
+00:01:45,489 --> 00:01:48,183
+and it is dyed orange on purpose.
+
+46
+00:01:48,363 --> 00:01:51,471
+Glycol and water are almost invisible on
+
+47
+00:01:51,471 --> 00:01:52,792
+a white airplane,
+
+48
+00:01:52,792 --> 00:01:55,045
+so the color lets the crew on
+
+49
+00:01:55,045 --> 00:01:57,842
+the truck see exactly which parts of
+
+50
+00:01:57,842 --> 00:02:00,174
+the wing and tail are covered,
+
+51
+00:02:00,174 --> 00:02:02,271
+and which they have missed.
+
+52
+00:02:02,451 --> 00:02:05,301
+A big airliner can need hundreds of
+
+53
+00:02:05,301 --> 00:02:08,801
+gallons, often between five hundred and one
+
+54
+00:02:08,801 --> 00:02:09,534
+thousand.
+
+55
+00:02:09,883 --> 00:02:12,333
+Orange fluid has one weakness.
+
+56
+00:02:12,513 --> 00:02:13,376
+It is thin,
+
+57
+00:02:13,376 --> 00:02:16,043
+and it flows off the wing quickly.
+
+58
+00:02:16,223 --> 00:02:18,060
+It cleans the airplane,
+
+59
+00:02:18,060 --> 00:02:20,456
+but it does not protect it for
+
+60
+00:02:20,456 --> 00:02:20,855
+long.
+
+61
+00:02:21,035 --> 00:02:22,815
+If snow keeps falling,
+
+62
+00:02:22,815 --> 00:02:25,243
+the wing can be dirty again in
+
+63
+00:02:25,243 --> 00:02:26,376
+a few minutes.
+
+64
+00:02:26,556 --> 00:02:27,471
+That is why,
+
+65
+00:02:27,471 --> 00:02:28,539
+in heavy snow,
+
+66
+00:02:28,539 --> 00:02:30,141
+a second truck comes,
+
+67
+00:02:30,141 --> 00:02:31,896
+with a different color.
+
+68
+00:02:32,246 --> 00:02:34,851
+Why do some airplanes get sprayed with
+
+69
+00:02:34,851 --> 00:02:37,181
+green liquid after the orange one?
+
+70
+00:02:37,361 --> 00:02:40,855
+Green means Type four anti-icing fluid.
+
+71
+00:02:41,035 --> 00:02:41,945
+It is thick,
+
+72
+00:02:41,945 --> 00:02:42,779
+like a gel,
+
+73
+00:02:42,779 --> 00:02:44,826
+and it stays on the wing as
+
+74
+00:02:44,826 --> 00:02:46,190
+a protective coat.
+
+75
+00:02:46,370 --> 00:02:48,690
+Falling snow lands on it and melts
+
+76
+00:02:48,690 --> 00:02:51,010
+into it instead of freezing to the
+
+77
+00:02:51,010 --> 00:02:51,351
+wing.
+
+78
+00:02:51,531 --> 00:02:53,330
+Depending on the weather,
+
+79
+00:02:53,330 --> 00:02:55,922
+it can protect the airplane for much
+
+80
+00:02:55,922 --> 00:02:58,009
+longer than the orange fluid.
+
+81
+00:02:58,360 --> 00:03:00,552
+The clever part is that the gel
+
+82
+00:03:00,552 --> 00:03:02,816
+is designed to stay on while the
+
+83
+00:03:02,816 --> 00:03:04,726
+airplane is standing still,
+
+84
+00:03:04,726 --> 00:03:07,202
+and to slide off during the takeoff
+
+85
+00:03:07,202 --> 00:03:07,485
+run.
+
+86
+00:03:07,665 --> 00:03:09,817
+As the airplane accelerates,
+
+87
+00:03:09,817 --> 00:03:12,738
+the airflow shears the thick fluid off
+
+88
+00:03:12,738 --> 00:03:14,737
+the wing, so it is gone by
+
+89
+00:03:14,737 --> 00:03:17,197
+the time the wing needs to lift.
+
+90
+00:03:17,377 --> 00:03:20,580
+It is called a pseudoplastic fluid,
+
+91
+00:03:20,580 --> 00:03:22,136
+thick when still,
+
+92
+00:03:22,136 --> 00:03:23,693
+thin when moving.
+
+93
+00:03:24,042 --> 00:03:27,221
+Pilots use tables called holdover times,
+
+94
+00:03:27,221 --> 00:03:30,240
+which say how long each fluid protects
+
+95
+00:03:30,240 --> 00:03:33,180
+the airplane in each kind of weather.
+
+96
+00:03:33,360 --> 00:03:35,193
+For the thin orange fluid,
+
+97
+00:03:35,193 --> 00:03:37,237
+it can be just a few minutes.
+
+98
+00:03:37,417 --> 00:03:39,073
+For the thick green one,
+
+99
+00:03:39,073 --> 00:03:40,937
+it can be more than an hour
+
+100
+00:03:40,937 --> 00:03:42,317
+in light conditions.
+
+101
+00:03:42,497 --> 00:03:45,229
+If the time runs out before takeoff,
+
+102
+00:03:45,229 --> 00:03:47,657
+the airplane must go back and be
+
+103
+00:03:47,657 --> 00:03:48,720
+sprayed again.
+
+104
+00:03:49,069 --> 00:03:51,559
+Why must a wing be perfectly clean
+
+105
+00:03:51,559 --> 00:03:52,657
+before takeoff?
+
+106
+00:03:52,837 --> 00:03:55,675
+Because a wing works only if its
+
+107
+00:03:55,675 --> 00:03:57,005
+shape is exact.
+
+108
+00:03:57,185 --> 00:03:59,495
+Even a thin layer of frost or
+
+109
+00:03:59,495 --> 00:04:02,123
+snow makes the top surface rough,
+
+110
+00:04:02,123 --> 00:04:05,310
+the air separates from the wing earlier,
+
+111
+00:04:05,310 --> 00:04:07,858
+and the wing makes less lift and
+
+112
+00:04:07,858 --> 00:04:09,770
+stalls at a lower angle.
+
+113
+00:04:09,950 --> 00:04:12,814
+The rule is called the clean aircraft
+
+114
+00:04:12,814 --> 00:04:13,433
+concept.
+
+115
+00:04:13,613 --> 00:04:16,374
+No frost, ice or snow on the
+
+116
+00:04:16,374 --> 00:04:19,824
+wings, tail or controls at takeoff.
+
+117
+00:04:20,174 --> 00:04:24,087
+On the thirteenth of January nineteen eighty-two,
+
+118
+00:04:24,087 --> 00:04:27,201
+Air Florida flight ninety took off from
+
+119
+00:04:27,201 --> 00:04:30,635
+Washington National Airport in a snowstorm.
+
+120
+00:04:30,815 --> 00:04:32,465
+It had been de-iced,
+
+121
+00:04:32,465 --> 00:04:34,775
+but it waited a long time in
+
+122
+00:04:34,775 --> 00:04:37,332
+line, and snow and ice built up
+
+123
+00:04:37,332 --> 00:04:37,827
+again.
+
+124
+00:04:38,007 --> 00:04:40,057
+The crew also did not turn on
+
+125
+00:04:40,057 --> 00:04:42,106
+the engines' anti-ice system.
+
+126
+00:04:42,286 --> 00:04:44,578
+The airplane barely climbed,
+
+127
+00:04:44,578 --> 00:04:45,642
+hit a bridge,
+
+128
+00:04:45,642 --> 00:04:48,834
+and fell into the frozen Potomac River.
+
+129
+00:04:49,014 --> 00:04:51,011
+Seventy-eight people died.
+
+130
+00:04:51,360 --> 00:04:55,052
+That crash and others changed winter flying.
+
+131
+00:04:55,232 --> 00:04:59,362
+Holdover times, better fluids and stricter checks
+
+132
+00:04:59,362 --> 00:05:01,722
+before takeoff all followed.
+
+133
+00:05:01,902 --> 00:05:04,794
+Today, if pilots have any doubt about
+
+134
+00:05:04,794 --> 00:05:07,529
+the wings, they go back for another
+
+135
+00:05:07,529 --> 00:05:07,998
+spray.
+
+136
+00:05:08,178 --> 00:05:10,523
+Being late is always better than taking
+
+137
+00:05:10,523 --> 00:05:11,846
+off with a dirty wing.
+
+138
+00:05:12,196 --> 00:05:14,621
+Why do many big airports have a
+
+139
+00:05:14,621 --> 00:05:17,593
+special parking area right next to the
+
+140
+00:05:17,593 --> 00:05:18,141
+runway?
+
+141
+00:05:18,321 --> 00:05:20,271
+It is the de-icing pad.
+
+142
+00:05:20,451 --> 00:05:23,470
+Instead of spraying the airplane at the
+
+143
+00:05:23,470 --> 00:05:26,643
+gate and then taxiing for twenty minutes,
+
+144
+00:05:26,643 --> 00:05:30,049
+the airplane is sprayed just before takeoff,
+
+145
+00:05:30,049 --> 00:05:33,067
+so the protection lasts until it leaves
+
+146
+00:05:33,067 --> 00:05:33,919
+the ground.
+
+147
+00:05:34,099 --> 00:05:36,796
+Several airplanes can be treated at the
+
+148
+00:05:36,796 --> 00:05:39,010
+same time, like a drive through.
+
+149
+00:05:39,359 --> 00:05:41,854
+The pads are also built for the
+
+150
+00:05:41,854 --> 00:05:42,819
+environment.
+
+151
+00:05:42,999 --> 00:05:45,734
+The used fluid is full of glycol,
+
+152
+00:05:45,734 --> 00:05:48,468
+and when it breaks down in rivers
+
+153
+00:05:48,468 --> 00:05:51,203
+and lakes, it uses up oxygen that
+
+154
+00:05:51,203 --> 00:05:52,032
+fish need.
+
+155
+00:05:52,212 --> 00:05:54,864
+So the pads have special drains,
+
+156
+00:05:54,864 --> 00:05:58,511
+and some airports use glycol recovery trucks
+
+157
+00:05:58,511 --> 00:06:01,246
+that vacuum up the used fluid and
+
+158
+00:06:01,246 --> 00:06:01,744
+slush.
+
+159
+00:06:01,924 --> 00:06:04,118
+Some of it can even be recycled.
+
+160
+00:06:04,467 --> 00:06:05,359
+At the pad,
+
+161
+00:06:05,359 --> 00:06:08,113
+the crew stays in contact by radio
+
+162
+00:06:08,113 --> 00:06:09,976
+with the de-icing team,
+
+163
+00:06:09,976 --> 00:06:12,730
+who tell them which fluid was used
+
+164
+00:06:12,730 --> 00:06:15,160
+and when the spraying started.
+
+165
+00:06:15,340 --> 00:06:18,129
+That start time is when the holdover
+
+166
+00:06:18,129 --> 00:06:19,137
+clock begins.
+
+167
+00:06:19,317 --> 00:06:20,568
+From that moment,
+
+168
+00:06:20,568 --> 00:06:23,293
+the pilots know exactly how much time
+
+169
+00:06:23,293 --> 00:06:24,913
+they have to take off.
+
+170
+00:06:25,262 --> 00:06:27,037
+Why are the front edges of an
+
+171
+00:06:27,037 --> 00:06:29,117
+airliner's wings heated in flight?
+
+172
+00:06:29,297 --> 00:06:32,626
+Because flying through clouds below freezing can
+
+173
+00:06:32,626 --> 00:06:34,706
+build ice on the leading edge,
+
+174
+00:06:34,706 --> 00:06:36,994
+the part that hits the air first.
+
+175
+00:06:37,174 --> 00:06:38,194
+On many jets,
+
+176
+00:06:38,194 --> 00:06:40,860
+hot air is taken from the engines,
+
+177
+00:06:40,860 --> 00:06:42,193
+called bleed air,
+
+178
+00:06:42,193 --> 00:06:44,937
+and piped through the inside of the
+
+179
+00:06:44,937 --> 00:06:47,995
+leading edge, so ice cannot form there.
+
+180
+00:06:48,344 --> 00:06:50,852
+Ice in flight is different from snow
+
+181
+00:06:50,852 --> 00:06:51,827
+on the ground.
+
+182
+00:06:52,007 --> 00:06:54,968
+Clouds can contain supercooled water,
+
+183
+00:06:54,968 --> 00:06:58,649
+tiny droplets still liquid below zero degrees,
+
+184
+00:06:58,649 --> 00:07:01,690
+that freeze the instant they touch the
+
+185
+00:07:01,690 --> 00:07:02,410
+airplane.
+
+186
+00:07:02,590 --> 00:07:04,977
+The leading edge collects most of them,
+
+187
+00:07:04,977 --> 00:07:06,874
+so that is where the heat goes.
+
+188
+00:07:07,054 --> 00:07:10,380
+Newer airplanes like the Boeing seven eight
+
+189
+00:07:10,380 --> 00:07:13,630
+seven use electric heating mats instead of
+
+190
+00:07:13,630 --> 00:07:14,403
+bleed air.
+
+191
+00:07:14,753 --> 00:07:17,555
+The pilots turn the wing anti-ice on
+
+192
+00:07:17,555 --> 00:07:20,202
+when they fly in icing conditions,
+
+193
+00:07:20,202 --> 00:07:23,237
+and many airplanes have an ice detector
+
+194
+00:07:23,237 --> 00:07:24,483
+that warns them.
+
+195
+00:07:24,663 --> 00:07:26,832
+Heating a wing uses energy,
+
+196
+00:07:26,832 --> 00:07:29,001
+so the system is not on all
+
+197
+00:07:29,001 --> 00:07:29,725
+the time.
+
+198
+00:07:29,905 --> 00:07:31,843
+It is a tool for the moments
+
+199
+00:07:31,843 --> 00:07:33,850
+when the air is full of water
+
+200
+00:07:33,850 --> 00:07:35,303
+that wants to freeze.
+
+201
+00:07:35,653 --> 00:07:37,422
+Why is the front lip of a
+
+202
+00:07:37,422 --> 00:07:38,695
+jet engine heated?
+
+203
+00:07:38,875 --> 00:07:41,309
+Because ice on the inlet can break
+
+204
+00:07:41,309 --> 00:07:43,814
+off and be swallowed by the engine,
+
+205
+00:07:43,814 --> 00:07:45,532
+damaging the fan blades,
+
+206
+00:07:45,532 --> 00:07:48,109
+and ice can also disturb the airflow
+
+207
+00:07:48,109 --> 00:07:49,255
+into the engine.
+
+208
+00:07:49,435 --> 00:07:51,855
+Hot air from the engine itself is
+
+209
+00:07:51,855 --> 00:07:54,203
+piped into the lip of the inlet,
+
+210
+00:07:54,203 --> 00:07:56,110
+keeping it above freezing.
+
+211
+00:07:56,460 --> 00:07:58,836
+That system was part of the Air
+
+212
+00:07:58,836 --> 00:07:59,909
+Florida story.
+
+213
+00:08:00,089 --> 00:08:03,355
+Investigators found that the crew did not
+
+214
+00:08:03,355 --> 00:08:05,267
+turn on engine anti-ice.
+
+215
+00:08:05,447 --> 00:08:07,798
+Ice blocked a pressure probe in the
+
+216
+00:08:07,798 --> 00:08:09,746
+engines that measures thrust,
+
+217
+00:08:09,746 --> 00:08:12,501
+so the instruments showed more power than
+
+218
+00:08:12,501 --> 00:08:14,584
+the engines were really making.
+
+219
+00:08:14,764 --> 00:08:17,047
+The pilots took off with less thrust
+
+220
+00:08:17,047 --> 00:08:18,189
+than they thought.
+
+221
+00:08:18,538 --> 00:08:22,709
+Today, engine anti-ice is on many checklists
+
+222
+00:08:22,709 --> 00:08:25,458
+for taxi and takeoff in cold,
+
+223
+00:08:25,458 --> 00:08:26,596
+wet weather.
+
+224
+00:08:26,776 --> 00:08:29,623
+A small switch on the overhead panel,
+
+225
+00:08:29,623 --> 00:08:31,778
+a little hot air sent to the
+
+226
+00:08:31,778 --> 00:08:34,780
+right place, and the engine can breathe
+
+227
+00:08:34,780 --> 00:08:36,319
+through a snowstorm.
+
+228
+00:08:36,669 --> 00:08:39,378
+Why do many propeller airplanes have black
+
+229
+00:08:39,378 --> 00:08:41,635
+rubber strips on the front of their
+
+230
+00:08:41,635 --> 00:08:42,022
+wings?
+
+231
+00:08:42,202 --> 00:08:43,769
+They are de-icing boots.
+
+232
+00:08:43,949 --> 00:08:45,457
+When ice builds up,
+
+233
+00:08:45,457 --> 00:08:48,235
+air is pumped into tubes inside the
+
+234
+00:08:48,235 --> 00:08:50,298
+rubber, the boots inflate,
+
+235
+00:08:50,298 --> 00:08:52,759
+and the ice cracks and is blown
+
+236
+00:08:52,759 --> 00:08:54,108
+away by the wind.
+
+237
+00:08:54,288 --> 00:08:56,041
+Then they deflate again.
+
+238
+00:08:56,221 --> 00:08:59,141
+Smaller airplanes use them because they do
+
+239
+00:08:59,141 --> 00:09:01,366
+not have much hot air from their
+
+240
+00:09:01,366 --> 00:09:02,548
+engines to spare.
+
+241
+00:09:02,898 --> 00:09:05,360
+Boots remove ice after it forms,
+
+242
+00:09:05,360 --> 00:09:07,975
+so they only protect the area they
+
+243
+00:09:07,975 --> 00:09:08,436
+cover.
+
+244
+00:09:08,616 --> 00:09:12,929
+On the thirty-first of October nineteen ninety-four,
+
+245
+00:09:12,929 --> 00:09:16,412
+American Eagle flight four one eight four,
+
+246
+00:09:16,412 --> 00:09:17,987
+an ATR seventy-two,
+
+247
+00:09:17,987 --> 00:09:20,143
+was holding near Roselawn,
+
+248
+00:09:20,143 --> 00:09:22,548
+Indiana, in freezing drizzle.
+
+249
+00:09:22,728 --> 00:09:25,122
+Large drops froze into a ridge of
+
+250
+00:09:25,122 --> 00:09:26,645
+ice behind the boots,
+
+251
+00:09:26,645 --> 00:09:28,603
+where they could not reach.
+
+252
+00:09:28,783 --> 00:09:31,466
+The airplane rolled out of control and
+
+253
+00:09:31,466 --> 00:09:34,925
+crashed, killing all sixty-eight people on board.
+
+254
+00:09:35,274 --> 00:09:38,356
+After Roselawn, the rules for flying in
+
+255
+00:09:38,356 --> 00:09:42,148
+freezing drizzle and large drops were rewritten,
+
+256
+00:09:42,148 --> 00:09:45,309
+and pilots were trained to recognize the
+
+257
+00:09:45,309 --> 00:09:47,047
+signs of severe icing.
+
+258
+00:09:47,227 --> 00:09:48,922
+The boots did their job.
+
+259
+00:09:49,102 --> 00:09:50,831
+The problem was ice in a place
+
+260
+00:09:50,831 --> 00:09:52,330
+the boots could not reach.
+
+261
+00:09:52,510 --> 00:09:56,709
+In aviation, protection ends exactly where the
+
+262
+00:09:56,709 --> 00:09:58,535
+protected area ends.
+
+263
+00:09:58,885 --> 00:10:00,919
+Why are the small tubes on an
+
+264
+00:10:00,919 --> 00:10:02,531
+airplane's nose heated?
+
+265
+00:10:02,711 --> 00:10:04,252
+They are pitot tubes,
+
+266
+00:10:04,252 --> 00:10:06,159
+and they measure airspeed.
+
+267
+00:10:06,339 --> 00:10:08,125
+Air rams into the hole at the
+
+268
+00:10:08,125 --> 00:10:10,713
+front, and the pressure tells the airplane
+
+269
+00:10:10,713 --> 00:10:12,745
+how fast it is moving through the
+
+270
+00:10:12,745 --> 00:10:12,992
+air.
+
+271
+00:10:13,172 --> 00:10:15,092
+If ice blocks the hole,
+
+272
+00:10:15,092 --> 00:10:18,013
+the airspeed reading becomes wrong.
+
+273
+00:10:18,193 --> 00:10:20,845
+So the tubes are heated electrically,
+
+274
+00:10:20,845 --> 00:10:23,426
+sometimes so hot you could burn your
+
+275
+00:10:23,426 --> 00:10:24,787
+hand on the ground.
+
+276
+00:10:25,137 --> 00:10:27,478
+On the first of June two thousand
+
+277
+00:10:27,478 --> 00:10:30,244
+nine, Air France flight four four seven
+
+278
+00:10:30,244 --> 00:10:32,940
+flew through a storm over the Atlantic
+
+279
+00:10:32,940 --> 00:10:33,578
+at night.
+
+280
+00:10:33,758 --> 00:10:36,560
+Ice crystals blocked the pitot tubes for
+
+281
+00:10:36,560 --> 00:10:37,891
+less than a minute.
+
+282
+00:10:38,071 --> 00:10:40,257
+The autopilot disconnected,
+
+283
+00:10:40,257 --> 00:10:43,010
+the crew was confused by the wrong
+
+284
+00:10:43,010 --> 00:10:46,330
+speeds, and the airplane stalled and fell
+
+285
+00:10:46,330 --> 00:10:47,545
+into the ocean.
+
+286
+00:10:47,725 --> 00:10:50,209
+Two hundred twenty-eight people died.
+
+287
+00:10:50,389 --> 00:10:52,764
+The tubes on that type of airplane
+
+288
+00:10:52,764 --> 00:10:55,068
+were replaced after the accident.
+
+289
+00:10:55,418 --> 00:10:58,354
+Airplanes have several pitot tubes,
+
+290
+00:10:58,354 --> 00:11:01,289
+so the systems can compare them and
+
+291
+00:11:01,289 --> 00:11:02,547
+spot a bad one.
+
+292
+00:11:02,727 --> 00:11:03,796
+On the ground,
+
+293
+00:11:03,796 --> 00:11:06,697
+they are often covered with red covers
+
+294
+00:11:06,697 --> 00:11:08,988
+that say remove before flight,
+
+295
+00:11:08,988 --> 00:11:11,202
+to keep insects and dirt out.
+
+296
+00:11:11,382 --> 00:11:13,295
+A tiny tube on the nose,
+
+297
+00:11:13,295 --> 00:11:16,084
+and a whole airliner depends on it.
+
+298
+00:11:16,434 --> 00:11:18,150
+Why is there a light on the
+
+299
+00:11:18,150 --> 00:11:20,310
+side of an airplane that shines on
+
+300
+00:11:20,310 --> 00:11:21,137
+its own wing?
+
+301
+00:11:21,317 --> 00:11:23,639
+It is the wing inspection light.
+
+302
+00:11:23,819 --> 00:11:26,358
+At night, the pilots and the cabin
+
+303
+00:11:26,358 --> 00:11:28,524
+crew can switch it on to look
+
+304
+00:11:28,524 --> 00:11:30,839
+at the leading edge of the wing
+
+305
+00:11:30,839 --> 00:11:32,034
+and the engines,
+
+306
+00:11:32,034 --> 00:11:33,304
+to check for ice.
+
+307
+00:11:33,484 --> 00:11:35,013
+Without it, at night,
+
+308
+00:11:35,013 --> 00:11:37,999
+nobody could see whether ice was building
+
+309
+00:11:37,999 --> 00:11:39,091
+up on the wing.
+
+310
+00:11:39,441 --> 00:11:40,893
+It sounds simple,
+
+311
+00:11:40,893 --> 00:11:42,089
+because it is.
+
+312
+00:11:42,269 --> 00:11:44,736
+Even with sensors and heaters,
+
+313
+00:11:44,736 --> 00:11:47,121
+aviation likes a human check.
+
+314
+00:11:47,301 --> 00:11:49,124
+Before takeoff in winter,
+
+315
+00:11:49,124 --> 00:11:51,530
+crews often look at the wing from
+
+316
+00:11:51,530 --> 00:11:52,259
+the cabin.
+
+317
+00:11:52,439 --> 00:11:54,686
+If a passenger sees snow on the
+
+318
+00:11:54,686 --> 00:11:56,136
+wing after de-icing,
+
+319
+00:11:56,136 --> 00:11:57,803
+the crew wants to know.
+
+320
+00:11:57,983 --> 00:12:00,199
+A light and a pair of eyes
+
+321
+00:12:00,199 --> 00:12:01,988
+can stop an accident.
+
+322
+00:12:02,338 --> 00:12:05,642
+Many passengers notice this light at night
+
+323
+00:12:05,642 --> 00:12:07,923
+and think something is wrong.
+
+324
+00:12:08,103 --> 00:12:10,423
+It is just the airplane looking at
+
+325
+00:12:10,423 --> 00:12:10,901
+itself.
+
+326
+00:12:11,081 --> 00:12:12,663
+It is one of the few parts
+
+327
+00:12:12,663 --> 00:12:14,731
+on this list that you can actually
+
+328
+00:12:14,731 --> 00:12:15,887
+see from your seat.
+
+329
+00:12:16,237 --> 00:12:18,170
+How does an airplane know it is
+
+330
+00:12:18,170 --> 00:12:19,105
+collecting ice?
+
+331
+00:12:19,285 --> 00:12:22,217
+Many airliners have a small probe sticking
+
+332
+00:12:22,217 --> 00:12:23,683
+out into the airflow,
+
+333
+00:12:23,683 --> 00:12:24,870
+the ice detector.
+
+334
+00:12:25,050 --> 00:12:28,247
+Inside, a little rod vibrates at a
+
+335
+00:12:28,247 --> 00:12:29,752
+fixed frequency.
+
+336
+00:12:29,932 --> 00:12:31,926
+When ice builds up on it,
+
+337
+00:12:31,926 --> 00:12:34,958
+the extra weight makes it vibrate more
+
+338
+00:12:34,958 --> 00:12:35,516
+slowly.
+
+339
+00:12:35,696 --> 00:12:38,138
+The system notices the change,
+
+340
+00:12:38,138 --> 00:12:39,521
+warns the pilots,
+
+341
+00:12:39,521 --> 00:12:42,777
+and on some airplanes turns the anti-ice
+
+342
+00:12:42,777 --> 00:12:43,835
+on by itself.
+
+343
+00:12:44,184 --> 00:12:45,858
+After each detection,
+
+344
+00:12:45,858 --> 00:12:48,567
+the probe heats itself to melt its
+
+345
+00:12:48,567 --> 00:12:51,754
+own ice, and then starts counting again.
+
+346
+00:12:51,934 --> 00:12:54,088
+That way it can keep telling the
+
+347
+00:12:54,088 --> 00:12:56,174
+crew if they are still in icing
+
+348
+00:12:56,174 --> 00:12:56,915
+conditions.
+
+349
+00:12:57,095 --> 00:12:58,571
+It is a tiny scale,
+
+350
+00:12:58,571 --> 00:13:00,591
+weighing ice in real time,
+
+351
+00:13:00,591 --> 00:13:03,699
+hundreds of times faster than any person
+
+352
+00:13:03,699 --> 00:13:04,165
+could.
+
+353
+00:13:04,515 --> 00:13:06,998
+From the orange truck at the gate
+
+354
+00:13:06,998 --> 00:13:09,631
+to the vibrating probe on the nose,
+
+355
+00:13:09,631 --> 00:13:11,888
+all ten parts do the same job.
+
+356
+00:13:12,068 --> 00:13:15,124
+They keep the airplane exactly the shape
+
+357
+00:13:15,124 --> 00:13:16,805
+it was designed to be.
+
+358
+00:13:16,985 --> 00:13:19,633
+Because a wing does not care how
+
+359
+00:13:19,633 --> 00:13:22,116
+big or modern the airplane is.
+
+360
+00:13:22,296 --> 00:13:23,422
+With ice on it,
+
+361
+00:13:23,422 --> 00:13:25,222
+it is just a worse wing.
+
+362
+00:13:25,571 --> 00:13:27,081
+So here are the ten.
+
+363
+00:13:27,261 --> 00:13:29,667
+Orange fluid that cleans,
+
+364
+00:13:29,667 --> 00:13:32,555
+and green fluid that protects.
+
+365
+00:13:32,735 --> 00:13:35,125
+A clean wing rule written by a
+
+366
+00:13:35,125 --> 00:13:37,675
+crash, and a special pad next to
+
+367
+00:13:37,675 --> 00:13:38,552
+the runway.
+
+368
+00:13:38,732 --> 00:13:39,935
+Hot wing edges,
+
+369
+00:13:39,935 --> 00:13:41,219
+hot engine lips,
+
+370
+00:13:41,219 --> 00:13:43,788
+rubber boots that break the ice,
+
+371
+00:13:43,788 --> 00:13:45,874
+heated tubes for airspeed,
+
+372
+00:13:45,874 --> 00:13:48,442
+a light that shines on the wing,
+
+373
+00:13:48,442 --> 00:13:50,850
+and a probe that weighs ice as
+
+374
+00:13:50,850 --> 00:13:51,572
+it forms.
+
+375
+00:13:51,922 --> 00:13:53,977
+Next time you sit through de-icing,
+
+376
+00:13:53,977 --> 00:13:55,678
+you will know why it is worth
+
+377
+00:13:55,678 --> 00:13:56,207
+the wait.
+
+378
+00:13:56,387 --> 00:13:59,441
+If you want more machines explained part
+
+379
+00:13:59,441 --> 00:14:02,342
+by part, subscribe to Machine Reverse.
+
+380
+00:14:02,522 --> 00:14:04,460
+And tell us in the comments which
+
+381
+00:14:04,460 --> 00:14:06,397
+machine you want us to take apart
+
+382
+00:14:06,397 --> 00:14:06,690
+next.
