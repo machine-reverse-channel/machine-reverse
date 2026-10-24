@@ -1,0 +1,1299 @@
+1
+00:00:00,000 --> 00:00:02,471
+Look at almost any big cargo ship
+
+2
+00:00:02,471 --> 00:00:04,644
+in port, and you will see the
+
+3
+00:00:04,644 --> 00:00:05,468
+same thing.
+
+4
+00:00:05,648 --> 00:00:07,501
+Black or blue on top,
+
+5
+00:00:07,501 --> 00:00:09,620
+and a band of red below,
+
+6
+00:00:09,620 --> 00:00:11,650
+right down to the keel.
+
+7
+00:00:11,830 --> 00:00:14,108
+Container ships, tankers,
+
+8
+00:00:14,108 --> 00:00:17,206
+bulk carriers, all red underneath.
+
+9
+00:00:17,386 --> 00:00:18,825
+It is not a fashion.
+
+10
+00:00:19,005 --> 00:00:20,837
+That red is a weapon,
+
+11
+00:00:20,837 --> 00:00:23,802
+in a war against tiny animals that
+
+12
+00:00:23,802 --> 00:00:25,983
+has lasted for centuries.
+
+13
+00:00:26,163 --> 00:00:29,370
+Today, ten parts of a cargo ship's
+
+14
+00:00:29,370 --> 00:00:32,200
+hull, and why each one exists.
+
+15
+00:00:32,550 --> 00:00:34,563
+The ocean is full of life,
+
+16
+00:00:34,563 --> 00:00:36,732
+and much of it wants to live
+
+17
+00:00:36,732 --> 00:00:37,507
+on a ship.
+
+18
+00:00:37,687 --> 00:00:41,392
+Barnacles, mussels, weed and slime all grow
+
+19
+00:00:41,392 --> 00:00:44,235
+on any surface left in the water.
+
+20
+00:00:44,415 --> 00:00:45,174
+On a ship,
+
+21
+00:00:45,174 --> 00:00:47,453
+that growth is called fouling,
+
+22
+00:00:47,453 --> 00:00:49,352
+and it is one of the most
+
+23
+00:00:49,352 --> 00:00:51,706
+expensive problems in shipping.
+
+24
+00:00:52,056 --> 00:00:55,083
+As always, every fact here comes from
+
+25
+00:00:55,083 --> 00:00:56,310
+a named source,
+
+26
+00:00:56,310 --> 00:00:59,910
+maritime organisations and naval references,
+
+27
+00:00:59,910 --> 00:01:02,365
+all listed in the description.
+
+28
+00:01:02,545 --> 00:01:03,904
+Let's start with the red.
+
+29
+00:01:04,254 --> 00:01:06,820
+Why are cargo ships red below the
+
+30
+00:01:06,820 --> 00:01:07,597
+waterline?
+
+31
+00:01:07,777 --> 00:01:10,450
+Because of the paint that keeps sea
+
+32
+00:01:10,450 --> 00:01:11,214
+life away.
+
+33
+00:01:11,394 --> 00:01:13,843
+It is called antifouling paint.
+
+34
+00:01:14,023 --> 00:01:15,319
+For a long time,
+
+35
+00:01:15,319 --> 00:01:18,881
+the most common ingredient was copper oxide,
+
+36
+00:01:18,881 --> 00:01:21,958
+a copper compound that is poisonous to
+
+37
+00:01:21,958 --> 00:01:24,386
+barnacles and other creatures,
+
+38
+00:01:24,386 --> 00:01:26,167
+and naturally reddish.
+
+39
+00:01:26,518 --> 00:01:29,614
+The paint slowly releases tiny amounts of
+
+40
+00:01:29,614 --> 00:01:32,258
+copper into the water right next to
+
+41
+00:01:32,258 --> 00:01:32,938
+the hull.
+
+42
+00:01:33,118 --> 00:01:36,110
+Young barnacles and other larvae that try
+
+43
+00:01:36,110 --> 00:01:38,664
+to settle on the surface are killed
+
+44
+00:01:38,664 --> 00:01:39,759
+or driven away.
+
+45
+00:01:39,939 --> 00:01:42,687
+Many modern paints work in a self
+
+46
+00:01:42,687 --> 00:01:46,019
+polishing way, slowly wearing off as the
+
+47
+00:01:46,019 --> 00:01:49,517
+ship moves, always exposing a fresh layer.
+
+48
+00:01:49,866 --> 00:01:53,164
+Today, antifouling paint can be made in
+
+49
+00:01:53,164 --> 00:01:56,545
+many colours, and some ships are painted
+
+50
+00:01:56,545 --> 00:01:59,166
+black, blue or grey underneath.
+
+51
+00:01:59,346 --> 00:02:01,395
+But red stayed the tradition,
+
+52
+00:02:01,395 --> 00:02:03,444
+partly because of the copper,
+
+53
+00:02:03,444 --> 00:02:05,917
+and partly because it makes it easy
+
+54
+00:02:05,917 --> 00:02:08,390
+to see where the antifouling stops.
+
+55
+00:02:08,570 --> 00:02:11,162
+Red below, other colours above,
+
+56
+00:02:11,162 --> 00:02:14,004
+has become the uniform of the sea.
+
+57
+00:02:14,353 --> 00:02:17,124
+Why did old wooden warships have bottoms
+
+58
+00:02:17,124 --> 00:02:18,371
+covered in copper?
+
+59
+00:02:18,551 --> 00:02:20,857
+To protect them from a small creature
+
+60
+00:02:20,857 --> 00:02:22,103
+called the shipworm.
+
+61
+00:02:22,283 --> 00:02:24,282
+It is actually a kind of clam
+
+62
+00:02:24,282 --> 00:02:25,729
+that bores into wood,
+
+63
+00:02:25,729 --> 00:02:28,347
+eating tunnels through the planks of a
+
+64
+00:02:28,347 --> 00:02:28,692
+ship.
+
+65
+00:02:28,872 --> 00:02:31,264
+A wooden hull could be eaten from
+
+66
+00:02:31,264 --> 00:02:33,366
+inside in just a few years in
+
+67
+00:02:33,366 --> 00:02:34,236
+warm waters.
+
+68
+00:02:34,585 --> 00:02:36,455
+In the seventeen sixties,
+
+69
+00:02:36,455 --> 00:02:39,297
+the Royal Navy tried covering a ship's
+
+70
+00:02:39,297 --> 00:02:41,691
+hull with thin sheets of copper.
+
+71
+00:02:41,871 --> 00:02:42,649
+It worked.
+
+72
+00:02:42,829 --> 00:02:46,156
+The copper stopped the shipworm and also
+
+73
+00:02:46,156 --> 00:02:48,568
+kept weed and barnacles away,
+
+74
+00:02:48,568 --> 00:02:51,397
+so ships stayed faster for longer.
+
+75
+00:02:51,577 --> 00:02:53,390
+Within a couple of decades,
+
+76
+00:02:53,390 --> 00:02:55,942
+much of the fleet was copper bottomed.
+
+77
+00:02:56,292 --> 00:02:59,406
+Copper bottomed ships could stay at sea
+
+78
+00:02:59,406 --> 00:03:02,759
+longer and sail faster than their enemies,
+
+79
+00:03:02,759 --> 00:03:04,675
+a real advantage in war.
+
+80
+00:03:04,855 --> 00:03:07,855
+That is where the English expression copper
+
+81
+00:03:07,855 --> 00:03:09,251
+bottomed comes from,
+
+82
+00:03:09,251 --> 00:03:11,763
+meaning something safe and reliable.
+
+83
+00:03:11,943 --> 00:03:14,273
+The red paint on modern ships is
+
+84
+00:03:14,273 --> 00:03:17,550
+the direct descendant of those copper sheets.
+
+85
+00:03:17,900 --> 00:03:20,180
+Why was one of the most effective
+
+86
+00:03:20,180 --> 00:03:22,873
+ship paints ever made banned around the
+
+87
+00:03:22,873 --> 00:03:23,287
+world?
+
+88
+00:03:23,467 --> 00:03:27,577
+It contained a chemical called tributyltin,
+
+89
+00:03:27,577 --> 00:03:28,437
+or T B T.
+
+90
+00:03:28,617 --> 00:03:30,651
+From the nineteen sixties,
+
+91
+00:03:30,651 --> 00:03:33,232
+it was used in antifouling paint,
+
+92
+00:03:33,232 --> 00:03:35,501
+and it worked extremely well.
+
+93
+00:03:35,681 --> 00:03:38,050
+Hulls stayed clean for years.
+
+94
+00:03:38,399 --> 00:03:40,201
+But T B T did not only
+
+95
+00:03:40,201 --> 00:03:41,430
+kill barnacles.
+
+96
+00:03:41,610 --> 00:03:44,586
+It leaked into harbours and coastal waters
+
+97
+00:03:44,586 --> 00:03:46,712
+and harmed a wide range of sea
+
+98
+00:03:46,712 --> 00:03:47,066
+life.
+
+99
+00:03:47,246 --> 00:03:49,784
+Oyster farms in France collapsed,
+
+100
+00:03:49,784 --> 00:03:51,399
+with deformed shells,
+
+101
+00:03:51,399 --> 00:03:55,013
+and some sea snails developed abnormal changes.
+
+102
+00:03:55,193 --> 00:03:57,575
+The chemical was found to be one
+
+103
+00:03:57,575 --> 00:04:00,999
+of the most toxic substances ever deliberately
+
+104
+00:04:00,999 --> 00:04:02,264
+put into the sea.
+
+105
+00:04:02,613 --> 00:04:05,480
+France began restricting it in the early
+
+106
+00:04:05,480 --> 00:04:06,770
+nineteen eighties.
+
+107
+00:04:06,950 --> 00:04:10,915
+The International Maritime Organization later agreed a
+
+108
+00:04:10,915 --> 00:04:13,705
+global ban, which fully took effect in
+
+109
+00:04:13,705 --> 00:04:15,100
+two thousand eight.
+
+110
+00:04:15,280 --> 00:04:18,226
+Ships had to switch to other paints,
+
+111
+00:04:18,226 --> 00:04:20,435
+many based on copper again.
+
+112
+00:04:20,615 --> 00:04:23,377
+A perfect solution for ships turned out
+
+113
+00:04:23,377 --> 00:04:25,572
+to be a disaster for the ocean.
+
+114
+00:04:25,922 --> 00:04:28,604
+Why are tiny barnacles such a big
+
+115
+00:04:28,604 --> 00:04:30,555
+problem for giant ships?
+
+116
+00:04:30,735 --> 00:04:32,987
+Because they make the hull rough.
+
+117
+00:04:33,167 --> 00:04:36,511
+A smooth hull slides through the water.
+
+118
+00:04:36,691 --> 00:04:38,990
+A hull covered in barnacles,
+
+119
+00:04:38,990 --> 00:04:41,782
+weed and slime drags a thick layer
+
+120
+00:04:41,782 --> 00:04:43,178
+of water with it,
+
+121
+00:04:43,178 --> 00:04:45,642
+and that friction costs power.
+
+122
+00:04:45,992 --> 00:04:48,852
+Heavy fouling can increase the fuel a
+
+123
+00:04:48,852 --> 00:04:51,171
+ship burns by tens of percent.
+
+124
+00:04:51,351 --> 00:04:52,708
+For a large ship,
+
+125
+00:04:52,708 --> 00:04:55,582
+that can mean thousands of tonnes of
+
+126
+00:04:55,582 --> 00:04:57,178
+extra fuel per year,
+
+127
+00:04:57,178 --> 00:04:59,094
+and much more pollution.
+
+128
+00:04:59,274 --> 00:05:02,353
+Navies have studied this for decades,
+
+129
+00:05:02,353 --> 00:05:05,515
+because a fouled warship is slower and
+
+130
+00:05:05,515 --> 00:05:06,763
+has less range.
+
+131
+00:05:07,112 --> 00:05:10,886
+Barnacles are also remarkably good at sticking.
+
+132
+00:05:11,066 --> 00:05:13,797
+Their glue is one of the strongest
+
+133
+00:05:13,797 --> 00:05:15,726
+natural adhesives known,
+
+134
+00:05:15,726 --> 00:05:18,859
+and scientists study it for medical and
+
+135
+00:05:18,859 --> 00:05:20,145
+industrial uses.
+
+136
+00:05:20,325 --> 00:05:22,418
+Once a barnacle has settled,
+
+137
+00:05:22,418 --> 00:05:24,586
+scraping it off is hard work.
+
+138
+00:05:24,766 --> 00:05:27,389
+Stopping it from landing in the first
+
+139
+00:05:27,389 --> 00:05:29,375
+place is the whole strategy.
+
+140
+00:05:29,724 --> 00:05:31,806
+Why do many ships have a separate
+
+141
+00:05:31,806 --> 00:05:33,951
+stripe of colour at the waterline?
+
+142
+00:05:34,131 --> 00:05:36,185
+It is called the boot top.
+
+143
+00:05:36,365 --> 00:05:39,031
+That band of the hull is sometimes
+
+144
+00:05:39,031 --> 00:05:41,853
+underwater and sometimes in the air,
+
+145
+00:05:41,853 --> 00:05:43,577
+as the ship is loaded,
+
+146
+00:05:43,577 --> 00:05:46,164
+unloaded, and rolls in the waves.
+
+147
+00:05:46,344 --> 00:05:47,475
+It gets wet,
+
+148
+00:05:47,475 --> 00:05:51,336
+dry, sunlight and scraping from docks and
+
+149
+00:05:51,336 --> 00:05:52,184
+tugboats.
+
+150
+00:05:52,535 --> 00:05:55,618
+Those conditions are tougher than either the
+
+151
+00:05:55,618 --> 00:05:58,281
+deep underwater hull or the top sides.
+
+152
+00:05:58,461 --> 00:06:00,901
+So the boot top is painted with
+
+153
+00:06:00,901 --> 00:06:02,789
+a special tough coating,
+
+154
+00:06:02,789 --> 00:06:04,678
+designed to resist wear,
+
+155
+00:06:04,678 --> 00:06:07,668
+sunlight and fouling at the same time.
+
+156
+00:06:07,848 --> 00:06:10,117
+The stripe makes it easy to see
+
+157
+00:06:10,117 --> 00:06:12,167
+where that special paint is.
+
+158
+00:06:12,517 --> 00:06:13,744
+On a loaded ship,
+
+159
+00:06:13,744 --> 00:06:16,777
+the boot top may be completely underwater.
+
+160
+00:06:16,957 --> 00:06:18,198
+On an empty ship,
+
+161
+00:06:18,198 --> 00:06:20,681
+the red bottom can rise high above
+
+162
+00:06:20,681 --> 00:06:21,265
+the sea.
+
+163
+00:06:21,445 --> 00:06:24,070
+Watching how much red shows is a
+
+164
+00:06:24,070 --> 00:06:26,777
+quick way to tell whether a cargo
+
+165
+00:06:26,777 --> 00:06:28,581
+ship is full or empty,
+
+166
+00:06:28,581 --> 00:06:30,222
+even from the shore.
+
+167
+00:06:30,572 --> 00:06:32,868
+Why are there numbers painted down the
+
+168
+00:06:32,868 --> 00:06:34,380
+front and back of a ship?
+
+169
+00:06:34,560 --> 00:06:36,068
+They are draft marks,
+
+170
+00:06:36,068 --> 00:06:38,294
+and they show how deep the ship
+
+171
+00:06:38,294 --> 00:06:39,587
+sits in the water.
+
+172
+00:06:39,767 --> 00:06:41,117
+On metric marks,
+
+173
+00:06:41,117 --> 00:06:44,155
+each number is ten centimetres tall,
+
+174
+00:06:44,155 --> 00:06:47,699
+with gaps of ten centimetres between them,
+
+175
+00:06:47,699 --> 00:06:50,231
+so the water level can be read
+
+176
+00:06:50,231 --> 00:06:51,075
+precisely.
+
+177
+00:06:51,425 --> 00:06:54,557
+The draft decides whether a ship can
+
+178
+00:06:54,557 --> 00:06:55,688
+enter a port,
+
+179
+00:06:55,688 --> 00:06:58,386
+pass through a canal or cross a
+
+180
+00:06:58,386 --> 00:06:59,517
+shallow area.
+
+181
+00:06:59,697 --> 00:07:02,009
+It also tells how much cargo the
+
+182
+00:07:02,009 --> 00:07:03,238
+ship is carrying.
+
+183
+00:07:03,418 --> 00:07:05,647
+A surveyor reads the marks at the
+
+184
+00:07:05,647 --> 00:07:07,674
+bow, the middle and the stern,
+
+185
+00:07:07,674 --> 00:07:08,958
+and from the depth,
+
+186
+00:07:08,958 --> 00:07:11,661
+calculates the weight of cargo on board.
+
+187
+00:07:12,011 --> 00:07:14,468
+This is called a draft survey,
+
+188
+00:07:14,468 --> 00:07:16,843
+and for bulk cargo like coal,
+
+189
+00:07:16,843 --> 00:07:18,318
+grain or iron ore,
+
+190
+00:07:18,318 --> 00:07:20,612
+it is often how the cargo is
+
+191
+00:07:20,612 --> 00:07:22,332
+weighed and paid for.
+
+192
+00:07:22,512 --> 00:07:25,436
+A few painted numbers can decide a
+
+193
+00:07:25,436 --> 00:07:27,156
+sale worth millions.
+
+194
+00:07:27,336 --> 00:07:30,149
+It is one of the oldest measuring
+
+195
+00:07:30,149 --> 00:07:31,598
+methods in trade,
+
+196
+00:07:31,598 --> 00:07:33,559
+and still in daily use.
+
+197
+00:07:33,909 --> 00:07:36,678
+Why do some modern ships have hulls
+
+198
+00:07:36,678 --> 00:07:38,339
+coated in a slippery,
+
+199
+00:07:38,339 --> 00:07:39,446
+rubbery layer?
+
+200
+00:07:39,626 --> 00:07:42,142
+It is a foul release coating,
+
+201
+00:07:42,142 --> 00:07:44,224
+often based on silicone.
+
+202
+00:07:44,404 --> 00:07:46,786
+Instead of poisoning sea life,
+
+203
+00:07:46,786 --> 00:07:49,486
+it makes the surface so smooth and
+
+204
+00:07:49,486 --> 00:07:52,821
+slippery that creatures cannot stick well.
+
+205
+00:07:53,001 --> 00:07:54,265
+When the ship moves,
+
+206
+00:07:54,265 --> 00:07:56,415
+the water washes most of them off.
+
+207
+00:07:56,765 --> 00:07:59,796
+These coatings release no poison into the
+
+208
+00:07:59,796 --> 00:08:02,828
+sea, which makes them attractive as rules
+
+209
+00:08:02,828 --> 00:08:04,973
+on toxic paints get stricter.
+
+210
+00:08:05,153 --> 00:08:07,781
+They work best on ships that move
+
+211
+00:08:07,781 --> 00:08:08,976
+fast and often,
+
+212
+00:08:08,976 --> 00:08:12,162
+because the flowing water is what cleans
+
+213
+00:08:12,162 --> 00:08:12,560
+them.
+
+214
+00:08:12,740 --> 00:08:15,165
+A ship that sits still for weeks
+
+215
+00:08:15,165 --> 00:08:17,059
+may still collect growth.
+
+216
+00:08:17,409 --> 00:08:20,436
+A smooth hull also reduces friction,
+
+217
+00:08:20,436 --> 00:08:23,295
+saving fuel even when it is clean.
+
+218
+00:08:23,475 --> 00:08:26,540
+Some coatings are inspired by nature,
+
+219
+00:08:26,540 --> 00:08:29,357
+by the skin of sharks or dolphins,
+
+220
+00:08:29,357 --> 00:08:32,008
+which stay clean without poison.
+
+221
+00:08:32,188 --> 00:08:35,046
+The war against barnacles is slowly moving
+
+222
+00:08:35,046 --> 00:08:37,699
+from killing them to simply giving them
+
+223
+00:08:37,699 --> 00:08:38,992
+nowhere to hold on.
+
+224
+00:08:39,342 --> 00:08:41,471
+Why do giant ships have to leave
+
+225
+00:08:41,471 --> 00:08:42,801
+the water regularly?
+
+226
+00:08:42,981 --> 00:08:45,628
+To inspect and repaint the hull.
+
+227
+00:08:45,808 --> 00:08:48,076
+A dry dock is a basin that
+
+228
+00:08:48,076 --> 00:08:49,384
+can be emptied.
+
+229
+00:08:49,564 --> 00:08:50,989
+The ship floats in,
+
+230
+00:08:50,989 --> 00:08:52,190
+the gates close,
+
+231
+00:08:52,190 --> 00:08:53,990
+the water is pumped out,
+
+232
+00:08:53,990 --> 00:08:56,465
+and the ship settles onto blocks,
+
+233
+00:08:56,465 --> 00:08:59,166
+revealing the whole underwater hull.
+
+234
+00:08:59,516 --> 00:09:04,849
+Classification societies, the organisations that certify ships
+
+235
+00:09:04,849 --> 00:09:08,548
+as safe, require regular inspections of the
+
+236
+00:09:08,548 --> 00:09:08,978
+hull.
+
+237
+00:09:09,158 --> 00:09:12,091
+Large ships typically visit a dry dock
+
+238
+00:09:12,091 --> 00:09:13,326
+every few years.
+
+239
+00:09:13,506 --> 00:09:16,617
+Workers blast off old paint and growth,
+
+240
+00:09:16,617 --> 00:09:17,894
+check the steel,
+
+241
+00:09:17,894 --> 00:09:21,165
+the propeller, the rudder and the anodes,
+
+242
+00:09:21,165 --> 00:09:24,117
+and apply fresh coats of antifouling.
+
+243
+00:09:24,468 --> 00:09:25,909
+Between dry docks,
+
+244
+00:09:25,909 --> 00:09:29,272
+divers and underwater robots can clean the
+
+245
+00:09:29,272 --> 00:09:30,714
+hull in the water.
+
+246
+00:09:30,894 --> 00:09:32,884
+But for a full inspection,
+
+247
+00:09:32,884 --> 00:09:34,644
+the ship must come out.
+
+248
+00:09:34,824 --> 00:09:37,181
+A stop in dry dock costs time
+
+249
+00:09:37,181 --> 00:09:40,106
+and money, which is why long lasting
+
+250
+00:09:40,106 --> 00:09:43,113
+hull paint is so valuable to shipping
+
+251
+00:09:43,113 --> 00:09:43,926
+companies.
+
+252
+00:09:44,276 --> 00:09:46,593
+Why do ships now have systems to
+
+253
+00:09:46,593 --> 00:09:48,838
+treat the sea water they carry?
+
+254
+00:09:49,018 --> 00:09:51,985
+Empty cargo ships take on sea water,
+
+255
+00:09:51,985 --> 00:09:55,117
+called ballast, to sit deeper and stay
+
+256
+00:09:55,117 --> 00:09:55,694
+stable.
+
+257
+00:09:55,874 --> 00:09:57,969
+They carry it across the ocean,
+
+258
+00:09:57,969 --> 00:09:59,996
+and pump it out when they load
+
+259
+00:09:59,996 --> 00:10:02,226
+cargo, in a different part of the
+
+260
+00:10:02,226 --> 00:10:02,631
+world.
+
+261
+00:10:02,981 --> 00:10:06,013
+That water is full of tiny living
+
+262
+00:10:06,013 --> 00:10:09,505
+things, larvae, plankton and bacteria.
+
+263
+00:10:09,685 --> 00:10:11,357
+Released in a new place,
+
+264
+00:10:11,357 --> 00:10:13,447
+some of them can spread out of
+
+265
+00:10:13,447 --> 00:10:14,004
+control.
+
+266
+00:10:14,184 --> 00:10:15,685
+The zebra mussel,
+
+267
+00:10:15,685 --> 00:10:18,950
+carried in ballast water to the Great
+
+268
+00:10:18,950 --> 00:10:20,980
+Lakes of North America,
+
+269
+00:10:20,980 --> 00:10:25,304
+multiplied enormously and clogged water pipes and
+
+270
+00:10:25,304 --> 00:10:28,128
+power plants, costing huge sums.
+
+271
+00:10:28,478 --> 00:10:30,731
+Since two thousand seventeen,
+
+272
+00:10:30,731 --> 00:10:34,772
+an international convention requires ships to manage
+
+273
+00:10:34,772 --> 00:10:36,326
+their ballast water,
+
+274
+00:10:36,326 --> 00:10:38,968
+and many now treat it with filters
+
+275
+00:10:38,968 --> 00:10:42,931
+and ultraviolet light or chemicals before releasing
+
+276
+00:10:42,931 --> 00:10:43,164
+it.
+
+277
+00:10:43,344 --> 00:10:45,914
+The hull keeps life out with paint,
+
+278
+00:10:45,914 --> 00:10:48,043
+and the tanks keep it in with
+
+279
+00:10:48,043 --> 00:10:48,778
+treatment.
+
+280
+00:10:48,958 --> 00:10:50,722
+Both protect the ocean.
+
+281
+00:10:51,073 --> 00:10:54,365
+Why don't shipping containers fall off ships
+
+282
+00:10:54,365 --> 00:10:55,113
+in storms?
+
+283
+00:10:55,293 --> 00:10:58,100
+Because each corner is locked to the
+
+284
+00:10:58,100 --> 00:10:58,880
+one below.
+
+285
+00:10:59,060 --> 00:11:03,025
+Every container has strong steel corner castings,
+
+286
+00:11:03,025 --> 00:11:04,320
+with oval holes.
+
+287
+00:11:04,500 --> 00:11:07,485
+A small device called a twistlock fits
+
+288
+00:11:07,485 --> 00:11:08,821
+into those holes,
+
+289
+00:11:08,821 --> 00:11:11,885
+and a quarter turn locks two containers
+
+290
+00:11:11,885 --> 00:11:12,592
+together.
+
+291
+00:11:12,942 --> 00:11:16,129
+On deck, containers are also tied down
+
+292
+00:11:16,129 --> 00:11:19,568
+with long steel bars called lashing rods,
+
+293
+00:11:19,568 --> 00:11:21,916
+crossing between the stacks.
+
+294
+00:11:22,096 --> 00:11:25,790
+Together, the twistlocks and lashings hold stacks
+
+295
+00:11:25,790 --> 00:11:28,277
+that can be many containers high,
+
+296
+00:11:28,277 --> 00:11:31,217
+against the rolling and pitching of the
+
+297
+00:11:31,217 --> 00:11:32,650
+ship in heavy seas.
+
+298
+00:11:33,000 --> 00:11:35,552
+Even so, in very bad weather,
+
+299
+00:11:35,552 --> 00:11:38,457
+the forces can exceed the limits,
+
+300
+00:11:38,457 --> 00:11:42,066
+and containers are sometimes lost at sea,
+
+301
+00:11:42,066 --> 00:11:44,354
+occasionally many at once.
+
+302
+00:11:44,534 --> 00:11:47,482
+That is why ships slow down or
+
+303
+00:11:47,482 --> 00:11:49,840
+change course in storms.
+
+304
+00:11:50,020 --> 00:11:53,088
+Every container on the ocean is held
+
+305
+00:11:53,088 --> 00:11:55,389
+by a few small steel locks,
+
+306
+00:11:55,389 --> 00:11:57,520
+turned by hand in a port.
+
+307
+00:11:57,870 --> 00:11:59,309
+So here are the ten.
+
+308
+00:11:59,489 --> 00:12:02,334
+Red paint that keeps sea life away.
+
+309
+00:12:02,514 --> 00:12:04,731
+Copper bottoms against the shipworm.
+
+310
+00:12:04,911 --> 00:12:07,314
+A banned paint that harmed the ocean.
+
+311
+00:12:07,494 --> 00:12:09,329
+Barnacles that burn fuel.
+
+312
+00:12:09,509 --> 00:12:11,842
+A stripe for the toughest zone.
+
+313
+00:12:12,022 --> 00:12:14,031
+Numbers that weigh the cargo.
+
+314
+00:12:14,211 --> 00:12:16,928
+Slippery coatings without poison.
+
+315
+00:12:17,108 --> 00:12:19,882
+Dry docks to inspect and repaint.
+
+316
+00:12:20,062 --> 00:12:23,336
+Ballast water treated against invaders.
+
+317
+00:12:23,516 --> 00:12:26,872
+And twistlocks that keep containers on board.
+
+318
+00:12:27,222 --> 00:12:29,165
+The red on a ship is the
+
+319
+00:12:29,165 --> 00:12:32,160
+colour of a centuries old war against
+
+320
+00:12:32,160 --> 00:12:33,375
+tiny creatures.
+
+321
+00:12:33,555 --> 00:12:36,687
+If you want more machines explained part
+
+322
+00:12:36,687 --> 00:12:39,662
+by part, subscribe to Machine Reverse.
+
+323
+00:12:39,842 --> 00:12:41,604
+And tell us in the comments,
+
+324
+00:12:41,604 --> 00:12:43,492
+did you know why ships are red
+
+325
+00:12:43,492 --> 00:12:44,184
+underneath?
