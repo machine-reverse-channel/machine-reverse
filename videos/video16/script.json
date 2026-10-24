@@ -1,0 +1,227 @@
+{
+ "id": "video16",
+ "title": "Why Do Mars Rover Wheels Have Holes?",
+ "length_scale": 1.6,
+ "scenes": [
+  {
+   "text": "The wheels of the Mars rover Curiosity are covered in holes. Some of those holes were put there on purpose, by engineers in California. Others were made by rocks on Mars, and they are a very different story. Each of the six wheels is fifty centimeters across, forty centimeters wide, and was machined from a single block of aluminum. Today, ten parts of a Mars rover, and why each one exists.",
+   "query": "Curiosity rover wheel",
+   "caption": "WHY THE HOLES IN THE WHEELS?",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "Curiosity landed on Mars on the sixth of August, two thousand twelve, and weighs about nine hundred kilograms. Everything it does is slow, careful and planned from millions of kilometers away, because there is no mechanic on Mars. So every part has to earn its place.",
+   "query": "Curiosity rover Mars",
+   "caption": "NO MECHANIC ON MARS"
+  },
+  {
+   "text": "As always, every fact here comes from a named source, NASA and the Jet Propulsion Laboratory, all listed in the description. Let's start with the holes.",
+   "query": "Curiosity rover wheels track",
+   "caption": "WHY DOES THIS EXIST?"
+  },
+  {
+   "text": "Why do the wheels of Curiosity have holes? Some of them spell a message. The holes are arranged in Morse code, and the tracks they leave in the soil repeat the pattern. It reads J, P, L, the initials of the Jet Propulsion Laboratory, which built the rover. But the real reason is not decoration. The pattern leaves features in the sand that the rover can use to measure how far it has really traveled.",
+   "query": "Curiosity rover wheel Morse code JPL",
+   "caption": "WHY ARE THERE HOLES IN THIS WHEEL?",
+   "arrow": true,
+   "chapter": "1. The Morse code holes",
+   "short": "Why Do Mars Rover Wheels Have Holes?",
+   "cuts": 3
+  },
+  {
+   "text": "That method is called visual odometry. After a drive, the rover takes pictures and compares them with the marks left behind, to see if the wheels slipped. On steep slopes, in loose soil, or in a sandy field with nothing to look at, a high contrast pattern is like a landmark that the rover carries with it.",
+   "query": "Curiosity rover tracks sand",
+   "caption": "A LANDMARK IT CARRIES"
+  },
+  {
+   "text": "The rover can not read the message. The engineers can. And it is a small bit of fun inside a serious tool, because the team could not have the letters JPL printed on the wheels as text. So they wrote them in dots and dashes.",
+   "query": "Curiosity rover wheel tracks Mars",
+   "caption": "WRITTEN IN DOTS AND DASHES"
+  },
+  {
+   "text": "Why are the wheels of Curiosity so thin? Because every gram has to be flown to Mars. The skin of each wheel is only seventy-five hundredths of a millimeter thick, described as the thinnest that could be machined. Adding just one millimeter of thickness to the wheels would have added about ten kilograms to the whole rover.",
+   "query": "Curiosity rover wheel skin thin aluminum",
+   "caption": "WHY IS THIS WHEEL SO THIN?",
+   "arrow": true,
+   "chapter": "2. The thin wheel skin",
+   "short": "Why Are the Mars Rover's Wheels So Thin?",
+   "cuts": 3
+  },
+  {
+   "text": "The wheels also had to survive the landing, when the rover was lowered to the ground on its own suspension. Lighter wheels meant lighter forces during that moment. The engineers did not expect to find so many sharp, pointed rocks at the landing site in Gale crater.",
+   "query": "Curiosity rover landing sky crane",
+   "caption": "A WEIGHT BUDGET"
+  },
+  {
+   "text": "It is the oldest trade-off in spaceflight. Stronger means heavier, and heavier means more rocket. The wheels are the place where that trade-off turned into holes.",
+   "query": "Curiosity rover wheel Mars rock",
+   "caption": "STRONGER MEANS HEAVIER"
+  },
+  {
+   "text": "Why do the wheels have zigzag ridges? They are called grousers, and they grip the ground. Each one sticks out about seven and a half millimeters from the skin of the wheel, they are spaced fifteen degrees apart, and they have a chevron shape, a bit like arrows. They bite into sand and loose soil, so the wheel can push the rover forward without just spinning.",
+   "query": "Curiosity rover wheel grousers chevron",
+   "caption": "WHY DOES THE WHEEL HAVE ZIGZAG RIDGES?",
+   "arrow": true,
+   "chapter": "3. The zigzag treads",
+   "short": "Why Do Mars Rover Wheels Have Zigzag Treads?",
+   "cuts": 3
+  },
+  {
+   "text": "The grousers do a second job. They are also the stiffest part of the wheel, so they carry the load of the whole rover. The stress is highest near the tips of the chevrons, and that is where the metal later began to tear on Mars.",
+   "query": "Curiosity rover wheel tear",
+   "caption": "WHERE THE METAL TEARS"
+  },
+  {
+   "text": "A wheel is more than a circle. On Mars, it is a tool for grip, for measuring distance and for carrying weight, all at once. And all of those jobs ask the same thin piece of aluminum for something different.",
+   "query": "Curiosity rover wheel close",
+   "caption": "MANY JOBS, ONE WHEEL"
+  },
+  {
+   "text": "Why did Curiosity's wheels get holes in them? The first large puncture appeared around the four hundred eleventh Martian day of the mission, and by day four hundred sixty-three, a big rip had been found in the left front wheel. There were two causes. Tears came from metal fatigue, the skin bending and straightening on hard bedrock until it cracked. Punctures came from sharp, buried rocks, pushed by the suspension into the front and middle wheels.",
+   "query": "Curiosity rover wheel damage punctures",
+   "caption": "WHY IS THIS WHEEL FULL OF HOLES?",
+   "arrow": true,
+   "chapter": "4. The punctured wheel",
+   "short": "Why Did Curiosity's Wheels Get Holes in Them?",
+   "cuts": 3
+  },
+  {
+   "text": "The rear wheels had no punctures, because the front and middle wheels are the ones pushed into the rocks as the rover climbs. So the team changed how it drove. They avoided pointed rocks, used shorter drives on rough ground, and drove backwards in places, so the front wheels are dragged and not shoved.",
+   "query": "Curiosity rover driving backwards",
+   "caption": "DRIVE BACKWARDS"
+  },
+  {
+   "text": "Engineers also used satellite data to map the terrain before the rover got there, picking routes with sand instead of sharp bedrock. The wheel damage did not end the mission. It changed the way the rover is driven, and it is one of the best stories of how a machine is nursed along on another planet.",
+   "query": "Mars terrain map Curiosity route",
+   "caption": "NURSING A ROVER"
+  },
+  {
+   "text": "Why does the newer rover, Perseverance, have different wheels? Because Curiosity's were damaged. Perseverance's wheels are a bit larger, fifty-two and a half centimeters across, narrower, and made of thicker, more durable aluminum. Cleats cover them for traction, and curved titanium spokes give the wheel some spring.",
+   "query": "Perseverance rover wheel",
+   "caption": "WHY ARE THE NEW WHEELS DIFFERENT?",
+   "arrow": true,
+   "chapter": "5. The new wheel",
+   "short": "Why Are Perseverance's Wheels Different From Curiosity's?",
+   "cuts": 3
+  },
+  {
+   "text": "Perseverance weighs about one thousand twenty-five kilograms, roughly fourteen percent more than Curiosity, and part of that is a tougher set of wheels. Every rover learns from the one before it. Curiosity's holes became Perseverance's thicker skin.",
+   "query": "Perseverance rover Mars",
+   "caption": "LEARNED FROM THE HOLES"
+  },
+  {
+   "text": "This is how a space program works in practice. A machine on Mars is a test for the next machine, and the damage you see in the photos is the lesson that fixed the next set of wheels.",
+   "query": "Perseverance rover wheels",
+   "caption": "ONE ROVER TEACHES THE NEXT"
+  },
+  {
+   "text": "Why does the rover have such strange legs? It is a rocker-bogie suspension, a set of linked arms that lets all six wheels stay on the ground while the rover climbs over rocks. It can roll over obstacles up to sixty-five centimeters high, and it has sixty centimeters of ground clearance. The arms just pivot, and the wheels stay in contact.",
+   "query": "Curiosity rover rocker-bogie suspension",
+   "caption": "WHY ARE THE WHEELS ON LEGS?",
+   "arrow": true,
+   "chapter": "6. The rocker-bogie suspension",
+   "short": "Why Does a Mars Rover Have Such a Strange Suspension?",
+   "cuts": 3
+  },
+  {
+   "text": "On Curiosity, the same suspension also acts as the landing gear. During the landing, the rover was lowered to the ground on a tether, with the wheels already down, and the suspension took the touch. The smaller rovers before it did not do this.",
+   "query": "Curiosity rover landing wheels down",
+   "caption": "THE SUSPENSION IS THE LANDING GEAR"
+  },
+  {
+   "text": "A simple mechanism, with few parts to break. On a planet where nothing can be repaired, the simplest design is the safest kind.",
+   "query": "Mars rover suspension climbing rock",
+   "caption": "FEW PARTS TO BREAK"
+  },
+  {
+   "text": "Why does the rover have a head? It is a mast with cameras, so the rover can look around from higher up. Mastcam has two cameras, one with a wider view and one with a narrow, zoomed view. They take color pictures at sixteen hundred by twelve hundred pixels, and also video, at up to ten frames per second.",
+   "query": "Curiosity rover Mastcam mast",
+   "caption": "WHY DOES THE ROVER HAVE A HEAD?",
+   "arrow": true,
+   "chapter": "7. The camera mast",
+   "short": "Why Does a Mars Rover Have a Camera Mast?",
+   "cuts": 3
+  },
+  {
+   "text": "Two lenses are better than one. The wide lens shows the landscape, and the narrow lens zooms in on a rock to decide if it is worth the trip. Most of the rover's decisions begin with a picture, taken from the mast.",
+   "query": "Curiosity rover camera Mars rock",
+   "caption": "FIND THE ROCK WORTH A TRIP"
+  },
+  {
+   "text": "And the pictures come home the long way, relayed by spacecraft that orbit Mars. Many of the pictures you have seen of the red planet were taken from a mast like this one.",
+   "query": "Mars panorama Curiosity",
+   "caption": "THE EYES OF MARS"
+  },
+  {
+   "text": "Why does the rover shoot rocks with a laser? It is the ChemCam instrument, and the laser vaporizes a tiny spot on a rock, up to seven meters away. A telescope then looks at the flash of light it makes. Each element glows with its own colors, so the light tells scientists what the rock is made of. It fires about fifty to seventy-five short pulses at each target.",
+   "query": "Curiosity rover ChemCam laser",
+   "caption": "WHY DOES THE ROVER HAVE A LASER?",
+   "arrow": true,
+   "chapter": "8. The laser",
+   "short": "Why Does the Mars Rover Shoot Rocks With a Laser?",
+   "cuts": 3
+  },
+  {
+   "text": "The point is speed. To know what a rock is made of without driving to it, and without touching it, saves days of work. The team expected about a dozen of these measurements on a typical day.",
+   "query": "Curiosity ChemCam laser rock spark",
+   "caption": "READ A ROCK FROM 7 METERS"
+  },
+  {
+   "text": "The newer rover has a successor, called SuperCam, with two lasers and four spectrometers. It is the same idea, but with more tools, and a lot more science from one single flash.",
+   "query": "Perseverance SuperCam laser",
+   "caption": "THE NEXT VERSION"
+  },
+  {
+   "text": "How does the rover get its power? Not from solar panels. At the back is a nuclear battery, a Multi-Mission Radioisotope Thermoelectric Generator. It holds about four point eight kilograms of plutonium-238 dioxide, and the heat from its natural decay is turned into electricity. It was designed to give one hundred ten watts at the start, and about one hundred watts after fourteen years.",
+   "query": "Curiosity rover MMRTG radioisotope generator",
+   "caption": "WHY DOES THE ROVER HAVE A GIANT BLACK FINNED BOX?",
+   "arrow": true,
+   "chapter": "9. The nuclear battery",
+   "short": "How Is a Mars Rover Powered Without Solar Panels?",
+   "cuts": 3
+  },
+  {
+   "text": "Solar panels would collect dust on Mars, and would struggle in winter and at night. A nuclear battery works day and night, in any season. It is not a reactor, and it does not run on fission. It is a heat source with a slow, steady output.",
+   "query": "Curiosity rover back MMRTG fins",
+   "caption": "DAY AND NIGHT, ANY SEASON"
+  },
+  {
+   "text": "The fins on the side are heat radiators. The generator makes more heat than electricity, and the extra heat has to go somewhere, or it would cook the rover. Even a nuclear battery needs a radiator.",
+   "query": "MMRTG radioisotope generator fins",
+   "caption": "THE FINS SHED HEAT"
+  },
+  {
+   "text": "Why does the rover carry a drill? The surface of a rock can be changed by wind, dust and radiation. To find out what a rock is made of inside, the rover has to open it up. Its arm is two point one meters long, and its drill makes holes one point six centimeters wide and up to five centimeters deep, and it carries two spare bits.",
+   "query": "Curiosity rover robotic arm drill",
+   "caption": "WHY DOES THE ROVER HAVE A DRILL?",
+   "arrow": true,
+   "chapter": "10. The arm and drill",
+   "short": "Why Does a Mars Rover Carry a Drill?",
+   "cuts": 3
+  },
+  {
+   "text": "The powder from the drill goes to instruments inside the rover. One of them found more than twenty organic molecules in clay-bearing sandstones. It is evidence about the chemistry of Mars, and that is the main reason that the rover was sent.",
+   "query": "Curiosity rover drill hole powder",
+   "caption": "THE SECRET INSIDE A ROCK"
+  },
+  {
+   "text": "And the drill itself has had its own troubles, including a short circuit in two thousand fifteen and a malfunction in two thousand sixteen. It resumed work in May two thousand eighteen. As with the wheels, the rover keeps working because the team on Earth keeps finding a way.",
+   "query": "Curiosity rover drilling Mars",
+   "caption": "FIXED FROM EARTH"
+  },
+  {
+   "text": "So here are the ten. Holes in the wheels that spell a message, and skin that is very thin. Zigzag treads, a wheel that was damaged by the rocks, and a new wheel that learned from it. Strange legs, a camera head, a laser, a nuclear battery, and a drill that opens up a rock.",
+   "query": "Curiosity rover sunset Mars",
+   "caption": "10 PARTS. 10 REASONS.",
+   "chapter": "The verdict",
+   "cuts": 6
+  },
+  {
+   "text": "Next time you see tracks on Mars, look at the pattern. It is a rover's name written in the dust. If you want more machines explained part by part, subscribe to Machine Reverse. And tell us in the comments which machine you want us to take apart next.",
+   "query": "Curiosity rover selfie Mars",
+   "caption": "SUBSCRIBE: MACHINE REVERSE",
+   "cuts": 4
+  }
+ ]
+}
