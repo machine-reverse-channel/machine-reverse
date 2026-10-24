@@ -1,0 +1,92 @@
+# Photo credits: Why Do Pilots Never Eat the Same Meal?
+
+All photos from Wikimedia Commons.
+
+- DFC 5867 Cockpit of a vintage commercial airliner showing flight instruments controls and the pilots seat.jpg by PattayaPatrol, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:DFC_5867_Cockpit_of_a_vintage_commercial_airliner_showing_flight_instruments_controls_and_the_pilots_seat.jpg
+- DFC 5866 Pilots view an empty cockpit overlooks the busy tarmac as ground crew and parked airliners move beyond the windshield.jpg by PattayaPatrol, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:DFC_5866_Pilots_view_an_empty_cockpit_overlooks_the_busy_tarmac_as_ground_crew_and_parked_airliners_move_beyond_the_windshield.jpg
+- Boeing 707-123B cockpit, Deutsches Museum.jpg by Wilfredor, CC0, https://commons.wikimedia.org/wiki/File:Boeing_707-123B_cockpit,_Deutsches_Museum.jpg
+- Boeing 767-200 DHL in a golden glow at SFO... (7359031054).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Boeing_767-200_DHL_in_a_golden_glow_at_SFO..._(7359031054).jpg
+- Vickers Vanguard (40803550973).jpg by Mike McBey, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Vickers_Vanguard_(40803550973).jpg
+- In the cockpit.jpg by Guilhem Vellut, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:In_the_cockpit.jpg
+- Cockpit of airbus.jpg by Andrew McMillan, Public domain, https://commons.wikimedia.org/wiki/File:Cockpit_of_airbus.jpg
+- NC8407 Ford 4-AT Tri-Motor MD1.jpg by Acroterion, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:NC8407_Ford_4-AT_Tri-Motor_MD1.jpg
+- Airbus A320 Simulated Cockpit - www.joyofmuseums.com - National Air and Space Museum.jpg by Joyofmuseums, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Airbus_A320_Simulated_Cockpit_-_www.joyofmuseums.com_-_National_Air_and_Space_Museum.jpg
+- Airbus A320 Simulated Cockpit - www.joyofmuseums.com - National Air and Space Museum 2.jpg by Joyofmuseums, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Airbus_A320_Simulated_Cockpit_-_www.joyofmuseums.com_-_National_Air_and_Space_Museum_2.jpg
+- 15.09.24 Dauphin 6427 and 6415 (54057226503).jpg by Phil Richards from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:15.09.24_Dauphin_6427_and_6415_(54057226503).jpg
+- Republic Airline Crew Base.jpg by Sixflashphoto, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Republic_Airline_Crew_Base.jpg
+- Approaching ORY, in the cockpit.jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Approaching_ORY,_in_the_cockpit.jpg
+- Boeing 737-846 ‘JA302J’ Japan Air Lines (40650606423).jpg by Alan Wilson from Peterborough, Cambs, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Boeing_737-846_%E2%80%98JA302J%E2%80%99_Japan_Air_Lines_(40650606423).jpg
+- Boeing 737-846 ‘JA322J’ Japan Air Lines (32666483227).jpg by Alan Wilson from Peterborough, Cambs, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Boeing_737-846_%E2%80%98JA322J%E2%80%99_Japan_Air_Lines_(32666483227).jpg
+- ISUZU FORWARD, Catering Service Veichles.jpg by Mj-bird, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:ISUZU_FORWARD,_Catering_Service_Veichles.jpg
+- Aircraft Catering Vehicle serving an aircraft.JPG by Jamesshliu, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Aircraft_Catering_Vehicle_serving_an_aircraft.JPG
+- Two female RAAF pilots prepare a C-130 for takeoff in April 2018.jpg by U.S. Air Force photo by Airman 1st Class Kristine M. Gruwell, Public domain, https://commons.wikimedia.org/wiki/File:Two_female_RAAF_pilots_prepare_a_C-130_for_takeoff_in_April_2018.jpg
+- C-141C Glass Cockpit Upgrade.JPEG by TSGT LANCE CHEUNG, USAF., Public domain, https://commons.wikimedia.org/wiki/File:C-141C_Glass_Cockpit_Upgrade.JPEG
+- Boeing 737-300 Cockpit.jpg by Weatherhistory, CC0, https://commons.wikimedia.org/wiki/File:Boeing_737-300_Cockpit.jpg
+- Boeing 757-200 flight deck.jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Boeing_757-200_flight_deck.jpg
+- Cockpit Deux-Ponts (MAA).jpg by Duch.seb, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Cockpit_Deux-Ponts_(MAA).jpg
+- DC-6B nose landing gear.JPG by Dtom, CC BY 3.0, https://commons.wikimedia.org/wiki/File:DC-6B_nose_landing_gear.JPG
+- Back Landing Gear on an Airbus A380 2.jpg by DiscoA340, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Back_Landing_Gear_on_an_Airbus_A380_2.jpg
+- Classroom to cockpit- Day in the life of a student helicopter pilot (12001992594).jpg by Fort Rucker, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Classroom_to_cockpit-_Day_in_the_life_of_a_student_helicopter_pilot_(12001992594).jpg
+- Helicopter Cockpit Mil Mi-24D Hind.jpg by User Mike1024, Public domain, https://commons.wikimedia.org/wiki/File:Helicopter_Cockpit_Mil_Mi-24D_Hind.jpg
+- B737-original crew in cockpit during final approach.jpg by Viault, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:B737-original_crew_in_cockpit_during_final_approach.jpg
+- Wideroe-dash8-cockpit.jpg by Algkalv (talk), CC BY 3.0, https://commons.wikimedia.org/wiki/File:Wideroe-dash8-cockpit.jpg
+- US Navy 060826-N-6240R-006 The pilot of a Colombian helicopter makes his approach while landing aboard the frigate ARC (Armada Republica de Colombia) Antioquia (FL 53).jpg by U.S. Navy photo by Mass Communication Specialist 1st Class Richard Rosser, Public domain, https://commons.wikimedia.org/wiki/File:US_Navy_060826-N-6240R-006_The_pilot_of_a_Colombian_helicopter_makes_his_approach_while_landing_aboard_the_frigate_ARC_(Armada_Republica_de_Colombia)_Antioquia_(FL_53).jpg
+- Finnair Airbus A319-112 OH-LVL snowfall.jpg by Lentokonefani, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Finnair_Airbus_A319-112_OH-LVL_snowfall.jpg
+- Saab 340 - 33 Approach - 040216.jpg by Ronnie Robertson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Saab_340_-_33_Approach_-_040216.jpg
+- Nelly Diener cropped.jpg by Swissair, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Nelly_Diener_cropped.jpg
+- Air KBZ Flight Attendant 2.jpg by Philip Nalangan, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Air_KBZ_Flight_Attendant_2.jpg
+- U.S. Air Force Tech. Sgt. Vidal Hill, with the 18th Aeromedical Evacuation Squadron, wears a quick don oxygen mask while preparing for a mission aboard a C-130H Hercules aircraft during Air Mobility Rodeo 2011 110725-F-RM405-010.jpg by SSgt Eric Harris, Public domain, https://commons.wikimedia.org/wiki/File:U.S._Air_Force_Tech._Sgt._Vidal_Hill,_with_the_18th_Aeromedical_Evacuation_Squadron,_wears_a_quick_don_oxygen_mask_while_preparing_for_a_mission_aboard_a_C-130H_Hercules_aircraft_during_Air_Mobility_Rodeo_2011_110725-F-RM405-010.jpg
+- Delivering deterrence (7176003).jpg by U.S. Air Force photo by Master Sgt. Matthew Plew, Public domain, https://commons.wikimedia.org/wiki/File:Delivering_deterrence_(7176003).jpg
+- 330-PS-3007 (USN 446563) (17410154370).jpg by National Museum of the U.S. Navy, Public domain, https://commons.wikimedia.org/wiki/File:330-PS-3007_(USN_446563)_(17410154370).jpg
+- A U.S. fighter pilot helmet and oxygen mask pictured in a locker at Volk Field Combat Readiness Training Center (CRTC), Wis., in this photo released March 21, 2011 110321-F-TL822-004.jpg by MSgt Ken Stephens, Public domain, https://commons.wikimedia.org/wiki/File:A_U.S._fighter_pilot_helmet_and_oxygen_mask_pictured_in_a_locker_at_Volk_Field_Combat_Readiness_Training_Center_(CRTC),_Wis.,_in_this_photo_released_March_21,_2011_110321-F-TL822-004.jpg
+- Pilot 2.jpg by Matthew Hannen, Public domain, https://commons.wikimedia.org/wiki/File:Pilot_2.jpg
+- Boeing 737 S7 VQ-BKW cockpit May 2011.jpg by Alex Beltyukov, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Boeing_737_S7_VQ-BKW_cockpit_May_2011.jpg
+- D-IOLO Cockpit 2.JPG by Fliegomat, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:D-IOLO_Cockpit_2.JPG
+- D-IOLO Cockpit 1.JPG by Fliegomat, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:D-IOLO_Cockpit_1.JPG
+- STS027-15-007 - STS-027 - STS-27 crew activities - DPLA - bab331d477ce5bbce1c90d356a38736d.jpg by National Aeronautics and Space Administration. Lyndon B. Johnson Space Center. 2/17/1973, Public domain, https://commons.wikimedia.org/wiki/File:STS027-15-007_-_STS-027_-_STS-27_crew_activities_-_DPLA_-_bab331d477ce5bbce1c90d356a38736d.jpg
+- STS027-15-015 - STS-027 - STS-27 crew activities - DPLA - ee25a24a51e88aa3758c86e6c6ebca35.jpg by National Aeronautics and Space Administration. Lyndon B. Johnson Space Center. 2/17/1973, Public domain, https://commons.wikimedia.org/wiki/File:STS027-15-015_-_STS-027_-_STS-27_crew_activities_-_DPLA_-_ee25a24a51e88aa3758c86e6c6ebca35.jpg
+- Boeing 747 Jumbo front cockpit windows.jpg by Ermell, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Boeing_747_Jumbo_front_cockpit_windows.jpg
+- Lufthansa Boeing 747-200 Cockpit, Sinsheim (Ank Kumar) 01.jpg by Ank Kumar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lufthansa_Boeing_747-200_Cockpit,_Sinsheim_(Ank_Kumar)_01.jpg
+- Inside of a Boeing 737-200 cockpit (Canadian North Airlines C-GDPA).jpg by Quintin Soloviev, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Inside_of_a_Boeing_737-200_cockpit_(Canadian_North_Airlines_C-GDPA).jpg
+- Air Mens Memorial St Edward's Leek.jpg by Memorialman, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Air_Mens_Memorial_St_Edward%27s_Leek.jpg
+- Soviet Long-Range Jet Airliner Ilyushin IL-62. Советский дальнемагистральный авиалайнер Ил-62.jpg by Peer.Gynt, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Soviet_Long-Range_Jet_Airliner_Ilyushin_IL-62._%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5%D0%BC%D0%B0%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D0%B8%D0%B0%D0%BB%D0%B0%D0%B9%D0%BD%D0%B5%D1%80_%D0%98%D0%BB-62.jpg
+- In 1917, Chief Louis Almgren and aviator Ovar Meyerhoffer pose in the cockpit of, Bestanddeelnr 158-1397.jpg by Nationaal Archief, CC0, https://commons.wikimedia.org/wiki/File:In_1917,_Chief_Louis_Almgren_and_aviator_Ovar_Meyerhoffer_pose_in_the_cockpit_of,_Bestanddeelnr_158-1397.jpg
+- Pitcairn PA-5 Mailwing - DPLA - 3403588ad89528f782be2e8971ff4ab0 (page 2).jpg by Pitcairn Aircraft Inc, CC0, https://commons.wikimedia.org/wiki/File:Pitcairn_PA-5_Mailwing_-_DPLA_-_3403588ad89528f782be2e8971ff4ab0_(page_2).jpg
+- 76th AS elevates travel for the Global Gateway (8448472).jpg by U.S. Air Force photo by Airman Dylan Myers, Public domain, https://commons.wikimedia.org/wiki/File:76th_AS_elevates_travel_for_the_Global_Gateway_(8448472).jpg
+- Integrated Training Exercise 2-15 150213-F-EI671-124.jpg by Tech. Sgt. Joselito Aribuabo, Public domain, https://commons.wikimedia.org/wiki/File:Integrated_Training_Exercise_2-15_150213-F-EI671-124.jpg
+- Cockpit windows of a Boeing 787 (1).jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Cockpit_windows_of_a_Boeing_787_(1).jpg
+- Lear Jet 23 - DPLA - d07f733bb24bd3d19d8676aba4574adf (page 3).jpg by Lear Jet Corporation, CC0, https://commons.wikimedia.org/wiki/File:Lear_Jet_23_-_DPLA_-_d07f733bb24bd3d19d8676aba4574adf_(page_3).jpg
+- Lear Jet 23 - DPLA - d07f733bb24bd3d19d8676aba4574adf (page 1).jpg by Lear Jet Corporation, CC0, https://commons.wikimedia.org/wiki/File:Lear_Jet_23_-_DPLA_-_d07f733bb24bd3d19d8676aba4574adf_(page_1).jpg
+- Remnants of a bird kill on Myrstigen trail.jpg by W.carter, CC0, https://commons.wikimedia.org/wiki/File:Remnants_of_a_bird_kill_on_Myrstigen_trail.jpg
+- F16 after bird strike.jpg by unknown, Public domain, https://commons.wikimedia.org/wiki/File:F16_after_bird_strike.jpg
+- 1983 AMC Eagle wagon rr-Cecil'10.jpg by CZmarlin  — Christopher Ziemnowicz, releases all rights but a photo credit would be appreciated if this image is used anywhere other than Wikipedia. Please leave a note at Wikipedia here. Thank you!, Public domain, https://commons.wikimedia.org/wiki/File:1983_AMC_Eagle_wagon_rr-Cecil%2710.jpg
+- 1969 AMC AMX SS Hurst factory dragcar as Cotton Candy at AMO 2015 meet 09.jpg by CZmarlin — Christopher Ziemnowicz — a photo credit is reguired if this image is used anywhere other than Wikipedia., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1969_AMC_AMX_SS_Hurst_factory_dragcar_as_Cotton_Candy_at_AMO_2015_meet_09.jpg
+- Overhead panel of an Airbus A320 during cruise.jpg by Olivier Cleynen, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Overhead_panel_of_an_Airbus_A320_during_cruise.jpg
+- Hiller XHOE-1 Hornet - DPLA - cd5d7372b219be9958abee336fece0c3 (page 3).jpg by United Helicopters Incorporated, CC0, https://commons.wikimedia.org/wiki/File:Hiller_XHOE-1_Hornet_-_DPLA_-_cd5d7372b219be9958abee336fece0c3_(page_3).jpg
+- Nose landing gear of a Sukhoi Superjet 100.jpg by Olivier Cleynen, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Nose_landing_gear_of_a_Sukhoi_Superjet_100.jpg
+- Eurofighter Typhoon Gear-Up.jpg by Falcon® Photography, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Eurofighter_Typhoon_Gear-Up.jpg
+- I-FENI PIAGGIO P166C RAF Fairford 9.7.16 (53016098287).jpg by Colin Cooke Photo, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:I-FENI_PIAGGIO_P166C_RAF_Fairford_9.7.16_(53016098287).jpg
+- I-FENI PIAGGIO P166C Practica de Mare 16.6.23 (53017164093).jpg by Colin Cooke Photo, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:I-FENI_PIAGGIO_P166C_Practica_de_Mare_16.6.23_(53017164093).jpg
+- Vulcan starboard and center stations (4527981328).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Vulcan_starboard_and_center_stations_(4527981328).jpg
+- Brampton ON Fire-Engine 2026-02-17 (4).jpg by Milan Suvajac, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Brampton_ON_Fire-Engine_2026-02-17_(4).jpg
+- DOUGLAS C-47D Skytrain "Kilroy Is Here" - 51168567795.jpg by Eric Friedebach, CC BY 2.0, https://commons.wikimedia.org/wiki/File:DOUGLAS_C-47D_Skytrain_%22Kilroy_Is_Here%22_-_51168567795.jpg
+- DOUGLAS C-47D Skytrain "Kilroy Is Here" - 51168568585.jpg by Eric Friedebach, CC BY 2.0, https://commons.wikimedia.org/wiki/File:DOUGLAS_C-47D_Skytrain_%22Kilroy_Is_Here%22_-_51168568585.jpg
+- Douglas SBD-6 Dauntless - DPLA - 71028774a9a6be0f49ca47ea7eb15f28 (page 7).jpg by Douglas Aircraft Company, CC0, https://commons.wikimedia.org/wiki/File:Douglas_SBD-6_Dauntless_-_DPLA_-_71028774a9a6be0f49ca47ea7eb15f28_(page_7).jpg
+- Douglas SBD-6 Dauntless - DPLA - 71028774a9a6be0f49ca47ea7eb15f28 (page 5).jpg by Douglas Aircraft Company, CC0, https://commons.wikimedia.org/wiki/File:Douglas_SBD-6_Dauntless_-_DPLA_-_71028774a9a6be0f49ca47ea7eb15f28_(page_5).jpg
+- Cockpit voice recorders.JPG by Dtom, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Cockpit_voice_recorders.JPG
+- Cockpit voice recorder of the 2023 Elmina plane crash.jpg by Wolfiewhite, CC0, https://commons.wikimedia.org/wiki/File:Cockpit_voice_recorder_of_the_2023_Elmina_plane_crash.jpg
+- Soviet MS-61 Cockpit Voice Recorder.jpg by Sanjay Acharya, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Soviet_MS-61_Cockpit_Voice_Recorder.jpg
+- Aviation Technical Training Center 140318-G-XA025-015.jpg by Petty Officer 1st Class Karlton Rebenstorf, Public domain, https://commons.wikimedia.org/wiki/File:Aviation_Technical_Training_Center_140318-G-XA025-015.jpg
+- FLIGHT DATA RECORDER (4869416057).jpg by André Gustavo Stumpf from Brasília, Brasil, CC BY 2.0, https://commons.wikimedia.org/wiki/File:FLIGHT_DATA_RECORDER_(4869416057).jpg
+- Flight recorder 01.jpg by Beko, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Flight_recorder_01.jpg
+- ATR 42-600 Flight Recorder Marking (JA01AM).jpg by SuFlyer, CC0, https://commons.wikimedia.org/wiki/File:ATR_42-600_Flight_Recorder_Marking_(JA01AM).jpg
+- Nil Valley From Airliner (59857892).jpeg by Philippe Goachet, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Nil_Valley_From_Airliner_(59857892).jpeg
+- Boeing B-29 Superfortress P2B-1S Cockpit.jpg by Eric Friedebach, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Boeing_B-29_Superfortress_P2B-1S_Cockpit.jpg
+- EM Metro-Cockpit (3283368365).jpg by Eddie Maloney from  North Las Vegas, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:EM_Metro-Cockpit_(3283368365).jpg
+- Herald cockpit (2541294317).jpg by allen watkin from London, UK, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Herald_cockpit_(2541294317).jpg
+- Cockpit CV-880 DN-ST-84-08656.jpg by DON S. MONTGOMERY, USN (RET.), Public domain, https://commons.wikimedia.org/wiki/File:Cockpit_CV-880_DN-ST-84-08656.jpg
+- Cockpit Beech 1900C Sunset @ 16000' (104909128).jpg by Shawn from Airdrie, Canada, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Cockpit_Beech_1900C_Sunset_@_16000%27_(104909128).jpg
+- Boeing 757 takeoff after dusk (7256191504).jpg by Bill Abbott, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Boeing_757_takeoff_after_dusk_(7256191504).jpg
+- Pre-fight, Oil for the engine of an airliner preparatory to takeoff. Municipal airport, Washington, D.C. July 1941. - Flickr - polkbritton.jpg by Jack Delano, Public domain, https://commons.wikimedia.org/wiki/File:Pre-fight,_Oil_for_the_engine_of_an_airliner_preparatory_to_takeoff._Municipal_airport,_Washington,_D.C._July_1941._-_Flickr_-_polkbritton.jpg
+- A350 First Flight - Takeoff 06.jpg by Don-vip, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:A350_First_Flight_-_Takeoff_06.jpg
+- A350 First Flight - Takeoff 02.JPG by Don-vip, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:A350_First_Flight_-_Takeoff_02.JPG
