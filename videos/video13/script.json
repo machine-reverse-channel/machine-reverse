@@ -1,0 +1,227 @@
+{
+ "id": "video13",
+ "title": "Why Doesn't the Space Station Fall Down?",
+ "length_scale": 1.6,
+ "scenes": [
+  {
+   "text": "The International Space Station weighs about four hundred fifty thousand kilograms, and it floats about four hundred kilometers above your head. It is bigger than a football field, and it never lands. So why doesn't it fall down? It does fall, all the time. It just keeps missing the ground. Today, ten parts of the space station, and the reason each one is there.",
+   "query": "International Space Station",
+   "caption": "WHY DOESN'T IT FALL?",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "There is no magic up there, and no escape from gravity. At the height of the station, gravity is still almost as strong as on the ground. What the station has is speed, and a long list of machines that keep it alive in a place with no air, no shade and no help.",
+   "query": "International Space Station Earth",
+   "caption": "SPEED, NOT ESCAPE"
+  },
+  {
+   "text": "As always, every fact here comes from a named source, NASA documents and spaceflight references, all listed in the description. Let's start with the biggest question of all.",
+   "query": "International Space Station orbit",
+   "caption": "WHY DOES THIS EXIST?"
+  },
+  {
+   "text": "Why doesn't the space station fall down? Because it is moving sideways at about seven point six seven kilometers every second, twenty-seven thousand six hundred kilometers an hour. It does fall toward Earth, but the Earth's surface curves away as fast as the station drops. So it falls around the planet, over and over, completing a lap in about ninety-three minutes, fifteen and a half orbits every day.",
+   "query": "International Space Station orbit Earth",
+   "caption": "WHY DOESN'T THIS FALL DOWN?",
+   "arrow": true,
+   "chapter": "1. The station that never lands",
+   "short": "Why Doesn't the Space Station Fall Down?",
+   "cuts": 3
+  },
+  {
+   "text": "Think of throwing a ball. The harder you throw, the farther it lands. Throw it hard enough, and the ground curves away beneath it before it lands. That is an orbit. The astronauts feel weightless not because gravity is gone, but because they and the station are falling together.",
+   "query": "astronaut floating International Space Station",
+   "caption": "FALLING AND MISSING"
+  },
+  {
+   "text": "And this was done with an enormous machine, built in pieces, in orbit, by many countries. Humans have lived aboard continuously since the second of November, two thousand. Everything we will look at today is part of keeping that going.",
+   "query": "International Space Station crew",
+   "caption": "LIVED IN SINCE 2000"
+  },
+  {
+   "text": "Why does the station have such enormous wings? They are solar arrays, and there are eight of them. Each one is thirty-five meters long and twelve meters wide, and each makes close to thirty-one kilowatts in direct sunlight. All eight together make about two hundred forty kilowatts in the sun, and on average, a bit less than half of that, because of the shade.",
+   "query": "International Space Station solar array",
+   "caption": "WHY ARE THESE WINGS SO HUGE?",
+   "arrow": true,
+   "chapter": "2. The giant solar wings",
+   "short": "Why Does the Space Station Have Such Giant Solar Wings?",
+   "cuts": 3
+  },
+  {
+   "text": "Every ninety minute lap, the station spends about thirty-five minutes in the Earth's shadow. During that time, batteries take over. The battery system goes through sixteen charge and discharge cycles every day, which is why the batteries are one of the parts the crew has to replace over the years.",
+   "query": "International Space Station eclipse night",
+   "caption": "35 MINUTES IN THE DARK"
+  },
+  {
+   "text": "Folded for launch, each wing fits in a box just fifty-one centimeters high. In space, it unfolds into a field of solar cells bigger than a tennis court. It is a power plant, delivered in a shoebox, that has to work in vacuum for decades.",
+   "query": "International Space Station solar panels",
+   "caption": "A POWER PLANT IN A BOX"
+  },
+  {
+   "text": "Why do the solar wings keep turning? To follow the Sun. The station circles the Earth every ninety minutes, so the Sun appears to move across the sky very fast. A rotating joint called the alpha gimbal turns the arrays to face it, and a second joint, the beta gimbal, adjusts for the angle of the orbit. A solar panel that does not face the Sun makes much less power.",
+   "query": "International Space Station solar array rotary joint",
+   "caption": "WHY DO THE SOLAR WINGS KEEP TURNING?",
+   "arrow": true,
+   "chapter": "3. The rotating joints",
+   "short": "Why Do the Space Station's Solar Wings Keep Turning?",
+   "cuts": 3
+  },
+  {
+   "text": "The station keeps its body pointed at the Earth, while its wings turn to follow the Sun. Those two jobs need different directions, so the joints do the work of a sunflower, all day, every day.",
+   "query": "International Space Station Sun",
+   "caption": "A SUNFLOWER IN SPACE"
+  },
+  {
+   "text": "Each of those joints is a moving part in a machine that is almost impossible to repair, which is why they are among the most watched parts of the station. A joint that sticks means a wing that stops making full power.",
+   "query": "International Space Station spacewalk solar",
+   "caption": "ALWAYS WATCHED"
+  },
+  {
+   "text": "Why does the station have giant white panels next to its solar wings? They are radiators. Every computer, light and astronaut makes heat, and in space there is no air to carry it away. The only way to get rid of heat in a vacuum is to radiate it as infrared light, so the station circulates liquid through pipes to the panels, which shine the heat out into space.",
+   "query": "International Space Station radiator panels",
+   "caption": "WHY ARE THESE WHITE PANELS HERE?",
+   "arrow": true,
+   "chapter": "4. The white radiator panels",
+   "short": "Why Does the Space Station Have Giant White Panels?",
+   "cuts": 3
+  },
+  {
+   "text": "The truss that carries the solar arrays also carries the radiators. Together, the two sets of panels are the station's lungs and its power supply, one bringing energy in and the other letting energy out.",
+   "query": "International Space Station truss radiator",
+   "caption": "ENERGY IN, ENERGY OUT"
+  },
+  {
+   "text": "It is a strange problem. The danger in space is not only the cold. A station full of equipment, parked in sunlight, can get too hot to work. Keeping cool is as hard as keeping warm.",
+   "query": "International Space Station thermal",
+   "caption": "TOO HOT IN SPACE"
+  },
+  {
+   "text": "Why does the station have a giant metal spine? It is called the Integrated Truss Structure, built of ten segments, about one hundred eight meters long. It is the backbone that holds the solar arrays and radiators, far enough from the living modules so the wings do not shade the crew, or each other.",
+   "query": "International Space Station integrated truss structure",
+   "caption": "WHY IS THERE A GIANT SPINE?",
+   "arrow": true,
+   "chapter": "5. The long truss",
+   "short": "Why Does the Space Station Have a Giant Metal Spine?",
+   "cuts": 3
+  },
+  {
+   "text": "A truss is a very light way to be very long. It is made of simple bars, with mostly empty space between them. That lets the station carry large wings and panels without the weight of a solid beam, which matters when every kilogram has to be launched on a rocket.",
+   "query": "International Space Station truss assembly",
+   "caption": "LONG BUT LIGHT"
+  },
+  {
+   "text": "The truss was assembled piece by piece, over years of shuttle flights, by astronauts doing spacewalks. It is one of the largest structures humans have ever built outside the Earth.",
+   "query": "International Space Station assembly spacewalk",
+   "caption": "BUILT BY SPACEWALKERS"
+  },
+  {
+   "text": "Why does the station have a dome made of windows? It is called the Cupola, and it has seven windows, with a round one in the middle about eighty centimeters across. It is the control room for the robotic arm, a place from which astronauts can see the outside of the station and the spacecraft arriving to dock.",
+   "query": "International Space Station Cupola",
+   "caption": "WHY DOES THE STATION HAVE A GLASS DOME?",
+   "arrow": true,
+   "chapter": "6. The Cupola",
+   "short": "Why Does the Space Station Have a Glass Dome?",
+   "cuts": 3
+  },
+  {
+   "text": "Moving a robot arm, or catching a cargo ship with it, is much easier when you can look at it with your own eyes. Cameras help, but a window gives the view and the depth that screens can not. It is also where astronauts go to look at the Earth.",
+   "query": "International Space Station Cupola window astronaut",
+   "caption": "WORK WITH YOUR EYES"
+  },
+  {
+   "text": "The windows are protected by shutters, closed when they are not in use, against dust and tiny impacts. A big window on a spacecraft is a risk, so it needs good reasons. The view of the arm and the planet was one.",
+   "query": "Cupola shutters International Space Station",
+   "caption": "A WINDOW WITH A SHUTTER"
+  },
+  {
+   "text": "How does the station keep itself pointed the right way without burning fuel? With four giant spinning wheels, called control moment gyroscopes, mounted on the truss. Tilt a spinning wheel and it pushes back on the station, turning it. They keep the station at a steady angle to the Earth, and they use only electricity from the solar arrays.",
+   "query": "International Space Station control moment gyroscope",
+   "caption": "WHY DOES THE STATION HAVE GIANT SPINNING WHEELS?",
+   "arrow": true,
+   "chapter": "7. The control gyroscopes",
+   "short": "How Does the Space Station Turn Without Using Fuel?",
+   "cuts": 3
+  },
+  {
+   "text": "Rocket thrusters can do the same job, but they burn propellant that has to be launched from Earth. Over the years, using the gyroscopes for turns, including turns before Soyuz capsules undock, has saved a lot of propellant.",
+   "query": "International Space Station thrusters attitude",
+   "caption": "SAVES PROPELLANT"
+  },
+  {
+   "text": "The gyroscopes have a limit. If they keep absorbing push, they eventually saturate, and then the station has to use another way to get rid of the extra momentum, like thrusters or the pull of gravity itself. Even a machine without fuel has a limit.",
+   "query": "International Space Station gyroscope saturation",
+   "caption": "EVEN THEY HAVE LIMITS"
+  },
+  {
+   "text": "How does the station survive the pieces of space junk flying around it? With shields. The walls of many modules have an aluminum outer bumper, and behind it a blanket of Nextel ceramic fabric and Kevlar, with the real wall behind. The design is meant to stop an aluminum ball about one centimeter wide, at speeds of several kilometers a second.",
+   "query": "International Space Station debris shield Whipple",
+   "caption": "WHY ARE THERE BLANKET SHIELDS ON THE WALLS?",
+   "arrow": true,
+   "chapter": "8. The debris shields",
+   "short": "How Does the Space Station Survive Space Junk?",
+   "cuts": 3
+  },
+  {
+   "text": "The idea is called a Whipple shield. The outer bumper does not stop the piece. It breaks it up, melts it or turns it into a cloud of fine fragments, and the layers behind spread and absorb what is left. A thin plate with a gap works better than one thick plate.",
+   "query": "Whipple shield impact test",
+   "caption": "A THIN PLATE AND A GAP"
+  },
+  {
+   "text": "The faster the object, the better it works. At several kilometers a second, a small fragment vaporizes when it hits the bumper. It is a strange rule of space. A fast thing can be easier to stop than a slow one.",
+   "query": "space debris impact",
+   "caption": "FASTER IS EASIER TO STOP"
+  },
+  {
+   "text": "Why does a station need engines if it is already in orbit? Because there is still a very thin trace of air at four hundred kilometers, and it drags on the station. Without help, the station loses about two kilometers of altitude every month. So, from time to time, a visiting spacecraft, or the station's own engines, fire to lift it back up.",
+   "query": "International Space Station reboost",
+   "caption": "WHY DOES THE STATION NEED TO BE PUSHED UP?",
+   "arrow": true,
+   "chapter": "9. The reboost engines",
+   "short": "Why Does the Space Station Need to Be Pushed Higher?",
+   "cuts": 3
+  },
+  {
+   "text": "Without those pushes, the orbit would slowly shrink, and eventually the station would fall into the atmosphere and burn up. The station is not simply parked up there. It is slowly being held up, month after month, by people on the ground planning each burn.",
+   "query": "International Space Station orbit decay",
+   "caption": "HELD UP, MONTH AFTER MONTH"
+  },
+  {
+   "text": "So the answer to our title is a little more complicated. The station does not fall down because it is always moving sideways, very fast, and because someone keeps topping up its speed. Gravity never lets go. We just keep winning.",
+   "query": "International Space Station orbit boost",
+   "caption": "GRAVITY NEVER LETS GO"
+  },
+  {
+   "text": "Why does the station have a giant robot arm? It is Canadarm two, and it is the station's crane. It moved the pieces of the station into place during assembly, and since then it has caught visiting cargo ships and moved astronauts to their work sites. The arm walks along the station, hand over hand, changing the end it holds on to.",
+   "query": "Canadarm2 International Space Station",
+   "caption": "WHY DOES THE STATION HAVE A ROBOT ARM?",
+   "arrow": true,
+   "chapter": "10. The robot arm",
+   "short": "Why Does the Space Station Have a Giant Robot Arm?",
+   "cuts": 3
+  },
+  {
+   "text": "Ships that bring supplies do not dock by themselves, many of them stop a short distance away, and wait to be grabbed by the arm. It is gentler and safer than trying to fly a spaceship into a docking port at that moment.",
+   "query": "Canadarm2 captures cargo spacecraft",
+   "caption": "THE STATION'S CRANE"
+  },
+  {
+   "text": "It is a simple idea, a robot arm built to work in zero gravity. And with it, the astronauts built a house in the sky, one room at a time, that has been lived in for more than twenty-five years.",
+   "query": "International Space Station robotic arm assembly",
+   "caption": "A HOUSE IN THE SKY"
+  },
+  {
+   "text": "So here are the ten. A station that falls around the Earth and misses, solar wings that follow the Sun, radiators that shine away the heat, a spine that holds them, a dome of windows. Spinning wheels that turn the station, shields against space junk, engines that lift it, and an arm that built it.",
+   "query": "International Space Station sunrise",
+   "caption": "10 PARTS. 10 REASONS.",
+   "chapter": "The verdict",
+   "cuts": 6
+  },
+  {
+   "text": "Next time you see the station crossing the night sky, a bright dot that moves faster than any plane, you will know what is holding it up. If you want more machines explained part by part, subscribe to Machine Reverse. And tell us in the comments which machine you want us to take apart next.",
+   "query": "International Space Station night sky",
+   "caption": "SUBSCRIBE: MACHINE REVERSE",
+   "cuts": 4
+  }
+ ]
+}
