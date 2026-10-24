@@ -94,8 +94,8 @@
    "query": "International Space Station radiator panels",
    "caption": "WHY ARE THESE WHITE PANELS HERE?",
    "arrow": {
-    "x": 0.45,
-    "y": 0.57
+    "x": 0.55,
+    "y": 0.45
    },
    "chapter": "4. The white radiator panels",
    "short": "Why Does the Space Station Have Giant White Panels?",
@@ -209,8 +209,8 @@
    "query": "International Space Station reboost",
    "caption": "WHY DOES THE STATION NEED TO BE PUSHED UP?",
    "arrow": {
-    "x": 0.85,
-    "y": 0.25
+    "x": 0.77,
+    "y": 0.35
    },
    "chapter": "9. The reboost engines",
    "short": "Why Does the Space Station Need to Be Pushed Higher?",
