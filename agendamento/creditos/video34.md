@@ -1,0 +1,93 @@
+# Photo credits: Why Did Pop-Up Headlights Disappear?
+
+All photos from Wikimedia Commons.
+
+- Suzuki Katana 750.jpg by Lee Carson from Edinburgh, Scotland, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Suzuki_Katana_750.jpg
+- White Linoln Continental Mark V p2.JPG by AlfvanBeem, CC0, https://commons.wikimedia.org/wiki/File:White_Linoln_Continental_Mark_V_p2.JPG
+- Modified White Drift Car on North MLK Boulevard.jpg by Noah Wulf, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Modified_White_Drift_Car_on_North_MLK_Boulevard.jpg
+- Hofstetter Turbo.jpg by Bruno Sousa, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Hofstetter_Turbo.jpg
+- Mitsubishi 3000GT VR4.jpg by Jacob Frey 4A, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Mitsubishi_3000GT_VR4.jpg
+- 1991 Mitsubishi 3000GT SL Automatic.jpg by Rutger van der Maar, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1991_Mitsubishi_3000GT_SL_Automatic.jpg
+- 1st-Eagle-Talon.jpg by IFCAR, Public domain, https://commons.wikimedia.org/wiki/File:1st-Eagle-Talon.jpg
+- Mitsubishi 3000GT VR-4 3.0 '95 (8988177237).jpg by Falcon® Photography from France, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Mitsubishi_3000GT_VR-4_3.0_%2795_(8988177237).jpg
+- View of a scooter with many headlights in the Classic Car Boot Sale - geograph.org.uk - 4385473.jpg by Robert Lamb, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:View_of_a_scooter_with_many_headlights_in_the_Classic_Car_Boot_Sale_-_geograph.org.uk_-_4385473.jpg
+- Rows of car headlights (Unsplash).jpg by Nabeel Syed nabeelsyed, CC0, https://commons.wikimedia.org/wiki/File:Rows_of_car_headlights_(Unsplash).jpg
+- Mazda MX-5 (ND) 1X7A7471.jpg by Alexander-93, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mazda_MX-5_(ND)_1X7A7471.jpg
+- Mazda MX-5 ND Wien 26 July 2020 JM (1).jpg by Johannes Maximilian, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mazda_MX-5_ND_Wien_26_July_2020_JM_(1).jpg
+- Toyota Sprinter Trueno AE86 2 door.jpg by SprinterTrueno1985, CC0, https://commons.wikimedia.org/wiki/File:Toyota_Sprinter_Trueno_AE86_2_door.jpg
+- Mitsubishi 3000 GT VR4 (4766261576).jpg by Spanish Coches, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Mitsubishi_3000_GT_VR4_(4766261576).jpg
+- Eagle SS back.JPG by HSV, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Eagle_SS_back.JPG
+- Lotus Esprit Turbo S3, Heck (2018-04-29 Sp r).JPG by Lothar Spurzem, CC BY-SA 2.0 de, https://commons.wikimedia.org/wiki/File:Lotus_Esprit_Turbo_S3,_Heck_(2018-04-29_Sp_r).JPG
+- 1985 Lotus Esprit Turbo 2.jpg by Calreyn88, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1985_Lotus_Esprit_Turbo_2.jpg
+- Mazda MX-5 (NA) IMG 0206.jpg by Alexander-93, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mazda_MX-5_(NA)_IMG_0206.jpg
+- 1996 Mazda MX-5 1.8.jpg by Vauxford, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1996_Mazda_MX-5_1.8.jpg
+- Chevrolet Corvette C5 Haynes.jpg by Calreyn88, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_C5_Haynes.jpg
+- Chevrolet Corvette C5, 2015 Pau.jpg by Handelsgeselschaft, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_C5,_2015_Pau.jpg
+- Chevrolet Corvette C5 Grand Sport.jpg by Handelsgeselschaft, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_C5_Grand_Sport.jpg
+- Mini-Moke (6075905799).jpg by Pedro Ribeiro Simões from Lisboa, Portugal, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Mini-Moke_(6075905799).jpg
+- 1999 MR2 GTS LIMITED.jpg by K.a.y.d.e.nrog, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1999_MR2_GTS_LIMITED.jpg
+- Modern Sunset.jpg by KingSuperguy, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Modern_Sunset.jpg
+- Modern Electric Jeepney.jpg by RizaCPH, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Modern_Electric_Jeepney.jpg
+- Headlight lens optics.jpg by unknown, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Headlight_lens_optics.jpg
+- San Francisco, California - USA (8403320388) (cropped).jpg by Mic from Reading - Berkshire, United Kingdom, CC BY 2.0, https://commons.wikimedia.org/wiki/File:San_Francisco,_California_-_USA_(8403320388)_(cropped).jpg
+- 1985 Cadillac Sedan de Ville.jpg by MercurySable99, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1985_Cadillac_Sedan_de_Ville.jpg
+- Simca 1501 Special (1970s) (11586954456).jpg by Charlie from United Kingdom, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Simca_1501_Special_(1970s)_(11586954456).jpg
+- Simca 1501 Special (1970s) (11586514714).jpg by Charlie from United Kingdom, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Simca_1501_Special_(1970s)_(11586514714).jpg
+- Lincoln Mark VII LSC (1988-89).jpg by Andrew Bone, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Lincoln_Mark_VII_LSC_(1988-89).jpg
+- 1989 Lincoln Mark VII LSC, front left, 03-24-2023.jpg by MercurySable99, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1989_Lincoln_Mark_VII_LSC,_front_left,_03-24-2023.jpg
+- Halogen light bulb.JPG by Chemicalinterest, CC0, https://commons.wikimedia.org/wiki/File:Halogen_light_bulb.JPG
+- OSRAM ENH 93506 120V-250W GY-5,3 halogen lamp base.jpg by Alex P. Kok, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:OSRAM_ENH_93506_120V-250W_GY-5,3_halogen_lamp_base.jpg
+- Wiring diagram of power supply for halogen lamps.JPG by Dmitry G, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wiring_diagram_of_power_supply_for_halogen_lamps.JPG
+- Perodua Axia's (1).jpg by Bindydad123, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Perodua_Axia%27s_(1).jpg
+- Accelerating Away from a Yellowing Sky.jpg by Road-hog123, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Accelerating_Away_from_a_Yellowing_Sky.jpg
+- Road-legal H4 LED retrofit (Philips Ultinon Pro6000).jpg by Phiarc, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Road-legal_H4_LED_retrofit_(Philips_Ultinon_Pro6000).jpg
+- Road-legal H4 LED retrofit close-up (Philips Ultinon Pro6000).jpg by Phiarc, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Road-legal_H4_LED_retrofit_close-up_(Philips_Ultinon_Pro6000).jpg
+- 2014 Proton Suprima S Premium - Headlights.jpg by Aero777, CC BY-SA 2.5 my, https://commons.wikimedia.org/wiki/File:2014_Proton_Suprima_S_Premium_-_Headlights.jpg
+- Dülmen, Kirchspiel, Börnste, BMW Mini -- 2019 -- 7207-13.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_B%C3%B6rnste,_BMW_Mini_--_2019_--_7207-13.jpg
+- Techno-Classica 2018, Essen (IMG 9994).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Techno-Classica_2018,_Essen_(IMG_9994).jpg
+- PHILIPS MASTER SON-T PIA Plus.jpg by Mister rf, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:PHILIPS_MASTER_SON-T_PIA_Plus.jpg
+- RNP-T LR 250W.jpg by Mister rf, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:RNP-T_LR_250W.jpg
+- " 13 - ITALY - Alfa Romeo headlight assembly - projector black headlamp xenon - Giulietta 2013.jpg by Pava, CC BY-SA 3.0 it, https://commons.wikimedia.org/wiki/File:%22_13_-_ITALY_-_Alfa_Romeo_headlight_assembly_-_projector_black_headlamp_xenon_-_Giulietta_2013.jpg
+- 2014 Ford Fusion Projector Headlight.jpg by A. Bailey, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2014_Ford_Fusion_Projector_Headlight.jpg
+- 1992 Lada 2106 with yellow headlights.jpg by Elveres, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1992_Lada_2106_with_yellow_headlights.jpg
+- 101 canary yellow at musashikoganei.jpg by Shellparakeet, CC0, https://commons.wikimedia.org/wiki/File:101_canary_yellow_at_musashikoganei.jpg
+- Headlight of Alfa Romeo 1750 GTV.jpg by Hallo3800, Public domain, https://commons.wikimedia.org/wiki/File:Headlight_of_Alfa_Romeo_1750_GTV.jpg
+- Citroen DS21 Majesty Chapron, TC 24, Essen (TCE43423).jpg by Matti Blume, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Citroen_DS21_Majesty_Chapron,_TC_24,_Essen_(TCE43423).jpg
+- Citroen DS Cabriolet Classic-Days 2022 IMG 7243.jpg by Alexander Migl, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Citroen_DS_Cabriolet_Classic-Days_2022_IMG_7243.jpg
+- Upholstering the seats of your own car, Margarita Island, Venezuela.jpg by Wilfredor, CC0, https://commons.wikimedia.org/wiki/File:Upholstering_the_seats_of_your_own_car,_Margarita_Island,_Venezuela.jpg
+- Eryphanis automedon MHNT male.jpg by Didier Descouens, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Eryphanis_automedon_MHNT_male.jpg
+- BMW M4 (G83) 1X7A7098.jpg by Alexander-93, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:BMW_M4_(G83)_1X7A7098.jpg
+- Mazda Roadpacer in the Mazda-Museum Augsburg 01.jpg by Kritzolina, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mazda_Roadpacer_in_the_Mazda-Museum_Augsburg_01.jpg
+- Dülmen, -Oldtimertreffen- -- 2004 -- 8.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_-Oldtimertreffen-_--_2004_--_8.jpg
+- Dülmen, Wiesmann Sports Cars, Wiesmann GT -- 2018 -- 9599.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Wiesmann_Sports_Cars,_Wiesmann_GT_--_2018_--_9599.jpg
+- Dülmen, Wiesmann Sports Cars, Wiesmann Spyder Concept -- 2018 -- 9612.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Wiesmann_Sports_Cars,_Wiesmann_Spyder_Concept_--_2018_--_9612.jpg
+- Sunbeam Talbot 2 litre Sports Tourer 1947.jpg by DeFacto, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sunbeam_Talbot_2_litre_Sports_Tourer_1947.jpg
+- 1950 Alvis TB14 Sports Car (29043312312).jpg by Sicnag, CC BY 2.0, https://commons.wikimedia.org/wiki/File:1950_Alvis_TB14_Sports_Car_(29043312312).jpg
+- 2015 Audi A4 B9 S line Tangorot LED-Matrix-Scheinwerfer Detail.jpg by Kickaffe (Mario von Berg), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2015_Audi_A4_B9_S_line_Tangorot_LED-Matrix-Scheinwerfer_Detail.jpg
+- Audi TT 8S Matrix-LED-Scheinwerfer Abblendlicht LED-Tagfahrlicht.jpg by Kickaffe (Mario von Berg), CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Audi_TT_8S_Matrix-LED-Scheinwerfer_Abblendlicht_LED-Tagfahrlicht.jpg
+- Audi A8 L 55 TFSI Quattro D5 Floret Silver Metallic (6).jpg by Damian B Oh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Audi_A8_L_55_TFSI_Quattro_D5_Floret_Silver_Metallic_(6).jpg
+- Audi A6 50 TDI Quattro Premium C8 Daytona Gray Pearl (39).jpg by Damian B Oh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Audi_A6_50_TDI_Quattro_Premium_C8_Daytona_Gray_Pearl_(39).jpg
+- Audi A8 L 55 TFSI Quattro S Line Premium D5 FL Mythos Black Metallic (44).jpg by Damian B Oh, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Audi_A8_L_55_TFSI_Quattro_S_Line_Premium_D5_FL_Mythos_Black_Metallic_(44).jpg
+- Münster, Stadthaus 3, Straßenbahn -- 2018 -- 0960-2.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Stadthaus_3,_Stra%C3%9Fenbahn_--_2018_--_0960-2.jpg
+- Man holding a windscreen wiper.jpg by ShiberuInupreza, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Man_holding_a_windscreen_wiper.jpg
+- 28632 67028 mashed windscreen wiper (9757108291).jpg by penske666 from United Kingdom of Great Britain and Northern Ireland, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:28632_67028_mashed_windscreen_wiper_(9757108291).jpg
+- Mazda Roadpacer in the Mazda-Museum Augsburg 02.jpg by Kritzolina, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mazda_Roadpacer_in_the_Mazda-Museum_Augsburg_02.jpg
+- ZAZ-1103 Slavuta car front view and headlights.jpg by Natalka Ukraine, CC BY 4.0, https://commons.wikimedia.org/wiki/File:ZAZ-1103_Slavuta_car_front_view_and_headlights.jpg
+- Dronning Sonjas KunstStall (Queen Sonja Art Stable gallery museum exhibition Oslo Norway) A-1 Kongelig bil Royal car GM Buick Roadmaster Serie 81C 1939 (Haakon 7 1945, Olav 5 1958, Harald 5 1991) Front Headlights bumpers grille plate (.jpg by Wolfmann, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Dronning_Sonjas_KunstStall_(Queen_Sonja_Art_Stable_gallery_museum_exhibition_Oslo_Norway)_A-1_Kongelig_bil_Royal_car_GM_Buick_Roadmaster_Serie_81C_1939_(Haakon_7_1945,_Olav_5_1958,_Harald_5_1991)_Front_Headlights_bumpers_grille_plate_(.jpg
+- LED DaytimeRunningLights.jpg by Thermos, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:LED_DaytimeRunningLights.jpg
+- BMW Swarovski Crystal daytime running lights.jpg by RpM Tartar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:BMW_Swarovski_Crystal_daytime_running_lights.jpg
+- 'Volkswagen' Obere Tagfahrleuchte für Kraftfahrzeuge Nr. 21 2021 000 172 Vadim Chuprina А.jpg by Vadim Chuprina, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%27Volkswagen%27_Obere_Tagfahrleuchte_f%C3%BCr_Kraftfahrzeuge_Nr._21_2021_000_172_Vadim_Chuprina_%D0%90.jpg
+- Thor's Hammer - Volvo Headlights (44383394120).jpg by Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Thor%27s_Hammer_-_Volvo_Headlights_(44383394120).jpg
+- Vehicle Headlights - Volvo Thor's Hammer (44383404030).jpg by Tony Webster from Minneapolis, Minnesota, United States, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Vehicle_Headlights_-_Volvo_Thor%27s_Hammer_(44383404030).jpg
+- 2014 Toyota Avalon Quadrabeam Headlamp.jpg by A. Bailey, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2014_Toyota_Avalon_Quadrabeam_Headlamp.jpg
+- 2014 Hyundai Genesis Headlamp.jpg by A. Bailey, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:2014_Hyundai_Genesis_Headlamp.jpg
+- Members of the Somali Police Force check documents in the headlights of a car in the Somali capital Mogadishu during a joint night patrol and snap-vehicle checkpoint exercise.jpg by AMISOM Public Information, CC0, https://commons.wikimedia.org/wiki/File:Members_of_the_Somali_Police_Force_check_documents_in_the_headlights_of_a_car_in_the_Somali_capital_Mogadishu_during_a_joint_night_patrol_and_snap-vehicle_checkpoint_exercise.jpg
+- DZ6 1747 A quiet city intersection at night with streaking headlights from passing cars illuminated storefronts and a zebra crossing in the foreground.jpg by PattayaPatrol, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:DZ6_1747_A_quiet_city_intersection_at_night_with_streaking_headlights_from_passing_cars_illuminated_storefronts_and_a_zebra_crossing_in_the_foreground.jpg
+- 07 Driving in fog - car in low visibility dangerous weather conditions.jpg by Marek Ślusarczyk (Tupungato) Photo portfolio, CC BY 3.0, https://commons.wikimedia.org/wiki/File:07_Driving_in_fog_-_car_in_low_visibility_dangerous_weather_conditions.jpg
+- Car in the middle of the wilderness in the middle of the night in Tulppio.jpg by JIP, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Car_in_the_middle_of_the_wilderness_in_the_middle_of_the_night_in_Tulppio.jpg
+- Dülmen, Kirchspiel, BMW Mini -- 2016 -- 5065-71.jpg by Dietmar Rabich, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_BMW_Mini_--_2016_--_5065-71.jpg
+- Headlights and Tail Lights (Unsplash).jpg by Alex Bruski bru, CC0, https://commons.wikimedia.org/wiki/File:Headlights_and_Tail_Lights_(Unsplash).jpg
+- 1973 Chrysler Imperial Le Baron 04.JPG by Nickmix01, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:1973_Chrysler_Imperial_Le_Baron_04.JPG
+- Мицубиси 3000 GT в Нижнем Новгороде.jpg by Aleksey Churushkin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B8%D1%86%D1%83%D0%B1%D0%B8%D1%81%D0%B8_3000_GT_%D0%B2_%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5%D0%BC_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B5.jpg
+- Мицубиси 3000 GT в Нижнем Новгороде, 2016 год.jpg by Aleksey Churushkin, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B8%D1%86%D1%83%D0%B1%D0%B8%D1%81%D0%B8_3000_GT_%D0%B2_%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5%D0%BC_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B5,_2016_%D0%B3%D0%BE%D0%B4.jpg
+- Mitsubishi 3000GT VR-4 (8989338368).jpg by Falcon® Photography from France, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Mitsubishi_3000GT_VR-4_(8989338368).jpg
