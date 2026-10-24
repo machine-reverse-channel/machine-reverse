@@ -1,0 +1,75 @@
+# Photo credits: Why Do Wind Turbines Have Only 3 Blades?
+
+All photos from Wikimedia Commons.
+
+- Wind turbines along North Middle Road, Essex County, Ontario, 2025-06-29.jpg by Crisco 1492, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wind_turbines_along_North_Middle_Road,_Essex_County,_Ontario,_2025-06-29.jpg
+- Roscoe Wind Farm in West Texas.jpg by Matthew T Rader, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Roscoe_Wind_Farm_in_West_Texas.jpg
+- Afsluitdijk - wind turbines.jpg by Denkrahm, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Afsluitdijk_-_wind_turbines.jpg
+- 2026-03-07 D500-2006 Achim-Lammerts Juglans-regia.jpg by Achim Lammerts (Syntaxys), CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2026-03-07_D500-2006_Achim-Lammerts_Juglans-regia.jpg
+- WindTurbinePueblaMexico2020.jpg by Carlos Valenzuela, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:WindTurbinePueblaMexico2020.jpg
+- Barn wind turbines 0504.jpg by Dori, CC BY 2.5, https://commons.wikimedia.org/wiki/File:Barn_wind_turbines_0504.jpg
+- Wind Turbines and Power Lines, East Sussex, England - April 2009.jpg by Diliff, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Wind_Turbines_and_Power_Lines,_East_Sussex,_England_-_April_2009.jpg
+- Wind turbine in full 01.jpg by Lauri Veerde, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wind_turbine_in_full_01.jpg
+- Barrow Offshore wind turbines NR.jpg by Original:  Andy Dingley; Edit:  Muhammad, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Barrow_Offshore_wind_turbines_NR.jpg
+- Tugging of offshore wind turbine parts (Kenny McFly).jpg by Kenny McFly, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Tugging_of_offshore_wind_turbine_parts_(Kenny_McFly).jpg
+- Shaft end of Wind turbine blades.jpg by verum, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Shaft_end_of_Wind_turbine_blades.jpg
+- Wind turbine blades in Mechelen-aan-de-Maas (DSCF4409).jpg by Trougnouf (Benoit Brummer), CC BY 4.0, https://commons.wikimedia.org/wiki/File:Wind_turbine_blades_in_Mechelen-aan-de-Maas_(DSCF4409).jpg
+- Nacelle of Wind Turbine 01.jpg by Σ64, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Nacelle_of_Wind_Turbine_01.jpg
+- Wind turbine construction, Pougny, E6-09, nacelle and crane.jpg by Cjp24, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wind_turbine_construction,_Pougny,_E6-09,_nacelle_and_crane.jpg
+- Wind tower nacelle being unloaded.jpg by Dale Frost of the Port of San Diego from San Diego, CA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Wind_tower_nacelle_being_unloaded.jpg
+- Wind turbine blade transporter vessel "Blade Runner Two", River Medina, Isle of Wight.jpg by ITookSomePhotos, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wind_turbine_blade_transporter_vessel_%22Blade_Runner_Two%22,_River_Medina,_Isle_of_Wight.jpg
+- Vestas Blade Runner Two wind turbine boat.JPG by Arriva436, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Vestas_Blade_Runner_Two_wind_turbine_boat.JPG
+- Wind turbine and electricity tower.jpg by SusoRedondo, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wind_turbine_and_electricity_tower.jpg
+- Wind turbine, Knockbain - geograph.org.uk - 4316243.jpg by Craig Wallace, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Wind_turbine,_Knockbain_-_geograph.org.uk_-_4316243.jpg
+- Shaft end of Wind turbine blades (04).jpg by verum, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Shaft_end_of_Wind_turbine_blades_(04).jpg
+- Shaft end of Wind turbine blades (05).jpg by verum, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Shaft_end_of_Wind_turbine_blades_(05).jpg
+- 2023-04-02 Blade of a wind turbine 02.jpg by Bärbel Miemietz, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2023-04-02_Blade_of_a_wind_turbine_02.jpg
+- Wind turbine blade coming south of Selkirk on A7.jpg by Victuallers, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wind_turbine_blade_coming_south_of_Selkirk_on_A7.jpg
+- 2023-03-31 Wind turbine 05.jpg by Bärbel Miemietz, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2023-03-31_Wind_turbine_05.jpg
+- 2023-04-02 Wind turbine 01.jpg by Bärbel Miemietz, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2023-04-02_Wind_turbine_01.jpg
+- Wind turbine construction, Pougny, Enercon E-103 hub (1).jpg by Cjp24, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wind_turbine_construction,_Pougny,_Enercon_E-103_hub_(1).jpg
+- Wind Turbine Hub View.jpg by Guillaume Vanden Avenne, https://www.topo4d.be/, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Wind_Turbine_Hub_View.jpg
+- Wind turbine construction, Pougny, Enercon E-103 hub (2).jpg by Cjp24, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wind_turbine_construction,_Pougny,_Enercon_E-103_hub_(2).jpg
+- Wind Turbine Black and White.jpg by GORD3N, CC BY 4.0, https://commons.wikimedia.org/wiki/File:Wind_Turbine_Black_and_White.jpg
+- Wind turbine components, Burnie 20190310-002.jpg by Gary Houston, CC0, https://commons.wikimedia.org/wiki/File:Wind_turbine_components,_Burnie_20190310-002.jpg
+- Wind turbine construction, Pougny, E10-05.jpg by Cjp24, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wind_turbine_construction,_Pougny,_E10-05.jpg
+- Wind turbine blades in laydown yard Pasco 2009 fins - detail.jpg by Williamborg, Public domain, https://commons.wikimedia.org/wiki/File:Wind_turbine_blades_in_laydown_yard_Pasco_2009_fins_-_detail.jpg
+- Vortex Generator Installation.jpg by RobertBergqvist, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Vortex_Generator_Installation.jpg
+- Wind turbine blades in laydown yard Pasco 2009 fins.jpg by Williamborg, Public domain, https://commons.wikimedia.org/wiki/File:Wind_turbine_blades_in_laydown_yard_Pasco_2009_fins.jpg
+- 2023-03-31 Wind turbine 04.jpg by Bärbel Miemietz, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2023-03-31_Wind_turbine_04.jpg
+- 2023-03-31 Wind turbine 03.jpg by Bärbel Miemietz, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2023-03-31_Wind_turbine_03.jpg
+- Wind turbine blade coming south of Selkirk on the A7.jpg by Victuallers, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wind_turbine_blade_coming_south_of_Selkirk_on_the_A7.jpg
+- Wind turbine blades Hanna Alberta 2.jpg by KenWalker, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wind_turbine_blades_Hanna_Alberta_2.jpg
+- N117 Vortexgenerator.jpg by Verne2017, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:N117_Vortexgenerator.jpg
+- Ryse Energy E-5 small wind turbine in Norway.jpg by Munro89, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ryse_Energy_E-5_small_wind_turbine_in_Norway.jpg
+- Wind turbine road (36815969215).jpg by Helena Wright, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Wind_turbine_road_(36815969215).jpg
+- Wind Turbine Blade (7997228085).jpg by Idaho National Laboratory, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Wind_Turbine_Blade_(7997228085).jpg
+- Turbine Blade Transport CR322 01.jpg by Hejnjahns, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Turbine_Blade_Transport_CR322_01.jpg
+- Raumlaborberlin, La Maison fontaine, Esplanade Clark, 2014 (14984678907).jpg by art_inthecity from Montréal, CA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Raumlaborberlin,_La_Maison_fontaine,_Esplanade_Clark,_2014_(14984678907).jpg
+- Raumlaborberlin, La Maison fontaine, Esplanade Clark, 2014 (14984595789).jpg by art_inthecity from Montréal, CA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Raumlaborberlin,_La_Maison_fontaine,_Esplanade_Clark,_2014_(14984595789).jpg
+- 2023-03-31 Wind turbine 06.jpg by Bärbel Miemietz, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2023-03-31_Wind_turbine_06.jpg
+- 2023-03-31 Wind turbine 07.jpg by Bärbel Miemietz, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2023-03-31_Wind_turbine_07.jpg
+- Ice-at-rotor-blade-of-wind-turbine.jpg by Fos4X, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Ice-at-rotor-blade-of-wind-turbine.jpg
+- Inside the nacelle.jpg by Lauri Veerde, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Inside_the_nacelle.jpg
+- NASA Aircraft in the Hangar at Lewis Research Center (GRC-1970-C-03022).jpg by NASA Glenn Research Center, Public domain, https://commons.wikimedia.org/wiki/File:NASA_Aircraft_in_the_Hangar_at_Lewis_Research_Center_(GRC-1970-C-03022).jpg
+- OpenRovProjetCh'tiPlouf2017a6Nacelle.jpg by Lamiot, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:OpenRovProjetCh%27tiPlouf2017a6Nacelle.jpg
+- Wind turbine construction, Pougny, E6-10, nacelle.jpg by Cjp24, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wind_turbine_construction,_Pougny,_E6-10,_nacelle.jpg
+- Nordtank NTK 1500 wind turbine nacelle in Gammelby (Germany).jpg by Windkraftfan SH, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Nordtank_NTK_1500_wind_turbine_nacelle_in_Gammelby_(Germany).jpg
+- Skystream Nacelle-0003.jpg by Paul Gipe, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Skystream_Nacelle-0003.jpg
+- Vestas V17-75kW wind turbine nacelle in Husum.jpg by Windkraftfan SH, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Vestas_V17-75kW_wind_turbine_nacelle_in_Husum.jpg
+- Looking Up The Wind Turbine Tower, Byron, Wisconsin, 2007-05-05.jpg by Michael Pereckas, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Looking_Up_The_Wind_Turbine_Tower,_Byron,_Wisconsin,_2007-05-05.jpg
+- Nowy Tomysl Eastern Wind Turbine Looking Up 16092015.JPG by Zonk43, CC BY 3.0, https://commons.wikimedia.org/wiki/File:Nowy_Tomysl_Eastern_Wind_Turbine_Looking_Up_16092015.JPG
+- Wind turbine looking up Wolfe Island, Ontario, Canada.jpg by Richard Kohar, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wind_turbine_looking_up_Wolfe_Island,_Ontario,_Canada.jpg
+- Hiller XHOE-1 Hornet - DPLA - cd5d7372b219be9958abee336fece0c3 (page 3).jpg by United Helicopters Incorporated, CC0, https://commons.wikimedia.org/wiki/File:Hiller_XHOE-1_Hornet_-_DPLA_-_cd5d7372b219be9958abee336fece0c3_(page_3).jpg
+- 2023-03-31 Wind turbine 08.jpg by Bärbel Miemietz, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:2023-03-31_Wind_turbine_08.jpg
+- Wind turbine blade transport I-35.jpg by Alexi Kostibas from Anywhere, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Wind_turbine_blade_transport_I-35.jpg
+- Wind turbine blade in transport, southern Idaho.jpg by Greg Goebel from Loveland CO, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Wind_turbine_blade_in_transport,_southern_Idaho.jpg
+- Wind turbine blade IA2.jpg by Acroterion, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Wind_turbine_blade_IA2.jpg
+- Wind Turbine Blade Delivery at Golspie, Sutherland - geograph.org.uk - 6696375.jpg by Andrew Tryon, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Wind_Turbine_Blade_Delivery_at_Golspie,_Sutherland_-_geograph.org.uk_-_6696375.jpg
+- Offshore Wind Farm Foundation, Nigg Energy Park (geograph 6656608).jpg by Graeme Yuill, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Offshore_Wind_Farm_Foundation,_Nigg_Energy_Park_(geograph_6656608).jpg
+- Middelgrunden wind farm 2009-07-01 edit filtered.jpg by Photo by Kim Hansen. Postprocessing (crop, rotation, color adjustment, dust spot removal and noise reduction) by Richard Bartz and Kim Hansen., CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Middelgrunden_wind_farm_2009-07-01_edit_filtered.jpg
+- Towards Burbo Bank Offshore Wind Farm from Leasowe Lighthouse.jpg by Rodhullandemu, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Towards_Burbo_Bank_Offshore_Wind_Farm_from_Leasowe_Lighthouse.jpg
+- Wind turbine (xndr).jpg by Svdmolen, CC BY 2.5, https://commons.wikimedia.org/wiki/File:Wind_turbine_(xndr).jpg
+- Windfloat floating offshore foundation, Póvoa de Varzim, Portugal 431 016 006 (29052799303).jpg by U.S. Department of Energy from United States, Public domain, https://commons.wikimedia.org/wiki/File:Windfloat_floating_offshore_foundation,_P%C3%B3voa_de_Varzim,_Portugal_431_016_006_(29052799303).jpg
+- Middelgrunden offshore wind farm 03.jpg by Kritzolina, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Middelgrunden_offshore_wind_farm_03.jpg
+- Leasing Process Timeline of Offshore Wind Development.jpg by Department of the Interior (DOI), Public domain, https://commons.wikimedia.org/wiki/File:Leasing_Process_Timeline_of_Offshore_Wind_Development.jpg

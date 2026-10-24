@@ -1,0 +1,82 @@
+# Photo credits: Why Are Mining Truck Tires Taller Than a Person?
+
+All photos from Wikimedia Commons.
+
+- CAT 797 SDB BHPBilliton Escondida Chile 2 HR.jpg by Duratray, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:CAT_797_SDB_BHPBilliton_Escondida_Chile_2_HR.jpg
+- Caterpillar Tinaja Hills Demonstration & Learning Center (22633245091).jpg by MINING.com, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Caterpillar_Tinaja_Hills_Demonstration_%26_Learning_Center_(22633245091).jpg
+- Caterpillar Tinaja Hills Demonstration & Learning Center (22608300812).jpg by MINING.com, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Caterpillar_Tinaja_Hills_Demonstration_%26_Learning_Center_(22608300812).jpg
+- Caterpillar Tinaja Hills Demonstration & Learning Center (22596021506).jpg by MINING.com, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Caterpillar_Tinaja_Hills_Demonstration_%26_Learning_Center_(22596021506).jpg
+- Caterpillar Tinaja Hills Demonstration & Learning Center (22608490822).jpg by MINING.com, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Caterpillar_Tinaja_Hills_Demonstration_%26_Learning_Center_(22608490822).jpg
+- Caterpillar Tinaja Hills Demonstration & Learning Center (22434091370).jpg by MINING.com, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Caterpillar_Tinaja_Hills_Demonstration_%26_Learning_Center_(22434091370).jpg
+- Macrothylacia rubi (larva) - Fox moth (caterpillar) - Коконопряд малинный (гусеница) (39195121540).jpg by Ilia Ustyantsev from Russia, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Macrothylacia_rubi_(larva)_-_Fox_moth_(caterpillar)_-_%D0%9A%D0%BE%D0%BA%D0%BE%D0%BD%D0%BE%D0%BF%D1%80%D1%8F%D0%B4_%D0%BC%D0%B0%D0%BB%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_(%D0%B3%D1%83%D1%81%D0%B5%D0%BD%D0%B8%D1%86%D0%B0)_(39195121540).jpg
+- Stories From The Road Museum, Solomontown 20241026-142429.jpg by RegionVisitor90, CC0, https://commons.wikimedia.org/wiki/File:Stories_From_The_Road_Museum,_Solomontown_20241026-142429.jpg
+- Sunrise Dam Gold Mine open pit 04.jpg by Calistemon, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sunrise_Dam_Gold_Mine_open_pit_04.jpg
+- Sunrise Dam Gold Mine open pit 06.jpg by Calistemon, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sunrise_Dam_Gold_Mine_open_pit_06.jpg
+- Logan Lake Mining Dump Truck 2.jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Logan_Lake_Mining_Dump_Truck_2.jpg
+- Lectra Haul giant mining truck in Asbestos, Quebec.jpg by Cjp24, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Lectra_Haul_giant_mining_truck_in_Asbestos,_Quebec.jpg
+- Starr-180312-0679-Metrosideros polymorpha-with inch worm caterpillar-Kahikinui-Maui (27366463598).jpg by Forest and Kim Starr, CC BY 3.0 us, https://commons.wikimedia.org/wiki/File:Starr-180312-0679-Metrosideros_polymorpha-with_inch_worm_caterpillar-Kahikinui-Maui_(27366463598).jpg
+- Feuille morte du chêne, boîte pédagogique.jpg by Édouard Hue & VIGNERON, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Feuille_morte_du_ch%C3%AAne,_bo%C3%AEte_p%C3%A9dagogique.jpg
+- Bell haul truck 2023 (52706446926).jpg by Jon Lavis from Seaford, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Bell_haul_truck_2023_(52706446926).jpg
+- Lectra Haul giant mining truck-Asbestos, Quebec.jpg by Cjp24, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Lectra_Haul_giant_mining_truck-Asbestos,_Quebec.jpg
+- Tire Transport Truck (46038169192).jpg by Chris Hunkeler from Carlsbad, California, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Tire_Transport_Truck_(46038169192).jpg
+- Mining Equipment.jpg by Wald-Burger8, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Mining_Equipment.jpg
+- Mont Wright Mine haul truck in for maintenance - see the maintenance crew?.jpg by sf-dvs, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Mont_Wright_Mine_haul_truck_in_for_maintenance_-_see_the_maintenance_crew%3F.jpg
+- WABCO haul truck at Britannia Mines Museum.jpg by Phil Whitehouse from London, United Kingdom, CC BY 2.0, https://commons.wikimedia.org/wiki/File:WABCO_haul_truck_at_Britannia_Mines_Museum.jpg
+- Dump Truck (6998549387).jpg by Penny Higgins from Williamson, NY, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Dump_Truck_(6998549387).jpg
+- Small haul truck (Fermont, Quebec).jpg by sf-dvs, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Small_haul_truck_(Fermont,_Quebec).jpg
+- Right side of the Mont Wright mine - orange is iron, black spec is haul truck.jpg by sf-dvs, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Right_side_of_the_Mont_Wright_mine_-_orange_is_iron,_black_spec_is_haul_truck.jpg
+- Big, big tires (8093997590).jpg by ajmexico from Melbourne, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Big,_big_tires_(8093997590).jpg
+- A HUGE COAL TRUCK WITH TIRES EIGHT FEET HIGH POWERS TOWARDS A HANNA COAL COMPANY PROCESSING AREA OFF ROUTE 100, NEAR... - NARA - 554832.jpg by Erik Calonius, Public domain, https://commons.wikimedia.org/wiki/File:A_HUGE_COAL_TRUCK_WITH_TIRES_EIGHT_FEET_HIGH_POWERS_TOWARDS_A_HANNA_COAL_COMPANY_PROCESSING_AREA_OFF_ROUTE_100,_NEAR..._-_NARA_-_554832.jpg
+- 26 tire truck n Senegal.jpg by Lyfengine, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:26_tire_truck_n_Senegal.jpg
+- Truck transport in Moscow.jpg by Alexei Kuznetsov, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Truck_transport_in_Moscow.jpg
+- The huge monument of Tire at JR Kyushu Kurume station.JPG by Twilight2640, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:The_huge_monument_of_Tire_at_JR_Kyushu_Kurume_station.JPG
+- Monument of tire in front of Kurume Station.jpg by そらみみ, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Monument_of_tire_in_front_of_Kurume_Station.jpg
+- Big O Tires Bigfoot AT.jpg by Alan Levine, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Big_O_Tires_Bigfoot_AT.jpg
+- Big O Tires in North Dakota..jpg by KfrostTBC, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Big_O_Tires_in_North_Dakota..jpg
+- Caterpillar 797 Truck2.jpg by Dionisius Purba from Singapore, Singapore, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Caterpillar_797_Truck2.jpg
+- Giant Mining Truck.jpg by Pete Markham from Loretto, USA, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Giant_Mining_Truck.jpg
+- Lectra Haul giant mining truck-Hoses.jpg by Cjp24, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Lectra_Haul_giant_mining_truck-Hoses.jpg
+- Howo Sinotruk TX rigid truck (Mining Indonesia 2026).jpg by Sulthan Naufal, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Howo_Sinotruk_TX_rigid_truck_(Mining_Indonesia_2026).jpg
+- Threlkeld Quarry Steam Galas Covered Wagon, Uncovered Velocette.jpg by ARG_Flickr, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Threlkeld_Quarry_Steam_Galas_Covered_Wagon,_Uncovered_Velocette.jpg
+- KOMATSU 930E-2.JPG by Gamera866, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:KOMATSU_930E-2.JPG
+- 930E-2.jpg by Gamera866, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:930E-2.jpg
+- Cripple Creek Diatreme (Early Oligocene, 32 Ma; East Cresson Pit, Cripple Creek Mining District, Colorado, USA) 16.jpg by James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Cripple_Creek_Diatreme_(Early_Oligocene,_32_Ma;_East_Cresson_Pit,_Cripple_Creek_Mining_District,_Colorado,_USA)_16.jpg
+- Cripple Creek Diatreme (Early Oligocene, 32 Ma; East Cresson Pit, Cripple Creek Mining District, Colorado, USA) 19.jpg by James St. John, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Cripple_Creek_Diatreme_(Early_Oligocene,_32_Ma;_East_Cresson_Pit,_Cripple_Creek_Mining_District,_Colorado,_USA)_19.jpg
+- Komatsu HD605 Dump Truck (12716020333).jpg by Martin Cooper from Ipswich, UK, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Komatsu_HD605_Dump_Truck_(12716020333).jpg
+- Atherton fire engine in New Farm Park.jpg by Queensland State Archives, PDM-owner, https://commons.wikimedia.org/wiki/File:Atherton_fire_engine_in_New_Farm_Park.jpg
+- Komatsu 930E Monster truck.jpg by Cvmontuy, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Komatsu_930E_Monster_truck.jpg
+- Unit Rig Lectra haul truck 143 at Wright Centennial Museum in Wright, Wyoming (1).jpg by Mr. Satterly, CC0, https://commons.wikimedia.org/wiki/File:Unit_Rig_Lectra_haul_truck_143_at_Wright_Centennial_Museum_in_Wright,_Wyoming_(1).jpg
+- Unit Rig Lectra haul truck 143 at Wright Centennial Museum in Wright, Wyoming (2).jpg by Mr. Satterly, CC0, https://commons.wikimedia.org/wiki/File:Unit_Rig_Lectra_haul_truck_143_at_Wright_Centennial_Museum_in_Wright,_Wyoming_(2).jpg
+- Komatsu Muldenkipper HD605-7 2444.jpg by Michael KR, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Komatsu_Muldenkipper_HD605-7_2444.jpg
+- The Retired Fuso Hauling Truck in Luodong Forestry Culture Park.jpg by Tbatb, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:The_Retired_Fuso_Hauling_Truck_in_Luodong_Forestry_Culture_Park.jpg
+- Leyland prime mover hauling a semitrailer loaded with sawn timber, Elgin Vale, circa 1934.jpg by Unknown authorUnknown author, Public domain, https://commons.wikimedia.org/wiki/File:Leyland_prime_mover_hauling_a_semitrailer_loaded_with_sawn_timber,_Elgin_Vale,_circa_1934.jpg
+- Perlini-haul truck-03.jpg by Asurnipal, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Perlini-haul_truck-03.jpg
+- Perlini-haul truck-05.jpg by Asurnipal, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Perlini-haul_truck-05.jpg
+- Ferrexpo autonomous truck.jpg by RobSimmons223311, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ferrexpo_autonomous_truck.jpg
+- Beyond the Deep, to the most remote place on Earth (9527779732).jpg by Steve Jurvetson from Los Altos, USA, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Beyond_the_Deep,_to_the_most_remote_place_on_Earth_(9527779732).jpg
+- RASSOR Excavation Testing Swamp Works (KSC-20250603-PH-FMX01 0039).jpg by NASA Kennedy Space Center / NASA/Frank Michaux, Public domain, https://commons.wikimedia.org/wiki/File:RASSOR_Excavation_Testing_Swamp_Works_(KSC-20250603-PH-FMX01_0039).jpg
+- BHP Yandi mine seen from the air, June 2022 01.jpg by Calistemon, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:BHP_Yandi_mine_seen_from_the_air,_June_2022_01.jpg
+- BHP Yandi mine seen from the air, June 2022 02.jpg by Calistemon, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:BHP_Yandi_mine_seen_from_the_air,_June_2022_02.jpg
+- Open pit mine.jpg by Irene2005, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Open_pit_mine.jpg
+- Sunrise Dam Gold Mine open pit 11.jpg by Calistemon, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sunrise_Dam_Gold_Mine_open_pit_11.jpg
+- BelAZ 75710 1.png by Hasan Hüseyin Kulak, CC BY 3.0, https://commons.wikimedia.org/wiki/File:BelAZ_75710_1.png
+- BelAZ-75710 - UMMC Museum Complex.jpg by Лапоть, CC0, https://commons.wikimedia.org/wiki/File:BelAZ-75710_-_UMMC_Museum_Complex.jpg
+- Moscow. VDNKh. BelAZ 75581 P4111574 2600.jpg by Alexxx1979, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Moscow._VDNKh._BelAZ_75581_P4111574_2600.jpg
+- Жодзіна.Галоўны ўваход БелАЗа.jpg by Павел Шапецька, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:%D0%96%D0%BE%D0%B4%D0%B7%D1%96%D0%BD%D0%B0.%D0%93%D0%B0%D0%BB%D0%BE%D1%9E%D0%BD%D1%8B_%D1%9E%D0%B2%D0%B0%D1%85%D0%BE%D0%B4_%D0%91%D0%B5%D0%BB%D0%90%D0%97%D0%B0.jpg
+- Logan Lake Mining Dump Truck 1.jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Logan_Lake_Mining_Dump_Truck_1.jpg
+- Logan Lake Mining Execavator (509924901).jpg by dave_7 from Lethbridge, Canada, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Logan_Lake_Mining_Execavator_(509924901).jpg
+- Lake by Woolwichgreen Farm - geograph.org.uk - 2697651.jpg by Stuart Logan, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Lake_by_Woolwichgreen_Farm_-_geograph.org.uk_-_2697651.jpg
+- Perlini-haul truck-02.jpg by Asurnipal, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Perlini-haul_truck-02.jpg
+- WABCO 3200B.jpg by The Cosmonaut, CC BY-SA 2.5 ca, https://commons.wikimedia.org/wiki/File:WABCO_3200B.jpg
+- Sunrise Dam Gold Mine open pit 05.jpg by Calistemon, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sunrise_Dam_Gold_Mine_open_pit_05.jpg
+- Sunrise Dam Gold Mine open pit 08.jpg by Calistemon, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Sunrise_Dam_Gold_Mine_open_pit_08.jpg
+- Unit Rig Lectra haul truck 143 at Wright Centennial Museum in Wright, Wyoming (3).jpg by Mr. Satterly, CC0, https://commons.wikimedia.org/wiki/File:Unit_Rig_Lectra_haul_truck_143_at_Wright_Centennial_Museum_in_Wright,_Wyoming_(3).jpg
+- Haul Truck JHB.jpg by Willem van Valkenburg, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Haul_Truck_JHB.jpg
+- Mercedes-Benz Arocs - dump truck version (1).JPG by High Contrast, CC BY 3.0 de, https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Arocs_-_dump_truck_version_(1).JPG
+- Howo Sinotruk Mining Dump Truck (Mining Indonesia 2026).jpg by Sulthan Naufal, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Howo_Sinotruk_Mining_Dump_Truck_(Mining_Indonesia_2026).jpg
+- Haul truck under repair at Brockman 4, September 2018.jpg by Calistemon, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Haul_truck_under_repair_at_Brockman_4,_September_2018.jpg
+- Perlini-haul truck-04.jpg by Asurnipal, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Perlini-haul_truck-04.jpg
+- Euclid truck at Israel trucks museum.jpg by DGtal, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Euclid_truck_at_Israel_trucks_museum.jpg
+- Belaz haul truck and a Hitachi mining excavator.jpg by Sandrerro;
+
+Original uploader was Sandrerro at ru.wikipedia, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Belaz_haul_truck_and_a_Hitachi_mining_excavator.jpg

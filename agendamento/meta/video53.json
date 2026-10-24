@@ -1,0 +1,74 @@
+{
+ "title": "Why Do Wind Turbines Have Only 3 Blades?",
+ "description": "Look at almost any modern wind turbine on Earth and you will count the same number of blades. Three. Not two, not four, not twenty like an old farm windmill. Three. Engineers tried everything else, one blade, two blades, many blades, and almost all of them lost. Today, eleven parts of a wind turbine, and why each one exists, starting with that magic number.\n\nMachine Reverse takes apart the machines you see every day and explains, part by part, why each one exists. This video covers 11 parts.\n\nChapters:\n0:00 Intro\n1:08 1. The three blades\n2:30 2. The ring of bolts at the root\n3:45 3. The hub that turns the blades\n4:58 4. The little fins on the blade\n6:03 5. The blade tip that catches lightning\n7:14 6. The workers hanging on the blade\n8:28 7. The ice on the blade\n9:39 8. The machine room on top\n10:56 9. The ladder inside the tower\n12:00 10. The blade on the road\n13:03 11. The legs under the sea\n14:16 The verdict\n\nSources:\n- Why three blades (Betz limit 59.3%, two-blade yaw imbalance, tip speed and noise): Wikipedia, \"Wind turbine design\" https://en.wikipedia.org/wiki/Wind_turbine_design ; NREL / US DOE, \"How Do Wind Turbines Work?\" https://www.energy.gov/eere/wind/how-do-wind-turbines-work\n- Blade root bolts and fatigue: Wikipedia, \"Wind turbine blade\" https://en.wikipedia.org/wiki/Wind_turbine_blade\n- Pitch control, feathering, cut-out speed (~25 m/s), independent pitch backup: Wikipedia, \"Blade pitch\" https://en.wikipedia.org/wiki/Blade_pitch ; Wikipedia, \"Wind turbine design\"\n- Vortex generators on blades: Wikipedia, \"Vortex generator\" https://en.wikipedia.org/wiki/Vortex_generator ; Siemens Gamesa / LM Wind Power product notes\n- Lightning protection (receptors, down conductors), IEC 61400-24: Wikipedia, \"Wind turbine\" (lightning section) https://en.wikipedia.org/wiki/Wind_turbine\n- Leading edge erosion (tip speeds ~80-90 m/s), rope access repair: DTU Wind Energy research; Wikipedia, \"Wind turbine blade\"\n- Icing, ice throw, blade heating: Wikipedia, \"Wind turbine\" ; VTT / IEA Wind Task 19 \"Wind energy in cold climates\" https://iea-wind.org/task19/\n- Nacelle, gearbox and direct drive, yaw system: Wikipedia, \"Wind turbine design\" ; Enercon direct drive https://www.enercon.de/\n- Tower ladders, service lifts and fall protection: US DOE / OSHA wind energy safety https://www.osha.gov/green-jobs/wind-energy\n- Blade transport (blade lifter trailers) and longest blades (100 m offshore): Wikipedia, \"Wind turbine blade\"\n- Offshore foundations (monopile, jacket, floating): Wikipedia, \"Offshore wind power\" https://en.wikipedia.org/wiki/Offshore_wind_power\n\nPhotos from Wikimedia Commons. Full credits and licenses: https://github.com/viniciushoscher-ctrl/machine-reverse/blob/main/agendamento/creditos/video53.md\n\n#engineering #machines #whydoesthisexist",
+ "tags": [
+  "wind turbines have only blades",
+  "wind",
+  "turbines",
+  "have",
+  "only",
+  "blades",
+  "engineering",
+  "how it works",
+  "why does this exist",
+  "machine reverse",
+  "engineering explained"
+ ],
+ "shorts": [
+  {
+   "file": "short1.mp4",
+   "title": "Why Do Wind Turbines Have Only 3 Blades? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Wind Turbines Have Only 3 Blades?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short2.mp4",
+   "title": "Why Is a Wind Turbine Blade Held by a Ring of Bolts? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Wind Turbines Have Only 3 Blades?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short3.mp4",
+   "title": "Why Can Wind Turbine Blades Twist? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Wind Turbines Have Only 3 Blades?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short4.mp4",
+   "title": "Why Do Wind Turbine Blades Have Little Fins? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Wind Turbines Have Only 3 Blades?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short5.mp4",
+   "title": "Why Do Wind Turbine Blades Catch Lightning on Purpose? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Wind Turbines Have Only 3 Blades?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short6.mp4",
+   "title": "Why Do People Hang From Wind Turbine Blades? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Wind Turbines Have Only 3 Blades?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short7.mp4",
+   "title": "Why Is Ice on a Wind Turbine Blade So Dangerous? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Wind Turbines Have Only 3 Blades?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short8.mp4",
+   "title": "Why Is There a Whole Room on Top of a Wind Turbine? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Wind Turbines Have Only 3 Blades?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short9.mp4",
+   "title": "Why Do Wind Turbine Technicians Climb a 100 Meter Ladder? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Wind Turbines Have Only 3 Blades?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short10.mp4",
+   "title": "Why Are Wind Turbine Blades So Hard to Move? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Wind Turbines Have Only 3 Blades?\" on Machine Reverse.\n#shorts #engineering"
+  },
+  {
+   "file": "short11.mp4",
+   "title": "Why Do Offshore Wind Turbines Stand on Steel Legs? #Shorts",
+   "description": "Why does this exist? The full story: \"Why Do Wind Turbines Have Only 3 Blades?\" on Machine Reverse.\n#shorts #engineering"
+  }
+ ]
+}
