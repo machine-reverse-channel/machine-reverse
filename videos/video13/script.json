@@ -24,10 +24,14 @@
    "text": "Why doesn't the space station fall down? Because it is moving sideways at about seven point six seven kilometers every second, twenty-seven thousand six hundred kilometers an hour. It does fall toward Earth, but the Earth's surface curves away as fast as the station drops. So it falls around the planet, over and over, completing a lap in about ninety-three minutes, fifteen and a half orbits every day.",
    "query": "International Space Station orbit Earth",
    "caption": "WHY DOESN'T THIS FALL DOWN?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "1. The station that never lands",
    "short": "Why Doesn't the Space Station Fall Down?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:STS-134 International Space Station after undocking.jpg"
   },
   {
    "text": "Think of throwing a ball. The harder you throw, the farther it lands. Throw it hard enough, and the ground curves away beneath it before it lands. That is an orbit. The astronauts feel weightless not because gravity is gone, but because they and the station are falling together.",
@@ -43,10 +47,14 @@
    "text": "Why does the station have such enormous wings? They are solar arrays, and there are eight of them. Each one is thirty-five meters long and twelve meters wide, and each makes close to thirty-one kilowatts in direct sunlight. All eight together make about two hundred forty kilowatts in the sun, and on average, a bit less than half of that, because of the shade.",
    "query": "International Space Station solar array",
    "caption": "WHY ARE THESE WINGS SO HUGE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.4
+   },
    "chapter": "2. The giant solar wings",
    "short": "Why Does the Space Station Have Such Giant Solar Wings?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Earth horizon and International Space Station solar panel array (Expedition 17 crew, August 2008).jpg"
   },
   {
    "text": "Every ninety minute lap, the station spends about thirty-five minutes in the Earth's shadow. During that time, batteries take over. The battery system goes through sixteen charge and discharge cycles every day, which is why the batteries are one of the parts the crew has to replace over the years.",
@@ -62,10 +70,14 @@
    "text": "Why do the solar wings keep turning? To follow the Sun. The station circles the Earth every ninety minutes, so the Sun appears to move across the sky very fast. A rotating joint called the alpha gimbal turns the arrays to face it, and a second joint, the beta gimbal, adjusts for the angle of the orbit. A solar panel that does not face the Sun makes much less power.",
    "query": "International Space Station solar array rotary joint",
    "caption": "WHY DO THE SOLAR WINGS KEEP TURNING?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.33,
+    "y": 0.33
+   },
    "chapter": "3. The rotating joints",
    "short": "Why Do the Space Station's Solar Wings Keep Turning?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Portion of the International Space Station (4615081313).jpg"
   },
   {
    "text": "The station keeps its body pointed at the Earth, while its wings turn to follow the Sun. Those two jobs need different directions, so the joints do the work of a sunflower, all day, every day.",
@@ -81,10 +93,14 @@
    "text": "Why does the station have giant white panels next to its solar wings? They are radiators. Every computer, light and astronaut makes heat, and in space there is no air to carry it away. The only way to get rid of heat in a vacuum is to radiate it as infrared light, so the station circulates liquid through pipes to the panels, which shine the heat out into space.",
    "query": "International Space Station radiator panels",
    "caption": "WHY ARE THESE WHITE PANELS HERE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.57
+   },
    "chapter": "4. The white radiator panels",
    "short": "Why Does the Space Station Have Giant White Panels?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:International Space Station radiators and solar arrays ESA21792677.jpeg"
   },
   {
    "text": "The truss that carries the solar arrays also carries the radiators. Together, the two sets of panels are the station's lungs and its power supply, one bringing energy in and the other letting energy out.",
@@ -100,10 +116,14 @@
    "text": "Why does the station have a giant metal spine? It is called the Integrated Truss Structure, built of ten segments, about one hundred eight meters long. It is the backbone that holds the solar arrays and radiators, far enough from the living modules so the wings do not shade the crew, or each other.",
    "query": "International Space Station integrated truss structure",
    "caption": "WHY IS THERE A GIANT SPINE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "5. The long truss",
    "short": "Why Does the Space Station Have a Giant Metal Spine?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:ISS Truss structure.jpg"
   },
   {
    "text": "A truss is a very light way to be very long. It is made of simple bars, with mostly empty space between them. That lets the station carry large wings and panels without the weight of a solid beam, which matters when every kilogram has to be launched on a rocket.",
@@ -119,10 +139,14 @@
    "text": "Why does the station have a dome made of windows? It is called the Cupola, and it has seven windows, with a round one in the middle about eighty centimeters across. It is the control room for the robotic arm, a place from which astronauts can see the outside of the station and the spacecraft arriving to dock.",
    "query": "International Space Station Cupola",
    "caption": "WHY DOES THE STATION HAVE A GLASS DOME?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "6. The Cupola",
    "short": "Why Does the Space Station Have a Glass Dome?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Cupola ISS open shutters.jpg"
   },
   {
    "text": "Moving a robot arm, or catching a cargo ship with it, is much easier when you can look at it with your own eyes. Cameras help, but a window gives the view and the depth that screens can not. It is also where astronauts go to look at the Earth.",
@@ -138,10 +162,14 @@
    "text": "How does the station keep itself pointed the right way without burning fuel? With four giant spinning wheels, called control moment gyroscopes, mounted on the truss. Tilt a spinning wheel and it pushes back on the station, turning it. They keep the station at a steady angle to the Earth, and they use only electricity from the solar arrays.",
    "query": "International Space Station control moment gyroscope",
    "caption": "WHY DOES THE STATION HAVE GIANT SPINNING WHEELS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.45
+   },
    "chapter": "7. The control gyroscopes",
    "short": "How Does the Space Station Turn Without Using Fuel?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:ISS gyroscope.jpg"
   },
   {
    "text": "Rocket thrusters can do the same job, but they burn propellant that has to be launched from Earth. Over the years, using the gyroscopes for turns, including turns before Soyuz capsules undock, has saved a lot of propellant.",
@@ -157,10 +185,14 @@
    "text": "How does the station survive the pieces of space junk flying around it? With shields. The walls of many modules have an aluminum outer bumper, and behind it a blanket of Nextel ceramic fabric and Kevlar, with the real wall behind. The design is meant to stop an aluminum ball about one centimeter wide, at speeds of several kilometers a second.",
    "query": "International Space Station debris shield Whipple",
    "caption": "WHY ARE THERE BLANKET SHIELDS ON THE WALLS?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "8. The debris shields",
    "short": "How Does the Space Station Survive Space Junk?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:ATV shielding after impact test ESA313132.jpg"
   },
   {
    "text": "The idea is called a Whipple shield. The outer bumper does not stop the piece. It breaks it up, melts it or turns it into a cloud of fine fragments, and the layers behind spread and absorb what is left. A thin plate with a gap works better than one thick plate.",
@@ -176,10 +208,14 @@
    "text": "Why does a station need engines if it is already in orbit? Because there is still a very thin trace of air at four hundred kilometers, and it drags on the station. Without help, the station loses about two kilometers of altitude every month. So, from time to time, a visiting spacecraft, or the station's own engines, fire to lift it back up.",
    "query": "International Space Station reboost",
    "caption": "WHY DOES THE STATION NEED TO BE PUSHED UP?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.85,
+    "y": 0.25
+   },
    "chapter": "9. The reboost engines",
    "short": "Why Does the Space Station Need to Be Pushed Higher?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:The Progress 91 resupply ship fires its thrusters to reboost the International Space Station (iss073e0429326).jpg"
   },
   {
    "text": "Without those pushes, the orbit would slowly shrink, and eventually the station would fall into the atmosphere and burn up. The station is not simply parked up there. It is slowly being held up, month after month, by people on the ground planning each burn.",
@@ -195,10 +231,14 @@
    "text": "Why does the station have a giant robot arm? It is Canadarm two, and it is the station's crane. It moved the pieces of the station into place during assembly, and since then it has caught visiting cargo ships and moved astronauts to their work sites. The arm walks along the station, hand over hand, changing the end it holds on to.",
    "query": "Canadarm2 International Space Station",
    "caption": "WHY DOES THE STATION HAVE A ROBOT ARM?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.2,
+    "y": 0.55
+   },
    "chapter": "10. The robot arm",
    "short": "Why Does the Space Station Have a Giant Robot Arm?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:ISS-50 Canadarm2 with Dextre robot (ISS050-E-029710, crop).jpg"
   },
   {
    "text": "Ships that bring supplies do not dock by themselves, many of them stop a short distance away, and wait to be grabbed by the arm. It is gentler and safer than trying to fly a spaceship into a docking port at that moment.",

@@ -123,6 +123,16 @@ sc("""Next time you see a shuttle in a museum, look at the belly. It is not a bl
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:STS-114 Discovery thermal protection system (S114-E-6405).jpg", 0.45, 0.5),
+    2: ("File:Discovery - thermal protection tiles.jpg", 0.3, 0.6),
+    3: ("File:Shuttle heat shield.jpg", 0.5, 0.55),
+    4: ("File:Space Shuttle Discovery Nose (29553281).jpeg", 0.5, 0.5),
+    5: ("File:Tested RCC panel with hole.JPG", 0.5, 0.35),
+    6: ("File:STS080-307-012 - STS-080 - View of payload bay doors being opened - DPLA - fe26b5aa28266d55a7585fdad347c49d.jpg", 0.5, 0.4),
+    7: ("File:STS-118 damaged tile.jpg", 0.3, 0.45),
+    8: ("File:Silica Space Shuttle thermal protection (TPS) tile, c 1980. (9663807484).jpg", 0.5, 0.5),
+    9: ("File:S114E5333 - STS-114 - Orbiter Boom Sensor System extended - DPLA - 6e3fd7f915349a5b57eb2372fbdae23d.jpg", 0.4, 0.3),
+    10: ("File:S114E6666 - STS-114 - Gap filler material - DPLA - e059ad12a23a5e6da6f818e73da8fb3d.jpg", 0.45, 0.55),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None

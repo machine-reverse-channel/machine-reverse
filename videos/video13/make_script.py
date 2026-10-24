@@ -123,6 +123,16 @@ sc("""Next time you see the station crossing the night sky, a bright dot that mo
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:STS-134 International Space Station after undocking.jpg", 0.5, 0.5),
+    2: ("File:Earth horizon and International Space Station solar panel array (Expedition 17 crew, August 2008).jpg", 0.55, 0.4),
+    3: ("File:Portion of the International Space Station (4615081313).jpg", 0.33, 0.33),
+    4: ("File:International Space Station radiators and solar arrays ESA21792677.jpeg", 0.45, 0.57),
+    5: ("File:ISS Truss structure.jpg", 0.5, 0.5),
+    6: ("File:Cupola ISS open shutters.jpg", 0.5, 0.5),
+    7: ("File:ISS gyroscope.jpg", 0.5, 0.45),
+    8: ("File:ATV shielding after impact test ESA313132.jpg", 0.5, 0.5),
+    9: ("File:The Progress 91 resupply ship fires its thrusters to reboost the International Space Station (iss073e0429326).jpg", 0.85, 0.25),
+    10: ("File:ISS-50 Canadarm2 with Dextre robot (ISS050-E-029710, crop).jpg", 0.2, 0.55),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None

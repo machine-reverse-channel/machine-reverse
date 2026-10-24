@@ -24,10 +24,14 @@
    "text": "Why is the underside of the shuttle covered in black tiles? Because that is where the heat hits. The black tiles, called high temperature tiles, protect against up to two thousand three hundred degrees Fahrenheit, about one thousand two hundred sixty Celsius. More than twenty thousand of them covered the belly, the landing gear doors and other hot spots. The tile itself is white. The black is a glassy coating that is added on top.",
    "query": "Space Shuttle black tiles underside",
    "caption": "WHY IS THE BELLY BLACK?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.5
+   },
    "chapter": "1. The black belly tiles",
    "short": "Why Is the Space Shuttle's Belly Covered in Black Tiles?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:STS-114 Discovery thermal protection system (S114-E-6405).jpg"
   },
   {
    "text": "The tile is made of silica glass fibers, and it is about ninety percent empty space, with a density of only nine pounds per cubic foot. That is why a tile fresh out of an oven can be held by its edges with a bare hand, while its center is still glowing red. It stores heat well, and releases it slowly, and that gave the shuttle time to land before the heat reached the metal.",
@@ -43,10 +47,14 @@
    "text": "Why are the tiles on top of the shuttle white? Because the top does not get as hot. During reentry the orbiter flew with its nose high and its belly forward, so the upper surfaces were shielded from the worst of it. White low temperature tiles were used where the temperatures stayed below about one thousand two hundred degrees Fahrenheit, six hundred forty-nine Celsius.",
    "query": "Space Shuttle white tiles upper surface",
    "caption": "WHY IS THE TOP WHITE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.3,
+    "y": 0.6
+   },
    "chapter": "2. The white tiles on top",
    "short": "Why Are the Top Tiles of the Space Shuttle White?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Discovery - thermal protection tiles.jpg"
   },
   {
    "text": "White also helped in orbit. The orbiter spent about half of every ninety minute orbit in direct sunlight, and white surfaces reflect much of that heat. Black on the bottom to shed heat, white on top to reflect it. Two colors, two jobs.",
@@ -62,10 +70,14 @@
    "text": "Why are there small gaps between the tiles? Because the tiles are made of ceramic, which is stiff and brittle, and the aluminum skin underneath bends and expands. If the tiles touched each other, they would crack. So the tiles were glued to a felt pad, called a strain isolation pad, which was glued to the skin, and the gaps let everything move without breaking.",
    "query": "Space Shuttle tile gaps",
    "caption": "WHY ARE THERE GAPS BETWEEN THE TILES?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.55
+   },
    "chapter": "3. The gaps between tiles",
    "short": "Why Are There Gaps Between the Space Shuttle's Tiles?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Shuttle heat shield.jpg"
   },
   {
    "text": "The gaps also had to be filled, because hot plasma could flow into them and burn through. Gap fillers, fabric strips placed between the tiles, kept the plasma out while still allowing the tiles to move. A tiny gap is a weak point, and the shuttle had thousands of them.",
@@ -81,10 +93,14 @@
    "text": "Why is the nose of the shuttle a different color from the rest? Because the nose and the leading edges of the wings get hotter than any tile could survive. For those spots, engineers used a material called reinforced carbon-carbon, light gray in color, which can take temperatures of up to about two thousand seven hundred fifty degrees Fahrenheit, one thousand five hundred ten Celsius.",
    "query": "Space Shuttle nose cap",
    "caption": "WHY IS THE NOSE DIFFERENT?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "4. The nose cap",
    "short": "Why Is the Space Shuttle's Nose Not Covered in Tiles?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Space Shuttle Discovery Nose (29553281).jpeg"
   },
   {
    "text": "It is made of layers of carbon fabric, baked until it becomes a hard carbon structure, and then coated to protect it from burning in the air. It is light and strong, and it can handle heat that would melt metal. But it is also much more expensive, and much harder to make, than a tile.",
@@ -100,10 +116,14 @@
    "text": "Why are the front edges of the shuttle's wings gray instead of black? They are made of the same carbon material as the nose, in panels. Each wing had twenty-two of them, numbered one to twenty-two. They sit at the very front of the wing, where the air hits first and the heat is the highest.",
    "query": "Space Shuttle wing leading edge reinforced carbon-carbon",
    "caption": "WHY IS THE WING EDGE GRAY?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.35
+   },
    "chapter": "5. The wing edge panels",
    "short": "Why Are the Space Shuttle's Wing Edges Gray?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Tested RCC panel with hole.JPG"
   },
   {
    "text": "This is also where Columbia was lost. On the first of February, two thousand three, the orbiter broke apart on its way home. A piece of foam from the external tank had hit the left wing's front edge during launch, and the damage let hot gas into the wing during reentry. All seven astronauts were killed.",
@@ -119,10 +139,14 @@
    "text": "Why are some parts of the shuttle covered in soft white material instead of tiles? Because some places barely get hot. On the upper part of the fuselage, the payload bay doors and parts of the sides, the temperature stayed below about seven hundred degrees Fahrenheit, three hundred seventy-one Celsius. There, a blanket of white Nomex felt was enough.",
    "query": "Space Shuttle payload bay doors white blanket",
    "caption": "WHY ARE THESE WHITE PATCHES SOFT?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.4
+   },
    "chapter": "6. The white felt",
    "short": "Why Is Part of the Space Shuttle Covered in White Felt?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:STS080-307-012 - STS-080 - View of payload bay doors being opened - DPLA - fe26b5aa28266d55a7585fdad347c49d.jpg"
   },
   {
    "text": "Felt is lighter than tiles, faster to install, and tougher against impacts. Over the program, more and more areas switched from tiles to blankets, because every pound saved on the heat shield meant a pound more of payload. The shuttle's skin kept being redesigned for the lowest weight.",
@@ -138,10 +162,14 @@
    "text": "Why does every tile have a number written on it? Because no two are the same. About twenty-four thousand three hundred tiles were individually fitted to the orbiter, and they are not interchangeable. The curves of the shuttle's body change from point to point, so each tile had to be cut to fit its own place.",
    "query": "Space Shuttle tile numbers",
    "caption": "WHY DOES EVERY TILE HAVE A NUMBER?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.3,
+    "y": 0.45
+   },
    "chapter": "7. The tile numbers",
    "short": "Why Does Every Space Shuttle Tile Have a Number?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:STS-118 damaged tile.jpg"
   },
   {
    "text": "Each tile was machined by computer from a block, and then checked against the spot where it would go. If a tile was damaged, technicians did not grab a spare from a shelf. They made a new one for that exact position, using its number to find the right shape.",
@@ -157,10 +185,14 @@
    "text": "Why did a spacecraft that flies in space need to be waterproofed? Because the tiles are mostly air, and they act like a sponge. If a tile soaked up rain, it would be heavier, and water that froze or boiled could damage it in flight. So technicians injected a waterproofing chemical into the tiles with a syringe, and added a coating of another material to make it last.",
    "query": "Space Shuttle tile waterproofing",
    "caption": "WHY WAS RAIN A PROBLEM FOR THESE TILES?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "8. The waterproofing",
    "short": "Why Did the Space Shuttle Tiles Need Waterproofing?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Silica Space Shuttle thermal protection (TPS) tile, c 1980. (9663807484).jpg"
   },
   {
    "text": "It sounds almost silly, a rocket ship and a syringe. But a heat shield that fails because of rain on the runway would be an embarrassing way to lose a mission. The details that look the smallest are often the ones that keep the whole thing working.",
@@ -176,10 +208,14 @@
    "text": "Why did the shuttle carry a long boom on its side? After Columbia, NASA added a fifty-foot extension for the robotic arm, called the Orbiter Boom Sensor System, with laser sensors on the end. Astronauts used it to scan the wing edges and the belly in space, looking for cracks or holes. First flown on mission STS-114, in two thousand five.",
    "query": "Space Shuttle OBSS boom inspection",
    "caption": "WHY DOES THE SHUTTLE CARRY A GIANT STICK?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.4,
+    "y": 0.3
+   },
    "chapter": "9. The inspection boom",
    "short": "Why Did the Space Shuttle Carry a Fifty-Foot Boom?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:S114E5333 - STS-114 - Orbiter Boom Sensor System extended - DPLA - 6e3fd7f915349a5b57eb2372fbdae23d.jpg"
   },
   {
    "text": "Before that, the crew had no way to check the heat shield after launch. With the boom, they could look at the wing edges, the nose and the belly, and send the images to the ground, where engineers could decide if the shuttle was safe to bring back.",
@@ -195,10 +231,14 @@
    "text": "Why did an astronaut pull a strip of fabric from the belly of the shuttle in space? On mission STS-114, two gap fillers were sticking out of the tiles on the belly of Discovery, each less than about one point two inches. NASA estimated that, left alone, they could raise the heating during reentry by about twenty-five percent. A strip of fabric had become a safety question.",
    "query": "Space Shuttle STS-114 gap filler",
    "caption": "WHY WAS THIS STRIP SPACE-WALKED OUT?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.55
+   },
    "chapter": "10. The sticking-out gap filler",
    "short": "Why Did an Astronaut Pull a Strip Out of the Space Shuttle?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:S114E6666 - STS-114 - Gap filler material - DPLA - e059ad12a23a5e6da6f818e73da8fb3d.jpg"
   },
   {
    "text": "An astronaut was sent out on the end of the robotic arm, to a spot under the shuttle, and pulled the two fillers out with his hands. The job took only a few minutes, and the shuttle landed safely.",
