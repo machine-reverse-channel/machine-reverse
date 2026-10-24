@@ -114,6 +114,15 @@ sc("""Next time you see the black and white rocket in a museum, you will know th
 
 # Exact photo of each part and where the arrow points (fractions of the 16:9 frame).
 PICKS = {
+    1: ("File:Apollo 11 rollout (KSC-69PC-0234).jpg", 0.36, 0.35),
+    2: ("File:Saturn V's F-1 engines.jpg", 0.55, 0.45),
+    3: ("File:Space Center Houston Rocket Park Saturn V CSM.jpg", 0.72, 0.35),
+    4: ("File:Saturn V Rocket -- Johnson Space Center.jpg", 0.8, 0.33),
+    5: ("File:Saturn Instrument Unit - Evergreen Aviation & Space Museum - McMinnville, Oregon - DSC00846.jpg", 0.6, 0.3),
+    6: ("File:S-II Stage of Saturn V Rocket (67-701-c).jpeg", 0.58, 0.65),
+    7: ("File:Saturn V Rocket Stage S IVB - 1992.jpg", 0.5, 0.5),
+    8: ("File:SaturnV S-IC (cropped).jpg", 0.45, 0.4),
+    9: ("File:Space Center Houston Rocket Park Saturn V CSM.jpg", 0.5, 0.38),
 }
 for s in S:
     n = int(s["chapter"].split(".")[0]) if s.get("short") else None

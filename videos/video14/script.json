@@ -24,10 +24,14 @@
    "text": "Why was the Moon rocket painted black and white? Both colors had a job. The white paint reflected the sunlight, keeping the rocket cool while it sat on the pad in the hot Florida sun. A cooler tank means less fuel boiling off, and a safer rocket. The black markings helped ground cameras measure the roll, the spin of the rocket as it rose.",
    "query": "Saturn V black and white paint",
    "caption": "WHY IS THE ROCKET BLACK AND WHITE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.36,
+    "y": 0.35
+   },
    "chapter": "1. The black and white paint",
    "short": "Why Was the Saturn V Painted Black and White?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Apollo 11 rollout (KSC-69PC-0234).jpg"
   },
   {
    "text": "The early Saturn rockets had more black than the later ones. On those flights, the fuel tanks under the black areas registered heat spikes, because the dark paint absorbed the heat of the Sun. So on later Saturn V rockets, the upper black stripes and the band on the first stage were painted over in white.",
@@ -43,10 +47,14 @@
    "text": "Why does the bottom of the Saturn V have five giant engines? Because the rocket had to lift almost three million kilograms off the ground. The first stage had five Rocketdyne F-1 engines, arranged in a cross with one in the middle, and together they produced about thirty-three thousand kilonewtons of thrust at sea level. That is about seven and a half million pounds.",
    "query": "Saturn V F-1 engines",
    "caption": "WHY DOES IT HAVE FIVE HUGE ENGINES?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.55,
+    "y": 0.45
+   },
    "chapter": "2. The five F-1 engines",
    "short": "Why Does the Saturn V Have Five Giant Engines?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Saturn V's F-1 engines.jpg"
   },
   {
    "text": "The first stage burned for only about one hundred fifty seconds. In two and a half minutes, it used up most of its propellant, kerosene and liquid oxygen, and pushed the rocket up to the edge of space. After that, the huge stage had done all it could do, and it was dropped.",
@@ -62,10 +70,14 @@
    "text": "Why is there a thin tower on the very top of the rocket? It is the Launch Escape System, a rocket motor built to save the crew. If the Saturn V ever started to fail on the pad or in the first minutes, the escape rocket would pull the crew capsule up and away from the exploding rocket, and the capsule would come down on its parachutes.",
    "query": "Saturn V launch escape system tower",
    "caption": "WHY IS THERE A TOWER ON TOP?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.72,
+    "y": 0.35
+   },
    "chapter": "3. The escape tower",
    "short": "Why Does the Saturn V Have a Tower on Top?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Space Center Houston Rocket Park Saturn V CSM.jpg"
   },
   {
    "text": "It is a rocket on top of a rocket, designed to be used only if everything goes wrong. If everything went right, it was never used. On a normal flight, it was dropped shortly after the second stage took over, because by then it was dead weight.",
@@ -81,10 +93,14 @@
    "text": "Why is there a ring between the stages? It is called the interstage, and it joins two stages that burn at different times. Its job comes at the next stage's ignition. About three minutes and twelve seconds into the flight, the interstage ring dropped away from the second stage. The ring was only about one meter from the outer engines, so it had to fall cleanly.",
    "query": "Saturn V interstage",
    "caption": "WHY IS THERE A RING BETWEEN THE STAGES?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.8,
+    "y": 0.33
+   },
    "chapter": "4. The interstage ring",
    "short": "Why Does the Saturn V Have a Ring Between Its Stages?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Saturn V Rocket -- Johnson Space Center.jpg"
   },
   {
    "text": "The second stage engines had to light while still attached to the first stage's top, with the ring around them. When the ring dropped, the engines could burn freely, with nothing in front of the nozzles. Any problem, and the second stage could be damaged.",
@@ -100,10 +116,14 @@
    "text": "What is the ring near the top of the Saturn V? It is the Instrument Unit, the rocket's brain. It sat on top of the third stage and held the guidance, navigation and control equipment. It was designed at the Marshall Space Flight Center and built by IBM. The ring is six point six meters wide and only about ninety-one centimeters tall, and it weighs about two thousand kilograms.",
    "query": "Saturn V instrument unit",
    "caption": "WHAT IS THIS RING NEAR THE TOP?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.6,
+    "y": 0.3
+   },
    "chapter": "5. The instrument ring",
    "short": "What Is the Ring Near the Top of the Saturn V?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Saturn Instrument Unit - Evergreen Aviation & Space Museum - McMinnville, Oregon - DSC00846.jpg"
   },
   {
    "text": "A rocket cannot be steered by a person from the ground at that speed. So the unit measured where the rocket was, compared it to the plan, and told the engines how to point. In the end, the thing that put a spacecraft on its way to the Moon was a ring, a bit taller than a kitchen counter.",
@@ -119,10 +139,14 @@
    "text": "Why did the upper stages of the Saturn V burn a different fuel? The first stage burned kerosene, which is dense and gives a lot of push for its volume. The second and third stages burned liquid hydrogen with liquid oxygen. Hydrogen gives much more energy for each kilogram, which matters most once the rocket is high and every kilogram counts. The second stage used five J-2 engines and burned for about three hundred ninety-five seconds.",
    "query": "Saturn V S-II second stage",
    "caption": "WHY IS THE SECOND STAGE A DIFFERENT FUEL?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.58,
+    "y": 0.65
+   },
    "chapter": "6. The second stage",
    "short": "Why Did the Saturn V's Upper Stages Burn Hydrogen?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:S-II Stage of Saturn V Rocket (67-701-c).jpeg"
   },
   {
    "text": "The price is the cold. Liquid hydrogen has to be kept at hundreds of degrees below zero, and it takes up a lot of room. That is why the second stage was a huge tank, nearly twenty-five meters tall, with so little else around it.",
@@ -138,10 +162,14 @@
    "text": "Why did the third stage fire two times? The first burn, about one hundred sixty-five seconds, put the spacecraft into orbit around the Earth. After a short pause, with the crew checking everything, the single J-2 engine lit a second time, for about three hundred twelve seconds, and sent them toward the Moon. This second burn is called the trans-lunar injection.",
    "query": "Saturn V S-IVB third stage",
    "caption": "WHY DID THE THIRD STAGE LIGHT TWICE?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.5
+   },
    "chapter": "7. The third stage",
    "short": "Why Did the Saturn V's Third Stage Fire Twice?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Saturn V Rocket Stage S IVB - 1992.jpg"
   },
   {
    "text": "Starting in orbit gave the crew time to check the spacecraft before committing to the Moon. If something was wrong, they could stay near Earth. If everything was fine, the second burn took them out. It was a safe way to start a very long trip.",
@@ -157,10 +185,14 @@
    "text": "Why was the first stage so enormous? It stood forty-two meters tall and weighed about two million two hundred thousand kilograms with fuel, most of the rocket's total weight. Almost all of that was propellant. The first stage had to carry its own fuel and the weight of everything above it, and the higher the rocket went, the less it needed to carry, so most of that mass was dropped at the first stage.",
    "query": "Saturn V S-IC first stage Johnson Space Center",
    "caption": "WHY IS THE FIRST STAGE SO TALL?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.45,
+    "y": 0.4
+   },
    "chapter": "8. The giant first stage",
    "short": "Why Is the Saturn V's First Stage So Huge?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:SaturnV S-IC (cropped).jpg"
   },
   {
    "text": "This is the basic problem of rockets. To lift fuel, you need more fuel. A rocket that carries everything to the Moon at once would be impossibly heavy. So it is built in stages, each one throwing away the part that is empty.",
@@ -176,10 +208,14 @@
    "text": "Why is the spacecraft so small compared to the rocket? Because it is the only part that goes to the Moon. The whole Saturn V, almost one hundred twelve meters of it, existed to move one small capsule and a lunar module. Nine of the ten crewed Saturn V flights took twenty-four astronauts to the Moon.",
    "query": "Apollo spacecraft top of Saturn V",
    "caption": "WHY IS THE SPACECRAFT SO SMALL?",
-   "arrow": true,
+   "arrow": {
+    "x": 0.5,
+    "y": 0.38
+   },
    "chapter": "9. The tiny spacecraft on top",
    "short": "Why Is the Apollo Spacecraft So Small Compared to the Saturn V?",
-   "cuts": 3
+   "cuts": 3,
+   "file": "File:Space Center Houston Rocket Park Saturn V CSM.jpg"
   },
   {
    "text": "Everything the astronauts needed, air, food, power and a way home, had to fit in that small space, and every kilogram of it had to be lifted by the rocket below. Engineers fought for every gram, because each gram on the capsule cost far more on the ground.",
