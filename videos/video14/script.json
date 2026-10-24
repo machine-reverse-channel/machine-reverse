@@ -71,8 +71,8 @@
    "query": "Saturn V launch escape system tower",
    "caption": "WHY IS THERE A TOWER ON TOP?",
    "arrow": {
-    "x": 0.72,
-    "y": 0.35
+    "x": 0.74,
+    "y": 0.5
    },
    "chapter": "3. The escape tower",
    "short": "Why Does the Saturn V Have a Tower on Top?",
@@ -94,8 +94,8 @@
    "query": "Saturn V interstage",
    "caption": "WHY IS THERE A RING BETWEEN THE STAGES?",
    "arrow": {
-    "x": 0.8,
-    "y": 0.33
+    "x": 0.7,
+    "y": 0.45
    },
    "chapter": "4. The interstage ring",
    "short": "Why Does the Saturn V Have a Ring Between Its Stages?",
@@ -209,8 +209,8 @@
    "query": "Apollo spacecraft top of Saturn V",
    "caption": "WHY IS THE SPACECRAFT SO SMALL?",
    "arrow": {
-    "x": 0.5,
-    "y": 0.38
+    "x": 0.45,
+    "y": 0.55
    },
    "chapter": "9. The tiny spacecraft on top",
    "short": "Why Is the Apollo Spacecraft So Small Compared to the Saturn V?",
