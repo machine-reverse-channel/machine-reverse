@@ -1,0 +1,5 @@
+Formula 1 halo: FIA technical regulations and FIA Institute reports on cockpit protection (fia.com)
+Autocar: halo and Romain Grosjean's Bahrain 2020 crash
+Formula1.com / FIA: Halo explained, introduced 2018
+Wikipedia: Halo (motorsport); Romain Grosjean; 2020 Bahrain Grand Prix; Henry Surtees; Felipe Massa
+FIA load tests: 125 kN (front), 93 kN (side), 116 kN (rear/top)
