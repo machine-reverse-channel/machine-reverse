@@ -1,0 +1,208 @@
+{
+ "id": "video17",
+ "title": "Why Are Satellites Wrapped in Gold Foil?",
+ "length_scale": 1.6,
+ "scenes": [
+  {
+   "text": "Look at pictures of satellites, and you will see something odd. Many of them look as if they were wrapped in crumpled gold foil, like a giant gift. It is not gold, and it is not for decoration. It is one of the most effective insulators ever invented, and it works in a place where the usual kind of insulation does not work at all. Today, nine parts of that blanket, and of the machines it protects, and why each one exists.",
+   "query": "satellite gold foil insulation",
+   "caption": "WHY GOLD FOIL?",
+   "cuts": 8,
+   "chapter": "Intro"
+  },
+  {
+   "text": "In space there is almost no air, so heat can not travel by touching or by moving air. It travels as radiation, the same way the Sun warms your face. And that changes everything about how you keep something warm, or keep it cool.",
+   "query": "satellite in orbit",
+   "caption": "NO AIR, ONLY RADIATION"
+  },
+  {
+   "text": "As always, every fact here comes from a named source, space agency pages and reference works, all listed in the description. Let's start with the foil itself.",
+   "query": "spacecraft thermal blanket",
+   "caption": "WHY DOES THIS EXIST?"
+  },
+  {
+   "text": "Why are satellites wrapped in gold-colored foil? It is called multi-layer insulation. It is not gold. The gold color comes from an amber-colored plastic called Kapton, laid over a thin silvery layer of aluminized Mylar. The blanket stops heat from flowing in or out of the spacecraft by radiation, which is the main way heat moves in a vacuum.",
+   "query": "spacecraft multi-layer insulation gold foil",
+   "caption": "WHY IS THIS SATELLITE WRAPPED IN GOLD FOIL?",
+   "arrow": true,
+   "chapter": "1. The gold blanket",
+   "short": "Why Are Satellites Wrapped in Gold Foil?",
+   "cuts": 3
+  },
+  {
+   "text": "A typical blanket has forty or more layers, and each one is only about six micrometers thick, thinner than a human hair. The outer layers are thicker and stronger, because they take the damage from dust and sunlight. A forty layer blanket is only about twenty millimeters thick.",
+   "query": "multi-layer insulation blanket layers",
+   "caption": "40 LAYERS, 20 MILLIMETERS"
+  },
+  {
+   "text": "So the gold look is a side effect. The real design is a stack of mirrors, built to bounce heat back where it came from. It just happens that the plastic on top is the color of gold.",
+   "query": "satellite gold blanket close",
+   "caption": "A STACK OF MIRRORS"
+  },
+  {
+   "text": "Why does the blanket need so many layers? Each extra layer cuts the heat that gets through. Imagine one surface at room temperature, radiating about four hundred sixty watts for every square meter. Put a single thin opaque layer a short distance in front of it, and the loss falls to about half, about two hundred thirty watts. Every new layer cuts it further.",
+   "query": "multi-layer insulation reflective layers",
+   "caption": "WHY DOES THIS BLANKET HAVE SO MANY LAYERS?",
+   "arrow": true,
+   "chapter": "2. The stack of layers",
+   "short": "Why Does a Satellite Blanket Have Forty Layers?",
+   "cuts": 3
+  },
+  {
+   "text": "Each layer is a mirror that sends part of the heat back. With dozens of mirrors in a row, almost no heat makes it from the hot side to the cold side. It is like a hall of mirrors that is built to keep light in, but for heat.",
+   "query": "reflective layers heat radiation",
+   "caption": "A HALL OF MIRRORS FOR HEAT"
+  },
+  {
+   "text": "This kind of insulation is described as the most effective kind in cryogenics, the science of very cold things. For cold tanks and instruments, it is a standard way to keep them cold with little weight.",
+   "query": "cryogenic insulation tank",
+   "caption": "THE BEST INSULATOR"
+  },
+  {
+   "text": "Why is there a thin net between the layers? Because the layers must not touch. If two layers touch, heat can flow between them by conduction, and the mirror trick stops working. So the layers are kept apart by an extremely thin cloth mesh, sometimes described as a bridal veil, or by being crinkled so they touch only at a few points.",
+   "query": "multi-layer insulation spacer scrim",
+   "caption": "WHY IS THERE A NET BETWEEN THE LAYERS?",
+   "arrow": true,
+   "chapter": "3. The thin spacer mesh",
+   "short": "Why Is There a Thin Net Between the Foil Layers?",
+   "cuts": 3
+  },
+  {
+   "text": "The spacer has to be almost invisible to heat. It must keep the layers apart, but it can not carry heat between them. That is why it is made as thin and open as possible, a few threads in a lot of empty space.",
+   "query": "thin mesh netting spacer",
+   "caption": "ALMOST INVISIBLE TO HEAT"
+  },
+  {
+   "text": "It is a funny design problem. The best insulator is mostly nothing, held together by something that is almost nothing. And in the vacuum of space, almost nothing is exactly what is needed.",
+   "query": "satellite blanket crinkled foil",
+   "caption": "MOSTLY NOTHING"
+  },
+  {
+   "text": "Why does a blanket made to keep heat out have tiny holes? Because it also has to survive the launch. Air trapped between the layers would expand when the rocket reaches the vacuum, and could balloon or tear the blanket. So holes are made, to let the air out. The price is that perforations reduce the effectiveness of the insulation a little.",
+   "query": "multi-layer insulation vent perforations",
+   "caption": "WHY DOES THE BLANKET HAVE TINY HOLES?",
+   "arrow": true,
+   "chapter": "4. The seams and holes",
+   "short": "Why Do Satellite Blankets Have Tiny Holes?",
+   "cuts": 3
+  },
+  {
+   "text": "The seams and gaps are the other weak point. Most of the heat that leaks through a blanket does it through the seams, not through the layers. That is why engineers put so much care into how a blanket is cut and joined, and sometimes use pins instead of stitches to hold it together.",
+   "query": "spacecraft blanket seams",
+   "caption": "THE SEAMS LEAK"
+  },
+  {
+   "text": "A perfect insulator on paper is never perfect in real life. The honest engineering question is how little leaks out, and the answer is almost always found in the edges.",
+   "query": "satellite blanket edge",
+   "caption": "THE EDGES DECIDE"
+  },
+  {
+   "text": "Why are some blankets stitched with metal parts? In some designs, aluminum spacers replace cloth at the sewn points, so that all the layers stay electrically grounded. Tying every layer to the structure keeps any single layer from floating on its own.",
+   "query": "multi-layer insulation grounding aluminum spacers",
+   "caption": "WHY ARE THERE METAL SPACERS IN THE BLANKET?",
+   "arrow": true,
+   "chapter": "5. The metal in the stitching",
+   "short": "Why Are Some Satellite Blankets Stitched With Metal?",
+   "cuts": 3
+  },
+  {
+   "text": "So every layer is connected to the structure of the spacecraft. The insulation is a thermal part and an electrical part at the same time, and the metal at the stitches is what links one to the other.",
+   "query": "satellite electrostatic charge",
+   "caption": "NO LOOSE LAYERS"
+  },
+  {
+   "text": "It is the sort of detail that nobody sees in the picture. A satellite has to handle electricity as well as the cold and the heat, and even a blanket of foil is part of that design.",
+   "query": "satellite electrical grounding",
+   "caption": "HEAT AND ELECTRICITY"
+  },
+  {
+   "text": "Why does the James Webb Space Telescope have a giant silver shield? It is a sunshield, made of five layers of thin plastic film, each about one tenth of a millimeter thick. Fully open, it is about fourteen by twenty-one meters. Each layer is Kapton with aluminum on both sides, and the two layers closest to the Sun also have a coating of doped silicon.",
+   "query": "James Webb Space Telescope sunshield",
+   "caption": "WHY DOES THIS TELESCOPE HAVE A GIANT SILVER SHIELD?",
+   "arrow": true,
+   "chapter": "6. The giant sunshield",
+   "short": "Why Does the Webb Telescope Have a Giant Sunshield?",
+   "cuts": 3
+  },
+  {
+   "text": "On one side, the Sun, the Earth and the Moon. On the other, a telescope that has to stay colder than fifty kelvin, or minus two hundred twenty-three degrees Celsius. The spacecraft side of the shield sits at about three hundred kelvin, a warm room, while the instruments are in the shade at the other side.",
+   "query": "James Webb telescope sunshield layers",
+   "caption": "A WARM ROOM BESIDE A FREEZER"
+  },
+  {
+   "text": "So the sunshield is the same idea as the gold foil, but scaled up to the size of a tennis court. Layers of mirrors and gaps, stacked to keep the heat on one side, and the cold on the other.",
+   "query": "James Webb Space Telescope deployment",
+   "caption": "THE SAME IDEA, TENNIS COURT SIZE"
+  },
+  {
+   "text": "Why is the mirror of the Webb telescope gold? Because gold is an excellent reflector of infrared light, and infrared is what Webb was built to see. The mirror is made of eighteen hexagonal segments, made of beryllium and plated with gold, that together form a mirror six and a half meters wide. A thin glass layer covers the gold for protection.",
+   "query": "James Webb Space Telescope gold mirror",
+   "caption": "WHY IS THIS MIRROR GOLD?",
+   "arrow": true,
+   "chapter": "7. The gold mirror",
+   "short": "Why Is the Webb Telescope's Mirror Gold?",
+   "cuts": 3
+  },
+  {
+   "text": "Here the gold is real, and the reason is science. Infrared light carries the faint heat of very old, very distant galaxies. A gold mirror collects that light and sends it into the instruments, and almost none is lost.",
+   "query": "James Webb Space Telescope mirror segments",
+   "caption": "REAL GOLD, REAL SCIENCE"
+  },
+  {
+   "text": "Why beryllium? It is a light metal, a good fit for a mirror that has to be carried to space. Webb is a machine where the mirror, the shield and the cold are all one design, and the gold is the part you can see.",
+   "query": "James Webb Space Telescope hexagon mirror",
+   "caption": "ONE DESIGN, ONE GOAL"
+  },
+  {
+   "text": "Why does the Webb telescope have to be so cold? To see infrared light, it can not be warm itself. Anything with heat glows in infrared, and a warm telescope would blind its own detectors. So Webb must stay below fifty kelvin, minus two hundred twenty-three degrees Celsius, so that the faint light of ancient galaxies is not drowned by its own glow.",
+   "query": "James Webb Space Telescope instruments cold",
+   "caption": "WHY MUST THIS TELESCOPE BE SO COLD?",
+   "arrow": true,
+   "chapter": "8. The cold instruments",
+   "short": "Why Must the Webb Telescope Be So Cold?",
+   "cuts": 3
+  },
+  {
+   "text": "Every layer of the sunshield, every blanket and every radiator on the telescope has the job of getting rid of heat, or keeping it out. The whole telescope is a cold machine, built to sit in the shadow of its own shield.",
+   "query": "James Webb telescope thermal",
+   "caption": "BUILT TO BE COLD"
+  },
+  {
+   "text": "A telescope that sees heat, and must hide from heat. That is the strange logic of infrared astronomy, and the gold foil's cousin is the sunshield that makes it work.",
+   "query": "infrared telescope cooling",
+   "caption": "SEES HEAT, HIDES FROM HEAT"
+  },
+  {
+   "text": "Why is the Webb telescope so far from Earth? It sits about one point five million kilometers away, at a point called L2, on the side of Earth opposite from the Sun. From there, the Sun, the Earth and the Moon are all in the same direction, so one sunshield can block all three. Closer to Earth, the planet itself would be one more source of heat to block.",
+   "query": "James Webb Space Telescope L2 orbit",
+   "caption": "WHY DOES THE TELESCOPE FLY SO FAR AWAY?",
+   "arrow": true,
+   "chapter": "9. The faraway orbit",
+   "short": "Why Is the Webb Telescope a Million Miles From Earth?",
+   "cuts": 3
+  },
+  {
+   "text": "It was launched on the twenty-fifth of December, two thousand twenty-one, on an Ariane five rocket from French Guiana. And it works as an example of how the foil and the shield and the orbit are all parts of one solution, to one problem, keeping something cold in a very hot place.",
+   "query": "James Webb launch Ariane 5",
+   "caption": "ONE PROBLEM, ONE SOLUTION"
+  },
+  {
+   "text": "That is the story of gold foil in space. It starts as a blanket on a satellite, and ends as the shield of one of the most advanced telescopes ever built. The idea is the same, the mirror, the gap, and the layers.",
+   "query": "James Webb Space Telescope space",
+   "caption": "FROM BLANKET TO TELESCOPE"
+  },
+  {
+   "text": "So here are the nine. A blanket that looks like gold but is plastic, dozens of layers, a net that keeps them apart, and holes for the launch. Metal that keeps the layers grounded, a sunshield the size of a tennis court, a mirror made of real gold, the cold it protects, and an orbit far from home.",
+   "query": "satellite space sunrise",
+   "caption": "9 PARTS. 9 REASONS.",
+   "chapter": "The verdict",
+   "cuts": 6
+  },
+  {
+   "text": "Next time you see a satellite wrapped in gold, you will know it is a stack of mirrors for heat. If you want more machines explained part by part, subscribe to Machine Reverse. And tell us in the comments which machine you want us to take apart next.",
+   "query": "satellite gold foil museum",
+   "caption": "SUBSCRIBE: MACHINE REVERSE",
+   "cuts": 4
+  }
+ ]
+}
